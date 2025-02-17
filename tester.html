@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>French Vocabulary Test</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
+    <style>
+        .container { max-width: 800px; margin: auto; text-align: center; }
+        .columns { margin-top: 20px; }
+        .correct { background-color: #d4edda; }
+        .incorrect { background-color: #f8d7da; }
+        .hidden { display: none; }
+        .override-checkbox { margin-top: 5px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">French Vocabulary Test</h1>
+        <div class="field">
+            <div class="file has-name is-boxed">
+                <label class="file-label">
+                    <input class="file-input" type="file" id="fileInput" accept=".txt">
+                    <span class="file-cta">
+                        <span class="file-label">Choose a file…</span>
+                    </span>
+                </label>
+            </div>
+        </div>
+        <div id="testForm" class="hidden">
+            <div class="columns is-multiline" id="wordList"></div>
+            <button class="button is-primary" id="checkButton">Check Answers</button>
+            <p id="score" class="mt-4"></p>
+        </div>
+    </div>
+    <script>
+        document.getElementById("fileInput").addEventListener("change", async function () {
+            const file = this.files[0];
+            if (!file) return;
+            const text = await file.text();
+            const entries = text.split("\n").map(line => {
+                const parts = line.split("\t");
+                return parts.length >= 2 ? { english: parts[1].trim(), french: parts[0].trim() } : null;
+            }).filter(Boolean);
+            
+            const wordList = document.getElementById("wordList");
+            wordList.innerHTML = "";
+            entries.forEach((entry, index) => {
+                const div = document.createElement("div");
+                div.classList.add("column", "is-half", "is-one-third-mobile");
+                div.innerHTML = `
+                    <div class="box">
+                        <p><strong>${entry.english}</strong></p>
+                        <input class="input answer" type="text" data-correct="${entry.french}">
+                        <p class="correct-answer hidden">Correct: ${entry.french}</p>
+                        <label class="checkbox hidden override-checkbox">
+                            <input type="checkbox" class="override"> Mark as Correct
+                        </label>
+                    </div>`;
+                wordList.appendChild(div);
+            });
+            document.getElementById("testForm").classList.remove("hidden");
+        });
+        
+        document.getElementById("checkButton").addEventListener("click", function () {
+            let correctCount = 0;
+            const inputs = document.querySelectorAll(".answer");
+            inputs.forEach(input => {
+                const userAnswer = input.value.trim().toLowerCase();
+                const correctAnswer = input.dataset.correct.toLowerCase();
+                const parentBox = input.parentElement;
+                const overrideCheckbox = parentBox.querySelector(".override");
+                if (userAnswer === correctAnswer) {
+                    input.classList.add("correct");
+                    input.classList.remove("incorrect");
+                    correctCount++;
+                } else {
+                    input.classList.add("incorrect");
+                    input.classList.remove("correct");
+                    input.nextElementSibling.classList.remove("hidden");
+                    parentBox.querySelector(".override-checkbox").classList.remove("hidden");
+                }
+            });
+            document.getElementById("score").textContent = `Score: ${correctCount} / ${inputs.length} (${Math.round((correctCount / inputs.length) * 100)}%)`;
+        });
+        
+        document.getElementById("wordList").addEventListener("change", function (event) {
+            if (event.target.classList.contains("override")) {
+                const input = event.target.closest(".box").querySelector(".answer");
+                if (event.target.checked) {
+                    input.classList.remove("incorrect");
+                    input.classList.add("correct");
+                } else {
+                    input.classList.remove("correct");
+                    input.classList.add("incorrect");
+                }
+            }
+        });
+    </script>
+</body>
+</html>

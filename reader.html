@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>French Trainer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
+    <style>
+        .container { max-width: 600px; margin: auto; text-align: center; }
+        #displayWord { font-size: 24px; font-weight: bold; margin-top: 20px; min-height: 100px; display: flex; align-items: center; justify-content: center; }
+        #progress { margin-top: 10px; font-size: 18px; min-height: 30px; }
+        .buttons { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">French Pronunciation Trainer</h1>
+        <div class="field">
+            <div class="file has-name is-boxed">
+                <label class="file-label">
+                    <input class="file-input" type="file" id="fileInput" accept=".txt">
+                    <span class="file-cta">
+                        <span class="file-label">Choose a file…</span>
+                    </span>
+                </label>
+            </div>
+        </div>
+        <div class="field">
+            <label class="label">Repetitions</label>
+            <div class="control">
+                <input class="input" type="number" id="repetitions" min="1" value="1">
+            </div>
+        </div>
+        <div class="field">
+            <label class="checkbox">
+                <input type="checkbox" id="randomize"> Randomize
+            </label>
+        </div>
+        <div id="progress" class="notification is-light"></div>
+        <div id="displayWord" class="box has-background-light"></div>
+        <div class="buttons">
+            <button class="button is-primary" id="trainButton">Train</button>
+            <button class="button is-warning" id="pauseButton">Pause</button>
+            <button class="button is-danger" id="stopButton">Stop</button>
+        </div>
+    </div>
+    <script>
+        let isTraining = false;
+        let isPaused = false;
+        let currentIteration = 0;
+        let totalIterations = 0;
+        let totalEntries = 0;
+        let currentEntry = 0;
+
+        function removeSlashes(word) {
+            return word.replace(/\s*\/\s*/g, ", ");
+        }
+
+        function cleanFrenchWord(word) {
+            return removeSlashes(word
+                .replace(/\(.*?\)/g, "")
+                .replace(/\s+/g, " ")
+                .trim());
+        }
+
+        async function train(entries, repetitions) {
+            totalIterations = repetitions;
+            totalEntries = entries.length;
+            isTraining = true;
+            isPaused = false;
+
+            const displayWord = document.getElementById("displayWord");
+            const progress = document.getElementById("progress");
+
+            const speak = (text, lang) => {
+                return new Promise(resolve => {
+                    if (!isTraining) return resolve();
+                    const utterance = new SpeechSynthesisUtterance(text);
+                    utterance.lang = lang;
+                    utterance.onstart = () => displayWord.textContent = text;
+                    utterance.onend = () => setTimeout(() => { displayWord.textContent = ""; resolve(); }, 500);
+                    speechSynthesis.speak(utterance);
+                });
+            };
+
+            for (currentIteration = 0; currentIteration < repetitions && isTraining; currentIteration++) {
+                for (currentEntry = 0; currentEntry < entries.length; currentEntry++) {
+                    if (!isTraining) return;
+                    while (isPaused) await new Promise(res => setTimeout(res, 200));
+
+                    progress.textContent = `Iteration: ${currentIteration + 1}/${totalIterations} | Pronounced: ${currentEntry + 1}/${totalEntries}`;
+                    await speak(entries[currentEntry].french, "fr-CA");
+                    if (!isTraining) return;
+                    await speak(entries[currentEntry].english, "en-US");
+                    if (!isTraining) return;
+                    await new Promise(res => setTimeout(res, 1000));
+                }
+            }
+        }
+
+        document.getElementById("trainButton").addEventListener("click", async () => {
+            const fileInput = document.getElementById("fileInput").files[0];
+            if (!fileInput) {
+                alert("Please select a file.");
+                return;
+            }
+
+            const repetitions = parseInt(document.getElementById("repetitions").value, 10);
+            const randomize = document.getElementById("randomize").checked;
+            const text = await fileInput.text();
+
+            let entries = text.split("\n").map(line => {
+                const parts = line.split("\t");
+                return parts.length >= 2 ? { french: cleanFrenchWord(parts[0].trim()), english: removeSlashes(parts[1].trim()) } : null;
+            }).filter(Boolean);
+
+            if (randomize) {
+                entries = entries.sort(() => Math.random() - 0.5);
+            }
+
+            train(entries, repetitions);
+        });
+
+        document.getElementById("pauseButton").addEventListener("click", () => {
+            isPaused = !isPaused;
+            document.getElementById("pauseButton").textContent = isPaused ? "Resume" : "Pause";
+            if (!isPaused) train(entries, totalIterations - currentIteration);
+        });
+
+        document.getElementById("stopButton").addEventListener("click", () => {
+            isTraining = false;
+            isPaused = false;
+            speechSynthesis.cancel();
+            document.getElementById("displayWord").textContent = "";
+            document.getElementById("progress").textContent = "";
+        });
+    </script>
+</body>
+</html>
