@@ -43,6 +43,15 @@
             <button class="button is-warning" id="pauseButton">Pause</button>
             <button class="button is-danger" id="stopButton">Stop</button>
         </div>
+        
+        <!-- New section for direct text input -->
+        <div class="field mt-6">
+            <label class="label">Quick French Reader</label>
+            <div class="control">
+                <textarea class="textarea" id="quickText" placeholder="Paste French text here..."></textarea>
+            </div>
+            <button class="button is-info mt-3" id="readButton">Read Text</button>
+        </div>
     </div>
     <script>
         let isTraining = false;
@@ -133,6 +142,20 @@
             speechSynthesis.cancel();
             document.getElementById("displayWord").textContent = "";
             document.getElementById("progress").textContent = "";
+        });
+
+        document.getElementById("readButton").addEventListener("click", async () => {
+            const text = document.getElementById("quickText").value.trim();
+            if (!text) {
+                alert("Please enter some text to read.");
+                return;
+            }
+
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = "fr-CA";
+            utterance.onstart = () => document.getElementById("displayWord").textContent = text;
+            utterance.onend = () => document.getElementById("displayWord").textContent = "";
+            speechSynthesis.speak(utterance);
         });
     </script>
 </body>
