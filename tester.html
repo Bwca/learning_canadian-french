@@ -11,7 +11,6 @@
         .correct { background-color: #d4edda; }
         .incorrect { background-color: #f8d7da; }
         .hidden { display: none; }
-        .override-checkbox { margin-top: 5px; }
     </style>
 </head>
 <body>
@@ -53,8 +52,8 @@
                         <p><strong>${entry.english}</strong></p>
                         <input class="input answer" type="text" data-correct="${entry.french}">
                         <p class="correct-answer hidden">Correct: ${entry.french}</p>
-                        <label class="checkbox hidden override-checkbox">
-                            <input type="checkbox" class="override"> Mark as Correct
+                        <label class="checkbox hidden">
+                            <input type="checkbox" class="override-correct"> Mark as Correct
                         </label>
                     </div>`;
                 wordList.appendChild(div);
@@ -68,8 +67,9 @@
             inputs.forEach(input => {
                 const userAnswer = input.value.trim().toLowerCase();
                 const correctAnswer = input.dataset.correct.toLowerCase();
-                const parentBox = input.parentElement;
-                const overrideCheckbox = parentBox.querySelector(".override");
+                const correctAnswerDisplay = input.nextElementSibling;
+                const checkbox = input.parentElement.querySelector(".override-correct");
+                
                 if (userAnswer === correctAnswer) {
                     input.classList.add("correct");
                     input.classList.remove("incorrect");
@@ -77,25 +77,27 @@
                 } else {
                     input.classList.add("incorrect");
                     input.classList.remove("correct");
-                    input.nextElementSibling.classList.remove("hidden");
-                    parentBox.querySelector(".override-checkbox").classList.remove("hidden");
+                    correctAnswerDisplay.classList.remove("hidden");
                 }
+                
+                checkbox.parentElement.classList.remove("hidden");
+                checkbox.checked = false;
+                checkbox.addEventListener("change", updateScore);
             });
-            document.getElementById("score").textContent = `Score: ${correctCount} / ${inputs.length} (${Math.round((correctCount / inputs.length) * 100)}%)`;
+            updateScore();
         });
         
-        document.getElementById("wordList").addEventListener("change", function (event) {
-            if (event.target.classList.contains("override")) {
-                const input = event.target.closest(".box").querySelector(".answer");
-                if (event.target.checked) {
-                    input.classList.remove("incorrect");
-                    input.classList.add("correct");
-                } else {
-                    input.classList.remove("correct");
-                    input.classList.add("incorrect");
+        function updateScore() {
+            let correctCount = 0;
+            document.querySelectorAll(".answer").forEach(input => {
+                const checkbox = input.parentElement.querySelector(".override-correct");
+                if (input.classList.contains("correct") || checkbox.checked) {
+                    correctCount++;
                 }
-            }
-        });
+            });
+            const total = document.querySelectorAll(".answer").length;
+            document.getElementById("score").textContent = `Score: ${correctCount} / ${total} (${Math.round((correctCount / total) * 100)}%)`;
+        }
     </script>
 </body>
 </html>
