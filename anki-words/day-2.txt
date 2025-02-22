@@ -1,0 +1,36 @@
+accepter	to accept
+aimer	to like, to love
+annuler	to cancel
+apporter	to bring
+attraper	to catch
+augmenter	to increase
+bavarder	to chat
+casser	to break
+chercher	to look for
+commander	to order
+couper	to cut
+danser	to dance
+déjeuner	to have lunch
+demander	to ask
+dessiner	to draw
+donner	to give
+emprunter	to borrow
+enlever	to remove
+étudier	to study
+exprimer	to express
+gagner	to win, to earn
+garder	to keep
+habiter	to live
+laver	to wash
+manger	to eat
+mériter	to deserve
+oublier	to forget
+porter	to carry
+prêter	to lend
+refuser	to refuse
+regarder	to watch
+saluer	to greet
+sauter	to jump
+tomber	to fall
+travailler	to work
+visiter	to visit (a place)
