@@ -18,9 +18,9 @@
         <div class="field">
             <div class="file has-name is-boxed">
                 <label class="file-label">
-                    <input class="file-input" type="file" id="fileInput" accept=".txt">
+                    <input class="file-input" type="file" id="fileInput" accept=".txt" multiple>
                     <span class="file-cta">
-                        <span class="file-label">Choose a file…</span>
+                        <span class="file-label">Choose files…</span>
                     </span>
                 </label>
             </div>
@@ -43,15 +43,6 @@
             <button class="button is-warning" id="pauseButton">Pause</button>
             <button class="button is-danger" id="stopButton">Stop</button>
         </div>
-        
-        <!-- New section for direct text input -->
-        <div class="field mt-6">
-            <label class="label">Quick French Reader</label>
-            <div class="control">
-                <textarea class="textarea" id="quickText" placeholder="Paste French text here..."></textarea>
-            </div>
-            <button class="button is-info mt-3" id="readButton">Read Text</button>
-        </div>
     </div>
     <script>
         let isTraining = false;
@@ -60,6 +51,7 @@
         let totalIterations = 0;
         let totalEntries = 0;
         let currentEntry = 0;
+        let entries = [];
 
         function removeSlashes(word) {
             return word.replace(/\s*\/\s*/g, ", ");
@@ -72,7 +64,7 @@
                 .trim());
         }
 
-        async function train(entries, repetitions) {
+        async function train(repetitions) {
             totalIterations = repetitions;
             totalEntries = entries.length;
             isTraining = true;
@@ -108,32 +100,35 @@
         }
 
         document.getElementById("trainButton").addEventListener("click", async () => {
-            const fileInput = document.getElementById("fileInput").files[0];
-            if (!fileInput) {
-                alert("Please select a file.");
+            const files = document.getElementById("fileInput").files;
+            if (files.length === 0) {
+                alert("Please select at least one file.");
                 return;
             }
 
             const repetitions = parseInt(document.getElementById("repetitions").value, 10);
             const randomize = document.getElementById("randomize").checked;
-            const text = await fileInput.text();
+            entries = [];
 
-            let entries = text.split("\n").map(line => {
-                const parts = line.split("\t");
-                return parts.length >= 2 ? { french: cleanFrenchWord(parts[0].trim()), english: removeSlashes(parts[1].trim()) } : null;
-            }).filter(Boolean);
+            for (let file of files) {
+                const text = await file.text();
+                const fileEntries = text.split("\n").map(line => {
+                    const parts = line.split("\t");
+                    return parts.length >= 2 ? { french: cleanFrenchWord(parts[0].trim()), english: removeSlashes(parts[1].trim()) } : null;
+                }).filter(Boolean);
+                entries.push(...fileEntries);
+            }
 
             if (randomize) {
                 entries = entries.sort(() => Math.random() - 0.5);
             }
 
-            train(entries, repetitions);
+            train(repetitions);
         });
 
         document.getElementById("pauseButton").addEventListener("click", () => {
             isPaused = !isPaused;
             document.getElementById("pauseButton").textContent = isPaused ? "Resume" : "Pause";
-            if (!isPaused) train(entries, totalIterations - currentIteration);
         });
 
         document.getElementById("stopButton").addEventListener("click", () => {
@@ -142,20 +137,6 @@
             speechSynthesis.cancel();
             document.getElementById("displayWord").textContent = "";
             document.getElementById("progress").textContent = "";
-        });
-
-        document.getElementById("readButton").addEventListener("click", async () => {
-            const text = document.getElementById("quickText").value.trim();
-            if (!text) {
-                alert("Please enter some text to read.");
-                return;
-            }
-
-            const utterance = new SpeechSynthesisUtterance(text);
-            utterance.lang = "fr-CA";
-            utterance.onstart = () => document.getElementById("displayWord").textContent = text;
-            utterance.onend = () => document.getElementById("displayWord").textContent = "";
-            speechSynthesis.speak(utterance);
         });
     </script>
 </body>
