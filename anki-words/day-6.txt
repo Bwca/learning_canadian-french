@@ -4,6 +4,7 @@ agrandir	to enlarge
 applaudir	to applaud
 bâtir	to build
 bénir	to bless
+choisir	to choose
 éclaircir	to lighten, to clear
 s’épanouir	to bloom, to blossom
 s’évanouir	to faint
@@ -22,6 +23,7 @@ remplir	to fill
 réussir	to succeed
 rougir	to blush
 saisir	to seize
+sortir	to go out, to exit
 vieillir	to grow old
 bouillir	to boil
 courir	to run
