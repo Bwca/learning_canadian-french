@@ -1,0 +1,71 @@
+{
+  "title": "Être — present tense (set 2: agreement, negation, inversion, impersonal expressions)",
+  "exercises": [
+    {
+      "en": "Is he a firefighter or a police officer?",
+      "fr": "Est-il pompier ou policier?",
+      "vocab": [
+        { "fr": "pompier", "en": "firefighter" },
+        { "fr": "policier", "en": "police officer" }
+      ]
+    },
+    {
+      "en": "My cousins (fem.) are not very patient.",
+      "fr": "Mes cousines ne sont pas très patientes.",
+      "vocab": [
+        { "fr": "patient / patiente", "en": "patient" }
+      ]
+    },
+    {
+      "en": "Why are you (informal) always so quiet?",
+      "fr": "Pourquoi est-ce que tu es toujours si silencieux?",
+      "vocab": [
+        { "fr": "silencieux", "en": "quiet" }
+      ]
+    },
+    {
+      "en": "We are neither rich nor famous, and that's fine.",
+      "fr": "Nous ne sommes ni riches ni célèbres, et c'est très bien.",
+      "vocab": [
+        { "fr": "célèbre", "en": "famous" }
+      ]
+    },
+    {
+      "en": "Aren't you (formal) ashamed of your behavior?",
+      "fr": "N'êtes-vous pas honteux de votre comportement?",
+      "vocab": [
+        { "fr": "honteux", "en": "ashamed" },
+        { "fr": "comportement", "en": "behavior" }
+      ]
+    },
+    {
+      "en": "These photos are blurry, but the message is clear.",
+      "fr": "Ces photos sont floues, mais le message est clair.",
+      "vocab": [
+        { "fr": "flou", "en": "blurry" }
+      ]
+    },
+    {
+      "en": "He is neither my colleague nor my friend.",
+      "fr": "Il n'est ni mon collègue ni mon ami.",
+      "vocab": [
+        { "fr": "collègue", "en": "colleague" }
+      ]
+    },
+    {
+      "en": "Since when have you (plural/formal) been so demanding?",
+      "fr": "Depuis quand êtes-vous si exigeants?",
+      "vocab": [
+        { "fr": "exigeant", "en": "demanding" }
+      ]
+    },
+    {
+      "en": "It's obvious that we are exhausted.",
+      "fr": "Il est évident que nous sommes épuisés.",
+      "vocab": [
+        { "fr": "évident", "en": "obvious" },
+        { "fr": "épuisé", "en": "exhausted" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Être — present tense (set 8: comparisons — plus/moins/aussi...que, superlatives)",
+  "exercises": [
+    {
+      "en": "This exercise is more difficult than the last one.",
+      "fr": "Cet exercice est plus difficile que le dernier.",
+      "vocab": [
+        { "fr": "difficile", "en": "difficult" }
+      ]
+    },
+    {
+      "en": "Are you (informal) as tired as I am?",
+      "fr": "Es-tu aussi fatigué que moi?",
+      "vocab": [
+        { "fr": "aussi...que", "en": "as...as" }
+      ]
+    },
+    {
+      "en": "My brother is less patient than my sister.",
+      "fr": "Mon frère est moins patient que ma sœur.",
+      "vocab": [
+        { "fr": "moins...que", "en": "less...than" }
+      ]
+    },
+    {
+      "en": "This neighborhood is the safest in the city.",
+      "fr": "Ce quartier est le plus sûr de la ville.",
+      "vocab": [
+        { "fr": "quartier", "en": "neighborhood" },
+        { "fr": "sûr", "en": "safe" }
+      ]
+    },
+    {
+      "en": "Their solution is simpler than ours.",
+      "fr": "Leur solution est plus simple que la nôtre.",
+      "vocab": [
+        { "fr": "la nôtre", "en": "ours" }
+      ]
+    },
+    {
+      "en": "We are just as determined as they are.",
+      "fr": "Nous sommes tout aussi déterminés qu'eux.",
+      "vocab": [
+        { "fr": "déterminé", "en": "determined" }
+      ]
+    },
+    {
+      "en": "This test is the hardest of the semester.",
+      "fr": "Ce test est le plus difficile du semestre.",
+      "vocab": [
+        { "fr": "semestre", "en": "semester" }
+      ]
+    },
+    {
+      "en": "Is your apartment bigger than mine?",
+      "fr": "Ton appartement est-il plus grand que le mien?",
+      "vocab": [
+        { "fr": "le mien", "en": "mine" }
+      ]
+    },
+    {
+      "en": "These shoes are less comfortable than the other ones.",
+      "fr": "Ces chaussures sont moins confortables que les autres.",
+      "vocab": [
+        { "fr": "confortable", "en": "comfortable" }
+      ]
+    }
+  ]
+}

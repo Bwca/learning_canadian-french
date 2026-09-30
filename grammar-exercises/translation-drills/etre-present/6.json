@@ -1,0 +1,77 @@
+{
+  "title": "Être — present tense (set 6: irregular adjective agreement)",
+  "exercises": [
+    {
+      "en": "She is kind, but her sister is a bit jealous.",
+      "fr": "Elle est gentille, mais sa sœur est un peu jalouse.",
+      "vocab": [
+        { "fr": "gentil / gentille", "en": "kind" },
+        { "fr": "jaloux / jalouse", "en": "jealous" }
+      ]
+    },
+    {
+      "en": "My hands are dry, but my face is soft.",
+      "fr": "Mes mains sont sèches, mais mon visage est doux.",
+      "vocab": [
+        { "fr": "sec / sèche", "en": "dry" },
+        { "fr": "doux / douce", "en": "soft" }
+      ]
+    },
+    {
+      "en": "His hair is red, and hers is white.",
+      "fr": "Ses cheveux sont roux, et les siens sont blancs.",
+      "vocab": [
+        { "fr": "roux / rousse", "en": "red-haired" },
+        { "fr": "blanc / blanche", "en": "white" }
+      ]
+    },
+    {
+      "en": "This bread is fresh, but these vegetables are not.",
+      "fr": "Ce pain est frais, mais ces légumes ne le sont pas.",
+      "vocab": [
+        { "fr": "frais / fraîche", "en": "fresh" },
+        { "fr": "légume", "en": "vegetable" }
+      ]
+    },
+    {
+      "en": "The lines are too long, and the wait is exhausting.",
+      "fr": "Les files sont trop longues, et l'attente est épuisante.",
+      "vocab": [
+        { "fr": "file", "en": "line / queue" },
+        { "fr": "attente", "en": "wait" }
+      ]
+    },
+    {
+      "en": "Is your favorite season autumn or winter?",
+      "fr": "Ta saison favorite est-elle l'automne ou l'hiver?",
+      "vocab": [
+        { "fr": "favori / favorite", "en": "favorite" },
+        { "fr": "saison", "en": "season" }
+      ]
+    },
+    {
+      "en": "These walls are thin, but the door is thick.",
+      "fr": "Ces murs sont minces, mais la porte est épaisse.",
+      "vocab": [
+        { "fr": "mince", "en": "thin" },
+        { "fr": "épais / épaisse", "en": "thick" }
+      ]
+    },
+    {
+      "en": "Their excuses are unbelievable.",
+      "fr": "Leurs excuses sont invraisemblables.",
+      "vocab": [
+        { "fr": "excuse", "en": "excuse" },
+        { "fr": "invraisemblable", "en": "unbelievable" }
+      ]
+    },
+    {
+      "en": "The instructions are clear, but the deadline is tight.",
+      "fr": "Les instructions sont claires, mais le délai est serré.",
+      "vocab": [
+        { "fr": "délai", "en": "deadline" },
+        { "fr": "serré", "en": "tight" }
+      ]
+    }
+  ]
+}

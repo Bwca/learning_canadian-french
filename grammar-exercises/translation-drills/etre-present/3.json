@@ -1,0 +1,72 @@
+{
+  "title": "Être — present tense (set 3: professions & nationalities, no-article rule)",
+  "exercises": [
+    {
+      "en": "Is she an engineer or an architect?",
+      "fr": "Est-elle ingénieure ou architecte?",
+      "vocab": [
+        { "fr": "ingénieur / ingénieure", "en": "engineer" },
+        { "fr": "architecte", "en": "architect" }
+      ]
+    },
+    {
+      "en": "My neighbors (masc.) are Belgian, not French.",
+      "fr": "Mes voisins sont belges, pas français.",
+      "vocab": [
+        { "fr": "voisin", "en": "neighbor" },
+        { "fr": "belge", "en": "Belgian" }
+      ]
+    },
+    {
+      "en": "He is neither a soldier nor a teacher, he's a musician.",
+      "fr": "Il n'est ni soldat ni professeur, il est musicien.",
+      "vocab": [
+        { "fr": "soldat", "en": "soldier" },
+        { "fr": "musicien", "en": "musician" }
+      ]
+    },
+    {
+      "en": "Are your parents Canadian or American?",
+      "fr": "Tes parents sont-ils canadiens ou américains?",
+      "vocab": []
+    },
+    {
+      "en": "We are not enemies, we are simply rivals.",
+      "fr": "Nous ne sommes pas ennemis, nous sommes simplement rivaux.",
+      "vocab": [
+        { "fr": "ennemi", "en": "enemy" },
+        { "fr": "rival / rivaux", "en": "rival" }
+      ]
+    },
+    {
+      "en": "Is your brother an electrician or a plumber?",
+      "fr": "Ton frère est-il électricien ou plombier?",
+      "vocab": [
+        { "fr": "électricien", "en": "electrician" },
+        { "fr": "plombier", "en": "plumber" }
+      ]
+    },
+    {
+      "en": "They (fem.) are neither nurses nor pharmacists.",
+      "fr": "Elles ne sont ni infirmières ni pharmaciennes.",
+      "vocab": [
+        { "fr": "infirmière", "en": "nurse" },
+        { "fr": "pharmacienne", "en": "pharmacist" }
+      ]
+    },
+    {
+      "en": "I am not a beginner anymore, I am an expert.",
+      "fr": "Je ne suis plus débutant, je suis expert.",
+      "vocab": [
+        { "fr": "débutant", "en": "beginner" }
+      ]
+    },
+    {
+      "en": "Are you (informal) really a vegetarian?",
+      "fr": "Es-tu vraiment végétarien?",
+      "vocab": [
+        { "fr": "végétarien", "en": "vegetarian" }
+      ]
+    }
+  ]
+}

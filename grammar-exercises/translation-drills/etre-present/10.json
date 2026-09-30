@@ -1,0 +1,71 @@
+{
+  "title": "Être — present tense (set 10: capstone — negation + question + agreement combined)",
+  "exercises": [
+    {
+      "en": "Aren't you (informal) supposed to be at work by now?",
+      "fr": "N'es-tu pas censé être au travail maintenant?",
+      "vocab": [
+        { "fr": "au travail", "en": "at work" }
+      ]
+    },
+    {
+      "en": "My colleagues are neither ready nor willing to compromise.",
+      "fr": "Mes collègues ne sont ni prêts ni disposés à faire des compromis.",
+      "vocab": [
+        { "fr": "disposé à", "en": "willing to" },
+        { "fr": "compromis", "en": "compromise" }
+      ]
+    },
+    {
+      "en": "Is it true that you (plural/formal) are no longer interested in the offer?",
+      "fr": "Est-ce vrai que vous n'êtes plus intéressés par l'offre?",
+      "vocab": [
+        { "fr": "offre", "en": "offer" }
+      ]
+    },
+    {
+      "en": "These arguments are neither convincing nor original.",
+      "fr": "Ces arguments ne sont ni convaincants ni originaux.",
+      "vocab": [
+        { "fr": "convaincant", "en": "convincing" },
+        { "fr": "original / originaux", "en": "original" }
+      ]
+    },
+    {
+      "en": "Why are we always the last ones to know?",
+      "fr": "Pourquoi sommes-nous toujours les derniers à savoir?",
+      "vocab": [
+        { "fr": "à savoir", "en": "to know" }
+      ]
+    },
+    {
+      "en": "Isn't she supposed to be more careful?",
+      "fr": "N'est-elle pas censée être plus prudente?",
+      "vocab": [
+        { "fr": "prudent", "en": "careful" }
+      ]
+    },
+    {
+      "en": "We are not only late, we are also unprepared.",
+      "fr": "Nous ne sommes pas seulement en retard, nous sommes aussi mal préparés.",
+      "vocab": [
+        { "fr": "pas seulement", "en": "not only" },
+        { "fr": "mal préparé", "en": "unprepared" }
+      ]
+    },
+    {
+      "en": "Are your reasons even valid, or are you just stubborn?",
+      "fr": "Tes raisons sont-elles seulement valables, ou es-tu simplement têtu?",
+      "vocab": [
+        { "fr": "valable", "en": "valid" }
+      ]
+    },
+    {
+      "en": "It's hardly surprising, they are never satisfied.",
+      "fr": "Ce n'est guère surprenant, ils ne sont jamais satisfaits.",
+      "vocab": [
+        { "fr": "surprenant", "en": "surprising" }
+      ]
+    }
+  ]
+}

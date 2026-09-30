@@ -1,0 +1,93 @@
+{
+  "title": "Être — present tense (agreement, negation, inversion, professions)",
+  "exercises": [
+    {
+      "en": "He is a cosmonaut.",
+      "fr": "Il est cosmonaute.",
+      "vocab": [
+        { "fr": "cosmonaute", "en": "cosmonaut" }
+      ]
+    },
+    {
+      "en": "We are ready.",
+      "fr": "Nous sommes prêts.",
+      "vocab": [
+        { "fr": "prêt", "en": "ready" }
+      ]
+    },
+    {
+      "en": "Are you tired? (formal)",
+      "fr": "Êtes-vous fatigué?",
+      "vocab": [
+        { "fr": "fatigué", "en": "tired" }
+      ]
+    },
+    {
+      "en": "She is not a doctor.",
+      "fr": "Elle n'est pas médecin.",
+      "vocab": [
+        { "fr": "médecin", "en": "doctor" }
+      ]
+    },
+    {
+      "en": "They (fem.) are proud of their work.",
+      "fr": "Elles sont fières de leur travail.",
+      "vocab": [
+        { "fr": "fier / fière", "en": "proud" },
+        { "fr": "travail", "en": "work" }
+      ]
+    },
+    {
+      "en": "You (informal) are never on time.",
+      "fr": "Tu n'es jamais à l'heure.",
+      "vocab": [
+        { "fr": "à l'heure", "en": "on time" }
+      ]
+    },
+    {
+      "en": "I am neither surprised nor worried.",
+      "fr": "Je ne suis ni surpris ni inquiet.",
+      "vocab": [
+        { "fr": "surpris", "en": "surprised" },
+        { "fr": "inquiet", "en": "worried" }
+      ]
+    },
+    {
+      "en": "Are they (masc.) journalists?",
+      "fr": "Sont-ils journalistes?",
+      "vocab": [
+        { "fr": "journaliste", "en": "journalist" }
+      ]
+    },
+    {
+      "en": "Is it you who is late?",
+      "fr": "Est-ce toi qui es en retard?",
+      "vocab": [
+        { "fr": "en retard", "en": "late" }
+      ]
+    },
+    {
+      "en": "We are neither the first nor the last.",
+      "fr": "Nous ne sommes ni les premiers ni les derniers.",
+      "vocab": [
+        { "fr": "premier", "en": "first" },
+        { "fr": "dernier", "en": "last" }
+      ]
+    },
+    {
+      "en": "Is she originally from Montreal?",
+      "fr": "Est-elle originaire de Montréal?",
+      "vocab": [
+        { "fr": "originaire de", "en": "originally from" }
+      ]
+    },
+    {
+      "en": "Your ideas are brilliant, but you (informal) are stubborn.",
+      "fr": "Tes idées sont brillantes, mais tu es têtu.",
+      "vocab": [
+        { "fr": "brillant", "en": "brilliant" },
+        { "fr": "têtu", "en": "stubborn" }
+      ]
+    }
+  ]
+}

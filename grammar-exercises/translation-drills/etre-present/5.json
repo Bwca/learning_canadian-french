@@ -1,0 +1,70 @@
+{
+  "title": "Être — present tense (set 5: questions — inversion, est-ce que, information words)",
+  "exercises": [
+    {
+      "en": "Where are you (plural/formal) from exactly?",
+      "fr": "D'où êtes-vous exactement?",
+      "vocab": [
+        { "fr": "exactement", "en": "exactly" }
+      ]
+    },
+    {
+      "en": "How is your new apartment?",
+      "fr": "Comment est ton nouvel appartement?",
+      "vocab": [
+        { "fr": "appartement", "en": "apartment" }
+      ]
+    },
+    {
+      "en": "Who is responsible for this decision?",
+      "fr": "Qui est responsable de cette décision?",
+      "vocab": [
+        { "fr": "décision", "en": "decision" }
+      ]
+    },
+    {
+      "en": "At what time is the meeting tomorrow?",
+      "fr": "À quelle heure est la réunion demain?",
+      "vocab": [
+        { "fr": "réunion", "en": "meeting" }
+      ]
+    },
+    {
+      "en": "Why are these rules so strict?",
+      "fr": "Pourquoi ces règles sont-elles si strictes?",
+      "vocab": [
+        { "fr": "règle", "en": "rule" },
+        { "fr": "strict", "en": "strict" }
+      ]
+    },
+    {
+      "en": "How long have you (informal) been unemployed?",
+      "fr": "Depuis quand es-tu au chômage?",
+      "vocab": [
+        { "fr": "au chômage", "en": "unemployed" }
+      ]
+    },
+    {
+      "en": "Isn't he supposed to be here by now?",
+      "fr": "N'est-il pas censé être ici maintenant?",
+      "vocab": [
+        { "fr": "censé", "en": "supposed to" }
+      ]
+    },
+    {
+      "en": "Which one of you is the manager?",
+      "fr": "Lequel d'entre vous est le gérant?",
+      "vocab": [
+        { "fr": "lequel", "en": "which one" },
+        { "fr": "gérant", "en": "manager" }
+      ]
+    },
+    {
+      "en": "Aren't we already late for the appointment?",
+      "fr": "Ne sommes-nous pas déjà en retard pour le rendez-vous?",
+      "vocab": [
+        { "fr": "rendez-vous", "en": "appointment" }
+      ]
+    }
+  ]
+}

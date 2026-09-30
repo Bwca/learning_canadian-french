@@ -1,0 +1,71 @@
+{
+  "title": "Être — present tense (set 4: negation beyond ne...pas)",
+  "exercises": [
+    {
+      "en": "We are only three in the team.",
+      "fr": "Nous ne sommes que trois dans l'équipe.",
+      "vocab": [
+        { "fr": "ne...que", "en": "only" },
+        { "fr": "équipe", "en": "team" }
+      ]
+    },
+    {
+      "en": "He is not even ready.",
+      "fr": "Il n'est même pas prêt.",
+      "vocab": [
+        { "fr": "même pas", "en": "not even" }
+      ]
+    },
+    {
+      "en": "I am hardly surprised anymore.",
+      "fr": "Je ne suis guère surpris.",
+      "vocab": [
+        { "fr": "ne...guère", "en": "hardly" }
+      ]
+    },
+    {
+      "en": "They (masc.) are not at all convinced.",
+      "fr": "Ils ne sont pas du tout convaincus.",
+      "vocab": [
+        { "fr": "convaincu", "en": "convinced" }
+      ]
+    },
+    {
+      "en": "She is not yet ready for the exam.",
+      "fr": "Elle n'est pas encore prête pour l'examen.",
+      "vocab": [
+        { "fr": "pas encore", "en": "not yet" }
+      ]
+    },
+    {
+      "en": "We are absolutely not responsible for this mistake.",
+      "fr": "Nous ne sommes absolument pas responsables de cette erreur.",
+      "vocab": [
+        { "fr": "responsable", "en": "responsible" },
+        { "fr": "erreur", "en": "mistake" }
+      ]
+    },
+    {
+      "en": "You (formal) are in no way obligated to answer.",
+      "fr": "Vous n'êtes aucunement obligé de répondre.",
+      "vocab": [
+        { "fr": "aucunement", "en": "in no way" },
+        { "fr": "obligé", "en": "obligated" }
+      ]
+    },
+    {
+      "en": "Is he no longer interested in the project?",
+      "fr": "N'est-il plus intéressé par le projet?",
+      "vocab": [
+        { "fr": "intéressé", "en": "interested" }
+      ]
+    },
+    {
+      "en": "I am nothing without my friends.",
+      "fr": "Je ne suis rien sans mes amis.",
+      "vocab": [
+        { "fr": "ne...rien", "en": "nothing" }
+      ]
+    }
+  ]
+}

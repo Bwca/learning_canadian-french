@@ -1,0 +1,69 @@
+{
+  "title": "Être — present tense (set 7: idiomatic expressions with être)",
+  "exercises": [
+    {
+      "en": "I am in the middle of finishing my homework.",
+      "fr": "Je suis en train de finir mes devoirs.",
+      "vocab": [
+        { "fr": "être en train de", "en": "to be in the middle of" }
+      ]
+    },
+    {
+      "en": "Are you (informal) about to leave?",
+      "fr": "Es-tu sur le point de partir?",
+      "vocab": [
+        { "fr": "être sur le point de", "en": "to be about to" }
+      ]
+    },
+    {
+      "en": "She is in a bad mood today.",
+      "fr": "Elle est de mauvaise humeur aujourd'hui.",
+      "vocab": [
+        { "fr": "être de mauvaise humeur", "en": "to be in a bad mood" }
+      ]
+    },
+    {
+      "en": "We are not aware of the changes.",
+      "fr": "Nous ne sommes pas au courant des changements.",
+      "vocab": [
+        { "fr": "être au courant", "en": "to be aware" }
+      ]
+    },
+    {
+      "en": "Are you (formal) comfortable with this decision?",
+      "fr": "Êtes-vous à l'aise avec cette décision?",
+      "vocab": [
+        { "fr": "être à l'aise", "en": "to be comfortable" }
+      ]
+    },
+    {
+      "en": "That is out of the question.",
+      "fr": "C'est hors de question.",
+      "vocab": [
+        { "fr": "hors de question", "en": "out of the question" }
+      ]
+    },
+    {
+      "en": "I don't agree with your plan.",
+      "fr": "Je ne suis pas d'accord avec ton plan.",
+      "vocab": [
+        { "fr": "être d'accord", "en": "to agree" }
+      ]
+    },
+    {
+      "en": "He is in great shape thanks to running.",
+      "fr": "Il est en pleine forme grâce à la course.",
+      "vocab": [
+        { "fr": "être en pleine forme", "en": "to be in great shape" },
+        { "fr": "grâce à", "en": "thanks to" }
+      ]
+    },
+    {
+      "en": "Why are you (plural/informal) always angry in the morning?",
+      "fr": "Pourquoi êtes-vous toujours en colère le matin?",
+      "vocab": [
+        { "fr": "être en colère", "en": "to be angry" }
+      ]
+    }
+  ]
+}
