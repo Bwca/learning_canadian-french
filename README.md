@@ -28,12 +28,12 @@ npm install
 node make-pronunciation-files.js <relative-path-to-txt>
 ```
 
-### `reader.html`
+### `audio-drill.html`
 Standalone browser page (no build step) that loads one or more vocabulary `.txt` files and reads each French/English pair aloud on a loop using the Web Speech API, with configurable repetitions and optional shuffling — useful for passive listening practice.
 
-### `tester.html`
+### `vocab-quiz.html`
 Standalone browser page that loads a vocabulary `.txt` file and quizzes you: shows the English term, you type the French translation, and it scores your answers (with an override checkbox for near-misses).
 
 ## Usage
 
-Open `reader.html` or `tester.html` directly in a browser and load any file from `anki-words/`. No server or build step required.
+Open `audio-drill.html` or `vocab-quiz.html` directly in a browser and load any file from `anki-words/`. No server or build step required.
