@@ -27,6 +27,20 @@ Grammar practice, split into two styles:
 ### `pronunciation-generator/`
 Node.js script (`make-pronunciation-files.js`) that reads an Anki-formatted `.txt` file, uses a headless browser (Puppeteer) with speech synthesis to speak each French/English pair, records the audio, and saves it as `.webm` files (plus a concatenated file) alongside the source list — producing the `[sound:...]` clips referenced in `anki-words/`.
 
+**Windows only.** The script records audio by capturing the system's own output in real time (`getUserMedia` with `chromeMediaSource: 'system'`), which relies on Chrome's Windows-specific loopback audio capture. This does not work on macOS or Linux, and does not work in a headless/CI environment — it needs a real desktop session with audio actually playing out loud.
+
+#### Requirements
+
+| Requirement | Needed for | How to get it |
+|---|---|---|
+| **Windows 10 or 11** | Running the script at all — the audio-capture method below only works on Windows. | Already your OS; nothing to install. |
+| **[Node.js](https://nodejs.org/)** (LTS release) | Running `npm install` and `node make-pronunciation-files.js` — the script itself. | Download the LTS installer from [nodejs.org](https://nodejs.org/) and run it (installs `npm` too). |
+| **Internet access, once, for `npm install`** | Downloading Puppeteer's own bundled Chromium, which is the browser the script drives. No separate Chrome/Edge install needed. | Just run `npm install` with a working internet connection; after that it works offline. |
+| **Windows text-to-speech voice: "Français (Canada)"** | Producing the French audio — the script asks for an `fr-CA` voice, and without one installed Windows falls back to a wrong-accent or English voice (or none at all). | Settings → Time & Language → Speech → Manage voices → Add voices → search **"Français (Canada)"** → install. |
+| **Windows text-to-speech voice: "English (United States)"** | Producing the English audio for each entry's second clip (`en-US`). Often present by default, but check. | Same screen as above — Settings → Time & Language → Speech → Manage voices → Add voices → search **"English (United States)"**. |
+| **Chrome restarted after installing voices** | Letting the browser actually see newly installed voices — it only reads the OS voice list on (re)start. | Fully quit and reopen Chrome once voices are installed. Verify with `speechSynthesis.getVoices().filter(v => v.lang.startsWith('fr') || v.lang.startsWith('en'))` in DevTools' console — confirm an entry with `lang: "fr-CA"` appears. |
+| **System audio output, unmuted, at a reasonable volume** | The actual recording step — the script captures whatever is audibly playing, so a muted/silent system produces empty `.webm` files. | Check Windows volume mixer isn't muted before running the script. |
+
 Usage:
 ```
 cd pronunciation-generator
