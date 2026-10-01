@@ -34,6 +34,15 @@
                 </label>
             </div>
         </div>
+        <div class="field">
+            <label class="label is-small" for="voiceSelect">French voice</label>
+            <div class="control">
+                <div class="select is-small">
+                    <select id="voiceSelect"></select>
+                </div>
+            </div>
+            <p id="voiceIndicator" class="help"></p>
+        </div>
         <div id="exerciseForm" class="hidden">
             <h2 class="subtitle" id="exerciseTitle"></h2>
             <div id="exerciseList"></div>
@@ -46,11 +55,56 @@
     </div>
     <script>
         let exercises = [];
+        let frenchVoices = [];
+        let selectedVoice = null;
+
+        const voiceSelect = document.getElementById("voiceSelect");
+        const voiceIndicator = document.getElementById("voiceIndicator");
+        const VOICE_STORAGE_KEY = "translationDrillVoiceURI";
+
+        function populateVoices() {
+            const voices = speechSynthesis.getVoices();
+            frenchVoices = voices.filter(v => v.lang.toLowerCase().startsWith("fr"));
+
+            if (frenchVoices.length === 0) {
+                voiceSelect.innerHTML = `<option value="">No French voice installed</option>`;
+                voiceIndicator.textContent = "⚠️ No fr-* voice found on this system — speech will fall back to the default system voice.";
+                selectedVoice = null;
+                return;
+            }
+
+            const savedURI = sessionStorage.getItem(VOICE_STORAGE_KEY);
+            voiceSelect.innerHTML = frenchVoices
+                .map(v => `<option value="${v.voiceURI}">${v.name} (${v.lang})</option>`)
+                .join("");
+
+            const savedVoice = frenchVoices.find(v => v.voiceURI === savedURI);
+            const caVoice = frenchVoices.find(v => v.lang.toLowerCase() === "fr-ca");
+            selectedVoice = savedVoice || caVoice || frenchVoices[0];
+            voiceSelect.value = selectedVoice.voiceURI;
+            voiceIndicator.textContent = `🔊 Using: ${selectedVoice.name} (${selectedVoice.lang})`;
+        }
+
+        voiceSelect.addEventListener("change", () => {
+            selectedVoice = frenchVoices.find(v => v.voiceURI === voiceSelect.value) || null;
+            if (selectedVoice) {
+                sessionStorage.setItem(VOICE_STORAGE_KEY, selectedVoice.voiceURI);
+                voiceIndicator.textContent = `🔊 Using: ${selectedVoice.name} (${selectedVoice.lang})`;
+            }
+        });
+
+        populateVoices();
+        if (speechSynthesis.onvoiceschanged !== undefined) {
+            speechSynthesis.onvoiceschanged = populateVoices;
+        }
 
         function speak(text, lang) {
             return new Promise(resolve => {
                 const utterance = new SpeechSynthesisUtterance(text);
                 utterance.lang = lang;
+                if (lang.toLowerCase().startsWith("fr") && selectedVoice) {
+                    utterance.voice = selectedVoice;
+                }
                 utterance.onend = resolve;
                 utterance.onerror = resolve;
                 speechSynthesis.speak(utterance);
