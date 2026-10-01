@@ -18,6 +18,8 @@ node make-pronunciation-files.js <relative-path-to-txt>
 
 This launches a non-headless Chromium via Puppeteer, uses the Web Speech API (`fr-CA` / `en-US` voices) to speak each entry, records system audio, and writes `.webm` files. It requires a real display and working audio capture (`--use-fake-ui-for-media-stream` grants mic/screen-capture prompts automatically) — it will not run in a headless/CI environment.
 
+**Windows only.** It captures audio via `getUserMedia({ chromeMediaSource: 'system' })`, a Windows-specific Chrome loopback-capture path that doesn't work on macOS/Linux. It also depends on Windows having `fr-CA` and `en-US` text-to-speech voices installed (Settings → Time & Language → Speech → Manage voices) — see README.md's pronunciation-generator section for the full requirements list.
+
 `audio-drill.html`, `vocab-quiz.html`, and `translation-drill.html` have no build step; open them directly in a browser. The first two load a `.txt` file from `anki-words/`; `translation-drill.html` loads a `.json` file from `grammar-exercises/translation-drills/<topic>/`.
 
 There are no lint or test commands configured anywhere in the repo.
