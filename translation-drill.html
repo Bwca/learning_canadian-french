@@ -177,6 +177,12 @@
         });
         applySpeechRate();
 
+        // Chrome can silently drop an utterance if nothing keeps a reference to it
+        // alive — the SpeechSynthesisUtterance gets garbage-collected before the
+        // engine gets to it, especially on the first few calls. Keeping it in this
+        // array until onend/onerror fires works around that.
+        const pendingUtterances = [];
+
         function speak(text, lang) {
             return new Promise(resolve => {
                 if (!text || !text.trim()) { resolve(); return; }
@@ -186,8 +192,14 @@
                 if (lang.toLowerCase().startsWith("fr") && selectedVoice) {
                     utterance.voice = selectedVoice;
                 }
-                utterance.onend = resolve;
-                utterance.onerror = resolve;
+                pendingUtterances.push(utterance);
+                const done = () => {
+                    const i = pendingUtterances.indexOf(utterance);
+                    if (i !== -1) pendingUtterances.splice(i, 1);
+                    resolve();
+                };
+                utterance.onend = done;
+                utterance.onerror = done;
                 speechSynthesis.speak(utterance);
             });
         }
