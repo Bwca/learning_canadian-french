@@ -1,0 +1,69 @@
+{
+  "title": "Avoir — present tense (set 2: family)",
+  "exercises": [
+    {
+      "en": "I have a brother.",
+      "fr": "J'ai un frère.",
+      "vocab": [
+        { "fr": "frère", "en": "brother" }
+      ]
+    },
+    {
+      "en": "I have a sister.",
+      "fr": "J'ai une sœur.",
+      "vocab": [
+        { "fr": "sœur", "en": "sister" }
+      ]
+    },
+    {
+      "en": "He has two children.",
+      "fr": "Il a deux enfants.",
+      "vocab": [
+        { "fr": "enfant", "en": "child" }
+      ]
+    },
+    {
+      "en": "We have a big family.",
+      "fr": "Nous avons une grande famille.",
+      "vocab": [
+        { "fr": "famille", "en": "family" },
+        { "fr": "grande", "en": "big (fem.)" }
+      ]
+    },
+    {
+      "en": "You (informal) have a cousin (masc.).",
+      "fr": "Tu as un cousin.",
+      "vocab": [
+        { "fr": "cousin", "en": "cousin (masc.)" }
+      ]
+    },
+    {
+      "en": "They (fem.) have a grandmother.",
+      "fr": "Elles ont une grand-mère.",
+      "vocab": [
+        { "fr": "grand-mère", "en": "grandmother" }
+      ]
+    },
+    {
+      "en": "She has a husband.",
+      "fr": "Elle a un mari.",
+      "vocab": [
+        { "fr": "mari", "en": "husband" }
+      ]
+    },
+    {
+      "en": "He has a wife.",
+      "fr": "Il a une femme.",
+      "vocab": [
+        { "fr": "femme", "en": "wife / woman" }
+      ]
+    },
+    {
+      "en": "You (formal) have three daughters.",
+      "fr": "Vous avez trois filles.",
+      "vocab": [
+        { "fr": "fille", "en": "daughter / girl" }
+      ]
+    }
+  ]
+}

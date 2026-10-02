@@ -1,0 +1,68 @@
+{
+  "title": "Avoir — present tense (set 1: basic possession)",
+  "exercises": [
+    {
+      "en": "I have a car.",
+      "fr": "J'ai une voiture.",
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
+    },
+    {
+      "en": "You (informal) have a bike.",
+      "fr": "Tu as un vélo.",
+      "vocab": [
+        { "fr": "vélo", "en": "bike" }
+      ]
+    },
+    {
+      "en": "He has a computer.",
+      "fr": "Il a un ordinateur.",
+      "vocab": [
+        { "fr": "ordinateur", "en": "computer" }
+      ]
+    },
+    {
+      "en": "She has a phone.",
+      "fr": "Elle a un téléphone.",
+      "vocab": [
+        { "fr": "téléphone", "en": "phone" }
+      ]
+    },
+    {
+      "en": "We have a house.",
+      "fr": "Nous avons une maison.",
+      "vocab": [
+        { "fr": "maison", "en": "house" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) have a dog.",
+      "fr": "Vous avez un chien.",
+      "vocab": [
+        { "fr": "chien", "en": "dog" }
+      ]
+    },
+    {
+      "en": "They (masc.) have a cat.",
+      "fr": "Ils ont un chat.",
+      "vocab": [
+        { "fr": "chat", "en": "cat" }
+      ]
+    },
+    {
+      "en": "They (fem.) have a garden.",
+      "fr": "Elles ont un jardin.",
+      "vocab": [
+        { "fr": "jardin", "en": "garden" }
+      ]
+    },
+    {
+      "en": "I have a book.",
+      "fr": "J'ai un livre.",
+      "vocab": [
+        { "fr": "livre", "en": "book" }
+      ]
+    }
+  ]
+}

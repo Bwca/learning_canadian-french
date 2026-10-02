@@ -18,7 +18,7 @@ Grammar practice, split into two styles:
   1. We refuse the invitation.
      Nous refusons l'invitation. // Fixed: proper apostrophe (l')
   ```
-- `translation-drills/<topic>/<n>.json` — machine-readable exercises consumed by `translation-drill.html`, one folder per grammar topic scoped as `<verb>-<tense>` (e.g. `etre-present/`), numbered files within it (`1.json`, `2.json`, …) so more exercise sets can be added to the same topic over time. Each entry is:
+- `translation-drills/<cefr-level>/<topic>/<n>.json` — machine-readable exercises consumed by `translation-drill.html`, top-level folders by CEFR level (`a1/`, later `a2/`, `b1/`, `b2/`), then one folder per grammar topic scoped as `<verb>-<tense>` (e.g. `a1/etre-present/`), numbered files within it (`1.json`, `2.json`, …) so more exercise sets can be added to the same topic over time. Each entry is:
   ```json
   { "en": "He is a cosmonaut.", "fr": "Il est cosmonaute.", "vocab": [{ "fr": "cosmonaute", "en": "cosmonaut" }] }
   ```

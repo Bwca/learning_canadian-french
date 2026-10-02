@@ -1,0 +1,71 @@
+{
+  "title": "Avoir — present tense (set 3: age)",
+  "exercises": [
+    {
+      "en": "I am ten years old.",
+      "fr": "J'ai dix ans.",
+      "vocab": [
+        { "fr": "dix", "en": "ten" },
+        { "fr": "an", "en": "year" }
+      ]
+    },
+    {
+      "en": "You (informal) are twelve years old.",
+      "fr": "Tu as douze ans.",
+      "vocab": [
+        { "fr": "douze", "en": "twelve" }
+      ]
+    },
+    {
+      "en": "He is twenty years old.",
+      "fr": "Il a vingt ans.",
+      "vocab": [
+        { "fr": "vingt", "en": "twenty" }
+      ]
+    },
+    {
+      "en": "She is eighteen years old.",
+      "fr": "Elle a dix-huit ans.",
+      "vocab": [
+        { "fr": "dix-huit", "en": "eighteen" }
+      ]
+    },
+    {
+      "en": "My father is fifty years old.",
+      "fr": "Mon père a cinquante ans.",
+      "vocab": [
+        { "fr": "père", "en": "father" },
+        { "fr": "cinquante", "en": "fifty" }
+      ]
+    },
+    {
+      "en": "My mother is forty-five years old.",
+      "fr": "Ma mère a quarante-cinq ans.",
+      "vocab": [
+        { "fr": "mère", "en": "mother" },
+        { "fr": "quarante-cinq", "en": "forty-five" }
+      ]
+    },
+    {
+      "en": "They (masc.) are sixteen years old.",
+      "fr": "Ils ont seize ans.",
+      "vocab": [
+        { "fr": "seize", "en": "sixteen" }
+      ]
+    },
+    {
+      "en": "How old are you (informal)?",
+      "fr": "Quel âge as-tu?",
+      "vocab": [
+        { "fr": "quel âge", "en": "how old" }
+      ]
+    },
+    {
+      "en": "I am not thirty years old.",
+      "fr": "Je n'ai pas trente ans.",
+      "vocab": [
+        { "fr": "trente", "en": "thirty" }
+      ]
+    }
+  ]
+}

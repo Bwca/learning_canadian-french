@@ -1,0 +1,69 @@
+{
+  "title": "Avoir — present tense (set 4: idiomatic expressions with avoir)",
+  "exercises": [
+    {
+      "en": "I am hungry.",
+      "fr": "J'ai faim.",
+      "vocab": [
+        { "fr": "avoir faim", "en": "to be hungry" }
+      ]
+    },
+    {
+      "en": "I am thirsty.",
+      "fr": "J'ai soif.",
+      "vocab": [
+        { "fr": "avoir soif", "en": "to be thirsty" }
+      ]
+    },
+    {
+      "en": "He is cold.",
+      "fr": "Il a froid.",
+      "vocab": [
+        { "fr": "avoir froid", "en": "to be cold" }
+      ]
+    },
+    {
+      "en": "She is hot.",
+      "fr": "Elle a chaud.",
+      "vocab": [
+        { "fr": "avoir chaud", "en": "to be hot" }
+      ]
+    },
+    {
+      "en": "We are afraid.",
+      "fr": "Nous avons peur.",
+      "vocab": [
+        { "fr": "avoir peur", "en": "to be afraid" }
+      ]
+    },
+    {
+      "en": "You (informal) are right.",
+      "fr": "Tu as raison.",
+      "vocab": [
+        { "fr": "avoir raison", "en": "to be right" }
+      ]
+    },
+    {
+      "en": "He is wrong.",
+      "fr": "Il a tort.",
+      "vocab": [
+        { "fr": "avoir tort", "en": "to be wrong" }
+      ]
+    },
+    {
+      "en": "I am sleepy.",
+      "fr": "J'ai sommeil.",
+      "vocab": [
+        { "fr": "avoir sommeil", "en": "to be sleepy" }
+      ]
+    },
+    {
+      "en": "I feel like eating a pizza.",
+      "fr": "J'ai envie de manger une pizza.",
+      "vocab": [
+        { "fr": "avoir envie de", "en": "to feel like" },
+        { "fr": "manger", "en": "to eat" }
+      ]
+    }
+  ]
+}
