@@ -67,6 +67,12 @@
             </div>
             <p id="voiceIndicator" class="help" aria-live="polite"></p>
         </div>
+        <div class="field">
+            <label class="label" for="speechRate">Speech speed: <span id="speechRateValue">100%</span></label>
+            <div class="control">
+                <input type="range" id="speechRate" min="0.5" max="1.5" step="0.1" value="1">
+            </div>
+        </div>
         <div id="exerciseForm" class="hidden">
             <h2 class="subtitle" id="exerciseTitle"></h2>
             <div id="exerciseList"></div>
@@ -89,6 +95,7 @@
         const FONT_SCALE_MIN = 0.8;
         const FONT_SCALE_MAX = 2;
         const FONT_SCALE_STEP = 0.1;
+        const SPEECH_RATE_KEY = "translationDrillSpeechRate";
 
         function escapeHtml(str) {
             return String(str)
@@ -153,11 +160,29 @@
             speechSynthesis.onvoiceschanged = populateVoices;
         }
 
+        // --- Speech speed control (slower playback for new learners) ---
+        const speechRateInput = document.getElementById("speechRate");
+        const speechRateValue = document.getElementById("speechRateValue");
+        let speechRate = parseFloat(localStorage.getItem(SPEECH_RATE_KEY)) || 1;
+
+        function applySpeechRate() {
+            speechRateInput.value = speechRate;
+            speechRateValue.textContent = `${Math.round(speechRate * 100)}%`;
+        }
+
+        speechRateInput.addEventListener("input", () => {
+            speechRate = parseFloat(speechRateInput.value);
+            localStorage.setItem(SPEECH_RATE_KEY, speechRate);
+            applySpeechRate();
+        });
+        applySpeechRate();
+
         function speak(text, lang) {
             return new Promise(resolve => {
                 if (!text || !text.trim()) { resolve(); return; }
                 const utterance = new SpeechSynthesisUtterance(text);
                 utterance.lang = lang;
+                utterance.rate = speechRate;
                 if (lang.toLowerCase().startsWith("fr") && selectedVoice) {
                     utterance.voice = selectedVoice;
                 }
