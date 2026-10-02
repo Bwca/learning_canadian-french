@@ -6,24 +6,48 @@
     <title>French Translation Drill</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
     <style>
+        :root { --font-scale: 1; }
+        html { font-size: calc(16px * var(--font-scale)); }
+        body { line-height: 1.6; }
         .container { max-width: 800px; margin: auto; text-align: center; }
         .exercise-box { text-align: left; }
-        .prompt { font-size: 20px; font-weight: bold; }
+        .prompt { font-size: 1.35rem; font-weight: bold; }
         .vocab-hints { margin: 10px 0; }
-        .vocab-hints .tag { cursor: pointer; margin-right: 6px; margin-bottom: 6px; }
-        .correct { background-color: #d4edda; }
-        .incorrect { background-color: #f8d7da; }
+        .vocab-hints .tag { cursor: pointer; margin-right: 6px; margin-bottom: 6px; font-size: 1rem; height: auto; padding: 0.6em 0.9em; }
+        .answer-row { align-items: stretch; }
+        .answer { font-size: 1.15rem; }
+        .correct { background-color: #d4edda; border-left: 6px solid #1e7e34; }
+        .incorrect { background-color: #f8d7da; border-left: 6px solid #c82333; }
         .hidden { display: none; }
-        .correct-answer { margin-top: 8px; }
+        .correct-answer { margin-top: 8px; font-size: 1.05rem; }
+        .font-size-toolbar { display: flex; justify-content: center; gap: 8px; align-items: center; margin-bottom: 1rem; }
+        .is-sr-only {
+            position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+            overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+        }
+        a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, .tag:focus-visible {
+            outline: 3px solid #004080;
+            outline-offset: 2px;
+        }
+        .speak-own-answer { min-width: 3.5em; font-size: 1.15rem; }
     </style>
 </head>
 <body>
     <div class="container">
         <h1 class="title">French Translation Drill</h1>
         <p class="subtitle is-6">
-            Translate each sentence into French, then check your answers. Click a vocabulary tag to hear it.
+            Translate each sentence into French, then check your answers. Click a vocabulary tag to hear it,
+            or click 🔊 next to your own answer to hear it read back at any time — no need to check first.
             Checking is exact-match, so use "Mark as Correct" for valid phrasings that differ from the reference.
         </p>
+
+        <div class="font-size-toolbar" role="group" aria-label="Text size controls">
+            <span id="fontSizeLabel">Text size: <span id="fontSizeValue">100%</span></span>
+            <button type="button" class="button is-small" id="fontDecrease" aria-label="Decrease text size">A−</button>
+            <button type="button" class="button is-small" id="fontReset" aria-label="Reset text size to default">Reset</button>
+            <button type="button" class="button is-small" id="fontIncrease" aria-label="Increase text size">A+</button>
+        </div>
+
         <div class="field">
             <div class="file has-name is-boxed">
                 <label class="file-label">
@@ -35,13 +59,13 @@
             </div>
         </div>
         <div class="field">
-            <label class="label is-small" for="voiceSelect">French voice</label>
+            <label class="label" for="voiceSelect">French voice</label>
             <div class="control">
-                <div class="select is-small">
+                <div class="select">
                     <select id="voiceSelect"></select>
                 </div>
             </div>
-            <p id="voiceIndicator" class="help"></p>
+            <p id="voiceIndicator" class="help" aria-live="polite"></p>
         </div>
         <div id="exerciseForm" class="hidden">
             <h2 class="subtitle" id="exerciseTitle"></h2>
@@ -50,7 +74,7 @@
                 <button class="button is-primary" id="checkButton">Check Answers</button>
                 <button class="button is-info" id="readAllButton" disabled>🔊 Read All Corrections</button>
             </div>
-            <p id="score" class="mt-4"></p>
+            <p id="score" class="mt-4" aria-live="polite"></p>
         </div>
     </div>
     <script>
@@ -61,6 +85,37 @@
         const voiceSelect = document.getElementById("voiceSelect");
         const voiceIndicator = document.getElementById("voiceIndicator");
         const VOICE_STORAGE_KEY = "translationDrillVoiceURI";
+        const FONT_SCALE_KEY = "translationDrillFontScale";
+        const FONT_SCALE_MIN = 0.8;
+        const FONT_SCALE_MAX = 2;
+        const FONT_SCALE_STEP = 0.1;
+
+        function escapeHtml(str) {
+            return String(str)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;");
+        }
+
+        // --- Text size control (avoids relying on browser pinch-zoom) ---
+        let fontScale = parseFloat(localStorage.getItem(FONT_SCALE_KEY)) || 1;
+
+        function applyFontScale() {
+            document.documentElement.style.setProperty("--font-scale", fontScale);
+            document.getElementById("fontSizeValue").textContent = `${Math.round(fontScale * 100)}%`;
+        }
+
+        function setFontScale(next) {
+            fontScale = Math.min(FONT_SCALE_MAX, Math.max(FONT_SCALE_MIN, next));
+            localStorage.setItem(FONT_SCALE_KEY, fontScale);
+            applyFontScale();
+        }
+
+        document.getElementById("fontIncrease").addEventListener("click", () => setFontScale(fontScale + FONT_SCALE_STEP));
+        document.getElementById("fontDecrease").addEventListener("click", () => setFontScale(fontScale - FONT_SCALE_STEP));
+        document.getElementById("fontReset").addEventListener("click", () => setFontScale(1));
+        applyFontScale();
 
         function populateVoices() {
             const voices = speechSynthesis.getVoices();
@@ -75,7 +130,7 @@
 
             const savedURI = sessionStorage.getItem(VOICE_STORAGE_KEY);
             voiceSelect.innerHTML = frenchVoices
-                .map(v => `<option value="${v.voiceURI}">${v.name} (${v.lang})</option>`)
+                .map(v => `<option value="${escapeHtml(v.voiceURI)}">${escapeHtml(v.name)} (${escapeHtml(v.lang)})</option>`)
                 .join("");
 
             const savedVoice = frenchVoices.find(v => v.voiceURI === savedURI);
@@ -100,6 +155,7 @@
 
         function speak(text, lang) {
             return new Promise(resolve => {
+                if (!text || !text.trim()) { resolve(); return; }
                 const utterance = new SpeechSynthesisUtterance(text);
                 utterance.lang = lang;
                 if (lang.toLowerCase().startsWith("fr") && selectedVoice) {
@@ -126,14 +182,22 @@
                 box.classList.add("box", "exercise-box");
 
                 const vocabHtml = (exercise.vocab || [])
-                    .map(v => `<span class="tag is-light" data-fr="${v.fr}">🔊 ${v.fr} — ${v.en}</span>`)
+                    .map(v => `<button type="button" class="tag is-light" data-fr="${escapeHtml(v.fr)}">🔊 <span lang="fr">${escapeHtml(v.fr)}</span> — <span lang="en">${escapeHtml(v.en)}</span></button>`)
                     .join("");
 
                 box.innerHTML = `
-                    <p class="prompt">${index + 1}. ${exercise.en}</p>
+                    <p class="prompt" id="prompt-${index}">${index + 1}. <span lang="en">${escapeHtml(exercise.en)}</span></p>
                     <div class="vocab-hints">${vocabHtml}</div>
-                    <input class="input answer" type="text" data-correct="${exercise.fr}" placeholder="Your translation…">
-                    <p class="correct-answer hidden"></p>
+                    <label class="is-sr-only" for="answer-${index}">Your French translation for sentence ${index + 1}: ${escapeHtml(exercise.en)}</label>
+                    <div class="field has-addons answer-row">
+                        <div class="control is-expanded">
+                            <input id="answer-${index}" class="input answer" type="text" lang="fr" data-correct="${escapeHtml(exercise.fr)}" placeholder="Your translation…" aria-describedby="prompt-${index}">
+                        </div>
+                        <div class="control">
+                            <button type="button" class="button speak-own-answer" aria-label="Read sentence ${index + 1}'s answer back to me">🔊</button>
+                        </div>
+                    </div>
+                    <p class="correct-answer hidden" aria-live="polite"></p>
                     <label class="checkbox hidden override-label">
                         <input type="checkbox" class="override-correct"> Mark as Correct
                     </label>
@@ -145,26 +209,37 @@
                 tag.addEventListener("click", () => speak(tag.dataset.fr, "fr-CA"));
             });
 
+            list.querySelectorAll(".exercise-box").forEach(box => {
+                const input = box.querySelector(".answer");
+                box.querySelector(".speak-own-answer").addEventListener("click", () => speak(input.value, "fr-CA"));
+            });
+
             document.getElementById("exerciseForm").classList.remove("hidden");
             document.getElementById("readAllButton").disabled = true;
             document.getElementById("score").textContent = "";
         });
 
         document.getElementById("checkButton").addEventListener("click", function () {
-            document.querySelectorAll(".answer").forEach(input => {
+            document.querySelectorAll(".exercise-box").forEach(box => {
+                const input = box.querySelector(".answer");
+                const correctAnswerDisplay = box.querySelector(".correct-answer");
+                const overrideLabel = box.querySelector(".override-label");
+                const checkbox = overrideLabel.querySelector(".override-correct");
+
                 const userAnswer = input.value.trim().toLowerCase();
                 const correctAnswer = input.dataset.correct.toLowerCase();
-                const correctAnswerDisplay = input.nextElementSibling;
-                const overrideLabel = correctAnswerDisplay.nextElementSibling;
-                const checkbox = overrideLabel.querySelector(".override-correct");
 
                 if (userAnswer === correctAnswer) {
                     input.classList.add("correct");
                     input.classList.remove("incorrect");
+                    input.setAttribute("aria-invalid", "false");
+                    correctAnswerDisplay.innerHTML = "✅ Correct!";
+                    correctAnswerDisplay.classList.remove("hidden");
                 } else {
                     input.classList.add("incorrect");
                     input.classList.remove("correct");
-                    correctAnswerDisplay.innerHTML = `Correct: ${input.dataset.correct} <button class="button is-small is-info speak-correction" type="button">🔊</button>`;
+                    input.setAttribute("aria-invalid", "true");
+                    correctAnswerDisplay.innerHTML = `❌ Correct: <span lang="fr">${escapeHtml(input.dataset.correct)}</span> <button class="button is-small is-info speak-correction" type="button" aria-label="Hear the correct answer for this sentence">🔊</button>`;
                     correctAnswerDisplay.classList.remove("hidden");
                     correctAnswerDisplay.querySelector(".speak-correction")
                         .addEventListener("click", () => speak(input.dataset.correct, "fr-CA"));
@@ -179,17 +254,17 @@
         });
 
         function updateScore() {
-            const inputs = document.querySelectorAll(".answer");
+            const boxes = document.querySelectorAll(".exercise-box");
             let correctCount = 0;
-            inputs.forEach(input => {
-                const overrideLabel = input.nextElementSibling.nextElementSibling;
-                const checkbox = overrideLabel.querySelector(".override-correct");
+            boxes.forEach(box => {
+                const input = box.querySelector(".answer");
+                const checkbox = box.querySelector(".override-correct");
                 if (input.classList.contains("correct") || checkbox.checked) {
                     correctCount++;
                 }
             });
             document.getElementById("score").textContent =
-                `Score: ${correctCount} / ${inputs.length} (${Math.round((correctCount / inputs.length) * 100)}%)`;
+                `Score: ${correctCount} / ${boxes.length} (${Math.round((correctCount / boxes.length) * 100)}%)`;
         }
 
         document.getElementById("readAllButton").addEventListener("click", async () => {
