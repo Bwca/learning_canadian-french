@@ -34,8 +34,8 @@
       "vocab": []
     },
     {
-      "en": "My parents are kind.",
-      "fr": "Mes parents sont gentils.",
+      "en": "The parents are kind.",
+      "fr": "Les parents sont gentils.",
       "vocab": [
         { "fr": "parents", "en": "parents" }
       ]
@@ -48,8 +48,8 @@
       ]
     },
     {
-      "en": "I do not have many friends.",
-      "fr": "Je n'ai pas beaucoup d'amis.",
+      "en": "I have many friends.",
+      "fr": "J'ai beaucoup d'amis.",
       "vocab": []
     }
   ]

@@ -39,15 +39,15 @@
       "vocab": []
     },
     {
-      "en": "My sister is nice.",
-      "fr": "Ma sœur est gentille.",
+      "en": "The sister is nice.",
+      "fr": "La sœur est gentille.",
       "vocab": [
         { "fr": "gentille", "en": "nice (fem.)" }
       ]
     },
     {
-      "en": "My sisters are nice.",
-      "fr": "Mes sœurs sont gentilles.",
+      "en": "The sisters are nice.",
+      "fr": "Les sœurs sont gentilles.",
       "vocab": []
     },
     {
