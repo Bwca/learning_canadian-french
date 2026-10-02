@@ -1,69 +1,73 @@
 {
-  "title": "Être — present tense (set 5: questions — inversion, est-ce que, information words)",
+  "title": "Être — present tense (set 5: plural agreement)",
   "exercises": [
     {
-      "en": "Where are you (plural/formal) from exactly?",
-      "fr": "D'où êtes-vous exactement?",
+      "en": "The books are new.",
+      "fr": "Les livres sont nouveaux.",
       "vocab": [
-        { "fr": "exactement", "en": "exactly" }
+        { "fr": "livre", "en": "book" },
+        { "fr": "nouveau / nouveaux", "en": "new" }
       ]
     },
     {
-      "en": "How is your new apartment?",
-      "fr": "Comment est ton nouvel appartement?",
+      "en": "The cars are red.",
+      "fr": "Les voitures sont rouges.",
       "vocab": [
-        { "fr": "appartement", "en": "apartment" }
+        { "fr": "voiture", "en": "car" },
+        { "fr": "rouge", "en": "red" }
       ]
     },
     {
-      "en": "Who is responsible for this decision?",
-      "fr": "Qui est responsable de cette décision?",
+      "en": "My shoes are black.",
+      "fr": "Mes chaussures sont noires.",
       "vocab": [
-        { "fr": "décision", "en": "decision" }
+        { "fr": "chaussure", "en": "shoe" },
+        { "fr": "noir", "en": "black" }
       ]
     },
     {
-      "en": "At what time is the meeting tomorrow?",
-      "fr": "À quelle heure est la réunion demain?",
+      "en": "The windows are open.",
+      "fr": "Les fenêtres sont ouvertes.",
       "vocab": [
-        { "fr": "réunion", "en": "meeting" }
+        { "fr": "fenêtre", "en": "window" },
+        { "fr": "ouverte", "en": "open (fem.)" }
       ]
     },
     {
-      "en": "Why are these rules so strict?",
-      "fr": "Pourquoi ces règles sont-elles si strictes?",
+      "en": "Our friends (masc.) are kind.",
+      "fr": "Nos amis sont gentils.",
       "vocab": [
-        { "fr": "règle", "en": "rule" },
-        { "fr": "strict", "en": "strict" }
+        { "fr": "ami", "en": "friend" },
+        { "fr": "gentil", "en": "kind" }
       ]
     },
     {
-      "en": "How long have you (informal) been unemployed?",
-      "fr": "Depuis quand es-tu au chômage?",
+      "en": "Our friends (fem.) are kind.",
+      "fr": "Nos amies sont gentilles.",
       "vocab": [
-        { "fr": "au chômage", "en": "unemployed" }
+        { "fr": "amie", "en": "friend (fem.)" }
       ]
     },
     {
-      "en": "Isn't he supposed to be here by now?",
-      "fr": "N'est-il pas censé être ici maintenant?",
+      "en": "The chairs are small.",
+      "fr": "Les chaises sont petites.",
       "vocab": [
-        { "fr": "censé", "en": "supposed to" }
+        { "fr": "chaise", "en": "chair" }
       ]
     },
     {
-      "en": "Which one of you is the manager?",
-      "fr": "Lequel d'entre vous est le gérant?",
+      "en": "The students (masc.) are ready.",
+      "fr": "Les étudiants sont prêts.",
       "vocab": [
-        { "fr": "lequel", "en": "which one" },
-        { "fr": "gérant", "en": "manager" }
+        { "fr": "étudiant", "en": "student" }
       ]
     },
     {
-      "en": "Aren't we already late for the appointment?",
-      "fr": "Ne sommes-nous pas déjà en retard pour le rendez-vous?",
+      "en": "The apples are green.",
+      "fr": "Les pommes sont vertes.",
       "vocab": [
-        { "fr": "rendez-vous", "en": "appointment" }
+        { "fr": "pomme", "en": "apple" },
+        { "fr": "vert", "en": "green" }
       ]
     }
   ]

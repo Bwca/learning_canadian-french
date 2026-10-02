@@ -1,76 +1,67 @@
 {
-  "title": "Être — present tense (set 6: irregular adjective agreement)",
+  "title": "Être — present tense (set 6: feelings and states)",
   "exercises": [
     {
-      "en": "She is kind, but her sister is a bit jealous.",
-      "fr": "Elle est gentille, mais sa sœur est un peu jalouse.",
+      "en": "I am sick.",
+      "fr": "Je suis malade.",
       "vocab": [
-        { "fr": "gentil / gentille", "en": "kind" },
-        { "fr": "jaloux / jalouse", "en": "jealous" }
+        { "fr": "malade", "en": "sick" }
       ]
     },
     {
-      "en": "My hands are dry, but my face is soft.",
-      "fr": "Mes mains sont sèches, mais mon visage est doux.",
+      "en": "He is busy.",
+      "fr": "Il est occupé.",
       "vocab": [
-        { "fr": "sec / sèche", "en": "dry" },
-        { "fr": "doux / douce", "en": "soft" }
+        { "fr": "occupé", "en": "busy" }
       ]
     },
     {
-      "en": "His hair is red, and hers is white.",
-      "fr": "Ses cheveux sont roux, et les siens sont blancs.",
+      "en": "She is nervous.",
+      "fr": "Elle est nerveuse.",
       "vocab": [
-        { "fr": "roux / rousse", "en": "red-haired" },
-        { "fr": "blanc / blanche", "en": "white" }
+        { "fr": "nerveuse", "en": "nervous (fem.)" }
       ]
     },
     {
-      "en": "This bread is fresh, but these vegetables are not.",
-      "fr": "Ce pain est frais, mais ces légumes ne le sont pas.",
+      "en": "We are tired.",
+      "fr": "Nous sommes fatigués.",
       "vocab": [
-        { "fr": "frais / fraîche", "en": "fresh" },
-        { "fr": "légume", "en": "vegetable" }
+        { "fr": "fatigué", "en": "tired" }
       ]
     },
     {
-      "en": "The lines are too long, and the wait is exhausting.",
-      "fr": "Les files sont trop longues, et l'attente est épuisante.",
+      "en": "They (fem.) are calm.",
+      "fr": "Elles sont calmes.",
       "vocab": [
-        { "fr": "file", "en": "line / queue" },
-        { "fr": "attente", "en": "wait" }
+        { "fr": "calme", "en": "calm" }
       ]
     },
     {
-      "en": "Is your favorite season autumn or winter?",
-      "fr": "Ta saison favorite est-elle l'automne ou l'hiver?",
+      "en": "You (informal) are happy today.",
+      "fr": "Tu es content aujourd'hui.",
       "vocab": [
-        { "fr": "favori / favorite", "en": "favorite" },
-        { "fr": "saison", "en": "season" }
+        { "fr": "aujourd'hui", "en": "today" }
       ]
     },
     {
-      "en": "These walls are thin, but the door is thick.",
-      "fr": "Ces murs sont minces, mais la porte est épaisse.",
+      "en": "I am not sad.",
+      "fr": "Je ne suis pas triste.",
       "vocab": [
-        { "fr": "mince", "en": "thin" },
-        { "fr": "épais / épaisse", "en": "thick" }
+        { "fr": "triste", "en": "sad" }
       ]
     },
     {
-      "en": "Their excuses are unbelievable.",
-      "fr": "Leurs excuses sont invraisemblables.",
+      "en": "The children are quiet.",
+      "fr": "Les enfants sont calmes.",
       "vocab": [
-        { "fr": "excuse", "en": "excuse" },
-        { "fr": "invraisemblable", "en": "unbelievable" }
+        { "fr": "enfant", "en": "child" }
       ]
     },
     {
-      "en": "The instructions are clear, but the deadline is tight.",
-      "fr": "Les instructions sont claires, mais le délai est serré.",
+      "en": "My parents are proud.",
+      "fr": "Mes parents sont fiers.",
       "vocab": [
-        { "fr": "délai", "en": "deadline" },
-        { "fr": "serré", "en": "tight" }
+        { "fr": "fier", "en": "proud" }
       ]
     }
   ]

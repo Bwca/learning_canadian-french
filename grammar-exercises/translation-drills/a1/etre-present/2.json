@@ -1,70 +1,74 @@
 {
-  "title": "Être — present tense (set 2: agreement, negation, inversion, impersonal expressions)",
+  "title": "Être — present tense (set 2: adjective agreement, masculine/feminine)",
   "exercises": [
     {
-      "en": "Is he a firefighter or a police officer?",
-      "fr": "Est-il pompier ou policier?",
+      "en": "My brother is tall.",
+      "fr": "Mon frère est grand.",
       "vocab": [
-        { "fr": "pompier", "en": "firefighter" },
-        { "fr": "policier", "en": "police officer" }
+        { "fr": "frère", "en": "brother" },
+        { "fr": "grand", "en": "tall" }
       ]
     },
     {
-      "en": "My cousins (fem.) are not very patient.",
-      "fr": "Mes cousines ne sont pas très patientes.",
+      "en": "My sister is tall.",
+      "fr": "Ma sœur est grande.",
       "vocab": [
-        { "fr": "patient / patiente", "en": "patient" }
+        { "fr": "sœur", "en": "sister" },
+        { "fr": "grande", "en": "tall (fem.)" }
       ]
     },
     {
-      "en": "Why are you (informal) always so quiet?",
-      "fr": "Pourquoi est-ce que tu es toujours si silencieux?",
+      "en": "My father is small.",
+      "fr": "Mon père est petit.",
       "vocab": [
-        { "fr": "silencieux", "en": "quiet" }
+        { "fr": "père", "en": "father" },
+        { "fr": "petit", "en": "small" }
       ]
     },
     {
-      "en": "We are neither rich nor famous, and that's fine.",
-      "fr": "Nous ne sommes ni riches ni célèbres, et c'est très bien.",
+      "en": "My mother is small.",
+      "fr": "Ma mère est petite.",
       "vocab": [
-        { "fr": "célèbre", "en": "famous" }
+        { "fr": "mère", "en": "mother" },
+        { "fr": "petite", "en": "small (fem.)" }
       ]
     },
     {
-      "en": "Aren't you (formal) ashamed of your behavior?",
-      "fr": "N'êtes-vous pas honteux de votre comportement?",
+      "en": "The boy is nice.",
+      "fr": "Le garçon est gentil.",
       "vocab": [
-        { "fr": "honteux", "en": "ashamed" },
-        { "fr": "comportement", "en": "behavior" }
+        { "fr": "garçon", "en": "boy" },
+        { "fr": "gentil", "en": "nice" }
       ]
     },
     {
-      "en": "These photos are blurry, but the message is clear.",
-      "fr": "Ces photos sont floues, mais le message est clair.",
+      "en": "The girl is nice.",
+      "fr": "La fille est gentille.",
       "vocab": [
-        { "fr": "flou", "en": "blurry" }
+        { "fr": "fille", "en": "girl" },
+        { "fr": "gentille", "en": "nice (fem.)" }
       ]
     },
     {
-      "en": "He is neither my colleague nor my friend.",
-      "fr": "Il n'est ni mon collègue ni mon ami.",
+      "en": "My parents are tall.",
+      "fr": "Mes parents sont grands.",
       "vocab": [
-        { "fr": "collègue", "en": "colleague" }
+        { "fr": "parents", "en": "parents" }
       ]
     },
     {
-      "en": "Since when have you (plural/formal) been so demanding?",
-      "fr": "Depuis quand êtes-vous si exigeants?",
+      "en": "My cousins (fem.) are nice.",
+      "fr": "Mes cousines sont gentilles.",
       "vocab": [
-        { "fr": "exigeant", "en": "demanding" }
+        { "fr": "cousine", "en": "cousin (fem.)" }
       ]
     },
     {
-      "en": "It's obvious that we are exhausted.",
-      "fr": "Il est évident que nous sommes épuisés.",
+      "en": "The children are happy.",
+      "fr": "Les enfants sont contents.",
       "vocab": [
-        { "fr": "évident", "en": "obvious" },
-        { "fr": "épuisé", "en": "exhausted" }
+        { "fr": "enfant", "en": "child" },
+        { "fr": "content", "en": "happy" }
       ]
     }
   ]

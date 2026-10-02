@@ -1,70 +1,68 @@
 {
-  "title": "Être — present tense (set 10: capstone — negation + question + agreement combined)",
+  "title": "Être — present tense (set 10: mixed review — statements, negation, questions)",
   "exercises": [
     {
-      "en": "Aren't you (informal) supposed to be at work by now?",
-      "fr": "N'es-tu pas censé être au travail maintenant?",
+      "en": "I am a student.",
+      "fr": "Je suis étudiant.",
       "vocab": [
-        { "fr": "au travail", "en": "at work" }
+        { "fr": "étudiant", "en": "student" }
       ]
     },
     {
-      "en": "My colleagues are neither ready nor willing to compromise.",
-      "fr": "Mes collègues ne sont ni prêts ni disposés à faire des compromis.",
+      "en": "She is not tired.",
+      "fr": "Elle n'est pas fatiguée.",
       "vocab": [
-        { "fr": "disposé à", "en": "willing to" },
-        { "fr": "compromis", "en": "compromise" }
+        { "fr": "fatiguée", "en": "tired (fem.)" }
       ]
     },
     {
-      "en": "Is it true that you (plural/formal) are no longer interested in the offer?",
-      "fr": "Est-ce vrai que vous n'êtes plus intéressés par l'offre?",
+      "en": "Are you (informal) ready?",
+      "fr": "Est-ce que tu es prêt?",
       "vocab": [
-        { "fr": "offre", "en": "offer" }
+        { "fr": "prêt", "en": "ready" }
       ]
     },
     {
-      "en": "These arguments are neither convincing nor original.",
-      "fr": "Ces arguments ne sont ni convaincants ni originaux.",
+      "en": "My parents are kind.",
+      "fr": "Mes parents sont gentils.",
       "vocab": [
-        { "fr": "convaincant", "en": "convincing" },
-        { "fr": "original / originaux", "en": "original" }
+        { "fr": "gentil", "en": "kind" }
       ]
     },
     {
-      "en": "Why are we always the last ones to know?",
-      "fr": "Pourquoi sommes-nous toujours les derniers à savoir?",
+      "en": "We are not at home.",
+      "fr": "Nous ne sommes pas à la maison.",
       "vocab": [
-        { "fr": "à savoir", "en": "to know" }
+        { "fr": "à la maison", "en": "at home" }
       ]
     },
     {
-      "en": "Isn't she supposed to be more careful?",
-      "fr": "N'est-elle pas censée être plus prudente?",
+      "en": "Where is the teacher?",
+      "fr": "Où est le professeur?",
       "vocab": [
-        { "fr": "prudent", "en": "careful" }
+        { "fr": "où", "en": "where" }
       ]
     },
     {
-      "en": "We are not only late, we are also unprepared.",
-      "fr": "Nous ne sommes pas seulement en retard, nous sommes aussi mal préparés.",
+      "en": "They (fem.) are Canadian.",
+      "fr": "Elles sont canadiennes.",
       "vocab": [
-        { "fr": "pas seulement", "en": "not only" },
-        { "fr": "mal préparé", "en": "unprepared" }
+        { "fr": "canadienne", "en": "Canadian (fem.)" }
       ]
     },
     {
-      "en": "Are your reasons even valid, or are you just stubborn?",
-      "fr": "Tes raisons sont-elles seulement valables, ou es-tu simplement têtu?",
+      "en": "Is the door open?",
+      "fr": "Est-ce que la porte est ouverte?",
       "vocab": [
-        { "fr": "valable", "en": "valid" }
+        { "fr": "ouverte", "en": "open (fem.)" }
       ]
     },
     {
-      "en": "It's hardly surprising, they are never satisfied.",
-      "fr": "Ce n'est guère surprenant, ils ne sont jamais satisfaits.",
+      "en": "I am not sad today.",
+      "fr": "Je ne suis pas triste aujourd'hui.",
       "vocab": [
-        { "fr": "surprenant", "en": "surprising" }
+        { "fr": "triste", "en": "sad" },
+        { "fr": "aujourd'hui", "en": "today" }
       ]
     }
   ]

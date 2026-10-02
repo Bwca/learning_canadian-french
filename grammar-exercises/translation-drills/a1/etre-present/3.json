@@ -1,71 +1,67 @@
 {
-  "title": "Être — present tense (set 3: professions & nationalities, no-article rule)",
+  "title": "Être — present tense (set 3: basic negation with ne...pas)",
   "exercises": [
     {
-      "en": "Is she an engineer or an architect?",
-      "fr": "Est-elle ingénieure ou architecte?",
+      "en": "I am not tired.",
+      "fr": "Je ne suis pas fatigué.",
       "vocab": [
-        { "fr": "ingénieur / ingénieure", "en": "engineer" },
-        { "fr": "architecte", "en": "architect" }
+        { "fr": "fatigué", "en": "tired" }
       ]
     },
     {
-      "en": "My neighbors (masc.) are Belgian, not French.",
-      "fr": "Mes voisins sont belges, pas français.",
+      "en": "You (informal) are not late.",
+      "fr": "Tu n'es pas en retard.",
       "vocab": [
-        { "fr": "voisin", "en": "neighbor" },
-        { "fr": "belge", "en": "Belgian" }
+        { "fr": "en retard", "en": "late" }
       ]
     },
     {
-      "en": "He is neither a soldier nor a teacher, he's a musician.",
-      "fr": "Il n'est ni soldat ni professeur, il est musicien.",
+      "en": "He is not a doctor.",
+      "fr": "Il n'est pas médecin.",
       "vocab": [
-        { "fr": "soldat", "en": "soldier" },
-        { "fr": "musicien", "en": "musician" }
+        { "fr": "médecin", "en": "doctor" }
       ]
     },
     {
-      "en": "Are your parents Canadian or American?",
-      "fr": "Tes parents sont-ils canadiens ou américains?",
-      "vocab": []
-    },
-    {
-      "en": "We are not enemies, we are simply rivals.",
-      "fr": "Nous ne sommes pas ennemis, nous sommes simplement rivaux.",
+      "en": "She is not here.",
+      "fr": "Elle n'est pas ici.",
       "vocab": [
-        { "fr": "ennemi", "en": "enemy" },
-        { "fr": "rival / rivaux", "en": "rival" }
+        { "fr": "ici", "en": "here" }
       ]
     },
     {
-      "en": "Is your brother an electrician or a plumber?",
-      "fr": "Ton frère est-il électricien ou plombier?",
+      "en": "We are not ready.",
+      "fr": "Nous ne sommes pas prêts.",
       "vocab": [
-        { "fr": "électricien", "en": "electrician" },
-        { "fr": "plombier", "en": "plumber" }
+        { "fr": "prêt", "en": "ready" }
       ]
     },
     {
-      "en": "They (fem.) are neither nurses nor pharmacists.",
-      "fr": "Elles ne sont ni infirmières ni pharmaciennes.",
+      "en": "You (formal/plural) are not alone.",
+      "fr": "Vous n'êtes pas seuls.",
       "vocab": [
-        { "fr": "infirmière", "en": "nurse" },
-        { "fr": "pharmacienne", "en": "pharmacist" }
+        { "fr": "seul", "en": "alone" }
       ]
     },
     {
-      "en": "I am not a beginner anymore, I am an expert.",
-      "fr": "Je ne suis plus débutant, je suis expert.",
+      "en": "They (masc.) are not French.",
+      "fr": "Ils ne sont pas français.",
       "vocab": [
-        { "fr": "débutant", "en": "beginner" }
+        { "fr": "français", "en": "French" }
       ]
     },
     {
-      "en": "Are you (informal) really a vegetarian?",
-      "fr": "Es-tu vraiment végétarien?",
+      "en": "They (fem.) are not at home.",
+      "fr": "Elles ne sont pas à la maison.",
       "vocab": [
-        { "fr": "végétarien", "en": "vegetarian" }
+        { "fr": "à la maison", "en": "at home" }
+      ]
+    },
+    {
+      "en": "I am not sad.",
+      "fr": "Je ne suis pas triste.",
+      "vocab": [
+        { "fr": "triste", "en": "sad" }
       ]
     }
   ]

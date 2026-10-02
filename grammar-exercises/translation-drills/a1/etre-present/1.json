@@ -1,92 +1,67 @@
 {
-  "title": "Être — present tense (agreement, negation, inversion, professions)",
+  "title": "Être — present tense (set 1: basic identity & professions)",
   "exercises": [
     {
-      "en": "He is a cosmonaut.",
-      "fr": "Il est cosmonaute.",
+      "en": "I am a student.",
+      "fr": "Je suis étudiant.",
       "vocab": [
-        { "fr": "cosmonaute", "en": "cosmonaut" }
+        { "fr": "étudiant", "en": "student" }
       ]
     },
     {
-      "en": "We are ready.",
-      "fr": "Nous sommes prêts.",
+      "en": "You (informal) are a teacher.",
+      "fr": "Tu es professeur.",
       "vocab": [
-        { "fr": "prêt", "en": "ready" }
+        { "fr": "professeur", "en": "teacher" }
       ]
     },
     {
-      "en": "Are you tired? (formal)",
-      "fr": "Êtes-vous fatigué?",
-      "vocab": [
-        { "fr": "fatigué", "en": "tired" }
-      ]
-    },
-    {
-      "en": "She is not a doctor.",
-      "fr": "Elle n'est pas médecin.",
+      "en": "He is a doctor.",
+      "fr": "Il est médecin.",
       "vocab": [
         { "fr": "médecin", "en": "doctor" }
       ]
     },
     {
-      "en": "They (fem.) are proud of their work.",
-      "fr": "Elles sont fières de leur travail.",
+      "en": "She is a nurse.",
+      "fr": "Elle est infirmière.",
       "vocab": [
-        { "fr": "fier / fière", "en": "proud" },
-        { "fr": "travail", "en": "work" }
+        { "fr": "infirmière", "en": "nurse" }
       ]
     },
     {
-      "en": "You (informal) are never on time.",
-      "fr": "Tu n'es jamais à l'heure.",
+      "en": "We are friends.",
+      "fr": "Nous sommes amis.",
       "vocab": [
-        { "fr": "à l'heure", "en": "on time" }
+        { "fr": "ami", "en": "friend" }
       ]
     },
     {
-      "en": "I am neither surprised nor worried.",
-      "fr": "Je ne suis ni surpris ni inquiet.",
+      "en": "You (formal/plural) are neighbours.",
+      "fr": "Vous êtes voisins.",
       "vocab": [
-        { "fr": "surpris", "en": "surprised" },
-        { "fr": "inquiet", "en": "worried" }
+        { "fr": "voisin", "en": "neighbour" }
       ]
     },
     {
-      "en": "Are they (masc.) journalists?",
-      "fr": "Sont-ils journalistes?",
+      "en": "They (masc.) are cooks.",
+      "fr": "Ils sont cuisiniers.",
       "vocab": [
-        { "fr": "journaliste", "en": "journalist" }
+        { "fr": "cuisinier", "en": "cook" }
       ]
     },
     {
-      "en": "Is it you who is late?",
-      "fr": "Est-ce toi qui es en retard?",
+      "en": "They (fem.) are artists.",
+      "fr": "Elles sont artistes.",
       "vocab": [
-        { "fr": "en retard", "en": "late" }
+        { "fr": "artiste", "en": "artist" }
       ]
     },
     {
-      "en": "We are neither the first nor the last.",
-      "fr": "Nous ne sommes ni les premiers ni les derniers.",
+      "en": "I am happy.",
+      "fr": "Je suis content.",
       "vocab": [
-        { "fr": "premier", "en": "first" },
-        { "fr": "dernier", "en": "last" }
-      ]
-    },
-    {
-      "en": "Is she originally from Montreal?",
-      "fr": "Est-elle originaire de Montréal?",
-      "vocab": [
-        { "fr": "originaire de", "en": "originally from" }
-      ]
-    },
-    {
-      "en": "Your ideas are brilliant, but you (informal) are stubborn.",
-      "fr": "Tes idées sont brillantes, mais tu es têtu.",
-      "vocab": [
-        { "fr": "brillant", "en": "brilliant" },
-        { "fr": "têtu", "en": "stubborn" }
+        { "fr": "content", "en": "happy" }
       ]
     }
   ]

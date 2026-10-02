@@ -1,69 +1,68 @@
 {
-  "title": "Être — present tense (set 9: c'est vs il/elle est, impersonal expressions)",
+  "title": "Être — present tense (set 9: basic question words with être)",
   "exercises": [
     {
-      "en": "It's a good idea, but it's also risky.",
-      "fr": "C'est une bonne idée, mais c'est aussi risqué.",
+      "en": "Where is the bathroom?",
+      "fr": "Où est la salle de bain?",
       "vocab": [
-        { "fr": "risqué", "en": "risky" }
+        { "fr": "où", "en": "where" },
+        { "fr": "salle de bain", "en": "bathroom" }
       ]
     },
     {
-      "en": "He is nice; that's rare these days.",
-      "fr": "Il est gentil; c'est rare de nos jours.",
+      "en": "Who is the teacher?",
+      "fr": "Qui est le professeur?",
       "vocab": [
-        { "fr": "de nos jours", "en": "these days" }
+        { "fr": "qui", "en": "who" }
       ]
     },
     {
-      "en": "He is a doctor; that's reassuring.",
-      "fr": "Il est médecin; c'est rassurant.",
+      "en": "Where are my shoes?",
+      "fr": "Où sont mes chaussures?",
       "vocab": [
-        { "fr": "rassurant", "en": "reassuring" }
+        { "fr": "chaussure", "en": "shoe" }
       ]
     },
     {
-      "en": "It's unfair, and it's obvious.",
-      "fr": "C'est injuste, et c'est évident.",
+      "en": "How is the weather today?",
+      "fr": "Comment est le temps aujourd'hui?",
       "vocab": [
-        { "fr": "injuste", "en": "unfair" }
+        { "fr": "comment", "en": "how" },
+        { "fr": "temps", "en": "weather" }
       ]
     },
     {
-      "en": "Is it necessary, or is it optional?",
-      "fr": "Est-ce nécessaire, ou est-ce facultatif?",
+      "en": "Who is at the door?",
+      "fr": "Qui est à la porte?",
       "vocab": [
-        { "fr": "nécessaire", "en": "necessary" },
-        { "fr": "facultatif", "en": "optional" }
+        { "fr": "porte", "en": "door" }
       ]
     },
     {
-      "en": "She is Canadian; it's obvious from her accent.",
-      "fr": "Elle est canadienne; c'est évident à son accent.",
+      "en": "Where is the station?",
+      "fr": "Où est la gare?",
+      "vocab": [
+        { "fr": "gare", "en": "station" }
+      ]
+    },
+    {
+      "en": "Why are you (formal) sad?",
+      "fr": "Pourquoi êtes-vous triste?",
+      "vocab": [
+        { "fr": "pourquoi", "en": "why" },
+        { "fr": "triste", "en": "sad" }
+      ]
+    },
+    {
+      "en": "Where are the children?",
+      "fr": "Où sont les enfants?",
       "vocab": []
     },
     {
-      "en": "It's strange, but he is never nervous.",
-      "fr": "C'est étrange, mais il n'est jamais nerveux.",
+      "en": "How is your sister?",
+      "fr": "Comment est ta sœur?",
       "vocab": [
-        { "fr": "étrange", "en": "strange" },
-        { "fr": "nerveux", "en": "nervous" }
-      ]
-    },
-    {
-      "en": "Is it true that they are twins?",
-      "fr": "Est-ce vrai qu'ils sont jumeaux?",
-      "vocab": [
-        { "fr": "vrai", "en": "true" },
-        { "fr": "jumeau / jumeaux", "en": "twin" }
-      ]
-    },
-    {
-      "en": "It's a shame, and the store is closed today.",
-      "fr": "C'est dommage, et le magasin est fermé aujourd'hui.",
-      "vocab": [
-        { "fr": "dommage", "en": "shame / too bad" },
-        { "fr": "fermé", "en": "closed" }
+        { "fr": "sœur", "en": "sister" }
       ]
     }
   ]

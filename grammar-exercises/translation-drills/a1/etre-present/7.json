@@ -1,68 +1,65 @@
 {
-  "title": "Être — present tense (set 7: idiomatic expressions with être)",
+  "title": "Être — present tense (set 7: nationalities and origin)",
   "exercises": [
     {
-      "en": "I am in the middle of finishing my homework.",
-      "fr": "Je suis en train de finir mes devoirs.",
+      "en": "I am Canadian.",
+      "fr": "Je suis canadien.",
       "vocab": [
-        { "fr": "être en train de", "en": "to be in the middle of" }
+        { "fr": "canadien", "en": "Canadian" }
       ]
     },
     {
-      "en": "Are you (informal) about to leave?",
-      "fr": "Es-tu sur le point de partir?",
+      "en": "She is Canadian.",
+      "fr": "Elle est canadienne.",
       "vocab": [
-        { "fr": "être sur le point de", "en": "to be about to" }
+        { "fr": "canadienne", "en": "Canadian (fem.)" }
       ]
     },
     {
-      "en": "She is in a bad mood today.",
-      "fr": "Elle est de mauvaise humeur aujourd'hui.",
+      "en": "We are from Montreal.",
+      "fr": "Nous sommes de Montréal.",
       "vocab": [
-        { "fr": "être de mauvaise humeur", "en": "to be in a bad mood" }
+        { "fr": "de", "en": "from" }
       ]
     },
     {
-      "en": "We are not aware of the changes.",
-      "fr": "Nous ne sommes pas au courant des changements.",
+      "en": "He is not French.",
+      "fr": "Il n'est pas français.",
       "vocab": [
-        { "fr": "être au courant", "en": "to be aware" }
+        { "fr": "français", "en": "French" }
       ]
     },
     {
-      "en": "Are you (formal) comfortable with this decision?",
-      "fr": "Êtes-vous à l'aise avec cette décision?",
+      "en": "Are you (informal) American?",
+      "fr": "Est-ce que tu es américain?",
       "vocab": [
-        { "fr": "être à l'aise", "en": "to be comfortable" }
+        { "fr": "américain", "en": "American" }
       ]
     },
     {
-      "en": "That is out of the question.",
-      "fr": "C'est hors de question.",
+      "en": "My parents are Haitian.",
+      "fr": "Mes parents sont haïtiens.",
       "vocab": [
-        { "fr": "hors de question", "en": "out of the question" }
+        { "fr": "haïtien", "en": "Haitian" }
       ]
     },
     {
-      "en": "I don't agree with your plan.",
-      "fr": "Je ne suis pas d'accord avec ton plan.",
+      "en": "They (fem.) are Québécoise.",
+      "fr": "Elles sont québécoises.",
       "vocab": [
-        { "fr": "être d'accord", "en": "to agree" }
+        { "fr": "québécois / québécoise", "en": "from Quebec" }
       ]
     },
     {
-      "en": "He is in great shape thanks to running.",
-      "fr": "Il est en pleine forme grâce à la course.",
-      "vocab": [
-        { "fr": "être en pleine forme", "en": "to be in great shape" },
-        { "fr": "grâce à", "en": "thanks to" }
-      ]
+      "en": "I am from Quebec City.",
+      "fr": "Je suis de Québec.",
+      "vocab": []
     },
     {
-      "en": "Why are you (plural/informal) always angry in the morning?",
-      "fr": "Pourquoi êtes-vous toujours en colère le matin?",
+      "en": "Is she Italian?",
+      "fr": "Est-ce qu'elle est italienne?",
       "vocab": [
-        { "fr": "être en colère", "en": "to be angry" }
+        { "fr": "italienne", "en": "Italian (fem.)" }
       ]
     }
   ]

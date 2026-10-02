@@ -1,70 +1,68 @@
 {
-  "title": "Être — present tense (set 4: negation beyond ne...pas)",
+  "title": "Être — present tense (set 4: yes/no questions with est-ce que)",
   "exercises": [
     {
-      "en": "We are only three in the team.",
-      "fr": "Nous ne sommes que trois dans l'équipe.",
+      "en": "Are you (informal) ready?",
+      "fr": "Est-ce que tu es prêt?",
       "vocab": [
-        { "fr": "ne...que", "en": "only" },
-        { "fr": "équipe", "en": "team" }
+        { "fr": "prêt", "en": "ready" }
       ]
     },
     {
-      "en": "He is not even ready.",
-      "fr": "Il n'est même pas prêt.",
+      "en": "Is he at home?",
+      "fr": "Est-ce qu'il est à la maison?",
       "vocab": [
-        { "fr": "même pas", "en": "not even" }
+        { "fr": "à la maison", "en": "at home" }
       ]
     },
     {
-      "en": "I am hardly surprised anymore.",
-      "fr": "Je ne suis guère surpris.",
+      "en": "Is she tired?",
+      "fr": "Est-ce qu'elle est fatiguée?",
       "vocab": [
-        { "fr": "ne...guère", "en": "hardly" }
+        { "fr": "fatiguée", "en": "tired (fem.)" }
       ]
     },
     {
-      "en": "They (masc.) are not at all convinced.",
-      "fr": "Ils ne sont pas du tout convaincus.",
+      "en": "Are we late?",
+      "fr": "Est-ce que nous sommes en retard?",
       "vocab": [
-        { "fr": "convaincu", "en": "convinced" }
+        { "fr": "en retard", "en": "late" }
       ]
     },
     {
-      "en": "She is not yet ready for the exam.",
-      "fr": "Elle n'est pas encore prête pour l'examen.",
+      "en": "Are you (formal) a teacher?",
+      "fr": "Est-ce que vous êtes professeur?",
       "vocab": [
-        { "fr": "pas encore", "en": "not yet" }
+        { "fr": "professeur", "en": "teacher" }
       ]
     },
     {
-      "en": "We are absolutely not responsible for this mistake.",
-      "fr": "Nous ne sommes absolument pas responsables de cette erreur.",
+      "en": "Are they (masc.) students?",
+      "fr": "Est-ce qu'ils sont étudiants?",
       "vocab": [
-        { "fr": "responsable", "en": "responsible" },
-        { "fr": "erreur", "en": "mistake" }
+        { "fr": "étudiant", "en": "student" }
       ]
     },
     {
-      "en": "You (formal) are in no way obligated to answer.",
-      "fr": "Vous n'êtes aucunement obligé de répondre.",
+      "en": "Are they (fem.) happy?",
+      "fr": "Est-ce qu'elles sont contentes?",
       "vocab": [
-        { "fr": "aucunement", "en": "in no way" },
-        { "fr": "obligé", "en": "obligated" }
+        { "fr": "contentes", "en": "happy (fem. pl.)" }
       ]
     },
     {
-      "en": "Is he no longer interested in the project?",
-      "fr": "N'est-il plus intéressé par le projet?",
+      "en": "Am I right?",
+      "fr": "Est-ce que je suis correct?",
       "vocab": [
-        { "fr": "intéressé", "en": "interested" }
+        { "fr": "correct", "en": "right / correct" }
       ]
     },
     {
-      "en": "I am nothing without my friends.",
-      "fr": "Je ne suis rien sans mes amis.",
+      "en": "Is the door open?",
+      "fr": "Est-ce que la porte est ouverte?",
       "vocab": [
-        { "fr": "ne...rien", "en": "nothing" }
+        { "fr": "porte", "en": "door" },
+        { "fr": "ouverte", "en": "open (fem.)" }
       ]
     }
   ]

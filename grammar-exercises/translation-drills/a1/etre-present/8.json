@@ -1,68 +1,73 @@
 {
-  "title": "Être — present tense (set 8: comparisons — plus/moins/aussi...que, superlatives)",
+  "title": "Être — present tense (set 8: where things are)",
   "exercises": [
     {
-      "en": "This exercise is more difficult than the last one.",
-      "fr": "Cet exercice est plus difficile que le dernier.",
+      "en": "The book is on the table.",
+      "fr": "Le livre est sur la table.",
       "vocab": [
-        { "fr": "difficile", "en": "difficult" }
+        { "fr": "sur", "en": "on" },
+        { "fr": "table", "en": "table" }
       ]
     },
     {
-      "en": "Are you (informal) as tired as I am?",
-      "fr": "Es-tu aussi fatigué que moi?",
+      "en": "My keys are in my bag.",
+      "fr": "Mes clés sont dans mon sac.",
       "vocab": [
-        { "fr": "aussi...que", "en": "as...as" }
+        { "fr": "clé", "en": "key" },
+        { "fr": "dans", "en": "in" },
+        { "fr": "sac", "en": "bag" }
       ]
     },
     {
-      "en": "My brother is less patient than my sister.",
-      "fr": "Mon frère est moins patient que ma sœur.",
+      "en": "We are at the restaurant.",
+      "fr": "Nous sommes au restaurant.",
       "vocab": [
-        { "fr": "moins...que", "en": "less...than" }
+        { "fr": "restaurant", "en": "restaurant" }
       ]
     },
     {
-      "en": "This neighborhood is the safest in the city.",
-      "fr": "Ce quartier est le plus sûr de la ville.",
+      "en": "She is at school.",
+      "fr": "Elle est à l'école.",
       "vocab": [
-        { "fr": "quartier", "en": "neighborhood" },
-        { "fr": "sûr", "en": "safe" }
+        { "fr": "école", "en": "school" }
       ]
     },
     {
-      "en": "Their solution is simpler than ours.",
-      "fr": "Leur solution est plus simple que la nôtre.",
+      "en": "They (masc.) are at work.",
+      "fr": "Ils sont au travail.",
       "vocab": [
-        { "fr": "la nôtre", "en": "ours" }
+        { "fr": "travail", "en": "work" }
       ]
     },
     {
-      "en": "We are just as determined as they are.",
-      "fr": "Nous sommes tout aussi déterminés qu'eux.",
+      "en": "The cat is under the bed.",
+      "fr": "Le chat est sous le lit.",
       "vocab": [
-        { "fr": "déterminé", "en": "determined" }
+        { "fr": "chat", "en": "cat" },
+        { "fr": "sous", "en": "under" },
+        { "fr": "lit", "en": "bed" }
       ]
     },
     {
-      "en": "This test is the hardest of the semester.",
-      "fr": "Ce test est le plus difficile du semestre.",
+      "en": "I am not at home.",
+      "fr": "Je ne suis pas à la maison.",
       "vocab": [
-        { "fr": "semestre", "en": "semester" }
+        { "fr": "à la maison", "en": "at home" }
       ]
     },
     {
-      "en": "Is your apartment bigger than mine?",
-      "fr": "Ton appartement est-il plus grand que le mien?",
+      "en": "Is the bank near here?",
+      "fr": "Est-ce que la banque est près d'ici?",
       "vocab": [
-        { "fr": "le mien", "en": "mine" }
+        { "fr": "banque", "en": "bank" },
+        { "fr": "près d'ici", "en": "near here" }
       ]
     },
     {
-      "en": "These shoes are less comfortable than the other ones.",
-      "fr": "Ces chaussures sont moins confortables que les autres.",
+      "en": "The children are in the garden.",
+      "fr": "Les enfants sont dans le jardin.",
       "vocab": [
-        { "fr": "confortable", "en": "comfortable" }
+        { "fr": "jardin", "en": "garden" }
       ]
     }
   ]
