@@ -1,66 +1,66 @@
 {
-  "title": "Être — present tense (set 7: nationalities and origin)",
+  "title": "Être — present tense (set 7: basic question words with être)",
   "exercises": [
     {
-      "en": "I am Canadian.",
-      "fr": "Je suis canadien.",
+      "en": "Where is the bathroom?",
+      "fr": "Où est la salle de bain?",
       "vocab": [
-        { "fr": "canadien", "en": "Canadian" }
+        { "fr": "où", "en": "where" },
+        { "fr": "salle de bain", "en": "bathroom" }
       ]
     },
     {
-      "en": "She is Canadian.",
-      "fr": "Elle est canadienne.",
+      "en": "Who is the teacher?",
+      "fr": "Qui est le professeur?",
       "vocab": [
-        { "fr": "canadienne", "en": "Canadian (fem.)" }
+        { "fr": "qui", "en": "who" }
       ]
     },
     {
-      "en": "We are from Montreal.",
-      "fr": "Nous sommes de Montréal.",
+      "en": "Where are the shoes?",
+      "fr": "Où sont les chaussures?",
       "vocab": [
-        { "fr": "de", "en": "from" }
+        { "fr": "chaussure", "en": "shoe" }
       ]
     },
     {
-      "en": "He is not French.",
-      "fr": "Il n'est pas français.",
+      "en": "How is the weather today?",
+      "fr": "Comment est le temps aujourd'hui?",
       "vocab": [
-        { "fr": "français", "en": "French" }
+        { "fr": "comment", "en": "how" },
+        { "fr": "temps", "en": "weather" }
       ]
     },
     {
-      "en": "Are you (informal) American?",
-      "fr": "Est-ce que tu es américain?",
+      "en": "Who is at the door?",
+      "fr": "Qui est à la porte?",
       "vocab": [
-        { "fr": "américain", "en": "American" }
+        { "fr": "porte", "en": "door" }
       ]
     },
     {
-      "en": "My parents are Haitian.",
-      "fr": "Mes parents sont haïtiens.",
+      "en": "Where is the station?",
+      "fr": "Où est la gare?",
       "vocab": [
-        { "fr": "haïtien", "en": "Haitian" }
+        { "fr": "gare", "en": "station" }
       ]
     },
     {
-      "en": "They (fem.) are Québécoise.",
-      "fr": "Elles sont québécoises.",
+      "en": "Who is tired?",
+      "fr": "Qui est fatigué?",
       "vocab": [
-        { "fr": "québécois / québécoise", "en": "from Quebec" }
+        { "fr": "fatigué", "en": "tired" }
       ]
     },
     {
-      "en": "I am from Quebec City.",
-      "fr": "Je suis de Québec.",
+      "en": "Where are the children?",
+      "fr": "Où sont les enfants?",
       "vocab": []
     },
     {
-      "en": "Is she Italian?",
-      "fr": "Est-ce qu'elle est italienne?",
-      "vocab": [
-        { "fr": "italienne", "en": "Italian (fem.)" }
-      ]
+      "en": "How is the teacher?",
+      "fr": "Comment est le professeur?",
+      "vocab": []
     }
   ]
 }

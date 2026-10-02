@@ -1,73 +1,65 @@
 {
-  "title": "Être — present tense (set 5: plural agreement)",
+  "title": "Être — present tense (set 5: nationalities and origin)",
   "exercises": [
     {
-      "en": "The books are new.",
-      "fr": "Les livres sont nouveaux.",
+      "en": "I am Canadian.",
+      "fr": "Je suis canadien.",
       "vocab": [
-        { "fr": "livre", "en": "book" },
-        { "fr": "nouveau / nouveaux", "en": "new" }
+        { "fr": "canadien", "en": "Canadian" }
       ]
     },
     {
-      "en": "The cars are red.",
-      "fr": "Les voitures sont rouges.",
+      "en": "She is Canadian.",
+      "fr": "Elle est canadienne.",
       "vocab": [
-        { "fr": "voiture", "en": "car" },
-        { "fr": "rouge", "en": "red" }
+        { "fr": "canadienne", "en": "Canadian (fem.)" }
       ]
     },
     {
-      "en": "My shoes are black.",
-      "fr": "Mes chaussures sont noires.",
+      "en": "We are from Montreal.",
+      "fr": "Nous sommes de Montréal.",
       "vocab": [
-        { "fr": "chaussure", "en": "shoe" },
-        { "fr": "noir", "en": "black" }
+        { "fr": "de", "en": "from" }
       ]
     },
     {
-      "en": "The windows are open.",
-      "fr": "Les fenêtres sont ouvertes.",
+      "en": "He is French.",
+      "fr": "Il est français.",
       "vocab": [
-        { "fr": "fenêtre", "en": "window" },
-        { "fr": "ouverte", "en": "open (fem.)" }
+        { "fr": "français", "en": "French" }
       ]
     },
     {
-      "en": "Our friends (masc.) are kind.",
-      "fr": "Nos amis sont gentils.",
+      "en": "You (informal) are American.",
+      "fr": "Tu es américain.",
       "vocab": [
-        { "fr": "ami", "en": "friend" },
-        { "fr": "gentil", "en": "kind" }
+        { "fr": "américain", "en": "American" }
       ]
     },
     {
-      "en": "Our friends (fem.) are kind.",
-      "fr": "Nos amies sont gentilles.",
+      "en": "The parents are Haitian.",
+      "fr": "Les parents sont haïtiens.",
       "vocab": [
-        { "fr": "amie", "en": "friend (fem.)" }
+        { "fr": "haïtien", "en": "Haitian" }
       ]
     },
     {
-      "en": "The chairs are small.",
-      "fr": "Les chaises sont petites.",
+      "en": "They (fem.) are Québécoise.",
+      "fr": "Elles sont québécoises.",
       "vocab": [
-        { "fr": "chaise", "en": "chair" }
+        { "fr": "québécois / québécoise", "en": "from Quebec" }
       ]
     },
     {
-      "en": "The students (masc.) are ready.",
-      "fr": "Les étudiants sont prêts.",
-      "vocab": [
-        { "fr": "étudiant", "en": "student" }
-      ]
+      "en": "I am from Quebec City.",
+      "fr": "Je suis de Québec.",
+      "vocab": []
     },
     {
-      "en": "The apples are green.",
-      "fr": "Les pommes sont vertes.",
+      "en": "She is Italian.",
+      "fr": "Elle est italienne.",
       "vocab": [
-        { "fr": "pomme", "en": "apple" },
-        { "fr": "vert", "en": "green" }
+        { "fr": "italienne", "en": "Italian (fem.)" }
       ]
     }
   ]

@@ -1,68 +1,68 @@
 {
-  "title": "Être — present tense (set 4: yes/no questions with est-ce que)",
+  "title": "Être — present tense (set 4: feelings and states)",
   "exercises": [
     {
-      "en": "Are you (informal) ready?",
-      "fr": "Est-ce que tu es prêt?",
+      "en": "I am sick.",
+      "fr": "Je suis malade.",
       "vocab": [
-        { "fr": "prêt", "en": "ready" }
+        { "fr": "malade", "en": "sick" }
       ]
     },
     {
-      "en": "Is he at home?",
-      "fr": "Est-ce qu'il est à la maison?",
+      "en": "He is busy.",
+      "fr": "Il est occupé.",
       "vocab": [
-        { "fr": "à la maison", "en": "at home" }
+        { "fr": "occupé", "en": "busy" }
       ]
     },
     {
-      "en": "Is she tired?",
-      "fr": "Est-ce qu'elle est fatiguée?",
+      "en": "She is nervous.",
+      "fr": "Elle est nerveuse.",
       "vocab": [
-        { "fr": "fatiguée", "en": "tired (fem.)" }
+        { "fr": "nerveuse", "en": "nervous (fem.)" }
       ]
     },
     {
-      "en": "Are we late?",
-      "fr": "Est-ce que nous sommes en retard?",
+      "en": "We are tired.",
+      "fr": "Nous sommes fatigués.",
       "vocab": [
-        { "fr": "en retard", "en": "late" }
+        { "fr": "fatigué", "en": "tired" }
       ]
     },
     {
-      "en": "Are you (formal) a teacher?",
-      "fr": "Est-ce que vous êtes professeur?",
+      "en": "They (fem.) are calm.",
+      "fr": "Elles sont calmes.",
       "vocab": [
-        { "fr": "professeur", "en": "teacher" }
+        { "fr": "calme", "en": "calm" }
       ]
     },
     {
-      "en": "Are they (masc.) students?",
-      "fr": "Est-ce qu'ils sont étudiants?",
+      "en": "You (informal) are happy today.",
+      "fr": "Tu es content aujourd'hui.",
       "vocab": [
-        { "fr": "étudiant", "en": "student" }
+        { "fr": "aujourd'hui", "en": "today" }
       ]
     },
     {
-      "en": "Are they (fem.) happy?",
-      "fr": "Est-ce qu'elles sont contentes?",
+      "en": "He is excited.",
+      "fr": "Il est excité.",
       "vocab": [
-        { "fr": "contentes", "en": "happy (fem. pl.)" }
+        { "fr": "excité", "en": "excited" }
       ]
     },
     {
-      "en": "Am I right?",
-      "fr": "Est-ce que je suis correct?",
+      "en": "The children are quiet.",
+      "fr": "Les enfants sont calmes.",
       "vocab": [
-        { "fr": "correct", "en": "right / correct" }
+        { "fr": "enfant", "en": "child" }
       ]
     },
     {
-      "en": "Is the door open?",
-      "fr": "Est-ce que la porte est ouverte?",
+      "en": "The grandparents are proud.",
+      "fr": "Les grands-parents sont fiers.",
       "vocab": [
-        { "fr": "porte", "en": "door" },
-        { "fr": "ouverte", "en": "open (fem.)" }
+        { "fr": "grands-parents", "en": "grandparents" },
+        { "fr": "fier", "en": "proud" }
       ]
     }
   ]

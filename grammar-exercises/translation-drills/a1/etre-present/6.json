@@ -1,67 +1,73 @@
 {
-  "title": "Être — present tense (set 6: feelings and states)",
+  "title": "Être — present tense (set 6: where things are)",
   "exercises": [
     {
-      "en": "I am sick.",
-      "fr": "Je suis malade.",
+      "en": "The book is on the table.",
+      "fr": "Le livre est sur la table.",
       "vocab": [
-        { "fr": "malade", "en": "sick" }
+        { "fr": "sur", "en": "on" },
+        { "fr": "table", "en": "table" }
       ]
     },
     {
-      "en": "He is busy.",
-      "fr": "Il est occupé.",
+      "en": "The keys are in the bag.",
+      "fr": "Les clés sont dans le sac.",
       "vocab": [
-        { "fr": "occupé", "en": "busy" }
+        { "fr": "clé", "en": "key" },
+        { "fr": "dans", "en": "in" },
+        { "fr": "sac", "en": "bag" }
       ]
     },
     {
-      "en": "She is nervous.",
-      "fr": "Elle est nerveuse.",
+      "en": "We are at the restaurant.",
+      "fr": "Nous sommes au restaurant.",
       "vocab": [
-        { "fr": "nerveuse", "en": "nervous (fem.)" }
+        { "fr": "restaurant", "en": "restaurant" }
       ]
     },
     {
-      "en": "We are tired.",
-      "fr": "Nous sommes fatigués.",
+      "en": "She is at school.",
+      "fr": "Elle est à l'école.",
       "vocab": [
-        { "fr": "fatigué", "en": "tired" }
+        { "fr": "école", "en": "school" }
       ]
     },
     {
-      "en": "They (fem.) are calm.",
-      "fr": "Elles sont calmes.",
+      "en": "They (masc.) are at work.",
+      "fr": "Ils sont au travail.",
       "vocab": [
-        { "fr": "calme", "en": "calm" }
+        { "fr": "travail", "en": "work" }
       ]
     },
     {
-      "en": "You (informal) are happy today.",
-      "fr": "Tu es content aujourd'hui.",
+      "en": "The cat is under the bed.",
+      "fr": "Le chat est sous le lit.",
       "vocab": [
-        { "fr": "aujourd'hui", "en": "today" }
+        { "fr": "chat", "en": "cat" },
+        { "fr": "sous", "en": "under" },
+        { "fr": "lit", "en": "bed" }
       ]
     },
     {
-      "en": "I am not sad.",
-      "fr": "Je ne suis pas triste.",
+      "en": "I am at home.",
+      "fr": "Je suis à la maison.",
       "vocab": [
-        { "fr": "triste", "en": "sad" }
+        { "fr": "à la maison", "en": "at home" }
       ]
     },
     {
-      "en": "The children are quiet.",
-      "fr": "Les enfants sont calmes.",
+      "en": "The bank is near here.",
+      "fr": "La banque est près d'ici.",
       "vocab": [
-        { "fr": "enfant", "en": "child" }
+        { "fr": "banque", "en": "bank" },
+        { "fr": "près d'ici", "en": "near here" }
       ]
     },
     {
-      "en": "My parents are proud.",
-      "fr": "Mes parents sont fiers.",
+      "en": "The children are in the garden.",
+      "fr": "Les enfants sont dans le jardin.",
       "vocab": [
-        { "fr": "fier", "en": "proud" }
+        { "fr": "jardin", "en": "garden" }
       ]
     }
   ]

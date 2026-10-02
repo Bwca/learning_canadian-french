@@ -2,34 +2,32 @@
   "title": "Être — present tense (set 2: adjective agreement, masculine/feminine)",
   "exercises": [
     {
-      "en": "My brother is tall.",
-      "fr": "Mon frère est grand.",
+      "en": "The neighbour (masc.) is tall.",
+      "fr": "Le voisin est grand.",
       "vocab": [
-        { "fr": "frère", "en": "brother" },
+        { "fr": "voisin", "en": "neighbour" },
         { "fr": "grand", "en": "tall" }
       ]
     },
     {
-      "en": "My sister is tall.",
-      "fr": "Ma sœur est grande.",
+      "en": "The neighbour (fem.) is tall.",
+      "fr": "La voisine est grande.",
       "vocab": [
-        { "fr": "sœur", "en": "sister" },
+        { "fr": "voisine", "en": "neighbour (fem.)" },
         { "fr": "grande", "en": "tall (fem.)" }
       ]
     },
     {
-      "en": "My father is small.",
-      "fr": "Mon père est petit.",
+      "en": "The student (masc.) is small.",
+      "fr": "L'étudiant est petit.",
       "vocab": [
-        { "fr": "père", "en": "father" },
         { "fr": "petit", "en": "small" }
       ]
     },
     {
-      "en": "My mother is small.",
-      "fr": "Ma mère est petite.",
+      "en": "The student (fem.) is small.",
+      "fr": "L'étudiante est petite.",
       "vocab": [
-        { "fr": "mère", "en": "mother" },
         { "fr": "petite", "en": "small (fem.)" }
       ]
     },
@@ -50,15 +48,15 @@
       ]
     },
     {
-      "en": "My parents are tall.",
-      "fr": "Mes parents sont grands.",
+      "en": "The parents are tall.",
+      "fr": "Les parents sont grands.",
       "vocab": [
         { "fr": "parents", "en": "parents" }
       ]
     },
     {
-      "en": "My cousins (fem.) are nice.",
-      "fr": "Mes cousines sont gentilles.",
+      "en": "The cousins (fem.) are nice.",
+      "fr": "Les cousines sont gentilles.",
       "vocab": [
         { "fr": "cousine", "en": "cousin (fem.)" }
       ]

@@ -1,67 +1,73 @@
 {
-  "title": "Être — present tense (set 3: basic negation with ne...pas)",
+  "title": "Être — present tense (set 3: plural agreement)",
   "exercises": [
     {
-      "en": "I am not tired.",
-      "fr": "Je ne suis pas fatigué.",
+      "en": "The books are new.",
+      "fr": "Les livres sont nouveaux.",
       "vocab": [
-        { "fr": "fatigué", "en": "tired" }
+        { "fr": "livre", "en": "book" },
+        { "fr": "nouveau / nouveaux", "en": "new" }
       ]
     },
     {
-      "en": "You (informal) are not late.",
-      "fr": "Tu n'es pas en retard.",
+      "en": "The cars are red.",
+      "fr": "Les voitures sont rouges.",
       "vocab": [
-        { "fr": "en retard", "en": "late" }
+        { "fr": "voiture", "en": "car" },
+        { "fr": "rouge", "en": "red" }
       ]
     },
     {
-      "en": "He is not a doctor.",
-      "fr": "Il n'est pas médecin.",
+      "en": "The shoes are black.",
+      "fr": "Les chaussures sont noires.",
       "vocab": [
-        { "fr": "médecin", "en": "doctor" }
+        { "fr": "chaussure", "en": "shoe" },
+        { "fr": "noir", "en": "black" }
       ]
     },
     {
-      "en": "She is not here.",
-      "fr": "Elle n'est pas ici.",
+      "en": "The windows are open.",
+      "fr": "Les fenêtres sont ouvertes.",
       "vocab": [
-        { "fr": "ici", "en": "here" }
+        { "fr": "fenêtre", "en": "window" },
+        { "fr": "ouverte", "en": "open (fem.)" }
       ]
     },
     {
-      "en": "We are not ready.",
-      "fr": "Nous ne sommes pas prêts.",
+      "en": "The friends (masc.) are kind.",
+      "fr": "Les amis sont gentils.",
       "vocab": [
-        { "fr": "prêt", "en": "ready" }
+        { "fr": "ami", "en": "friend" },
+        { "fr": "gentil", "en": "kind" }
       ]
     },
     {
-      "en": "You (formal/plural) are not alone.",
-      "fr": "Vous n'êtes pas seuls.",
+      "en": "The friends (fem.) are kind.",
+      "fr": "Les amies sont gentilles.",
       "vocab": [
-        { "fr": "seul", "en": "alone" }
+        { "fr": "amie", "en": "friend (fem.)" }
       ]
     },
     {
-      "en": "They (masc.) are not French.",
-      "fr": "Ils ne sont pas français.",
+      "en": "The chairs are small.",
+      "fr": "Les chaises sont petites.",
       "vocab": [
-        { "fr": "français", "en": "French" }
+        { "fr": "chaise", "en": "chair" }
       ]
     },
     {
-      "en": "They (fem.) are not at home.",
-      "fr": "Elles ne sont pas à la maison.",
+      "en": "The students (masc.) are ready.",
+      "fr": "Les étudiants sont prêts.",
       "vocab": [
-        { "fr": "à la maison", "en": "at home" }
+        { "fr": "étudiant", "en": "student" }
       ]
     },
     {
-      "en": "I am not sad.",
-      "fr": "Je ne suis pas triste.",
+      "en": "The apples are green.",
+      "fr": "Les pommes sont vertes.",
       "vocab": [
-        { "fr": "triste", "en": "sad" }
+        { "fr": "pomme", "en": "apple" },
+        { "fr": "vert", "en": "green" }
       ]
     }
   ]
