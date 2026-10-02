@@ -1,52 +1,50 @@
 {
-  "title": "Articles — definite & indefinite (set 5: negation turns un/une/des into de)",
+  "title": "Articles — definite & indefinite (set 5: mixed review)",
   "exercises": [
     {
-      "en": "I do not have a car.",
-      "fr": "Je n'ai pas de voiture.",
+      "en": "There is a cat in the garden.",
+      "fr": "Il y a un chat dans le jardin.",
       "vocab": []
     },
     {
-      "en": "There is no bread.",
-      "fr": "Il n'y a pas de pain.",
+      "en": "The cat is black.",
+      "fr": "Le chat est noir.",
       "vocab": []
     },
     {
-      "en": "She does not have a brother.",
-      "fr": "Elle n'a pas de frère.",
+      "en": "I like chocolate.",
+      "fr": "J'aime le chocolat.",
       "vocab": []
     },
     {
-      "en": "We do not have money.",
-      "fr": "Nous n'avons pas d'argent.",
+      "en": "I have a car.",
+      "fr": "J'ai une voiture.",
       "vocab": []
     },
     {
-      "en": "There are no apples.",
-      "fr": "Il n'y a pas de pommes.",
+      "en": "We are at the restaurant.",
+      "fr": "Nous sommes au restaurant.",
       "vocab": []
     },
     {
-      "en": "He does not have friends.",
-      "fr": "Il n'a pas d'amis.",
+      "en": "There are eggs in the basket.",
+      "fr": "Il y a des œufs dans le panier.",
       "vocab": []
     },
     {
-      "en": "They (fem.) do not have children.",
-      "fr": "Elles n'ont pas d'enfants.",
+      "en": "The children are at school.",
+      "fr": "Les enfants sont à l'école.",
       "vocab": []
     },
     {
-      "en": "I do not have time.",
-      "fr": "Je n'ai pas de temps.",
+      "en": "He has a friend (masc.).",
+      "fr": "Il a un ami.",
       "vocab": []
     },
     {
-      "en": "There is no milk.",
-      "fr": "Il n'y a pas de lait.",
-      "vocab": [
-        { "fr": "lait", "en": "milk" }
-      ]
+      "en": "The friend is nice.",
+      "fr": "L'ami est gentil.",
+      "vocab": []
     }
   ]
 }

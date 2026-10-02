@@ -45,24 +45,25 @@
       ]
     },
     {
-      "en": "Is there a bathroom here?",
-      "fr": "Est-ce qu'il y a une salle de bain ici?",
+      "en": "There is a bathroom here.",
+      "fr": "Il y a une salle de bain ici.",
       "vocab": [
         { "fr": "salle de bain", "en": "bathroom" }
       ]
     },
     {
-      "en": "There is no bread.",
-      "fr": "Il n'y a pas de pain.",
+      "en": "There is a bag in the car.",
+      "fr": "Il y a un sac dans la voiture.",
       "vocab": [
-        { "fr": "pain", "en": "bread" }
+        { "fr": "sac", "en": "bag" }
       ]
     },
     {
-      "en": "There are no eggs.",
-      "fr": "Il n'y a pas d'œufs.",
+      "en": "There are eggs in the fridge.",
+      "fr": "Il y a des œufs dans le frigo.",
       "vocab": [
-        { "fr": "œuf", "en": "egg" }
+        { "fr": "œuf", "en": "egg" },
+        { "fr": "frigo", "en": "fridge" }
       ]
     }
   ]
