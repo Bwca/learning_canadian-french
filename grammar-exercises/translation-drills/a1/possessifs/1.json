@@ -1,0 +1,72 @@
+{
+  "title": "Possessifs — mon/ma/mes (set 1: my family and things)",
+  "exercises": [
+    {
+      "en": "My brother is tall.",
+      "fr": "Mon frère est grand.",
+      "vocab": [
+        { "fr": "mon", "en": "my (masc. singular)" },
+        { "fr": "frère", "en": "brother" }
+      ]
+    },
+    {
+      "en": "My sister is tall.",
+      "fr": "Ma sœur est grande.",
+      "vocab": [
+        { "fr": "ma", "en": "my (fem. singular)" },
+        { "fr": "sœur", "en": "sister" }
+      ]
+    },
+    {
+      "en": "My father is fifty years old.",
+      "fr": "Mon père a cinquante ans.",
+      "vocab": [
+        { "fr": "père", "en": "father" }
+      ]
+    },
+    {
+      "en": "My mother is forty-five years old.",
+      "fr": "Ma mère a quarante-cinq ans.",
+      "vocab": [
+        { "fr": "mère", "en": "mother" }
+      ]
+    },
+    {
+      "en": "My keys are in my bag.",
+      "fr": "Mes clés sont dans mon sac.",
+      "vocab": [
+        { "fr": "mes", "en": "my (plural)" },
+        { "fr": "clé", "en": "key" },
+        { "fr": "sac", "en": "bag" }
+      ]
+    },
+    {
+      "en": "My parents are kind.",
+      "fr": "Mes parents sont gentils.",
+      "vocab": [
+        { "fr": "parents", "en": "parents" }
+      ]
+    },
+    {
+      "en": "My cousin (fem.) is nice.",
+      "fr": "Ma cousine est gentille.",
+      "vocab": [
+        { "fr": "cousine", "en": "cousin (fem.)" }
+      ]
+    },
+    {
+      "en": "My shoes are black.",
+      "fr": "Mes chaussures sont noires.",
+      "vocab": [
+        { "fr": "chaussure", "en": "shoe" }
+      ]
+    },
+    {
+      "en": "My parents are Haitian.",
+      "fr": "Mes parents sont haïtiens.",
+      "vocab": [
+        { "fr": "haïtien", "en": "Haitian" }
+      ]
+    }
+  ]
+}

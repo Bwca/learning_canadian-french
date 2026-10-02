@@ -1,0 +1,68 @@
+{
+  "title": "Possessifs — ton/son/notre/votre/leur (set 2: other possessors)",
+  "exercises": [
+    {
+      "en": "How old is your (informal) brother?",
+      "fr": "Quel âge a ton frère?",
+      "vocab": [
+        { "fr": "ton", "en": "your (masc. singular, informal)" }
+      ]
+    },
+    {
+      "en": "Your (informal) sister is nice.",
+      "fr": "Ta sœur est gentille.",
+      "vocab": [
+        { "fr": "ta", "en": "your (fem. singular, informal)" }
+      ]
+    },
+    {
+      "en": "His book is on the table.",
+      "fr": "Son livre est sur la table.",
+      "vocab": [
+        { "fr": "son", "en": "his/her (masc. singular)" }
+      ]
+    },
+    {
+      "en": "Her car is red.",
+      "fr": "Sa voiture est rouge.",
+      "vocab": [
+        { "fr": "sa", "en": "his/her (fem. singular)" }
+      ]
+    },
+    {
+      "en": "His shoes are black.",
+      "fr": "Ses chaussures sont noires.",
+      "vocab": [
+        { "fr": "ses", "en": "his/her (plural)" }
+      ]
+    },
+    {
+      "en": "Our house is big.",
+      "fr": "Notre maison est grande.",
+      "vocab": [
+        { "fr": "notre", "en": "our (singular)" }
+      ]
+    },
+    {
+      "en": "Our friends (masc.) are kind.",
+      "fr": "Nos amis sont gentils.",
+      "vocab": [
+        { "fr": "nos", "en": "our (plural)" }
+      ]
+    },
+    {
+      "en": "Your (formal) children are happy.",
+      "fr": "Vos enfants sont contents.",
+      "vocab": [
+        { "fr": "vos", "en": "your (formal/plural)" }
+      ]
+    },
+    {
+      "en": "Their (masc.) cat is black.",
+      "fr": "Leur chat est noir.",
+      "vocab": [
+        { "fr": "leur", "en": "their" }
+      ]
+    }
+  ]
+}
