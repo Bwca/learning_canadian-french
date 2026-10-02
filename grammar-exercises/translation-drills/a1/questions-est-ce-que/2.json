@@ -7,11 +7,9 @@
       "vocab": []
     },
     {
-      "en": "Is there a bathroom here?",
-      "fr": "Est-ce qu'il y a une salle de bain ici?",
-      "vocab": [
-        { "fr": "salle de bain", "en": "bathroom" }
-      ]
+      "en": "Is she busy?",
+      "fr": "Est-ce qu'elle est occupée?",
+      "vocab": []
     },
     {
       "en": "Is the bank near here?",
@@ -46,8 +44,8 @@
       "vocab": []
     },
     {
-      "en": "Is there a cat in the garden?",
-      "fr": "Est-ce qu'il y a un chat dans le jardin?",
+      "en": "Do you (informal) have a sister?",
+      "fr": "Est-ce que tu as une sœur?",
       "vocab": []
     },
     {
