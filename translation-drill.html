@@ -141,17 +141,32 @@
                 .join("");
 
             const savedVoice = frenchVoices.find(v => v.voiceURI === savedURI);
-            const caVoice = frenchVoices.find(v => v.lang.toLowerCase() === "fr-ca");
-            selectedVoice = savedVoice || caVoice || frenchVoices[0];
+            // Prefer a local (on-device) voice over a network one where possible —
+            // network voices (e.g. "Google français") stream audio from a server
+            // and can silently fail to speak the first time or two if that
+            // connection hasn't been warmed up yet, whereas local voices start
+            // instantly and don't depend on the network at all.
+            const localCaVoice = frenchVoices.find(v => v.lang.toLowerCase() === "fr-ca" && v.localService);
+            const anyCaVoice = frenchVoices.find(v => v.lang.toLowerCase() === "fr-ca");
+            const anyLocalVoice = frenchVoices.find(v => v.localService);
+            selectedVoice = savedVoice || localCaVoice || anyCaVoice || anyLocalVoice || frenchVoices[0];
             voiceSelect.value = selectedVoice.voiceURI;
-            voiceIndicator.textContent = `🔊 Using: ${selectedVoice.name} (${selectedVoice.lang})`;
+            describeSelectedVoice();
+        }
+
+        function describeSelectedVoice() {
+            if (!selectedVoice) return;
+            const networkNote = selectedVoice.localService
+                ? ""
+                : " — this is a network voice; if it stays silent on the first click or two, try a local voice instead if one is listed";
+            voiceIndicator.textContent = `🔊 Using: ${selectedVoice.name} (${selectedVoice.lang})${networkNote}`;
         }
 
         voiceSelect.addEventListener("change", () => {
             selectedVoice = frenchVoices.find(v => v.voiceURI === voiceSelect.value) || null;
             if (selectedVoice) {
                 sessionStorage.setItem(VOICE_STORAGE_KEY, selectedVoice.voiceURI);
-                voiceIndicator.textContent = `🔊 Using: ${selectedVoice.name} (${selectedVoice.lang})`;
+                describeSelectedVoice();
             }
         });
 
@@ -180,27 +195,83 @@
         // Chrome can silently drop an utterance if nothing keeps a reference to it
         // alive — the SpeechSynthesisUtterance gets garbage-collected before the
         // engine gets to it, especially on the first few calls. Keeping it in this
-        // array until onend/onerror fires works around that.
+        // array until it's done works around that.
         const pendingUtterances = [];
+        const STALL_TIMEOUT_MS = 1500;
+        const MAX_SPEAK_ATTEMPTS = 3;
 
         function speak(text, lang) {
             return new Promise(resolve => {
                 if (!text || !text.trim()) { resolve(); return; }
-                const utterance = new SpeechSynthesisUtterance(text);
-                utterance.lang = lang;
-                utterance.rate = speechRate;
-                if (lang.toLowerCase().startsWith("fr") && selectedVoice) {
-                    utterance.voice = selectedVoice;
-                }
-                pendingUtterances.push(utterance);
-                const done = () => {
-                    const i = pendingUtterances.indexOf(utterance);
-                    if (i !== -1) pendingUtterances.splice(i, 1);
-                    resolve();
+
+                let attempt = 0;
+                const attemptSpeak = () => {
+                    attempt++;
+                    const utterance = new SpeechSynthesisUtterance(text);
+                    utterance.lang = lang;
+                    utterance.rate = speechRate;
+                    if (lang.toLowerCase().startsWith("fr") && selectedVoice) {
+                        utterance.voice = selectedVoice;
+                    }
+                    pendingUtterances.push(utterance);
+
+                    let settled = false;
+                    let started = false;
+                    let stallTimer = null;
+
+                    const forget = () => {
+                        const i = pendingUtterances.indexOf(utterance);
+                        if (i !== -1) pendingUtterances.splice(i, 1);
+                        clearTimeout(stallTimer);
+                    };
+
+                    // Network-backed voices (e.g. "Google français") stream audio from
+                    // a server and can occasionally just never start — no error event,
+                    // no end event, nothing. If that happens, cancel and try again a
+                    // couple of times rather than leaving the learner with silence.
+                    // onstart isn't reliably fired by every voice, so first confirm
+                    // speechSynthesis itself agrees nothing is playing before giving up
+                    // on this attempt — otherwise we'd interrupt speech that's actually
+                    // in progress just because this particular voice skipped onstart.
+                    const checkStall = () => {
+                        if (started || settled) return;
+                        if (speechSynthesis.speaking) {
+                            stallTimer = setTimeout(checkStall, STALL_TIMEOUT_MS);
+                            return;
+                        }
+                        settled = true;
+                        forget();
+                        speechSynthesis.cancel();
+                        if (attempt < MAX_SPEAK_ATTEMPTS) {
+                            attemptSpeak();
+                        } else {
+                            resolve();
+                        }
+                    };
+                    stallTimer = setTimeout(checkStall, STALL_TIMEOUT_MS);
+
+                    utterance.onstart = () => { started = true; };
+                    utterance.onend = () => {
+                        if (settled) return;
+                        settled = true;
+                        forget();
+                        resolve();
+                    };
+                    utterance.onerror = () => {
+                        if (settled) return;
+                        settled = true;
+                        forget();
+                        if (!started && attempt < MAX_SPEAK_ATTEMPTS) {
+                            attemptSpeak();
+                        } else {
+                            resolve();
+                        }
+                    };
+
+                    speechSynthesis.speak(utterance);
                 };
-                utterance.onend = done;
-                utterance.onerror = done;
-                speechSynthesis.speak(utterance);
+
+                attemptSpeak();
             });
         }
 
@@ -304,10 +375,12 @@
                 `Score: ${correctCount} / ${boxes.length} (${Math.round((correctCount / boxes.length) * 100)}%)`;
         }
 
+        const REPEAT_AFTER_ME_PAUSE_MS = 3000;
+
         document.getElementById("readAllButton").addEventListener("click", async () => {
             for (const exercise of exercises) {
                 await speak(exercise.fr, "fr-CA");
-                await new Promise(res => setTimeout(res, 700));
+                await new Promise(res => setTimeout(res, REPEAT_AFTER_ME_PAUSE_MS));
             }
         });
     </script>
