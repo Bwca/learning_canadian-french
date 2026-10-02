@@ -1,0 +1,70 @@
+{
+  "title": "Pluriel — noun plurals (set 2: special plurals — -eau/-eu→x, -al→aux)",
+  "exercises": [
+    {
+      "en": "She has a cake.",
+      "fr": "Elle a un gâteau.",
+      "vocab": [
+        { "fr": "gâteau", "en": "cake" }
+      ]
+    },
+    {
+      "en": "She has three cakes.",
+      "fr": "Elle a trois gâteaux.",
+      "vocab": [
+        { "fr": "gâteaux", "en": "cakes" }
+      ]
+    },
+    {
+      "en": "He has a game.",
+      "fr": "Il a un jeu.",
+      "vocab": [
+        { "fr": "jeu", "en": "game" }
+      ]
+    },
+    {
+      "en": "He has many games.",
+      "fr": "Il a beaucoup de jeux.",
+      "vocab": [
+        { "fr": "jeux", "en": "games" },
+        { "fr": "beaucoup de", "en": "a lot of" }
+      ]
+    },
+    {
+      "en": "The animal is big.",
+      "fr": "L'animal est grand.",
+      "vocab": [
+        { "fr": "animal", "en": "animal" }
+      ]
+    },
+    {
+      "en": "The animals are big.",
+      "fr": "Les animaux sont grands.",
+      "vocab": [
+        { "fr": "animaux", "en": "animals" }
+      ]
+    },
+    {
+      "en": "I have a newspaper.",
+      "fr": "J'ai un journal.",
+      "vocab": [
+        { "fr": "journal", "en": "newspaper" }
+      ]
+    },
+    {
+      "en": "I have two newspapers.",
+      "fr": "J'ai deux journaux.",
+      "vocab": [
+        { "fr": "journaux", "en": "newspapers" }
+      ]
+    },
+    {
+      "en": "The castle is beautiful.",
+      "fr": "Le château est beau.",
+      "vocab": [
+        { "fr": "château", "en": "castle" },
+        { "fr": "beau", "en": "beautiful" }
+      ]
+    }
+  ]
+}

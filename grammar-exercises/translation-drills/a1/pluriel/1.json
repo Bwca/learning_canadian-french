@@ -1,0 +1,62 @@
+{
+  "title": "Pluriel — noun plurals (set 1: regular plurals with -s)",
+  "exercises": [
+    {
+      "en": "I have a book.",
+      "fr": "J'ai un livre.",
+      "vocab": [
+        { "fr": "livre", "en": "book" }
+      ]
+    },
+    {
+      "en": "I have two books.",
+      "fr": "J'ai deux livres.",
+      "vocab": []
+    },
+    {
+      "en": "The table is small.",
+      "fr": "La table est petite.",
+      "vocab": [
+        { "fr": "table", "en": "table" }
+      ]
+    },
+    {
+      "en": "The tables are small.",
+      "fr": "Les tables sont petites.",
+      "vocab": []
+    },
+    {
+      "en": "She has a flower.",
+      "fr": "Elle a une fleur.",
+      "vocab": [
+        { "fr": "fleur", "en": "flower" }
+      ]
+    },
+    {
+      "en": "She has five flowers.",
+      "fr": "Elle a cinq fleurs.",
+      "vocab": [
+        { "fr": "cinq", "en": "five" }
+      ]
+    },
+    {
+      "en": "The car is red.",
+      "fr": "La voiture est rouge.",
+      "vocab": [
+        { "fr": "rouge", "en": "red" }
+      ]
+    },
+    {
+      "en": "The cars are red.",
+      "fr": "Les voitures sont rouges.",
+      "vocab": []
+    },
+    {
+      "en": "I have a friend (masc.).",
+      "fr": "J'ai un ami.",
+      "vocab": [
+        { "fr": "ami", "en": "friend (masc.)" }
+      ]
+    }
+  ]
+}

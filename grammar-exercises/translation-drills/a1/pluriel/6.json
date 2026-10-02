@@ -1,0 +1,56 @@
+{
+  "title": "Pluriel — noun plurals (set 6: mixed review)",
+  "exercises": [
+    {
+      "en": "I have one brother and two sisters.",
+      "fr": "J'ai un frère et deux sœurs.",
+      "vocab": []
+    },
+    {
+      "en": "The children are happy.",
+      "fr": "Les enfants sont contents.",
+      "vocab": []
+    },
+    {
+      "en": "She has beautiful eyes.",
+      "fr": "Elle a de beaux yeux.",
+      "vocab": [
+        { "fr": "de beaux", "en": "beautiful (des becomes de before a plural adjective + noun)" }
+      ]
+    },
+    {
+      "en": "I have two cats and a dog.",
+      "fr": "J'ai deux chats et un chien.",
+      "vocab": []
+    },
+    {
+      "en": "The books are on the table.",
+      "fr": "Les livres sont sur la table.",
+      "vocab": []
+    },
+    {
+      "en": "We have many games.",
+      "fr": "Nous avons beaucoup de jeux.",
+      "vocab": []
+    },
+    {
+      "en": "My parents are kind.",
+      "fr": "Mes parents sont gentils.",
+      "vocab": [
+        { "fr": "parents", "en": "parents" }
+      ]
+    },
+    {
+      "en": "He has new shoes.",
+      "fr": "Il a des chaussures neuves.",
+      "vocab": [
+        { "fr": "neuves", "en": "new (fem. pl.)" }
+      ]
+    },
+    {
+      "en": "I do not have many friends.",
+      "fr": "Je n'ai pas beaucoup d'amis.",
+      "vocab": []
+    }
+  ]
+}

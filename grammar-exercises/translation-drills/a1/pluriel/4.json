@@ -1,0 +1,64 @@
+{
+  "title": "Pluriel — noun plurals (set 4: invariable and irregular plurals)",
+  "exercises": [
+    {
+      "en": "I have a son.",
+      "fr": "J'ai un fils.",
+      "vocab": [
+        { "fr": "fils", "en": "son (same spelling in plural)" }
+      ]
+    },
+    {
+      "en": "I have two sons.",
+      "fr": "J'ai deux fils.",
+      "vocab": []
+    },
+    {
+      "en": "He has blue eyes.",
+      "fr": "Il a les yeux bleus.",
+      "vocab": [
+        { "fr": "œil / yeux", "en": "eye / eyes (irregular plural)" },
+        { "fr": "bleu", "en": "blue" }
+      ]
+    },
+    {
+      "en": "She has brown eyes.",
+      "fr": "Elle a les yeux marron.",
+      "vocab": [
+        { "fr": "marron", "en": "brown (never changes form)" }
+      ]
+    },
+    {
+      "en": "I have a bus.",
+      "fr": "J'ai un bus.",
+      "vocab": [
+        { "fr": "bus", "en": "bus (same spelling in plural)" }
+      ]
+    },
+    {
+      "en": "I have two buses.",
+      "fr": "J'ai deux bus.",
+      "vocab": []
+    },
+    {
+      "en": "We have a meal.",
+      "fr": "Nous avons un repas.",
+      "vocab": [
+        { "fr": "repas", "en": "meal (same spelling in plural)" }
+      ]
+    },
+    {
+      "en": "We have three meals.",
+      "fr": "Nous avons trois repas.",
+      "vocab": []
+    },
+    {
+      "en": "The price is high.",
+      "fr": "Le prix est élevé.",
+      "vocab": [
+        { "fr": "prix", "en": "price (same spelling in plural)" },
+        { "fr": "élevé", "en": "high" }
+      ]
+    }
+  ]
+}

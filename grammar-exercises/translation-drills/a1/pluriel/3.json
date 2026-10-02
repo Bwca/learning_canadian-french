@@ -1,0 +1,62 @@
+{
+  "title": "Pluriel — noun plurals (set 3: plural with adjective agreement)",
+  "exercises": [
+    {
+      "en": "I have a black cat.",
+      "fr": "J'ai un chat noir.",
+      "vocab": [
+        { "fr": "noir", "en": "black" }
+      ]
+    },
+    {
+      "en": "I have two black cats.",
+      "fr": "J'ai deux chats noirs.",
+      "vocab": []
+    },
+    {
+      "en": "She has a white dress.",
+      "fr": "Elle a une robe blanche.",
+      "vocab": [
+        { "fr": "robe", "en": "dress" },
+        { "fr": "blanche", "en": "white (fem.)" }
+      ]
+    },
+    {
+      "en": "She has three white dresses.",
+      "fr": "Elle a trois robes blanches.",
+      "vocab": []
+    },
+    {
+      "en": "The boy is tall.",
+      "fr": "Le garçon est grand.",
+      "vocab": [
+        { "fr": "garçon", "en": "boy" }
+      ]
+    },
+    {
+      "en": "The boys are tall.",
+      "fr": "Les garçons sont grands.",
+      "vocab": []
+    },
+    {
+      "en": "My sister is nice.",
+      "fr": "Ma sœur est gentille.",
+      "vocab": [
+        { "fr": "gentille", "en": "nice (fem.)" }
+      ]
+    },
+    {
+      "en": "My sisters are nice.",
+      "fr": "Mes sœurs sont gentilles.",
+      "vocab": []
+    },
+    {
+      "en": "The apple is green.",
+      "fr": "La pomme est verte.",
+      "vocab": [
+        { "fr": "pomme", "en": "apple" },
+        { "fr": "verte", "en": "green (fem.)" }
+      ]
+    }
+  ]
+}

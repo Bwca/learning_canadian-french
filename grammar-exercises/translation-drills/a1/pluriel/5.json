@@ -1,0 +1,63 @@
+{
+  "title": "Pluriel — noun plurals (set 5: quantities with plural nouns)",
+  "exercises": [
+    {
+      "en": "I have many friends (fem.).",
+      "fr": "J'ai beaucoup d'amies.",
+      "vocab": [
+        { "fr": "amie", "en": "friend (fem.)" }
+      ]
+    },
+    {
+      "en": "She has several books.",
+      "fr": "Elle a plusieurs livres.",
+      "vocab": [
+        { "fr": "plusieurs", "en": "several" }
+      ]
+    },
+    {
+      "en": "We have a few apples.",
+      "fr": "Nous avons quelques pommes.",
+      "vocab": [
+        { "fr": "quelques", "en": "a few" }
+      ]
+    },
+    {
+      "en": "They (masc.) have too many problems.",
+      "fr": "Ils ont trop de problèmes.",
+      "vocab": [
+        { "fr": "trop de", "en": "too many / too much" },
+        { "fr": "problème", "en": "problem" }
+      ]
+    },
+    {
+      "en": "I have five dollars.",
+      "fr": "J'ai cinq dollars.",
+      "vocab": [
+        { "fr": "dollar", "en": "dollar" }
+      ]
+    },
+    {
+      "en": "He has ten books.",
+      "fr": "Il a dix livres.",
+      "vocab": []
+    },
+    {
+      "en": "You (informal) have three sisters.",
+      "fr": "Tu as trois sœurs.",
+      "vocab": []
+    },
+    {
+      "en": "We have two cars.",
+      "fr": "Nous avons deux voitures.",
+      "vocab": []
+    },
+    {
+      "en": "She has many shoes.",
+      "fr": "Elle a beaucoup de chaussures.",
+      "vocab": [
+        { "fr": "chaussure", "en": "shoe" }
+      ]
+    }
+  ]
+}
