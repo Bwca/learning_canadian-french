@@ -1,0 +1,68 @@
+{
+  "title": "Negation — ne...pas (set 1: with être)",
+  "exercises": [
+    {
+      "en": "I am not tired.",
+      "fr": "Je ne suis pas fatigué.",
+      "vocab": [
+        { "fr": "fatigué", "en": "tired" }
+      ]
+    },
+    {
+      "en": "You (informal) are not late.",
+      "fr": "Tu n'es pas en retard.",
+      "vocab": [
+        { "fr": "en retard", "en": "late" }
+      ]
+    },
+    {
+      "en": "He is not a doctor.",
+      "fr": "Il n'est pas médecin.",
+      "vocab": [
+        { "fr": "médecin", "en": "doctor" }
+      ]
+    },
+    {
+      "en": "She is not here.",
+      "fr": "Elle n'est pas ici.",
+      "vocab": [
+        { "fr": "ici", "en": "here" }
+      ]
+    },
+    {
+      "en": "We are not ready.",
+      "fr": "Nous ne sommes pas prêts.",
+      "vocab": [
+        { "fr": "prêt", "en": "ready" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) are not alone.",
+      "fr": "Vous n'êtes pas seuls.",
+      "vocab": [
+        { "fr": "seul", "en": "alone" }
+      ]
+    },
+    {
+      "en": "They (masc.) are not French.",
+      "fr": "Ils ne sont pas français.",
+      "vocab": [
+        { "fr": "français", "en": "French" }
+      ]
+    },
+    {
+      "en": "They (fem.) are not at home.",
+      "fr": "Elles ne sont pas à la maison.",
+      "vocab": [
+        { "fr": "à la maison", "en": "at home" }
+      ]
+    },
+    {
+      "en": "I am not sad.",
+      "fr": "Je ne suis pas triste.",
+      "vocab": [
+        { "fr": "triste", "en": "sad" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Negation — ne...pas (set 3: indefinite articles become de)",
+  "exercises": [
+    {
+      "en": "I do not have a car.",
+      "fr": "Je n'ai pas de voiture.",
+      "vocab": []
+    },
+    {
+      "en": "There is no bread.",
+      "fr": "Il n'y a pas de pain.",
+      "vocab": []
+    },
+    {
+      "en": "She does not have a brother.",
+      "fr": "Elle n'a pas de frère.",
+      "vocab": []
+    },
+    {
+      "en": "We do not have money.",
+      "fr": "Nous n'avons pas d'argent.",
+      "vocab": []
+    },
+    {
+      "en": "There are no apples.",
+      "fr": "Il n'y a pas de pommes.",
+      "vocab": []
+    },
+    {
+      "en": "He does not have friends.",
+      "fr": "Il n'a pas d'amis.",
+      "vocab": []
+    },
+    {
+      "en": "They (fem.) do not have children.",
+      "fr": "Elles n'ont pas d'enfants.",
+      "vocab": []
+    },
+    {
+      "en": "I do not have time.",
+      "fr": "Je n'ai pas de temps.",
+      "vocab": []
+    },
+    {
+      "en": "There is no milk.",
+      "fr": "Il n'y a pas de lait.",
+      "vocab": [
+        { "fr": "lait", "en": "milk" }
+      ]
+    }
+  ]
+}

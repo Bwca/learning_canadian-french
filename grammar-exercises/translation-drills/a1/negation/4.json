@@ -1,0 +1,64 @@
+{
+  "title": "Negation — ne...pas (set 4: other common verbs)",
+  "exercises": [
+    {
+      "en": "He is not French.",
+      "fr": "Il n'est pas français.",
+      "vocab": [
+        { "fr": "français", "en": "French" }
+      ]
+    },
+    {
+      "en": "I am not at home.",
+      "fr": "Je ne suis pas à la maison.",
+      "vocab": [
+        { "fr": "à la maison", "en": "at home" }
+      ]
+    },
+    {
+      "en": "I do not like tea.",
+      "fr": "Je n'aime pas le thé.",
+      "vocab": [
+        { "fr": "thé", "en": "tea" }
+      ]
+    },
+    {
+      "en": "There is no bread.",
+      "fr": "Il n'y a pas de pain.",
+      "vocab": [
+        { "fr": "pain", "en": "bread" }
+      ]
+    },
+    {
+      "en": "There are no eggs.",
+      "fr": "Il n'y a pas d'œufs.",
+      "vocab": [
+        { "fr": "œuf", "en": "egg" }
+      ]
+    },
+    {
+      "en": "I do not have many friends.",
+      "fr": "Je n'ai pas beaucoup d'amis.",
+      "vocab": [
+        { "fr": "beaucoup de", "en": "a lot of" }
+      ]
+    },
+    {
+      "en": "She is not thirsty.",
+      "fr": "Elle n'a pas soif.",
+      "vocab": []
+    },
+    {
+      "en": "They (fem.) do not have a car.",
+      "fr": "Elles n'ont pas de voiture.",
+      "vocab": []
+    },
+    {
+      "en": "I am not thirty years old.",
+      "fr": "Je n'ai pas trente ans.",
+      "vocab": [
+        { "fr": "trente", "en": "thirty" }
+      ]
+    }
+  ]
+}
