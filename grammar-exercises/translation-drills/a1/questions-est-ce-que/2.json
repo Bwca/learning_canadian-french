@@ -1,0 +1,59 @@
+{
+  "title": "Questions — est-ce que (set 2: with avoir and other verbs)",
+  "exercises": [
+    {
+      "en": "Are you (informal) hungry?",
+      "fr": "Est-ce que tu as faim?",
+      "vocab": []
+    },
+    {
+      "en": "Is there a bathroom here?",
+      "fr": "Est-ce qu'il y a une salle de bain ici?",
+      "vocab": [
+        { "fr": "salle de bain", "en": "bathroom" }
+      ]
+    },
+    {
+      "en": "Is the bank near here?",
+      "fr": "Est-ce que la banque est près d'ici?",
+      "vocab": [
+        { "fr": "banque", "en": "bank" },
+        { "fr": "près d'ici", "en": "near here" }
+      ]
+    },
+    {
+      "en": "Are you (informal) American?",
+      "fr": "Est-ce que tu es américain?",
+      "vocab": [
+        { "fr": "américain", "en": "American" }
+      ]
+    },
+    {
+      "en": "Is she Italian?",
+      "fr": "Est-ce qu'elle est italienne?",
+      "vocab": [
+        { "fr": "italienne", "en": "Italian (fem.)" }
+      ]
+    },
+    {
+      "en": "Do you (informal) have a brother?",
+      "fr": "Est-ce que tu as un frère?",
+      "vocab": []
+    },
+    {
+      "en": "Does he have a car?",
+      "fr": "Est-ce qu'il a une voiture?",
+      "vocab": []
+    },
+    {
+      "en": "Is there a cat in the garden?",
+      "fr": "Est-ce qu'il y a un chat dans le jardin?",
+      "vocab": []
+    },
+    {
+      "en": "Do they (masc.) have children?",
+      "fr": "Est-ce qu'ils ont des enfants?",
+      "vocab": []
+    }
+  ]
+}

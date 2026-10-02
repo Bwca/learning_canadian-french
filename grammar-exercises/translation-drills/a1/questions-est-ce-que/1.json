@@ -1,0 +1,69 @@
+{
+  "title": "Questions — est-ce que (set 1: with être)",
+  "exercises": [
+    {
+      "en": "Are you (informal) ready?",
+      "fr": "Est-ce que tu es prêt?",
+      "vocab": [
+        { "fr": "prêt", "en": "ready" }
+      ]
+    },
+    {
+      "en": "Is he at home?",
+      "fr": "Est-ce qu'il est à la maison?",
+      "vocab": [
+        { "fr": "à la maison", "en": "at home" }
+      ]
+    },
+    {
+      "en": "Is she tired?",
+      "fr": "Est-ce qu'elle est fatiguée?",
+      "vocab": [
+        { "fr": "fatiguée", "en": "tired (fem.)" }
+      ]
+    },
+    {
+      "en": "Are we late?",
+      "fr": "Est-ce que nous sommes en retard?",
+      "vocab": [
+        { "fr": "en retard", "en": "late" }
+      ]
+    },
+    {
+      "en": "Are you (formal) a teacher?",
+      "fr": "Est-ce que vous êtes professeur?",
+      "vocab": [
+        { "fr": "professeur", "en": "teacher" }
+      ]
+    },
+    {
+      "en": "Are they (masc.) students?",
+      "fr": "Est-ce qu'ils sont étudiants?",
+      "vocab": [
+        { "fr": "étudiant", "en": "student" }
+      ]
+    },
+    {
+      "en": "Are they (fem.) happy?",
+      "fr": "Est-ce qu'elles sont contentes?",
+      "vocab": [
+        { "fr": "contentes", "en": "happy (fem. pl.)" }
+      ]
+    },
+    {
+      "en": "Am I right?",
+      "fr": "Est-ce que je suis correct?",
+      "vocab": [
+        { "fr": "correct", "en": "right / correct" }
+      ]
+    },
+    {
+      "en": "Is the door open?",
+      "fr": "Est-ce que la porte est ouverte?",
+      "vocab": [
+        { "fr": "porte", "en": "door" },
+        { "fr": "ouverte", "en": "open (fem.)" }
+      ]
+    }
+  ]
+}
