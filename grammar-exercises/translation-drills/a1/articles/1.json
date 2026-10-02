@@ -1,70 +1,56 @@
 {
-  "title": "Articles — definite & indefinite (set 1: indefinite articles with il y a)",
+  "title": "Articles — definite & indefinite (set 1: indefinite articles un/une/des with avoir)",
   "exercises": [
     {
-      "en": "There is a cat in the garden.",
-      "fr": "Il y a un chat dans le jardin.",
+      "en": "I have a cat.",
+      "fr": "J'ai un chat.",
+      "vocab": []
+    },
+    {
+      "en": "I have a book.",
+      "fr": "J'ai un livre.",
+      "vocab": []
+    },
+    {
+      "en": "She has a car.",
+      "fr": "Elle a une voiture.",
+      "vocab": []
+    },
+    {
+      "en": "We have apples.",
+      "fr": "Nous avons des pommes.",
       "vocab": [
-        { "fr": "il y a", "en": "there is / there are" },
-        { "fr": "dans", "en": "in" }
+        { "fr": "pomme", "en": "apple" }
       ]
     },
     {
-      "en": "There is a book on the table.",
-      "fr": "Il y a un livre sur la table.",
-      "vocab": [
-        { "fr": "sur", "en": "on" }
-      ]
+      "en": "He has a dog.",
+      "fr": "Il a un chien.",
+      "vocab": []
     },
     {
-      "en": "There is a car in front of the house.",
-      "fr": "Il y a une voiture devant la maison.",
-      "vocab": [
-        { "fr": "devant", "en": "in front of" }
-      ]
+      "en": "They (masc.) have children.",
+      "fr": "Ils ont des enfants.",
+      "vocab": []
     },
     {
-      "en": "There are apples in the basket.",
-      "fr": "Il y a des pommes dans le panier.",
-      "vocab": [
-        { "fr": "panier", "en": "basket" }
-      ]
-    },
-    {
-      "en": "There is a student in the classroom.",
-      "fr": "Il y a un étudiant dans la salle de classe.",
-      "vocab": [
-        { "fr": "salle de classe", "en": "classroom" }
-      ]
-    },
-    {
-      "en": "There are children in the park.",
-      "fr": "Il y a des enfants dans le parc.",
-      "vocab": [
-        { "fr": "parc", "en": "park" }
-      ]
-    },
-    {
-      "en": "There is a bathroom here.",
-      "fr": "Il y a une salle de bain ici.",
-      "vocab": [
-        { "fr": "salle de bain", "en": "bathroom" }
-      ]
-    },
-    {
-      "en": "There is a bag in the car.",
-      "fr": "Il y a un sac dans la voiture.",
+      "en": "You (informal) have a bag.",
+      "fr": "Tu as un sac.",
       "vocab": [
         { "fr": "sac", "en": "bag" }
       ]
     },
     {
-      "en": "There are eggs in the fridge.",
-      "fr": "Il y a des œufs dans le frigo.",
+      "en": "You (formal) have eggs.",
+      "fr": "Vous avez des œufs.",
       "vocab": [
-        { "fr": "œuf", "en": "egg" },
-        { "fr": "frigo", "en": "fridge" }
+        { "fr": "œuf", "en": "egg" }
       ]
+    },
+    {
+      "en": "I have a friend (fem.).",
+      "fr": "J'ai une amie.",
+      "vocab": []
     }
   ]
 }

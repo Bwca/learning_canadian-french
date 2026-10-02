@@ -60,8 +60,8 @@
       ]
     },
     {
-      "en": "There are books at the library.",
-      "fr": "Il y a des livres à la bibliothèque.",
+      "en": "She is at the library.",
+      "fr": "Elle est à la bibliothèque.",
       "vocab": [
         { "fr": "bibliothèque", "en": "library" }
       ]
