@@ -31,16 +31,16 @@
       ]
     },
     {
-      "en": "My father is fifty years old.",
-      "fr": "Mon père a cinquante ans.",
+      "en": "The father is fifty years old.",
+      "fr": "Le père a cinquante ans.",
       "vocab": [
         { "fr": "père", "en": "father" },
         { "fr": "cinquante", "en": "fifty" }
       ]
     },
     {
-      "en": "My mother is forty-five years old.",
-      "fr": "Ma mère a quarante-cinq ans.",
+      "en": "The mother is forty-five years old.",
+      "fr": "La mère a quarante-cinq ans.",
       "vocab": [
         { "fr": "mère", "en": "mother" },
         { "fr": "quarante-cinq", "en": "forty-five" }
@@ -61,8 +61,8 @@
       ]
     },
     {
-      "en": "I am not thirty years old.",
-      "fr": "Je n'ai pas trente ans.",
+      "en": "She is thirty years old.",
+      "fr": "Elle a trente ans.",
       "vocab": [
         { "fr": "trente", "en": "thirty" }
       ]
