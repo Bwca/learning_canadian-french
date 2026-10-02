@@ -1,0 +1,52 @@
+{
+  "title": "Il y a — there is/there are (set 3: questions, est-ce qu'il y a)",
+  "exercises": [
+    {
+      "en": "Is there a bathroom here?",
+      "fr": "Est-ce qu'il y a une salle de bain ici?",
+      "vocab": [
+        { "fr": "salle de bain", "en": "bathroom" }
+      ]
+    },
+    {
+      "en": "Is there a cat in the garden?",
+      "fr": "Est-ce qu'il y a un chat dans le jardin?",
+      "vocab": []
+    },
+    {
+      "en": "Is there a book on the table?",
+      "fr": "Est-ce qu'il y a un livre sur la table?",
+      "vocab": []
+    },
+    {
+      "en": "Are there apples in the basket?",
+      "fr": "Est-ce qu'il y a des pommes dans le panier?",
+      "vocab": []
+    },
+    {
+      "en": "Is there a student in the classroom?",
+      "fr": "Est-ce qu'il y a un étudiant dans la salle de classe?",
+      "vocab": []
+    },
+    {
+      "en": "Are there children in the park?",
+      "fr": "Est-ce qu'il y a des enfants dans le parc?",
+      "vocab": []
+    },
+    {
+      "en": "Is there a car in front of the house?",
+      "fr": "Est-ce qu'il y a une voiture devant la maison?",
+      "vocab": []
+    },
+    {
+      "en": "Are there eggs in the fridge?",
+      "fr": "Est-ce qu'il y a des œufs dans le frigo?",
+      "vocab": []
+    },
+    {
+      "en": "Is there a dog in the garden?",
+      "fr": "Est-ce qu'il y a un chien dans le jardin?",
+      "vocab": []
+    }
+  ]
+}

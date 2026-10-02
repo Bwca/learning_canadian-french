@@ -1,0 +1,58 @@
+{
+  "title": "Il y a — there is/there are (set 2: negation, il n'y a pas de)",
+  "exercises": [
+    {
+      "en": "There is no bread.",
+      "fr": "Il n'y a pas de pain.",
+      "vocab": [
+        { "fr": "pain", "en": "bread" }
+      ]
+    },
+    {
+      "en": "There are no apples.",
+      "fr": "Il n'y a pas de pommes.",
+      "vocab": []
+    },
+    {
+      "en": "There is no milk.",
+      "fr": "Il n'y a pas de lait.",
+      "vocab": [
+        { "fr": "lait", "en": "milk" }
+      ]
+    },
+    {
+      "en": "There are no eggs.",
+      "fr": "Il n'y a pas d'œufs.",
+      "vocab": []
+    },
+    {
+      "en": "There is no cheese.",
+      "fr": "Il n'y a pas de fromage.",
+      "vocab": [
+        { "fr": "fromage", "en": "cheese" }
+      ]
+    },
+    {
+      "en": "There is no coffee.",
+      "fr": "Il n'y a pas de café.",
+      "vocab": [
+        { "fr": "café", "en": "coffee" }
+      ]
+    },
+    {
+      "en": "There are no children in the park.",
+      "fr": "Il n'y a pas d'enfants dans le parc.",
+      "vocab": []
+    },
+    {
+      "en": "There is no table.",
+      "fr": "Il n'y a pas de table.",
+      "vocab": []
+    },
+    {
+      "en": "There are no books.",
+      "fr": "Il n'y a pas de livres.",
+      "vocab": []
+    }
+  ]
+}

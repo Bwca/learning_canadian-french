@@ -1,0 +1,70 @@
+{
+  "title": "Il y a — there is/there are (set 1: statements)",
+  "exercises": [
+    {
+      "en": "There is a cat in the garden.",
+      "fr": "Il y a un chat dans le jardin.",
+      "vocab": [
+        { "fr": "il y a", "en": "there is / there are" },
+        { "fr": "dans", "en": "in" }
+      ]
+    },
+    {
+      "en": "There is a book on the table.",
+      "fr": "Il y a un livre sur la table.",
+      "vocab": [
+        { "fr": "sur", "en": "on" }
+      ]
+    },
+    {
+      "en": "There is a car in front of the house.",
+      "fr": "Il y a une voiture devant la maison.",
+      "vocab": [
+        { "fr": "devant", "en": "in front of" }
+      ]
+    },
+    {
+      "en": "There are apples in the basket.",
+      "fr": "Il y a des pommes dans le panier.",
+      "vocab": [
+        { "fr": "panier", "en": "basket" }
+      ]
+    },
+    {
+      "en": "There is a student in the classroom.",
+      "fr": "Il y a un étudiant dans la salle de classe.",
+      "vocab": [
+        { "fr": "salle de classe", "en": "classroom" }
+      ]
+    },
+    {
+      "en": "There are children in the park.",
+      "fr": "Il y a des enfants dans le parc.",
+      "vocab": [
+        { "fr": "parc", "en": "park" }
+      ]
+    },
+    {
+      "en": "There is a bag in the car.",
+      "fr": "Il y a un sac dans la voiture.",
+      "vocab": [
+        { "fr": "sac", "en": "bag" }
+      ]
+    },
+    {
+      "en": "There are eggs in the fridge.",
+      "fr": "Il y a des œufs dans le frigo.",
+      "vocab": [
+        { "fr": "œuf", "en": "egg" },
+        { "fr": "frigo", "en": "fridge" }
+      ]
+    },
+    {
+      "en": "There are books at the library.",
+      "fr": "Il y a des livres à la bibliothèque.",
+      "vocab": [
+        { "fr": "bibliothèque", "en": "library" }
+      ]
+    }
+  ]
+}
