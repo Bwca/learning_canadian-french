@@ -1,0 +1,70 @@
+{
+  "title": "Articles — definite & indefinite (set 4: contractions au/aux/du/des)",
+  "exercises": [
+    {
+      "en": "We are at the restaurant.",
+      "fr": "Nous sommes au restaurant.",
+      "vocab": [
+        { "fr": "au", "en": "to/at the (à + le)" },
+        { "fr": "restaurant", "en": "restaurant" }
+      ]
+    },
+    {
+      "en": "He is at the park.",
+      "fr": "Il est au parc.",
+      "vocab": []
+    },
+    {
+      "en": "They (masc.) are at the movies.",
+      "fr": "Ils sont au cinéma.",
+      "vocab": [
+        { "fr": "cinéma", "en": "movies / cinema" }
+      ]
+    },
+    {
+      "en": "The color of the sky is blue.",
+      "fr": "La couleur du ciel est bleue.",
+      "vocab": [
+        { "fr": "couleur", "en": "color" },
+        { "fr": "du", "en": "of the (de + le)" },
+        { "fr": "ciel", "en": "sky" }
+      ]
+    },
+    {
+      "en": "The names of the students are here.",
+      "fr": "Les noms des étudiants sont ici.",
+      "vocab": [
+        { "fr": "nom", "en": "name" },
+        { "fr": "des", "en": "of the (de + les)" }
+      ]
+    },
+    {
+      "en": "I am at the market.",
+      "fr": "Je suis au marché.",
+      "vocab": [
+        { "fr": "marché", "en": "market" }
+      ]
+    },
+    {
+      "en": "The keys of the car are on the table.",
+      "fr": "Les clés de la voiture sont sur la table.",
+      "vocab": [
+        { "fr": "clé", "en": "key" }
+      ]
+    },
+    {
+      "en": "We are at the museum.",
+      "fr": "Nous sommes au musée.",
+      "vocab": [
+        { "fr": "musée", "en": "museum" }
+      ]
+    },
+    {
+      "en": "There are books at the library.",
+      "fr": "Il y a des livres à la bibliothèque.",
+      "vocab": [
+        { "fr": "bibliothèque", "en": "library" }
+      ]
+    }
+  ]
+}

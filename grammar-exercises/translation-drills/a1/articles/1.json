@@ -1,0 +1,69 @@
+{
+  "title": "Articles — definite & indefinite (set 1: indefinite articles with il y a)",
+  "exercises": [
+    {
+      "en": "There is a cat in the garden.",
+      "fr": "Il y a un chat dans le jardin.",
+      "vocab": [
+        { "fr": "il y a", "en": "there is / there are" },
+        { "fr": "dans", "en": "in" }
+      ]
+    },
+    {
+      "en": "There is a book on the table.",
+      "fr": "Il y a un livre sur la table.",
+      "vocab": [
+        { "fr": "sur", "en": "on" }
+      ]
+    },
+    {
+      "en": "There is a car in front of the house.",
+      "fr": "Il y a une voiture devant la maison.",
+      "vocab": [
+        { "fr": "devant", "en": "in front of" }
+      ]
+    },
+    {
+      "en": "There are apples in the basket.",
+      "fr": "Il y a des pommes dans le panier.",
+      "vocab": [
+        { "fr": "panier", "en": "basket" }
+      ]
+    },
+    {
+      "en": "There is a student in the classroom.",
+      "fr": "Il y a un étudiant dans la salle de classe.",
+      "vocab": [
+        { "fr": "salle de classe", "en": "classroom" }
+      ]
+    },
+    {
+      "en": "There are children in the park.",
+      "fr": "Il y a des enfants dans le parc.",
+      "vocab": [
+        { "fr": "parc", "en": "park" }
+      ]
+    },
+    {
+      "en": "Is there a bathroom here?",
+      "fr": "Est-ce qu'il y a une salle de bain ici?",
+      "vocab": [
+        { "fr": "salle de bain", "en": "bathroom" }
+      ]
+    },
+    {
+      "en": "There is no bread.",
+      "fr": "Il n'y a pas de pain.",
+      "vocab": [
+        { "fr": "pain", "en": "bread" }
+      ]
+    },
+    {
+      "en": "There are no eggs.",
+      "fr": "Il n'y a pas d'œufs.",
+      "vocab": [
+        { "fr": "œuf", "en": "egg" }
+      ]
+    }
+  ]
+}

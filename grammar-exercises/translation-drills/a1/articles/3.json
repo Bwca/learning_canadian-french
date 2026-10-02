@@ -1,0 +1,58 @@
+{
+  "title": "Articles — definite & indefinite (set 3: new thing (un/une) vs. known thing (le/la/l'))",
+  "exercises": [
+    {
+      "en": "I have a cat.",
+      "fr": "J'ai un chat.",
+      "vocab": []
+    },
+    {
+      "en": "The cat is on the chair.",
+      "fr": "Le chat est sur la chaise.",
+      "vocab": [
+        { "fr": "chaise", "en": "chair" }
+      ]
+    },
+    {
+      "en": "There is a book on the table.",
+      "fr": "Il y a un livre sur la table.",
+      "vocab": []
+    },
+    {
+      "en": "The book is interesting.",
+      "fr": "Le livre est intéressant.",
+      "vocab": [
+        { "fr": "intéressant", "en": "interesting" }
+      ]
+    },
+    {
+      "en": "She has an idea.",
+      "fr": "Elle a une idée.",
+      "vocab": [
+        { "fr": "idée", "en": "idea" }
+      ]
+    },
+    {
+      "en": "The idea is good.",
+      "fr": "L'idée est bonne.",
+      "vocab": [
+        { "fr": "bonne", "en": "good (fem.)" }
+      ]
+    },
+    {
+      "en": "We have a house.",
+      "fr": "Nous avons une maison.",
+      "vocab": []
+    },
+    {
+      "en": "The house is big.",
+      "fr": "La maison est grande.",
+      "vocab": []
+    },
+    {
+      "en": "I have a friend (fem.).",
+      "fr": "J'ai une amie.",
+      "vocab": []
+    }
+  ]
+}

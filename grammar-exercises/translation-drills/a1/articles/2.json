@@ -1,0 +1,70 @@
+{
+  "title": "Articles — definite & indefinite (set 2: definite articles for specific & general things)",
+  "exercises": [
+    {
+      "en": "The sun is yellow.",
+      "fr": "Le soleil est jaune.",
+      "vocab": [
+        { "fr": "soleil", "en": "sun" },
+        { "fr": "jaune", "en": "yellow" }
+      ]
+    },
+    {
+      "en": "The moon is beautiful tonight.",
+      "fr": "La lune est belle ce soir.",
+      "vocab": [
+        { "fr": "lune", "en": "moon" },
+        { "fr": "ce soir", "en": "tonight" }
+      ]
+    },
+    {
+      "en": "The children are at school.",
+      "fr": "Les enfants sont à l'école.",
+      "vocab": [
+        { "fr": "école", "en": "school" }
+      ]
+    },
+    {
+      "en": "The water is cold.",
+      "fr": "L'eau est froide.",
+      "vocab": [
+        { "fr": "eau", "en": "water" },
+        { "fr": "froide", "en": "cold (fem.)" }
+      ]
+    },
+    {
+      "en": "I like chocolate.",
+      "fr": "J'aime le chocolat.",
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "chocolat", "en": "chocolate" }
+      ]
+    },
+    {
+      "en": "He likes coffee.",
+      "fr": "Il aime le café.",
+      "vocab": [
+        { "fr": "café", "en": "coffee" }
+      ]
+    },
+    {
+      "en": "We like animals.",
+      "fr": "Nous aimons les animaux.",
+      "vocab": []
+    },
+    {
+      "en": "She likes music.",
+      "fr": "Elle aime la musique.",
+      "vocab": [
+        { "fr": "musique", "en": "music" }
+      ]
+    },
+    {
+      "en": "I do not like tea.",
+      "fr": "Je n'aime pas le thé.",
+      "vocab": [
+        { "fr": "thé", "en": "tea" }
+      ]
+    }
+  ]
+}
