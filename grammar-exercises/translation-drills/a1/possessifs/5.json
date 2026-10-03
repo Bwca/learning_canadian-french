@@ -1,0 +1,57 @@
+{
+  "title": "Possessifs — notre/nos (set 5: our things)",
+  "exercises": [
+    {
+      "en": "Our house is big.",
+      "fr": "Notre maison est grande.",
+      "vocab": []
+    },
+    {
+      "en": "Our car is new.",
+      "fr": "Notre voiture est neuve.",
+      "vocab": []
+    },
+    {
+      "en": "Our friends (masc.) are kind.",
+      "fr": "Nos amis sont gentils.",
+      "vocab": []
+    },
+    {
+      "en": "Our parents are here.",
+      "fr": "Nos parents sont ici.",
+      "vocab": []
+    },
+    {
+      "en": "Our dog is small.",
+      "fr": "Notre chien est petit.",
+      "vocab": []
+    },
+    {
+      "en": "Our books are on the table.",
+      "fr": "Nos livres sont sur la table.",
+      "vocab": []
+    },
+    {
+      "en": "Our teacher is nice.",
+      "fr": "Notre professeur est gentil.",
+      "vocab": []
+    },
+    {
+      "en": "Our neighbours are friendly.",
+      "fr": "Nos voisins sont sympathiques.",
+      "vocab": [
+        { "fr": "sympathique", "en": "friendly" }
+      ]
+    },
+    {
+      "en": "Our garden is beautiful.",
+      "fr": "Notre jardin est beau.",
+      "vocab": []
+    },
+    {
+      "en": "Our children are happy.",
+      "fr": "Nos enfants sont contents.",
+      "vocab": []
+    }
+  ]
+}

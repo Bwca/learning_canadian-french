@@ -63,6 +63,11 @@
       "vocab": [
         { "fr": "leur", "en": "their" }
       ]
+    },
+    {
+      "en": "Her shoes are new.",
+      "fr": "Ses chaussures sont neuves.",
+      "vocab": []
     }
   ]
 }

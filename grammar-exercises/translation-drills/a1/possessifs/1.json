@@ -67,6 +67,11 @@
       "vocab": [
         { "fr": "haïtien", "en": "Haitian" }
       ]
+    },
+    {
+      "en": "My dog is big.",
+      "fr": "Mon chien est grand.",
+      "vocab": []
     }
   ]
 }

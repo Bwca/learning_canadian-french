@@ -1,0 +1,61 @@
+{
+  "title": "Possessifs — mixed persons, with family vocabulary",
+  "exercises": [
+    {
+      "en": "My mother is kind.",
+      "fr": "Ma mère est gentille.",
+      "vocab": []
+    },
+    {
+      "en": "Your (informal) father is tall.",
+      "fr": "Ton père est grand.",
+      "vocab": []
+    },
+    {
+      "en": "His grandmother is eighty years old.",
+      "fr": "Sa grand-mère a quatre-vingts ans.",
+      "vocab": [
+        { "fr": "quatre-vingts", "en": "eighty" }
+      ]
+    },
+    {
+      "en": "Her grandfather is seventy years old.",
+      "fr": "Son grand-père a soixante-dix ans.",
+      "vocab": []
+    },
+    {
+      "en": "Our uncle is nice.",
+      "fr": "Notre oncle est gentil.",
+      "vocab": []
+    },
+    {
+      "en": "Your (formal) aunt is here.",
+      "fr": "Votre tante est ici.",
+      "vocab": []
+    },
+    {
+      "en": "Their cousins (masc.) are young.",
+      "fr": "Leurs cousins sont jeunes.",
+      "vocab": [
+        { "fr": "jeune", "en": "young" }
+      ]
+    },
+    {
+      "en": "My niece is small.",
+      "fr": "Ma nièce est petite.",
+      "vocab": []
+    },
+    {
+      "en": "Your (informal) nephew is funny.",
+      "fr": "Ton neveu est drôle.",
+      "vocab": [
+        { "fr": "drôle", "en": "funny" }
+      ]
+    },
+    {
+      "en": "Her sister is a teacher.",
+      "fr": "Sa sœur est professeure.",
+      "vocab": []
+    }
+  ]
+}

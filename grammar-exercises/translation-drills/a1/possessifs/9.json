@@ -1,0 +1,65 @@
+{
+  "title": "Possessifs — mixed persons, with everyday objects",
+  "exercises": [
+    {
+      "en": "My bag is heavy.",
+      "fr": "Mon sac est lourd.",
+      "vocab": [
+        { "fr": "lourd", "en": "heavy" }
+      ]
+    },
+    {
+      "en": "Your (informal) pencil is yellow.",
+      "fr": "Ton crayon est jaune.",
+      "vocab": []
+    },
+    {
+      "en": "His phone is new.",
+      "fr": "Son téléphone est neuf.",
+      "vocab": []
+    },
+    {
+      "en": "Her umbrella is red.",
+      "fr": "Son parapluie est rouge.",
+      "vocab": []
+    },
+    {
+      "en": "Our chairs are old.",
+      "fr": "Nos chaises sont vieilles.",
+      "vocab": [
+        { "fr": "vieille", "en": "old (fem.)" }
+      ]
+    },
+    {
+      "en": "Your (formal) computer is fast.",
+      "fr": "Votre ordinateur est rapide.",
+      "vocab": [
+        { "fr": "rapide", "en": "fast" }
+      ]
+    },
+    {
+      "en": "Their keys are lost.",
+      "fr": "Leurs clés sont perdues.",
+      "vocab": [
+        { "fr": "perdue", "en": "lost" }
+      ]
+    },
+    {
+      "en": "My shoes are new.",
+      "fr": "Mes chaussures sont neuves.",
+      "vocab": []
+    },
+    {
+      "en": "Your (informal) watch is beautiful.",
+      "fr": "Ta montre est belle.",
+      "vocab": []
+    },
+    {
+      "en": "His notebook is on the desk.",
+      "fr": "Son cahier est sur le bureau.",
+      "vocab": [
+        { "fr": "bureau", "en": "desk" }
+      ]
+    }
+  ]
+}

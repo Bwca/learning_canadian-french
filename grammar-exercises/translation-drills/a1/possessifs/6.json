@@ -1,0 +1,57 @@
+{
+  "title": "Possessifs — votre/vos (set 6: your things, formal/plural)",
+  "exercises": [
+    {
+      "en": "Your children are happy.",
+      "fr": "Vos enfants sont contents.",
+      "vocab": []
+    },
+    {
+      "en": "Your house is big.",
+      "fr": "Votre maison est grande.",
+      "vocab": []
+    },
+    {
+      "en": "Your car is new.",
+      "fr": "Votre voiture est neuve.",
+      "vocab": []
+    },
+    {
+      "en": "Your friends (fem.) are kind.",
+      "fr": "Vos amies sont gentilles.",
+      "vocab": []
+    },
+    {
+      "en": "Your dog is nice.",
+      "fr": "Votre chien est gentil.",
+      "vocab": []
+    },
+    {
+      "en": "Your keys are here.",
+      "fr": "Vos clés sont ici.",
+      "vocab": []
+    },
+    {
+      "en": "Your teacher is strict.",
+      "fr": "Votre professeur est strict.",
+      "vocab": [
+        { "fr": "strict", "en": "strict" }
+      ]
+    },
+    {
+      "en": "Your parents are tall.",
+      "fr": "Vos parents sont grands.",
+      "vocab": []
+    },
+    {
+      "en": "Your garden is beautiful.",
+      "fr": "Votre jardin est beau.",
+      "vocab": []
+    },
+    {
+      "en": "Your books are new.",
+      "fr": "Vos livres sont nouveaux.",
+      "vocab": []
+    }
+  ]
+}

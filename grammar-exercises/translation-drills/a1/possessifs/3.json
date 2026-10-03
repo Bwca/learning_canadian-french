@@ -1,0 +1,57 @@
+{
+  "title": "Possessifs — ton/ta/tes (set 3: your things, informal)",
+  "exercises": [
+    {
+      "en": "Your dog is nice.",
+      "fr": "Ton chien est gentil.",
+      "vocab": []
+    },
+    {
+      "en": "Your car is red.",
+      "fr": "Ta voiture est rouge.",
+      "vocab": []
+    },
+    {
+      "en": "Your keys are on the table.",
+      "fr": "Tes clés sont sur la table.",
+      "vocab": []
+    },
+    {
+      "en": "Your brother is tall.",
+      "fr": "Ton frère est grand.",
+      "vocab": []
+    },
+    {
+      "en": "Your idea is good.",
+      "fr": "Ton idée est bonne.",
+      "vocab": []
+    },
+    {
+      "en": "Your shoes are black.",
+      "fr": "Tes chaussures sont noires.",
+      "vocab": []
+    },
+    {
+      "en": "Your sister is nice.",
+      "fr": "Ta sœur est gentille.",
+      "vocab": []
+    },
+    {
+      "en": "Your parents are kind.",
+      "fr": "Tes parents sont gentils.",
+      "vocab": []
+    },
+    {
+      "en": "Your house is big.",
+      "fr": "Ta maison est grande.",
+      "vocab": []
+    },
+    {
+      "en": "Your friend (fem.) is happy.",
+      "fr": "Ton amie est contente.",
+      "vocab": [
+        { "fr": "ton amie", "en": "your friend (fem.) — ton, not ta, before a vowel sound" }
+      ]
+    }
+  ]
+}
