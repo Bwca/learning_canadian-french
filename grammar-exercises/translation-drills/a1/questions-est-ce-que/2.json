@@ -52,6 +52,11 @@
       "en": "Do they (masc.) have children?",
       "fr": "Est-ce qu'ils ont des enfants?",
       "vocab": []
+    },
+    {
+      "en": "Do they (fem.) have a car?",
+      "fr": "Est-ce qu'elles ont une voiture?",
+      "vocab": []
     }
   ]
 }

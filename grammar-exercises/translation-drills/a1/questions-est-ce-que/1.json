@@ -64,6 +64,11 @@
         { "fr": "porte", "en": "door" },
         { "fr": "ouverte", "en": "open (fem.)" }
       ]
+    },
+    {
+      "en": "Are they (fem.) ready?",
+      "fr": "Est-ce qu'elles sont prêtes?",
+      "vocab": []
     }
   ]
 }

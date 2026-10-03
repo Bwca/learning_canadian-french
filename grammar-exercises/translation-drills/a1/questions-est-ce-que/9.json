@@ -1,0 +1,57 @@
+{
+  "title": "Questions — est-ce que (set 9: with nationalities)",
+  "exercises": [
+    {
+      "en": "Is he Canadian?",
+      "fr": "Est-ce qu'il est canadien?",
+      "vocab": []
+    },
+    {
+      "en": "Is she French?",
+      "fr": "Est-ce qu'elle est française?",
+      "vocab": []
+    },
+    {
+      "en": "Are you (informal) American?",
+      "fr": "Est-ce que tu es américain?",
+      "vocab": []
+    },
+    {
+      "en": "Are we Québécois?",
+      "fr": "Est-ce que nous sommes québécois?",
+      "vocab": []
+    },
+    {
+      "en": "Are you (formal) Italian?",
+      "fr": "Est-ce que vous êtes italien?",
+      "vocab": []
+    },
+    {
+      "en": "Are they (masc.) Haitian?",
+      "fr": "Est-ce qu'ils sont haïtiens?",
+      "vocab": []
+    },
+    {
+      "en": "Is she Mexican?",
+      "fr": "Est-ce qu'elle est mexicaine?",
+      "vocab": [
+        { "fr": "mexicaine", "en": "Mexican (fem.)" }
+      ]
+    },
+    {
+      "en": "Are they (fem.) Canadian?",
+      "fr": "Est-ce qu'elles sont canadiennes?",
+      "vocab": []
+    },
+    {
+      "en": "Is he from Montreal?",
+      "fr": "Est-ce qu'il est de Montréal?",
+      "vocab": []
+    },
+    {
+      "en": "Are you (informal) from Quebec City?",
+      "fr": "Est-ce que tu es de Québec?",
+      "vocab": []
+    }
+  ]
+}
