@@ -1,0 +1,63 @@
+{
+  "title": "Negation — ne...pas (set 4: with aimer)",
+  "exercises": [
+    {
+      "en": "I do not like coffee.",
+      "fr": "Je n'aime pas le café.",
+      "vocab": []
+    },
+    {
+      "en": "He does not like the rain.",
+      "fr": "Il n'aime pas la pluie.",
+      "vocab": []
+    },
+    {
+      "en": "We do not like the cold.",
+      "fr": "Nous n'aimons pas le froid.",
+      "vocab": [
+        { "fr": "froid", "en": "cold (noun)" }
+      ]
+    },
+    {
+      "en": "She does not like snakes.",
+      "fr": "Elle n'aime pas les serpents.",
+      "vocab": []
+    },
+    {
+      "en": "You (informal) do not like vegetables.",
+      "fr": "Tu n'aimes pas les légumes.",
+      "vocab": [
+        { "fr": "légume", "en": "vegetable" }
+      ]
+    },
+    {
+      "en": "They (masc.) do not like the city.",
+      "fr": "Ils n'aiment pas la ville.",
+      "vocab": []
+    },
+    {
+      "en": "I do not like winter.",
+      "fr": "Je n'aime pas l'hiver.",
+      "vocab": []
+    },
+    {
+      "en": "You (formal) do not like noise.",
+      "fr": "Vous n'aimez pas le bruit.",
+      "vocab": [
+        { "fr": "bruit", "en": "noise" }
+      ]
+    },
+    {
+      "en": "She does not like spiders.",
+      "fr": "Elle n'aime pas les araignées.",
+      "vocab": [
+        { "fr": "araignée", "en": "spider" }
+      ]
+    },
+    {
+      "en": "We do not like Mondays.",
+      "fr": "Nous n'aimons pas les lundis.",
+      "vocab": []
+    }
+  ]
+}

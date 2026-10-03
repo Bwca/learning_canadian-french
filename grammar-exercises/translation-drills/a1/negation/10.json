@@ -1,0 +1,57 @@
+{
+  "title": "Negation — ne...pas (set 10: mixed review)",
+  "exercises": [
+    {
+      "en": "I am not tired.",
+      "fr": "Je ne suis pas fatigué.",
+      "vocab": []
+    },
+    {
+      "en": "He does not have a car.",
+      "fr": "Il n'a pas de voiture.",
+      "vocab": []
+    },
+    {
+      "en": "We do not like the cold.",
+      "fr": "Nous n'aimons pas le froid.",
+      "vocab": []
+    },
+    {
+      "en": "She is not Canadian.",
+      "fr": "Elle n'est pas canadienne.",
+      "vocab": []
+    },
+    {
+      "en": "They (masc.) do not live in Quebec.",
+      "fr": "Ils n'habitent pas au Québec.",
+      "vocab": []
+    },
+    {
+      "en": "I do not have time.",
+      "fr": "Je n'ai pas le temps.",
+      "vocab": []
+    },
+    {
+      "en": "You (informal) are not late.",
+      "fr": "Tu n'es pas en retard.",
+      "vocab": []
+    },
+    {
+      "en": "We do not speak Italian.",
+      "fr": "Nous ne parlons pas italien.",
+      "vocab": [
+        { "fr": "italien", "en": "Italian" }
+      ]
+    },
+    {
+      "en": "She does not have a brother.",
+      "fr": "Elle n'a pas de frère.",
+      "vocab": []
+    },
+    {
+      "en": "The house is not small.",
+      "fr": "La maison n'est pas petite.",
+      "vocab": []
+    }
+  ]
+}

@@ -63,6 +63,11 @@
       "vocab": [
         { "fr": "triste", "en": "sad" }
       ]
+    },
+    {
+      "en": "We are not neighbours.",
+      "fr": "Nous ne sommes pas voisins.",
+      "vocab": []
     }
   ]
 }

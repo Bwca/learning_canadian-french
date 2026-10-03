@@ -1,0 +1,70 @@
+{
+  "title": "Negation — ne...pas (set 7: with other -er verbs)",
+  "exercises": [
+    {
+      "en": "I do not live in Montreal.",
+      "fr": "Je n'habite pas à Montréal.",
+      "vocab": [
+        { "fr": "habiter", "en": "to live" }
+      ]
+    },
+    {
+      "en": "He does not speak Spanish.",
+      "fr": "Il ne parle pas espagnol.",
+      "vocab": [
+        { "fr": "parler", "en": "to speak" },
+        { "fr": "espagnol", "en": "Spanish" }
+      ]
+    },
+    {
+      "en": "She does not watch television.",
+      "fr": "Elle ne regarde pas la télévision.",
+      "vocab": [
+        { "fr": "regarder", "en": "to watch" }
+      ]
+    },
+    {
+      "en": "We do not live here.",
+      "fr": "Nous n'habitons pas ici.",
+      "vocab": []
+    },
+    {
+      "en": "You (informal) do not speak French.",
+      "fr": "Tu ne parles pas français.",
+      "vocab": []
+    },
+    {
+      "en": "They (masc.) do not watch movies.",
+      "fr": "Ils ne regardent pas de films.",
+      "vocab": [
+        { "fr": "film", "en": "movie" }
+      ]
+    },
+    {
+      "en": "I do not speak English.",
+      "fr": "Je ne parle pas anglais.",
+      "vocab": [
+        { "fr": "anglais", "en": "English" }
+      ]
+    },
+    {
+      "en": "You (formal) do not live in Quebec City.",
+      "fr": "Vous n'habitez pas à Québec.",
+      "vocab": []
+    },
+    {
+      "en": "She does not watch the news.",
+      "fr": "Elle ne regarde pas les nouvelles.",
+      "vocab": [
+        { "fr": "nouvelles", "en": "news" }
+      ]
+    },
+    {
+      "en": "We do not speak German.",
+      "fr": "Nous ne parlons pas allemand.",
+      "vocab": [
+        { "fr": "allemand", "en": "German" }
+      ]
+    }
+  ]
+}

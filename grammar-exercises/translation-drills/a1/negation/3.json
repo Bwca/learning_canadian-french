@@ -55,6 +55,11 @@
       "vocab": [
         { "fr": "trente", "en": "thirty" }
       ]
+    },
+    {
+      "en": "He does not like tea.",
+      "fr": "Il n'aime pas le thé.",
+      "vocab": []
     }
   ]
 }

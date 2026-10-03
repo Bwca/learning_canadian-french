@@ -1,0 +1,61 @@
+{
+  "title": "Negation — ne...pas (set 9: mixed subjects and adjectives)",
+  "exercises": [
+    {
+      "en": "The book is not interesting.",
+      "fr": "Le livre n'est pas intéressant.",
+      "vocab": []
+    },
+    {
+      "en": "The car is not new.",
+      "fr": "La voiture n'est pas nouvelle.",
+      "vocab": []
+    },
+    {
+      "en": "The children are not happy.",
+      "fr": "Les enfants ne sont pas contents.",
+      "vocab": []
+    },
+    {
+      "en": "The friend (masc.) is not nice.",
+      "fr": "L'ami n'est pas gentil.",
+      "vocab": []
+    },
+    {
+      "en": "The house is not big.",
+      "fr": "La maison n'est pas grande.",
+      "vocab": []
+    },
+    {
+      "en": "The shoes are not black.",
+      "fr": "Les chaussures ne sont pas noires.",
+      "vocab": []
+    },
+    {
+      "en": "The soup is not hot.",
+      "fr": "La soupe n'est pas chaude.",
+      "vocab": [
+        { "fr": "soupe", "en": "soup" }
+      ]
+    },
+    {
+      "en": "The students are not ready.",
+      "fr": "Les étudiants ne sont pas prêts.",
+      "vocab": []
+    },
+    {
+      "en": "The movie is not long.",
+      "fr": "Le film n'est pas long.",
+      "vocab": [
+        { "fr": "long", "en": "long" }
+      ]
+    },
+    {
+      "en": "The bread is not fresh.",
+      "fr": "Le pain n'est pas frais.",
+      "vocab": [
+        { "fr": "frais", "en": "fresh" }
+      ]
+    }
+  ]
+}

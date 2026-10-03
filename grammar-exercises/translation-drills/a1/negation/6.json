@@ -1,0 +1,57 @@
+{
+  "title": "Negation — ne...pas (set 6: with être, continued)",
+  "exercises": [
+    {
+      "en": "I am not busy.",
+      "fr": "Je ne suis pas occupé.",
+      "vocab": []
+    },
+    {
+      "en": "He is not nervous.",
+      "fr": "Il n'est pas nerveux.",
+      "vocab": []
+    },
+    {
+      "en": "We are not Canadian.",
+      "fr": "Nous ne sommes pas canadiens.",
+      "vocab": []
+    },
+    {
+      "en": "You (informal) are not sick.",
+      "fr": "Tu n'es pas malade.",
+      "vocab": []
+    },
+    {
+      "en": "She is not a teacher.",
+      "fr": "Elle n'est pas professeure.",
+      "vocab": [
+        { "fr": "professeure", "en": "teacher (fem.)" }
+      ]
+    },
+    {
+      "en": "They (fem.) are not calm.",
+      "fr": "Elles ne sont pas calmes.",
+      "vocab": []
+    },
+    {
+      "en": "I am not excited.",
+      "fr": "Je ne suis pas excité.",
+      "vocab": []
+    },
+    {
+      "en": "You (formal/plural) are not tired.",
+      "fr": "Vous n'êtes pas fatigués.",
+      "vocab": []
+    },
+    {
+      "en": "The children are not quiet.",
+      "fr": "Les enfants ne sont pas calmes.",
+      "vocab": []
+    },
+    {
+      "en": "He is not proud.",
+      "fr": "Il n'est pas fier.",
+      "vocab": []
+    }
+  ]
+}
