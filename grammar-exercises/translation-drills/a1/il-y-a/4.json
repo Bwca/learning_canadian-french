@@ -1,0 +1,65 @@
+{
+  "title": "Il y a — there is/there are (set 4: quantities)",
+  "exercises": [
+    {
+      "en": "There are three chairs in the room.",
+      "fr": "Il y a trois chaises dans la chambre.",
+      "vocab": [
+        { "fr": "chambre", "en": "room/bedroom" }
+      ]
+    },
+    {
+      "en": "There is one window in the kitchen.",
+      "fr": "Il y a une fenêtre dans la cuisine.",
+      "vocab": []
+    },
+    {
+      "en": "There are many people at the market.",
+      "fr": "Il y a beaucoup de monde au marché.",
+      "vocab": [
+        { "fr": "monde", "en": "people/crowd" }
+      ]
+    },
+    {
+      "en": "There are two cats in the garden.",
+      "fr": "Il y a deux chats dans le jardin.",
+      "vocab": []
+    },
+    {
+      "en": "There are five books on the shelf.",
+      "fr": "Il y a cinq livres sur l'étagère.",
+      "vocab": [
+        { "fr": "étagère", "en": "shelf" }
+      ]
+    },
+    {
+      "en": "There are several students in the classroom.",
+      "fr": "Il y a plusieurs étudiants dans la salle de classe.",
+      "vocab": []
+    },
+    {
+      "en": "There is one teacher in the room.",
+      "fr": "Il y a un professeur dans la salle.",
+      "vocab": [
+        { "fr": "salle", "en": "room" }
+      ]
+    },
+    {
+      "en": "There are ten tables at the restaurant.",
+      "fr": "Il y a dix tables au restaurant.",
+      "vocab": []
+    },
+    {
+      "en": "There are a few apples in the basket.",
+      "fr": "Il y a quelques pommes dans le panier.",
+      "vocab": []
+    },
+    {
+      "en": "There are too many cars in the city.",
+      "fr": "Il y a trop de voitures dans la ville.",
+      "vocab": [
+        { "fr": "ville", "en": "city" }
+      ]
+    }
+  ]
+}

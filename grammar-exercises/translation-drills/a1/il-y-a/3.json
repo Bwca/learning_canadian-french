@@ -47,6 +47,11 @@
       "en": "Is there a dog in the garden?",
       "fr": "Est-ce qu'il y a un chien dans le jardin?",
       "vocab": []
+    },
+    {
+      "en": "Is there a phone on the table?",
+      "fr": "Est-ce qu'il y a un téléphone sur la table?",
+      "vocab": []
     }
   ]
 }

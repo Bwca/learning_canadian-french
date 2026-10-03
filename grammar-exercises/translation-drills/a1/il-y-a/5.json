@@ -1,0 +1,66 @@
+{
+  "title": "Il y a — there is/there are (set 5: at school)",
+  "exercises": [
+    {
+      "en": "There is a teacher in the classroom.",
+      "fr": "Il y a un professeur dans la salle de classe.",
+      "vocab": []
+    },
+    {
+      "en": "There are desks in the room.",
+      "fr": "Il y a des bureaux dans la salle.",
+      "vocab": [
+        { "fr": "bureau", "en": "desk" }
+      ]
+    },
+    {
+      "en": "There is a board at the front.",
+      "fr": "Il y a un tableau devant.",
+      "vocab": [
+        { "fr": "tableau", "en": "board" }
+      ]
+    },
+    {
+      "en": "There are books in the bag.",
+      "fr": "Il y a des livres dans le sac.",
+      "vocab": []
+    },
+    {
+      "en": "There is a library at the school.",
+      "fr": "Il y a une bibliothèque à l'école.",
+      "vocab": []
+    },
+    {
+      "en": "There are many students in the hallway.",
+      "fr": "Il y a beaucoup d'étudiants dans le couloir.",
+      "vocab": [
+        { "fr": "couloir", "en": "hallway" }
+      ]
+    },
+    {
+      "en": "There is a computer in the classroom.",
+      "fr": "Il y a un ordinateur dans la salle de classe.",
+      "vocab": []
+    },
+    {
+      "en": "There are pencils on the desk.",
+      "fr": "Il y a des crayons sur le bureau.",
+      "vocab": []
+    },
+    {
+      "en": "There is a clock on the wall.",
+      "fr": "Il y a une horloge sur le mur.",
+      "vocab": [
+        { "fr": "horloge", "en": "clock" },
+        { "fr": "mur", "en": "wall" }
+      ]
+    },
+    {
+      "en": "There are chairs around the table.",
+      "fr": "Il y a des chaises autour de la table.",
+      "vocab": [
+        { "fr": "autour de", "en": "around" }
+      ]
+    }
+  ]
+}

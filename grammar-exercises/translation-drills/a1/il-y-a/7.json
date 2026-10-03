@@ -1,0 +1,73 @@
+{
+  "title": "Il y a — there is/there are (set 7: around town)",
+  "exercises": [
+    {
+      "en": "There is a bank near here.",
+      "fr": "Il y a une banque près d'ici.",
+      "vocab": []
+    },
+    {
+      "en": "There is a park in the city.",
+      "fr": "Il y a un parc dans la ville.",
+      "vocab": []
+    },
+    {
+      "en": "There are many stores downtown.",
+      "fr": "Il y a beaucoup de magasins au centre-ville.",
+      "vocab": [
+        { "fr": "centre-ville", "en": "downtown" }
+      ]
+    },
+    {
+      "en": "There is a hospital next to the school.",
+      "fr": "Il y a un hôpital à côté de l'école.",
+      "vocab": [
+        { "fr": "hôpital", "en": "hospital" },
+        { "fr": "à côté de", "en": "next to" }
+      ]
+    },
+    {
+      "en": "There is a station in front of the museum.",
+      "fr": "Il y a une gare devant le musée.",
+      "vocab": []
+    },
+    {
+      "en": "There are restaurants on this street.",
+      "fr": "Il y a des restaurants dans cette rue.",
+      "vocab": [
+        { "fr": "rue", "en": "street" }
+      ]
+    },
+    {
+      "en": "There is a church behind the library.",
+      "fr": "Il y a une église derrière la bibliothèque.",
+      "vocab": [
+        { "fr": "église", "en": "church" },
+        { "fr": "derrière", "en": "behind" }
+      ]
+    },
+    {
+      "en": "There is a market on Saturday.",
+      "fr": "Il y a un marché le samedi.",
+      "vocab": [
+        { "fr": "samedi", "en": "Saturday" }
+      ]
+    },
+    {
+      "en": "There are tourists in the square.",
+      "fr": "Il y a des touristes sur la place.",
+      "vocab": [
+        { "fr": "touriste", "en": "tourist" },
+        { "fr": "place", "en": "square" }
+      ]
+    },
+    {
+      "en": "There is a bridge over the river.",
+      "fr": "Il y a un pont sur la rivière.",
+      "vocab": [
+        { "fr": "pont", "en": "bridge" },
+        { "fr": "rivière", "en": "river" }
+      ]
+    }
+  ]
+}

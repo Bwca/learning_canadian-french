@@ -1,0 +1,65 @@
+{
+  "title": "Il y a — there is/there are (set 6: in the kitchen)",
+  "exercises": [
+    {
+      "en": "There is milk in the fridge.",
+      "fr": "Il y a du lait dans le frigo.",
+      "vocab": []
+    },
+    {
+      "en": "There is bread on the table.",
+      "fr": "Il y a du pain sur la table.",
+      "vocab": []
+    },
+    {
+      "en": "There are eggs in the basket.",
+      "fr": "Il y a des œufs dans le panier.",
+      "vocab": []
+    },
+    {
+      "en": "There is cheese in the fridge.",
+      "fr": "Il y a du fromage dans le frigo.",
+      "vocab": []
+    },
+    {
+      "en": "There is coffee in the kitchen.",
+      "fr": "Il y a du café dans la cuisine.",
+      "vocab": []
+    },
+    {
+      "en": "There are apples on the counter.",
+      "fr": "Il y a des pommes sur le comptoir.",
+      "vocab": [
+        { "fr": "comptoir", "en": "counter" }
+      ]
+    },
+    {
+      "en": "There is water in the glass.",
+      "fr": "Il y a de l'eau dans le verre.",
+      "vocab": [
+        { "fr": "verre", "en": "glass" }
+      ]
+    },
+    {
+      "en": "There is a cake on the table.",
+      "fr": "Il y a un gâteau sur la table.",
+      "vocab": []
+    },
+    {
+      "en": "There are plates in the cupboard.",
+      "fr": "Il y a des assiettes dans l'armoire.",
+      "vocab": [
+        { "fr": "assiette", "en": "plate" },
+        { "fr": "armoire", "en": "cupboard" }
+      ]
+    },
+    {
+      "en": "There is sugar in the bowl.",
+      "fr": "Il y a du sucre dans le bol.",
+      "vocab": [
+        { "fr": "sucre", "en": "sugar" },
+        { "fr": "bol", "en": "bowl" }
+      ]
+    }
+  ]
+}

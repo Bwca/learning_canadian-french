@@ -65,6 +65,14 @@
       "vocab": [
         { "fr": "bibliothèque", "en": "library" }
       ]
+    },
+    {
+      "en": "There is a bird in the tree.",
+      "fr": "Il y a un oiseau dans l'arbre.",
+      "vocab": [
+        { "fr": "oiseau", "en": "bird" },
+        { "fr": "arbre", "en": "tree" }
+      ]
     }
   ]
 }

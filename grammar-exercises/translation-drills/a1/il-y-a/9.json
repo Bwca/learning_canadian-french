@@ -1,0 +1,68 @@
+{
+  "title": "Il y a — there is/there are (set 9: weather expressions)",
+  "exercises": [
+    {
+      "en": "It is sunny.",
+      "fr": "Il y a du soleil.",
+      "vocab": []
+    },
+    {
+      "en": "It is windy.",
+      "fr": "Il y a du vent.",
+      "vocab": []
+    },
+    {
+      "en": "It is foggy this morning.",
+      "fr": "Il y a du brouillard ce matin.",
+      "vocab": [
+        { "fr": "brouillard", "en": "fog" }
+      ]
+    },
+    {
+      "en": "There are clouds today.",
+      "fr": "Il y a des nuages aujourd'hui.",
+      "vocab": []
+    },
+    {
+      "en": "There is a storm tonight.",
+      "fr": "Il y a un orage ce soir.",
+      "vocab": [
+        { "fr": "orage", "en": "storm" }
+      ]
+    },
+    {
+      "en": "There is a lot of rain in autumn.",
+      "fr": "Il y a beaucoup de pluie en automne.",
+      "vocab": [
+        { "fr": "automne", "en": "autumn/fall" }
+      ]
+    },
+    {
+      "en": "There is a lot of snow in winter.",
+      "fr": "Il y a beaucoup de neige en hiver.",
+      "vocab": [
+        { "fr": "hiver", "en": "winter" }
+      ]
+    },
+    {
+      "en": "It is very sunny today.",
+      "fr": "Il y a beaucoup de soleil aujourd'hui.",
+      "vocab": []
+    },
+    {
+      "en": "There is ice on the road.",
+      "fr": "Il y a du verglas sur la route.",
+      "vocab": [
+        { "fr": "verglas", "en": "black ice" },
+        { "fr": "route", "en": "road" }
+      ]
+    },
+    {
+      "en": "There is a light wind.",
+      "fr": "Il y a un peu de vent.",
+      "vocab": [
+        { "fr": "un peu de", "en": "a little" }
+      ]
+    }
+  ]
+}

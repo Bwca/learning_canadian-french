@@ -1,0 +1,68 @@
+{
+  "title": "Il y a — there is/there are (set 8: outdoors and nature)",
+  "exercises": [
+    {
+      "en": "There is a tree in the garden.",
+      "fr": "Il y a un arbre dans le jardin.",
+      "vocab": []
+    },
+    {
+      "en": "There are flowers in the park.",
+      "fr": "Il y a des fleurs dans le parc.",
+      "vocab": []
+    },
+    {
+      "en": "There is a lake near the forest.",
+      "fr": "Il y a un lac près de la forêt.",
+      "vocab": [
+        { "fr": "lac", "en": "lake" },
+        { "fr": "forêt", "en": "forest" }
+      ]
+    },
+    {
+      "en": "There are mountains in the distance.",
+      "fr": "Il y a des montagnes au loin.",
+      "vocab": [
+        { "fr": "au loin", "en": "in the distance" }
+      ]
+    },
+    {
+      "en": "There is a river behind the house.",
+      "fr": "Il y a une rivière derrière la maison.",
+      "vocab": []
+    },
+    {
+      "en": "There are birds in the trees.",
+      "fr": "Il y a des oiseaux dans les arbres.",
+      "vocab": []
+    },
+    {
+      "en": "There is a path in the forest.",
+      "fr": "Il y a un chemin dans la forêt.",
+      "vocab": [
+        { "fr": "chemin", "en": "path" }
+      ]
+    },
+    {
+      "en": "There are clouds in the sky.",
+      "fr": "Il y a des nuages dans le ciel.",
+      "vocab": [
+        { "fr": "nuage", "en": "cloud" }
+      ]
+    },
+    {
+      "en": "There is a beach near the city.",
+      "fr": "Il y a une plage près de la ville.",
+      "vocab": [
+        { "fr": "plage", "en": "beach" }
+      ]
+    },
+    {
+      "en": "There are animals in the field.",
+      "fr": "Il y a des animaux dans le champ.",
+      "vocab": [
+        { "fr": "champ", "en": "field" }
+      ]
+    }
+  ]
+}

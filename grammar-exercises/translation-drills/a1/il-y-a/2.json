@@ -53,6 +53,13 @@
       "en": "There are no books.",
       "fr": "Il n'y a pas de livres.",
       "vocab": []
+    },
+    {
+      "en": "There is no snow today.",
+      "fr": "Il n'y a pas de neige aujourd'hui.",
+      "vocab": [
+        { "fr": "neige", "en": "snow" }
+      ]
     }
   ]
 }
