@@ -59,6 +59,11 @@
         { "fr": "prix", "en": "price (same spelling in plural)" },
         { "fr": "élevé", "en": "high" }
       ]
+    },
+    {
+      "en": "The prices are high.",
+      "fr": "Les prix sont élevés.",
+      "vocab": []
     }
   ]
 }

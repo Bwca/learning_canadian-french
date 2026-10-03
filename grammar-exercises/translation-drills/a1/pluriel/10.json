@@ -1,0 +1,59 @@
+{
+  "title": "Pluriel — noun plurals (set 10: mixed review 2)",
+  "exercises": [
+    {
+      "en": "I have two books and three pens.",
+      "fr": "J'ai deux livres et trois stylos.",
+      "vocab": []
+    },
+    {
+      "en": "The cars are new.",
+      "fr": "Les voitures sont nouvelles.",
+      "vocab": []
+    },
+    {
+      "en": "She has five apples and two oranges.",
+      "fr": "Elle a cinq pommes et deux oranges.",
+      "vocab": [
+        { "fr": "orange", "en": "orange (fruit)" }
+      ]
+    },
+    {
+      "en": "The animals are big.",
+      "fr": "Les animaux sont grands.",
+      "vocab": []
+    },
+    {
+      "en": "We have four chairs and a table.",
+      "fr": "Nous avons quatre chaises et une table.",
+      "vocab": []
+    },
+    {
+      "en": "The prices are high.",
+      "fr": "Les prix sont élevés.",
+      "vocab": []
+    },
+    {
+      "en": "He has blue eyes and black shoes.",
+      "fr": "Il a les yeux bleus et les chaussures noires.",
+      "vocab": []
+    },
+    {
+      "en": "The children have many toys.",
+      "fr": "Les enfants ont beaucoup de jouets.",
+      "vocab": [
+        { "fr": "jouet", "en": "toy" }
+      ]
+    },
+    {
+      "en": "I have three friends (fem.).",
+      "fr": "J'ai trois amies.",
+      "vocab": []
+    },
+    {
+      "en": "The flowers in the garden are beautiful.",
+      "fr": "Les fleurs dans le jardin sont belles.",
+      "vocab": []
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Pluriel — noun plurals (set 9: special plurals, continued — -ou → x)",
+  "exercises": [
+    {
+      "en": "I have a jewel.",
+      "fr": "J'ai un bijou.",
+      "vocab": [
+        { "fr": "bijou", "en": "jewel" }
+      ]
+    },
+    {
+      "en": "I have two jewels.",
+      "fr": "J'ai deux bijoux.",
+      "vocab": [
+        { "fr": "bijoux", "en": "jewels (irregular plural)" }
+      ]
+    },
+    {
+      "en": "She has a cabbage.",
+      "fr": "Elle a un chou.",
+      "vocab": [
+        { "fr": "chou", "en": "cabbage" }
+      ]
+    },
+    {
+      "en": "She has three cabbages.",
+      "fr": "Elle a trois choux.",
+      "vocab": [
+        { "fr": "choux", "en": "cabbages" }
+      ]
+    },
+    {
+      "en": "I have two knees.",
+      "fr": "J'ai deux genoux.",
+      "vocab": [
+        { "fr": "genou / genoux", "en": "knee / knees (irregular plural)" }
+      ]
+    },
+    {
+      "en": "The owl is in the tree.",
+      "fr": "Le hibou est dans l'arbre.",
+      "vocab": [
+        { "fr": "hibou", "en": "owl" }
+      ]
+    },
+    {
+      "en": "The owls are in the forest.",
+      "fr": "Les hiboux sont dans la forêt.",
+      "vocab": [
+        { "fr": "hiboux", "en": "owls (irregular plural)" }
+      ]
+    },
+    {
+      "en": "I have a pebble in the shoe.",
+      "fr": "J'ai un caillou dans la chaussure.",
+      "vocab": [
+        { "fr": "caillou", "en": "pebble" }
+      ]
+    },
+    {
+      "en": "The pebbles are on the path.",
+      "fr": "Les cailloux sont sur le chemin.",
+      "vocab": [
+        { "fr": "cailloux", "en": "pebbles (irregular plural)" },
+        { "fr": "chemin", "en": "path" }
+      ]
+    },
+    {
+      "en": "The cabbages are green.",
+      "fr": "Les choux sont verts.",
+      "vocab": []
+    }
+  ]
+}

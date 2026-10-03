@@ -1,0 +1,64 @@
+{
+  "title": "Pluriel — noun plurals (set 7: plural with numbers and everyday objects)",
+  "exercises": [
+    {
+      "en": "I have two pens.",
+      "fr": "J'ai deux stylos.",
+      "vocab": []
+    },
+    {
+      "en": "She has three notebooks.",
+      "fr": "Elle a trois cahiers.",
+      "vocab": []
+    },
+    {
+      "en": "We have four chairs.",
+      "fr": "Nous avons quatre chaises.",
+      "vocab": []
+    },
+    {
+      "en": "He has five keys.",
+      "fr": "Il a cinq clés.",
+      "vocab": []
+    },
+    {
+      "en": "You (informal) have six books.",
+      "fr": "Tu as six livres.",
+      "vocab": [
+        { "fr": "six", "en": "six" }
+      ]
+    },
+    {
+      "en": "They (masc.) have seven phones.",
+      "fr": "Ils ont sept téléphones.",
+      "vocab": [
+        { "fr": "sept", "en": "seven" }
+      ]
+    },
+    {
+      "en": "I have eight apples.",
+      "fr": "J'ai huit pommes.",
+      "vocab": [
+        { "fr": "huit", "en": "eight" }
+      ]
+    },
+    {
+      "en": "We have nine plates.",
+      "fr": "Nous avons neuf assiettes.",
+      "vocab": [
+        { "fr": "neuf", "en": "nine" },
+        { "fr": "assiette", "en": "plate" }
+      ]
+    },
+    {
+      "en": "She has ten flowers.",
+      "fr": "Elle a dix fleurs.",
+      "vocab": []
+    },
+    {
+      "en": "They (fem.) have two bags.",
+      "fr": "Elles ont deux sacs.",
+      "vocab": []
+    }
+  ]
+}

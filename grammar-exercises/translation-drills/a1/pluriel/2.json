@@ -65,6 +65,11 @@
         { "fr": "château", "en": "castle" },
         { "fr": "beau", "en": "beautiful" }
       ]
+    },
+    {
+      "en": "The castles are beautiful.",
+      "fr": "Les châteaux sont beaux.",
+      "vocab": []
     }
   ]
 }

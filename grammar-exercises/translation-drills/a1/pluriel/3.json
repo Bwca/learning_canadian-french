@@ -57,6 +57,11 @@
         { "fr": "pomme", "en": "apple" },
         { "fr": "verte", "en": "green (fem.)" }
       ]
+    },
+    {
+      "en": "The apples are green.",
+      "fr": "Les pommes sont vertes.",
+      "vocab": []
     }
   ]
 }

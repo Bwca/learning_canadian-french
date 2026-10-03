@@ -58,6 +58,11 @@
       "vocab": [
         { "fr": "chaussure", "en": "shoe" }
       ]
+    },
+    {
+      "en": "He has four brothers.",
+      "fr": "Il a quatre frères.",
+      "vocab": []
     }
   ]
 }

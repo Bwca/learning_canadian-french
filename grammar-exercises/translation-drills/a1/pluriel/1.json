@@ -57,6 +57,11 @@
       "vocab": [
         { "fr": "ami", "en": "friend (masc.)" }
       ]
+    },
+    {
+      "en": "I have two friends (masc.).",
+      "fr": "J'ai deux amis.",
+      "vocab": []
     }
   ]
 }
