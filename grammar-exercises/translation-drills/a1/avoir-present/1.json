@@ -63,6 +63,13 @@
       "vocab": [
         { "fr": "livre", "en": "book" }
       ]
+    },
+    {
+      "en": "He has a watch.",
+      "fr": "Il a une montre.",
+      "vocab": [
+        { "fr": "montre", "en": "watch" }
+      ]
     }
   ]
 }

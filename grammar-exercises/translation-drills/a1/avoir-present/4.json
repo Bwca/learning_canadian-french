@@ -64,6 +64,13 @@
         { "fr": "avoir envie de", "en": "to feel like" },
         { "fr": "manger", "en": "to eat" }
       ]
+    },
+    {
+      "en": "She needs time.",
+      "fr": "Elle a besoin de temps.",
+      "vocab": [
+        { "fr": "avoir besoin de", "en": "to need" }
+      ]
     }
   ]
 }

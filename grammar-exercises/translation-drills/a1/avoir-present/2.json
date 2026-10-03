@@ -64,6 +64,13 @@
       "vocab": [
         { "fr": "fille", "en": "daughter / girl" }
       ]
+    },
+    {
+      "en": "She has a nephew.",
+      "fr": "Elle a un neveu.",
+      "vocab": [
+        { "fr": "neveu", "en": "nephew" }
+      ]
     }
   ]
 }

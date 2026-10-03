@@ -1,0 +1,67 @@
+{
+  "title": "Avoir — present tense (set 6: possession — pets and animals)",
+  "exercises": [
+    {
+      "en": "I have a rabbit.",
+      "fr": "J'ai un lapin.",
+      "vocab": [
+        { "fr": "lapin", "en": "rabbit" }
+      ]
+    },
+    {
+      "en": "She has a bird.",
+      "fr": "Elle a un oiseau.",
+      "vocab": []
+    },
+    {
+      "en": "He has a fish.",
+      "fr": "Il a un poisson.",
+      "vocab": [
+        { "fr": "poisson", "en": "fish" }
+      ]
+    },
+    {
+      "en": "We have a horse.",
+      "fr": "Nous avons un cheval.",
+      "vocab": [
+        { "fr": "cheval", "en": "horse" }
+      ]
+    },
+    {
+      "en": "You (informal) have a turtle.",
+      "fr": "Tu as une tortue.",
+      "vocab": [
+        { "fr": "tortue", "en": "turtle" }
+      ]
+    },
+    {
+      "en": "They (masc.) have two dogs.",
+      "fr": "Ils ont deux chiens.",
+      "vocab": []
+    },
+    {
+      "en": "I have three cats.",
+      "fr": "J'ai trois chats.",
+      "vocab": []
+    },
+    {
+      "en": "You (formal) have a hamster.",
+      "fr": "Vous avez un hamster.",
+      "vocab": []
+    },
+    {
+      "en": "She has a snake.",
+      "fr": "Elle a un serpent.",
+      "vocab": [
+        { "fr": "serpent", "en": "snake" }
+      ]
+    },
+    {
+      "en": "We have chickens.",
+      "fr": "Nous avons des poules.",
+      "vocab": [
+        { "fr": "poule", "en": "chicken/hen" }
+      ]
+    }
+  ]
+}

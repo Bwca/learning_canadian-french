@@ -1,0 +1,65 @@
+{
+  "title": "Avoir — present tense (set 8: age, continued)",
+  "exercises": [
+    {
+      "en": "The baby is one year old.",
+      "fr": "Le bébé a un an.",
+      "vocab": [
+        { "fr": "bébé", "en": "baby" }
+      ]
+    },
+    {
+      "en": "The boy is seven years old.",
+      "fr": "Le garçon a sept ans.",
+      "vocab": []
+    },
+    {
+      "en": "The girl is nine years old.",
+      "fr": "La fille a neuf ans.",
+      "vocab": []
+    },
+    {
+      "en": "We are twenty-five years old.",
+      "fr": "Nous avons vingt-cinq ans.",
+      "vocab": []
+    },
+    {
+      "en": "They (fem.) are thirty-two years old.",
+      "fr": "Elles ont trente-deux ans.",
+      "vocab": []
+    },
+    {
+      "en": "You (formal) are sixty years old.",
+      "fr": "Vous avez soixante ans.",
+      "vocab": [
+        { "fr": "soixante", "en": "sixty" }
+      ]
+    },
+    {
+      "en": "I am twenty-two years old.",
+      "fr": "J'ai vingt-deux ans.",
+      "vocab": []
+    },
+    {
+      "en": "He is fourteen years old.",
+      "fr": "Il a quatorze ans.",
+      "vocab": [
+        { "fr": "quatorze", "en": "fourteen" }
+      ]
+    },
+    {
+      "en": "She is nineteen years old.",
+      "fr": "Elle a dix-neuf ans.",
+      "vocab": [
+        { "fr": "dix-neuf", "en": "nineteen" }
+      ]
+    },
+    {
+      "en": "They (masc.) are forty years old.",
+      "fr": "Ils ont quarante ans.",
+      "vocab": [
+        { "fr": "quarante", "en": "forty" }
+      ]
+    }
+  ]
+}

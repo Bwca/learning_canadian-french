@@ -66,6 +66,14 @@
       "vocab": [
         { "fr": "trente", "en": "thirty" }
       ]
+    },
+    {
+      "en": "The grandfather is seventy years old.",
+      "fr": "Le grand-père a soixante-dix ans.",
+      "vocab": [
+        { "fr": "grand-père", "en": "grandfather" },
+        { "fr": "soixante-dix", "en": "seventy" }
+      ]
     }
   ]
 }
