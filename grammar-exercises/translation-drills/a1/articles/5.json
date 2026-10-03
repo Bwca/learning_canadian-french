@@ -45,6 +45,11 @@
       "en": "The friend is nice.",
       "fr": "L'ami est gentil.",
       "vocab": []
+    },
+    {
+      "en": "We have a cat and a dog.",
+      "fr": "Nous avons un chat et un chien.",
+      "vocab": []
     }
   ]
 }

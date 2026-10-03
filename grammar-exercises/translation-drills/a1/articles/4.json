@@ -65,6 +65,14 @@
       "vocab": [
         { "fr": "bibliothèque", "en": "library" }
       ]
+    },
+    {
+      "en": "The children are at the bathroom.",
+      "fr": "Les enfants sont aux toilettes.",
+      "vocab": [
+        { "fr": "aux", "en": "at/to the (à + les)" },
+        { "fr": "toilettes", "en": "bathroom/toilet" }
+      ]
     }
   ]
 }

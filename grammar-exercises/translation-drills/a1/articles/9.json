@@ -1,0 +1,73 @@
+{
+  "title": "Articles — definite & indefinite (set 9: definite articles with rooms of the house)",
+  "exercises": [
+    {
+      "en": "The kitchen is big.",
+      "fr": "La cuisine est grande.",
+      "vocab": [
+        { "fr": "cuisine", "en": "kitchen" }
+      ]
+    },
+    {
+      "en": "The living room is clean.",
+      "fr": "Le salon est propre.",
+      "vocab": [
+        { "fr": "salon", "en": "living room" },
+        { "fr": "propre", "en": "clean" }
+      ]
+    },
+    {
+      "en": "The bedroom is small.",
+      "fr": "La chambre est petite.",
+      "vocab": [
+        { "fr": "chambre", "en": "bedroom" }
+      ]
+    },
+    {
+      "en": "The bathroom is new.",
+      "fr": "La salle de bain est nouvelle.",
+      "vocab": [
+        { "fr": "salle de bain", "en": "bathroom" }
+      ]
+    },
+    {
+      "en": "The garden is beautiful.",
+      "fr": "Le jardin est beau.",
+      "vocab": []
+    },
+    {
+      "en": "The bedrooms are upstairs.",
+      "fr": "Les chambres sont en haut.",
+      "vocab": [
+        { "fr": "en haut", "en": "upstairs" }
+      ]
+    },
+    {
+      "en": "The door is open.",
+      "fr": "La porte est ouverte.",
+      "vocab": []
+    },
+    {
+      "en": "The window is closed.",
+      "fr": "La fenêtre est fermée.",
+      "vocab": [
+        { "fr": "fermée", "en": "closed (fem.)" }
+      ]
+    },
+    {
+      "en": "The roof is red.",
+      "fr": "Le toit est rouge.",
+      "vocab": [
+        { "fr": "toit", "en": "roof" }
+      ]
+    },
+    {
+      "en": "The staircase is narrow.",
+      "fr": "L'escalier est étroit.",
+      "vocab": [
+        { "fr": "escalier", "en": "staircase" },
+        { "fr": "étroit", "en": "narrow" }
+      ]
+    }
+  ]
+}

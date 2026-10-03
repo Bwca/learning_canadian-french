@@ -65,6 +65,14 @@
       "vocab": [
         { "fr": "thé", "en": "tea" }
       ]
+    },
+    {
+      "en": "The flowers are beautiful.",
+      "fr": "Les fleurs sont belles.",
+      "vocab": [
+        { "fr": "fleur", "en": "flower" },
+        { "fr": "belle", "en": "beautiful (fem.)" }
+      ]
     }
   ]
 }

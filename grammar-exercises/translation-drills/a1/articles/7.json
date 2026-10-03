@@ -1,0 +1,65 @@
+{
+  "title": "Articles — definite & indefinite (set 7: des with plural everyday items)",
+  "exercises": [
+    {
+      "en": "I have pens.",
+      "fr": "J'ai des stylos.",
+      "vocab": [
+        { "fr": "stylo", "en": "pen" }
+      ]
+    },
+    {
+      "en": "She has keys.",
+      "fr": "Elle a des clés.",
+      "vocab": []
+    },
+    {
+      "en": "We have umbrellas.",
+      "fr": "Nous avons des parapluies.",
+      "vocab": [
+        { "fr": "parapluie", "en": "umbrella" }
+      ]
+    },
+    {
+      "en": "He has notebooks.",
+      "fr": "Il a des cahiers.",
+      "vocab": [
+        { "fr": "cahier", "en": "notebook" }
+      ]
+    },
+    {
+      "en": "They (masc.) have phones.",
+      "fr": "Ils ont des téléphones.",
+      "vocab": []
+    },
+    {
+      "en": "You (informal) have pencils.",
+      "fr": "Tu as des crayons.",
+      "vocab": [
+        { "fr": "crayon", "en": "pencil" }
+      ]
+    },
+    {
+      "en": "I have bags.",
+      "fr": "J'ai des sacs.",
+      "vocab": []
+    },
+    {
+      "en": "You (formal) have computers.",
+      "fr": "Vous avez des ordinateurs.",
+      "vocab": []
+    },
+    {
+      "en": "We have chairs.",
+      "fr": "Nous avons des chaises.",
+      "vocab": []
+    },
+    {
+      "en": "She has plants.",
+      "fr": "Elle a des plantes.",
+      "vocab": [
+        { "fr": "plante", "en": "plant" }
+      ]
+    }
+  ]
+}

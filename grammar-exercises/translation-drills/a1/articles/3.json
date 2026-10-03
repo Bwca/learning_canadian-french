@@ -53,6 +53,13 @@
       "en": "I have a friend (fem.).",
       "fr": "J'ai une amie.",
       "vocab": []
+    },
+    {
+      "en": "The friend is nice.",
+      "fr": "L'amie est gentille.",
+      "vocab": [
+        { "fr": "gentille", "en": "nice (fem.)" }
+      ]
     }
   ]
 }

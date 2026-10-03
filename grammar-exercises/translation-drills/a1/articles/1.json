@@ -51,6 +51,13 @@
       "en": "I have a friend (fem.).",
       "fr": "J'ai une amie.",
       "vocab": []
+    },
+    {
+      "en": "He has a sister.",
+      "fr": "Il a une sœur.",
+      "vocab": [
+        { "fr": "sœur", "en": "sister" }
+      ]
     }
   ]
 }

@@ -1,0 +1,69 @@
+{
+  "title": "Articles — definite & indefinite (set 6: indefinite articles with clothing)",
+  "exercises": [
+    {
+      "en": "I have a hat.",
+      "fr": "J'ai un chapeau.",
+      "vocab": [
+        { "fr": "chapeau", "en": "hat" }
+      ]
+    },
+    {
+      "en": "She has a dress.",
+      "fr": "Elle a une robe.",
+      "vocab": []
+    },
+    {
+      "en": "He has gloves.",
+      "fr": "Il a des gants.",
+      "vocab": [
+        { "fr": "gants", "en": "gloves" }
+      ]
+    },
+    {
+      "en": "We have a jacket.",
+      "fr": "Nous avons une veste.",
+      "vocab": [
+        { "fr": "veste", "en": "jacket" }
+      ]
+    },
+    {
+      "en": "You (informal) have shoes.",
+      "fr": "Tu as des chaussures.",
+      "vocab": []
+    },
+    {
+      "en": "They (fem.) have scarves.",
+      "fr": "Elles ont des foulards.",
+      "vocab": [
+        { "fr": "foulard", "en": "scarf" }
+      ]
+    },
+    {
+      "en": "I have a shirt.",
+      "fr": "J'ai une chemise.",
+      "vocab": [
+        { "fr": "chemise", "en": "shirt" }
+      ]
+    },
+    {
+      "en": "You (formal) have boots.",
+      "fr": "Vous avez des bottes.",
+      "vocab": [
+        { "fr": "botte", "en": "boot" }
+      ]
+    },
+    {
+      "en": "He has a belt.",
+      "fr": "Il a une ceinture.",
+      "vocab": [
+        { "fr": "ceinture", "en": "belt" }
+      ]
+    },
+    {
+      "en": "They (masc.) have hats.",
+      "fr": "Ils ont des chapeaux.",
+      "vocab": []
+    }
+  ]
+}

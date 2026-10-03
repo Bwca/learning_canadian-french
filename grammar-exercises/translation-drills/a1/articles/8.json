@@ -1,0 +1,75 @@
+{
+  "title": "Articles — definite & indefinite (set 8: definite articles with weather & nature)",
+  "exercises": [
+    {
+      "en": "The sun is bright.",
+      "fr": "Le soleil est brillant.",
+      "vocab": [
+        { "fr": "brillant", "en": "bright" }
+      ]
+    },
+    {
+      "en": "The moon is full tonight.",
+      "fr": "La lune est pleine ce soir.",
+      "vocab": [
+        { "fr": "pleine", "en": "full (fem.)" }
+      ]
+    },
+    {
+      "en": "The stars are beautiful.",
+      "fr": "Les étoiles sont belles.",
+      "vocab": [
+        { "fr": "étoile", "en": "star" }
+      ]
+    },
+    {
+      "en": "The rain is cold.",
+      "fr": "La pluie est froide.",
+      "vocab": []
+    },
+    {
+      "en": "The wind is strong.",
+      "fr": "Le vent est fort.",
+      "vocab": [
+        { "fr": "vent", "en": "wind" },
+        { "fr": "fort", "en": "strong" }
+      ]
+    },
+    {
+      "en": "The snow is white.",
+      "fr": "La neige est blanche.",
+      "vocab": [
+        { "fr": "neige", "en": "snow" }
+      ]
+    },
+    {
+      "en": "The sky is grey today.",
+      "fr": "Le ciel est gris aujourd'hui.",
+      "vocab": [
+        { "fr": "gris", "en": "grey" }
+      ]
+    },
+    {
+      "en": "The sea is calm.",
+      "fr": "La mer est calme.",
+      "vocab": [
+        { "fr": "mer", "en": "sea" }
+      ]
+    },
+    {
+      "en": "The mountain is high.",
+      "fr": "La montagne est haute.",
+      "vocab": [
+        { "fr": "montagne", "en": "mountain" },
+        { "fr": "haute", "en": "high (fem.)" }
+      ]
+    },
+    {
+      "en": "The forest is green.",
+      "fr": "La forêt est verte.",
+      "vocab": [
+        { "fr": "forêt", "en": "forest" }
+      ]
+    }
+  ]
+}
