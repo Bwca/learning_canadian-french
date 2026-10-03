@@ -61,6 +61,11 @@
       "en": "How is the teacher?",
       "fr": "Comment est le professeur?",
       "vocab": []
+    },
+    {
+      "en": "Where is the car?",
+      "fr": "Où est la voiture?",
+      "vocab": []
     }
   ]
 }

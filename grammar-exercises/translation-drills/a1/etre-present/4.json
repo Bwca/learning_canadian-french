@@ -64,6 +64,13 @@
         { "fr": "grands-parents", "en": "grandparents" },
         { "fr": "fier", "en": "proud" }
       ]
+    },
+    {
+      "en": "You (formal/plural) are worried.",
+      "fr": "Vous êtes inquiets.",
+      "vocab": [
+        { "fr": "inquiet", "en": "worried" }
+      ]
     }
   ]
 }

@@ -69,6 +69,13 @@
         { "fr": "pomme", "en": "apple" },
         { "fr": "vert", "en": "green" }
       ]
+    },
+    {
+      "en": "The tables are round.",
+      "fr": "Les tables sont rondes.",
+      "vocab": [
+        { "fr": "ronde", "en": "round (fem.)" }
+      ]
     }
   ]
 }

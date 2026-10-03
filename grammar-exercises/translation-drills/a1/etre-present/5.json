@@ -61,6 +61,13 @@
       "vocab": [
         { "fr": "italienne", "en": "Italian (fem.)" }
       ]
+    },
+    {
+      "en": "He is Mexican.",
+      "fr": "Il est mexicain.",
+      "vocab": [
+        { "fr": "mexicain", "en": "Mexican" }
+      ]
     }
   ]
 }

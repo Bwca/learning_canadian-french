@@ -1,0 +1,61 @@
+{
+  "title": "Être — present tense (set 8: colours and objects, mixed adjective review)",
+  "exercises": [
+    {
+      "en": "The pen is blue.",
+      "fr": "Le stylo est bleu.",
+      "vocab": []
+    },
+    {
+      "en": "The bag is brown.",
+      "fr": "Le sac est marron.",
+      "vocab": []
+    },
+    {
+      "en": "The shoes are white.",
+      "fr": "Les chaussures sont blanches.",
+      "vocab": []
+    },
+    {
+      "en": "The car is grey.",
+      "fr": "La voiture est grise.",
+      "vocab": [
+        { "fr": "grise", "en": "grey (fem.)" }
+      ]
+    },
+    {
+      "en": "The flowers are yellow.",
+      "fr": "Les fleurs sont jaunes.",
+      "vocab": []
+    },
+    {
+      "en": "The jacket is black.",
+      "fr": "La veste est noire.",
+      "vocab": []
+    },
+    {
+      "en": "The table is orange.",
+      "fr": "La table est orange.",
+      "vocab": []
+    },
+    {
+      "en": "The books are purple.",
+      "fr": "Les livres sont violets.",
+      "vocab": [
+        { "fr": "violet", "en": "purple" }
+      ]
+    },
+    {
+      "en": "The house is pink.",
+      "fr": "La maison est rose.",
+      "vocab": [
+        { "fr": "rose", "en": "pink" }
+      ]
+    },
+    {
+      "en": "The hat is green.",
+      "fr": "Le chapeau est vert.",
+      "vocab": []
+    }
+  ]
+}

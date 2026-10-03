@@ -1,0 +1,69 @@
+{
+  "title": "Être — present tense (set 9: telling time and the day)",
+  "exercises": [
+    {
+      "en": "It is three o'clock.",
+      "fr": "Il est trois heures.",
+      "vocab": [
+        { "fr": "heure", "en": "o'clock/hour" }
+      ]
+    },
+    {
+      "en": "It is noon.",
+      "fr": "Il est midi.",
+      "vocab": [
+        { "fr": "midi", "en": "noon" }
+      ]
+    },
+    {
+      "en": "It is midnight.",
+      "fr": "Il est minuit.",
+      "vocab": [
+        { "fr": "minuit", "en": "midnight" }
+      ]
+    },
+    {
+      "en": "It is five o'clock.",
+      "fr": "Il est cinq heures.",
+      "vocab": []
+    },
+    {
+      "en": "Today is Monday.",
+      "fr": "Aujourd'hui, c'est lundi.",
+      "vocab": [
+        { "fr": "lundi", "en": "Monday" }
+      ]
+    },
+    {
+      "en": "It is ten o'clock.",
+      "fr": "Il est dix heures.",
+      "vocab": []
+    },
+    {
+      "en": "Today is Friday.",
+      "fr": "Aujourd'hui, c'est vendredi.",
+      "vocab": [
+        { "fr": "vendredi", "en": "Friday" }
+      ]
+    },
+    {
+      "en": "It is one o'clock.",
+      "fr": "Il est une heure.",
+      "vocab": []
+    },
+    {
+      "en": "It is eight o'clock in the morning.",
+      "fr": "Il est huit heures du matin.",
+      "vocab": [
+        { "fr": "du matin", "en": "in the morning" }
+      ]
+    },
+    {
+      "en": "It is late.",
+      "fr": "Il est tard.",
+      "vocab": [
+        { "fr": "tard", "en": "late" }
+      ]
+    }
+  ]
+}

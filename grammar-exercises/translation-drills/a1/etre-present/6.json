@@ -69,6 +69,14 @@
       "vocab": [
         { "fr": "jardin", "en": "garden" }
       ]
+    },
+    {
+      "en": "The store is far from here.",
+      "fr": "Le magasin est loin d'ici.",
+      "vocab": [
+        { "fr": "magasin", "en": "store" },
+        { "fr": "loin d'ici", "en": "far from here" }
+      ]
     }
   ]
 }

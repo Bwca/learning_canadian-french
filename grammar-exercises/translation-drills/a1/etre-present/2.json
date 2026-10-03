@@ -68,6 +68,14 @@
         { "fr": "enfant", "en": "child" },
         { "fr": "content", "en": "happy" }
       ]
+    },
+    {
+      "en": "The actor is famous.",
+      "fr": "L'acteur est célèbre.",
+      "vocab": [
+        { "fr": "acteur", "en": "actor" },
+        { "fr": "célèbre", "en": "famous" }
+      ]
     }
   ]
 }
