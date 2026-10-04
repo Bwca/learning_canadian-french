@@ -4,52 +4,83 @@
     {
       "en": "I have a car and the car is red.",
       "fr": "J'ai une voiture et la voiture est rouge.",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" },
+        { "fr": "rouge", "en": "red" }
+      ]
     },
     {
       "en": "She has a hat and the hat is blue.",
       "fr": "Elle a un chapeau et le chapeau est bleu.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chapeau", "en": "hat" },
+        { "fr": "bleu", "en": "blue" }
+      ]
     },
     {
       "en": "We like the mountains.",
       "fr": "Nous aimons les montagnes.",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "montagne", "en": "mountain" }
+      ]
     },
     {
       "en": "He has an idea and the idea is good.",
       "fr": "Il a une idée et l'idée est bonne.",
-      "vocab": []
+      "vocab": [
+        { "fr": "idée", "en": "idea" },
+        { "fr": "bonne", "en": "good (fem.)" }
+      ]
     },
     {
       "en": "They (fem.) have flowers and the flowers are beautiful.",
       "fr": "Elles ont des fleurs et les fleurs sont belles.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fleur", "en": "flower" },
+        { "fr": "belle", "en": "beautiful (fem.)" }
+      ]
     },
     {
       "en": "I like the snow.",
       "fr": "J'aime la neige.",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "neige", "en": "snow" }
+      ]
     },
     {
       "en": "You (informal) have a dog and the dog is big.",
       "fr": "Tu as un chien et le chien est grand.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chien", "en": "dog" },
+        { "fr": "grand", "en": "big / tall" }
+      ]
     },
     {
       "en": "The children have books and the books are new.",
       "fr": "Les enfants ont des livres et les livres sont nouveaux.",
-      "vocab": []
+      "vocab": [
+        { "fr": "enfant", "en": "child" },
+        { "fr": "livre", "en": "book" },
+        { "fr": "nouveau", "en": "new (masc.)" }
+      ]
     },
     {
       "en": "We are in the kitchen and the kitchen is clean.",
       "fr": "Nous sommes dans la cuisine et la cuisine est propre.",
-      "vocab": []
+      "vocab": [
+        { "fr": "cuisine", "en": "kitchen" },
+        { "fr": "propre", "en": "clean" }
+      ]
     },
     {
       "en": "He likes the sea.",
       "fr": "Il aime la mer.",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "mer", "en": "sea" }
+      ]
     }
   ]
 }

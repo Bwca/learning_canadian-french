@@ -4,17 +4,23 @@
     {
       "en": "I have a cat.",
       "fr": "J'ai un chat.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chat", "en": "cat" }
+      ]
     },
     {
       "en": "I have a book.",
       "fr": "J'ai un livre.",
-      "vocab": []
+      "vocab": [
+        { "fr": "livre", "en": "book" }
+      ]
     },
     {
       "en": "She has a car.",
       "fr": "Elle a une voiture.",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "We have apples.",
@@ -26,12 +32,16 @@
     {
       "en": "He has a dog.",
       "fr": "Il a un chien.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chien", "en": "dog" }
+      ]
     },
     {
       "en": "They (masc.) have children.",
       "fr": "Ils ont des enfants.",
-      "vocab": []
+      "vocab": [
+        { "fr": "enfant", "en": "child" }
+      ]
     },
     {
       "en": "You (informal) have a bag.",
@@ -50,7 +60,9 @@
     {
       "en": "I have a friend (fem.).",
       "fr": "J'ai une amie.",
-      "vocab": []
+      "vocab": [
+        { "fr": "amie", "en": "friend (fem.)" }
+      ]
     },
     {
       "en": "He has a sister.",

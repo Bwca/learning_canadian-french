@@ -11,13 +11,15 @@
     {
       "en": "She has a dress.",
       "fr": "Elle a une robe.",
-      "vocab": []
+      "vocab": [
+        { "fr": "robe", "en": "dress" }
+      ]
     },
     {
       "en": "He has gloves.",
       "fr": "Il a des gants.",
       "vocab": [
-        { "fr": "gants", "en": "gloves" }
+        { "fr": "gant", "en": "glove" }
       ]
     },
     {
@@ -30,7 +32,9 @@
     {
       "en": "You (informal) have shoes.",
       "fr": "Tu as des chaussures.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chaussure", "en": "shoe" }
+      ]
     },
     {
       "en": "They (fem.) have scarves.",
@@ -63,7 +67,9 @@
     {
       "en": "They (masc.) have hats.",
       "fr": "Ils ont des chapeaux.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chapeau", "en": "hat" }
+      ]
     }
   ]
 }

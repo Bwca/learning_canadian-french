@@ -4,52 +4,80 @@
     {
       "en": "The cat is in the garden.",
       "fr": "Le chat est dans le jardin.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chat", "en": "cat" },
+        { "fr": "jardin", "en": "garden" }
+      ]
     },
     {
       "en": "The cat is black.",
       "fr": "Le chat est noir.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chat", "en": "cat" },
+        { "fr": "noir", "en": "black" }
+      ]
     },
     {
       "en": "I like chocolate.",
       "fr": "J'aime le chocolat.",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "chocolat", "en": "chocolate" }
+      ]
     },
     {
       "en": "I have a car.",
       "fr": "J'ai une voiture.",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "We are at the restaurant.",
       "fr": "Nous sommes au restaurant.",
-      "vocab": []
+      "vocab": [
+        { "fr": "au", "en": "to/at the (à + le)" },
+        { "fr": "restaurant", "en": "restaurant" }
+      ]
     },
     {
       "en": "I have eggs in the basket.",
       "fr": "J'ai des œufs dans le panier.",
-      "vocab": []
+      "vocab": [
+        { "fr": "œuf", "en": "egg" },
+        { "fr": "panier", "en": "basket" }
+      ]
     },
     {
       "en": "The children are at school.",
       "fr": "Les enfants sont à l'école.",
-      "vocab": []
+      "vocab": [
+        { "fr": "enfant", "en": "child" },
+        { "fr": "école", "en": "school" }
+      ]
     },
     {
       "en": "He has a friend (masc.).",
       "fr": "Il a un ami.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ami", "en": "friend (masc.)" }
+      ]
     },
     {
       "en": "The friend is nice.",
       "fr": "L'ami est gentil.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ami", "en": "friend (masc.)" },
+        { "fr": "gentil", "en": "nice (masc.)" }
+      ]
     },
     {
       "en": "We have a cat and a dog.",
       "fr": "Nous avons un chat et un chien.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chat", "en": "cat" },
+        { "fr": "chien", "en": "dog" }
+      ]
     }
   ]
 }

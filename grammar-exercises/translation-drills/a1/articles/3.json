@@ -4,24 +4,30 @@
     {
       "en": "I have a cat.",
       "fr": "J'ai un chat.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chat", "en": "cat" }
+      ]
     },
     {
       "en": "The cat is on the chair.",
       "fr": "Le chat est sur la chaise.",
       "vocab": [
+        { "fr": "chat", "en": "cat" },
         { "fr": "chaise", "en": "chair" }
       ]
     },
     {
       "en": "He has a book.",
       "fr": "Il a un livre.",
-      "vocab": []
+      "vocab": [
+        { "fr": "livre", "en": "book" }
+      ]
     },
     {
       "en": "The book is interesting.",
       "fr": "Le livre est intéressant.",
       "vocab": [
+        { "fr": "livre", "en": "book" },
         { "fr": "intéressant", "en": "interesting" }
       ]
     },
@@ -36,28 +42,37 @@
       "en": "The idea is good.",
       "fr": "L'idée est bonne.",
       "vocab": [
+        { "fr": "idée", "en": "idea" },
         { "fr": "bonne", "en": "good (fem.)" }
       ]
     },
     {
       "en": "We have a house.",
       "fr": "Nous avons une maison.",
-      "vocab": []
+      "vocab": [
+        { "fr": "maison", "en": "house" }
+      ]
     },
     {
       "en": "The house is big.",
       "fr": "La maison est grande.",
-      "vocab": []
+      "vocab": [
+        { "fr": "maison", "en": "house" },
+        { "fr": "grande", "en": "big (fem.)" }
+      ]
     },
     {
       "en": "I have a friend (fem.).",
       "fr": "J'ai une amie.",
-      "vocab": []
+      "vocab": [
+        { "fr": "amie", "en": "friend (fem.)" }
+      ]
     },
     {
       "en": "The friend is nice.",
       "fr": "L'amie est gentille.",
       "vocab": [
+        { "fr": "amie", "en": "friend (fem.)" },
         { "fr": "gentille", "en": "nice (fem.)" }
       ]
     }

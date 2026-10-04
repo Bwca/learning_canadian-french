@@ -12,7 +12,10 @@
     {
       "en": "He is at the park.",
       "fr": "Il est au parc.",
-      "vocab": []
+      "vocab": [
+        { "fr": "au", "en": "to/at the (à + le)" },
+        { "fr": "parc", "en": "park" }
+      ]
     },
     {
       "en": "They (masc.) are at the movies.",
@@ -35,7 +38,9 @@
       "fr": "Les noms des étudiants sont ici.",
       "vocab": [
         { "fr": "nom", "en": "name" },
-        { "fr": "des", "en": "of the (de + les)" }
+        { "fr": "des", "en": "of the (de + les)" },
+        { "fr": "étudiant", "en": "student" },
+        { "fr": "ici", "en": "here" }
       ]
     },
     {
@@ -49,7 +54,9 @@
       "en": "The keys of the car are on the table.",
       "fr": "Les clés de la voiture sont sur la table.",
       "vocab": [
-        { "fr": "clé", "en": "key" }
+        { "fr": "clé", "en": "key" },
+        { "fr": "voiture", "en": "car" },
+        { "fr": "table", "en": "table" }
       ]
     },
     {
@@ -71,6 +78,7 @@
       "fr": "Les enfants sont aux toilettes.",
       "vocab": [
         { "fr": "aux", "en": "at/to the (à + les)" },
+        { "fr": "enfant", "en": "child" },
         { "fr": "toilettes", "en": "bathroom/toilet" }
       ]
     }

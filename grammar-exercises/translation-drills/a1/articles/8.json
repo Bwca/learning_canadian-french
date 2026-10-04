@@ -5,6 +5,7 @@
       "en": "The sun is bright.",
       "fr": "Le soleil est brillant.",
       "vocab": [
+        { "fr": "soleil", "en": "sun" },
         { "fr": "brillant", "en": "bright" }
       ]
     },
@@ -12,20 +13,26 @@
       "en": "The moon is full tonight.",
       "fr": "La lune est pleine ce soir.",
       "vocab": [
-        { "fr": "pleine", "en": "full (fem.)" }
+        { "fr": "lune", "en": "moon" },
+        { "fr": "pleine", "en": "full (fem.)" },
+        { "fr": "ce soir", "en": "tonight" }
       ]
     },
     {
       "en": "The stars are beautiful.",
       "fr": "Les étoiles sont belles.",
       "vocab": [
-        { "fr": "étoile", "en": "star" }
+        { "fr": "étoile", "en": "star" },
+        { "fr": "belle", "en": "beautiful (fem.)" }
       ]
     },
     {
       "en": "The rain is cold.",
       "fr": "La pluie est froide.",
-      "vocab": []
+      "vocab": [
+        { "fr": "pluie", "en": "rain" },
+        { "fr": "froide", "en": "cold (fem.)" }
+      ]
     },
     {
       "en": "The wind is strong.",
@@ -39,21 +46,25 @@
       "en": "The snow is white.",
       "fr": "La neige est blanche.",
       "vocab": [
-        { "fr": "neige", "en": "snow" }
+        { "fr": "neige", "en": "snow" },
+        { "fr": "blanche", "en": "white (fem.)" }
       ]
     },
     {
       "en": "The sky is grey today.",
       "fr": "Le ciel est gris aujourd'hui.",
       "vocab": [
-        { "fr": "gris", "en": "grey" }
+        { "fr": "ciel", "en": "sky" },
+        { "fr": "gris", "en": "grey" },
+        { "fr": "aujourd'hui", "en": "today" }
       ]
     },
     {
       "en": "The sea is calm.",
       "fr": "La mer est calme.",
       "vocab": [
-        { "fr": "mer", "en": "sea" }
+        { "fr": "mer", "en": "sea" },
+        { "fr": "calme", "en": "calm" }
       ]
     },
     {
@@ -68,7 +79,8 @@
       "en": "The forest is green.",
       "fr": "La forêt est verte.",
       "vocab": [
-        { "fr": "forêt", "en": "forest" }
+        { "fr": "forêt", "en": "forest" },
+        { "fr": "verte", "en": "green (fem.)" }
       ]
     }
   ]

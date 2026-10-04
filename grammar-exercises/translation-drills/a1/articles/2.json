@@ -21,6 +21,7 @@
       "en": "The children are at school.",
       "fr": "Les enfants sont à l'école.",
       "vocab": [
+        { "fr": "enfant", "en": "child" },
         { "fr": "école", "en": "school" }
       ]
     },
@@ -44,18 +45,23 @@
       "en": "He likes coffee.",
       "fr": "Il aime le café.",
       "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
         { "fr": "café", "en": "coffee" }
       ]
     },
     {
       "en": "We like animals.",
       "fr": "Nous aimons les animaux.",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "animal", "en": "animal" }
+      ]
     },
     {
       "en": "She likes music.",
       "fr": "Elle aime la musique.",
       "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
         { "fr": "musique", "en": "music" }
       ]
     },
@@ -63,6 +69,7 @@
       "en": "They (masc.) like tea.",
       "fr": "Ils aiment le thé.",
       "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
         { "fr": "thé", "en": "tea" }
       ]
     },

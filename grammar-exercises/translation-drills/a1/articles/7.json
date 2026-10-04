@@ -11,7 +11,9 @@
     {
       "en": "She has keys.",
       "fr": "Elle a des clés.",
-      "vocab": []
+      "vocab": [
+        { "fr": "clé", "en": "key" }
+      ]
     },
     {
       "en": "We have umbrellas.",
@@ -30,7 +32,9 @@
     {
       "en": "They (masc.) have phones.",
       "fr": "Ils ont des téléphones.",
-      "vocab": []
+      "vocab": [
+        { "fr": "téléphone", "en": "phone" }
+      ]
     },
     {
       "en": "You (informal) have pencils.",
@@ -42,17 +46,23 @@
     {
       "en": "I have bags.",
       "fr": "J'ai des sacs.",
-      "vocab": []
+      "vocab": [
+        { "fr": "sac", "en": "bag" }
+      ]
     },
     {
       "en": "You (formal) have computers.",
       "fr": "Vous avez des ordinateurs.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ordinateur", "en": "computer" }
+      ]
     },
     {
       "en": "We have chairs.",
       "fr": "Nous avons des chaises.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chaise", "en": "chair" }
+      ]
     },
     {
       "en": "She has plants.",

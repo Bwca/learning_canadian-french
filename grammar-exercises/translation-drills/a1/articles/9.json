@@ -5,7 +5,8 @@
       "en": "The kitchen is big.",
       "fr": "La cuisine est grande.",
       "vocab": [
-        { "fr": "cuisine", "en": "kitchen" }
+        { "fr": "cuisine", "en": "kitchen" },
+        { "fr": "grande", "en": "big (fem.)" }
       ]
     },
     {
@@ -20,37 +21,47 @@
       "en": "The bedroom is small.",
       "fr": "La chambre est petite.",
       "vocab": [
-        { "fr": "chambre", "en": "bedroom" }
+        { "fr": "chambre", "en": "bedroom" },
+        { "fr": "petite", "en": "small (fem.)" }
       ]
     },
     {
       "en": "The bathroom is new.",
       "fr": "La salle de bain est nouvelle.",
       "vocab": [
-        { "fr": "salle de bain", "en": "bathroom" }
+        { "fr": "salle de bain", "en": "bathroom" },
+        { "fr": "nouvelle", "en": "new (fem.)" }
       ]
     },
     {
       "en": "The garden is beautiful.",
       "fr": "Le jardin est beau.",
-      "vocab": []
+      "vocab": [
+        { "fr": "jardin", "en": "garden" },
+        { "fr": "beau", "en": "beautiful (masc.)" }
+      ]
     },
     {
       "en": "The bedrooms are upstairs.",
       "fr": "Les chambres sont en haut.",
       "vocab": [
+        { "fr": "chambre", "en": "bedroom" },
         { "fr": "en haut", "en": "upstairs" }
       ]
     },
     {
       "en": "The door is open.",
       "fr": "La porte est ouverte.",
-      "vocab": []
+      "vocab": [
+        { "fr": "porte", "en": "door" },
+        { "fr": "ouverte", "en": "open (fem.)" }
+      ]
     },
     {
       "en": "The window is closed.",
       "fr": "La fenêtre est fermée.",
       "vocab": [
+        { "fr": "fenêtre", "en": "window" },
         { "fr": "fermée", "en": "closed (fem.)" }
       ]
     },
@@ -58,7 +69,8 @@
       "en": "The roof is red.",
       "fr": "Le toit est rouge.",
       "vocab": [
-        { "fr": "toit", "en": "roof" }
+        { "fr": "toit", "en": "roof" },
+        { "fr": "rouge", "en": "red" }
       ]
     },
     {
