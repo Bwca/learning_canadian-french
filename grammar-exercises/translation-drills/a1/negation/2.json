@@ -46,7 +46,9 @@
     {
       "en": "I am not hungry.",
       "fr": "Je n'ai pas faim.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir faim", "en": "to be hungry" }
+      ]
     },
     {
       "en": "You (formal) do not have a dog.",
@@ -58,12 +60,16 @@
     {
       "en": "He is not right.",
       "fr": "Il n'a pas raison.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir raison", "en": "to be right" }
+      ]
     },
     {
       "en": "She does not have a brother.",
       "fr": "Elle n'a pas de frère.",
-      "vocab": []
+      "vocab": [
+        { "fr": "frère", "en": "brother" }
+      ]
     }
   ]
 }

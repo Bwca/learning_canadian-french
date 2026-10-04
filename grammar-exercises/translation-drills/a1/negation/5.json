@@ -4,52 +4,72 @@
     {
       "en": "I do not have a computer.",
       "fr": "Je n'ai pas d'ordinateur.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ordinateur", "en": "computer" }
+      ]
     },
     {
       "en": "He does not have a bike.",
       "fr": "Il n'a pas de vélo.",
-      "vocab": []
+      "vocab": [
+        { "fr": "vélo", "en": "bike" }
+      ]
     },
     {
       "en": "We do not have a garden.",
       "fr": "Nous n'avons pas de jardin.",
-      "vocab": []
+      "vocab": [
+        { "fr": "jardin", "en": "garden" }
+      ]
     },
     {
       "en": "You (informal) do not have a pencil.",
       "fr": "Tu n'as pas de crayon.",
-      "vocab": []
+      "vocab": [
+        { "fr": "crayon", "en": "pencil" }
+      ]
     },
     {
       "en": "She does not have an umbrella.",
       "fr": "Elle n'a pas de parapluie.",
-      "vocab": []
+      "vocab": [
+        { "fr": "parapluie", "en": "umbrella" }
+      ]
     },
     {
       "en": "They (masc.) do not have a key.",
       "fr": "Ils n'ont pas de clé.",
-      "vocab": []
+      "vocab": [
+        { "fr": "clé", "en": "key" }
+      ]
     },
     {
       "en": "I do not have a cat.",
       "fr": "Je n'ai pas de chat.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chat", "en": "cat" }
+      ]
     },
     {
       "en": "You (formal) do not have a notebook.",
       "fr": "Vous n'avez pas de cahier.",
-      "vocab": []
+      "vocab": [
+        { "fr": "cahier", "en": "notebook" }
+      ]
     },
     {
       "en": "We do not have a car.",
       "fr": "Nous n'avons pas de voiture.",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "She does not have a phone.",
       "fr": "Elle n'a pas de téléphone.",
-      "vocab": []
+      "vocab": [
+        { "fr": "téléphone", "en": "phone" }
+      ]
     }
   ]
 }

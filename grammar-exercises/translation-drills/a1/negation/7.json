@@ -20,18 +20,24 @@
       "en": "She does not watch television.",
       "fr": "Elle ne regarde pas la télévision.",
       "vocab": [
-        { "fr": "regarder", "en": "to watch" }
+        { "fr": "regarder", "en": "to watch" },
+        { "fr": "télévision", "en": "television" }
       ]
     },
     {
       "en": "We do not live here.",
       "fr": "Nous n'habitons pas ici.",
-      "vocab": []
+      "vocab": [
+        { "fr": "habiter", "en": "to live" }
+      ]
     },
     {
       "en": "You (informal) do not speak French.",
       "fr": "Tu ne parles pas français.",
-      "vocab": []
+      "vocab": [
+        { "fr": "parler", "en": "to speak" },
+        { "fr": "français", "en": "French (language)" }
+      ]
     },
     {
       "en": "They (masc.) do not watch movies.",
@@ -50,12 +56,15 @@
     {
       "en": "You (formal) do not live in Quebec City.",
       "fr": "Vous n'habitez pas à Québec.",
-      "vocab": []
+      "vocab": [
+        { "fr": "habiter", "en": "to live" }
+      ]
     },
     {
       "en": "She does not watch the news.",
       "fr": "Elle ne regarde pas les nouvelles.",
       "vocab": [
+        { "fr": "regarder", "en": "to watch" },
         { "fr": "nouvelles", "en": "news" }
       ]
     },
@@ -63,6 +72,7 @@
       "en": "We do not speak German.",
       "fr": "Nous ne parlons pas allemand.",
       "vocab": [
+        { "fr": "parler", "en": "to speak" },
         { "fr": "allemand", "en": "German" }
       ]
     }

@@ -4,42 +4,58 @@
     {
       "en": "I am not hungry.",
       "fr": "Je n'ai pas faim.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir faim", "en": "to be hungry" }
+      ]
     },
     {
       "en": "He is not thirsty.",
       "fr": "Il n'a pas soif.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir soif", "en": "to be thirsty" }
+      ]
     },
     {
       "en": "We are not afraid.",
       "fr": "Nous n'avons pas peur.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir peur", "en": "to be afraid" }
+      ]
     },
     {
       "en": "You (informal) are not cold.",
       "fr": "Tu n'as pas froid.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir froid", "en": "to be cold" }
+      ]
     },
     {
       "en": "She is not hot.",
       "fr": "Elle n'a pas chaud.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir chaud", "en": "to be hot" }
+      ]
     },
     {
       "en": "They (masc.) are not sleepy.",
       "fr": "Ils n'ont pas sommeil.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir sommeil", "en": "to be sleepy" }
+      ]
     },
     {
       "en": "I am not right.",
       "fr": "Je n'ai pas raison.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir raison", "en": "to be right" }
+      ]
     },
     {
       "en": "You (formal) are not wrong.",
       "fr": "Vous n'avez pas tort.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir tort", "en": "to be wrong" }
+      ]
     },
     {
       "en": "She is not twenty years old.",
@@ -49,7 +65,9 @@
     {
       "en": "We do not have time.",
       "fr": "Nous n'avons pas le temps.",
-      "vocab": []
+      "vocab": [
+        { "fr": "temps", "en": "time" }
+      ]
     }
   ]
 }

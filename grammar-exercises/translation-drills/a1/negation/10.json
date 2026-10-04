@@ -4,37 +4,51 @@
     {
       "en": "I am not tired.",
       "fr": "Je ne suis pas fatigué.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fatigué", "en": "tired" }
+      ]
     },
     {
       "en": "He does not have a car.",
       "fr": "Il n'a pas de voiture.",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "We do not like the cold.",
       "fr": "Nous n'aimons pas le froid.",
-      "vocab": []
+      "vocab": [
+        { "fr": "froid", "en": "cold (noun)" }
+      ]
     },
     {
       "en": "She is not Canadian.",
       "fr": "Elle n'est pas canadienne.",
-      "vocab": []
+      "vocab": [
+        { "fr": "canadien", "en": "Canadian" }
+      ]
     },
     {
       "en": "They (masc.) do not live in Quebec.",
       "fr": "Ils n'habitent pas au Québec.",
-      "vocab": []
+      "vocab": [
+        { "fr": "habiter", "en": "to live" }
+      ]
     },
     {
       "en": "I do not have time.",
       "fr": "Je n'ai pas le temps.",
-      "vocab": []
+      "vocab": [
+        { "fr": "temps", "en": "time" }
+      ]
     },
     {
       "en": "You (informal) are not late.",
       "fr": "Tu n'es pas en retard.",
-      "vocab": []
+      "vocab": [
+        { "fr": "en retard", "en": "late" }
+      ]
     },
     {
       "en": "We do not speak Italian.",
@@ -46,12 +60,17 @@
     {
       "en": "She does not have a brother.",
       "fr": "Elle n'a pas de frère.",
-      "vocab": []
+      "vocab": [
+        { "fr": "frère", "en": "brother" }
+      ]
     },
     {
       "en": "The house is not small.",
       "fr": "La maison n'est pas petite.",
-      "vocab": []
+      "vocab": [
+        { "fr": "maison", "en": "house" },
+        { "fr": "petit", "en": "small" }
+      ]
     }
   ]
 }

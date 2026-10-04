@@ -4,49 +4,72 @@
     {
       "en": "The book is not interesting.",
       "fr": "Le livre n'est pas intéressant.",
-      "vocab": []
+      "vocab": [
+        { "fr": "livre", "en": "book" },
+        { "fr": "intéressant", "en": "interesting" }
+      ]
     },
     {
       "en": "The car is not new.",
       "fr": "La voiture n'est pas nouvelle.",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" },
+        { "fr": "nouveau", "en": "new" }
+      ]
     },
     {
       "en": "The children are not happy.",
       "fr": "Les enfants ne sont pas contents.",
-      "vocab": []
+      "vocab": [
+        { "fr": "enfant", "en": "child" },
+        { "fr": "content", "en": "happy" }
+      ]
     },
     {
       "en": "The friend (masc.) is not nice.",
       "fr": "L'ami n'est pas gentil.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ami", "en": "friend" },
+        { "fr": "gentil", "en": "nice / kind" }
+      ]
     },
     {
       "en": "The house is not big.",
       "fr": "La maison n'est pas grande.",
-      "vocab": []
+      "vocab": [
+        { "fr": "maison", "en": "house" },
+        { "fr": "grand", "en": "big" }
+      ]
     },
     {
       "en": "The shoes are not black.",
       "fr": "Les chaussures ne sont pas noires.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chaussure", "en": "shoe" },
+        { "fr": "noir", "en": "black" }
+      ]
     },
     {
       "en": "The soup is not hot.",
       "fr": "La soupe n'est pas chaude.",
       "vocab": [
-        { "fr": "soupe", "en": "soup" }
+        { "fr": "soupe", "en": "soup" },
+        { "fr": "chaud", "en": "hot" }
       ]
     },
     {
       "en": "The students are not ready.",
       "fr": "Les étudiants ne sont pas prêts.",
-      "vocab": []
+      "vocab": [
+        { "fr": "étudiant", "en": "student" },
+        { "fr": "prêt", "en": "ready" }
+      ]
     },
     {
       "en": "The movie is not long.",
       "fr": "Le film n'est pas long.",
       "vocab": [
+        { "fr": "film", "en": "movie" },
         { "fr": "long", "en": "long" }
       ]
     },
@@ -54,6 +77,7 @@
       "en": "The bread is not fresh.",
       "fr": "Le pain n'est pas frais.",
       "vocab": [
+        { "fr": "pain", "en": "bread" },
         { "fr": "frais", "en": "fresh" }
       ]
     }

@@ -4,12 +4,16 @@
     {
       "en": "I do not like coffee.",
       "fr": "Je n'aime pas le café.",
-      "vocab": []
+      "vocab": [
+        { "fr": "café", "en": "coffee" }
+      ]
     },
     {
       "en": "He does not like the rain.",
       "fr": "Il n'aime pas la pluie.",
-      "vocab": []
+      "vocab": [
+        { "fr": "pluie", "en": "rain" }
+      ]
     },
     {
       "en": "We do not like the cold.",
@@ -21,7 +25,9 @@
     {
       "en": "She does not like snakes.",
       "fr": "Elle n'aime pas les serpents.",
-      "vocab": []
+      "vocab": [
+        { "fr": "serpent", "en": "snake" }
+      ]
     },
     {
       "en": "You (informal) do not like vegetables.",
@@ -33,12 +39,16 @@
     {
       "en": "They (masc.) do not like the city.",
       "fr": "Ils n'aiment pas la ville.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ville", "en": "city" }
+      ]
     },
     {
       "en": "I do not like winter.",
       "fr": "Je n'aime pas l'hiver.",
-      "vocab": []
+      "vocab": [
+        { "fr": "hiver", "en": "winter" }
+      ]
     },
     {
       "en": "You (formal) do not like noise.",
@@ -57,7 +67,9 @@
     {
       "en": "We do not like Mondays.",
       "fr": "Nous n'aimons pas les lundis.",
-      "vocab": []
+      "vocab": [
+        { "fr": "lundi", "en": "Monday" }
+      ]
     }
   ]
 }

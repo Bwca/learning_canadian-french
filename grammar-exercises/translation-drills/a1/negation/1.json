@@ -67,7 +67,9 @@
     {
       "en": "We are not neighbours.",
       "fr": "Nous ne sommes pas voisins.",
-      "vocab": []
+      "vocab": [
+        { "fr": "voisin", "en": "neighbour" }
+      ]
     }
   ]
 }

@@ -25,29 +25,38 @@
     {
       "en": "We do not like coffee.",
       "fr": "Nous n'aimons pas le café.",
-      "vocab": []
+      "vocab": [
+        { "fr": "café", "en": "coffee" }
+      ]
     },
     {
       "en": "You (informal) are not Canadian.",
       "fr": "Tu n'es pas canadien.",
-      "vocab": []
+      "vocab": [
+        { "fr": "canadien", "en": "Canadian" }
+      ]
     },
     {
       "en": "I do not have many friends.",
       "fr": "Je n'ai pas beaucoup d'amis.",
       "vocab": [
-        { "fr": "beaucoup de", "en": "a lot of" }
+        { "fr": "beaucoup de", "en": "a lot of" },
+        { "fr": "ami", "en": "friend" }
       ]
     },
     {
       "en": "She is not thirsty.",
       "fr": "Elle n'a pas soif.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir soif", "en": "to be thirsty" }
+      ]
     },
     {
       "en": "They (fem.) do not have a car.",
       "fr": "Elles n'ont pas de voiture.",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "I am not thirty years old.",
@@ -59,7 +68,9 @@
     {
       "en": "He does not like tea.",
       "fr": "Il n'aime pas le thé.",
-      "vocab": []
+      "vocab": [
+        { "fr": "thé", "en": "tea" }
+      ]
     }
   ]
 }

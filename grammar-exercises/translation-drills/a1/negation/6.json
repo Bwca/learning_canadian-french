@@ -4,22 +4,30 @@
     {
       "en": "I am not busy.",
       "fr": "Je ne suis pas occupé.",
-      "vocab": []
+      "vocab": [
+        { "fr": "occupé", "en": "busy" }
+      ]
     },
     {
       "en": "He is not nervous.",
       "fr": "Il n'est pas nerveux.",
-      "vocab": []
+      "vocab": [
+        { "fr": "nerveux", "en": "nervous" }
+      ]
     },
     {
       "en": "We are not Canadian.",
       "fr": "Nous ne sommes pas canadiens.",
-      "vocab": []
+      "vocab": [
+        { "fr": "canadien", "en": "Canadian" }
+      ]
     },
     {
       "en": "You (informal) are not sick.",
       "fr": "Tu n'es pas malade.",
-      "vocab": []
+      "vocab": [
+        { "fr": "malade", "en": "sick" }
+      ]
     },
     {
       "en": "She is not a teacher.",
@@ -31,27 +39,38 @@
     {
       "en": "They (fem.) are not calm.",
       "fr": "Elles ne sont pas calmes.",
-      "vocab": []
+      "vocab": [
+        { "fr": "calme", "en": "calm" }
+      ]
     },
     {
       "en": "I am not excited.",
       "fr": "Je ne suis pas excité.",
-      "vocab": []
+      "vocab": [
+        { "fr": "excité", "en": "excited" }
+      ]
     },
     {
       "en": "You (formal/plural) are not tired.",
       "fr": "Vous n'êtes pas fatigués.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fatigué", "en": "tired" }
+      ]
     },
     {
       "en": "The children are not quiet.",
       "fr": "Les enfants ne sont pas calmes.",
-      "vocab": []
+      "vocab": [
+        { "fr": "enfant", "en": "child" },
+        { "fr": "calme", "en": "calm / quiet" }
+      ]
     },
     {
       "en": "He is not proud.",
       "fr": "Il n'est pas fier.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fier", "en": "proud" }
+      ]
     }
   ]
 }
