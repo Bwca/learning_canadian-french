@@ -1,0 +1,94 @@
+{
+  "title": "Partitifs — du/de la/de l' (set 10: mixed review)",
+  "exercises": [
+    {
+      "en": "I have some bread and some jam.",
+      "fr": "J'ai du pain et de la confiture.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "pain", "en": "bread" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "confiture", "en": "jam" }
+      ]
+    },
+    {
+      "en": "There is some snow and some wind.",
+      "fr": "Il y a de la neige et du vent.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "neige", "en": "snow" },
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "vent", "en": "wind" }
+      ]
+    },
+    {
+      "en": "You (informal) eat some soup.",
+      "fr": "Tu manges de la soupe.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "soupe", "en": "soup" }
+      ]
+    },
+    {
+      "en": "Is there any water?",
+      "fr": "Est-ce qu'il y a de l'eau?",
+      "vocab": [
+        { "fr": "de l'", "en": "some/any (before vowel/mute h)" },
+        { "fr": "eau", "en": "water" }
+      ]
+    },
+    {
+      "en": "She has some money.",
+      "fr": "Elle a de l'argent.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "argent", "en": "money" }
+      ]
+    },
+    {
+      "en": "We have some rice and some vegetables.",
+      "fr": "Nous avons du riz et des légumes.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "riz", "en": "rice" },
+        { "fr": "légume", "en": "vegetable" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) have some coffee and some tea.",
+      "fr": "Vous avez du café et du thé.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "café", "en": "coffee" },
+        { "fr": "thé", "en": "tea" }
+      ]
+    },
+    {
+      "en": "They (masc.) eat some fish.",
+      "fr": "Ils mangent du poisson.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "poisson", "en": "fish" }
+      ]
+    },
+    {
+      "en": "Do you (informal) have any oil?",
+      "fr": "Est-ce que tu as de l'huile?",
+      "vocab": [
+        { "fr": "de l'", "en": "some/any (before vowel/mute h)" },
+        { "fr": "huile", "en": "oil" }
+      ]
+    },
+    {
+      "en": "There is some sun today.",
+      "fr": "Il y a du soleil aujourd'hui.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "soleil", "en": "sun" },
+        { "fr": "aujourd'hui", "en": "today" }
+      ]
+    }
+  ]
+}

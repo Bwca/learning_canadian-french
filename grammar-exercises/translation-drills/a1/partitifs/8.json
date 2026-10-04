@@ -1,0 +1,87 @@
+{
+  "title": "Partitifs — du/de la/de l' (set 8: est-ce que questions)",
+  "exercises": [
+    {
+      "en": "Do you (informal) have any bread?",
+      "fr": "Est-ce que tu as du pain?",
+      "vocab": [
+        { "fr": "du", "en": "some/any (masc.)" },
+        { "fr": "pain", "en": "bread" }
+      ]
+    },
+    {
+      "en": "Is there any snow?",
+      "fr": "Est-ce qu'il y a de la neige?",
+      "vocab": [
+        { "fr": "de la", "en": "some/any (fem.)" },
+        { "fr": "neige", "en": "snow" }
+      ]
+    },
+    {
+      "en": "Do you (formal/plural) have any water?",
+      "fr": "Est-ce que vous avez de l'eau?",
+      "vocab": [
+        { "fr": "de l'", "en": "some/any (before vowel/mute h)" },
+        { "fr": "eau", "en": "water" }
+      ]
+    },
+    {
+      "en": "Does she have any cheese?",
+      "fr": "Est-ce qu'elle a du fromage?",
+      "vocab": [
+        { "fr": "du", "en": "some/any (masc.)" },
+        { "fr": "fromage", "en": "cheese" }
+      ]
+    },
+    {
+      "en": "Is there any wind?",
+      "fr": "Est-ce qu'il y a du vent?",
+      "vocab": [
+        { "fr": "du", "en": "some/any (masc.)" },
+        { "fr": "vent", "en": "wind" }
+      ]
+    },
+    {
+      "en": "Are you (informal) eating any soup?",
+      "fr": "Est-ce que tu manges de la soupe?",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "de la", "en": "some/any (fem.)" },
+        { "fr": "soupe", "en": "soup" }
+      ]
+    },
+    {
+      "en": "Do they (masc.) have any jam?",
+      "fr": "Est-ce qu'ils ont de la confiture?",
+      "vocab": [
+        { "fr": "de la", "en": "some/any (fem.)" },
+        { "fr": "confiture", "en": "jam" }
+      ]
+    },
+    {
+      "en": "Is there any oil in the kitchen?",
+      "fr": "Est-ce qu'il y a de l'huile dans la cuisine?",
+      "vocab": [
+        { "fr": "de l'", "en": "some/any (before vowel/mute h)" },
+        { "fr": "huile", "en": "oil" },
+        { "fr": "cuisine", "en": "kitchen" }
+      ]
+    },
+    {
+      "en": "Do we have any sugar?",
+      "fr": "Est-ce que nous avons du sucre?",
+      "vocab": [
+        { "fr": "du", "en": "some/any (masc.)" },
+        { "fr": "sucre", "en": "sugar" }
+      ]
+    },
+    {
+      "en": "Do you (informal) have any money?",
+      "fr": "Est-ce que tu as de l'argent?",
+      "vocab": [
+        { "fr": "de l'", "en": "some/any (before vowel/mute h)" },
+        { "fr": "argent", "en": "money" }
+      ]
+    }
+  ]
+}

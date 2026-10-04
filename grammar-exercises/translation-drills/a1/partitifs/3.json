@@ -1,0 +1,95 @@
+{
+  "title": "Partitifs — du/de la/de l' (set 3: with manger)",
+  "exercises": [
+    {
+      "en": "I eat some bread.",
+      "fr": "Je mange du pain.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "pain", "en": "bread" }
+      ]
+    },
+    {
+      "en": "You (informal) eat some soup.",
+      "fr": "Tu manges de la soupe.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "soupe", "en": "soup" }
+      ]
+    },
+    {
+      "en": "He eats some cheese.",
+      "fr": "Il mange du fromage.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "fromage", "en": "cheese" }
+      ]
+    },
+    {
+      "en": "She eats some meat.",
+      "fr": "Elle mange de la viande.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "viande", "en": "meat" }
+      ]
+    },
+    {
+      "en": "We eat some rice.",
+      "fr": "Nous mangeons du riz.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "riz", "en": "rice" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) eat some salad.",
+      "fr": "Vous mangez de la salade.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "salade", "en": "salad" }
+      ]
+    },
+    {
+      "en": "They (masc.) eat some fish.",
+      "fr": "Ils mangent du poisson.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "poisson", "en": "fish" }
+      ]
+    },
+    {
+      "en": "They (fem.) eat some jam.",
+      "fr": "Elles mangent de la confiture.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "confiture", "en": "jam" }
+      ]
+    },
+    {
+      "en": "I eat some pineapple.",
+      "fr": "Je mange de l'ananas.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "ananas", "en": "pineapple" }
+      ]
+    },
+    {
+      "en": "You (informal) eat some chocolate.",
+      "fr": "Tu manges du chocolat.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "chocolat", "en": "chocolate" }
+      ]
+    }
+  ]
+}

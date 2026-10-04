@@ -1,0 +1,86 @@
+{
+  "title": "Partitifs — du/de la/de l' (set 9: expanded food & drink vocabulary)",
+  "exercises": [
+    {
+      "en": "I have some ham.",
+      "fr": "J'ai du jambon.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "jambon", "en": "ham" }
+      ]
+    },
+    {
+      "en": "You (informal) have some salad.",
+      "fr": "Tu as de la salade.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "salade", "en": "salad" }
+      ]
+    },
+    {
+      "en": "He has some fish.",
+      "fr": "Il a du poisson.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "poisson", "en": "fish" }
+      ]
+    },
+    {
+      "en": "She has some rice.",
+      "fr": "Elle a du riz.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "riz", "en": "rice" }
+      ]
+    },
+    {
+      "en": "We have some jam.",
+      "fr": "Nous avons de la confiture.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "confiture", "en": "jam" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) have some butter.",
+      "fr": "Vous avez du beurre.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "beurre", "en": "butter" }
+      ]
+    },
+    {
+      "en": "They (masc.) have some mustard.",
+      "fr": "Ils ont de la moutarde.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "moutarde", "en": "mustard" }
+      ]
+    },
+    {
+      "en": "They (fem.) have some ketchup.",
+      "fr": "Elles ont du ketchup.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "ketchup", "en": "ketchup" }
+      ]
+    },
+    {
+      "en": "I have some coffee and some tea.",
+      "fr": "J'ai du café et du thé.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "café", "en": "coffee" },
+        { "fr": "thé", "en": "tea" }
+      ]
+    },
+    {
+      "en": "You (informal) have some chocolate.",
+      "fr": "Tu as du chocolat.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "chocolat", "en": "chocolate" }
+      ]
+    }
+  ]
+}

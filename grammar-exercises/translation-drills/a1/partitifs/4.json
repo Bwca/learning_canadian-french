@@ -1,0 +1,105 @@
+{
+  "title": "Partitifs — du/de la/de l' (set 4: masculine vs. feminine mass nouns)",
+  "exercises": [
+    {
+      "en": "I have some cheese and some jam.",
+      "fr": "J'ai du fromage et de la confiture.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "fromage", "en": "cheese" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "confiture", "en": "jam" }
+      ]
+    },
+    {
+      "en": "There is some butter and some mustard.",
+      "fr": "Il y a du beurre et de la moutarde.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "beurre", "en": "butter" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "moutarde", "en": "mustard" }
+      ]
+    },
+    {
+      "en": "You (informal) have some rice and some salad.",
+      "fr": "Tu as du riz et de la salade.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "riz", "en": "rice" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "salade", "en": "salad" }
+      ]
+    },
+    {
+      "en": "She has some fish and some meat.",
+      "fr": "Elle a du poisson et de la viande.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "poisson", "en": "fish" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "viande", "en": "meat" }
+      ]
+    },
+    {
+      "en": "There is some sugar and some flour.",
+      "fr": "Il y a du sucre et de la farine.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "sucre", "en": "sugar" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "farine", "en": "flour" }
+      ]
+    },
+    {
+      "en": "We have some coffee and some cream.",
+      "fr": "Nous avons du café et de la crème.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "café", "en": "coffee" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "crème", "en": "cream" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) have some tea and some ice cream.",
+      "fr": "Vous avez du thé et de la glace.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "thé", "en": "tea" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "glace", "en": "ice cream" }
+      ]
+    },
+    {
+      "en": "They (masc.) have some bread and some jam.",
+      "fr": "Ils ont du pain et de la confiture.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "pain", "en": "bread" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "confiture", "en": "jam" }
+      ]
+    },
+    {
+      "en": "They (fem.) have some milk and some flour.",
+      "fr": "Elles ont du lait et de la farine.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "lait", "en": "milk" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "farine", "en": "flour" }
+      ]
+    },
+    {
+      "en": "I have some chocolate and some ice cream.",
+      "fr": "J'ai du chocolat et de la glace.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "chocolat", "en": "chocolate" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "glace", "en": "ice cream" }
+      ]
+    }
+  ]
+}

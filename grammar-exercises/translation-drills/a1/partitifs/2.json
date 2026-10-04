@@ -1,0 +1,95 @@
+{
+  "title": "Partitifs — du/de la/de l' (set 2: with il y a — food & drinks around the kitchen)",
+  "exercises": [
+    {
+      "en": "There is some bread on the table.",
+      "fr": "Il y a du pain sur la table.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "pain", "en": "bread" },
+        { "fr": "table", "en": "table" }
+      ]
+    },
+    {
+      "en": "There is some jam in the fridge.",
+      "fr": "Il y a de la confiture dans le réfrigérateur.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "confiture", "en": "jam" },
+        { "fr": "réfrigérateur", "en": "fridge" }
+      ]
+    },
+    {
+      "en": "There is some water in the bottle.",
+      "fr": "Il y a de l'eau dans la bouteille.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "eau", "en": "water" },
+        { "fr": "bouteille", "en": "bottle" }
+      ]
+    },
+    {
+      "en": "There is some milk in the glass.",
+      "fr": "Il y a du lait dans le verre.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "lait", "en": "milk" },
+        { "fr": "verre", "en": "glass" }
+      ]
+    },
+    {
+      "en": "There is some soup in the pot.",
+      "fr": "Il y a de la soupe dans la casserole.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "soupe", "en": "soup" },
+        { "fr": "casserole", "en": "pot" }
+      ]
+    },
+    {
+      "en": "There is some cheese in the fridge.",
+      "fr": "Il y a du fromage dans le frigo.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "fromage", "en": "cheese" },
+        { "fr": "frigo", "en": "fridge (informal)" }
+      ]
+    },
+    {
+      "en": "There is some oil on the table.",
+      "fr": "Il y a de l'huile sur la table.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "huile", "en": "oil" },
+        { "fr": "table", "en": "table" }
+      ]
+    },
+    {
+      "en": "There is some sugar in the bowl.",
+      "fr": "Il y a du sucre dans le bol.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "sucre", "en": "sugar" },
+        { "fr": "bol", "en": "bowl" }
+      ]
+    },
+    {
+      "en": "There is some meat on the plate.",
+      "fr": "Il y a de la viande dans l'assiette.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "viande", "en": "meat" },
+        { "fr": "assiette", "en": "plate" }
+      ]
+    },
+    {
+      "en": "There is some juice in the pitcher.",
+      "fr": "Il y a du jus dans le pichet.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "jus", "en": "juice" },
+        { "fr": "pichet", "en": "pitcher" }
+      ]
+    }
+  ]
+}

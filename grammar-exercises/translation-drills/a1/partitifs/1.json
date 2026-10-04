@@ -1,0 +1,85 @@
+{
+  "title": "Partitifs — du/de la/de l' (set 1: with avoir — basic foods & drinks)",
+  "exercises": [
+    {
+      "en": "I have some bread.",
+      "fr": "J'ai du pain.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "pain", "en": "bread" }
+      ]
+    },
+    {
+      "en": "You (informal) have some jam.",
+      "fr": "Tu as de la confiture.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "confiture", "en": "jam" }
+      ]
+    },
+    {
+      "en": "He has some water.",
+      "fr": "Il a de l'eau.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "eau", "en": "water" }
+      ]
+    },
+    {
+      "en": "She has some milk.",
+      "fr": "Elle a du lait.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "lait", "en": "milk" }
+      ]
+    },
+    {
+      "en": "We have some soup.",
+      "fr": "Nous avons de la soupe.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "soupe", "en": "soup" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) have some cheese.",
+      "fr": "Vous avez du fromage.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "fromage", "en": "cheese" }
+      ]
+    },
+    {
+      "en": "They (masc.) have some oil.",
+      "fr": "Ils ont de l'huile.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "huile", "en": "oil" }
+      ]
+    },
+    {
+      "en": "They (fem.) have some sugar.",
+      "fr": "Elles ont du sucre.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "sucre", "en": "sugar" }
+      ]
+    },
+    {
+      "en": "I have some meat.",
+      "fr": "J'ai de la viande.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "viande", "en": "meat" }
+      ]
+    },
+    {
+      "en": "You (informal) have some oats.",
+      "fr": "Tu as de l'avoine.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "avoine", "en": "oats" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Partitifs — du/de la/de l' (set 5: de l' before a vowel or mute h)",
+  "exercises": [
+    {
+      "en": "I have some water.",
+      "fr": "J'ai de l'eau.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "eau", "en": "water" }
+      ]
+    },
+    {
+      "en": "He has some money.",
+      "fr": "Il a de l'argent.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "argent", "en": "money" }
+      ]
+    },
+    {
+      "en": "She has some oil.",
+      "fr": "Elle a de l'huile.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "huile", "en": "oil" }
+      ]
+    },
+    {
+      "en": "We have some garlic.",
+      "fr": "Nous avons de l'ail.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "ail", "en": "garlic" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) have some grass.",
+      "fr": "Vous avez de l'herbe.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "herbe", "en": "grass" }
+      ]
+    },
+    {
+      "en": "They (masc.) have some energy.",
+      "fr": "Ils ont de l'énergie.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "énergie", "en": "energy" }
+      ]
+    },
+    {
+      "en": "There is some water in the bottle.",
+      "fr": "Il y a de l'eau dans la bouteille.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "eau", "en": "water" },
+        { "fr": "bouteille", "en": "bottle" }
+      ]
+    },
+    {
+      "en": "There is some air in the balloon.",
+      "fr": "Il y a de l'air dans le ballon.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "air", "en": "air" },
+        { "fr": "ballon", "en": "balloon" }
+      ]
+    },
+    {
+      "en": "She eats some pineapple.",
+      "fr": "Elle mange de l'ananas.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "ananas", "en": "pineapple" }
+      ]
+    },
+    {
+      "en": "You (informal) have some oats.",
+      "fr": "Tu as de l'avoine.",
+      "vocab": [
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "avoine", "en": "oats" }
+      ]
+    }
+  ]
+}

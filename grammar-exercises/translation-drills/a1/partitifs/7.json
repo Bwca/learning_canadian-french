@@ -1,0 +1,83 @@
+{
+  "title": "Partitifs — du/de la/de l' (set 7: mixed review — du/de la/de l' vs. des)",
+  "exercises": [
+    {
+      "en": "I have some apples.",
+      "fr": "J'ai des pommes.",
+      "vocab": [
+        { "fr": "pomme", "en": "apple" }
+      ]
+    },
+    {
+      "en": "I have some juice.",
+      "fr": "J'ai du jus.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "jus", "en": "juice" }
+      ]
+    },
+    {
+      "en": "You (informal) have some bananas.",
+      "fr": "Tu as des bananes.",
+      "vocab": [
+        { "fr": "banane", "en": "banana" }
+      ]
+    },
+    {
+      "en": "You (informal) have some jam.",
+      "fr": "Tu as de la confiture.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "confiture", "en": "jam" }
+      ]
+    },
+    {
+      "en": "He has some eggs.",
+      "fr": "Il a des œufs.",
+      "vocab": [
+        { "fr": "œuf", "en": "egg" }
+      ]
+    },
+    {
+      "en": "He has some milk.",
+      "fr": "Il a du lait.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "lait", "en": "milk" }
+      ]
+    },
+    {
+      "en": "We have some vegetables.",
+      "fr": "Nous avons des légumes.",
+      "vocab": [
+        { "fr": "légume", "en": "vegetable" }
+      ]
+    },
+    {
+      "en": "We have some meat.",
+      "fr": "Nous avons de la viande.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "viande", "en": "meat" }
+      ]
+    },
+    {
+      "en": "They (fem.) have some fruit and some water.",
+      "fr": "Elles ont des fruits et de l'eau.",
+      "vocab": [
+        { "fr": "fruit", "en": "fruit" },
+        { "fr": "de l'", "en": "some (before vowel/mute h)" },
+        { "fr": "eau", "en": "water" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) have some cakes and some coffee.",
+      "fr": "Vous avez des gâteaux et du café.",
+      "vocab": [
+        { "fr": "gâteau", "en": "cake" },
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "café", "en": "coffee" }
+      ]
+    }
+  ]
+}

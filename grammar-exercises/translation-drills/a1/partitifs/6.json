@@ -1,0 +1,89 @@
+{
+  "title": "Partitifs — du/de la/de l' (set 6: weather & nature idioms with il y a)",
+  "exercises": [
+    {
+      "en": "There is some wind.",
+      "fr": "Il y a du vent.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "vent", "en": "wind" }
+      ]
+    },
+    {
+      "en": "There is some sun.",
+      "fr": "Il y a du soleil.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "soleil", "en": "sun" }
+      ]
+    },
+    {
+      "en": "There is some rain.",
+      "fr": "Il y a de la pluie.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "pluie", "en": "rain" }
+      ]
+    },
+    {
+      "en": "There is some snow.",
+      "fr": "Il y a de la neige.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "neige", "en": "snow" }
+      ]
+    },
+    {
+      "en": "There is some fog.",
+      "fr": "Il y a du brouillard.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "brouillard", "en": "fog" }
+      ]
+    },
+    {
+      "en": "There is some wind and some rain.",
+      "fr": "Il y a du vent et de la pluie.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "vent", "en": "wind" },
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "pluie", "en": "rain" }
+      ]
+    },
+    {
+      "en": "There is some ice on the road.",
+      "fr": "Il y a de la glace sur la route.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "glace", "en": "ice" },
+        { "fr": "route", "en": "road" }
+      ]
+    },
+    {
+      "en": "There is some thunder.",
+      "fr": "Il y a du tonnerre.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "tonnerre", "en": "thunder" }
+      ]
+    },
+    {
+      "en": "There is some hail.",
+      "fr": "Il y a de la grêle.",
+      "vocab": [
+        { "fr": "de la", "en": "some (fem.)" },
+        { "fr": "grêle", "en": "hail" }
+      ]
+    },
+    {
+      "en": "There is some sun and some wind.",
+      "fr": "Il y a du soleil et du vent.",
+      "vocab": [
+        { "fr": "du", "en": "some (masc.)" },
+        { "fr": "soleil", "en": "sun" },
+        { "fr": "vent", "en": "wind" }
+      ]
+    }
+  ]
+}
