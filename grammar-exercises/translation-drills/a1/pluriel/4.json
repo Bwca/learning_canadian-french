@@ -11,7 +11,9 @@
     {
       "en": "I have two sons.",
       "fr": "J'ai deux fils.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fils", "en": "son (same spelling in plural)" }
+      ]
     },
     {
       "en": "He has blue eyes.",
@@ -25,6 +27,7 @@
       "en": "She has brown eyes.",
       "fr": "Elle a les yeux marron.",
       "vocab": [
+        { "fr": "œil / yeux", "en": "eye / eyes (irregular plural)" },
         { "fr": "marron", "en": "brown (never changes form)" }
       ]
     },
@@ -38,7 +41,9 @@
     {
       "en": "I have two buses.",
       "fr": "J'ai deux bus.",
-      "vocab": []
+      "vocab": [
+        { "fr": "bus", "en": "bus (same spelling in plural)" }
+      ]
     },
     {
       "en": "We have a meal.",
@@ -50,7 +55,9 @@
     {
       "en": "We have three meals.",
       "fr": "Nous avons trois repas.",
-      "vocab": []
+      "vocab": [
+        { "fr": "repas", "en": "meal (same spelling in plural)" }
+      ]
     },
     {
       "en": "The price is high.",
@@ -63,7 +70,10 @@
     {
       "en": "The prices are high.",
       "fr": "Les prix sont élevés.",
-      "vocab": []
+      "vocab": [
+        { "fr": "prix", "en": "price (same spelling in plural)" },
+        { "fr": "élevé", "en": "high" }
+      ]
     }
   ]
 }

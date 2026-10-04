@@ -4,22 +4,30 @@
     {
       "en": "I have two pens.",
       "fr": "J'ai deux stylos.",
-      "vocab": []
+      "vocab": [
+        { "fr": "stylo", "en": "pen" }
+      ]
     },
     {
       "en": "She has three notebooks.",
       "fr": "Elle a trois cahiers.",
-      "vocab": []
+      "vocab": [
+        { "fr": "cahier", "en": "notebook" }
+      ]
     },
     {
       "en": "We have four chairs.",
       "fr": "Nous avons quatre chaises.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chaise", "en": "chair" }
+      ]
     },
     {
       "en": "He has five keys.",
       "fr": "Il a cinq clés.",
-      "vocab": []
+      "vocab": [
+        { "fr": "clé", "en": "key" }
+      ]
     },
     {
       "en": "You (informal) have six books.",
@@ -32,7 +40,8 @@
       "en": "They (masc.) have seven phones.",
       "fr": "Ils ont sept téléphones.",
       "vocab": [
-        { "fr": "sept", "en": "seven" }
+        { "fr": "sept", "en": "seven" },
+        { "fr": "téléphone", "en": "phone" }
       ]
     },
     {
@@ -53,12 +62,16 @@
     {
       "en": "She has ten flowers.",
       "fr": "Elle a dix fleurs.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fleur", "en": "flower" }
+      ]
     },
     {
       "en": "They (fem.) have two bags.",
       "fr": "Elles ont deux sacs.",
-      "vocab": []
+      "vocab": [
+        { "fr": "sac", "en": "bag" }
+      ]
     }
   ]
 }

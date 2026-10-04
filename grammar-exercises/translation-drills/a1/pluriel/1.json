@@ -11,7 +11,9 @@
     {
       "en": "I have two books.",
       "fr": "J'ai deux livres.",
-      "vocab": []
+      "vocab": [
+        { "fr": "livre", "en": "book" }
+      ]
     },
     {
       "en": "The table is small.",
@@ -23,7 +25,10 @@
     {
       "en": "The tables are small.",
       "fr": "Les tables sont petites.",
-      "vocab": []
+      "vocab": [
+        { "fr": "table", "en": "table" },
+        { "fr": "petit", "en": "small" }
+      ]
     },
     {
       "en": "She has a flower.",
@@ -49,7 +54,10 @@
     {
       "en": "The cars are red.",
       "fr": "Les voitures sont rouges.",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" },
+        { "fr": "rouge", "en": "red" }
+      ]
     },
     {
       "en": "I have a friend (masc.).",
@@ -61,7 +69,9 @@
     {
       "en": "I have two friends (masc.).",
       "fr": "J'ai deux amis.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ami", "en": "friend (masc.)" }
+      ]
     }
   ]
 }

@@ -4,52 +4,82 @@
     {
       "en": "The pens are blue.",
       "fr": "Les stylos sont bleus.",
-      "vocab": []
+      "vocab": [
+        { "fr": "stylo", "en": "pen" },
+        { "fr": "bleu", "en": "blue" }
+      ]
     },
     {
       "en": "The dresses are red.",
       "fr": "Les robes sont rouges.",
-      "vocab": []
+      "vocab": [
+        { "fr": "robe", "en": "dress" },
+        { "fr": "rouge", "en": "red" }
+      ]
     },
     {
       "en": "The hats are black.",
       "fr": "Les chapeaux sont noirs.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chapeau", "en": "hat" },
+        { "fr": "noir", "en": "black" }
+      ]
     },
     {
       "en": "The flowers are yellow.",
       "fr": "Les fleurs sont jaunes.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fleur", "en": "flower" },
+        { "fr": "jaune", "en": "yellow" }
+      ]
     },
     {
       "en": "The cars are white.",
       "fr": "Les voitures sont blanches.",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" },
+        { "fr": "blanche", "en": "white (fem.)" }
+      ]
     },
     {
       "en": "The shoes are brown.",
       "fr": "Les chaussures sont marron.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chaussure", "en": "shoe" },
+        { "fr": "marron", "en": "brown (never changes form)" }
+      ]
     },
     {
       "en": "The books are green.",
       "fr": "Les livres sont verts.",
-      "vocab": []
+      "vocab": [
+        { "fr": "livre", "en": "book" },
+        { "fr": "vert", "en": "green" }
+      ]
     },
     {
       "en": "The bags are orange.",
       "fr": "Les sacs sont orange.",
-      "vocab": []
+      "vocab": [
+        { "fr": "sac", "en": "bag" },
+        { "fr": "orange", "en": "orange (never changes form)" }
+      ]
     },
     {
       "en": "The jackets are grey.",
       "fr": "Les vestes sont grises.",
-      "vocab": []
+      "vocab": [
+        { "fr": "veste", "en": "jacket" },
+        { "fr": "grise", "en": "grey (fem.)" }
+      ]
     },
     {
       "en": "The scarves are purple.",
       "fr": "Les foulards sont violets.",
-      "vocab": []
+      "vocab": [
+        { "fr": "foulard", "en": "scarf" },
+        { "fr": "violet", "en": "purple" }
+      ]
     }
   ]
 }

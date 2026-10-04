@@ -5,13 +5,17 @@
       "en": "I have a black cat.",
       "fr": "J'ai un chat noir.",
       "vocab": [
+        { "fr": "chat", "en": "cat" },
         { "fr": "noir", "en": "black" }
       ]
     },
     {
       "en": "I have two black cats.",
       "fr": "J'ai deux chats noirs.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chat", "en": "cat" },
+        { "fr": "noir", "en": "black" }
+      ]
     },
     {
       "en": "She has a white dress.",
@@ -24,7 +28,10 @@
     {
       "en": "She has three white dresses.",
       "fr": "Elle a trois robes blanches.",
-      "vocab": []
+      "vocab": [
+        { "fr": "robe", "en": "dress" },
+        { "fr": "blanche", "en": "white (fem.)" }
+      ]
     },
     {
       "en": "The boy is tall.",
@@ -36,19 +43,25 @@
     {
       "en": "The boys are tall.",
       "fr": "Les garçons sont grands.",
-      "vocab": []
+      "vocab": [
+        { "fr": "garçon", "en": "boy" }
+      ]
     },
     {
       "en": "The sister is nice.",
       "fr": "La sœur est gentille.",
       "vocab": [
+        { "fr": "sœur", "en": "sister" },
         { "fr": "gentille", "en": "nice (fem.)" }
       ]
     },
     {
       "en": "The sisters are nice.",
       "fr": "Les sœurs sont gentilles.",
-      "vocab": []
+      "vocab": [
+        { "fr": "sœur", "en": "sister" },
+        { "fr": "gentille", "en": "nice (fem.)" }
+      ]
     },
     {
       "en": "The apple is green.",
@@ -61,7 +74,10 @@
     {
       "en": "The apples are green.",
       "fr": "Les pommes sont vertes.",
-      "vocab": []
+      "vocab": [
+        { "fr": "pomme", "en": "apple" },
+        { "fr": "verte", "en": "green (fem.)" }
+      ]
     }
   ]
 }

@@ -69,7 +69,10 @@
     {
       "en": "The castles are beautiful.",
       "fr": "Les châteaux sont beaux.",
-      "vocab": []
+      "vocab": [
+        { "fr": "châteaux", "en": "castles" },
+        { "fr": "beaux", "en": "beautiful (masc. plural)" }
+      ]
     }
   ]
 }

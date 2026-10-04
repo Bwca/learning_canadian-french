@@ -4,34 +4,50 @@
     {
       "en": "I have one brother and two sisters.",
       "fr": "J'ai un frère et deux sœurs.",
-      "vocab": []
+      "vocab": [
+        { "fr": "frère", "en": "brother" },
+        { "fr": "sœur", "en": "sister" }
+      ]
     },
     {
       "en": "The children are happy.",
       "fr": "Les enfants sont contents.",
-      "vocab": []
+      "vocab": [
+        { "fr": "enfant", "en": "child" },
+        { "fr": "content", "en": "happy" }
+      ]
     },
     {
       "en": "She has beautiful eyes.",
       "fr": "Elle a de beaux yeux.",
       "vocab": [
-        { "fr": "de beaux", "en": "beautiful (des becomes de before a plural adjective + noun)" }
+        { "fr": "de beaux", "en": "beautiful (des becomes de before a plural adjective + noun)" },
+        { "fr": "œil / yeux", "en": "eye / eyes (irregular plural)" }
       ]
     },
     {
       "en": "I have two cats and a dog.",
       "fr": "J'ai deux chats et un chien.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chat", "en": "cat" },
+        { "fr": "chien", "en": "dog" }
+      ]
     },
     {
       "en": "The books are on the table.",
       "fr": "Les livres sont sur la table.",
-      "vocab": []
+      "vocab": [
+        { "fr": "livre", "en": "book" },
+        { "fr": "table", "en": "table" }
+      ]
     },
     {
       "en": "We have many games.",
       "fr": "Nous avons beaucoup de jeux.",
-      "vocab": []
+      "vocab": [
+        { "fr": "beaucoup de", "en": "a lot of / many" },
+        { "fr": "jeu", "en": "game" }
+      ]
     },
     {
       "en": "The parents are kind.",
@@ -44,18 +60,25 @@
       "en": "He has new shoes.",
       "fr": "Il a des chaussures neuves.",
       "vocab": [
+        { "fr": "chaussure", "en": "shoe" },
         { "fr": "neuves", "en": "new (fem. pl.)" }
       ]
     },
     {
       "en": "I have many friends.",
       "fr": "J'ai beaucoup d'amis.",
-      "vocab": []
+      "vocab": [
+        { "fr": "beaucoup de", "en": "a lot of / many" },
+        { "fr": "ami", "en": "friend" }
+      ]
     },
     {
       "en": "The flowers are beautiful.",
       "fr": "Les fleurs sont belles.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fleur", "en": "flower" },
+        { "fr": "belle", "en": "beautiful (fem.)" }
+      ]
     }
   ]
 }

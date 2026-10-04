@@ -40,7 +40,8 @@
       "en": "The owl is in the tree.",
       "fr": "Le hibou est dans l'arbre.",
       "vocab": [
-        { "fr": "hibou", "en": "owl" }
+        { "fr": "hibou", "en": "owl" },
+        { "fr": "arbre", "en": "tree" }
       ]
     },
     {
@@ -54,7 +55,8 @@
       "en": "I have a pebble in the shoe.",
       "fr": "J'ai un caillou dans la chaussure.",
       "vocab": [
-        { "fr": "caillou", "en": "pebble" }
+        { "fr": "caillou", "en": "pebble" },
+        { "fr": "chaussure", "en": "shoe" }
       ]
     },
     {
@@ -68,7 +70,10 @@
     {
       "en": "The cabbages are green.",
       "fr": "Les choux sont verts.",
-      "vocab": []
+      "vocab": [
+        { "fr": "choux", "en": "cabbages" },
+        { "fr": "vert", "en": "green" }
+      ]
     }
   ]
 }

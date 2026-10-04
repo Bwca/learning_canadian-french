@@ -4,56 +4,84 @@
     {
       "en": "I have two books and three pens.",
       "fr": "J'ai deux livres et trois stylos.",
-      "vocab": []
+      "vocab": [
+        { "fr": "livre", "en": "book" },
+        { "fr": "stylo", "en": "pen" }
+      ]
     },
     {
       "en": "The cars are new.",
       "fr": "Les voitures sont nouvelles.",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" },
+        { "fr": "nouvelle", "en": "new (fem.)" }
+      ]
     },
     {
       "en": "She has five apples and two oranges.",
       "fr": "Elle a cinq pommes et deux oranges.",
       "vocab": [
+        { "fr": "pomme", "en": "apple" },
         { "fr": "orange", "en": "orange (fruit)" }
       ]
     },
     {
       "en": "The animals are big.",
       "fr": "Les animaux sont grands.",
-      "vocab": []
+      "vocab": [
+        { "fr": "animaux", "en": "animals" }
+      ]
     },
     {
       "en": "We have four chairs and a table.",
       "fr": "Nous avons quatre chaises et une table.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chaise", "en": "chair" },
+        { "fr": "table", "en": "table" }
+      ]
     },
     {
       "en": "The prices are high.",
       "fr": "Les prix sont élevés.",
-      "vocab": []
+      "vocab": [
+        { "fr": "prix", "en": "price (same spelling in plural)" },
+        { "fr": "élevé", "en": "high" }
+      ]
     },
     {
       "en": "He has blue eyes and black shoes.",
       "fr": "Il a les yeux bleus et les chaussures noires.",
-      "vocab": []
+      "vocab": [
+        { "fr": "œil / yeux", "en": "eye / eyes (irregular plural)" },
+        { "fr": "bleu", "en": "blue" },
+        { "fr": "chaussure", "en": "shoe" },
+        { "fr": "noir", "en": "black" }
+      ]
     },
     {
       "en": "The children have many toys.",
       "fr": "Les enfants ont beaucoup de jouets.",
       "vocab": [
+        { "fr": "enfant", "en": "child" },
+        { "fr": "beaucoup de", "en": "a lot of / many" },
         { "fr": "jouet", "en": "toy" }
       ]
     },
     {
       "en": "I have three friends (fem.).",
       "fr": "J'ai trois amies.",
-      "vocab": []
+      "vocab": [
+        { "fr": "amie", "en": "friend (fem.)" }
+      ]
     },
     {
       "en": "The flowers in the garden are beautiful.",
       "fr": "Les fleurs dans le jardin sont belles.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fleur", "en": "flower" },
+        { "fr": "jardin", "en": "garden" },
+        { "fr": "belle", "en": "beautiful (fem.)" }
+      ]
     }
   ]
 }

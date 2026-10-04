@@ -5,6 +5,7 @@
       "en": "I have many friends (fem.).",
       "fr": "J'ai beaucoup d'amies.",
       "vocab": [
+        { "fr": "beaucoup de", "en": "a lot of / many" },
         { "fr": "amie", "en": "friend (fem.)" }
       ]
     },
@@ -40,29 +41,38 @@
     {
       "en": "He has ten books.",
       "fr": "Il a dix livres.",
-      "vocab": []
+      "vocab": [
+        { "fr": "livre", "en": "book" }
+      ]
     },
     {
       "en": "You (informal) have three sisters.",
       "fr": "Tu as trois sœurs.",
-      "vocab": []
+      "vocab": [
+        { "fr": "sœur", "en": "sister" }
+      ]
     },
     {
       "en": "We have two cars.",
       "fr": "Nous avons deux voitures.",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "She has many shoes.",
       "fr": "Elle a beaucoup de chaussures.",
       "vocab": [
+        { "fr": "beaucoup de", "en": "a lot of / many" },
         { "fr": "chaussure", "en": "shoe" }
       ]
     },
     {
       "en": "He has four brothers.",
       "fr": "Il a quatre frères.",
-      "vocab": []
+      "vocab": [
+        { "fr": "frère", "en": "brother" }
+      ]
     }
   ]
 }
