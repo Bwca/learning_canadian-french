@@ -11,22 +11,30 @@
     {
       "en": "The boy is seven years old.",
       "fr": "Le garçon a sept ans.",
-      "vocab": []
+      "vocab": [
+        { "fr": "garçon", "en": "boy" }
+      ]
     },
     {
       "en": "The girl is nine years old.",
       "fr": "La fille a neuf ans.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fille", "en": "girl / daughter" }
+      ]
     },
     {
       "en": "We are twenty-five years old.",
       "fr": "Nous avons vingt-cinq ans.",
-      "vocab": []
+      "vocab": [
+        { "fr": "vingt-cinq", "en": "twenty-five" }
+      ]
     },
     {
       "en": "They (fem.) are thirty-two years old.",
       "fr": "Elles ont trente-deux ans.",
-      "vocab": []
+      "vocab": [
+        { "fr": "trente-deux", "en": "thirty-two" }
+      ]
     },
     {
       "en": "You (formal) are sixty years old.",
@@ -38,7 +46,9 @@
     {
       "en": "I am twenty-two years old.",
       "fr": "J'ai vingt-deux ans.",
-      "vocab": []
+      "vocab": [
+        { "fr": "vingt-deux", "en": "twenty-two" }
+      ]
     },
     {
       "en": "He is fourteen years old.",

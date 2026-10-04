@@ -13,21 +13,24 @@
       "en": "You (informal) are twelve years old.",
       "fr": "Tu as douze ans.",
       "vocab": [
-        { "fr": "douze", "en": "twelve" }
+        { "fr": "douze", "en": "twelve" },
+        { "fr": "an", "en": "year" }
       ]
     },
     {
       "en": "He is twenty years old.",
       "fr": "Il a vingt ans.",
       "vocab": [
-        { "fr": "vingt", "en": "twenty" }
+        { "fr": "vingt", "en": "twenty" },
+        { "fr": "an", "en": "year" }
       ]
     },
     {
       "en": "She is eighteen years old.",
       "fr": "Elle a dix-huit ans.",
       "vocab": [
-        { "fr": "dix-huit", "en": "eighteen" }
+        { "fr": "dix-huit", "en": "eighteen" },
+        { "fr": "an", "en": "year" }
       ]
     },
     {
@@ -35,7 +38,8 @@
       "fr": "Le père a cinquante ans.",
       "vocab": [
         { "fr": "père", "en": "father" },
-        { "fr": "cinquante", "en": "fifty" }
+        { "fr": "cinquante", "en": "fifty" },
+        { "fr": "an", "en": "year" }
       ]
     },
     {
@@ -43,14 +47,16 @@
       "fr": "La mère a quarante-cinq ans.",
       "vocab": [
         { "fr": "mère", "en": "mother" },
-        { "fr": "quarante-cinq", "en": "forty-five" }
+        { "fr": "quarante-cinq", "en": "forty-five" },
+        { "fr": "an", "en": "year" }
       ]
     },
     {
       "en": "They (masc.) are sixteen years old.",
       "fr": "Ils ont seize ans.",
       "vocab": [
-        { "fr": "seize", "en": "sixteen" }
+        { "fr": "seize", "en": "sixteen" },
+        { "fr": "an", "en": "year" }
       ]
     },
     {
@@ -64,7 +70,8 @@
       "en": "She is thirty years old.",
       "fr": "Elle a trente ans.",
       "vocab": [
-        { "fr": "trente", "en": "thirty" }
+        { "fr": "trente", "en": "thirty" },
+        { "fr": "an", "en": "year" }
       ]
     },
     {
@@ -72,7 +79,8 @@
       "fr": "Le grand-père a soixante-dix ans.",
       "vocab": [
         { "fr": "grand-père", "en": "grandfather" },
-        { "fr": "soixante-dix", "en": "seventy" }
+        { "fr": "soixante-dix", "en": "seventy" },
+        { "fr": "an", "en": "year" }
       ]
     }
   ]

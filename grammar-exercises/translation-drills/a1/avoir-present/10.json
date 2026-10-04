@@ -4,52 +4,80 @@
     {
       "en": "I have a dog and a cat.",
       "fr": "J'ai un chien et un chat.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chien", "en": "dog" },
+        { "fr": "chat", "en": "cat" }
+      ]
     },
     {
       "en": "She is twenty years old.",
       "fr": "Elle a vingt ans.",
-      "vocab": []
+      "vocab": [
+        { "fr": "vingt", "en": "twenty" },
+        { "fr": "an", "en": "year" }
+      ]
     },
     {
       "en": "We have a big house.",
       "fr": "Nous avons une grande maison.",
-      "vocab": []
+      "vocab": [
+        { "fr": "grande", "en": "big (fem.)" },
+        { "fr": "maison", "en": "house" }
+      ]
     },
     {
       "en": "He is hungry and thirsty.",
       "fr": "Il a faim et soif.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir faim", "en": "to be hungry" },
+        { "fr": "avoir soif", "en": "to be thirsty" }
+      ]
     },
     {
       "en": "You (informal) have three brothers.",
       "fr": "Tu as trois frères.",
-      "vocab": []
+      "vocab": [
+        { "fr": "frère", "en": "brother" }
+      ]
     },
     {
       "en": "They (masc.) have a new car.",
       "fr": "Ils ont une nouvelle voiture.",
-      "vocab": []
+      "vocab": [
+        { "fr": "nouvelle", "en": "new (fem.)" },
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "I am afraid.",
       "fr": "J'ai peur.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir peur", "en": "to be afraid" }
+      ]
     },
     {
       "en": "She has a notebook and a pen.",
       "fr": "Elle a un cahier et un stylo.",
-      "vocab": []
+      "vocab": [
+        { "fr": "cahier", "en": "notebook" },
+        { "fr": "stylo", "en": "pen" }
+      ]
     },
     {
       "en": "We are thirty years old.",
       "fr": "Nous avons trente ans.",
-      "vocab": []
+      "vocab": [
+        { "fr": "trente", "en": "thirty" },
+        { "fr": "an", "en": "year" }
+      ]
     },
     {
       "en": "He has a rabbit and a turtle.",
       "fr": "Il a un lapin et une tortue.",
-      "vocab": []
+      "vocab": [
+        { "fr": "lapin", "en": "rabbit" },
+        { "fr": "tortue", "en": "turtle" }
+      ]
     }
   ]
 }

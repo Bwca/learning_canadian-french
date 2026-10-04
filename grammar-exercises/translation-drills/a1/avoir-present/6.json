@@ -11,7 +11,9 @@
     {
       "en": "She has a bird.",
       "fr": "Elle a un oiseau.",
-      "vocab": []
+      "vocab": [
+        { "fr": "oiseau", "en": "bird" }
+      ]
     },
     {
       "en": "He has a fish.",
@@ -37,17 +39,23 @@
     {
       "en": "They (masc.) have two dogs.",
       "fr": "Ils ont deux chiens.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chien", "en": "dog" }
+      ]
     },
     {
       "en": "I have three cats.",
       "fr": "J'ai trois chats.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chat", "en": "cat" }
+      ]
     },
     {
       "en": "You (formal) have a hamster.",
       "fr": "Vous avez un hamster.",
-      "vocab": []
+      "vocab": [
+        { "fr": "hamster", "en": "hamster" }
+      ]
     },
     {
       "en": "She has a snake.",

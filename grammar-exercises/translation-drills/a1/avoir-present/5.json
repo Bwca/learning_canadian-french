@@ -4,12 +4,16 @@
     {
       "en": "I have a notebook.",
       "fr": "J'ai un cahier.",
-      "vocab": []
+      "vocab": [
+        { "fr": "cahier", "en": "notebook" }
+      ]
     },
     {
       "en": "You (informal) have a pencil.",
       "fr": "Tu as un crayon.",
-      "vocab": []
+      "vocab": [
+        { "fr": "crayon", "en": "pencil" }
+      ]
     },
     {
       "en": "He has a backpack.",
@@ -56,7 +60,9 @@
     {
       "en": "I have a pen.",
       "fr": "J'ai un stylo.",
-      "vocab": []
+      "vocab": [
+        { "fr": "stylo", "en": "pen" }
+      ]
     },
     {
       "en": "He has markers.",

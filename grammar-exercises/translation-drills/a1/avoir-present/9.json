@@ -25,7 +25,9 @@
     {
       "en": "We have grandparents.",
       "fr": "Nous avons des grands-parents.",
-      "vocab": []
+      "vocab": [
+        { "fr": "grands-parents", "en": "grandparents" }
+      ]
     },
     {
       "en": "You (informal) have a stepfather.",
@@ -58,12 +60,17 @@
     {
       "en": "We have cousins (fem.).",
       "fr": "Nous avons des cousines.",
-      "vocab": []
+      "vocab": [
+        { "fr": "cousine", "en": "cousin (fem.)" }
+      ]
     },
     {
       "en": "He has a big family.",
       "fr": "Il a une grande famille.",
-      "vocab": []
+      "vocab": [
+        { "fr": "grande", "en": "big (fem.)" },
+        { "fr": "famille", "en": "family" }
+      ]
     }
   ]
 }

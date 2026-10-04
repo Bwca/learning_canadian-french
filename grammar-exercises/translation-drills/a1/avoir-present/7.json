@@ -4,7 +4,10 @@
     {
       "en": "I need a coffee.",
       "fr": "J'ai besoin d'un café.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir besoin de", "en": "to need" },
+        { "fr": "café", "en": "coffee" }
+      ]
     },
     {
       "en": "He looks tired.",
@@ -23,7 +26,9 @@
     {
       "en": "You (informal) have time.",
       "fr": "Tu as le temps.",
-      "vocab": []
+      "vocab": [
+        { "fr": "temps", "en": "time" }
+      ]
     },
     {
       "en": "She has a headache.",
@@ -50,12 +55,18 @@
     {
       "en": "He needs a book.",
       "fr": "Il a besoin d'un livre.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir besoin de", "en": "to need" },
+        { "fr": "livre", "en": "book" }
+      ]
     },
     {
       "en": "You (formal) look happy.",
       "fr": "Vous avez l'air content.",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir l'air", "en": "to look/seem" },
+        { "fr": "content", "en": "happy" }
+      ]
     },
     {
       "en": "She has a stomach ache.",
