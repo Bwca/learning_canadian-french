@@ -1,0 +1,75 @@
+{
+  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 1: avoir with food & drink)",
+  "exercises": [
+    {
+      "en": "I don't have any bread.",
+      "fr": "Je n'ai pas de pain.",
+      "vocab": [
+        { "fr": "pain", "en": "bread" }
+      ]
+    },
+    {
+      "en": "You (informal) don't have any jam.",
+      "fr": "Tu n'as pas de confiture.",
+      "vocab": [
+        { "fr": "confiture", "en": "jam" }
+      ]
+    },
+    {
+      "en": "He doesn't have any milk.",
+      "fr": "Il n'a pas de lait.",
+      "vocab": [
+        { "fr": "lait", "en": "milk" }
+      ]
+    },
+    {
+      "en": "She doesn't have any soup.",
+      "fr": "Elle n'a pas de soupe.",
+      "vocab": [
+        { "fr": "soupe", "en": "soup" }
+      ]
+    },
+    {
+      "en": "We don't have any water.",
+      "fr": "Nous n'avons pas d'eau.",
+      "vocab": [
+        { "fr": "eau", "en": "water" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) don't have any cheese.",
+      "fr": "Vous n'avez pas de fromage.",
+      "vocab": [
+        { "fr": "fromage", "en": "cheese" }
+      ]
+    },
+    {
+      "en": "They (masc.) don't have any butter.",
+      "fr": "Ils n'ont pas de beurre.",
+      "vocab": [
+        { "fr": "beurre", "en": "butter" }
+      ]
+    },
+    {
+      "en": "They (fem.) don't have any sugar.",
+      "fr": "Elles n'ont pas de sucre.",
+      "vocab": [
+        { "fr": "sucre", "en": "sugar" }
+      ]
+    },
+    {
+      "en": "I don't have any tea.",
+      "fr": "Je n'ai pas de thé.",
+      "vocab": [
+        { "fr": "thé", "en": "tea" }
+      ]
+    },
+    {
+      "en": "You (informal) don't have any coffee.",
+      "fr": "Tu n'as pas de café.",
+      "vocab": [
+        { "fr": "café", "en": "coffee" }
+      ]
+    }
+  ]
+}

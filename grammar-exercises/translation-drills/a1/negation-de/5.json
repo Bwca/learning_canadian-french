@@ -1,0 +1,86 @@
+{
+  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 5: manger with food)",
+  "exercises": [
+    {
+      "en": "I don't eat meat.",
+      "fr": "Je ne mange pas de viande.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "viande", "en": "meat" }
+      ]
+    },
+    {
+      "en": "You (informal) don't eat fish.",
+      "fr": "Tu ne manges pas de poisson.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "poisson", "en": "fish" }
+      ]
+    },
+    {
+      "en": "He doesn't eat vegetables.",
+      "fr": "Il ne mange pas de légumes.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "légume", "en": "vegetable" }
+      ]
+    },
+    {
+      "en": "She doesn't eat cheese.",
+      "fr": "Elle ne mange pas de fromage.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "fromage", "en": "cheese" }
+      ]
+    },
+    {
+      "en": "We don't eat red meat.",
+      "fr": "Nous ne mangeons pas de viande rouge.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "viande", "en": "meat" },
+        { "fr": "rouge", "en": "red" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) don't eat sugar.",
+      "fr": "Vous ne mangez pas de sucre.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "sucre", "en": "sugar" }
+      ]
+    },
+    {
+      "en": "They (masc.) don't eat bread.",
+      "fr": "Ils ne mangent pas de pain.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "pain", "en": "bread" }
+      ]
+    },
+    {
+      "en": "They (fem.) don't eat rice.",
+      "fr": "Elles ne mangent pas de riz.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "riz", "en": "rice" }
+      ]
+    },
+    {
+      "en": "I don't eat dessert.",
+      "fr": "Je ne mange pas de dessert.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "dessert", "en": "dessert" }
+      ]
+    },
+    {
+      "en": "You (informal) don't eat fruit.",
+      "fr": "Tu ne manges pas de fruits.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "fruit", "en": "fruit" }
+      ]
+    }
+  ]
+}

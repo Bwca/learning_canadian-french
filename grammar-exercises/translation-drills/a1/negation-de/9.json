@@ -1,0 +1,77 @@
+{
+  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 9: avoir/il y a with animals & home)",
+  "exercises": [
+    {
+      "en": "I don't have a dog.",
+      "fr": "Je n'ai pas de chien.",
+      "vocab": [
+        { "fr": "chien", "en": "dog" }
+      ]
+    },
+    {
+      "en": "You (informal) don't have a cat.",
+      "fr": "Tu n'as pas de chat.",
+      "vocab": [
+        { "fr": "chat", "en": "cat" }
+      ]
+    },
+    {
+      "en": "He doesn't have a car.",
+      "fr": "Il n'a pas de voiture.",
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
+    },
+    {
+      "en": "She doesn't have a house.",
+      "fr": "Elle n'a pas de maison.",
+      "vocab": [
+        { "fr": "maison", "en": "house" }
+      ]
+    },
+    {
+      "en": "We don't have a garden.",
+      "fr": "Nous n'avons pas de jardin.",
+      "vocab": [
+        { "fr": "jardin", "en": "garden" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) don't have a bike.",
+      "fr": "Vous n'avez pas de vélo.",
+      "vocab": [
+        { "fr": "vélo", "en": "bike" }
+      ]
+    },
+    {
+      "en": "They (masc.) don't have a horse.",
+      "fr": "Ils n'ont pas de cheval.",
+      "vocab": [
+        { "fr": "cheval", "en": "horse" }
+      ]
+    },
+    {
+      "en": "They (fem.) don't have a bird.",
+      "fr": "Elles n'ont pas d'oiseau.",
+      "vocab": [
+        { "fr": "oiseau", "en": "bird" }
+      ]
+    },
+    {
+      "en": "There isn't a dog in the garden.",
+      "fr": "Il n'y a pas de chien dans le jardin.",
+      "vocab": [
+        { "fr": "chien", "en": "dog" },
+        { "fr": "jardin", "en": "garden" }
+      ]
+    },
+    {
+      "en": "There isn't a cat in the house.",
+      "fr": "Il n'y a pas de chat dans la maison.",
+      "vocab": [
+        { "fr": "chat", "en": "cat" },
+        { "fr": "maison", "en": "house" }
+      ]
+    }
+  ]
+}

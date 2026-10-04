@@ -1,0 +1,75 @@
+{
+  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 2: avoir with everyday objects)",
+  "exercises": [
+    {
+      "en": "I don't have a pen.",
+      "fr": "Je n'ai pas de stylo.",
+      "vocab": [
+        { "fr": "stylo", "en": "pen" }
+      ]
+    },
+    {
+      "en": "You (informal) don't have a pencil.",
+      "fr": "Tu n'as pas de crayon.",
+      "vocab": [
+        { "fr": "crayon", "en": "pencil" }
+      ]
+    },
+    {
+      "en": "He doesn't have a key.",
+      "fr": "Il n'a pas de clé.",
+      "vocab": [
+        { "fr": "clé", "en": "key" }
+      ]
+    },
+    {
+      "en": "She doesn't have a chair.",
+      "fr": "Elle n'a pas de chaise.",
+      "vocab": [
+        { "fr": "chaise", "en": "chair" }
+      ]
+    },
+    {
+      "en": "We don't have a car.",
+      "fr": "Nous n'avons pas de voiture.",
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) don't have a bag.",
+      "fr": "Vous n'avez pas de sac.",
+      "vocab": [
+        { "fr": "sac", "en": "bag" }
+      ]
+    },
+    {
+      "en": "They (masc.) don't have a book.",
+      "fr": "Ils n'ont pas de livre.",
+      "vocab": [
+        { "fr": "livre", "en": "book" }
+      ]
+    },
+    {
+      "en": "They (fem.) don't have a table.",
+      "fr": "Elles n'ont pas de table.",
+      "vocab": [
+        { "fr": "table", "en": "table" }
+      ]
+    },
+    {
+      "en": "I don't have a phone.",
+      "fr": "Je n'ai pas de téléphone.",
+      "vocab": [
+        { "fr": "téléphone", "en": "phone" }
+      ]
+    },
+    {
+      "en": "You (informal) don't have a watch.",
+      "fr": "Tu n'as pas de montre.",
+      "vocab": [
+        { "fr": "montre", "en": "watch" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 10: mixed review)",
+  "exercises": [
+    {
+      "en": "I don't have any bread.",
+      "fr": "Je n'ai pas de pain.",
+      "vocab": [
+        { "fr": "pain", "en": "bread" }
+      ]
+    },
+    {
+      "en": "There isn't any snow today.",
+      "fr": "Il n'y a pas de neige aujourd'hui.",
+      "vocab": [
+        { "fr": "neige", "en": "snow" },
+        { "fr": "aujourd'hui", "en": "today" }
+      ]
+    },
+    {
+      "en": "You (informal) don't eat meat.",
+      "fr": "Tu ne manges pas de viande.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "viande", "en": "meat" }
+      ]
+    },
+    {
+      "en": "We don't like coffee.",
+      "fr": "Nous n'aimons pas le café.",
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "café", "en": "coffee" }
+      ]
+    },
+    {
+      "en": "She doesn't have a key.",
+      "fr": "Elle n'a pas de clé.",
+      "vocab": [
+        { "fr": "clé", "en": "key" }
+      ]
+    },
+    {
+      "en": "There isn't a chair in the bedroom.",
+      "fr": "Il n'y a pas de chaise dans la chambre.",
+      "vocab": [
+        { "fr": "chaise", "en": "chair" },
+        { "fr": "chambre", "en": "bedroom" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) don't have a car.",
+      "fr": "Vous n'avez pas de voiture.",
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
+    },
+    {
+      "en": "They (masc.) don't have a dog.",
+      "fr": "Ils n'ont pas de chien.",
+      "vocab": [
+        { "fr": "chien", "en": "dog" }
+      ]
+    },
+    {
+      "en": "There isn't any sugar in the tea.",
+      "fr": "Il n'y a pas de sucre dans le thé.",
+      "vocab": [
+        { "fr": "sucre", "en": "sugar" },
+        { "fr": "thé", "en": "tea" }
+      ]
+    },
+    {
+      "en": "I don't eat fish.",
+      "fr": "Je ne mange pas de poisson.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat" },
+        { "fr": "poisson", "en": "fish" }
+      ]
+    }
+  ]
+}

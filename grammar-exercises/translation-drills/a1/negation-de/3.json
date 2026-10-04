@@ -1,0 +1,85 @@
+{
+  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 3: il y a with food & drink)",
+  "exercises": [
+    {
+      "en": "There isn't any bread on the table.",
+      "fr": "Il n'y a pas de pain sur la table.",
+      "vocab": [
+        { "fr": "pain", "en": "bread" },
+        { "fr": "table", "en": "table" }
+      ]
+    },
+    {
+      "en": "There isn't any milk in the fridge.",
+      "fr": "Il n'y a pas de lait dans le frigo.",
+      "vocab": [
+        { "fr": "lait", "en": "milk" },
+        { "fr": "frigo", "en": "fridge" }
+      ]
+    },
+    {
+      "en": "There isn't any jam in the jar.",
+      "fr": "Il n'y a pas de confiture dans le pot.",
+      "vocab": [
+        { "fr": "confiture", "en": "jam" },
+        { "fr": "pot", "en": "jar" }
+      ]
+    },
+    {
+      "en": "There isn't any sugar in the coffee.",
+      "fr": "Il n'y a pas de sucre dans le café.",
+      "vocab": [
+        { "fr": "sucre", "en": "sugar" },
+        { "fr": "café", "en": "coffee" }
+      ]
+    },
+    {
+      "en": "There isn't any cheese in the kitchen.",
+      "fr": "Il n'y a pas de fromage dans la cuisine.",
+      "vocab": [
+        { "fr": "fromage", "en": "cheese" },
+        { "fr": "cuisine", "en": "kitchen" }
+      ]
+    },
+    {
+      "en": "There isn't any water in the bottle.",
+      "fr": "Il n'y a pas d'eau dans la bouteille.",
+      "vocab": [
+        { "fr": "eau", "en": "water" },
+        { "fr": "bouteille", "en": "bottle" }
+      ]
+    },
+    {
+      "en": "There isn't any butter on the bread.",
+      "fr": "Il n'y a pas de beurre sur le pain.",
+      "vocab": [
+        { "fr": "beurre", "en": "butter" },
+        { "fr": "pain", "en": "bread" }
+      ]
+    },
+    {
+      "en": "There isn't any soup in the bowl.",
+      "fr": "Il n'y a pas de soupe dans le bol.",
+      "vocab": [
+        { "fr": "soupe", "en": "soup" },
+        { "fr": "bol", "en": "bowl" }
+      ]
+    },
+    {
+      "en": "There isn't any tea in the cup.",
+      "fr": "Il n'y a pas de thé dans la tasse.",
+      "vocab": [
+        { "fr": "thé", "en": "tea" },
+        { "fr": "tasse", "en": "cup" }
+      ]
+    },
+    {
+      "en": "There isn't any meat in the sandwich.",
+      "fr": "Il n'y a pas de viande dans le sandwich.",
+      "vocab": [
+        { "fr": "viande", "en": "meat" },
+        { "fr": "sandwich", "en": "sandwich" }
+      ]
+    }
+  ]
+}

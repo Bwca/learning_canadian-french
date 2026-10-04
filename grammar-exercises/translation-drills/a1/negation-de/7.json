@@ -1,0 +1,83 @@
+{
+  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 7: contrast — aimer keeps le/la/les)",
+  "exercises": [
+    {
+      "en": "I don't have any coffee.",
+      "fr": "Je n'ai pas de café.",
+      "vocab": [
+        { "fr": "café", "en": "coffee" }
+      ]
+    },
+    {
+      "en": "I don't like coffee.",
+      "fr": "Je n'aime pas le café.",
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "café", "en": "coffee" }
+      ]
+    },
+    {
+      "en": "There isn't any tea in the cup.",
+      "fr": "Il n'y a pas de thé dans la tasse.",
+      "vocab": [
+        { "fr": "thé", "en": "tea" },
+        { "fr": "tasse", "en": "cup" }
+      ]
+    },
+    {
+      "en": "She doesn't like tea.",
+      "fr": "Elle n'aime pas le thé.",
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "thé", "en": "tea" }
+      ]
+    },
+    {
+      "en": "We don't have any chocolate.",
+      "fr": "Nous n'avons pas de chocolat.",
+      "vocab": [
+        { "fr": "chocolat", "en": "chocolate" }
+      ]
+    },
+    {
+      "en": "We don't like dark chocolate.",
+      "fr": "Nous n'aimons pas le chocolat noir.",
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "chocolat", "en": "chocolate" },
+        { "fr": "noir", "en": "black / dark" }
+      ]
+    },
+    {
+      "en": "There isn't any cheese in the fridge.",
+      "fr": "Il n'y a pas de fromage dans le frigo.",
+      "vocab": [
+        { "fr": "fromage", "en": "cheese" },
+        { "fr": "frigo", "en": "fridge" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) don't like cheese.",
+      "fr": "Vous n'aimez pas le fromage.",
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "fromage", "en": "cheese" }
+      ]
+    },
+    {
+      "en": "They (masc.) don't have any meat.",
+      "fr": "Ils n'ont pas de viande.",
+      "vocab": [
+        { "fr": "viande", "en": "meat" }
+      ]
+    },
+    {
+      "en": "They (masc.) don't like meat.",
+      "fr": "Ils n'aiment pas la viande.",
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "viande", "en": "meat" }
+      ]
+    }
+  ]
+}

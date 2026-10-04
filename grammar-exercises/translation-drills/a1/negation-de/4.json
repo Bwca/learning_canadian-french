@@ -1,0 +1,85 @@
+{
+  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 4: il y a with household objects)",
+  "exercises": [
+    {
+      "en": "There isn't a table in the bedroom.",
+      "fr": "Il n'y a pas de table dans la chambre.",
+      "vocab": [
+        { "fr": "table", "en": "table" },
+        { "fr": "chambre", "en": "bedroom" }
+      ]
+    },
+    {
+      "en": "There isn't a chair in the kitchen.",
+      "fr": "Il n'y a pas de chaise dans la cuisine.",
+      "vocab": [
+        { "fr": "chaise", "en": "chair" },
+        { "fr": "cuisine", "en": "kitchen" }
+      ]
+    },
+    {
+      "en": "There isn't a bed in the living room.",
+      "fr": "Il n'y a pas de lit dans le salon.",
+      "vocab": [
+        { "fr": "lit", "en": "bed" },
+        { "fr": "salon", "en": "living room" }
+      ]
+    },
+    {
+      "en": "There isn't a window in the bathroom.",
+      "fr": "Il n'y a pas de fenêtre dans la salle de bain.",
+      "vocab": [
+        { "fr": "fenêtre", "en": "window" },
+        { "fr": "salle de bain", "en": "bathroom" }
+      ]
+    },
+    {
+      "en": "There isn't a door in the garage.",
+      "fr": "Il n'y a pas de porte dans le garage.",
+      "vocab": [
+        { "fr": "porte", "en": "door" },
+        { "fr": "garage", "en": "garage" }
+      ]
+    },
+    {
+      "en": "There isn't a mirror in the bedroom.",
+      "fr": "Il n'y a pas de miroir dans la chambre.",
+      "vocab": [
+        { "fr": "miroir", "en": "mirror" },
+        { "fr": "chambre", "en": "bedroom" }
+      ]
+    },
+    {
+      "en": "There isn't a lamp on the desk.",
+      "fr": "Il n'y a pas de lampe sur le bureau.",
+      "vocab": [
+        { "fr": "lampe", "en": "lamp" },
+        { "fr": "bureau", "en": "desk" }
+      ]
+    },
+    {
+      "en": "There isn't a cupboard in the hallway.",
+      "fr": "Il n'y a pas d'armoire dans le couloir.",
+      "vocab": [
+        { "fr": "armoire", "en": "cupboard" },
+        { "fr": "couloir", "en": "hallway" }
+      ]
+    },
+    {
+      "en": "There isn't a rug in the living room.",
+      "fr": "Il n'y a pas de tapis dans le salon.",
+      "vocab": [
+        { "fr": "tapis", "en": "rug" },
+        { "fr": "salon", "en": "living room" }
+      ]
+    },
+    {
+      "en": "There isn't a clock in the kitchen.",
+      "fr": "Il n'y a pas d'horloge dans la cuisine.",
+      "vocab": [
+        { "fr": "horloge", "en": "clock" },
+        { "fr": "cuisine", "en": "kitchen" }
+      ]
+    }
+  ]
+}

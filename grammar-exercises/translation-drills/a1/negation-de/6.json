@@ -1,0 +1,80 @@
+{
+  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 6: mixed avoir/il y a review)",
+  "exercises": [
+    {
+      "en": "I don't have a pencil.",
+      "fr": "Je n'ai pas de crayon.",
+      "vocab": [
+        { "fr": "crayon", "en": "pencil" }
+      ]
+    },
+    {
+      "en": "There isn't any snow today.",
+      "fr": "Il n'y a pas de neige aujourd'hui.",
+      "vocab": [
+        { "fr": "neige", "en": "snow" },
+        { "fr": "aujourd'hui", "en": "today" }
+      ]
+    },
+    {
+      "en": "We don't have a car.",
+      "fr": "Nous n'avons pas de voiture.",
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
+    },
+    {
+      "en": "There isn't any bread in the bag.",
+      "fr": "Il n'y a pas de pain dans le sac.",
+      "vocab": [
+        { "fr": "pain", "en": "bread" },
+        { "fr": "sac", "en": "bag" }
+      ]
+    },
+    {
+      "en": "She doesn't have a key.",
+      "fr": "Elle n'a pas de clé.",
+      "vocab": [
+        { "fr": "clé", "en": "key" }
+      ]
+    },
+    {
+      "en": "There isn't any milk in the cup.",
+      "fr": "Il n'y a pas de lait dans la tasse.",
+      "vocab": [
+        { "fr": "lait", "en": "milk" },
+        { "fr": "tasse", "en": "cup" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) don't have a chair.",
+      "fr": "Vous n'avez pas de chaise.",
+      "vocab": [
+        { "fr": "chaise", "en": "chair" }
+      ]
+    },
+    {
+      "en": "There isn't any sugar in the tea.",
+      "fr": "Il n'y a pas de sucre dans le thé.",
+      "vocab": [
+        { "fr": "sucre", "en": "sugar" },
+        { "fr": "thé", "en": "tea" }
+      ]
+    },
+    {
+      "en": "They (masc.) don't have a book.",
+      "fr": "Ils n'ont pas de livre.",
+      "vocab": [
+        { "fr": "livre", "en": "book" }
+      ]
+    },
+    {
+      "en": "There isn't any jam on the table.",
+      "fr": "Il n'y a pas de confiture sur la table.",
+      "vocab": [
+        { "fr": "confiture", "en": "jam" },
+        { "fr": "table", "en": "table" }
+      ]
+    }
+  ]
+}

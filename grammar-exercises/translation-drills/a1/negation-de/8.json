@@ -1,0 +1,86 @@
+{
+  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 8: il y a with weather & nature)",
+  "exercises": [
+    {
+      "en": "There isn't any wind today.",
+      "fr": "Il n'y a pas de vent aujourd'hui.",
+      "vocab": [
+        { "fr": "vent", "en": "wind" },
+        { "fr": "aujourd'hui", "en": "today" }
+      ]
+    },
+    {
+      "en": "There isn't any sun this morning.",
+      "fr": "Il n'y a pas de soleil ce matin.",
+      "vocab": [
+        { "fr": "soleil", "en": "sun" },
+        { "fr": "ce matin", "en": "this morning" }
+      ]
+    },
+    {
+      "en": "There isn't any snow in summer.",
+      "fr": "Il n'y a pas de neige en été.",
+      "vocab": [
+        { "fr": "neige", "en": "snow" },
+        { "fr": "en été", "en": "in summer" }
+      ]
+    },
+    {
+      "en": "There isn't any rain this week.",
+      "fr": "Il n'y a pas de pluie cette semaine.",
+      "vocab": [
+        { "fr": "pluie", "en": "rain" },
+        { "fr": "cette semaine", "en": "this week" }
+      ]
+    },
+    {
+      "en": "There isn't any fog this evening.",
+      "fr": "Il n'y a pas de brouillard ce soir.",
+      "vocab": [
+        { "fr": "brouillard", "en": "fog" },
+        { "fr": "ce soir", "en": "this evening" }
+      ]
+    },
+    {
+      "en": "There aren't any clouds in the sky.",
+      "fr": "Il n'y a pas de nuages dans le ciel.",
+      "vocab": [
+        { "fr": "nuage", "en": "cloud" },
+        { "fr": "ciel", "en": "sky" }
+      ]
+    },
+    {
+      "en": "There isn't any ice on the road.",
+      "fr": "Il n'y a pas de glace sur la route.",
+      "vocab": [
+        { "fr": "glace", "en": "ice" },
+        { "fr": "route", "en": "road" }
+      ]
+    },
+    {
+      "en": "There isn't any storm this weekend.",
+      "fr": "Il n'y a pas de tempête ce week-end.",
+      "vocab": [
+        { "fr": "tempête", "en": "storm" },
+        { "fr": "ce week-end", "en": "this weekend" }
+      ]
+    },
+    {
+      "en": "There isn't any strong wind today.",
+      "fr": "Il n'y a pas de vent fort aujourd'hui.",
+      "vocab": [
+        { "fr": "vent", "en": "wind" },
+        { "fr": "fort", "en": "strong" },
+        { "fr": "aujourd'hui", "en": "today" }
+      ]
+    },
+    {
+      "en": "There isn't any heat in winter.",
+      "fr": "Il n'y a pas de chaleur en hiver.",
+      "vocab": [
+        { "fr": "chaleur", "en": "heat" },
+        { "fr": "en hiver", "en": "in winter" }
+      ]
+    }
+  ]
+}
