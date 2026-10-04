@@ -11,19 +11,26 @@
     {
       "en": "There is one window in the kitchen.",
       "fr": "Il y a une fenêtre dans la cuisine.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fenêtre", "en": "window" },
+        { "fr": "cuisine", "en": "kitchen" }
+      ]
     },
     {
       "en": "There are many people at the market.",
       "fr": "Il y a beaucoup de monde au marché.",
       "vocab": [
-        { "fr": "monde", "en": "people/crowd" }
+        { "fr": "monde", "en": "people/crowd" },
+        { "fr": "beaucoup de", "en": "a lot of" }
       ]
     },
     {
       "en": "There are two cats in the garden.",
       "fr": "Il y a deux chats dans le jardin.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chat", "en": "cat" },
+        { "fr": "jardin", "en": "garden" }
+      ]
     },
     {
       "en": "There are five books on the shelf.",
@@ -35,30 +42,44 @@
     {
       "en": "There are several students in the classroom.",
       "fr": "Il y a plusieurs étudiants dans la salle de classe.",
-      "vocab": []
+      "vocab": [
+        { "fr": "étudiant", "en": "student" },
+        { "fr": "plusieurs", "en": "several" },
+        { "fr": "salle de classe", "en": "classroom" }
+      ]
     },
     {
       "en": "There is one teacher in the room.",
       "fr": "Il y a un professeur dans la salle.",
       "vocab": [
-        { "fr": "salle", "en": "room" }
+        { "fr": "salle", "en": "room" },
+        { "fr": "professeur", "en": "teacher" }
       ]
     },
     {
       "en": "There are ten tables at the restaurant.",
       "fr": "Il y a dix tables au restaurant.",
-      "vocab": []
+      "vocab": [
+        { "fr": "table", "en": "table" },
+        { "fr": "restaurant", "en": "restaurant" }
+      ]
     },
     {
       "en": "There are a few apples in the basket.",
       "fr": "Il y a quelques pommes dans le panier.",
-      "vocab": []
+      "vocab": [
+        { "fr": "pomme", "en": "apple" },
+        { "fr": "panier", "en": "basket" },
+        { "fr": "quelques", "en": "a few / some" }
+      ]
     },
     {
       "en": "There are too many cars in the city.",
       "fr": "Il y a trop de voitures dans la ville.",
       "vocab": [
-        { "fr": "ville", "en": "city" }
+        { "fr": "ville", "en": "city" },
+        { "fr": "trop de", "en": "too much / too many" },
+        { "fr": "voiture", "en": "car" }
       ]
     }
   ]

@@ -4,52 +4,80 @@
     {
       "en": "There is a cat on the chair.",
       "fr": "Il y a un chat sur la chaise.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chat", "en": "cat" },
+        { "fr": "chaise", "en": "chair" }
+      ]
     },
     {
       "en": "There are three books on the table.",
       "fr": "Il y a trois livres sur la table.",
-      "vocab": []
+      "vocab": [
+        { "fr": "livre", "en": "book" },
+        { "fr": "table", "en": "table" }
+      ]
     },
     {
       "en": "There is a bank near the school.",
       "fr": "Il y a une banque près de l'école.",
-      "vocab": []
+      "vocab": [
+        { "fr": "banque", "en": "bank" },
+        { "fr": "école", "en": "school" }
+      ]
     },
     {
       "en": "There is milk in the fridge.",
       "fr": "Il y a du lait dans le frigo.",
-      "vocab": []
+      "vocab": [
+        { "fr": "lait", "en": "milk" },
+        { "fr": "frigo", "en": "fridge" }
+      ]
     },
     {
       "en": "There are flowers in the garden.",
       "fr": "Il y a des fleurs dans le jardin.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fleur", "en": "flower" },
+        { "fr": "jardin", "en": "garden" }
+      ]
     },
     {
       "en": "There is a lot of sun today.",
       "fr": "Il y a beaucoup de soleil aujourd'hui.",
-      "vocab": []
+      "vocab": [
+        { "fr": "soleil", "en": "sun" }
+      ]
     },
     {
       "en": "There are many people at the market.",
       "fr": "Il y a beaucoup de monde au marché.",
-      "vocab": []
+      "vocab": [
+        { "fr": "monde", "en": "people / crowd" }
+      ]
     },
     {
       "en": "There is a park near the museum.",
       "fr": "Il y a un parc près du musée.",
-      "vocab": []
+      "vocab": [
+        { "fr": "parc", "en": "park" },
+        { "fr": "musée", "en": "museum" }
+      ]
     },
     {
       "en": "There are two chairs in the room.",
       "fr": "Il y a deux chaises dans la chambre.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chaise", "en": "chair" },
+        { "fr": "chambre", "en": "room/bedroom" }
+      ]
     },
     {
       "en": "There is a dog in the garden.",
       "fr": "Il y a un chien dans le jardin.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chien", "en": "dog" },
+        { "fr": "jardin", "en": "garden" }
+      ]
     }
   ]
 }

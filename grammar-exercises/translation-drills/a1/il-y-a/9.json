@@ -4,12 +4,16 @@
     {
       "en": "It is sunny.",
       "fr": "Il y a du soleil.",
-      "vocab": []
+      "vocab": [
+        { "fr": "soleil", "en": "sun" }
+      ]
     },
     {
       "en": "It is windy.",
       "fr": "Il y a du vent.",
-      "vocab": []
+      "vocab": [
+        { "fr": "vent", "en": "wind" }
+      ]
     },
     {
       "en": "It is foggy this morning.",
@@ -21,7 +25,9 @@
     {
       "en": "There are clouds today.",
       "fr": "Il y a des nuages aujourd'hui.",
-      "vocab": []
+      "vocab": [
+        { "fr": "nuage", "en": "cloud" }
+      ]
     },
     {
       "en": "There is a storm tonight.",
@@ -34,20 +40,24 @@
       "en": "There is a lot of rain in autumn.",
       "fr": "Il y a beaucoup de pluie en automne.",
       "vocab": [
-        { "fr": "automne", "en": "autumn/fall" }
+        { "fr": "automne", "en": "autumn/fall" },
+        { "fr": "pluie", "en": "rain" }
       ]
     },
     {
       "en": "There is a lot of snow in winter.",
       "fr": "Il y a beaucoup de neige en hiver.",
       "vocab": [
-        { "fr": "hiver", "en": "winter" }
+        { "fr": "hiver", "en": "winter" },
+        { "fr": "neige", "en": "snow" }
       ]
     },
     {
       "en": "It is very sunny today.",
       "fr": "Il y a beaucoup de soleil aujourd'hui.",
-      "vocab": []
+      "vocab": [
+        { "fr": "soleil", "en": "sun" }
+      ]
     },
     {
       "en": "There is ice on the road.",
@@ -61,7 +71,8 @@
       "en": "There is a light wind.",
       "fr": "Il y a un peu de vent.",
       "vocab": [
-        { "fr": "un peu de", "en": "a little" }
+        { "fr": "un peu de", "en": "a little" },
+        { "fr": "vent", "en": "wind" }
       ]
     }
   ]

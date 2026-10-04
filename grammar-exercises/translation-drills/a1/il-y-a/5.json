@@ -4,7 +4,10 @@
     {
       "en": "There is a teacher in the classroom.",
       "fr": "Il y a un professeur dans la salle de classe.",
-      "vocab": []
+      "vocab": [
+        { "fr": "professeur", "en": "teacher" },
+        { "fr": "salle de classe", "en": "classroom" }
+      ]
     },
     {
       "en": "There are desks in the room.",
@@ -23,12 +26,18 @@
     {
       "en": "There are books in the bag.",
       "fr": "Il y a des livres dans le sac.",
-      "vocab": []
+      "vocab": [
+        { "fr": "livre", "en": "book" },
+        { "fr": "sac", "en": "bag" }
+      ]
     },
     {
       "en": "There is a library at the school.",
       "fr": "Il y a une bibliothèque à l'école.",
-      "vocab": []
+      "vocab": [
+        { "fr": "bibliothèque", "en": "library" },
+        { "fr": "école", "en": "school" }
+      ]
     },
     {
       "en": "There are many students in the hallway.",
@@ -40,12 +49,18 @@
     {
       "en": "There is a computer in the classroom.",
       "fr": "Il y a un ordinateur dans la salle de classe.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ordinateur", "en": "computer" },
+        { "fr": "salle de classe", "en": "classroom" }
+      ]
     },
     {
       "en": "There are pencils on the desk.",
       "fr": "Il y a des crayons sur le bureau.",
-      "vocab": []
+      "vocab": [
+        { "fr": "crayon", "en": "pencil" },
+        { "fr": "bureau", "en": "desk" }
+      ]
     },
     {
       "en": "There is a clock on the wall.",
@@ -59,7 +74,9 @@
       "en": "There are chairs around the table.",
       "fr": "Il y a des chaises autour de la table.",
       "vocab": [
-        { "fr": "autour de", "en": "around" }
+        { "fr": "autour de", "en": "around" },
+        { "fr": "chaise", "en": "chair" },
+        { "fr": "table", "en": "table" }
       ]
     }
   ]

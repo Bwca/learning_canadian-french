@@ -6,49 +6,59 @@
       "fr": "Il y a un chat dans le jardin.",
       "vocab": [
         { "fr": "il y a", "en": "there is / there are" },
-        { "fr": "dans", "en": "in" }
+        { "fr": "dans", "en": "in" },
+        { "fr": "chat", "en": "cat" },
+        { "fr": "jardin", "en": "garden" }
       ]
     },
     {
       "en": "There is a book on the table.",
       "fr": "Il y a un livre sur la table.",
       "vocab": [
-        { "fr": "sur", "en": "on" }
+        { "fr": "sur", "en": "on" },
+        { "fr": "livre", "en": "book" },
+        { "fr": "table", "en": "table" }
       ]
     },
     {
       "en": "There is a car in front of the house.",
       "fr": "Il y a une voiture devant la maison.",
       "vocab": [
-        { "fr": "devant", "en": "in front of" }
+        { "fr": "devant", "en": "in front of" },
+        { "fr": "voiture", "en": "car" },
+        { "fr": "maison", "en": "house" }
       ]
     },
     {
       "en": "There are apples in the basket.",
       "fr": "Il y a des pommes dans le panier.",
       "vocab": [
-        { "fr": "panier", "en": "basket" }
+        { "fr": "panier", "en": "basket" },
+        { "fr": "pomme", "en": "apple" }
       ]
     },
     {
       "en": "There is a student in the classroom.",
       "fr": "Il y a un étudiant dans la salle de classe.",
       "vocab": [
-        { "fr": "salle de classe", "en": "classroom" }
+        { "fr": "salle de classe", "en": "classroom" },
+        { "fr": "étudiant", "en": "student" }
       ]
     },
     {
       "en": "There are children in the park.",
       "fr": "Il y a des enfants dans le parc.",
       "vocab": [
-        { "fr": "parc", "en": "park" }
+        { "fr": "parc", "en": "park" },
+        { "fr": "enfant", "en": "child" }
       ]
     },
     {
       "en": "There is a bag in the car.",
       "fr": "Il y a un sac dans la voiture.",
       "vocab": [
-        { "fr": "sac", "en": "bag" }
+        { "fr": "sac", "en": "bag" },
+        { "fr": "voiture", "en": "car" }
       ]
     },
     {
@@ -63,7 +73,8 @@
       "en": "There are books at the library.",
       "fr": "Il y a des livres à la bibliothèque.",
       "vocab": [
-        { "fr": "bibliothèque", "en": "library" }
+        { "fr": "bibliothèque", "en": "library" },
+        { "fr": "livre", "en": "book" }
       ]
     },
     {

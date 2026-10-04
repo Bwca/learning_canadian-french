@@ -4,46 +4,66 @@
     {
       "en": "There is milk in the fridge.",
       "fr": "Il y a du lait dans le frigo.",
-      "vocab": []
+      "vocab": [
+        { "fr": "lait", "en": "milk" },
+        { "fr": "frigo", "en": "fridge" }
+      ]
     },
     {
       "en": "There is bread on the table.",
       "fr": "Il y a du pain sur la table.",
-      "vocab": []
+      "vocab": [
+        { "fr": "pain", "en": "bread" },
+        { "fr": "table", "en": "table" }
+      ]
     },
     {
       "en": "There are eggs in the basket.",
       "fr": "Il y a des œufs dans le panier.",
-      "vocab": []
+      "vocab": [
+        { "fr": "œuf", "en": "egg" },
+        { "fr": "panier", "en": "basket" }
+      ]
     },
     {
       "en": "There is cheese in the fridge.",
       "fr": "Il y a du fromage dans le frigo.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fromage", "en": "cheese" },
+        { "fr": "frigo", "en": "fridge" }
+      ]
     },
     {
       "en": "There is coffee in the kitchen.",
       "fr": "Il y a du café dans la cuisine.",
-      "vocab": []
+      "vocab": [
+        { "fr": "café", "en": "coffee" },
+        { "fr": "cuisine", "en": "kitchen" }
+      ]
     },
     {
       "en": "There are apples on the counter.",
       "fr": "Il y a des pommes sur le comptoir.",
       "vocab": [
-        { "fr": "comptoir", "en": "counter" }
+        { "fr": "comptoir", "en": "counter" },
+        { "fr": "pomme", "en": "apple" }
       ]
     },
     {
       "en": "There is water in the glass.",
       "fr": "Il y a de l'eau dans le verre.",
       "vocab": [
-        { "fr": "verre", "en": "glass" }
+        { "fr": "verre", "en": "glass" },
+        { "fr": "eau", "en": "water" }
       ]
     },
     {
       "en": "There is a cake on the table.",
       "fr": "Il y a un gâteau sur la table.",
-      "vocab": []
+      "vocab": [
+        { "fr": "gâteau", "en": "cake" },
+        { "fr": "table", "en": "table" }
+      ]
     },
     {
       "en": "There are plates in the cupboard.",

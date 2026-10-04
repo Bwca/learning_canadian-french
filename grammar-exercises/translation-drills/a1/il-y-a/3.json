@@ -11,47 +11,74 @@
     {
       "en": "Is there a cat in the garden?",
       "fr": "Est-ce qu'il y a un chat dans le jardin?",
-      "vocab": []
+      "vocab": [
+        { "fr": "chat", "en": "cat" },
+        { "fr": "jardin", "en": "garden" }
+      ]
     },
     {
       "en": "Is there a book on the table?",
       "fr": "Est-ce qu'il y a un livre sur la table?",
-      "vocab": []
+      "vocab": [
+        { "fr": "livre", "en": "book" },
+        { "fr": "table", "en": "table" }
+      ]
     },
     {
       "en": "Are there apples in the basket?",
       "fr": "Est-ce qu'il y a des pommes dans le panier?",
-      "vocab": []
+      "vocab": [
+        { "fr": "pomme", "en": "apple" },
+        { "fr": "panier", "en": "basket" }
+      ]
     },
     {
       "en": "Is there a student in the classroom?",
       "fr": "Est-ce qu'il y a un étudiant dans la salle de classe?",
-      "vocab": []
+      "vocab": [
+        { "fr": "étudiant", "en": "student" },
+        { "fr": "salle de classe", "en": "classroom" }
+      ]
     },
     {
       "en": "Are there children in the park?",
       "fr": "Est-ce qu'il y a des enfants dans le parc?",
-      "vocab": []
+      "vocab": [
+        { "fr": "enfant", "en": "child" },
+        { "fr": "parc", "en": "park" }
+      ]
     },
     {
       "en": "Is there a car in front of the house?",
       "fr": "Est-ce qu'il y a une voiture devant la maison?",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" },
+        { "fr": "maison", "en": "house" }
+      ]
     },
     {
       "en": "Are there eggs in the fridge?",
       "fr": "Est-ce qu'il y a des œufs dans le frigo?",
-      "vocab": []
+      "vocab": [
+        { "fr": "œuf", "en": "egg" },
+        { "fr": "frigo", "en": "fridge" }
+      ]
     },
     {
       "en": "Is there a dog in the garden?",
       "fr": "Est-ce qu'il y a un chien dans le jardin?",
-      "vocab": []
+      "vocab": [
+        { "fr": "chien", "en": "dog" },
+        { "fr": "jardin", "en": "garden" }
+      ]
     },
     {
       "en": "Is there a phone on the table?",
       "fr": "Est-ce qu'il y a un téléphone sur la table?",
-      "vocab": []
+      "vocab": [
+        { "fr": "téléphone", "en": "phone" },
+        { "fr": "table", "en": "table" }
+      ]
     }
   ]
 }

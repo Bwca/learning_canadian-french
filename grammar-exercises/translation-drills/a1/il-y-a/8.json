@@ -4,12 +4,18 @@
     {
       "en": "There is a tree in the garden.",
       "fr": "Il y a un arbre dans le jardin.",
-      "vocab": []
+      "vocab": [
+        { "fr": "arbre", "en": "tree" },
+        { "fr": "jardin", "en": "garden" }
+      ]
     },
     {
       "en": "There are flowers in the park.",
       "fr": "Il y a des fleurs dans le parc.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fleur", "en": "flower" },
+        { "fr": "parc", "en": "park" }
+      ]
     },
     {
       "en": "There is a lake near the forest.",
@@ -23,24 +29,32 @@
       "en": "There are mountains in the distance.",
       "fr": "Il y a des montagnes au loin.",
       "vocab": [
-        { "fr": "au loin", "en": "in the distance" }
+        { "fr": "au loin", "en": "in the distance" },
+        { "fr": "montagne", "en": "mountain" }
       ]
     },
     {
       "en": "There is a river behind the house.",
       "fr": "Il y a une rivière derrière la maison.",
-      "vocab": []
+      "vocab": [
+        { "fr": "rivière", "en": "river" },
+        { "fr": "maison", "en": "house" }
+      ]
     },
     {
       "en": "There are birds in the trees.",
       "fr": "Il y a des oiseaux dans les arbres.",
-      "vocab": []
+      "vocab": [
+        { "fr": "oiseau", "en": "bird" },
+        { "fr": "arbre", "en": "tree" }
+      ]
     },
     {
       "en": "There is a path in the forest.",
       "fr": "Il y a un chemin dans la forêt.",
       "vocab": [
-        { "fr": "chemin", "en": "path" }
+        { "fr": "chemin", "en": "path" },
+        { "fr": "forêt", "en": "forest" }
       ]
     },
     {
@@ -61,7 +75,8 @@
       "en": "There are animals in the field.",
       "fr": "Il y a des animaux dans le champ.",
       "vocab": [
-        { "fr": "champ", "en": "field" }
+        { "fr": "champ", "en": "field" },
+        { "fr": "animal", "en": "animal" }
       ]
     }
   ]

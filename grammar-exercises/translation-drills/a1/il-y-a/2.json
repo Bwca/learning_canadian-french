@@ -11,7 +11,9 @@
     {
       "en": "There are no apples.",
       "fr": "Il n'y a pas de pommes.",
-      "vocab": []
+      "vocab": [
+        { "fr": "pomme", "en": "apple" }
+      ]
     },
     {
       "en": "There is no milk.",
@@ -23,7 +25,9 @@
     {
       "en": "There are no eggs.",
       "fr": "Il n'y a pas d'œufs.",
-      "vocab": []
+      "vocab": [
+        { "fr": "œuf", "en": "egg" }
+      ]
     },
     {
       "en": "There is no cheese.",
@@ -42,17 +46,24 @@
     {
       "en": "There are no children in the park.",
       "fr": "Il n'y a pas d'enfants dans le parc.",
-      "vocab": []
+      "vocab": [
+        { "fr": "enfant", "en": "child" },
+        { "fr": "parc", "en": "park" }
+      ]
     },
     {
       "en": "There is no table.",
       "fr": "Il n'y a pas de table.",
-      "vocab": []
+      "vocab": [
+        { "fr": "table", "en": "table" }
+      ]
     },
     {
       "en": "There are no books.",
       "fr": "Il n'y a pas de livres.",
-      "vocab": []
+      "vocab": [
+        { "fr": "livre", "en": "book" }
+      ]
     },
     {
       "en": "There is no snow today.",
