@@ -1,0 +1,50 @@
+crayon	pencil
+cuisine	kitchen
+cuisinier	cook
+célèbre	famous
+dans	in
+de	from
+de beaux	beautiful (des becomes de before a plural adjective + noun)
+demi-frère	half-brother
+derrière	behind
+des	of the (de + les)
+devant	in front of
+dictionnaire	dictionary
+dix	ten
+dix-huit	eighteen
+dix-neuf	nineteen
+dollar	dollar
+douze	twelve
+drôle	funny
+du	of the (de + le)
+du matin	in the morning
+eau	water
+en haut	upstairs
+en retard	late
+enfant	child
+escalier	staircase
+espagnol	Spanish
+excité	excited
+famille	family
+fatigué	tired
+fatiguée	tired (fem.)
+femme	wife / woman
+fenêtre	window
+fermée	closed (fem.)
+fier	proud
+fille	girl / daughter
+film	movie
+fils	son (same spelling in plural)
+fleur	flower
+fort	strong
+forêt	forest
+foulard	scarf
+frais	fresh
+français	French
+française	French (fem.)
+frigo	fridge
+froid	cold (noun)
+froide	cold (fem.)
+fromage	cheese
+frère	brother
+gant	glove

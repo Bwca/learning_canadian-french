@@ -1,0 +1,50 @@
+rivière	river
+robe	dress
+ronde	round (fem.)
+rose	pink
+rouge	red
+route	road
+rue	street
+règle	ruler
+sa	his/her (fem. singular)
+sac	bag
+sac à dos	backpack
+salle	room
+salle de bain	bathroom
+salle de classe	classroom
+salon	living room
+samedi	Saturday
+seize	sixteen
+sept	seven
+serpent	snake
+ses	his/her (plural)
+seul	alone
+six	six
+soixante	sixty
+soixante-dix	seventy
+soleil	sun
+son	his/her (masc. singular)
+soupe	soup
+sous	under
+strict	strict
+stylo	pen
+sucre	sugar
+sur	on
+sympathique	friendly
+sœur	sister
+ta	your (fem. singular, informal)
+table	table
+tableau	board
+tante	aunt
+tard	late
+temps	time / weather
+tes	your (plural, informal)
+thé	tea
+toilettes	bathroom/toilet
+toit	roof
+ton	your (masc. singular, informal)
+ton amie	your friend (fem.) — ton, not ta, before a vowel sound
+tortue	turtle
+touriste	tourist
+travail	work
+travailler	to work

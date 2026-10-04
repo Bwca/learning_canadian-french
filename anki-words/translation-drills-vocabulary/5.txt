@@ -1,0 +1,50 @@
+lit	bed
+livre	book
+loin d'ici	far from here
+long	long
+lourd	heavy
+lundi	Monday
+lune	moon
+légume	vegetable
+ma	my (fem. singular)
+magasin	store / shop
+maison	house
+malade	sick
+manger	to eat
+manuel	textbook
+marché	market
+mari	husband
+marqueur	marker
+marron	brown (never changes form)
+mer	sea
+mes	my (plural)
+mexicain	Mexican
+mexicaine	Mexican (fem.)
+midi	noon
+minuit	midnight
+mon	my (masc. singular)
+monde	people / crowd
+montagne	mountain
+montre	watch
+mur	wall
+musique	music
+musée	museum
+mère	mother
+médecin	doctor
+neige	snow
+nerveuse	nervous (fem.)
+nerveux	nervous
+neuf	nine
+neuves	new (fem. pl.)
+neveu	nephew
+nièce	niece
+noir	black
+noire	black (fem.)
+nom	name
+nos	our (plural)
+notre	our (singular)
+nouveau	new
+nouveau / nouveaux	new
+nouvelle	new (fem.)
+nouvelles	news
+nuage	cloud

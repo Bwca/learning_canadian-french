@@ -1,0 +1,50 @@
+acteur	actor
+aimer	to like / to love
+allemand	German
+ami	friend
+amie	friend (fem.)
+américain	American
+an	year
+anglais	English
+animal	animal
+animaux	animals
+araignée	spider
+arbre	tree
+argent	money
+armoire	cupboard
+artiste	artist
+assiette	plate
+au	to/at the (à + le)
+au loin	in the distance
+aujourd'hui	today
+automne	autumn/fall
+autour de	around
+aux	at/to the (à + les)
+avoir besoin de	to need
+avoir chaud	to be hot
+avoir de la chance	to be lucky
+avoir envie de	to feel like
+avoir faim	to be hungry
+avoir froid	to be cold
+avoir honte	to be ashamed
+avoir hâte	to look forward to / can't wait
+avoir l'air	to look/seem
+avoir mal à	to have pain in
+avoir peur	to be afraid
+avoir raison	to be right
+avoir soif	to be thirsty
+avoir sommeil	to be sleepy
+avoir tort	to be wrong
+banque	bank
+beau	beautiful
+beau-père	stepfather/father-in-law
+beaucoup de	a lot of / many
+beaux	beautiful (masc. plural)
+belle	beautiful (fem.)
+belle-mère	stepmother/mother-in-law
+bibliothèque	library
+bijou	jewel
+bijoux	jewels (irregular plural)
+blanche	white (fem.)
+bleu	blue
+bol	bowl
