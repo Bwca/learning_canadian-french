@@ -67,6 +67,8 @@
       "en": "The children are in the garden.",
       "fr": "Les enfants sont dans le jardin.",
       "vocab": [
+        { "fr": "enfant", "en": "child" },
+        { "fr": "dans", "en": "in" },
         { "fr": "jardin", "en": "garden" }
       ]
     },

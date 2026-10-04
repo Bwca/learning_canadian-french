@@ -40,6 +40,7 @@
       "en": "You (informal) are happy today.",
       "fr": "Tu es content aujourd'hui.",
       "vocab": [
+        { "fr": "content", "en": "happy" },
         { "fr": "aujourd'hui", "en": "today" }
       ]
     },
@@ -54,7 +55,8 @@
       "en": "The children are quiet.",
       "fr": "Les enfants sont calmes.",
       "vocab": [
-        { "fr": "enfant", "en": "child" }
+        { "fr": "enfant", "en": "child" },
+        { "fr": "calme", "en": "calm" }
       ]
     },
     {

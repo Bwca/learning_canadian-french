@@ -53,7 +53,9 @@
     {
       "en": "I am from Quebec City.",
       "fr": "Je suis de Québec.",
-      "vocab": []
+      "vocab": [
+        { "fr": "de", "en": "from" }
+      ]
     },
     {
       "en": "She is Italian.",

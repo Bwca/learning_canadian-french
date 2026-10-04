@@ -4,44 +4,64 @@
     {
       "en": "The pen is blue.",
       "fr": "Le stylo est bleu.",
-      "vocab": []
+      "vocab": [
+        { "fr": "stylo", "en": "pen" },
+        { "fr": "bleu", "en": "blue" }
+      ]
     },
     {
       "en": "The bag is brown.",
       "fr": "Le sac est marron.",
-      "vocab": []
+      "vocab": [
+        { "fr": "sac", "en": "bag" },
+        { "fr": "marron", "en": "brown" }
+      ]
     },
     {
       "en": "The shoes are white.",
       "fr": "Les chaussures sont blanches.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chaussure", "en": "shoe" },
+        { "fr": "blanche", "en": "white (fem.)" }
+      ]
     },
     {
       "en": "The car is grey.",
       "fr": "La voiture est grise.",
       "vocab": [
+        { "fr": "voiture", "en": "car" },
         { "fr": "grise", "en": "grey (fem.)" }
       ]
     },
     {
       "en": "The flowers are yellow.",
       "fr": "Les fleurs sont jaunes.",
-      "vocab": []
+      "vocab": [
+        { "fr": "fleur", "en": "flower" },
+        { "fr": "jaune", "en": "yellow" }
+      ]
     },
     {
       "en": "The jacket is black.",
       "fr": "La veste est noire.",
-      "vocab": []
+      "vocab": [
+        { "fr": "veste", "en": "jacket" },
+        { "fr": "noire", "en": "black (fem.)" }
+      ]
     },
     {
       "en": "The table is orange.",
       "fr": "La table est orange.",
-      "vocab": []
+      "vocab": [
+        { "fr": "table", "en": "table" },
+        { "fr": "orange", "en": "orange" }
+      ]
     },
     {
       "en": "The books are purple.",
       "fr": "Les livres sont violets.",
       "vocab": [
+        { "fr": "livre", "en": "book" },
         { "fr": "violet", "en": "purple" }
       ]
     },
@@ -49,13 +69,17 @@
       "en": "The house is pink.",
       "fr": "La maison est rose.",
       "vocab": [
+        { "fr": "maison", "en": "house" },
         { "fr": "rose", "en": "pink" }
       ]
     },
     {
       "en": "The hat is green.",
       "fr": "Le chapeau est vert.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chapeau", "en": "hat" },
+        { "fr": "vert", "en": "green" }
+      ]
     }
   ]
 }

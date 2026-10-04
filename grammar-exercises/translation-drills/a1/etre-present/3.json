@@ -45,21 +45,24 @@
       "en": "The friends (fem.) are kind.",
       "fr": "Les amies sont gentilles.",
       "vocab": [
-        { "fr": "amie", "en": "friend (fem.)" }
+        { "fr": "amie", "en": "friend (fem.)" },
+        { "fr": "gentille", "en": "kind (fem.)" }
       ]
     },
     {
       "en": "The chairs are small.",
       "fr": "Les chaises sont petites.",
       "vocab": [
-        { "fr": "chaise", "en": "chair" }
+        { "fr": "chaise", "en": "chair" },
+        { "fr": "petite", "en": "small (fem.)" }
       ]
     },
     {
       "en": "The students (masc.) are ready.",
       "fr": "Les étudiants sont prêts.",
       "vocab": [
-        { "fr": "étudiant", "en": "student" }
+        { "fr": "étudiant", "en": "student" },
+        { "fr": "prêt", "en": "ready" }
       ]
     },
     {
@@ -74,6 +77,7 @@
       "en": "The tables are round.",
       "fr": "Les tables sont rondes.",
       "vocab": [
+        { "fr": "table", "en": "table" },
         { "fr": "ronde", "en": "round (fem.)" }
       ]
     }

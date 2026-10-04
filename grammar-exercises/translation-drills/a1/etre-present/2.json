@@ -21,6 +21,7 @@
       "en": "The student (masc.) is small.",
       "fr": "L'étudiant est petit.",
       "vocab": [
+        { "fr": "étudiant", "en": "student" },
         { "fr": "petit", "en": "small" }
       ]
     },
@@ -28,6 +29,7 @@
       "en": "The student (fem.) is small.",
       "fr": "L'étudiante est petite.",
       "vocab": [
+        { "fr": "étudiante", "en": "student (fem.)" },
         { "fr": "petite", "en": "small (fem.)" }
       ]
     },
@@ -51,14 +53,16 @@
       "en": "The parents are tall.",
       "fr": "Les parents sont grands.",
       "vocab": [
-        { "fr": "parents", "en": "parents" }
+        { "fr": "parents", "en": "parents" },
+        { "fr": "grand", "en": "tall" }
       ]
     },
     {
       "en": "The cousins (fem.) are nice.",
       "fr": "Les cousines sont gentilles.",
       "vocab": [
-        { "fr": "cousine", "en": "cousin (fem.)" }
+        { "fr": "cousine", "en": "cousin (fem.)" },
+        { "fr": "gentille", "en": "nice (fem.)" }
       ]
     },
     {

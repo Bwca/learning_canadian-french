@@ -4,52 +4,83 @@
     {
       "en": "I am a student and I am happy.",
       "fr": "Je suis étudiant et je suis content.",
-      "vocab": []
+      "vocab": [
+        { "fr": "étudiant", "en": "student" },
+        { "fr": "content", "en": "happy" }
+      ]
     },
     {
       "en": "She is Canadian and she is kind.",
       "fr": "Elle est canadienne et elle est gentille.",
-      "vocab": []
+      "vocab": [
+        { "fr": "canadienne", "en": "Canadian (fem.)" },
+        { "fr": "gentille", "en": "kind (fem.)" }
+      ]
     },
     {
       "en": "We are at home.",
       "fr": "Nous sommes à la maison.",
-      "vocab": []
+      "vocab": [
+        { "fr": "à la maison", "en": "at home" }
+      ]
     },
     {
       "en": "The children are tired.",
       "fr": "Les enfants sont fatigués.",
-      "vocab": []
+      "vocab": [
+        { "fr": "enfant", "en": "child" },
+        { "fr": "fatigué", "en": "tired" }
+      ]
     },
     {
       "en": "He is a doctor and he is busy.",
       "fr": "Il est médecin et il est occupé.",
-      "vocab": []
+      "vocab": [
+        { "fr": "médecin", "en": "doctor" },
+        { "fr": "occupé", "en": "busy" }
+      ]
     },
     {
       "en": "The books are new and they are on the table.",
       "fr": "Les livres sont nouveaux et ils sont sur la table.",
-      "vocab": []
+      "vocab": [
+        { "fr": "livre", "en": "book" },
+        { "fr": "nouveau / nouveaux", "en": "new" },
+        { "fr": "sur", "en": "on" },
+        { "fr": "table", "en": "table" }
+      ]
     },
     {
       "en": "You (informal) are tall and strong.",
       "fr": "Tu es grand et fort.",
-      "vocab": []
+      "vocab": [
+        { "fr": "grand", "en": "tall" },
+        { "fr": "fort", "en": "strong" }
+      ]
     },
     {
       "en": "It is ten o'clock and we are ready.",
       "fr": "Il est dix heures et nous sommes prêts.",
-      "vocab": []
+      "vocab": [
+        { "fr": "heure", "en": "o'clock/hour" },
+        { "fr": "prêt", "en": "ready" }
+      ]
     },
     {
       "en": "They (fem.) are nurses.",
       "fr": "Elles sont infirmières.",
-      "vocab": []
+      "vocab": [
+        { "fr": "infirmière", "en": "nurse" }
+      ]
     },
     {
       "en": "The cat is under the table.",
       "fr": "Le chat est sous la table.",
-      "vocab": []
+      "vocab": [
+        { "fr": "chat", "en": "cat" },
+        { "fr": "sous", "en": "under" },
+        { "fr": "table", "en": "table" }
+      ]
     }
   ]
 }

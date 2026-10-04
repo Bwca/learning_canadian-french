@@ -25,36 +25,45 @@
     {
       "en": "It is five o'clock.",
       "fr": "Il est cinq heures.",
-      "vocab": []
+      "vocab": [
+        { "fr": "heure", "en": "o'clock/hour" }
+      ]
     },
     {
       "en": "Today is Monday.",
       "fr": "Aujourd'hui, c'est lundi.",
       "vocab": [
+        { "fr": "aujourd'hui", "en": "today" },
         { "fr": "lundi", "en": "Monday" }
       ]
     },
     {
       "en": "It is ten o'clock.",
       "fr": "Il est dix heures.",
-      "vocab": []
+      "vocab": [
+        { "fr": "heure", "en": "o'clock/hour" }
+      ]
     },
     {
       "en": "Today is Friday.",
       "fr": "Aujourd'hui, c'est vendredi.",
       "vocab": [
+        { "fr": "aujourd'hui", "en": "today" },
         { "fr": "vendredi", "en": "Friday" }
       ]
     },
     {
       "en": "It is one o'clock.",
       "fr": "Il est une heure.",
-      "vocab": []
+      "vocab": [
+        { "fr": "heure", "en": "o'clock/hour" }
+      ]
     },
     {
       "en": "It is eight o'clock in the morning.",
       "fr": "Il est huit heures du matin.",
       "vocab": [
+        { "fr": "heure", "en": "o'clock/hour" },
         { "fr": "du matin", "en": "in the morning" }
       ]
     },

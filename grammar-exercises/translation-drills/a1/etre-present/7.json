@@ -13,13 +13,15 @@
       "en": "Who is the teacher?",
       "fr": "Qui est le professeur?",
       "vocab": [
-        { "fr": "qui", "en": "who" }
+        { "fr": "qui", "en": "who" },
+        { "fr": "professeur", "en": "teacher" }
       ]
     },
     {
       "en": "Where are the shoes?",
       "fr": "Où sont les chaussures?",
       "vocab": [
+        { "fr": "où", "en": "where" },
         { "fr": "chaussure", "en": "shoe" }
       ]
     },
@@ -35,6 +37,7 @@
       "en": "Who is at the door?",
       "fr": "Qui est à la porte?",
       "vocab": [
+        { "fr": "qui", "en": "who" },
         { "fr": "porte", "en": "door" }
       ]
     },
@@ -42,6 +45,7 @@
       "en": "Where is the station?",
       "fr": "Où est la gare?",
       "vocab": [
+        { "fr": "où", "en": "where" },
         { "fr": "gare", "en": "station" }
       ]
     },
@@ -49,23 +53,33 @@
       "en": "Who is tired?",
       "fr": "Qui est fatigué?",
       "vocab": [
+        { "fr": "qui", "en": "who" },
         { "fr": "fatigué", "en": "tired" }
       ]
     },
     {
       "en": "Where are the children?",
       "fr": "Où sont les enfants?",
-      "vocab": []
+      "vocab": [
+        { "fr": "où", "en": "where" },
+        { "fr": "enfant", "en": "child" }
+      ]
     },
     {
       "en": "How is the teacher?",
       "fr": "Comment est le professeur?",
-      "vocab": []
+      "vocab": [
+        { "fr": "comment", "en": "how" },
+        { "fr": "professeur", "en": "teacher" }
+      ]
     },
     {
       "en": "Where is the car?",
       "fr": "Où est la voiture?",
-      "vocab": []
+      "vocab": [
+        { "fr": "où", "en": "where" },
+        { "fr": "voiture", "en": "car" }
+      ]
     }
   ]
 }
