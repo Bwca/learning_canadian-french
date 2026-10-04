@@ -1,4 +1,40 @@
+petite	small (fem.)
+pichet	pitcher
+place	square
+plage	beach
+plante	plant
+pleine	full (fem.)
+pluie	rain
+plusieurs	several
+poisson	fish
+pomme	apple
+pont	bridge
+porte	door
+pot	jar
+poule	chicken/hen
+prix	price (same spelling in plural)
+problème	problem
+professeur	teacher
+professeure	teacher (fem.)
+propre	clean
+près d'ici	near here
+prêt	ready
+père	father
+quarante	forty
+quarante-cinq	forty-five
+quatorze	fourteen
+quatre-vingts	eighty
+quel âge	how old
+quelques	a few / some
+qui	who
+québécois	Québécois
+québécois / québécoise	from Quebec
+rapide	fast
+regarder	to watch
+repas	meal (same spelling in plural)
+restaurant	restaurant
 rivière	river
+riz	rice
 robe	dress
 ronde	round (fem.)
 rose	pink
@@ -6,45 +42,9 @@ rouge	red
 route	road
 rue	street
 règle	ruler
+réfrigérateur	fridge
 sa	his/her (fem. singular)
 sac	bag
 sac à dos	backpack
+salade	salad
 salle	room
-salle de bain	bathroom
-salle de classe	classroom
-salon	living room
-samedi	Saturday
-seize	sixteen
-sept	seven
-serpent	snake
-ses	his/her (plural)
-seul	alone
-six	six
-soixante	sixty
-soixante-dix	seventy
-soleil	sun
-son	his/her (masc. singular)
-soupe	soup
-sous	under
-strict	strict
-stylo	pen
-sucre	sugar
-sur	on
-sympathique	friendly
-sœur	sister
-ta	your (fem. singular, informal)
-table	table
-tableau	board
-tante	aunt
-tard	late
-temps	time / weather
-tes	your (plural, informal)
-thé	tea
-toilettes	bathroom/toilet
-toit	roof
-ton	your (masc. singular, informal)
-ton amie	your friend (fem.) — ton, not ta, before a vowel sound
-tortue	turtle
-touriste	tourist
-travail	work
-travailler	to work

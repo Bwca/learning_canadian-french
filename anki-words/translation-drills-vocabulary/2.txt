@@ -1,5 +1,13 @@
+beurre	butter
+bibliothèque	library
+bijou	jewel
+bijoux	jewels (irregular plural)
+blanche	white (fem.)
+bleu	blue
+bol	bowl
 bonne	good (fem.)
 botte	boot
+bouteille	bottle
 brillant	bright
 brouillard	fog
 bruit	noise
@@ -14,10 +22,15 @@ calculatrice	calculator
 calme	calm / quiet
 canadien	Canadian
 canadienne	Canadian (fem.)
-ce soir	tonight
+casserole	pot
+ce matin	this morning
+ce soir	tonight / this evening
+ce week-end	this weekend
 ceinture	belt
 centre-ville	downtown
+cette semaine	this week
 chaise	chair
+chaleur	heat
 chambre	bedroom / room
 champ	field
 chapeau	hat
@@ -35,16 +48,3 @@ château	castle
 châteaux	castles
 ciel	sky
 cinq	five
-cinquante	fifty
-cinéma	movies / cinema
-clé	key
-comment	how
-comptoir	counter
-content	happy
-contente	happy (fem.)
-contentes	happy (fem. pl.)
-correct	right / correct
-couleur	color
-couloir	hallway
-cousin	cousin
-cousine	cousin (fem.)

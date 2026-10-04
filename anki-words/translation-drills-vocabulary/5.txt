@@ -1,3 +1,34 @@
+huile	oil
+huit	eight
+hôpital	hospital
+ici	here
+idée	idea
+il y a	there is / there are
+infirmière	nurse
+ingénieur	engineer
+inquiet	worried
+intéressant	interesting
+italien	Italian
+italienne	Italian (fem.)
+jambon	ham
+jardin	garden
+jaune	yellow
+jeu	game
+jeune	young
+jeux	games
+jouet	toy
+journal	newspaper
+journaux	newspapers
+jumeaux	twins
+jus	juice
+ketchup	ketchup
+lac	lake
+lait	milk
+lampe	lamp
+lapin	rabbit
+les nouvelles	the news
+leur	their
+leurs	their (plural)
 lit	bed
 livre	book
 loin d'ici	far from here
@@ -17,34 +48,3 @@ mari	husband
 marqueur	marker
 marron	brown (never changes form)
 mer	sea
-mes	my (plural)
-mexicain	Mexican
-mexicaine	Mexican (fem.)
-midi	noon
-minuit	midnight
-mon	my (masc. singular)
-monde	people / crowd
-montagne	mountain
-montre	watch
-mur	wall
-musique	music
-musée	museum
-mère	mother
-médecin	doctor
-neige	snow
-nerveuse	nervous (fem.)
-nerveux	nervous
-neuf	nine
-neuves	new (fem. pl.)
-neveu	nephew
-nièce	niece
-noir	black
-noire	black (fem.)
-nom	name
-nos	our (plural)
-notre	our (singular)
-nouveau	new
-nouveau / nouveaux	new
-nouvelle	new (fem.)
-nouvelles	news
-nuage	cloud

@@ -1,8 +1,32 @@
+fatiguée	tired (fem.)
+femme	wife / woman
+fenêtre	window
+fermée	closed (fem.)
+fier	proud
+fille	girl / daughter
+film	movie
+fils	son (same spelling in plural)
+fleur	flower
+fort	strong
+forêt	forest
+foulard	scarf
+frais	fresh
+français	French
+française	French (fem.)
+frigo	fridge
+froid	cold (noun)
+froide	cold (fem.)
+fromage	cheese
+fruit	fruit
+frère	brother
+gant	glove
+garage	garage
 gare	station
 garçon	boy
 genou / genoux	knee / knees (irregular plural)
 gentil	nice / kind
 gentille	nice / kind (fem.)
+glace	ice / ice cream
 gomme	eraser
 grand	big / tall
 grand-mère	grandmother
@@ -11,40 +35,16 @@ grande	big / tall (fem.)
 grands-parents	grandparents
 gris	grey
 grise	grey (fem.)
+grêle	hail
 gâteau	cake
 gâteaux	cakes
 habiter	to live
 hamster	hamster
 haute	high (fem.)
 haïtien	Haitian
+herbe	grass
 heure	o'clock/hour
 hibou	owl
 hiboux	owls (irregular plural)
 hiver	winter
 horloge	clock
-huit	eight
-hôpital	hospital
-ici	here
-idée	idea
-il y a	there is / there are
-infirmière	nurse
-ingénieur	engineer
-inquiet	worried
-intéressant	interesting
-italien	Italian
-italienne	Italian (fem.)
-jardin	garden
-jaune	yellow
-jeu	game
-jeune	young
-jeux	games
-jouet	toy
-journal	newspaper
-journaux	newspapers
-jumeaux	twins
-lac	lake
-lait	milk
-lapin	rabbit
-les nouvelles	the news
-leur	their
-leurs	their (plural)

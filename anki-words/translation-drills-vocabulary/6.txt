@@ -1,3 +1,36 @@
+mes	my (plural)
+mexicain	Mexican
+mexicaine	Mexican (fem.)
+midi	noon
+minuit	midnight
+miroir	mirror
+mon	my (masc. singular)
+monde	people / crowd
+montagne	mountain
+montre	watch
+moutarde	mustard
+mur	wall
+musique	music
+musée	museum
+mère	mother
+médecin	doctor
+neige	snow
+nerveuse	nervous (fem.)
+nerveux	nervous
+neuf	nine
+neuves	new (fem. pl.)
+neveu	nephew
+nièce	niece
+noir	black / dark
+noire	black (fem.)
+nom	name
+nos	our (plural)
+notre	our (singular)
+nouveau	new
+nouveau / nouveaux	new
+nouvelle	new (fem.)
+nouvelles	news
+nuage	cloud
 occupé	busy
 occupée	busy (fem.)
 oiseau	bird
@@ -15,36 +48,3 @@ parents	parents
 parler	to speak
 perdue	lost
 petit	small
-petite	small (fem.)
-place	square
-plage	beach
-plante	plant
-pleine	full (fem.)
-pluie	rain
-plusieurs	several
-poisson	fish
-pomme	apple
-pont	bridge
-porte	door
-poule	chicken/hen
-prix	price (same spelling in plural)
-problème	problem
-professeur	teacher
-professeure	teacher (fem.)
-propre	clean
-près d'ici	near here
-prêt	ready
-père	father
-quarante	forty
-quarante-cinq	forty-five
-quatorze	fourteen
-quatre-vingts	eighty
-quel âge	how old
-quelques	a few / some
-qui	who
-québécois	Québécois
-québécois / québécoise	from Quebec
-rapide	fast
-regarder	to watch
-repas	meal (same spelling in plural)
-restaurant	restaurant
