@@ -5,28 +5,42 @@
       "en": "My bag is heavy.",
       "fr": "Mon sac est lourd.",
       "vocab": [
+        { "fr": "mon", "en": "my (masc. singular)" },
+        { "fr": "sac", "en": "bag" },
         { "fr": "lourd", "en": "heavy" }
       ]
     },
     {
       "en": "Your (informal) pencil is yellow.",
       "fr": "Ton crayon est jaune.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ton", "en": "your (masc. singular, informal)" },
+        { "fr": "crayon", "en": "pencil" },
+        { "fr": "jaune", "en": "yellow" }
+      ]
     },
     {
       "en": "His phone is new.",
       "fr": "Son téléphone est neuf.",
-      "vocab": []
+      "vocab": [
+        { "fr": "son", "en": "his/her (masc. singular)" },
+        { "fr": "téléphone", "en": "phone" }
+      ]
     },
     {
       "en": "Her umbrella is red.",
       "fr": "Son parapluie est rouge.",
-      "vocab": []
+      "vocab": [
+        { "fr": "son", "en": "his/her (masc. singular)" },
+        { "fr": "parapluie", "en": "umbrella" }
+      ]
     },
     {
       "en": "Our chairs are old.",
       "fr": "Nos chaises sont vieilles.",
       "vocab": [
+        { "fr": "nos", "en": "our (plural)" },
+        { "fr": "chaise", "en": "chair" },
         { "fr": "vieille", "en": "old (fem.)" }
       ]
     },
@@ -34,6 +48,8 @@
       "en": "Your (formal) computer is fast.",
       "fr": "Votre ordinateur est rapide.",
       "vocab": [
+        { "fr": "votre", "en": "your (formal, singular)" },
+        { "fr": "ordinateur", "en": "computer" },
         { "fr": "rapide", "en": "fast" }
       ]
     },
@@ -41,23 +57,33 @@
       "en": "Their keys are lost.",
       "fr": "Leurs clés sont perdues.",
       "vocab": [
+        { "fr": "leurs", "en": "their (plural)" },
+        { "fr": "clé", "en": "key" },
         { "fr": "perdue", "en": "lost" }
       ]
     },
     {
       "en": "My shoes are new.",
       "fr": "Mes chaussures sont neuves.",
-      "vocab": []
+      "vocab": [
+        { "fr": "mes", "en": "my (plural)" },
+        { "fr": "chaussure", "en": "shoe" }
+      ]
     },
     {
       "en": "Your (informal) watch is beautiful.",
       "fr": "Ta montre est belle.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ta", "en": "your (fem. singular, informal)" },
+        { "fr": "montre", "en": "watch" }
+      ]
     },
     {
       "en": "His notebook is on the desk.",
       "fr": "Son cahier est sur le bureau.",
       "vocab": [
+        { "fr": "son", "en": "his/her (masc. singular)" },
+        { "fr": "cahier", "en": "notebook" },
         { "fr": "bureau", "en": "desk" }
       ]
     }

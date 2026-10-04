@@ -5,69 +5,83 @@
       "en": "How old is your (informal) brother?",
       "fr": "Quel âge a ton frère?",
       "vocab": [
-        { "fr": "ton", "en": "your (masc. singular, informal)" }
+        { "fr": "quel âge", "en": "how old" },
+        { "fr": "ton", "en": "your (masc. singular, informal)" },
+        { "fr": "frère", "en": "brother" }
       ]
     },
     {
       "en": "Your (informal) sister is nice.",
       "fr": "Ta sœur est gentille.",
       "vocab": [
-        { "fr": "ta", "en": "your (fem. singular, informal)" }
+        { "fr": "ta", "en": "your (fem. singular, informal)" },
+        { "fr": "sœur", "en": "sister" }
       ]
     },
     {
       "en": "His book is on the table.",
       "fr": "Son livre est sur la table.",
       "vocab": [
-        { "fr": "son", "en": "his/her (masc. singular)" }
+        { "fr": "son", "en": "his/her (masc. singular)" },
+        { "fr": "livre", "en": "book" },
+        { "fr": "table", "en": "table" }
       ]
     },
     {
       "en": "Her car is red.",
       "fr": "Sa voiture est rouge.",
       "vocab": [
-        { "fr": "sa", "en": "his/her (fem. singular)" }
+        { "fr": "sa", "en": "his/her (fem. singular)" },
+        { "fr": "voiture", "en": "car" }
       ]
     },
     {
       "en": "His shoes are black.",
       "fr": "Ses chaussures sont noires.",
       "vocab": [
-        { "fr": "ses", "en": "his/her (plural)" }
+        { "fr": "ses", "en": "his/her (plural)" },
+        { "fr": "chaussure", "en": "shoe" }
       ]
     },
     {
       "en": "Our house is big.",
       "fr": "Notre maison est grande.",
       "vocab": [
-        { "fr": "notre", "en": "our (singular)" }
+        { "fr": "notre", "en": "our (singular)" },
+        { "fr": "maison", "en": "house" }
       ]
     },
     {
       "en": "Our friends (masc.) are kind.",
       "fr": "Nos amis sont gentils.",
       "vocab": [
-        { "fr": "nos", "en": "our (plural)" }
+        { "fr": "nos", "en": "our (plural)" },
+        { "fr": "ami", "en": "friend" }
       ]
     },
     {
       "en": "Your (formal) children are happy.",
       "fr": "Vos enfants sont contents.",
       "vocab": [
-        { "fr": "vos", "en": "your (formal/plural)" }
+        { "fr": "vos", "en": "your (formal/plural)" },
+        { "fr": "enfant", "en": "child" }
       ]
     },
     {
       "en": "Their (masc.) cat is black.",
       "fr": "Leur chat est noir.",
       "vocab": [
-        { "fr": "leur", "en": "their" }
+        { "fr": "leur", "en": "their" },
+        { "fr": "chat", "en": "cat" }
       ]
     },
     {
       "en": "Her shoes are new.",
       "fr": "Ses chaussures sont neuves.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ses", "en": "his/her (plural)" },
+        { "fr": "chaussure", "en": "shoe" }
+      ]
     }
   ]
 }

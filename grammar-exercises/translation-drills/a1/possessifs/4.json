@@ -4,52 +4,84 @@
     {
       "en": "His book is on the table.",
       "fr": "Son livre est sur la table.",
-      "vocab": []
+      "vocab": [
+        { "fr": "son", "en": "his/her (masc. singular)" },
+        { "fr": "livre", "en": "book" },
+        { "fr": "table", "en": "table" }
+      ]
     },
     {
       "en": "Her car is red.",
       "fr": "Sa voiture est rouge.",
-      "vocab": []
+      "vocab": [
+        { "fr": "sa", "en": "his/her (fem. singular)" },
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "His shoes are black.",
       "fr": "Ses chaussures sont noires.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ses", "en": "his/her (plural)" },
+        { "fr": "chaussure", "en": "shoe" }
+      ]
     },
     {
       "en": "Her brother is tall.",
       "fr": "Son frère est grand.",
-      "vocab": []
+      "vocab": [
+        { "fr": "son", "en": "his/her (masc. singular)" },
+        { "fr": "frère", "en": "brother" }
+      ]
     },
     {
       "en": "His sister is nice.",
       "fr": "Sa sœur est gentille.",
-      "vocab": []
+      "vocab": [
+        { "fr": "sa", "en": "his/her (fem. singular)" },
+        { "fr": "sœur", "en": "sister" }
+      ]
     },
     {
       "en": "Her friend (masc.) is happy.",
       "fr": "Son ami est content.",
-      "vocab": []
+      "vocab": [
+        { "fr": "son", "en": "his/her (masc. singular)" },
+        { "fr": "ami", "en": "friend" }
+      ]
     },
     {
       "en": "His keys are in the bag.",
       "fr": "Ses clés sont dans le sac.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ses", "en": "his/her (plural)" },
+        { "fr": "clé", "en": "key" },
+        { "fr": "sac", "en": "bag" }
+      ]
     },
     {
       "en": "Her parents are kind.",
       "fr": "Ses parents sont gentils.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ses", "en": "his/her (plural)" },
+        { "fr": "parents", "en": "parents" }
+      ]
     },
     {
       "en": "His house is big.",
       "fr": "Sa maison est grande.",
-      "vocab": []
+      "vocab": [
+        { "fr": "sa", "en": "his/her (fem. singular)" },
+        { "fr": "maison", "en": "house" }
+      ]
     },
     {
       "en": "Her idea is good.",
       "fr": "Son idée est bonne.",
-      "vocab": []
+      "vocab": [
+        { "fr": "son", "en": "his/her (masc. singular)" },
+        { "fr": "idée", "en": "idea" }
+      ]
     }
   ]
 }

@@ -4,54 +4,84 @@
     {
       "en": "Your children are happy.",
       "fr": "Vos enfants sont contents.",
-      "vocab": []
+      "vocab": [
+        { "fr": "vos", "en": "your (formal/plural)" },
+        { "fr": "enfant", "en": "child" }
+      ]
     },
     {
       "en": "Your house is big.",
       "fr": "Votre maison est grande.",
-      "vocab": []
+      "vocab": [
+        { "fr": "votre", "en": "your (formal, singular)" },
+        { "fr": "maison", "en": "house" }
+      ]
     },
     {
       "en": "Your car is new.",
       "fr": "Votre voiture est neuve.",
-      "vocab": []
+      "vocab": [
+        { "fr": "votre", "en": "your (formal, singular)" },
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "Your friends (fem.) are kind.",
       "fr": "Vos amies sont gentilles.",
-      "vocab": []
+      "vocab": [
+        { "fr": "vos", "en": "your (formal/plural)" },
+        { "fr": "ami", "en": "friend" }
+      ]
     },
     {
       "en": "Your dog is nice.",
       "fr": "Votre chien est gentil.",
-      "vocab": []
+      "vocab": [
+        { "fr": "votre", "en": "your (formal, singular)" },
+        { "fr": "chien", "en": "dog" }
+      ]
     },
     {
       "en": "Your keys are here.",
       "fr": "Vos clés sont ici.",
-      "vocab": []
+      "vocab": [
+        { "fr": "vos", "en": "your (formal/plural)" },
+        { "fr": "clé", "en": "key" },
+        { "fr": "ici", "en": "here" }
+      ]
     },
     {
       "en": "Your teacher is strict.",
       "fr": "Votre professeur est strict.",
       "vocab": [
+        { "fr": "votre", "en": "your (formal, singular)" },
+        { "fr": "professeur", "en": "teacher" },
         { "fr": "strict", "en": "strict" }
       ]
     },
     {
       "en": "Your parents are tall.",
       "fr": "Vos parents sont grands.",
-      "vocab": []
+      "vocab": [
+        { "fr": "vos", "en": "your (formal/plural)" },
+        { "fr": "parents", "en": "parents" }
+      ]
     },
     {
       "en": "Your garden is beautiful.",
       "fr": "Votre jardin est beau.",
-      "vocab": []
+      "vocab": [
+        { "fr": "votre", "en": "your (formal, singular)" },
+        { "fr": "jardin", "en": "garden" }
+      ]
     },
     {
       "en": "Your books are new.",
       "fr": "Vos livres sont nouveaux.",
-      "vocab": []
+      "vocab": [
+        { "fr": "vos", "en": "your (formal/plural)" },
+        { "fr": "livre", "en": "book" }
+      ]
     }
   ]
 }

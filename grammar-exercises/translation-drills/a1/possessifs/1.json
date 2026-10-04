@@ -21,6 +21,7 @@
       "en": "My father is fifty years old.",
       "fr": "Mon père a cinquante ans.",
       "vocab": [
+        { "fr": "mon", "en": "my (masc. singular)" },
         { "fr": "père", "en": "father" }
       ]
     },
@@ -28,6 +29,7 @@
       "en": "My mother is forty-five years old.",
       "fr": "Ma mère a quarante-cinq ans.",
       "vocab": [
+        { "fr": "ma", "en": "my (fem. singular)" },
         { "fr": "mère", "en": "mother" }
       ]
     },
@@ -37,6 +39,7 @@
       "vocab": [
         { "fr": "mes", "en": "my (plural)" },
         { "fr": "clé", "en": "key" },
+        { "fr": "mon", "en": "my (masc. singular)" },
         { "fr": "sac", "en": "bag" }
       ]
     },
@@ -44,6 +47,7 @@
       "en": "My parents are kind.",
       "fr": "Mes parents sont gentils.",
       "vocab": [
+        { "fr": "mes", "en": "my (plural)" },
         { "fr": "parents", "en": "parents" }
       ]
     },
@@ -51,6 +55,7 @@
       "en": "My cousin (fem.) is nice.",
       "fr": "Ma cousine est gentille.",
       "vocab": [
+        { "fr": "ma", "en": "my (fem. singular)" },
         { "fr": "cousine", "en": "cousin (fem.)" }
       ]
     },
@@ -58,6 +63,7 @@
       "en": "My shoes are black.",
       "fr": "Mes chaussures sont noires.",
       "vocab": [
+        { "fr": "mes", "en": "my (plural)" },
         { "fr": "chaussure", "en": "shoe" }
       ]
     },
@@ -65,13 +71,18 @@
       "en": "My parents are Haitian.",
       "fr": "Mes parents sont haïtiens.",
       "vocab": [
+        { "fr": "mes", "en": "my (plural)" },
+        { "fr": "parents", "en": "parents" },
         { "fr": "haïtien", "en": "Haitian" }
       ]
     },
     {
       "en": "My dog is big.",
       "fr": "Mon chien est grand.",
-      "vocab": []
+      "vocab": [
+        { "fr": "mon", "en": "my (masc. singular)" },
+        { "fr": "chien", "en": "dog" }
+      ]
     }
   ]
 }

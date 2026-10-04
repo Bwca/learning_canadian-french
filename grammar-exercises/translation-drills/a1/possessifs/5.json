@@ -4,54 +4,85 @@
     {
       "en": "Our house is big.",
       "fr": "Notre maison est grande.",
-      "vocab": []
+      "vocab": [
+        { "fr": "notre", "en": "our (singular)" },
+        { "fr": "maison", "en": "house" }
+      ]
     },
     {
       "en": "Our car is new.",
       "fr": "Notre voiture est neuve.",
-      "vocab": []
+      "vocab": [
+        { "fr": "notre", "en": "our (singular)" },
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "Our friends (masc.) are kind.",
       "fr": "Nos amis sont gentils.",
-      "vocab": []
+      "vocab": [
+        { "fr": "nos", "en": "our (plural)" },
+        { "fr": "ami", "en": "friend" }
+      ]
     },
     {
       "en": "Our parents are here.",
       "fr": "Nos parents sont ici.",
-      "vocab": []
+      "vocab": [
+        { "fr": "nos", "en": "our (plural)" },
+        { "fr": "parents", "en": "parents" },
+        { "fr": "ici", "en": "here" }
+      ]
     },
     {
       "en": "Our dog is small.",
       "fr": "Notre chien est petit.",
-      "vocab": []
+      "vocab": [
+        { "fr": "notre", "en": "our (singular)" },
+        { "fr": "chien", "en": "dog" }
+      ]
     },
     {
       "en": "Our books are on the table.",
       "fr": "Nos livres sont sur la table.",
-      "vocab": []
+      "vocab": [
+        { "fr": "nos", "en": "our (plural)" },
+        { "fr": "livre", "en": "book" },
+        { "fr": "table", "en": "table" }
+      ]
     },
     {
       "en": "Our teacher is nice.",
       "fr": "Notre professeur est gentil.",
-      "vocab": []
+      "vocab": [
+        { "fr": "notre", "en": "our (singular)" },
+        { "fr": "professeur", "en": "teacher" }
+      ]
     },
     {
       "en": "Our neighbours are friendly.",
       "fr": "Nos voisins sont sympathiques.",
       "vocab": [
+        { "fr": "nos", "en": "our (plural)" },
+        { "fr": "voisin", "en": "neighbour" },
         { "fr": "sympathique", "en": "friendly" }
       ]
     },
     {
       "en": "Our garden is beautiful.",
       "fr": "Notre jardin est beau.",
-      "vocab": []
+      "vocab": [
+        { "fr": "notre", "en": "our (singular)" },
+        { "fr": "jardin", "en": "garden" }
+      ]
     },
     {
       "en": "Our children are happy.",
       "fr": "Nos enfants sont contents.",
-      "vocab": []
+      "vocab": [
+        { "fr": "nos", "en": "our (plural)" },
+        { "fr": "enfant", "en": "child" }
+      ]
     }
   ]
 }

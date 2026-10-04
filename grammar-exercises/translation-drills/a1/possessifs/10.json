@@ -4,52 +4,84 @@
     {
       "en": "My brother is tall and my sister is small.",
       "fr": "Mon frère est grand et ma sœur est petite.",
-      "vocab": []
+      "vocab": [
+        { "fr": "mon", "en": "my (masc. singular)" },
+        { "fr": "frère", "en": "brother" },
+        { "fr": "ma", "en": "my (fem. singular)" },
+        { "fr": "sœur", "en": "sister" }
+      ]
     },
     {
       "en": "Your (informal) dog is nice.",
       "fr": "Ton chien est gentil.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ton", "en": "your (masc. singular, informal)" },
+        { "fr": "chien", "en": "dog" }
+      ]
     },
     {
       "en": "His car is red.",
       "fr": "Sa voiture est rouge.",
-      "vocab": []
+      "vocab": [
+        { "fr": "sa", "en": "his/her (fem. singular)" },
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "Our house is big.",
       "fr": "Notre maison est grande.",
-      "vocab": []
+      "vocab": [
+        { "fr": "notre", "en": "our (singular)" },
+        { "fr": "maison", "en": "house" }
+      ]
     },
     {
       "en": "Your (formal) children are happy.",
       "fr": "Vos enfants sont contents.",
-      "vocab": []
+      "vocab": [
+        { "fr": "vos", "en": "your (formal/plural)" },
+        { "fr": "enfant", "en": "child" }
+      ]
     },
     {
       "en": "Their cat is black.",
       "fr": "Leur chat est noir.",
-      "vocab": []
+      "vocab": [
+        { "fr": "leur", "en": "their" },
+        { "fr": "chat", "en": "cat" }
+      ]
     },
     {
       "en": "Her idea is good.",
       "fr": "Son idée est bonne.",
-      "vocab": []
+      "vocab": [
+        { "fr": "son", "en": "his/her (masc. singular)" },
+        { "fr": "idée", "en": "idea" }
+      ]
     },
     {
       "en": "My parents are kind.",
       "fr": "Mes parents sont gentils.",
-      "vocab": []
+      "vocab": [
+        { "fr": "mes", "en": "my (plural)" },
+        { "fr": "parents", "en": "parents" }
+      ]
     },
     {
       "en": "Our friends (fem.) are nice.",
       "fr": "Nos amies sont gentilles.",
-      "vocab": []
+      "vocab": [
+        { "fr": "nos", "en": "our (plural)" },
+        { "fr": "ami", "en": "friend" }
+      ]
     },
     {
       "en": "Their garden is beautiful.",
       "fr": "Leur jardin est beau.",
-      "vocab": []
+      "vocab": [
+        { "fr": "leur", "en": "their" },
+        { "fr": "jardin", "en": "garden" }
+      ]
     }
   ]
 }

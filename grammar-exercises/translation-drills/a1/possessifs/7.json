@@ -4,52 +4,84 @@
     {
       "en": "Their cat is black.",
       "fr": "Leur chat est noir.",
-      "vocab": []
+      "vocab": [
+        { "fr": "leur", "en": "their" },
+        { "fr": "chat", "en": "cat" }
+      ]
     },
     {
       "en": "Their house is big.",
       "fr": "Leur maison est grande.",
-      "vocab": []
+      "vocab": [
+        { "fr": "leur", "en": "their" },
+        { "fr": "maison", "en": "house" }
+      ]
     },
     {
       "en": "Their children are happy.",
       "fr": "Leurs enfants sont contents.",
-      "vocab": []
+      "vocab": [
+        { "fr": "leurs", "en": "their (plural)" },
+        { "fr": "enfant", "en": "child" }
+      ]
     },
     {
       "en": "Their car is new.",
       "fr": "Leur voiture est neuve.",
-      "vocab": []
+      "vocab": [
+        { "fr": "leur", "en": "their" },
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "Their books are on the table.",
       "fr": "Leurs livres sont sur la table.",
-      "vocab": []
+      "vocab": [
+        { "fr": "leurs", "en": "their (plural)" },
+        { "fr": "livre", "en": "book" },
+        { "fr": "table", "en": "table" }
+      ]
     },
     {
       "en": "Their dog is small.",
       "fr": "Leur chien est petit.",
-      "vocab": []
+      "vocab": [
+        { "fr": "leur", "en": "their" },
+        { "fr": "chien", "en": "dog" }
+      ]
     },
     {
       "en": "Their parents are kind.",
       "fr": "Leurs parents sont gentils.",
-      "vocab": []
+      "vocab": [
+        { "fr": "leurs", "en": "their (plural)" },
+        { "fr": "parents", "en": "parents" }
+      ]
     },
     {
       "en": "Their garden is beautiful.",
       "fr": "Leur jardin est beau.",
-      "vocab": []
+      "vocab": [
+        { "fr": "leur", "en": "their" },
+        { "fr": "jardin", "en": "garden" }
+      ]
     },
     {
       "en": "Their friends (masc.) are nice.",
       "fr": "Leurs amis sont gentils.",
-      "vocab": []
+      "vocab": [
+        { "fr": "leurs", "en": "their (plural)" },
+        { "fr": "ami", "en": "friend" }
+      ]
     },
     {
       "en": "Their teacher is strict.",
       "fr": "Leur professeur est strict.",
-      "vocab": []
+      "vocab": [
+        { "fr": "leur", "en": "their" },
+        { "fr": "professeur", "en": "teacher" },
+        { "fr": "strict", "en": "strict" }
+      ]
     }
   ]
 }

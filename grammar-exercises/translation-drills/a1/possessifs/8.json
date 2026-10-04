@@ -4,58 +4,87 @@
     {
       "en": "My mother is kind.",
       "fr": "Ma mère est gentille.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ma", "en": "my (fem. singular)" },
+        { "fr": "mère", "en": "mother" }
+      ]
     },
     {
       "en": "Your (informal) father is tall.",
       "fr": "Ton père est grand.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ton", "en": "your (masc. singular, informal)" },
+        { "fr": "père", "en": "father" }
+      ]
     },
     {
       "en": "His grandmother is eighty years old.",
       "fr": "Sa grand-mère a quatre-vingts ans.",
       "vocab": [
+        { "fr": "sa", "en": "his/her (fem. singular)" },
+        { "fr": "grand-mère", "en": "grandmother" },
         { "fr": "quatre-vingts", "en": "eighty" }
       ]
     },
     {
       "en": "Her grandfather is seventy years old.",
       "fr": "Son grand-père a soixante-dix ans.",
-      "vocab": []
+      "vocab": [
+        { "fr": "son", "en": "his/her (masc. singular)" },
+        { "fr": "grand-père", "en": "grandfather" }
+      ]
     },
     {
       "en": "Our uncle is nice.",
       "fr": "Notre oncle est gentil.",
-      "vocab": []
+      "vocab": [
+        { "fr": "notre", "en": "our (singular)" },
+        { "fr": "oncle", "en": "uncle" }
+      ]
     },
     {
       "en": "Your (formal) aunt is here.",
       "fr": "Votre tante est ici.",
-      "vocab": []
+      "vocab": [
+        { "fr": "votre", "en": "your (formal, singular)" },
+        { "fr": "tante", "en": "aunt" },
+        { "fr": "ici", "en": "here" }
+      ]
     },
     {
       "en": "Their cousins (masc.) are young.",
       "fr": "Leurs cousins sont jeunes.",
       "vocab": [
+        { "fr": "leurs", "en": "their (plural)" },
+        { "fr": "cousin", "en": "cousin" },
         { "fr": "jeune", "en": "young" }
       ]
     },
     {
       "en": "My niece is small.",
       "fr": "Ma nièce est petite.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ma", "en": "my (fem. singular)" },
+        { "fr": "nièce", "en": "niece" }
+      ]
     },
     {
       "en": "Your (informal) nephew is funny.",
       "fr": "Ton neveu est drôle.",
       "vocab": [
+        { "fr": "ton", "en": "your (masc. singular, informal)" },
+        { "fr": "neveu", "en": "nephew" },
         { "fr": "drôle", "en": "funny" }
       ]
     },
     {
       "en": "Her sister is a teacher.",
       "fr": "Sa sœur est professeure.",
-      "vocab": []
+      "vocab": [
+        { "fr": "sa", "en": "his/her (fem. singular)" },
+        { "fr": "sœur", "en": "sister" },
+        { "fr": "professeure", "en": "teacher (fem.)" }
+      ]
     }
   ]
 }

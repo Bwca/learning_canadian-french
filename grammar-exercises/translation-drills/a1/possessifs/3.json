@@ -4,47 +4,75 @@
     {
       "en": "Your dog is nice.",
       "fr": "Ton chien est gentil.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ton", "en": "your (masc. singular, informal)" },
+        { "fr": "chien", "en": "dog" }
+      ]
     },
     {
       "en": "Your car is red.",
       "fr": "Ta voiture est rouge.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ta", "en": "your (fem. singular, informal)" },
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "Your keys are on the table.",
       "fr": "Tes clés sont sur la table.",
-      "vocab": []
+      "vocab": [
+        { "fr": "tes", "en": "your (plural, informal)" },
+        { "fr": "clé", "en": "key" },
+        { "fr": "table", "en": "table" }
+      ]
     },
     {
       "en": "Your brother is tall.",
       "fr": "Ton frère est grand.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ton", "en": "your (masc. singular, informal)" },
+        { "fr": "frère", "en": "brother" }
+      ]
     },
     {
       "en": "Your idea is good.",
       "fr": "Ton idée est bonne.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ton", "en": "your (masc. singular, informal)" },
+        { "fr": "idée", "en": "idea" }
+      ]
     },
     {
       "en": "Your shoes are black.",
       "fr": "Tes chaussures sont noires.",
-      "vocab": []
+      "vocab": [
+        { "fr": "tes", "en": "your (plural, informal)" },
+        { "fr": "chaussure", "en": "shoe" }
+      ]
     },
     {
       "en": "Your sister is nice.",
       "fr": "Ta sœur est gentille.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ta", "en": "your (fem. singular, informal)" },
+        { "fr": "sœur", "en": "sister" }
+      ]
     },
     {
       "en": "Your parents are kind.",
       "fr": "Tes parents sont gentils.",
-      "vocab": []
+      "vocab": [
+        { "fr": "tes", "en": "your (plural, informal)" },
+        { "fr": "parents", "en": "parents" }
+      ]
     },
     {
       "en": "Your house is big.",
       "fr": "Ta maison est grande.",
-      "vocab": []
+      "vocab": [
+        { "fr": "ta", "en": "your (fem. singular, informal)" },
+        { "fr": "maison", "en": "house" }
+      ]
     },
     {
       "en": "Your friend (fem.) is happy.",
