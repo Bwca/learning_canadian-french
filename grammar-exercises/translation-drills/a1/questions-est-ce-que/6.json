@@ -4,52 +4,72 @@
     {
       "en": "Do you (informal) have a car?",
       "fr": "Est-ce que tu as une voiture?",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "Does he have a computer?",
       "fr": "Est-ce qu'il a un ordinateur?",
-      "vocab": []
+      "vocab": [
+        { "fr": "ordinateur", "en": "computer" }
+      ]
     },
     {
       "en": "Does she have a phone?",
       "fr": "Est-ce qu'elle a un téléphone?",
-      "vocab": []
+      "vocab": [
+        { "fr": "téléphone", "en": "phone" }
+      ]
     },
     {
       "en": "Do we have time?",
       "fr": "Est-ce que nous avons le temps?",
-      "vocab": []
+      "vocab": [
+        { "fr": "temps", "en": "time" }
+      ]
     },
     {
       "en": "Do you (formal) have a dog?",
       "fr": "Est-ce que vous avez un chien?",
-      "vocab": []
+      "vocab": [
+        { "fr": "chien", "en": "dog" }
+      ]
     },
     {
       "en": "Do they (masc.) have a house?",
       "fr": "Est-ce qu'ils ont une maison?",
-      "vocab": []
+      "vocab": [
+        { "fr": "maison", "en": "house" }
+      ]
     },
     {
       "en": "Do they (fem.) have keys?",
       "fr": "Est-ce qu'elles ont des clés?",
-      "vocab": []
+      "vocab": [
+        { "fr": "clé", "en": "key" }
+      ]
     },
     {
       "en": "Do you (informal) have a pencil?",
       "fr": "Est-ce que tu as un crayon?",
-      "vocab": []
+      "vocab": [
+        { "fr": "crayon", "en": "pencil" }
+      ]
     },
     {
       "en": "Does she have a bag?",
       "fr": "Est-ce qu'elle a un sac?",
-      "vocab": []
+      "vocab": [
+        { "fr": "sac", "en": "bag" }
+      ]
     },
     {
       "en": "Does he have a bike?",
       "fr": "Est-ce qu'il a un vélo?",
-      "vocab": []
+      "vocab": [
+        { "fr": "vélo", "en": "bike" }
+      ]
     }
   ]
 }

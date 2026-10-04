@@ -68,7 +68,9 @@
     {
       "en": "Are they (fem.) ready?",
       "fr": "Est-ce qu'elles sont prêtes?",
-      "vocab": []
+      "vocab": [
+        { "fr": "prêt", "en": "ready" }
+      ]
     }
   ]
 }

@@ -4,52 +4,74 @@
     {
       "en": "Are you (informal) ready?",
       "fr": "Est-ce que tu es prêt?",
-      "vocab": []
+      "vocab": [
+        { "fr": "prêt", "en": "ready" }
+      ]
     },
     {
       "en": "Does he have a car?",
       "fr": "Est-ce qu'il a une voiture?",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "Does she like coffee?",
       "fr": "Est-ce qu'elle aime le café?",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like" },
+        { "fr": "café", "en": "coffee" }
+      ]
     },
     {
       "en": "Do you (informal) live in Montreal?",
       "fr": "Est-ce que tu habites à Montréal?",
-      "vocab": []
+      "vocab": [
+        { "fr": "habiter", "en": "to live" }
+      ]
     },
     {
       "en": "Are we late?",
       "fr": "Est-ce que nous sommes en retard?",
-      "vocab": []
+      "vocab": [
+        { "fr": "en retard", "en": "late" }
+      ]
     },
     {
       "en": "Do they (masc.) have children?",
       "fr": "Est-ce qu'ils ont des enfants?",
-      "vocab": []
+      "vocab": [
+        { "fr": "enfant", "en": "child" }
+      ]
     },
     {
       "en": "Is she Canadian?",
       "fr": "Est-ce qu'elle est canadienne?",
-      "vocab": []
+      "vocab": [
+        { "fr": "canadien", "en": "Canadian" }
+      ]
     },
     {
       "en": "Are you (formal) a teacher?",
       "fr": "Est-ce que vous êtes professeur?",
-      "vocab": []
+      "vocab": [
+        { "fr": "professeur", "en": "teacher" }
+      ]
     },
     {
       "en": "Does he work here?",
       "fr": "Est-ce qu'il travaille ici?",
-      "vocab": []
+      "vocab": [
+        { "fr": "travailler", "en": "to work" },
+        { "fr": "ici", "en": "here" }
+      ]
     },
     {
       "en": "Are they (fem.) happy?",
       "fr": "Est-ce qu'elles sont contentes?",
-      "vocab": []
+      "vocab": [
+        { "fr": "contentes", "en": "happy (fem. pl.)" }
+      ]
     }
   ]
 }

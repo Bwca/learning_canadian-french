@@ -4,12 +4,16 @@
     {
       "en": "Are you (informal) hungry?",
       "fr": "Est-ce que tu as faim?",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir faim", "en": "to be hungry" }
+      ]
     },
     {
       "en": "Is she busy?",
       "fr": "Est-ce qu'elle est occupée?",
-      "vocab": []
+      "vocab": [
+        { "fr": "occupée", "en": "busy (fem.)" }
+      ]
     },
     {
       "en": "Is the bank near here?",
@@ -36,27 +40,37 @@
     {
       "en": "Do you (informal) have a brother?",
       "fr": "Est-ce que tu as un frère?",
-      "vocab": []
+      "vocab": [
+        { "fr": "frère", "en": "brother" }
+      ]
     },
     {
       "en": "Does he have a car?",
       "fr": "Est-ce qu'il a une voiture?",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
     },
     {
       "en": "Do you (informal) have a sister?",
       "fr": "Est-ce que tu as une sœur?",
-      "vocab": []
+      "vocab": [
+        { "fr": "sœur", "en": "sister" }
+      ]
     },
     {
       "en": "Do they (masc.) have children?",
       "fr": "Est-ce qu'ils ont des enfants?",
-      "vocab": []
+      "vocab": [
+        { "fr": "enfant", "en": "child" }
+      ]
     },
     {
       "en": "Do they (fem.) have a car?",
       "fr": "Est-ce qu'elles ont une voiture?",
-      "vocab": []
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
     }
   ]
 }

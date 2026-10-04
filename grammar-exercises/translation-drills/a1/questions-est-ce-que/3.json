@@ -4,52 +4,82 @@
     {
       "en": "Do you (informal) like coffee?",
       "fr": "Est-ce que tu aimes le café?",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like" },
+        { "fr": "café", "en": "coffee" }
+      ]
     },
     {
       "en": "Does he like chocolate?",
       "fr": "Est-ce qu'il aime le chocolat?",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like" },
+        { "fr": "chocolat", "en": "chocolate" }
+      ]
     },
     {
       "en": "Does she like music?",
       "fr": "Est-ce qu'elle aime la musique?",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like" },
+        { "fr": "musique", "en": "music" }
+      ]
     },
     {
       "en": "Do we like the snow?",
       "fr": "Est-ce que nous aimons la neige?",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like" },
+        { "fr": "neige", "en": "snow" }
+      ]
     },
     {
       "en": "Do you (formal) like tea?",
       "fr": "Est-ce que vous aimez le thé?",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like" },
+        { "fr": "thé", "en": "tea" }
+      ]
     },
     {
       "en": "Do they (masc.) like animals?",
       "fr": "Est-ce qu'ils aiment les animaux?",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like" },
+        { "fr": "animal", "en": "animal" }
+      ]
     },
     {
       "en": "Do they (fem.) like the rain?",
       "fr": "Est-ce qu'elles aiment la pluie?",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like" },
+        { "fr": "pluie", "en": "rain" }
+      ]
     },
     {
       "en": "Does he like the city?",
       "fr": "Est-ce qu'il aime la ville?",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like" },
+        { "fr": "ville", "en": "city" }
+      ]
     },
     {
       "en": "Do you (informal) like winter?",
       "fr": "Est-ce que tu aimes l'hiver?",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like" },
+        { "fr": "hiver", "en": "winter" }
+      ]
     },
     {
       "en": "Does she like vegetables?",
       "fr": "Est-ce qu'elle aime les légumes?",
-      "vocab": []
+      "vocab": [
+        { "fr": "aimer", "en": "to like" },
+        { "fr": "légume", "en": "vegetable" }
+      ]
     }
   ]
 }

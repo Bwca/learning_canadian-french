@@ -4,32 +4,44 @@
     {
       "en": "Is he Canadian?",
       "fr": "Est-ce qu'il est canadien?",
-      "vocab": []
+      "vocab": [
+        { "fr": "canadien", "en": "Canadian" }
+      ]
     },
     {
       "en": "Is she French?",
       "fr": "Est-ce qu'elle est française?",
-      "vocab": []
+      "vocab": [
+        { "fr": "française", "en": "French (fem.)" }
+      ]
     },
     {
       "en": "Are you (informal) American?",
       "fr": "Est-ce que tu es américain?",
-      "vocab": []
+      "vocab": [
+        { "fr": "américain", "en": "American" }
+      ]
     },
     {
       "en": "Are we Québécois?",
       "fr": "Est-ce que nous sommes québécois?",
-      "vocab": []
+      "vocab": [
+        { "fr": "québécois", "en": "Québécois" }
+      ]
     },
     {
       "en": "Are you (formal) Italian?",
       "fr": "Est-ce que vous êtes italien?",
-      "vocab": []
+      "vocab": [
+        { "fr": "italien", "en": "Italian" }
+      ]
     },
     {
       "en": "Are they (masc.) Haitian?",
       "fr": "Est-ce qu'ils sont haïtiens?",
-      "vocab": []
+      "vocab": [
+        { "fr": "haïtien", "en": "Haitian" }
+      ]
     },
     {
       "en": "Is she Mexican?",
@@ -41,7 +53,9 @@
     {
       "en": "Are they (fem.) Canadian?",
       "fr": "Est-ce qu'elles sont canadiennes?",
-      "vocab": []
+      "vocab": [
+        { "fr": "canadien", "en": "Canadian" }
+      ]
     },
     {
       "en": "Is he from Montreal?",

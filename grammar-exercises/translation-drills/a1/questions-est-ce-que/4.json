@@ -4,52 +4,80 @@
     {
       "en": "Do you (informal) live in Montreal?",
       "fr": "Est-ce que tu habites à Montréal?",
-      "vocab": []
+      "vocab": [
+        { "fr": "habiter", "en": "to live" }
+      ]
     },
     {
       "en": "Does he speak French?",
       "fr": "Est-ce qu'il parle français?",
-      "vocab": []
+      "vocab": [
+        { "fr": "parler", "en": "to speak" },
+        { "fr": "français", "en": "French" }
+      ]
     },
     {
       "en": "Does she watch television?",
       "fr": "Est-ce qu'elle regarde la télévision?",
-      "vocab": []
+      "vocab": [
+        { "fr": "regarder", "en": "to watch" },
+        { "fr": "télévision", "en": "television" }
+      ]
     },
     {
       "en": "Do we live here?",
       "fr": "Est-ce que nous habitons ici?",
-      "vocab": []
+      "vocab": [
+        { "fr": "habiter", "en": "to live" },
+        { "fr": "ici", "en": "here" }
+      ]
     },
     {
       "en": "Do you (formal) speak English?",
       "fr": "Est-ce que vous parlez anglais?",
-      "vocab": []
+      "vocab": [
+        { "fr": "parler", "en": "to speak" },
+        { "fr": "anglais", "en": "English" }
+      ]
     },
     {
       "en": "Do they (masc.) watch movies?",
       "fr": "Est-ce qu'ils regardent des films?",
-      "vocab": []
+      "vocab": [
+        { "fr": "regarder", "en": "to watch" },
+        { "fr": "film", "en": "movie" }
+      ]
     },
     {
       "en": "Do you (informal) speak Spanish?",
       "fr": "Est-ce que tu parles espagnol?",
-      "vocab": []
+      "vocab": [
+        { "fr": "parler", "en": "to speak" },
+        { "fr": "espagnol", "en": "Spanish" }
+      ]
     },
     {
       "en": "Does she live in Quebec City?",
       "fr": "Est-ce qu'elle habite à Québec?",
-      "vocab": []
+      "vocab": [
+        { "fr": "habiter", "en": "to live" }
+      ]
     },
     {
       "en": "Do they (fem.) watch the news?",
       "fr": "Est-ce qu'elles regardent les nouvelles?",
-      "vocab": []
+      "vocab": [
+        { "fr": "regarder", "en": "to watch" },
+        { "fr": "les nouvelles", "en": "the news" }
+      ]
     },
     {
       "en": "Does he live near here?",
       "fr": "Est-ce qu'il habite près d'ici?",
-      "vocab": []
+      "vocab": [
+        { "fr": "habiter", "en": "to live" },
+        { "fr": "près d'ici", "en": "near here" }
+      ]
     }
   ]
 }

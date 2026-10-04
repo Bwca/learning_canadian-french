@@ -4,17 +4,24 @@
     {
       "en": "Where do you (informal) live?",
       "fr": "Où est-ce que tu habites?",
-      "vocab": []
+      "vocab": [
+        { "fr": "où", "en": "where" },
+        { "fr": "habiter", "en": "to live" }
+      ]
     },
     {
       "en": "Where does he live?",
       "fr": "Où est-ce qu'il habite?",
-      "vocab": []
+      "vocab": [
+        { "fr": "où", "en": "where" },
+        { "fr": "habiter", "en": "to live" }
+      ]
     },
     {
       "en": "Where does she work?",
       "fr": "Où est-ce qu'elle travaille?",
       "vocab": [
+        { "fr": "où", "en": "where" },
         { "fr": "travailler", "en": "to work" }
       ]
     },
@@ -22,38 +29,57 @@
       "en": "Where do we eat?",
       "fr": "Où est-ce que nous mangeons?",
       "vocab": [
+        { "fr": "où", "en": "where" },
         { "fr": "manger", "en": "to eat" }
       ]
     },
     {
       "en": "Where do you (formal) live?",
       "fr": "Où est-ce que vous habitez?",
-      "vocab": []
+      "vocab": [
+        { "fr": "où", "en": "where" },
+        { "fr": "habiter", "en": "to live" }
+      ]
     },
     {
       "en": "Where do they (masc.) live?",
       "fr": "Où est-ce qu'ils habitent?",
-      "vocab": []
+      "vocab": [
+        { "fr": "où", "en": "where" },
+        { "fr": "habiter", "en": "to live" }
+      ]
     },
     {
       "en": "Where does he work?",
       "fr": "Où est-ce qu'il travaille?",
-      "vocab": []
+      "vocab": [
+        { "fr": "où", "en": "where" },
+        { "fr": "travailler", "en": "to work" }
+      ]
     },
     {
       "en": "Where do you (informal) eat?",
       "fr": "Où est-ce que tu manges?",
-      "vocab": []
+      "vocab": [
+        { "fr": "où", "en": "where" },
+        { "fr": "manger", "en": "to eat" }
+      ]
     },
     {
       "en": "Where does she live?",
       "fr": "Où est-ce qu'elle habite?",
-      "vocab": []
+      "vocab": [
+        { "fr": "où", "en": "where" },
+        { "fr": "habiter", "en": "to live" }
+      ]
     },
     {
       "en": "Where do they (fem.) work?",
       "fr": "Où est-ce qu'elles travaillent?",
-      "vocab": []
+      "vocab": [
+        { "fr": "où", "en": "where" },
+        { "fr": "travailler", "en": "to work" }
+      ]
     }
   ]
 }

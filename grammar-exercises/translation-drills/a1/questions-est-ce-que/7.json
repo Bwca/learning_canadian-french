@@ -4,52 +4,72 @@
     {
       "en": "Are you (informal) tired?",
       "fr": "Est-ce que tu es fatigué?",
-      "vocab": []
+      "vocab": [
+        { "fr": "fatigué", "en": "tired" }
+      ]
     },
     {
       "en": "Is he hungry?",
       "fr": "Est-ce qu'il a faim?",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir faim", "en": "to be hungry" }
+      ]
     },
     {
       "en": "Is she thirsty?",
       "fr": "Est-ce qu'elle a soif?",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir soif", "en": "to be thirsty" }
+      ]
     },
     {
       "en": "Are we late?",
       "fr": "Est-ce que nous sommes en retard?",
-      "vocab": []
+      "vocab": [
+        { "fr": "en retard", "en": "late" }
+      ]
     },
     {
       "en": "Are you (formal) cold?",
       "fr": "Est-ce que vous avez froid?",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir froid", "en": "to be cold" }
+      ]
     },
     {
       "en": "Are they (masc.) afraid?",
       "fr": "Est-ce qu'ils ont peur?",
-      "vocab": []
+      "vocab": [
+        { "fr": "avoir peur", "en": "to be afraid" }
+      ]
     },
     {
       "en": "Is she happy?",
       "fr": "Est-ce qu'elle est contente?",
-      "vocab": []
+      "vocab": [
+        { "fr": "contente", "en": "happy (fem.)" }
+      ]
     },
     {
       "en": "Are you (informal) sick?",
       "fr": "Est-ce que tu es malade?",
-      "vocab": []
+      "vocab": [
+        { "fr": "malade", "en": "sick" }
+      ]
     },
     {
       "en": "Is he nervous?",
       "fr": "Est-ce qu'il est nerveux?",
-      "vocab": []
+      "vocab": [
+        { "fr": "nerveux", "en": "nervous" }
+      ]
     },
     {
       "en": "Are they (fem.) tired?",
       "fr": "Est-ce qu'elles sont fatiguées?",
-      "vocab": []
+      "vocab": [
+        { "fr": "fatigué", "en": "tired" }
+      ]
     }
   ]
 }
