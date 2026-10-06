@@ -37,6 +37,7 @@
             </label>
         </div>
         <div id="progress" class="notification is-light"></div>
+        <div id="speechError" class="notification is-danger is-light" style="display: none;"></div>
         <div id="displayWord" class="box has-background-light"></div>
         <div class="buttons">
             <button class="button is-primary" id="trainButton">Train</button>
@@ -52,6 +53,13 @@
         let totalEntries = 0;
         let currentEntry = 0;
         let entries = [];
+
+        const MAX_SPEAK_ATTEMPTS = 3;
+        const STALL_TIMEOUT_MS = 1500;
+        // Chrome can silently drop an utterance if nothing keeps a reference
+        // to it alive while the engine gets around to it — keep it pinned
+        // here until it's done.
+        const pendingUtterances = [];
 
         function removeSlashes(word) {
             return word.replace(/\s*\/\s*/g, ", ");
@@ -72,15 +80,92 @@
 
             const displayWord = document.getElementById("displayWord");
             const progress = document.getElementById("progress");
+            const speechError = document.getElementById("speechError");
+            speechError.style.display = "none";
+
+            const stopTrainingWithError = (message) => {
+                isTraining = false;
+                isPaused = false;
+                speechSynthesis.cancel();
+                document.getElementById("pauseButton").textContent = "Pause";
+                displayWord.textContent = "";
+                progress.textContent = "";
+                speechError.textContent = message;
+                speechError.style.display = "block";
+            };
 
             const speak = (text, lang) => {
                 return new Promise(resolve => {
                     if (!isTraining) return resolve();
-                    const utterance = new SpeechSynthesisUtterance(text);
-                    utterance.lang = lang;
-                    utterance.onstart = () => displayWord.textContent = text;
-                    utterance.onend = () => setTimeout(() => { displayWord.textContent = ""; resolve(); }, 500);
-                    speechSynthesis.speak(utterance);
+
+                    let attempt = 0;
+                    const attemptSpeak = () => {
+                        attempt++;
+                        const utterance = new SpeechSynthesisUtterance(text);
+                        utterance.lang = lang;
+                        pendingUtterances.push(utterance);
+
+                        let settled = false;
+                        let started = false;
+                        let stallTimer = null;
+
+                        const forget = () => {
+                            const i = pendingUtterances.indexOf(utterance);
+                            if (i !== -1) pendingUtterances.splice(i, 1);
+                            clearTimeout(stallTimer);
+                        };
+
+                        const giveUp = () => {
+                            settled = true;
+                            forget();
+                            stopTrainingWithError(
+                                `⚠️ Speech failed for "${text}" (${lang}). This can happen when a network voice ` +
+                                `stops responding — often after a browser or Windows update changes voice availability. ` +
+                                `Training stopped; check Settings > Time & Language > Speech, or try again.`
+                            );
+                            resolve();
+                        };
+
+                        // Network voices can occasionally just never start — no
+                        // error event, no end event. Detect that stall and retry
+                        // a couple of times before giving up and telling the user.
+                        const checkStall = () => {
+                            if (started || settled) return;
+                            if (speechSynthesis.speaking) {
+                                stallTimer = setTimeout(checkStall, STALL_TIMEOUT_MS);
+                                return;
+                            }
+                            forget();
+                            speechSynthesis.cancel();
+                            if (attempt < MAX_SPEAK_ATTEMPTS) {
+                                attemptSpeak();
+                            } else {
+                                giveUp();
+                            }
+                        };
+                        stallTimer = setTimeout(checkStall, STALL_TIMEOUT_MS);
+
+                        utterance.onstart = () => { started = true; displayWord.textContent = text; };
+                        utterance.onend = () => {
+                            if (settled) return;
+                            settled = true;
+                            forget();
+                            setTimeout(() => { displayWord.textContent = ""; resolve(); }, 500);
+                        };
+                        utterance.onerror = () => {
+                            if (settled) return;
+                            forget();
+                            if (!started && attempt < MAX_SPEAK_ATTEMPTS) {
+                                attemptSpeak();
+                            } else {
+                                giveUp();
+                            }
+                        };
+
+                        speechSynthesis.speak(utterance);
+                    };
+
+                    attemptSpeak();
                 });
             };
 
@@ -137,6 +222,7 @@
             speechSynthesis.cancel();
             document.getElementById("displayWord").textContent = "";
             document.getElementById("progress").textContent = "";
+            document.getElementById("speechError").style.display = "none";
         });
     </script>
 </body>

@@ -66,6 +66,7 @@
                 </div>
             </div>
             <p id="voiceIndicator" class="help" aria-live="polite"></p>
+            <p id="speechError" class="help has-text-danger" aria-live="polite"></p>
         </div>
         <div class="field">
             <label class="label" for="speechRate">Speech speed: <span id="speechRateValue">100%</span></label>
@@ -90,6 +91,18 @@
 
         const voiceSelect = document.getElementById("voiceSelect");
         const voiceIndicator = document.getElementById("voiceIndicator");
+        const speechError = document.getElementById("speechError");
+
+        // Surfaced when speech fails outright, instead of staying silently
+        // mute — network voices in particular can stop responding after a
+        // browser or Windows update changes how they're provisioned.
+        function reportSpeechFailure(lang) {
+            const voice = lang.toLowerCase().startsWith("fr") ? selectedVoice : null;
+            const hint = voice && !voice.localService
+                ? `"${voice.name}" is a network voice and didn't respond. This commonly happens after a browser or Windows update changes network-voice availability — try switching to a local voice above.`
+                : "The selected voice didn't respond. Try again, or check your system's speech/audio settings.";
+            speechError.textContent = `⚠️ Speech failed: ${hint}`;
+        }
         const VOICE_STORAGE_KEY = "translationDrillVoiceURI";
         const FONT_SCALE_KEY = "translationDrillFontScale";
         const FONT_SCALE_MIN = 0.8;
@@ -245,6 +258,7 @@
                         if (attempt < MAX_SPEAK_ATTEMPTS) {
                             attemptSpeak();
                         } else {
+                            reportSpeechFailure(lang);
                             resolve();
                         }
                     };
@@ -255,6 +269,7 @@
                         if (settled) return;
                         settled = true;
                         forget();
+                        speechError.textContent = "";
                         resolve();
                     };
                     utterance.onerror = () => {
@@ -264,6 +279,7 @@
                         if (!started && attempt < MAX_SPEAK_ATTEMPTS) {
                             attemptSpeak();
                         } else {
+                            reportSpeechFailure(lang);
                             resolve();
                         }
                     };
