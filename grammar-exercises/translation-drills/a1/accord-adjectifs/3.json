@@ -1,0 +1,75 @@
+{
+  "title": "Accord des adjectifs — gender agreement (set 3: -eux/-euse and -eur/-euse endings)",
+  "exercises": [
+    {
+      "en": "The man is happy.",
+      "fr": "L'homme est heureux.",
+      "vocab": [
+        { "fr": "heureux", "en": "happy" }
+      ]
+    },
+    {
+      "en": "The woman is happy.",
+      "fr": "La femme est heureuse.",
+      "vocab": [
+        { "fr": "heureuse", "en": "happy (fem.)" }
+      ]
+    },
+    {
+      "en": "The animal is dangerous.",
+      "fr": "L'animal est dangereux.",
+      "vocab": [
+        { "fr": "dangereux", "en": "dangerous" }
+      ]
+    },
+    {
+      "en": "The storm is dangerous.",
+      "fr": "La tempête est dangereuse.",
+      "vocab": [
+        { "fr": "dangereuse", "en": "dangerous (fem.)" }
+      ]
+    },
+    {
+      "en": "The boy is lazy.",
+      "fr": "Le garçon est paresseux.",
+      "vocab": [
+        { "fr": "paresseux", "en": "lazy" }
+      ]
+    },
+    {
+      "en": "The girl is lazy.",
+      "fr": "La fille est paresseuse.",
+      "vocab": [
+        { "fr": "paresseuse", "en": "lazy (fem.)" }
+      ]
+    },
+    {
+      "en": "The student (masc.) is curious.",
+      "fr": "L'étudiant est curieux.",
+      "vocab": [
+        { "fr": "curieux", "en": "curious" }
+      ]
+    },
+    {
+      "en": "The student (fem.) is curious.",
+      "fr": "L'étudiante est curieuse.",
+      "vocab": [
+        { "fr": "curieuse", "en": "curious (fem.)" }
+      ]
+    },
+    {
+      "en": "The boy is mocking.",
+      "fr": "Le garçon est moqueur.",
+      "vocab": [
+        { "fr": "moqueur", "en": "mocking" }
+      ]
+    },
+    {
+      "en": "The girl is mocking.",
+      "fr": "La fille est moqueuse.",
+      "vocab": [
+        { "fr": "moqueuse", "en": "mocking (fem.)" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Accord des adjectifs — gender agreement (set 2: doubled consonant & -ien/-ienne endings)",
+  "exercises": [
+    {
+      "en": "The dog is good.",
+      "fr": "Le chien est bon.",
+      "vocab": [
+        { "fr": "bon", "en": "good" }
+      ]
+    },
+    {
+      "en": "The soup is good.",
+      "fr": "La soupe est bonne.",
+      "vocab": [
+        { "fr": "bonne", "en": "good (fem.)" }
+      ]
+    },
+    {
+      "en": "The cat is fat.",
+      "fr": "Le chat est gros.",
+      "vocab": [
+        { "fr": "gros", "en": "fat / big" }
+      ]
+    },
+    {
+      "en": "The car is heavy.",
+      "fr": "La voiture est grosse.",
+      "vocab": [
+        { "fr": "grosse", "en": "fat / big (fem.)" }
+      ]
+    },
+    {
+      "en": "The man is cruel.",
+      "fr": "L'homme est cruel.",
+      "vocab": [
+        { "fr": "cruel", "en": "cruel" }
+      ]
+    },
+    {
+      "en": "The woman is cruel.",
+      "fr": "La femme est cruelle.",
+      "vocab": [
+        { "fr": "cruelle", "en": "cruel (fem.)" }
+      ]
+    },
+    {
+      "en": "The boy is nice.",
+      "fr": "Le garçon est gentil.",
+      "vocab": [
+        { "fr": "gentil", "en": "nice / kind" }
+      ]
+    },
+    {
+      "en": "The girl is nice.",
+      "fr": "La fille est gentille.",
+      "vocab": [
+        { "fr": "gentille", "en": "nice / kind (fem.)" }
+      ]
+    },
+    {
+      "en": "The book is old (ancient).",
+      "fr": "Le livre est ancien.",
+      "vocab": [
+        { "fr": "ancien", "en": "old / former" }
+      ]
+    },
+    {
+      "en": "The story is old (ancient).",
+      "fr": "L'histoire est ancienne.",
+      "vocab": [
+        { "fr": "histoire", "en": "story" },
+        { "fr": "ancienne", "en": "old / former (fem.)" }
+      ]
+    }
+  ]
+}

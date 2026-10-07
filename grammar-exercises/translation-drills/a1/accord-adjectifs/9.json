@@ -1,0 +1,78 @@
+{
+  "title": "Accord des adjectifs — plural agreement (set 9: -eau→-eaux and -al→-aux endings)",
+  "exercises": [
+    {
+      "en": "I have new books.",
+      "fr": "J'ai de nouveaux livres.",
+      "vocab": [
+        { "fr": "nouveaux", "en": "new (masc. plural)" }
+      ]
+    },
+    {
+      "en": "We have beautiful flowers.",
+      "fr": "Nous avons de belles fleurs.",
+      "vocab": [
+        { "fr": "belles", "en": "beautiful (fem. plural)" }
+      ]
+    },
+    {
+      "en": "She has new ideas.",
+      "fr": "Elle a de nouvelles idées.",
+      "vocab": [
+        { "fr": "nouvelles", "en": "new (fem. plural)" },
+        { "fr": "idées", "en": "ideas" }
+      ]
+    },
+    {
+      "en": "I have a normal day.",
+      "fr": "J'ai un jour normal.",
+      "vocab": [
+        { "fr": "normal", "en": "normal" }
+      ]
+    },
+    {
+      "en": "We have normal days.",
+      "fr": "Nous avons des jours normaux.",
+      "vocab": [
+        { "fr": "normaux", "en": "normal (masc. plural)" }
+      ]
+    },
+    {
+      "en": "It's an awesome movie.",
+      "fr": "C'est un film génial.",
+      "vocab": [
+        { "fr": "film", "en": "movie" },
+        { "fr": "génial", "en": "awesome / great" }
+      ]
+    },
+    {
+      "en": "They are awesome movies.",
+      "fr": "Ce sont des films géniaux.",
+      "vocab": [
+        { "fr": "géniaux", "en": "awesome / great (masc. plural)" }
+      ]
+    },
+    {
+      "en": "I have a special day.",
+      "fr": "J'ai un jour spécial.",
+      "vocab": [
+        { "fr": "spécial", "en": "special" }
+      ]
+    },
+    {
+      "en": "We have special days.",
+      "fr": "Nous avons des jours spéciaux.",
+      "vocab": [
+        { "fr": "spéciaux", "en": "special (masc. plural)" }
+      ]
+    },
+    {
+      "en": "I have beautiful eyes.",
+      "fr": "J'ai de beaux yeux.",
+      "vocab": [
+        { "fr": "beaux", "en": "beautiful (masc. plural)" },
+        { "fr": "yeux", "en": "eyes" }
+      ]
+    }
+  ]
+}

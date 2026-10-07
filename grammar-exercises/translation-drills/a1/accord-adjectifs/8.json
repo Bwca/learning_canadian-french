@@ -1,0 +1,75 @@
+{
+  "title": "Accord des adjectifs — plural agreement (set 8: regular -s and invariable -s/-x)",
+  "exercises": [
+    {
+      "en": "The gardens are big.",
+      "fr": "Les jardins sont grands.",
+      "vocab": [
+        { "fr": "grands", "en": "big / tall (masc. plural)" }
+      ]
+    },
+    {
+      "en": "The houses are big.",
+      "fr": "Les maisons sont grandes.",
+      "vocab": [
+        { "fr": "grandes", "en": "big / tall (fem. plural)" }
+      ]
+    },
+    {
+      "en": "The books are interesting.",
+      "fr": "Les livres sont intéressants.",
+      "vocab": [
+        { "fr": "intéressants", "en": "interesting (masc. plural)" }
+      ]
+    },
+    {
+      "en": "The stories are interesting.",
+      "fr": "Les histoires sont intéressantes.",
+      "vocab": [
+        { "fr": "intéressantes", "en": "interesting (fem. plural)" }
+      ]
+    },
+    {
+      "en": "The cats are fat.",
+      "fr": "Les chats sont gros.",
+      "vocab": [
+        { "fr": "gros", "en": "fat / big (already -s, stays the same)" }
+      ]
+    },
+    {
+      "en": "The dogs are fat.",
+      "fr": "Les chiens sont gros.",
+      "vocab": [
+        { "fr": "gros", "en": "fat / big (invariable plural)" }
+      ]
+    },
+    {
+      "en": "The boys are fearful.",
+      "fr": "Les garçons sont peureux.",
+      "vocab": [
+        { "fr": "peureux", "en": "fearful (already -x, stays the same)" }
+      ]
+    },
+    {
+      "en": "The girls are fearful.",
+      "fr": "Les filles sont peureuses.",
+      "vocab": [
+        { "fr": "peureuses", "en": "fearful (fem. plural)" }
+      ]
+    },
+    {
+      "en": "The men are dangerous.",
+      "fr": "Les hommes sont dangereux.",
+      "vocab": [
+        { "fr": "dangereux", "en": "dangerous (already -x, stays the same)" }
+      ]
+    },
+    {
+      "en": "The women are dangerous.",
+      "fr": "Les femmes sont dangereuses.",
+      "vocab": [
+        { "fr": "dangereuses", "en": "dangerous (fem. plural)" }
+      ]
+    }
+  ]
+}

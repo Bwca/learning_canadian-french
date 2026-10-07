@@ -1,0 +1,77 @@
+{
+  "title": "Accord des adjectifs — gender agreement (set 1: regular -e feminine endings)",
+  "exercises": [
+    {
+      "en": "The bag is big.",
+      "fr": "Le sac est grand.",
+      "vocab": [
+        { "fr": "sac", "en": "bag" },
+        { "fr": "grand", "en": "big / tall" }
+      ]
+    },
+    {
+      "en": "The house is big.",
+      "fr": "La maison est grande.",
+      "vocab": [
+        { "fr": "grande", "en": "big / tall (fem.)" }
+      ]
+    },
+    {
+      "en": "The boy is small.",
+      "fr": "Le garçon est petit.",
+      "vocab": [
+        { "fr": "petit", "en": "small" }
+      ]
+    },
+    {
+      "en": "The girl is small.",
+      "fr": "La fille est petite.",
+      "vocab": [
+        { "fr": "petite", "en": "small (fem.)" }
+      ]
+    },
+    {
+      "en": "The garden is pretty.",
+      "fr": "Le jardin est joli.",
+      "vocab": [
+        { "fr": "joli", "en": "pretty" }
+      ]
+    },
+    {
+      "en": "The flower is pretty.",
+      "fr": "La fleur est jolie.",
+      "vocab": [
+        { "fr": "jolie", "en": "pretty (fem.)" }
+      ]
+    },
+    {
+      "en": "The man is happy.",
+      "fr": "L'homme est content.",
+      "vocab": [
+        { "fr": "homme", "en": "man" },
+        { "fr": "content", "en": "happy" }
+      ]
+    },
+    {
+      "en": "The woman is happy.",
+      "fr": "La femme est contente.",
+      "vocab": [
+        { "fr": "contente", "en": "happy (fem.)" }
+      ]
+    },
+    {
+      "en": "The boy is intelligent.",
+      "fr": "Le garçon est intelligent.",
+      "vocab": [
+        { "fr": "intelligent", "en": "intelligent / smart" }
+      ]
+    },
+    {
+      "en": "The girl is intelligent.",
+      "fr": "La fille est intelligente.",
+      "vocab": [
+        { "fr": "intelligente", "en": "intelligent / smart (fem.)" }
+      ]
+    }
+  ]
+}

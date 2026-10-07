@@ -1,0 +1,76 @@
+{
+  "title": "Accord des adjectifs — mixed review (set 10: gender & number together)",
+  "exercises": [
+    {
+      "en": "The garden is beautiful.",
+      "fr": "Le jardin est beau.",
+      "vocab": [
+        { "fr": "beau", "en": "beautiful" }
+      ]
+    },
+    {
+      "en": "The gardens are beautiful.",
+      "fr": "Les jardins sont beaux.",
+      "vocab": [
+        { "fr": "beaux", "en": "beautiful (masc. plural)" }
+      ]
+    },
+    {
+      "en": "The flower is beautiful.",
+      "fr": "La fleur est belle.",
+      "vocab": [
+        { "fr": "belle", "en": "beautiful (fem.)" }
+      ]
+    },
+    {
+      "en": "The flowers are beautiful.",
+      "fr": "Les fleurs sont belles.",
+      "vocab": [
+        { "fr": "belles", "en": "beautiful (fem. plural)" }
+      ]
+    },
+    {
+      "en": "Is the house old?",
+      "fr": "Est-ce que la maison est vieille?",
+      "vocab": [
+        { "fr": "vieille", "en": "old (fem.)" }
+      ]
+    },
+    {
+      "en": "Are the houses old?",
+      "fr": "Est-ce que les maisons sont vieilles?",
+      "vocab": [
+        { "fr": "vieilles", "en": "old (fem. plural)" }
+      ]
+    },
+    {
+      "en": "I have a good idea.",
+      "fr": "J'ai une bonne idée.",
+      "vocab": [
+        { "fr": "bonne", "en": "good (fem.)" }
+      ]
+    },
+    {
+      "en": "We have good ideas.",
+      "fr": "Nous avons de bonnes idées.",
+      "vocab": [
+        { "fr": "bonnes", "en": "good (fem. plural)" }
+      ]
+    },
+    {
+      "en": "The boy is happy and intelligent.",
+      "fr": "Le garçon est heureux et intelligent.",
+      "vocab": [
+        { "fr": "et", "en": "and" }
+      ]
+    },
+    {
+      "en": "The girls are happy and intelligent.",
+      "fr": "Les filles sont heureuses et intelligentes.",
+      "vocab": [
+        { "fr": "heureuses", "en": "happy (fem. plural)" },
+        { "fr": "intelligentes", "en": "intelligent / smart (fem. plural)" }
+      ]
+    }
+  ]
+}

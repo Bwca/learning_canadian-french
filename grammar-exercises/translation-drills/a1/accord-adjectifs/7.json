@@ -1,0 +1,76 @@
+{
+  "title": "Accord des adjectifs — adjective placement before the noun (set 7: feminine singular)",
+  "exercises": [
+    {
+      "en": "I have a big house.",
+      "fr": "J'ai une grande maison.",
+      "vocab": [
+        { "fr": "grande", "en": "big / tall (fem.)" }
+      ]
+    },
+    {
+      "en": "I have a good idea.",
+      "fr": "J'ai une bonne idée.",
+      "vocab": [
+        { "fr": "bonne", "en": "good (fem.)" },
+        { "fr": "idée", "en": "idea" }
+      ]
+    },
+    {
+      "en": "She has a beautiful flower.",
+      "fr": "Elle a une belle fleur.",
+      "vocab": [
+        { "fr": "belle", "en": "beautiful (fem.)" }
+      ]
+    },
+    {
+      "en": "I have an old house.",
+      "fr": "J'ai une vieille maison.",
+      "vocab": [
+        { "fr": "vieille", "en": "old (fem.)" }
+      ]
+    },
+    {
+      "en": "We have a new car.",
+      "fr": "Nous avons une nouvelle voiture.",
+      "vocab": [
+        { "fr": "nouvelle", "en": "new (fem.)" }
+      ]
+    },
+    {
+      "en": "You (informal) have a young sister.",
+      "fr": "Tu as une jeune sœur.",
+      "vocab": [
+        { "fr": "jeune", "en": "young" }
+      ]
+    },
+    {
+      "en": "She has a bad idea.",
+      "fr": "Elle a une mauvaise idée.",
+      "vocab": [
+        { "fr": "mauvaise", "en": "bad (fem.)" }
+      ]
+    },
+    {
+      "en": "I have a small table.",
+      "fr": "J'ai une petite table.",
+      "vocab": [
+        { "fr": "petite", "en": "small (fem.)" }
+      ]
+    },
+    {
+      "en": "We have a heavy car.",
+      "fr": "Nous avons une grosse voiture.",
+      "vocab": [
+        { "fr": "grosse", "en": "fat / big (fem.)" }
+      ]
+    },
+    {
+      "en": "They (fem.) have a pretty flower.",
+      "fr": "Elles ont une jolie fleur.",
+      "vocab": [
+        { "fr": "jolie", "en": "pretty (fem.)" }
+      ]
+    }
+  ]
+}

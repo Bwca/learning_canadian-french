@@ -1,0 +1,75 @@
+{
+  "title": "Accord des adjectifs — adjective placement before the noun (set 6: masculine singular)",
+  "exercises": [
+    {
+      "en": "I have a big garden.",
+      "fr": "J'ai un grand jardin.",
+      "vocab": [
+        { "fr": "grand", "en": "big / tall" }
+      ]
+    },
+    {
+      "en": "I have a good friend (masc.).",
+      "fr": "J'ai un bon ami.",
+      "vocab": [
+        { "fr": "bon", "en": "good" }
+      ]
+    },
+    {
+      "en": "He has a beautiful cat.",
+      "fr": "Il a un beau chat.",
+      "vocab": [
+        { "fr": "beau", "en": "beautiful" }
+      ]
+    },
+    {
+      "en": "I have an old book.",
+      "fr": "J'ai un vieux livre.",
+      "vocab": [
+        { "fr": "vieux", "en": "old" }
+      ]
+    },
+    {
+      "en": "We have a new bag.",
+      "fr": "Nous avons un nouveau sac.",
+      "vocab": [
+        { "fr": "nouveau", "en": "new" }
+      ]
+    },
+    {
+      "en": "You (informal) have a young dog.",
+      "fr": "Tu as un jeune chien.",
+      "vocab": [
+        { "fr": "jeune", "en": "young" }
+      ]
+    },
+    {
+      "en": "He has a bad day.",
+      "fr": "Il a un mauvais jour.",
+      "vocab": [
+        { "fr": "mauvais", "en": "bad" }
+      ]
+    },
+    {
+      "en": "I have a small book.",
+      "fr": "J'ai un petit livre.",
+      "vocab": [
+        { "fr": "petit", "en": "small" }
+      ]
+    },
+    {
+      "en": "We have a fat dog.",
+      "fr": "Nous avons un gros chien.",
+      "vocab": [
+        { "fr": "gros", "en": "fat / big" }
+      ]
+    },
+    {
+      "en": "They (masc.) have a pretty garden.",
+      "fr": "Ils ont un joli jardin.",
+      "vocab": [
+        { "fr": "joli", "en": "pretty" }
+      ]
+    }
+  ]
+}

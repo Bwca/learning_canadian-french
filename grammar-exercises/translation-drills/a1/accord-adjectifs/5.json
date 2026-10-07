@@ -1,0 +1,75 @@
+{
+  "title": "Accord des adjectifs — gender agreement (set 5: irregular feminine forms)",
+  "exercises": [
+    {
+      "en": "The garden is beautiful.",
+      "fr": "Le jardin est beau.",
+      "vocab": [
+        { "fr": "beau", "en": "beautiful" }
+      ]
+    },
+    {
+      "en": "The flower is beautiful.",
+      "fr": "La fleur est belle.",
+      "vocab": [
+        { "fr": "belle", "en": "beautiful (fem.)" }
+      ]
+    },
+    {
+      "en": "The book is old.",
+      "fr": "Le livre est vieux.",
+      "vocab": [
+        { "fr": "vieux", "en": "old" }
+      ]
+    },
+    {
+      "en": "The house is old.",
+      "fr": "La maison est vieille.",
+      "vocab": [
+        { "fr": "vieille", "en": "old (fem.)" }
+      ]
+    },
+    {
+      "en": "The cat is white.",
+      "fr": "Le chat est blanc.",
+      "vocab": [
+        { "fr": "blanc", "en": "white" }
+      ]
+    },
+    {
+      "en": "The dress is white.",
+      "fr": "La robe est blanche.",
+      "vocab": [
+        { "fr": "blanche", "en": "white (fem.)" }
+      ]
+    },
+    {
+      "en": "The bread is soft.",
+      "fr": "Le pain est doux.",
+      "vocab": [
+        { "fr": "doux", "en": "soft / sweet / mild" }
+      ]
+    },
+    {
+      "en": "The water is mild.",
+      "fr": "L'eau est douce.",
+      "vocab": [
+        { "fr": "douce", "en": "soft / sweet / mild (fem.)" }
+      ]
+    },
+    {
+      "en": "The day is long.",
+      "fr": "Le jour est long.",
+      "vocab": [
+        { "fr": "long", "en": "long" }
+      ]
+    },
+    {
+      "en": "The week is long.",
+      "fr": "La semaine est longue.",
+      "vocab": [
+        { "fr": "longue", "en": "long (fem.)" }
+      ]
+    }
+  ]
+}

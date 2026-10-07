@@ -1,0 +1,80 @@
+{
+  "title": "Accord des adjectifs — gender agreement (set 4: -er/-ère endings)",
+  "exercises": [
+    {
+      "en": "The first day.",
+      "fr": "Le premier jour.",
+      "vocab": [
+        { "fr": "premier", "en": "first" },
+        { "fr": "jour", "en": "day" }
+      ]
+    },
+    {
+      "en": "The first week.",
+      "fr": "La première semaine.",
+      "vocab": [
+        { "fr": "première", "en": "first (fem.)" },
+        { "fr": "semaine", "en": "week" }
+      ]
+    },
+    {
+      "en": "The last train.",
+      "fr": "Le dernier train.",
+      "vocab": [
+        { "fr": "dernier", "en": "last" },
+        { "fr": "train", "en": "train" }
+      ]
+    },
+    {
+      "en": "The last time.",
+      "fr": "La dernière fois.",
+      "vocab": [
+        { "fr": "dernière", "en": "last (fem.)" },
+        { "fr": "fois", "en": "time (occurrence)" }
+      ]
+    },
+    {
+      "en": "The coffee is expensive.",
+      "fr": "Le café est cher.",
+      "vocab": [
+        { "fr": "cher", "en": "expensive / dear" }
+      ]
+    },
+    {
+      "en": "The jacket is expensive.",
+      "fr": "La veste est chère.",
+      "vocab": [
+        { "fr": "chère", "en": "expensive / dear (fem.)" }
+      ]
+    },
+    {
+      "en": "The bag is light.",
+      "fr": "Le sac est léger.",
+      "vocab": [
+        { "fr": "léger", "en": "light (weight)" }
+      ]
+    },
+    {
+      "en": "The jacket is light.",
+      "fr": "La veste est légère.",
+      "vocab": [
+        { "fr": "légère", "en": "light (weight) (fem.)" }
+      ]
+    },
+    {
+      "en": "The man is foreign.",
+      "fr": "L'homme est étranger.",
+      "vocab": [
+        { "fr": "étranger", "en": "foreign" }
+      ]
+    },
+    {
+      "en": "The language is foreign.",
+      "fr": "La langue est étrangère.",
+      "vocab": [
+        { "fr": "langue", "en": "language" },
+        { "fr": "étrangère", "en": "foreign (fem.)" }
+      ]
+    }
+  ]
+}
