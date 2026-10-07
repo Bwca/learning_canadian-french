@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Personal study materials and small tools for one learner working toward TEF Canada exam readiness (NCLC 7 / CEFR B2) in Canadian (Québécois) French — vocabulary lists, grammar exercises, and browser-based drilling tools. There is no build system, test suite, or CI; most of the repo is plain-text content, not application code.
 
+`tef-prep/` is a separate sub-project nested in this repo — see below before treating it as more content/tooling to extend.
+
 ## Commands
 
 The only runnable code is `pronunciation-generator/`:
@@ -42,7 +44,11 @@ Tab-separated, one entry per line, in one of two states:
 
 - **`translation-drills/<cefr-level>/<topic>/<n>.json`** — consumed by `translation-drill.html`. Top-level folders are CEFR levels (`a1/`, later `a2/`, `b1/`, `b2/`), matching the TEF roadmap's phase progression (see `tef-prep/ROADMAP.md` §4) — this keeps difficulty explicit and lets the same verb/tense be revisited at a harder level later without colliding with the easier set. Inside each level, one folder per grammar topic. Conjugation topics are scoped as `<verb>-<tense>` (e.g. `a1/etre-present/`, `a1/avoir-present/`, later `a2/etre-passe-compose/`) rather than one folder per verb, since conjugation drills are tense-specific; non-conjugation grammar topics (plurals, articles) use a plain descriptive slug instead (e.g. `a1/pluriel/`, `a1/articles/`). Numbered files inside (`1.json`, `2.json`, …) let more exercise sets be added to the same topic later without disturbing earlier ones. Each file contains `{ "title": ..., "exercises": [{ "en", "fr", "vocab": [{ "fr", "en" }] }] }`. `vocab` should list only the non-obvious words/phrases in that sentence (not full-sentence vocab) — they're surfaced as clickable, speakable hints during the exercise. These are generated on demand (by Claude, per the learner's request for a topic) rather than transcribed from a textbook; difficulty should match the level folder — A1 content must stay genuinely beginner (simple affirmative/negative statements, basic agreement, `est-ce que` questions only — no inversion, comparatives, or `ni...ni`), but should NOT skimp on vocabulary: cover the high-frequency core words/fixed expressions a true beginner needs (numbers, family, common objects, and set idiomatic phrases like `avoir faim/soif/raison/tort` — these are core A1 curriculum, not the "idiomatic phrasing" complexity to avoid). A2+ content can additionally lean into grammatically or lexically challenging constructions (inversion, comparatives, colloquial idioms, `ni...ni`), since drilling difficulty is the point once the learner is past the basics. Checking answers in the page is exact-match (case-insensitive), with a self-graded override checkbox for valid phrasings that differ from the reference — don't try to enumerate every acceptable translation in the JSON.
 
-## `tef-prep/ROADMAP.md`
+## `tef-prep/` — separate sub-project
+
+`tef-prep/` is its own project within this repo: the program-management/planning layer for the whole TEF prep effort, not learning content or a tool itself. Keep that boundary — content/tooling conventions described elsewhere in this file (vocab format, grammar exercise format, etc.) don't apply inside `tef-prep/`, and planning/progress material (roadmap, phase check-ins, mock-exam logs, open questions) belongs here, not mixed into `anki-words/` or `grammar-exercises/`. Right now it's just `ROADMAP.md`, but treat future files added under this directory as part of the same planning sub-project rather than more drills/vocab.
+
+### `tef-prep/ROADMAP.md`
 
 This is the authoritative curriculum plan and **should be read before doing any curriculum-building work** (adding vocab, grammar progressions, or new drilling tools). Key points future work should respect:
 
