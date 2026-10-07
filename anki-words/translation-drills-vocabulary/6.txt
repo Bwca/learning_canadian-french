@@ -1,50 +1,50 @@
+jambon	ham
+jardin	garden
+jaune	yellow
+jeu	game
+jeune	young
+jeux	games
+joli	pretty
+jolie	pretty (fem.)
+jouet	toy
+jour	day
+journal	newspaper
+journaux	newspapers
+jumeaux	twins
+jus	juice
+ketchup	ketchup
+lac	lake
+lait	milk
+lampe	lamp
+langue	language
+lapin	rabbit
+les nouvelles	the news
+leur	their
+leurs	their (plural)
+lit	bed
+livre	book
+loin d'ici	far from here
+long	long
+longue	long (fem.)
+lourd	heavy
+lundi	Monday
+lune	moon
+léger	light (weight)
+légume	vegetable
+légère	light (weight) (fem.)
+ma	my (fem. singular)
+magasin	store / shop
+maison	house
+malade	sick
+manger	to eat
+manuel	textbook
+marché	market
+mari	husband
+marqueur	marker
+marron	brown (never changes form)
+mauvais	bad
+mauvaise	bad (fem.)
+mer	sea
 mes	my (plural)
 mexicain	Mexican
 mexicaine	Mexican (fem.)
-midi	noon
-minuit	midnight
-miroir	mirror
-mon	my (masc. singular)
-monde	people / crowd
-montagne	mountain
-montre	watch
-moutarde	mustard
-mur	wall
-musique	music
-musée	museum
-mère	mother
-médecin	doctor
-neige	snow
-nerveuse	nervous (fem.)
-nerveux	nervous
-neuf	nine
-neuves	new (fem. pl.)
-neveu	nephew
-nièce	niece
-noir	black / dark
-noire	black (fem.)
-nom	name
-nos	our (plural)
-notre	our (singular)
-nouveau	new
-nouveau / nouveaux	new
-nouvelle	new (fem.)
-nouvelles	news
-nuage	cloud
-occupé	busy
-occupée	busy (fem.)
-oiseau	bird
-oncle	uncle
-orage	storm
-orange	orange (never changes form)
-ordinateur	computer
-ouverte	open (fem.)
-où	where
-pain	bread
-panier	basket
-parapluie	umbrella
-parc	park
-parents	parents
-parler	to speak
-perdue	lost
-petit	small

@@ -1,35 +1,50 @@
-un peu de	a little
-vendredi	Friday
-vent	wind
-ventre	stomach
-verglas	black ice
-verre	glass
-vert	green
-verte	green (fem.)
-veste	jacket
-viande	meat
-vieille	old (fem.)
-ville	city
-vingt	twenty
-vingt-cinq	twenty-five
-vingt-deux	twenty-two
-violet	purple
-voisin	neighbour
-voisine	neighbour (fem.)
-voiture	car
-vos	your (formal/plural)
-votre	your (formal, singular)
-vélo	bike
-à côté de	next to
-à la maison	at home
-école	school
-église	church
-élevé	high
-énergie	energy
-étagère	shelf
-étoile	star
-étroit	narrow
-étudiant	student
-étudiante	student (fem.)
-œil / yeux	eye / eyes (irregular plural)
-œuf	egg
+règle	ruler
+réfrigérateur	fridge
+sa	his/her (fem. singular)
+sac	bag
+sac à dos	backpack
+salade	salad
+salle	room
+salle de bain	bathroom
+salle de classe	classroom
+salon	living room
+samedi	Saturday
+sandwich	sandwich
+seize	sixteen
+semaine	week
+sept	seven
+serpent	snake
+ses	his/her (plural)
+seul	alone
+six	six
+soixante	sixty
+soixante-dix	seventy
+soleil	sun
+son	his/her (masc. singular)
+soupe	soup
+sous	under
+spécial	special
+spéciaux	special (masc. plural)
+strict	strict
+stylo	pen
+sucre	sugar
+sur	on
+sympathique	friendly
+sœur	sister
+ta	your (fem. singular, informal)
+table	table
+tableau	board
+tante	aunt
+tapis	rug
+tard	late
+tasse	cup
+temps	time / weather
+tempête	storm
+tes	your (plural, informal)
+thé	tea
+toilettes	bathroom/toilet
+toit	roof
+ton	your (masc. singular, informal)
+ton amie	your friend (fem.) — ton, not ta, before a vowel sound
+tonnerre	thunder
+tortue	turtle

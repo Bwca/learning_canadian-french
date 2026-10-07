@@ -1,3 +1,11 @@
+chocolat	chocolate
+chou	cabbage
+choux	cabbages
+château	castle
+châteaux	castles
+chère	expensive / dear (fem.)
+ciel	sky
+cinq	five
 cinquante	fifty
 cinéma	movies / cinema
 clé	key
@@ -13,16 +21,25 @@ couloir	hallway
 cousin	cousin
 cousine	cousin (fem.)
 crayon	pencil
+cruel	cruel
+cruelle	cruel (fem.)
 crème	cream
 cuisine	kitchen
 cuisinier	cook
+curieuse	curious (fem.)
+curieux	curious
 célèbre	famous
+dangereuse	dangerous (fem.)
+dangereuses	dangerous (fem. plural)
+dangereux	dangerous
 dans	in
 de	from
 de beaux	beautiful (des becomes de before a plural adjective + noun)
 de l'	some (before vowel/mute h)
 de la	some (fem.)
 demi-frère	half-brother
+dernier	last
+dernière	last (fem.)
 derrière	behind
 des	of the (de + les)
 dessert	dessert
@@ -31,20 +48,3 @@ dictionnaire	dictionary
 dix	ten
 dix-huit	eighteen
 dix-neuf	nineteen
-dollar	dollar
-douze	twelve
-drôle	funny
-du	some (masc.) / of the (de + le)
-du matin	in the morning
-eau	water
-en haut	upstairs
-en hiver	in winter
-en retard	late
-en été	in summer
-enfant	child
-escalier	staircase
-espagnol	Spanish
-excité	excited
-famille	family
-farine	flour
-fatigué	tired

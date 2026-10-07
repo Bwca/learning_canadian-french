@@ -1,11 +1,17 @@
+belle	beautiful (fem.)
+belle-mère	stepmother/mother-in-law
+belles	beautiful (fem. plural)
 beurre	butter
 bibliothèque	library
 bijou	jewel
 bijoux	jewels (irregular plural)
+blanc	white
 blanche	white (fem.)
 bleu	blue
 bol	bowl
+bon	good
 bonne	good (fem.)
+bonnes	good (fem. plural)
 botte	boot
 bouteille	bottle
 brillant	bright
@@ -39,12 +45,6 @@ chaud	hot
 chaussure	shoe
 chemin	path
 chemise	shirt
+cher	expensive / dear
 cheval	horse
 chien	dog
-chocolat	chocolate
-chou	cabbage
-choux	cabbages
-château	castle
-châteaux	castles
-ciel	sky
-cinq	five

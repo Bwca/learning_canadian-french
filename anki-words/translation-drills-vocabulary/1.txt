@@ -8,6 +8,8 @@ amie	friend (fem.)
 américain	American
 an	year
 ananas	pineapple
+ancien	old / former
+ancienne	old / former (fem.)
 anglais	English
 animal	animal
 animaux	animals
@@ -46,5 +48,3 @@ beau	beautiful
 beau-père	stepfather/father-in-law
 beaucoup de	a lot of / many
 beaux	beautiful (masc. plural)
-belle	beautiful (fem.)
-belle-mère	stepmother/mother-in-law

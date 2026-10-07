@@ -1,3 +1,23 @@
+dollar	dollar
+douce	soft / sweet / mild (fem.)
+doux	soft / sweet / mild
+douze	twelve
+drôle	funny
+du	some (masc.) / of the (de + le)
+du matin	in the morning
+eau	water
+en haut	upstairs
+en hiver	in winter
+en retard	late
+en été	in summer
+enfant	child
+escalier	staircase
+espagnol	Spanish
+et	and
+excité	excited
+famille	family
+farine	flour
+fatigué	tired
 fatiguée	tired (fem.)
 femme	wife / woman
 fenêtre	window
@@ -7,6 +27,7 @@ fille	girl / daughter
 film	movie
 fils	son (same spelling in plural)
 fleur	flower
+fois	time (occurrence)
 fort	strong
 forêt	forest
 foulard	scarf
@@ -27,24 +48,3 @@ genou / genoux	knee / knees (irregular plural)
 gentil	nice / kind
 gentille	nice / kind (fem.)
 glace	ice / ice cream
-gomme	eraser
-grand	big / tall
-grand-mère	grandmother
-grand-père	grandfather
-grande	big / tall (fem.)
-grands-parents	grandparents
-gris	grey
-grise	grey (fem.)
-grêle	hail
-gâteau	cake
-gâteaux	cakes
-habiter	to live
-hamster	hamster
-haute	high (fem.)
-haïtien	Haitian
-herbe	grass
-heure	o'clock/hour
-hibou	owl
-hiboux	owls (irregular plural)
-hiver	winter
-horloge	clock

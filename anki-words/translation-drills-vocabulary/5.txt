@@ -1,50 +1,50 @@
+gomme	eraser
+grand	big / tall
+grand-mère	grandmother
+grand-père	grandfather
+grande	big / tall (fem.)
+grandes	big / tall (fem. plural)
+grands	big / tall (masc. plural)
+grands-parents	grandparents
+gris	grey
+grise	grey (fem.)
+gros	fat / big
+grosse	fat / big (fem.)
+grêle	hail
+gâteau	cake
+gâteaux	cakes
+génial	awesome / great
+géniaux	awesome / great (masc. plural)
+habiter	to live
+hamster	hamster
+haute	high (fem.)
+haïtien	Haitian
+herbe	grass
+heure	o'clock/hour
+heureuse	happy (fem.)
+heureuses	happy (fem. plural)
+heureux	happy
+hibou	owl
+hiboux	owls (irregular plural)
+histoire	story
+hiver	winter
+homme	man
+horloge	clock
 huile	oil
 huit	eight
 hôpital	hospital
 ici	here
 idée	idea
+idées	ideas
 il y a	there is / there are
 infirmière	nurse
 ingénieur	engineer
 inquiet	worried
+intelligent	intelligent / smart
+intelligente	intelligent / smart (fem.)
+intelligentes	intelligent / smart (fem. plural)
 intéressant	interesting
+intéressantes	interesting (fem. plural)
+intéressants	interesting (masc. plural)
 italien	Italian
 italienne	Italian (fem.)
-jambon	ham
-jardin	garden
-jaune	yellow
-jeu	game
-jeune	young
-jeux	games
-jouet	toy
-journal	newspaper
-journaux	newspapers
-jumeaux	twins
-jus	juice
-ketchup	ketchup
-lac	lake
-lait	milk
-lampe	lamp
-lapin	rabbit
-les nouvelles	the news
-leur	their
-leurs	their (plural)
-lit	bed
-livre	book
-loin d'ici	far from here
-long	long
-lourd	heavy
-lundi	Monday
-lune	moon
-légume	vegetable
-ma	my (fem. singular)
-magasin	store / shop
-maison	house
-malade	sick
-manger	to eat
-manuel	textbook
-marché	market
-mari	husband
-marqueur	marker
-marron	brown (never changes form)
-mer	sea
