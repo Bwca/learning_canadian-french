@@ -14,6 +14,9 @@
         .prompt { font-size: 1.35rem; font-weight: bold; }
         .vocab-hints { margin: 10px 0; }
         .vocab-hints .tag { cursor: pointer; margin-right: 6px; margin-bottom: 6px; font-size: 1rem; height: auto; padding: 0.6em 0.9em; }
+        /* French stays blurred until hovered/focused (tap on mobile), so there's a chance to recall it first */
+        .vocab-hints .vocab-fr { filter: blur(5px); transition: filter 0.15s; }
+        .vocab-hints .tag:hover .vocab-fr, .vocab-hints .tag:focus .vocab-fr { filter: none; }
         .answer-row { align-items: stretch; }
         .answer { font-size: 1.15rem; }
         .correct { background-color: #d4edda; border-left: 6px solid #1e7e34; }
@@ -36,7 +39,8 @@
     <div class="container">
         <h1 class="title">French Translation Drill</h1>
         <p class="subtitle is-6">
-            Translate each sentence into French, then check your answers. Click a vocabulary tag to hear it,
+            Translate each sentence into French, then check your answers. Vocabulary hints keep the French blurred —
+            hover over (or tap) a tag to reveal it, click it to hear it,
             or click 🔊 next to your own answer to hear it read back at any time — no need to check first.
             Checking is exact-match, so use "Mark as Correct" for valid phrasings that differ from the reference.
         </p>
@@ -313,7 +317,7 @@
                 box.classList.add("box", "exercise-box");
 
                 const vocabHtml = (exercise.vocab || [])
-                    .map(v => `<button type="button" class="tag is-light" data-fr="${escapeHtml(v.fr)}">🔊 <span lang="fr">${escapeHtml(v.fr)}</span> — <span lang="en">${escapeHtml(v.en)}</span></button>`)
+                    .map(v => `<button type="button" class="tag is-light" data-fr="${escapeHtml(v.fr)}">🔊 <span lang="en">${escapeHtml(v.en)}</span> — <span class="vocab-fr" lang="fr">${escapeHtml(v.fr)}</span></button>`)
                     .join("");
 
                 box.innerHTML = `
