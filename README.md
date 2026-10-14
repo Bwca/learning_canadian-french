@@ -55,3 +55,8 @@ Standalone browser page that loads a `translation-drills/<topic>/*.json` exercis
 ## Usage
 
 Open `audio-drill.html`, `vocab-quiz.html`, or `translation-drill.html` directly in a browser and load the relevant file (`anki-words/*.txt` for the first two, `grammar-exercises/translation-drills/<topic>/*.json` for the third). No server or build step required.
+
+### Online (GitHub Pages)
+The three browser tools are also published to GitHub Pages by `.github/workflows/pages.yml` on every push to `master`, with a landing page (`index.html`). The deploy step runs `.github/scripts/build-manifest.js` to generate a `manifest.json` listing every `anki-words/` list and translation-drill set, so the online tools offer them in a picker — nothing needs downloading. New files show up automatically on the next push. (Locally there's no manifest, so the picker is hidden and you choose files as before.) The pronunciation generator isn't included — it needs Windows and Node.
+
+One-time setup: repo **Settings → Pages → Build and deployment → Source: GitHub Actions**.

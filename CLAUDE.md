@@ -24,6 +24,8 @@ This launches a non-headless Chromium via Puppeteer, uses the Web Speech API (`f
 
 `audio-drill.html`, `vocab-quiz.html`, and `translation-drill.html` have no build step; open them directly in a browser. The first two load a `.txt` file from `anki-words/`; `translation-drill.html` loads a `.json` file from `grammar-exercises/translation-drills/<topic>/`.
 
+The same three pages are deployed to GitHub Pages by `.github/workflows/pages.yml` (push to `master`). Pages has no directory listing, so the workflow runs `.github/scripts/build-manifest.js` to generate `manifest.json` (vocab groups = subfolders of `anki-words/`; drill groups = `<level>/<topic>`, labelled with each file's `title`), and `library.js` turns it into a picker in each tool. It's generated, not committed — new content needs no manual registration. If you add a new tool page or top-level content folder, add it to the workflow's `cp` line.
+
 There are no lint or test commands configured anywhere in the repo.
 
 ## Vocabulary file format (`anki-words/day-N.txt`)
