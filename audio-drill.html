@@ -10,11 +10,13 @@
         #displayWord { font-size: 24px; font-weight: bold; margin-top: 20px; min-height: 100px; display: flex; align-items: center; justify-content: center; }
         #progress { margin-top: 10px; font-size: 18px; min-height: 30px; }
         .buttons { margin-top: 20px; }
+        .hidden { display: none; }
     </style>
 </head>
 <body>
     <div class="container">
         <h1 class="title">French Pronunciation Trainer</h1>
+        <div class="field has-text-left hidden" id="library"></div>
         <div class="field">
             <div class="file has-name is-boxed">
                 <label class="file-label">
@@ -45,6 +47,7 @@
             <button class="button is-danger" id="stopButton">Stop</button>
         </div>
     </div>
+    <script src="library.js"></script>
     <script>
         let isTraining = false;
         let isPaused = false;
@@ -184,9 +187,13 @@
             }
         }
 
+        const libraryTexts = mountLibraryChecklist(document.getElementById("library"), "vocab");
+
         document.getElementById("trainButton").addEventListener("click", async () => {
             const files = document.getElementById("fileInput").files;
-            if (files.length === 0) {
+            const texts = await (await libraryTexts)();
+            for (let file of files) texts.push(await file.text());
+            if (texts.length === 0) {
                 alert("Please select at least one file.");
                 return;
             }
@@ -195,8 +202,7 @@
             const randomize = document.getElementById("randomize").checked;
             entries = [];
 
-            for (let file of files) {
-                const text = await file.text();
+            for (let text of texts) {
                 const fileEntries = text.split("\n").map(line => {
                     const parts = line.split("\t");
                     return parts.length >= 2 ? { french: cleanFrenchWord(parts[0].trim()), english: removeSlashes(parts[1].trim()) } : null;

@@ -48,6 +48,7 @@
             <button type="button" class="button is-small" id="fontIncrease" aria-label="Increase text size">A+</button>
         </div>
 
+        <div class="field hidden" id="library"></div>
         <div class="field">
             <div class="file has-name is-boxed">
                 <label class="file-label">
@@ -84,6 +85,7 @@
             <p id="score" class="mt-4" aria-live="polite"></p>
         </div>
     </div>
+    <script src="library.js"></script>
     <script>
         let exercises = [];
         let frenchVoices = [];
@@ -291,10 +293,15 @@
             });
         }
 
+        mountLibrarySelect(document.getElementById("library"), "drills", "Pick an exercise set…", text => renderExercises(JSON.parse(text)));
+
         document.getElementById("fileInput").addEventListener("change", async function () {
             const file = this.files[0];
             if (!file) return;
-            const data = JSON.parse(await file.text());
+            renderExercises(JSON.parse(await file.text()));
+        });
+
+        function renderExercises(data) {
             exercises = data.exercises || [];
 
             document.getElementById("exerciseTitle").textContent = data.title || "";
@@ -341,7 +348,7 @@
             document.getElementById("exerciseForm").classList.remove("hidden");
             document.getElementById("readAllButton").disabled = true;
             document.getElementById("score").textContent = "";
-        });
+        }
 
         document.getElementById("checkButton").addEventListener("click", function () {
             document.querySelectorAll(".exercise-box").forEach(box => {
