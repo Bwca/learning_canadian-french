@@ -1,0 +1,60 @@
+{
+  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 10)",
+  "sounds": [
+    "é",
+    "-er",
+    "-ez",
+    "-ed",
+    "et",
+    "les / des / mes / tes / ses / ces"
+  ],
+  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "sentences": [
+    {
+      "fr": "Chère mamie, comment all[ez]-vous ?",
+      "en": "Dear Grandma, how are you?"
+    },
+    {
+      "fr": "Ici, l[es] journ[é]es sont longues [et] ensoleill[é]es.",
+      "en": "Here, the days are long and sunny."
+    },
+    {
+      "fr": "Samedi, nous avons visit[é] un mus[é]e.",
+      "en": "On Saturday, we visited a museum."
+    },
+    {
+      "fr": "Je pense à vous [et] je veux vous parl[er] bientôt.",
+      "en": "I'm thinking of you and I want to talk to you soon."
+    },
+    {
+      "fr": "Gros bisous [et] à bientôt !",
+      "en": "Big kisses, and see you soon!"
+    },
+    {
+      "fr": "Votre petite-fille, Am[é]lie",
+      "en": "Your granddaughter, Amélie"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "mamie",
+      "en": "grandma"
+    },
+    {
+      "fr": "la journée",
+      "en": "day"
+    },
+    {
+      "fr": "ensoleillé",
+      "en": "sunny"
+    },
+    {
+      "fr": "le musée",
+      "en": "museum"
+    },
+    {
+      "fr": "à bientôt",
+      "en": "see you soon"
+    }
+  ]
+}

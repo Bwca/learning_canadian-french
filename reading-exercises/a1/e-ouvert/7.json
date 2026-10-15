@@ -1,0 +1,56 @@
+{
+  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 7)",
+  "sounds": [
+    "è",
+    "ê",
+    "ë",
+    "ei",
+    "e + two consonants",
+    "e + final consonant"
+  ],
+  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "sentences": [
+    {
+      "fr": "Mon fr[è]re [e]st él[è]ve au coll[è]ge.",
+      "en": "My brother is a student at the collège."
+    },
+    {
+      "fr": "Il a un gros [e]xamen m[e]rcredi.",
+      "en": "He has a big exam on Wednesday."
+    },
+    {
+      "fr": "Il étudie à la biblioth[è]que av[e]c sa copine Ma[ë]lle.",
+      "en": "He studies at the library with his girlfriend Maëlle."
+    },
+    {
+      "fr": "Le probl[è]me, c'[e]st qu'ils parlent beaucoup !",
+      "en": "The problem is that they talk a lot!"
+    },
+    {
+      "fr": "« [E]st-ce que tu vas réussir ? » demande ma m[è]re.",
+      "en": "\"Are you going to pass?\" asks my mother."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'élève",
+      "en": "student, pupil"
+    },
+    {
+      "fr": "le collège",
+      "en": "private secondary school (Québec)"
+    },
+    {
+      "fr": "l'examen",
+      "en": "exam"
+    },
+    {
+      "fr": "la bibliothèque",
+      "en": "library"
+    },
+    {
+      "fr": "réussir",
+      "en": "to pass, to succeed"
+    }
+  ]
+}

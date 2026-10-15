@@ -1,0 +1,56 @@
+{
+  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 9)",
+  "sounds": [
+    "è",
+    "ê",
+    "ë",
+    "ei",
+    "e + two consonants",
+    "e + final consonant"
+  ],
+  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "sentences": [
+    {
+      "fr": "Mon oncle [e]st ch[e]f dans un r[e]staurant.",
+      "en": "My uncle is a chef in a restaurant."
+    },
+    {
+      "fr": "Il se l[è]ve tr[è]s tôt, à cinq heures.",
+      "en": "He gets up very early, at five o'clock."
+    },
+    {
+      "fr": "Il ach[è]te des p[ê]ches et des pommes au marché.",
+      "en": "He buys peaches and apples at the market."
+    },
+    {
+      "fr": "Sa spécialité, c'[e]st la tarte aux p[ê]ches.",
+      "en": "His speciality is peach pie."
+    },
+    {
+      "fr": "Les clients disent qu'[e]lle [e]st [e]xc[e]llente.",
+      "en": "The customers say it's excellent."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le chef",
+      "en": "chef"
+    },
+    {
+      "fr": "se lever",
+      "en": "to get up"
+    },
+    {
+      "fr": "la pêche",
+      "en": "peach"
+    },
+    {
+      "fr": "la spécialité",
+      "en": "speciality"
+    },
+    {
+      "fr": "la tarte",
+      "en": "pie"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 7)",
+  "sounds": [
+    "é",
+    "-er",
+    "-ez",
+    "-ed",
+    "et",
+    "les / des / mes / tes / ses / ces"
+  ],
+  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "sentences": [
+    {
+      "fr": "Il est tard, [et] il n'y a plus de lait.",
+      "en": "It's late, and there's no more milk."
+    },
+    {
+      "fr": "Je vais au d[é]panneur au coin de la rue.",
+      "en": "I go to the convenience store on the corner."
+    },
+    {
+      "fr": "J'achète du lait, d[es] œufs [et] un journal.",
+      "en": "I buy milk, eggs and a newspaper."
+    },
+    {
+      "fr": "Le caissi[er] dit : « Vous pay[ez] comptant ? »",
+      "en": "The cashier says: \"Are you paying cash?\""
+    },
+    {
+      "fr": "« Non, je vais pay[er] avec ma carte. Merci, bonne soir[é]e ! »",
+      "en": "\"No, I'll pay with my card. Thanks, have a good evening!\""
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le dépanneur",
+      "en": "convenience store (Québécois)"
+    },
+    {
+      "fr": "le journal",
+      "en": "newspaper"
+    },
+    {
+      "fr": "le caissier",
+      "en": "cashier"
+    },
+    {
+      "fr": "payer comptant",
+      "en": "to pay cash"
+    },
+    {
+      "fr": "bonne soirée",
+      "en": "have a good evening"
+    }
+  ]
+}

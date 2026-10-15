@@ -1,0 +1,56 @@
+{
+  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 6)",
+  "sounds": [
+    "è",
+    "ê",
+    "ë",
+    "ei",
+    "e + two consonants",
+    "e + final consonant"
+  ],
+  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "sentences": [
+    {
+      "fr": "C[e]t été, nous allons à la m[e]r, en Gaspésie.",
+      "en": "This summer, we're going to the sea, in the Gaspé."
+    },
+    {
+      "fr": "L'eau [e]st tr[è]s froide, alors on r[e]ste sur la plage.",
+      "en": "The water is very cold, so we stay on the beach."
+    },
+    {
+      "fr": "Mon fr[è]re ch[e]rche des coquillages.",
+      "en": "My brother looks for seashells."
+    },
+    {
+      "fr": "Ma m[è]re lit un livre sous le grand ci[e]l bleu.",
+      "en": "My mother reads a book under the big blue sky."
+    },
+    {
+      "fr": "Le soir, on mange du homard à l'hôt[e]l.",
+      "en": "In the evening, we eat lobster at the hotel."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la mer",
+      "en": "sea"
+    },
+    {
+      "fr": "la Gaspésie",
+      "en": "the Gaspé Peninsula"
+    },
+    {
+      "fr": "le coquillage",
+      "en": "seashell"
+    },
+    {
+      "fr": "le ciel",
+      "en": "sky"
+    },
+    {
+      "fr": "le homard",
+      "en": "lobster"
+    }
+  ]
+}

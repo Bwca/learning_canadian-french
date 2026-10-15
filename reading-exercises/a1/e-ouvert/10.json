@@ -1,0 +1,56 @@
+{
+  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 10)",
+  "sounds": [
+    "è",
+    "ê",
+    "ë",
+    "ei",
+    "e + two consonants",
+    "e + final consonant"
+  ],
+  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "sentences": [
+    {
+      "fr": "C[e]tte nuit, Hél[è]ne r[ê]ve d'une r[ei]ne.",
+      "en": "Last night, Hélène dreams about a queen."
+    },
+    {
+      "fr": "La r[ei]ne a une couronne sur la t[ê]te.",
+      "en": "The queen has a crown on her head."
+    },
+    {
+      "fr": "[E]lle habite dans un château, au milieu d'une for[ê]t.",
+      "en": "She lives in a castle, in the middle of a forest."
+    },
+    {
+      "fr": "La r[ei]ne dit : « Bienvenue ! Tu [e]s mon invitée ! »",
+      "en": "The queen says: \"Welcome! You are my guest!\""
+    },
+    {
+      "fr": "Puis, Hél[è]ne se rév[e]ille dans son lit.",
+      "en": "Then Hélène wakes up in her bed."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "rêver de",
+      "en": "to dream about"
+    },
+    {
+      "fr": "la reine",
+      "en": "queen"
+    },
+    {
+      "fr": "la couronne",
+      "en": "crown"
+    },
+    {
+      "fr": "l'invitée",
+      "en": "guest"
+    },
+    {
+      "fr": "se réveiller",
+      "en": "to wake up"
+    }
+  ]
+}

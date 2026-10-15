@@ -1,0 +1,56 @@
+{
+  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 4)",
+  "sounds": [
+    "é",
+    "-er",
+    "-ez",
+    "-ed",
+    "et",
+    "les / des / mes / tes / ses / ces"
+  ],
+  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "sentences": [
+    {
+      "fr": "En [é]t[é], nous allons au lac avec m[es] grands-parents.",
+      "en": "In summer, we go to the lake with my grandparents."
+    },
+    {
+      "fr": "Le matin, on aime nag[er] [et] pêch[er].",
+      "en": "In the morning, we like to swim and fish."
+    },
+    {
+      "fr": "Mon grand-père pr[é]pare d[es] sandwichs pour le dîn[er].",
+      "en": "My grandfather makes sandwiches for lunch."
+    },
+    {
+      "fr": "L'après-midi, on regarde l[es] canards [et] l[es] h[é]rons.",
+      "en": "In the afternoon, we watch the ducks and the herons."
+    },
+    {
+      "fr": "Le soir, on chante [et] on mange d[es] guimauves grill[é]es.",
+      "en": "In the evening, we sing and eat toasted marshmallows."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "nager",
+      "en": "to swim"
+    },
+    {
+      "fr": "pêcher",
+      "en": "to fish"
+    },
+    {
+      "fr": "le dîner",
+      "en": "lunch (Québécois)"
+    },
+    {
+      "fr": "le canard",
+      "en": "duck"
+    },
+    {
+      "fr": "les guimauves",
+      "en": "marshmallows"
+    }
+  ]
+}

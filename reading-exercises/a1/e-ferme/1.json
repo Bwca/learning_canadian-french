@@ -1,0 +1,56 @@
+{
+  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 1)",
+  "sounds": [
+    "é",
+    "-er",
+    "-ez",
+    "-ed",
+    "et",
+    "les / des / mes / tes / ses / ces"
+  ],
+  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "sentences": [
+    {
+      "fr": "Le matin, j'aime boire un caf[é] au lait.",
+      "en": "In the morning, I like to drink a café au lait."
+    },
+    {
+      "fr": "Je vais au caf[é] du quarti[er] avec m[es] amis.",
+      "en": "I go to the neighbourhood café with my friends."
+    },
+    {
+      "fr": "Nous aimons parl[er] [et] mang[er] d[es] muffins.",
+      "en": "We like to talk and eat muffins."
+    },
+    {
+      "fr": "La serveuse demande : « Vous d[é]sir[ez] autre chose ? »",
+      "en": "The waitress asks: \"Would you like anything else?\""
+    },
+    {
+      "fr": "Il est d[é]jà dix heures : il faut travaill[er] !",
+      "en": "It's already ten o'clock: time to work!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le quartier",
+      "en": "neighbourhood"
+    },
+    {
+      "fr": "la serveuse",
+      "en": "waitress"
+    },
+    {
+      "fr": "désirer",
+      "en": "to want, to wish for"
+    },
+    {
+      "fr": "déjà",
+      "en": "already"
+    },
+    {
+      "fr": "il faut",
+      "en": "you have to"
+    }
+  ]
+}

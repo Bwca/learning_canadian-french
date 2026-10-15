@@ -1,0 +1,56 @@
+{
+  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 5)",
+  "sounds": [
+    "é",
+    "-er",
+    "-ez",
+    "-ed",
+    "et",
+    "les / des / mes / tes / ses / ces"
+  ],
+  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "sentences": [
+    {
+      "fr": "Aujourd'hui, nous allons cuisin[er] d[es] crêpes.",
+      "en": "Today, we're going to make crepes."
+    },
+    {
+      "fr": "D'abord, il faut m[é]lang[er] la farine, l[es] œufs [et] le lait.",
+      "en": "First, you have to mix the flour, the eggs and the milk."
+    },
+    {
+      "fr": "Ensuite, vers[ez] un peu de pâte dans la poêle.",
+      "en": "Then pour a little batter into the pan."
+    },
+    {
+      "fr": "Attention : il ne faut pas brûl[er] la crêpe !",
+      "en": "Careful: don't burn the crepe!"
+    },
+    {
+      "fr": "À la fin, on met du sirop d'[é]rable. C'est d[é]licieux !",
+      "en": "At the end, we add maple syrup. It's delicious!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "cuisiner",
+      "en": "to cook"
+    },
+    {
+      "fr": "mélanger",
+      "en": "to mix"
+    },
+    {
+      "fr": "verser",
+      "en": "to pour"
+    },
+    {
+      "fr": "la poêle",
+      "en": "frying pan"
+    },
+    {
+      "fr": "le sirop d'érable",
+      "en": "maple syrup"
+    }
+  ]
+}

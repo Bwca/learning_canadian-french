@@ -1,0 +1,56 @@
+{
+  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 8)",
+  "sounds": [
+    "è",
+    "ê",
+    "ë",
+    "ei",
+    "e + two consonants",
+    "e + final consonant"
+  ],
+  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "sentences": [
+    {
+      "fr": "Ce matin, ma m[è]re reçoit une l[e]ttre.",
+      "en": "This morning, my mother gets a letter."
+    },
+    {
+      "fr": "[E]lle vient de sa sœur, qui habite à Québ[e]c.",
+      "en": "It's from her sister, who lives in Québec City."
+    },
+    {
+      "fr": "Dans la l[e]ttre, il y a une b[e]lle photo.",
+      "en": "In the letter, there's a beautiful photo."
+    },
+    {
+      "fr": "Sur la photo, on voit le fleuve av[e]c la n[ei]ge.",
+      "en": "In the photo, you can see the river with the snow."
+    },
+    {
+      "fr": "Ma m[è]re [e]st tr[è]s émue : [e]lle veut l'appeler tout de suite.",
+      "en": "My mother is very moved: she wants to call her right away."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "recevoir",
+      "en": "to receive"
+    },
+    {
+      "fr": "la lettre",
+      "en": "letter"
+    },
+    {
+      "fr": "le fleuve",
+      "en": "(big) river"
+    },
+    {
+      "fr": "ému",
+      "en": "moved, touched"
+    },
+    {
+      "fr": "tout de suite",
+      "en": "right away"
+    }
+  ]
+}

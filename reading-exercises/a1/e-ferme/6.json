@@ -1,0 +1,56 @@
+{
+  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 6)",
+  "sounds": [
+    "é",
+    "-er",
+    "-ez",
+    "-ed",
+    "et",
+    "les / des / mes / tes / ses / ces"
+  ],
+  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "sentences": [
+    {
+      "fr": "Le samedi soir, m[es] frères regardent le hockey.",
+      "en": "On Saturday nights, my brothers watch hockey."
+    },
+    {
+      "fr": "Leur [é]quipe pr[é]f[é]r[é]e, c'est le Canadien de Montr[é]al.",
+      "en": "Their favourite team is the Montreal Canadiens."
+    },
+    {
+      "fr": "Ils aiment cri[er] devant la t[é]l[é].",
+      "en": "They like to yell in front of the TV."
+    },
+    {
+      "fr": "Quand l'[é]quipe marque, ils commencent à saut[er].",
+      "en": "When the team scores, they start jumping."
+    },
+    {
+      "fr": "Moi, je pr[é]fère jou[er] au hockey dans la rue avec m[es] amis.",
+      "en": "Me, I prefer playing hockey in the street with my friends."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'équipe",
+      "en": "team"
+    },
+    {
+      "fr": "préféré",
+      "en": "favourite"
+    },
+    {
+      "fr": "crier",
+      "en": "to yell"
+    },
+    {
+      "fr": "marquer",
+      "en": "to score"
+    },
+    {
+      "fr": "sauter",
+      "en": "to jump"
+    }
+  ]
+}

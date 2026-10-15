@@ -1,0 +1,52 @@
+{
+  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 8)",
+  "sounds": [
+    "é",
+    "-er",
+    "-ez",
+    "-ed",
+    "et",
+    "les / des / mes / tes / ses / ces"
+  ],
+  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "sentences": [
+    {
+      "fr": "Cet [é]t[é], nous allons visit[er] la ville de Qu[é]bec.",
+      "en": "This summer, we're going to visit Québec City."
+    },
+    {
+      "fr": "Nous voulons voir l[es] vieilles rues [et] le Château Frontenac.",
+      "en": "We want to see the old streets and the Château Frontenac."
+    },
+    {
+      "fr": "Ma sœur veut achet[er] d[es] souvenirs.",
+      "en": "My sister wants to buy souvenirs."
+    },
+    {
+      "fr": "Mon père veut mang[er] une poutine [et] un pât[é] chinois.",
+      "en": "My father wants to eat poutine and a pâté chinois."
+    },
+    {
+      "fr": "[Et] moi ? Je veux me promen[er] sur la terrasse Dufferin.",
+      "en": "And me? I want to stroll on Dufferin Terrace."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la ville de Québec",
+      "en": "Québec City"
+    },
+    {
+      "fr": "vieux, vieille",
+      "en": "old"
+    },
+    {
+      "fr": "le pâté chinois",
+      "en": "Québec-style shepherd's pie"
+    },
+    {
+      "fr": "se promener",
+      "en": "to stroll"
+    }
+  ]
+}

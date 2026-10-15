@@ -1,0 +1,60 @@
+{
+  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 4)",
+  "sounds": [
+    "è",
+    "ê",
+    "ë",
+    "ei",
+    "e + two consonants",
+    "e + final consonant"
+  ],
+  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "sentences": [
+    {
+      "fr": "La for[ê]t [e]st pr[è]s de chez moi.",
+      "en": "The forest is near my place."
+    },
+    {
+      "fr": "Il y a des arbres tr[è]s hauts et de l'h[e]rbe v[e]rte.",
+      "en": "There are very tall trees and green grass."
+    },
+    {
+      "fr": "Parfois, on voit une petite b[ê]te : un écureuil ou un chevreuil.",
+      "en": "Sometimes we see a little animal: a squirrel or a deer."
+    },
+    {
+      "fr": "Le dimanche, je me prom[è]ne là-bas av[e]c mon chien.",
+      "en": "On Sundays, I walk there with my dog."
+    },
+    {
+      "fr": "C'[e]st mon endroit préféré.",
+      "en": "It's my favourite place."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la forêt",
+      "en": "forest"
+    },
+    {
+      "fr": "l'herbe",
+      "en": "grass"
+    },
+    {
+      "fr": "la bête",
+      "en": "animal, creature"
+    },
+    {
+      "fr": "l'écureuil",
+      "en": "squirrel"
+    },
+    {
+      "fr": "le chevreuil",
+      "en": "deer"
+    },
+    {
+      "fr": "l'endroit",
+      "en": "place"
+    }
+  ]
+}

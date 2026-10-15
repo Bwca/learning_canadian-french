@@ -1,0 +1,56 @@
+{
+  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 2)",
+  "sounds": [
+    "é",
+    "-er",
+    "-ez",
+    "-ed",
+    "et",
+    "les / des / mes / tes / ses / ces"
+  ],
+  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "sentences": [
+    {
+      "fr": "Aujourd'hui, c'est mon premi[er] jour au c[é]gep.",
+      "en": "Today is my first day at CEGEP."
+    },
+    {
+      "fr": "Je dois trouv[er] l[es] classes [et] rencontr[er] l[es] profs.",
+      "en": "I have to find the classrooms and meet the teachers."
+    },
+    {
+      "fr": "Mon amie H[é]lène m'aide à trouv[er] mon casi[er].",
+      "en": "My friend Hélène helps me find my locker."
+    },
+    {
+      "fr": "« Ass[ez] parl[é] ! » dit le prof. « Ouvr[ez] vos cahi[er]s ! »",
+      "en": "\"Enough talking!\" says the teacher. \"Open your notebooks!\""
+    },
+    {
+      "fr": "À midi, je vais dîn[er] avec H[é]lène.",
+      "en": "At noon, I'm going to have lunch with Hélène."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le cégep",
+      "en": "CEGEP, Québec junior college"
+    },
+    {
+      "fr": "rencontrer",
+      "en": "to meet"
+    },
+    {
+      "fr": "le casier",
+      "en": "locker"
+    },
+    {
+      "fr": "assez",
+      "en": "enough"
+    },
+    {
+      "fr": "dîner",
+      "en": "to have lunch (Québécois)"
+    }
+  ]
+}

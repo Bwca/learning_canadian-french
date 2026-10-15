@@ -1,0 +1,56 @@
+{
+  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 3)",
+  "sounds": [
+    "é",
+    "-er",
+    "-ez",
+    "-ed",
+    "et",
+    "les / des / mes / tes / ses / ces"
+  ],
+  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "sentences": [
+    {
+      "fr": "Thomas a mal au pi[ed] depuis lundi.",
+      "en": "Thomas has had a sore foot since Monday."
+    },
+    {
+      "fr": "Il va ch[ez] le m[é]decin.",
+      "en": "He goes to the doctor's."
+    },
+    {
+      "fr": "Le m[é]decin demande : « Vous pouv[ez] march[er] ? »",
+      "en": "The doctor asks: \"Can you walk?\""
+    },
+    {
+      "fr": "Thomas r[é]pond : « Oui, mais c'est difficile de mont[er] l[es] escali[er]s. »",
+      "en": "Thomas answers: \"Yes, but it's hard to climb the stairs.\""
+    },
+    {
+      "fr": "« Il faut vous repos[er] [et] ne pas jou[er] au hockey cette semaine ! »",
+      "en": "\"You need to rest and not play hockey this week!\""
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "avoir mal au pied",
+      "en": "to have a sore foot"
+    },
+    {
+      "fr": "le médecin",
+      "en": "doctor"
+    },
+    {
+      "fr": "marcher",
+      "en": "to walk"
+    },
+    {
+      "fr": "l'escalier",
+      "en": "stairs"
+    },
+    {
+      "fr": "se reposer",
+      "en": "to rest"
+    }
+  ]
+}

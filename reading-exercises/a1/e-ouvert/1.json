@@ -1,0 +1,56 @@
+{
+  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 1)",
+  "sounds": [
+    "è",
+    "ê",
+    "ë",
+    "ei",
+    "e + two consonants",
+    "e + final consonant"
+  ],
+  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ». « et » is the closed [e], so it isn't marked here.",
+  "sentences": [
+    {
+      "fr": "Mon p[è]re s'app[e]lle Mich[e]l.",
+      "en": "My father's name is Michel."
+    },
+    {
+      "fr": "Ma m[è]re s'app[e]lle Hél[è]ne.",
+      "en": "My mother's name is Hélène."
+    },
+    {
+      "fr": "J'ai un fr[è]re, Jo[ë]l, et une sœur, Genevi[è]ve.",
+      "en": "I have a brother, Joël, and a sister, Geneviève."
+    },
+    {
+      "fr": "[E]lle [e]st tr[è]s b[e]lle et tr[è]s gentille.",
+      "en": "She's very beautiful and very kind."
+    },
+    {
+      "fr": "Nous f[ê]tons No[ë]l ensemble chez mes grands-parents.",
+      "en": "We celebrate Christmas together at my grandparents'."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le père",
+      "en": "father"
+    },
+    {
+      "fr": "la mère",
+      "en": "mother"
+    },
+    {
+      "fr": "le frère",
+      "en": "brother"
+    },
+    {
+      "fr": "fêter",
+      "en": "to celebrate"
+    },
+    {
+      "fr": "Noël",
+      "en": "Christmas"
+    }
+  ]
+}

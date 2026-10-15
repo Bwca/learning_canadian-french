@@ -1,0 +1,56 @@
+{
+  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 9)",
+  "sounds": [
+    "é",
+    "-er",
+    "-ez",
+    "-ed",
+    "et",
+    "les / des / mes / tes / ses / ces"
+  ],
+  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »). « hiver » is one of the exceptions: its -er is [ɛʁ] with the r pronounced, so it isn't marked.",
+  "sentences": [
+    {
+      "fr": "En hiver, nous aimons all[er] dans l[es] Laurentides.",
+      "en": "In winter, we like to go to the Laurentians."
+    },
+    {
+      "fr": "Nous faisons du ski [et] de la raquette.",
+      "en": "We go skiing and snowshoeing."
+    },
+    {
+      "fr": "Il fait très froid : il faut port[er] une tuque [et] d[es] mitaines.",
+      "en": "It's very cold: you have to wear a toque and mittens."
+    },
+    {
+      "fr": "Le soir, nous jouons aux cartes [et] nous buvons du chocolat chaud.",
+      "en": "In the evening, we play cards and drink hot chocolate."
+    },
+    {
+      "fr": "C'est mon moment pr[é]f[é]r[é] de l'ann[é]e !",
+      "en": "It's my favourite time of the year!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la raquette",
+      "en": "snowshoeing"
+    },
+    {
+      "fr": "porter",
+      "en": "to wear"
+    },
+    {
+      "fr": "la tuque",
+      "en": "toque, winter hat (Québécois)"
+    },
+    {
+      "fr": "les mitaines",
+      "en": "mittens (Québécois)"
+    },
+    {
+      "fr": "le chocolat chaud",
+      "en": "hot chocolate"
+    }
+  ]
+}

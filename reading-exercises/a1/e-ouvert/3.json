@@ -1,0 +1,56 @@
+{
+  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 3)",
+  "sounds": [
+    "è",
+    "ê",
+    "ë",
+    "ei",
+    "e + two consonants",
+    "e + final consonant"
+  ],
+  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "sentences": [
+    {
+      "fr": "Ce soir, nous allons dans une cr[ê]perie.",
+      "en": "Tonight, we're going to a crêperie."
+    },
+    {
+      "fr": "Le s[e]rveur nous apporte le menu.",
+      "en": "The waiter brings us the menu."
+    },
+    {
+      "fr": "Je prends une cr[ê]pe à la cr[è]me.",
+      "en": "I'm having a crepe with cream."
+    },
+    {
+      "fr": "Mon p[è]re prend une cr[ê]pe au jambon av[e]c un v[e]rre de cidre.",
+      "en": "My father has a ham crepe with a glass of cider."
+    },
+    {
+      "fr": "C'[e]st délicieux. M[e]rci beaucoup !",
+      "en": "It's delicious. Thank you very much!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la crêperie",
+      "en": "crêpe restaurant"
+    },
+    {
+      "fr": "le serveur",
+      "en": "waiter"
+    },
+    {
+      "fr": "la crème",
+      "en": "cream"
+    },
+    {
+      "fr": "un verre de cidre",
+      "en": "a glass of cider"
+    },
+    {
+      "fr": "délicieux",
+      "en": "delicious"
+    }
+  ]
+}
