@@ -1,0 +1,50 @@
+la serrure	the lock	[sound:the-lock.webm]	/la seʁyʁ/
+la roche	the rock	[sound:the-rock-la-roche.webm]	/la ʁɔʃ/
+provenir	to come from (provenir de)	[sound:to-come-from-provenir-de.webm]	/pʁɔvəniʁ/
+multiplier	to multiply	[sound:to-multiply.webm]	/myltiplije/
+choquer	to shock	[sound:to-shock.webm]	/ʃɔke/
+la dispute	the argument / the quarrel	[sound:the-argument-the-quarrel.webm]	/la dispyt/
+le maillot	the jersey / the swimsuit (le maillot de bain)	[sound:the-jersey-the-swimsuit-le-maillot-de-bain.webm]	/lə majo/
+la dentelle	the lace	[sound:the-lace.webm]	/la dɑ̃tɛl/
+la sirène	the siren / the mermaid	[sound:the-siren-the-mermaid.webm]	/la siʁɛn/
+la cachette	the hiding place	[sound:the-hiding-place.webm]	/la kaʃɛt/
+la tranche	the slice	[sound:the-slice.webm]	/la tʁɑ̃ʃ/
+la camionnette	the van	[sound:the-van.webm]	/la kamjɔnɛt/
+le / la domestique	the servant / the domestic worker	[sound:the-servant-the-domestic-worker.webm]	/lə, la dɔmɛstik/
+le / la détective	the detective	[sound:the-detective.webm]	/lə, la detɛktiv/
+supprimer	to delete / to remove / to abolish	[sound:to-delete-to-remove-to-abolish.webm]	/sypʁime/
+dessous	underneath / below	[sound:underneath-below.webm]	/dəsu/
+brancher	to plug in / to connect	[sound:to-plug-in-to-connect.webm]	/bʁɑ̃ʃe/
+le marteau	the hammer	[sound:the-hammer.webm]	/lə maʁto/
+la répétition	the rehearsal / the repetition	[sound:the-rehearsal-the-repetition.webm]	/la ʁepetisjɔ̃/
+la révélation	the revelation	[sound:the-revelation.webm]	/la ʁevelasjɔ̃/
+technique	technical	[sound:technical.webm]	/tɛknik/
+le conflit	the conflict	[sound:the-conflict.webm]	/lə kɔ̃fli/
+associer	to associate / to combine	[sound:to-associate-to-combine.webm]	/asɔsje/
+l'élégance (f.)	the elegance	[sound:the-elegance.webm]	/leleɡɑ̃s/
+afficher	to post / to display	[sound:to-post-to-display.webm]	/afiʃe/
+la lance	the spear / the lance	[sound:the-spear-the-lance.webm]	/la lɑ̃s/
+au-dessous	below / underneath	[sound:below-underneath.webm]	/odəsu/
+le ressort	the spring (coil) / the scope (du ressort de = within the scope of)	[sound:the-spring-coil-the-scope-du-ressort-de-within-the-scope-of.webm]	/lə ʁəsɔʁ/
+le mérite	the merit / the credit	[sound:the-merit-the-credit.webm]	/lə meʁit/
+correct / correcte	correct / proper	[sound:correct-proper.webm]	/kɔʁɛkt/
+la foudre	the lightning (bolt)	[sound:the-lightning-bolt.webm]	/la fudʁ/
+la vigne	the vine / the vineyard	[sound:the-vine-the-vineyard.webm]	/la viɲ/
+le frigo	the fridge	[sound:the-fridge.webm]	/lə fʁiɡo/
+la corne	the horn	[sound:the-horn.webm]	/la kɔʁn/
+le barreau	the bar (prison, window) / the bar (law)	[sound:the-bar-prison-window-the-bar-law.webm]	/lə baʁo/
+métallique	metal / metallic	[sound:metal-metallic.webm]	/metalik/
+l'obligation (f.)	the obligation	[sound:the-obligation.webm]	/lɔbliɡasjɔ̃/
+le domicile	the home / the residence	[sound:the-home-the-residence.webm]	/lə dɔmisil/
+le refuge	the shelter / the refuge	[sound:the-shelter-the-refuge.webm]	/lə ʁəfyʒ/
+l'horloge (f.)	the clock	[sound:the-clock.webm]	/lɔʁlɔʒ/
+le bonnet	the hat (wool) / the beanie (Québec: la tuque)	[sound:the-hat-wool-the-beanie-quebec-la-tuque.webm]	/lə bɔnɛ/
+tourmenter	to torment	[sound:to-torment.webm]	/tuʁmɑ̃te/
+le guerrier / la guerrière	the warrior	[sound:the-warrior.webm]	/lə ɡɛʁje, la ɡɛʁjɛʁ/
+cirer	to polish / to wax	[sound:to-polish-to-wax.webm]	/siʁe/
+émettre	to emit / to issue	[sound:to-emit-to-issue.webm]	/emɛtʁ/
+la fée	the fairy	[sound:the-fairy.webm]	/la fe/
+inquiétant / inquiétante	worrying / alarming	[sound:worrying-alarming.webm]	/ɛ̃kjetɑ̃, ɛ̃kjetɑ̃t/
+la formation	the training / the education / the formation	[sound:the-training-the-education-the-formation.webm]	/la fɔʁmasjɔ̃/
+court	short (couper court = to cut short)	[sound:short-couper-court-to-cut-short.webm]	/kuʁ/
+terriblement	terribly	[sound:terribly.webm]	/tɛʁibləmɑ̃/
