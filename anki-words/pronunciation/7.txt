@@ -1,12 +1,12 @@
-l'oncle (m.)	the uncle	[sound:the-uncle.webm]
-l'Ontario (m.)	Ontario	[sound:ontario.webm]
-onze	eleven	[sound:eleven.webm]
-le pompier / la pompière	the firefighter	[sound:the-firefighter.webm]
-le pont	the bridge	[sound:the-bridge.webm]
-raconter	to tell (a story)	[sound:to-tell-a-story.webm]
-rond / ronde	round	[sound:round.webm]
-le saumon	the salmon	[sound:the-salmon.webm]
-son	his / her (masc.)	[sound:his-her-masc.webm]
-ils sont	they are	[sound:they-are.webm]
-tomber	to fall	[sound:to-fall.webm]
-ton	your (masc., informal)	[sound:your-masc-informal.webm]
+l'oncle (m.)	the uncle	[sound:the-uncle.webm]	/lɔ̃kl/
+l'Ontario (m.)	Ontario	[sound:ontario.webm]	/lɔ̃taʁjo/
+onze	eleven	[sound:eleven.webm]	/ɔ̃z/
+le pompier / la pompière	the firefighter	[sound:the-firefighter.webm]	/lə pɔ̃pje, la pɔ̃pjɛʁ/
+le pont	the bridge	[sound:the-bridge.webm]	/lə pɔ̃/
+raconter	to tell (a story)	[sound:to-tell-a-story.webm]	/ʁakɔ̃te/
+rond / ronde	round	[sound:round.webm]	/ʁɔ̃, ʁɔ̃d/
+le saumon	the salmon	[sound:the-salmon.webm]	/lə somɔ̃/
+son	his / her (masc.)	[sound:his-her-masc.webm]	/sɔ̃/
+ils sont	they are	[sound:they-are.webm]	/il sɔ̃/
+tomber	to fall	[sound:to-fall.webm]	/tɔ̃be/
+ton	your (masc., informal)	[sound:your-masc-informal.webm]	/tɔ̃/

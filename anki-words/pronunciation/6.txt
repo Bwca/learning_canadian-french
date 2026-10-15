@@ -1,50 +1,50 @@
-le vent	the wind	[sound:the-wind.webm]
-la viande	the meat	[sound:the-meat.webm]
-vraiment	really	[sound:really.webm]
-le chemin	the path / road	[sound:the-path-road.webm]
-cinq	five	[sound:five.webm]
-le cousin / la cousine	the cousin	[sound:the-cousin.webm]
-le dauphin	the dolphin	[sound:the-dolphin.webm]
-le dessin	the drawing	[sound:the-drawing.webm]
-le dindon	the turkey	[sound:the-turkey.webm]
-le grain	the grain	[sound:the-grain.webm]
-impressionnant / impressionnante	impressive	[sound:impressive.webm]
-incroyable	incredible	[sound:incredible.webm]
-le jardin	the garden	[sound:the-garden.webm]
-le lapin	the rabbit	[sound:the-rabbit.webm]
-le lynx	the lynx	[sound:the-lynx.webm]
-la main	the hand	[sound:the-hand.webm]
-le matin	the morning	[sound:the-morning.webm]
-peint / peinte	painted	[sound:painted.webm]
-le peintre / la peintre	the painter	[sound:the-painter.webm]
-le romarin	rosemary	[sound:rosemary.webm]
-Saint-Hyacinthe	Saint-Hyacinthe (city)	[sound:saint-hyacinthe-city.webm]
-le sapin	the fir tree	[sound:the-fir-tree.webm]
-simple	simple	[sound:simple.webm]
-sympa	nice / friendly	[sound:nice-friendly.webm]
-le thym	thyme	[sound:thyme.webm]
-vingt	twenty	[sound:twenty.webm]
-quinze	fifteen	[sound:fifteen.webm]
-le ballon	the ball	[sound:the-ball.webm]
-bon / bonne	good (masc. / fem.)	[sound:good-masc-fem.webm]
-le bonbon	the candy	[sound:the-candy.webm]
-bonjour	hello	[sound:hello.webm]
-le camion	the truck	[sound:the-truck.webm]
-le citron	the lemon	[sound:the-lemon.webm]
-le cochon	the pig	[sound:the-pig.webm]
-compter	to count	[sound:to-count.webm]
-le concombre	the cucumber	[sound:the-cucumber.webm]
-conduire	to drive	[sound:to-drive.webm]
-le conte	the tale / story	[sound:the-tale-story.webm]
-le gazon	the lawn	[sound:the-lawn.webm]
-le jambon	the ham	[sound:the-ham.webm]
-long / longue	long	[sound:long.webm]
-Longueuil	Longueuil (city)	[sound:longueuil-city.webm]
-le melon	the melon	[sound:the-melon.webm]
-mignon / mignonne	cute	[sound:cute.webm]
-mon	my (masc.)	[sound:my-masc.webm]
-la montagne	the mountain	[sound:the-mountain.webm]
-le nom	the name	[sound:the-name.webm]
-le nombre	the number	[sound:the-number.webm]
-l'oignon (m.)	the onion	[sound:the-onion.webm]
-on	we (casual) / one	[sound:we-casual-one.webm]
+le vent	the wind	[sound:the-wind.webm]	/lə vɑ̃/
+la viande	the meat	[sound:the-meat.webm]	/la vjɑ̃d/
+vraiment	really	[sound:really.webm]	/vʁɛmɑ̃/
+le chemin	the path / road	[sound:the-path-road.webm]	/lə ʃəmɛ̃/
+cinq	five	[sound:five.webm]	/sɛ̃k/
+le cousin / la cousine	the cousin	[sound:the-cousin.webm]	/lə kuzɛ̃, la kuzin/
+le dauphin	the dolphin	[sound:the-dolphin.webm]	/lə dofɛ̃/
+le dessin	the drawing	[sound:the-drawing.webm]	/lə desɛ̃/
+le dindon	the turkey	[sound:the-turkey.webm]	/lə dɛ̃dɔ̃/
+le grain	the grain	[sound:the-grain.webm]	/lə ɡʁɛ̃/
+impressionnant / impressionnante	impressive	[sound:impressive.webm]	/ɛ̃pʁɛsjɔnɑ̃, ɛ̃pʁɛsjɔnɑ̃t/
+incroyable	incredible	[sound:incredible.webm]	/ɛ̃kʁwajabl/
+le jardin	the garden	[sound:the-garden.webm]	/lə ʒaʁdɛ̃/
+le lapin	the rabbit	[sound:the-rabbit.webm]	/lə lapɛ̃/
+le lynx	the lynx	[sound:the-lynx.webm]	/lə lɛ̃ks/
+la main	the hand	[sound:the-hand.webm]	/la mɛ̃/
+le matin	the morning	[sound:the-morning.webm]	/lə matɛ̃/
+peint / peinte	painted	[sound:painted.webm]	/pɛ̃, pɛ̃t/
+le peintre / la peintre	the painter	[sound:the-painter.webm]	/lə pɛ̃tʁ, la pɛ̃tʁ/
+le romarin	rosemary	[sound:rosemary.webm]	/lə ʁɔmaʁɛ̃/
+Saint-Hyacinthe	Saint-Hyacinthe (city)	[sound:saint-hyacinthe-city.webm]	/sɛ̃t jasɛ̃t/
+le sapin	the fir tree	[sound:the-fir-tree.webm]	/lə sapɛ̃/
+simple	simple	[sound:simple.webm]	/sɛ̃pl/
+sympa	nice / friendly	[sound:nice-friendly.webm]	/sɛ̃pa/
+le thym	thyme	[sound:thyme.webm]	/lə tɛ̃/
+vingt	twenty	[sound:twenty.webm]	/vɛ̃/
+quinze	fifteen	[sound:fifteen.webm]	/kɛ̃z/
+le ballon	the ball	[sound:the-ball.webm]	/lə balɔ̃/
+bon / bonne	good (masc. / fem.)	[sound:good-masc-fem.webm]	/bɔ̃, bɔn/
+le bonbon	the candy	[sound:the-candy.webm]	/lə bɔ̃bɔ̃/
+bonjour	hello	[sound:hello.webm]	/bɔ̃ʒuʁ/
+le camion	the truck	[sound:the-truck.webm]	/lə kamjɔ̃/
+le citron	the lemon	[sound:the-lemon.webm]	/lə sitʁɔ̃/
+le cochon	the pig	[sound:the-pig.webm]	/lə kɔʃɔ̃/
+compter	to count	[sound:to-count.webm]	/kɔ̃te/
+le concombre	the cucumber	[sound:the-cucumber.webm]	/lə kɔ̃kɔ̃bʁ/
+conduire	to drive	[sound:to-drive.webm]	/kɔ̃dɥiʁ/
+le conte	the tale / story	[sound:the-tale-story.webm]	/lə kɔ̃t/
+le gazon	the lawn	[sound:the-lawn.webm]	/lə ɡazɔ̃/
+le jambon	the ham	[sound:the-ham.webm]	/lə ʒɑ̃bɔ̃/
+long / longue	long	[sound:long.webm]	/lɔ̃, lɔ̃ɡ/
+Longueuil	Longueuil (city)	[sound:longueuil-city.webm]	/lɔ̃ɡœj/
+le melon	the melon	[sound:the-melon.webm]	/lə məlɔ̃/
+mignon / mignonne	cute	[sound:cute.webm]	/miɲɔ̃, miɲɔn/
+mon	my (masc.)	[sound:my-masc.webm]	/mɔ̃/
+la montagne	the mountain	[sound:the-mountain.webm]	/la mɔ̃taɲ/
+le nom	the name	[sound:the-name.webm]	/lə nɔ̃/
+le nombre	the number	[sound:the-number.webm]	/lə nɔ̃bʁ/
+l'oignon (m.)	the onion	[sound:the-onion.webm]	/lɔɲɔ̃/
+on	we (casual) / one	[sound:we-casual-one.webm]	/ɔ̃/

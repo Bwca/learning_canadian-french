@@ -1,50 +1,50 @@
-le garçon	the boy	[sound:the-boy.webm]
-le poisson	the fish	[sound:the-fish.webm]
-la leçon	the lesson	[sound:the-lesson.webm]
-la façon	the way / manner	[sound:the-way-manner.webm]
-le blouson	the jacket	[sound:the-jacket.webm]
-le savon	the soap	[sound:the-soap.webm]
-le mouton	the sheep	[sound:the-sheep.webm]
-le patron / la patronne	the boss / owner	[sound:the-boss-owner.webm]
-le flan	the custard tart	[sound:the-custard-tart.webm]
-le ruban	the ribbon	[sound:the-ribbon.webm]
-j'aime	I like / I love	[sound:i-like-i-love.webm]
-anglais / anglaise	English	[sound:english.webm]
-l'anniversaire (m.)	the birthday	[sound:the-birthday.webm]
-la baleine	the whale	[sound:the-whale.webm]
-beige	beige	[sound:beige.webm]
-la chaise	the chair	[sound:the-chair.webm]
-la craie	the chalk	[sound:the-chalk.webm]
-la douzaine	the dozen	[sound:the-dozen.webm]
-faire	to do / to make	[sound:to-do-to-make.webm]
-il fait	it's (weather) / he does	[sound:it-s-weather-he-does.webm]
-frais / fraîche	cool / fresh	[sound:cool-fresh.webm]
-la fraise	the strawberry	[sound:the-strawberry.webm]
-français / française	French	[sound:french.webm]
-jamais	never	[sound:never.webm]
-l'air (m.)	the air	[sound:the-air.webm]
-la laine	the wool	[sound:the-wool.webm]
-le lait	the milk	[sound:the-milk.webm]
-mai	May	[sound:may.webm]
-mais	but	[sound:but.webm]
-la neige	the snow	[sound:the-snow.webm]
-la paire	the pair	[sound:the-pair.webm]
-la peine (avoir de la peine)	sorrow (to be sad)	[sound:sorrow-to-be-sad.webm]
-s'il vous plaît	please (formal)	[sound:please-formal.webm]
-prochain / prochaine	next	[sound:next.webm]
-seize	sixteen	[sound:sixteen.webm]
-la semaine	the week	[sound:the-week.webm]
-treize	thirteen	[sound:thirteen.webm]
-vrai / vraie	true	[sound:true.webm]
-épais / épaisse	thick	[sound:thick.webm]
-la reine	the queen	[sound:the-queen.webm]
-acheter	to buy	[sound:to-buy.webm]
-aller	to go	[sound:to-go.webm]
-comment allez-vous ?	how are you? (formal)	[sound:how-are-you-formal.webm]
-brûler	to burn	[sound:to-burn.webm]
-le café	the coffee	[sound:the-coffee.webm]
-le cahier	the notebook	[sound:the-notebook.webm]
-le caissier / la caissière	the cashier	[sound:the-cashier.webm]
-le casier	the locker	[sound:the-locker.webm]
-chez	at (someone's place)	[sound:at-someone-s-place.webm]
-crier	to shout	[sound:to-shout.webm]
+le garçon	the boy	[sound:the-boy.webm]	/lə ɡaʁsɔ̃/
+le poisson	the fish	[sound:the-fish.webm]	/lə pwasɔ̃/
+la leçon	the lesson	[sound:the-lesson.webm]	/la ləsɔ̃/
+la façon	the way / manner	[sound:the-way-manner.webm]	/la fasɔ̃/
+le blouson	the jacket	[sound:the-jacket.webm]	/lə bluzɔ̃/
+le savon	the soap	[sound:the-soap.webm]	/lə savɔ̃/
+le mouton	the sheep	[sound:the-sheep.webm]	/lə mutɔ̃/
+le patron / la patronne	the boss / owner	[sound:the-boss-owner.webm]	/lə patʁɔ̃, la patʁɔn/
+le flan	the custard tart	[sound:the-custard-tart.webm]	/lə flɑ̃/
+le ruban	the ribbon	[sound:the-ribbon.webm]	/lə ʁybɑ̃/
+j'aime	I like / I love	[sound:i-like-i-love.webm]	/ʒɛm/
+anglais / anglaise	English	[sound:english.webm]	/ɑ̃ɡlɛ, ɑ̃ɡlɛz/
+l'anniversaire (m.)	the birthday	[sound:the-birthday.webm]	/lanivɛʁsɛʁ/
+la baleine	the whale	[sound:the-whale.webm]	/la balɛn/
+beige	beige	[sound:beige.webm]	/bɛʒ/
+la chaise	the chair	[sound:the-chair.webm]	/la ʃɛz/
+la craie	the chalk	[sound:the-chalk.webm]	/la kʁɛ/
+la douzaine	the dozen	[sound:the-dozen.webm]	/la duzɛn/
+faire	to do / to make	[sound:to-do-to-make.webm]	/fɛʁ/
+il fait	it's (weather) / he does	[sound:it-s-weather-he-does.webm]	/il fɛ/
+frais / fraîche	cool / fresh	[sound:cool-fresh.webm]	/fʁɛ, fʁɛʃ/
+la fraise	the strawberry	[sound:the-strawberry.webm]	/la fʁɛz/
+français / française	French	[sound:french.webm]	/fʁɑ̃sɛ, fʁɑ̃sɛz/
+jamais	never	[sound:never.webm]	/ʒamɛ/
+l'air (m.)	the air	[sound:the-air.webm]	/lɛʁ/
+la laine	the wool	[sound:the-wool.webm]	/la lɛn/
+le lait	the milk	[sound:the-milk.webm]	/lə lɛ/
+mai	May	[sound:may.webm]	/mɛ/
+mais	but	[sound:but.webm]	/mɛ/
+la neige	the snow	[sound:the-snow.webm]	/la nɛʒ/
+la paire	the pair	[sound:the-pair.webm]	/la pɛʁ/
+la peine (avoir de la peine)	sorrow (to be sad)	[sound:sorrow-to-be-sad.webm]	/la pɛn/
+s'il vous plaît	please (formal)	[sound:please-formal.webm]	/sil vu plɛ/
+prochain / prochaine	next	[sound:next.webm]	/pʁɔʃɛ̃, pʁɔʃɛn/
+seize	sixteen	[sound:sixteen.webm]	/sɛz/
+la semaine	the week	[sound:the-week.webm]	/la səmɛn/
+treize	thirteen	[sound:thirteen.webm]	/tʁɛz/
+vrai / vraie	true	[sound:true.webm]	/vʁɛ/
+épais / épaisse	thick	[sound:thick.webm]	/epɛ, epɛs/
+la reine	the queen	[sound:the-queen.webm]	/la ʁɛn/
+acheter	to buy	[sound:to-buy.webm]	/aʃte/
+aller	to go	[sound:to-go.webm]	/ale/
+comment allez-vous ?	how are you? (formal)	[sound:how-are-you-formal.webm]	/kɔmɑ̃t ale vu/
+brûler	to burn	[sound:to-burn.webm]	/bʁyle/
+le café	the coffee	[sound:the-coffee.webm]	/lə kafe/
+le cahier	the notebook	[sound:the-notebook.webm]	/lə kaje/
+le caissier / la caissière	the cashier	[sound:the-cashier.webm]	/lə kɛsje, la kɛsjɛʁ/
+le casier	the locker	[sound:the-locker.webm]	/lə kazje/
+chez	at (someone's place)	[sound:at-someone-s-place.webm]	/ʃe/
+crier	to shout	[sound:to-shout.webm]	/kʁije/

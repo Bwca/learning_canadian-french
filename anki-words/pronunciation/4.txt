@@ -1,50 +1,50 @@
-après	after	[sound:after.webm]
-avec	with	[sound:with.webm]
-beau / belle	beautiful	[sound:beautiful.webm]
-la bibliothèque	the library	[sound:the-library.webm]
-la bête	the animal / beast	[sound:the-animal-beast.webm]
-c'est	it is / this is	[sound:it-is-this-is.webm]
-cet / cette	this (before a vowel / feminine)	[sound:this-before-a-vowel-feminine.webm]
-le chef / la cheffe	the chef / boss	[sound:the-chef-boss.webm]
-chercher	to look for	[sound:to-look-for.webm]
-le ciel	the sky	[sound:the-sky.webm]
-le collège	the college	[sound:the-college.webm]
-la crème	the cream	[sound:the-cream.webm]
-la crêpe	the crêpe	[sound:the-crepe.webm]
-la crêperie	the crêpe restaurant	[sound:the-crepe-restaurant.webm]
-elle	she	[sound:she.webm]
-tu es	you are (informal)	[sound:you-are-informal.webm]
-il est	he is	[sound:he-is.webm]
-est-ce que	question marker (is it that…)	[sound:question-marker-is-it-that.webm]
-l'examen (m.)	the exam	[sound:the-exam.webm]
-excellent / excellente	excellent	[sound:excellent.webm]
-la fenêtre	the window	[sound:the-window.webm]
-fermé / fermée	closed	[sound:closed.webm]
-la forêt	the forest	[sound:the-forest.webm]
-le frère	the brother	[sound:the-brother.webm]
-la fête	the party / celebration	[sound:the-party-celebration.webm]
-fêter	to celebrate	[sound:to-celebrate.webm]
-l'herbe (f.)	the grass	[sound:the-grass.webm]
-l'hôtel (m.)	the hotel	[sound:the-hotel.webm]
-la lettre	the letter	[sound:the-letter.webm]
-je me lève	I get up	[sound:i-get-up.webm]
-la mer	the sea	[sound:the-sea.webm]
-merci	thank you	[sound:thank-you.webm]
-mercredi	Wednesday	[sound:wednesday.webm]
-mettre	to put / to put on	[sound:to-put-to-put-on.webm]
-le père	the father	[sound:the-father.webm]
-la mère	the mother	[sound:the-mother.webm]
-Noël	Christmas	[sound:christmas.webm]
-le problème	the problem	[sound:the-problem.webm]
-près	near	[sound:near.webm]
-la pêche	the peach / fishing	[sound:the-peach-fishing.webm]
-le restaurant	the restaurant	[sound:the-restaurant.webm]
-rester	to stay	[sound:to-stay.webm]
-je me réveille	I wake up	[sound:i-wake-up.webm]
-le rêve	the dream	[sound:the-dream.webm]
-il s'appelle	his name is	[sound:his-name-is.webm]
-le serveur / la serveuse	the waiter / waitress	[sound:the-waiter-waitress.webm]
-super	great	[sound:great.webm]
-la tempête	the storm	[sound:the-storm.webm]
-la tête	the head	[sound:the-head.webm]
-très	very	[sound:very.webm]
+après	after	[sound:after.webm]	/apʁɛ/
+avec	with	[sound:with.webm]	/avɛk/
+beau / belle	beautiful	[sound:beautiful.webm]	/bo, bɛl/
+la bibliothèque	the library	[sound:the-library.webm]	/la biblijɔtɛk/
+la bête	the animal / beast	[sound:the-animal-beast.webm]	/la bɛt/
+c'est	it is / this is	[sound:it-is-this-is.webm]	/sɛ/
+cet / cette	this (before a vowel / feminine)	[sound:this-before-a-vowel-feminine.webm]	/sɛt/
+le chef / la cheffe	the chef / boss	[sound:the-chef-boss.webm]	/lə ʃɛf, la ʃɛf/
+chercher	to look for	[sound:to-look-for.webm]	/ʃɛʁʃe/
+le ciel	the sky	[sound:the-sky.webm]	/lə sjɛl/
+le collège	the college	[sound:the-college.webm]	/lə kɔlɛʒ/
+la crème	the cream	[sound:the-cream.webm]	/la kʁɛm/
+la crêpe	the crêpe	[sound:the-crepe.webm]	/la kʁɛp/
+la crêperie	the crêpe restaurant	[sound:the-crepe-restaurant.webm]	/la kʁɛpʁi/
+elle	she	[sound:she.webm]	/ɛl/
+tu es	you are (informal)	[sound:you-are-informal.webm]	/ty ɛ/
+il est	he is	[sound:he-is.webm]	/il ɛ/
+est-ce que	question marker (is it that…)	[sound:question-marker-is-it-that.webm]	/ɛs kə/
+l'examen (m.)	the exam	[sound:the-exam.webm]	/lɛɡzamɛ̃/
+excellent / excellente	excellent	[sound:excellent.webm]	/ɛksɛlɑ̃, ɛksɛlɑ̃t/
+la fenêtre	the window	[sound:the-window.webm]	/la fənɛtʁ/
+fermé / fermée	closed	[sound:closed.webm]	/fɛʁme/
+la forêt	the forest	[sound:the-forest.webm]	/la fɔʁɛ/
+le frère	the brother	[sound:the-brother.webm]	/lə fʁɛʁ/
+la fête	the party / celebration	[sound:the-party-celebration.webm]	/la fɛt/
+fêter	to celebrate	[sound:to-celebrate.webm]	/fete/
+l'herbe (f.)	the grass	[sound:the-grass.webm]	/lɛʁb/
+l'hôtel (m.)	the hotel	[sound:the-hotel.webm]	/lotɛl/
+la lettre	the letter	[sound:the-letter.webm]	/la lɛtʁ/
+je me lève	I get up	[sound:i-get-up.webm]	/ʒə mə lɛv/
+la mer	the sea	[sound:the-sea.webm]	/la mɛʁ/
+merci	thank you	[sound:thank-you.webm]	/mɛʁsi/
+mercredi	Wednesday	[sound:wednesday.webm]	/mɛʁkʁədi/
+mettre	to put / to put on	[sound:to-put-to-put-on.webm]	/mɛtʁ/
+le père	the father	[sound:the-father.webm]	/lə pɛʁ/
+la mère	the mother	[sound:the-mother.webm]	/la mɛʁ/
+Noël	Christmas	[sound:christmas.webm]	/nɔɛl/
+le problème	the problem	[sound:the-problem.webm]	/lə pʁɔblɛm/
+près	near	[sound:near.webm]	/pʁɛ/
+la pêche	the peach / fishing	[sound:the-peach-fishing.webm]	/la pɛʃ/
+le restaurant	the restaurant	[sound:the-restaurant.webm]	/lə ʁɛstɔʁɑ̃/
+rester	to stay	[sound:to-stay.webm]	/ʁɛste/
+je me réveille	I wake up	[sound:i-wake-up.webm]	/ʒə mə ʁevɛj/
+le rêve	the dream	[sound:the-dream.webm]	/lə ʁɛv/
+il s'appelle	his name is	[sound:his-name-is.webm]	/il sapɛl/
+le serveur / la serveuse	the waiter / waitress	[sound:the-waiter-waitress.webm]	/lə sɛʁvœʁ, la sɛʁvøz/
+super	great	[sound:great.webm]	/sypɛʁ/
+la tempête	the storm	[sound:the-storm.webm]	/la tɑ̃pɛt/
+la tête	the head	[sound:the-head.webm]	/la tɛt/
+très	very	[sound:very.webm]	/tʁɛ/
