@@ -28,7 +28,7 @@ jobs:
       - name: Assemble site
         run: |
           mkdir _site
-          cp -r index.html library.js audio-drill.html vocab-quiz.html translation-drill.html anki-words grammar-exercises _site/
+          cp -r index.html library.js audio-drill.html vocab-quiz.html translation-drill.html reading-trainer.html anki-words grammar-exercises reading-exercises _site/
           node .github/scripts/build-manifest.js _site
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
