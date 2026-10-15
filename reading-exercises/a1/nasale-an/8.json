@@ -1,0 +1,54 @@
+{
+  "title": "Nasal [ɑ̃] — an, am, en, em (set 8)",
+  "sounds": [
+    "an",
+    "am",
+    "en",
+    "em"
+  ],
+  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »).",
+  "sentences": [
+    {
+      "fr": "Mon ch[an]teur préféré s'appelle Vinc[en]t.",
+      "en": "My favourite singer is called Vincent."
+    },
+    {
+      "fr": "Il ch[an]te des ch[an]sons [en] fr[an]çais et [en] [an]glais.",
+      "en": "He sings songs in French and in English."
+    },
+    {
+      "fr": "Ce soir, il donne un gr[an]d concert à Montréal.",
+      "en": "Tonight, he's giving a big concert in Montreal."
+    },
+    {
+      "fr": "Les fans ch[an]tent et d[an]sent avec lui.",
+      "en": "The fans sing and dance with him."
+    },
+    {
+      "fr": "C'est un mom[en]t vraim[en]t magique.",
+      "en": "It's a truly magical moment."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le chanteur",
+      "en": "singer"
+    },
+    {
+      "fr": "préféré",
+      "en": "favourite"
+    },
+    {
+      "fr": "la chanson",
+      "en": "song"
+    },
+    {
+      "fr": "en anglais",
+      "en": "in English"
+    },
+    {
+      "fr": "vraiment",
+      "en": "truly, really"
+    }
+  ]
+}

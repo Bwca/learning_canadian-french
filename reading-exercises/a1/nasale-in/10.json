@@ -1,0 +1,58 @@
+{
+  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 10)",
+  "sounds": [
+    "in",
+    "im",
+    "yn",
+    "ym",
+    "ain",
+    "aim",
+    "ein",
+    "eim"
+  ],
+  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « hymne » isn't nasal: the ym is followed by n.",
+  "sentences": [
+    {
+      "fr": "Cet été, les jeux ol[ym]piques passent à la télé.",
+      "en": "This summer, the Olympic Games are on TV."
+    },
+    {
+      "fr": "Mon cous[in] et moi, nous regardons le basketball.",
+      "en": "My cousin and I watch basketball."
+    },
+    {
+      "fr": "Les athlètes sont [im]pressionnants : ils sont très rapides !",
+      "en": "The athletes are impressive: they're very fast!"
+    },
+    {
+      "fr": "Une athlète du Québec gagne une médaille d'or : c'est [in]croyable !",
+      "en": "An athlete from Québec wins a gold medal: it's incredible!"
+    },
+    {
+      "fr": "À la f[in], tout le monde chante l'hymne national.",
+      "en": "At the end, everyone sings the national anthem."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "les jeux olympiques",
+      "en": "the Olympic Games"
+    },
+    {
+      "fr": "impressionnant",
+      "en": "impressive"
+    },
+    {
+      "fr": "une médaille d'or",
+      "en": "a gold medal"
+    },
+    {
+      "fr": "incroyable",
+      "en": "incredible"
+    },
+    {
+      "fr": "l'hymne national",
+      "en": "the national anthem"
+    }
+  ]
+}

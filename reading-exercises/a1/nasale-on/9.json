@@ -1,0 +1,52 @@
+{
+  "title": "Nasal [ɔ̃] — on, om (set 9)",
+  "sounds": [
+    "on",
+    "om"
+  ],
+  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ».",
+  "sentences": [
+    {
+      "fr": "Sim[on] a un poiss[on] rouge qui s'appelle Bubulle.",
+      "en": "Simon has a goldfish called Bubulle."
+    },
+    {
+      "fr": "Le poiss[on] nage en r[on]d dans s[on] bocal.",
+      "en": "The fish swims in circles in its bowl."
+    },
+    {
+      "fr": "Chaque matin, Sim[on] lui apporte à manger.",
+      "en": "Every morning, Simon brings it food."
+    },
+    {
+      "fr": "« Bubulle, tu es mign[on] ! » dit Sim[on].",
+      "en": "\"Bubulle, you're cute!\" says Simon."
+    },
+    {
+      "fr": "Le poiss[on] ne rép[on]d pas, mais il fait des bulles.",
+      "en": "The fish doesn't answer, but it blows bubbles."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le poisson rouge",
+      "en": "goldfish"
+    },
+    {
+      "fr": "nager en rond",
+      "en": "to swim in circles"
+    },
+    {
+      "fr": "le bocal",
+      "en": "fishbowl"
+    },
+    {
+      "fr": "mignon",
+      "en": "cute"
+    },
+    {
+      "fr": "la bulle",
+      "en": "bubble"
+    }
+  ]
+}

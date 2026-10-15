@@ -1,0 +1,52 @@
+{
+  "title": "Nasal [ɔ̃] — on, om (set 3)",
+  "sounds": [
+    "on",
+    "om"
+  ],
+  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « oignon » is spelled oi but sounds [ɔɲɔ̃].",
+  "sentences": [
+    {
+      "fr": "Le samedi, nous all[on]s au marché Jean-Tal[on].",
+      "en": "On Saturdays, we go to the Jean-Talon Market."
+    },
+    {
+      "fr": "Nous achet[on]s des citr[on]s, des mel[on]s et des oign[on]s.",
+      "en": "We buy lemons, melons and onions."
+    },
+    {
+      "fr": "Le vendeur nous propose du saum[on] frais.",
+      "en": "The seller offers us fresh salmon."
+    },
+    {
+      "fr": "C'est b[on] ? Oui, c'est très b[on] !",
+      "en": "Is it good? Yes, it's very good!"
+    },
+    {
+      "fr": "[On] rentre à la mais[on] avec un gros panier.",
+      "en": "We go home with a big basket."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le marché Jean-Talon",
+      "en": "a big public market in Montreal"
+    },
+    {
+      "fr": "le citron",
+      "en": "lemon"
+    },
+    {
+      "fr": "l'oignon",
+      "en": "onion"
+    },
+    {
+      "fr": "le saumon",
+      "en": "salmon"
+    },
+    {
+      "fr": "le panier",
+      "en": "basket"
+    }
+  ]
+}

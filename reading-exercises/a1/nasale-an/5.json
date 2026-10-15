@@ -1,0 +1,58 @@
+{
+  "title": "Nasal [ɑ̃] — an, am, en, em (set 5)",
+  "sounds": [
+    "an",
+    "am",
+    "en",
+    "em"
+  ],
+  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »).",
+  "sentences": [
+    {
+      "fr": "Fern[an]d a un chat bl[an]c qui s'appelle Flocon.",
+      "en": "Fernand has a white cat called Flocon."
+    },
+    {
+      "fr": "Le chat dort d[an]s la ch[am]bre, près de la l[am]pe.",
+      "en": "The cat sleeps in the bedroom, near the lamp."
+    },
+    {
+      "fr": "Qu[an]d il a faim, il ch[an]te très fort.",
+      "en": "When he's hungry, he sings very loudly."
+    },
+    {
+      "fr": "Fern[an]d lui donne de la vi[an]de.",
+      "en": "Fernand gives him some meat."
+    },
+    {
+      "fr": "[En]suite, Flocon s'[en]dort l[en]tem[en]t.",
+      "en": "Then Flocon slowly falls asleep."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le flocon",
+      "en": "snowflake"
+    },
+    {
+      "fr": "la lampe",
+      "en": "lamp"
+    },
+    {
+      "fr": "fort",
+      "en": "loudly"
+    },
+    {
+      "fr": "la viande",
+      "en": "meat"
+    },
+    {
+      "fr": "s'endormir",
+      "en": "to fall asleep"
+    },
+    {
+      "fr": "lentement",
+      "en": "slowly"
+    }
+  ]
+}

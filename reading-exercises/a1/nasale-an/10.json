@@ -1,0 +1,50 @@
+{
+  "title": "Nasal [ɑ̃] — an, am, en, em (set 10)",
+  "sounds": [
+    "an",
+    "am",
+    "en",
+    "em"
+  ],
+  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »). « anniversaire » has a double n, so it isn't nasal.",
+  "sentences": [
+    {
+      "fr": "Demain, c'est l'anniversaire de mon [en]f[an]t.",
+      "en": "Tomorrow is my child's birthday."
+    },
+    {
+      "fr": "Il va avoir sept [an]s.",
+      "en": "He's going to be seven."
+    },
+    {
+      "fr": "Nous préparons un gâteau à l'or[an]ge.",
+      "en": "We're making an orange cake."
+    },
+    {
+      "fr": "Ses amis arrivent à quatre heures pour ch[an]ter et d[an]ser.",
+      "en": "His friends arrive at four o'clock to sing and dance."
+    },
+    {
+      "fr": "« Bonne fête ! » : tout le monde ch[an]te [en]s[em]ble.",
+      "en": "\"Happy birthday!\": everyone sings together."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'anniversaire",
+      "en": "birthday"
+    },
+    {
+      "fr": "avoir sept ans",
+      "en": "to be seven years old"
+    },
+    {
+      "fr": "un gâteau à l'orange",
+      "en": "an orange cake"
+    },
+    {
+      "fr": "Bonne fête !",
+      "en": "Happy birthday! (Québécois)"
+    }
+  ]
+}

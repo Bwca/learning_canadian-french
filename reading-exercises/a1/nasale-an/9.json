@@ -1,0 +1,54 @@
+{
+  "title": "Nasal [ɑ̃] — an, am, en, em (set 9)",
+  "sounds": [
+    "an",
+    "am",
+    "en",
+    "em"
+  ],
+  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »).",
+  "sentences": [
+    {
+      "fr": "Aujourd'hui, j'ai r[en]dez-vous chez le d[en]tiste.",
+      "en": "Today, I have an appointment at the dentist's."
+    },
+    {
+      "fr": "J'ai mal à une d[en]t depuis dim[an]che.",
+      "en": "I've had a toothache since Sunday."
+    },
+    {
+      "fr": "Le d[en]tiste est très pati[en]t.",
+      "en": "The dentist is very patient."
+    },
+    {
+      "fr": "Il regarde mes d[en]ts avec une petite l[am]pe.",
+      "en": "He looks at my teeth with a little lamp."
+    },
+    {
+      "fr": "« Ce n'est pas grave, mais m[an]ge moins de bonbons ! »",
+      "en": "\"It's not serious, but eat less candy!\""
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le rendez-vous",
+      "en": "appointment"
+    },
+    {
+      "fr": "avoir mal à une dent",
+      "en": "to have a toothache"
+    },
+    {
+      "fr": "patient",
+      "en": "patient"
+    },
+    {
+      "fr": "grave",
+      "en": "serious"
+    },
+    {
+      "fr": "moins de",
+      "en": "less, fewer"
+    }
+  ]
+}

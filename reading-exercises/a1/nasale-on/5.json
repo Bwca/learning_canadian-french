@@ -1,0 +1,52 @@
+{
+  "title": "Nasal [ɔ̃] — on, om (set 5)",
+  "sounds": [
+    "on",
+    "om"
+  ],
+  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « comme » has mm, so it isn't nasal.",
+  "sentences": [
+    {
+      "fr": "M[on] [on]cle Gast[on] est p[om]pier.",
+      "en": "My uncle Gaston is a firefighter."
+    },
+    {
+      "fr": "Il travaille à L[on]gueuil, de l'autre côté du p[on]t.",
+      "en": "He works in Longueuil, on the other side of the bridge."
+    },
+    {
+      "fr": "Il c[on]duit un gros cami[on] rouge.",
+      "en": "He drives a big red truck."
+    },
+    {
+      "fr": "Les p[om]piers s[on]t très courageux.",
+      "en": "Firefighters are very brave."
+    },
+    {
+      "fr": "Plus tard, je veux être p[om]pier comme lui !",
+      "en": "Later, I want to be a firefighter like him!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le pompier",
+      "en": "firefighter"
+    },
+    {
+      "fr": "de l'autre côté",
+      "en": "on the other side"
+    },
+    {
+      "fr": "conduire",
+      "en": "to drive"
+    },
+    {
+      "fr": "le camion",
+      "en": "truck"
+    },
+    {
+      "fr": "courageux",
+      "en": "brave"
+    }
+  ]
+}

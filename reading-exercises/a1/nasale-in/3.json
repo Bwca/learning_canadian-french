@@ -1,0 +1,58 @@
+{
+  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 3)",
+  "sounds": [
+    "in",
+    "im",
+    "yn",
+    "ym",
+    "ain",
+    "aim",
+    "ein",
+    "eim"
+  ],
+  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris.",
+  "sentences": [
+    {
+      "fr": "Le mat[in], je vais à la boulangerie avec mon cop[ain].",
+      "en": "In the morning, I go to the bakery with my friend."
+    },
+    {
+      "fr": "Nous achetons du p[ain] et c[in]q croissants.",
+      "en": "We buy bread and five croissants."
+    },
+    {
+      "fr": "La boulangère est s[ym]pa : elle nous donne un biscuit.",
+      "en": "The baker is nice: she gives us a cookie."
+    },
+    {
+      "fr": "Le p[ain] est encore chaud dans nos m[ain]s.",
+      "en": "The bread is still warm in our hands."
+    },
+    {
+      "fr": "Dem[ain], nous allons prendre un p[ain] aux rais[in]s.",
+      "en": "Tomorrow, we're going to get a raisin pastry."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la boulangerie",
+      "en": "bakery"
+    },
+    {
+      "fr": "le biscuit",
+      "en": "cookie"
+    },
+    {
+      "fr": "encore",
+      "en": "still"
+    },
+    {
+      "fr": "la main",
+      "en": "hand"
+    },
+    {
+      "fr": "le pain aux raisins",
+      "en": "raisin pastry"
+    }
+  ]
+}

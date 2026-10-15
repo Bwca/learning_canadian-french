@@ -1,0 +1,58 @@
+{
+  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 6)",
+  "sounds": [
+    "in",
+    "im",
+    "yn",
+    "ym",
+    "ain",
+    "aim",
+    "ein",
+    "eim"
+  ],
+  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « dessine », « dessiner » and « cuisine » aren't nasal: a vowel follows the n.",
+  "sentences": [
+    {
+      "fr": "Le petit Al[ain] a c[in]q ans.",
+      "en": "Little Alain is five years old."
+    },
+    {
+      "fr": "Il aime le dess[in] et la p[ein]ture.",
+      "en": "He likes drawing and painting."
+    },
+    {
+      "fr": "Aujourd'hui, il dessine un l[yn]x et un dauph[in].",
+      "en": "Today, he's drawing a lynx and a dolphin."
+    },
+    {
+      "fr": "Sa maman met le dess[in] dans la cuisine.",
+      "en": "His mom puts the drawing in the kitchen."
+    },
+    {
+      "fr": "Dem[ain], Al[ain] va dessiner un tr[ain].",
+      "en": "Tomorrow, Alain is going to draw a train."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le dessin",
+      "en": "drawing"
+    },
+    {
+      "fr": "dessiner",
+      "en": "to draw"
+    },
+    {
+      "fr": "le lynx",
+      "en": "lynx"
+    },
+    {
+      "fr": "le dauphin",
+      "en": "dolphin"
+    },
+    {
+      "fr": "la cuisine",
+      "en": "kitchen"
+    }
+  ]
+}

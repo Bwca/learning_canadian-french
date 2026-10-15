@@ -1,0 +1,35 @@
+{
+  "title": "Nasal [ɔ̃] — on, om (set 1)",
+  "sounds": ["on", "om"],
+  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». As with the other nasals, a following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme », and notice that « donne » and « homme » below are not marked.",
+  "sentences": [
+    {
+      "fr": "B[on]jour ! Je m'appelle Sim[on] et j'habite à L[on]gueuil, près de M[on]tréal.",
+      "en": "Hello! My name is Simon and I live in Longueuil, near Montreal."
+    },
+    {
+      "fr": "M[on] [on]cle est un homme b[on] et généreux.",
+      "en": "My uncle is a kind and generous man."
+    },
+    {
+      "fr": "Il a une grande mais[on] et il nous donne toujours des b[on]b[on]s.",
+      "en": "He has a big house and he always gives us candy."
+    },
+    {
+      "fr": "Nous c[om]pt[on]s les jours jusqu'à sa visite.",
+      "en": "We count the days until his visit."
+    },
+    {
+      "fr": "[On] l'aime beaucoup !",
+      "en": "We love him a lot!"
+    }
+  ],
+  "vocab": [
+    { "fr": "l'oncle", "en": "uncle" },
+    { "fr": "généreux", "en": "generous" },
+    { "fr": "les bonbons", "en": "candy" },
+    { "fr": "compter", "en": "to count" },
+    { "fr": "jusqu'à", "en": "until" },
+    { "fr": "on", "en": "we (informal) / one" }
+  ]
+}

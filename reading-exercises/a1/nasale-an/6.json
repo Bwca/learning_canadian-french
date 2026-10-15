@@ -1,0 +1,54 @@
+{
+  "title": "Nasal [ɑ̃] — an, am, en, em (set 6)",
+  "sounds": [
+    "an",
+    "am",
+    "en",
+    "em"
+  ],
+  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »).",
+  "sentences": [
+    {
+      "fr": "[En] sept[em]bre, c'est la r[en]trée.",
+      "en": "In September, it's back to school."
+    },
+    {
+      "fr": "Les [en]f[an]ts achètent des cahiers et des crayons.",
+      "en": "The children buy notebooks and pencils."
+    },
+    {
+      "fr": "Ma prof s'appelle Madame Lal[an]de.",
+      "en": "My teacher is Madame Lalande."
+    },
+    {
+      "fr": "Elle est très g[en]tille et elle parle l[en]tem[en]t.",
+      "en": "She's very kind and she speaks slowly."
+    },
+    {
+      "fr": "Mon ami Laur[en]t est d[an]s ma classe : je suis cont[en]t !",
+      "en": "My friend Laurent is in my class: I'm happy!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la rentrée",
+      "en": "back to school"
+    },
+    {
+      "fr": "le cahier",
+      "en": "notebook"
+    },
+    {
+      "fr": "le crayon",
+      "en": "pencil"
+    },
+    {
+      "fr": "gentil, gentille",
+      "en": "kind"
+    },
+    {
+      "fr": "content",
+      "en": "happy"
+    }
+  ]
+}

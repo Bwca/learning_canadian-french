@@ -1,0 +1,40 @@
+{
+  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 2)",
+  "sounds": ["in", "im", "yn", "ym", "ain", "aim", "ein", "eim"],
+  "focus": "Same sound [ɛ̃] as « vin », whatever the spelling. Watch the unmarked words: « voisine » and « Sabine » are not nasal because a vowel follows the n, and « un » is a different nasal sound, which Québécois keeps distinct.",
+  "sentences": [
+    {
+      "fr": "Ce mat[in], mon cous[in] Al[ain] a f[aim].",
+      "en": "This morning, my cousin Alain is hungry."
+    },
+    {
+      "fr": "Il mange un croissant dans le jard[in].",
+      "en": "He eats a croissant in the garden."
+    },
+    {
+      "fr": "Sa voisine Sabine est p[ein]tre : elle p[ein]t un tableau pl[ein] de couleurs.",
+      "en": "His neighbour Sabine is a painter: she is painting a picture full of colours."
+    },
+    {
+      "fr": "Dem[ain], ils vont au concert avec un ami de R[eim]s pour écouter une s[ym]phonie.",
+      "en": "Tomorrow, they're going to a concert with a friend from Reims to hear a symphony."
+    },
+    {
+      "fr": "Le billet coûte v[in]gt-c[in]q dollars, mais c'est s[ym]pa !",
+      "en": "The ticket costs twenty-five dollars, but it's nice!"
+    },
+    {
+      "fr": "Sur le chem[in] du retour, ils voient un l[yn]x dans le bois.",
+      "en": "On the way home, they see a lynx in the woods."
+    }
+  ],
+  "vocab": [
+    { "fr": "avoir faim", "en": "to be hungry" },
+    { "fr": "le peintre", "en": "painter" },
+    { "fr": "plein de", "en": "full of" },
+    { "fr": "le billet", "en": "ticket" },
+    { "fr": "sympa", "en": "nice / pleasant" },
+    { "fr": "le chemin du retour", "en": "the way home" },
+    { "fr": "le lynx", "en": "lynx" }
+  ]
+}

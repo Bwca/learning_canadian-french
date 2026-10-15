@@ -1,0 +1,52 @@
+{
+  "title": "Nasal [ɔ̃] — on, om (set 4)",
+  "sounds": [
+    "on",
+    "om"
+  ],
+  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « sommes » has mm, so it isn't nasal.",
+  "sentences": [
+    {
+      "fr": "Cet été, nous all[on]s à la m[on]tagne.",
+      "en": "This summer, we're going to the mountains."
+    },
+    {
+      "fr": "Nous m[on]t[on]s pendant trois heures.",
+      "en": "We climb for three hours."
+    },
+    {
+      "fr": "En haut, [on] voit très loin.",
+      "en": "From the top, we can see very far."
+    },
+    {
+      "fr": "M[on] frère prend des photos du p[on]t et du lac.",
+      "en": "My brother takes photos of the bridge and the lake."
+    },
+    {
+      "fr": "Le soir, nous sommes fatigués mais c[on]tents.",
+      "en": "In the evening, we're tired but happy."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la montagne",
+      "en": "mountain"
+    },
+    {
+      "fr": "monter",
+      "en": "to climb"
+    },
+    {
+      "fr": "en haut",
+      "en": "at the top"
+    },
+    {
+      "fr": "le pont",
+      "en": "bridge"
+    },
+    {
+      "fr": "content",
+      "en": "happy"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Nasal [ɑ̃] — an, am, en, em (set 2)",
+  "sounds": [
+    "an",
+    "am",
+    "en",
+    "em"
+  ],
+  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »). « Jeanne » has a double n, so it isn't nasal.",
+  "sentences": [
+    {
+      "fr": "Mes par[en]ts ont trois [en]f[an]ts.",
+      "en": "My parents have three children."
+    },
+    {
+      "fr": "Ma gr[an]de sœur s'appelle Jeanne.",
+      "en": "My big sister is called Jeanne."
+    },
+    {
+      "fr": "Mon petit frère pose c[en]t questions par jour !",
+      "en": "My little brother asks a hundred questions a day!"
+    },
+    {
+      "fr": "Le dim[an]che, nous m[an]geons chez ma gr[an]d-mère.",
+      "en": "On Sundays, we eat at my grandmother's."
+    },
+    {
+      "fr": "Elle prépare toujours un excell[en]t gâteau.",
+      "en": "She always makes an excellent cake."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "les parents",
+      "en": "parents"
+    },
+    {
+      "fr": "la grande sœur",
+      "en": "big sister"
+    },
+    {
+      "fr": "poser une question",
+      "en": "to ask a question"
+    },
+    {
+      "fr": "la grand-mère",
+      "en": "grandmother"
+    },
+    {
+      "fr": "excellent",
+      "en": "excellent"
+    }
+  ]
+}

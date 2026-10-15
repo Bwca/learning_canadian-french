@@ -1,0 +1,58 @@
+{
+  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 5)",
+  "sounds": [
+    "in",
+    "im",
+    "yn",
+    "ym",
+    "ain",
+    "aim",
+    "ein",
+    "eim"
+  ],
+  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris.",
+  "sentences": [
+    {
+      "fr": "À c[in]q heures du mat[in], Mart[in] prend le tr[ain].",
+      "en": "At five in the morning, Martin takes the train."
+    },
+    {
+      "fr": "Il va à Québec pour voir son cous[in] Quent[in].",
+      "en": "He's going to Québec City to see his cousin Quentin."
+    },
+    {
+      "fr": "Le voyage est long, mais [in]téressant.",
+      "en": "The trip is long, but interesting."
+    },
+    {
+      "fr": "Mart[in] regarde par la fenêtre et voit des sap[in]s pl[ein]s de neige.",
+      "en": "Martin looks out the window and sees fir trees full of snow."
+    },
+    {
+      "fr": "Il arrive à v[in]gt heures : il a très f[aim] !",
+      "en": "He arrives at 8 p.m.: he's very hungry!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le voyage",
+      "en": "trip"
+    },
+    {
+      "fr": "regarder par la fenêtre",
+      "en": "to look out the window"
+    },
+    {
+      "fr": "la neige",
+      "en": "snow"
+    },
+    {
+      "fr": "vingt heures",
+      "en": "8 p.m."
+    },
+    {
+      "fr": "avoir faim",
+      "en": "to be hungry"
+    }
+  ]
+}

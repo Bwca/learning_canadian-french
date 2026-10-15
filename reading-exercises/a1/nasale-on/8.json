@@ -1,0 +1,52 @@
+{
+  "title": "Nasal [ɔ̃] — on, om (set 8)",
+  "sounds": [
+    "on",
+    "om"
+  ],
+  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ».",
+  "sentences": [
+    {
+      "fr": "J'apprends à c[om]pter en français.",
+      "en": "I'm learning to count in French."
+    },
+    {
+      "fr": "[On]ze, douze, treize, quatorze, quinze : c'est facile !",
+      "en": "Eleven, twelve, thirteen, fourteen, fifteen: it's easy!"
+    },
+    {
+      "fr": "Mais les grands n[om]bres s[on]t difficiles.",
+      "en": "But big numbers are hard."
+    },
+    {
+      "fr": "M[on] prof m'aide avec des exercices et des chans[on]s.",
+      "en": "My teacher helps me with exercises and songs."
+    },
+    {
+      "fr": "Maintenant, je c[om]pte jusqu'à cent sans problème !",
+      "en": "Now I can count to a hundred with no problem!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "compter",
+      "en": "to count"
+    },
+    {
+      "fr": "onze",
+      "en": "eleven"
+    },
+    {
+      "fr": "le nombre",
+      "en": "number"
+    },
+    {
+      "fr": "jusqu'à",
+      "en": "up to"
+    },
+    {
+      "fr": "sans problème",
+      "en": "with no problem"
+    }
+  ]
+}

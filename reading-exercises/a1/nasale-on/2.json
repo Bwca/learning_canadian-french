@@ -1,0 +1,52 @@
+{
+  "title": "Nasal [ɔ̃] — on, om (set 2)",
+  "sounds": [
+    "on",
+    "om"
+  ],
+  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « sonne », « homme » and « redonne » have nn/mm, so they aren't nasal.",
+  "sentences": [
+    {
+      "fr": "Le petit garç[on] joue avec s[on] ball[on].",
+      "en": "The little boy is playing with his ball."
+    },
+    {
+      "fr": "Le ball[on] t[om]be dans le jardin du voisin.",
+      "en": "The ball falls into the neighbour's garden."
+    },
+    {
+      "fr": "Le garç[on] sonne à la porte.",
+      "en": "The boy rings the doorbell."
+    },
+    {
+      "fr": "Le voisin est un homme très b[on].",
+      "en": "The neighbour is a very kind man."
+    },
+    {
+      "fr": "Il lui redonne s[on] ball[on] et un b[on]b[on].",
+      "en": "He gives him back his ball and a candy."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le garçon",
+      "en": "boy"
+    },
+    {
+      "fr": "le ballon",
+      "en": "ball"
+    },
+    {
+      "fr": "tomber",
+      "en": "to fall"
+    },
+    {
+      "fr": "sonner à la porte",
+      "en": "to ring the doorbell"
+    },
+    {
+      "fr": "redonner",
+      "en": "to give back"
+    }
+  ]
+}

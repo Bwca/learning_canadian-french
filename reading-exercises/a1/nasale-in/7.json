@@ -1,0 +1,58 @@
+{
+  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 7)",
+  "sounds": [
+    "in",
+    "im",
+    "yn",
+    "ym",
+    "ain",
+    "aim",
+    "ein",
+    "eim"
+  ],
+  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « Céline » isn't nasal: a vowel follows the n.",
+  "sentences": [
+    {
+      "fr": "Ce soir, Just[in] et Céline vont au restaurant.",
+      "en": "Tonight, Justin and Céline are going to a restaurant."
+    },
+    {
+      "fr": "Le menu est s[im]ple, mais tout est bon.",
+      "en": "The menu is simple, but everything is good."
+    },
+    {
+      "fr": "Just[in] prend une soupe et du p[ain].",
+      "en": "Justin has soup and bread."
+    },
+    {
+      "fr": "Céline prend un poulet au th[ym] et un verre de v[in] blanc.",
+      "en": "Céline has thyme chicken and a glass of white wine."
+    },
+    {
+      "fr": "À la f[in], ils partagent un gâteau : c'est s[ym]pa !",
+      "en": "At the end, they share a cake: it's nice!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le poulet",
+      "en": "chicken"
+    },
+    {
+      "fr": "un verre de vin blanc",
+      "en": "a glass of white wine"
+    },
+    {
+      "fr": "à la fin",
+      "en": "at the end"
+    },
+    {
+      "fr": "partager",
+      "en": "to share"
+    },
+    {
+      "fr": "sympa",
+      "en": "nice"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Nasal [ɑ̃] — an, am, en, em (set 4)",
+  "sounds": [
+    "an",
+    "am",
+    "en",
+    "em"
+  ],
+  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »). « chemise » isn't nasal: a vowel follows the m.",
+  "sentences": [
+    {
+      "fr": "Samedi, j'aime magasiner avec ma t[an]te.",
+      "en": "On Saturday, I like to go shopping with my aunt."
+    },
+    {
+      "fr": "Nous cherchons un p[an]talon et une chemise bl[an]che.",
+      "en": "We're looking for pants and a white shirt."
+    },
+    {
+      "fr": "Le p[an]talon coûte tr[en]te-cinq dollars.",
+      "en": "The pants cost thirty-five dollars."
+    },
+    {
+      "fr": "Ma t[an]te trouve ça trop cher, alors nous [en]trons d[an]s un autre magasin.",
+      "en": "My aunt thinks it's too expensive, so we go into another store."
+    },
+    {
+      "fr": "Là, tout est [en] solde !",
+      "en": "There, everything is on sale!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "magasiner",
+      "en": "to go shopping (Québécois)"
+    },
+    {
+      "fr": "la tante",
+      "en": "aunt"
+    },
+    {
+      "fr": "le pantalon",
+      "en": "pants"
+    },
+    {
+      "fr": "la chemise",
+      "en": "shirt"
+    },
+    {
+      "fr": "en solde",
+      "en": "on sale"
+    }
+  ]
+}

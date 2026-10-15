@@ -1,0 +1,54 @@
+{
+  "title": "Nasal [ɑ̃] — an, am, en, em (set 7)",
+  "sounds": [
+    "an",
+    "am",
+    "en",
+    "em"
+  ],
+  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »). Careful: « chien » is written with -en but says [jɛ̃], like « bien » and « rien » — not this sound.",
+  "sentences": [
+    {
+      "fr": "Cette fin de semaine, nous allons à la c[am]pagne.",
+      "en": "This weekend, we're going to the countryside."
+    },
+    {
+      "fr": "Mon oncle a une maison au milieu des ch[am]ps.",
+      "en": "My uncle has a house in the middle of the fields."
+    },
+    {
+      "fr": "Il y a des vaches, des moutons et un gr[an]d chien.",
+      "en": "There are cows, sheep and a big dog."
+    },
+    {
+      "fr": "Le soir, nous m[an]geons [en]s[em]ble dehors.",
+      "en": "In the evening, we eat together outside."
+    },
+    {
+      "fr": "C'est calme et le t[em]ps passe l[en]tem[en]t.",
+      "en": "It's calm and time passes slowly."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la campagne",
+      "en": "countryside"
+    },
+    {
+      "fr": "le champ",
+      "en": "field"
+    },
+    {
+      "fr": "la vache",
+      "en": "cow"
+    },
+    {
+      "fr": "le mouton",
+      "en": "sheep"
+    },
+    {
+      "fr": "dehors",
+      "en": "outside"
+    }
+  ]
+}

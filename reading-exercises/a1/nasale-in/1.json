@@ -1,0 +1,27 @@
+{
+  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 1)",
+  "sounds": ["in", "im", "yn", "ym", "ain", "aim", "ein", "eim"],
+  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris.",
+  "sentences": [
+    {
+      "fr": "Dem[ain], le pr[in]ce qui est une personne [im]portante et [in]téressante prendra le tr[ain] pour aller voir les jeux ol[ym]piques.",
+      "en": "Tomorrow, the prince, who is an important and interesting person, will take the train to go and see the Olympic Games."
+    },
+    {
+      "fr": "Il mangera aussi du rais[in], du p[ain] et boira du v[in].",
+      "en": "He will also eat grapes and bread, and drink wine."
+    },
+    {
+      "fr": "Il enverra ensuite une lettre t[im]brée à son cop[ain].",
+      "en": "Then he will send a stamped letter to his friend."
+    }
+  ],
+  "vocab": [
+    { "fr": "demain", "en": "tomorrow" },
+    { "fr": "le prince", "en": "the prince" },
+    { "fr": "les jeux olympiques", "en": "the Olympic Games" },
+    { "fr": "le raisin", "en": "grapes" },
+    { "fr": "timbré", "en": "stamped" },
+    { "fr": "le copain", "en": "friend / buddy" }
+  ]
+}

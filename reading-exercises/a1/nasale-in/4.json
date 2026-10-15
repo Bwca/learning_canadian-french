@@ -1,0 +1,62 @@
+{
+  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 4)",
+  "sounds": [
+    "in",
+    "im",
+    "yn",
+    "ym",
+    "ain",
+    "aim",
+    "ein",
+    "eim"
+  ],
+  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « voisine » isn't nasal: a vowel follows the n.",
+  "sentences": [
+    {
+      "fr": "Ma voisine a un grand jard[in].",
+      "en": "My neighbour has a big garden."
+    },
+    {
+      "fr": "Dans son jard[in], il y a un sap[in] et des lap[in]s.",
+      "en": "In her garden, there's a fir tree and some rabbits."
+    },
+    {
+      "fr": "Elle p[ein]t sa clôture avec de la p[ein]ture bleue.",
+      "en": "She's painting her fence with blue paint."
+    },
+    {
+      "fr": "Le jard[in] est pl[ein] de th[ym] et de romar[in].",
+      "en": "The garden is full of thyme and rosemary."
+    },
+    {
+      "fr": "C'est s[im]ple, mais c'est très joli.",
+      "en": "It's simple, but it's very pretty."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le sapin",
+      "en": "fir tree"
+    },
+    {
+      "fr": "le lapin",
+      "en": "rabbit"
+    },
+    {
+      "fr": "la clôture",
+      "en": "fence"
+    },
+    {
+      "fr": "la peinture",
+      "en": "paint"
+    },
+    {
+      "fr": "le thym",
+      "en": "thyme"
+    },
+    {
+      "fr": "le romarin",
+      "en": "rosemary"
+    }
+  ]
+}

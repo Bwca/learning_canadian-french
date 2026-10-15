@@ -1,0 +1,52 @@
+{
+  "title": "Nasal [ɔ̃] — on, om (set 7)",
+  "sounds": [
+    "on",
+    "om"
+  ],
+  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « connue » has a double n, so it isn't nasal.",
+  "sentences": [
+    {
+      "fr": "Mes cousins habitent en [On]tario.",
+      "en": "My cousins live in Ontario."
+    },
+    {
+      "fr": "Ils s[on]t bilingues : ils parlent français et anglais.",
+      "en": "They're bilingual: they speak French and English."
+    },
+    {
+      "fr": "Leur mais[on] est près d'Ottawa.",
+      "en": "Their house is near Ottawa."
+    },
+    {
+      "fr": "Cet hiver, nous all[on]s patiner sur le canal Rideau avec eux.",
+      "en": "This winter, we're going skating on the Rideau Canal with them."
+    },
+    {
+      "fr": "C'est une patinoire très l[on]gue et très connue.",
+      "en": "It's a very long and very well-known rink."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "bilingue",
+      "en": "bilingual"
+    },
+    {
+      "fr": "patiner",
+      "en": "to skate"
+    },
+    {
+      "fr": "la patinoire",
+      "en": "skating rink"
+    },
+    {
+      "fr": "long, longue",
+      "en": "long"
+    },
+    {
+      "fr": "connu",
+      "en": "well-known"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 8)",
+  "sounds": [
+    "in",
+    "im",
+    "yn",
+    "ym",
+    "ain",
+    "aim",
+    "ein",
+    "eim"
+  ],
+  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « donne » has a double n, so it isn't nasal.",
+  "sentences": [
+    {
+      "fr": "Mon oncle a une ferme près de S[ain]t-Hyac[in]the.",
+      "en": "My uncle has a farm near Saint-Hyacinthe."
+    },
+    {
+      "fr": "Il y a des poules, des lap[in]s et des d[in]dons.",
+      "en": "There are hens, rabbits and turkeys."
+    },
+    {
+      "fr": "Le mat[in], mon oncle donne du gr[ain] aux poules.",
+      "en": "In the morning, my uncle gives grain to the hens."
+    },
+    {
+      "fr": "Les d[in]dons ont toujours f[aim] !",
+      "en": "The turkeys are always hungry!"
+    },
+    {
+      "fr": "C'est un travail [im]portant, mais il aime ça.",
+      "en": "It's important work, but he likes it."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la ferme",
+      "en": "farm"
+    },
+    {
+      "fr": "la poule",
+      "en": "hen"
+    },
+    {
+      "fr": "le dindon",
+      "en": "turkey"
+    },
+    {
+      "fr": "le grain",
+      "en": "grain"
+    },
+    {
+      "fr": "le travail",
+      "en": "work"
+    }
+  ]
+}

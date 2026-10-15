@@ -1,0 +1,52 @@
+{
+  "title": "Nasal [ɔ̃] — on, om (set 6)",
+  "sounds": [
+    "on",
+    "om"
+  ],
+  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ».",
+  "sentences": [
+    {
+      "fr": "Le soir, ma mère me rac[on]te un c[on]te.",
+      "en": "In the evening, my mother tells me a story."
+    },
+    {
+      "fr": "C'est l'histoire d'un petit coch[on] qui habite dans une mais[on] r[on]de.",
+      "en": "It's the story of a little pig who lives in a round house."
+    },
+    {
+      "fr": "Un jour, un gros mout[on] frappe à la porte.",
+      "en": "One day, a big sheep knocks on the door."
+    },
+    {
+      "fr": "« B[on]jour, petit coch[on] ! T[on] n[om], c'est quoi ? »",
+      "en": "\"Hello, little pig! What's your name?\""
+    },
+    {
+      "fr": "À la fin, ils s[on]t amis pour toujours.",
+      "en": "In the end, they're friends forever."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "raconter un conte",
+      "en": "to tell a story"
+    },
+    {
+      "fr": "le cochon",
+      "en": "pig"
+    },
+    {
+      "fr": "rond, ronde",
+      "en": "round"
+    },
+    {
+      "fr": "le mouton",
+      "en": "sheep"
+    },
+    {
+      "fr": "frapper à la porte",
+      "en": "to knock on the door"
+    }
+  ]
+}

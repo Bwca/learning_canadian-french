@@ -1,0 +1,36 @@
+{
+  "title": "Nasal [ɑ̃] — an, am, en, em (set 1)",
+  "sounds": ["an", "am", "en", "em"],
+  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent », « ils aiment ») is silent, never nasal.",
+  "sentences": [
+    {
+      "fr": "[En] j[an]vier, il fait très froid à Montréal.",
+      "en": "In January, it's very cold in Montreal."
+    },
+    {
+      "fr": "Mes [en]f[an]ts aiment ch[an]ter et d[an]ser d[an]s la ch[am]bre.",
+      "en": "My children like to sing and dance in the bedroom."
+    },
+    {
+      "fr": "Le dim[an]che, nous prenons le t[em]ps de m[an]ger [en]s[em]ble.",
+      "en": "On Sundays, we take the time to eat together."
+    },
+    {
+      "fr": "Les gr[an]ds-par[en]ts ch[an]tent souv[en]t avec eux.",
+      "en": "The grandparents often sing with them."
+    },
+    {
+      "fr": "Quelle [am]bi[an]ce ! C'est vraim[en]t le fun !",
+      "en": "What an atmosphere! It's really fun!"
+    }
+  ],
+  "vocab": [
+    { "fr": "en janvier", "en": "in January" },
+    { "fr": "la chambre", "en": "bedroom" },
+    { "fr": "prendre le temps de", "en": "to take the time to" },
+    { "fr": "ensemble", "en": "together" },
+    { "fr": "les grands-parents", "en": "grandparents" },
+    { "fr": "l'ambiance", "en": "atmosphere" },
+    { "fr": "c'est le fun", "en": "it's fun (Québécois)" }
+  ]
+}
