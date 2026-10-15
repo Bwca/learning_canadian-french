@@ -7,7 +7,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
     <style>
         .container { max-width: 600px; margin: auto; text-align: center; }
-        #displayWord { font-size: 24px; font-weight: bold; margin-top: 20px; min-height: 100px; display: flex; align-items: center; justify-content: center; }
+        #displayWord { font-size: 24px; font-weight: bold; margin-top: 20px; min-height: 100px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+        /* Fonts with full IPA coverage, so combining marks like the nasal tilde in ɑ̃ sit on their letter. */
+        .ipa { font-family: "Charis SIL", "Doulos SIL", "Gentium Plus", "Segoe UI", "Lucida Sans Unicode", "DejaVu Sans", sans-serif; font-size: 20px; font-weight: normal; color: #4a4a4a; margin-top: 4px; }
         #progress { margin-top: 10px; font-size: 18px; min-height: 30px; }
         .buttons { margin-top: 20px; }
         .hidden { display: none; }
@@ -97,7 +99,19 @@
                 speechError.style.display = "block";
             };
 
-            const speak = (text, lang) => {
+            // Shows the word being spoken, with its IPA transcription underneath when the file has one.
+            const showWord = (text, ipa) => {
+                displayWord.textContent = text;
+                if (ipa) {
+                    const ipaLine = document.createElement("div");
+                    ipaLine.className = "ipa";
+                    ipaLine.lang = "fr-fonipa";
+                    ipaLine.textContent = ipa;
+                    displayWord.appendChild(ipaLine);
+                }
+            };
+
+            const speak = (text, lang, ipa) => {
                 return new Promise(resolve => {
                     if (!isTraining) return resolve();
 
@@ -148,7 +162,7 @@
                         };
                         stallTimer = setTimeout(checkStall, STALL_TIMEOUT_MS);
 
-                        utterance.onstart = () => { started = true; displayWord.textContent = text; };
+                        utterance.onstart = () => { started = true; showWord(text, ipa); };
                         utterance.onend = () => {
                             if (settled) return;
                             settled = true;
@@ -178,7 +192,7 @@
                     while (isPaused) await new Promise(res => setTimeout(res, 200));
 
                     progress.textContent = `Iteration: ${currentIteration + 1}/${totalIterations} | Pronounced: ${currentEntry + 1}/${totalEntries}`;
-                    await speak(entries[currentEntry].french, "fr-CA");
+                    await speak(entries[currentEntry].french, "fr-CA", entries[currentEntry].ipa);
                     if (!isTraining) return;
                     await speak(entries[currentEntry].english, "en-US");
                     if (!isTraining) return;
@@ -205,7 +219,13 @@
             for (let text of texts) {
                 const fileEntries = text.split("\n").map(line => {
                     const parts = line.split("\t");
-                    return parts.length >= 2 ? { french: cleanFrenchWord(parts[0].trim()), english: removeSlashes(parts[1].trim()) } : null;
+                    // Optional 4th column (after the [sound:…] tag): IPA in slashes, e.g. /la mɛzɔ̃/.
+                    const ipa = (parts[3] || "").trim();
+                    return parts.length >= 2 ? {
+                        french: cleanFrenchWord(parts[0].trim()),
+                        english: removeSlashes(parts[1].trim()),
+                        ipa: /^\/.+\/$/.test(ipa) ? ipa : "",
+                    } : null;
                 }).filter(Boolean);
                 entries.push(...fileEntries);
             }
