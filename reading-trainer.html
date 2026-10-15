@@ -23,6 +23,8 @@
         .passage mark { background: none; color: inherit; }
         .vocab-hints { margin-top: 1rem; }
         .vocab-hints .tag { cursor: pointer; margin-right: 6px; margin-bottom: 6px; font-size: 1rem; height: auto; padding: 0.6em 0.9em; }
+        .sound-button { font: inherit; color: #d6262f; background: none; border: 1px dashed currentColor; border-radius: 4px; padding: 0 4px; cursor: pointer; }
+        .sound-button:hover { background-color: #fff3bf; }
         .hidden { display: none; }
         .font-size-toolbar { display: flex; justify-content: center; gap: 8px; align-items: center; margin-bottom: 1rem; }
         .toggles { display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 1rem 0; }
@@ -37,7 +39,7 @@
         <h1 class="title">French Reading Trainer</h1>
         <p class="subtitle is-6">
             Read the passage aloud yourself first, then listen to compare. The sounds being trained are shown in red —
-            turn the marks off to try spotting them on your own. Click any sentence to hear just that sentence;
+            turn the marks off to try spotting them on your own. Click the 🔊 sound in the title to hear it on its own, and any sentence to hear just that sentence;
             show the translation when you need it.
         </p>
 
@@ -133,6 +135,32 @@
         // "Sylv[ain] a c[in]q ans" — brackets mark the letters being trained.
         function markupToHtml(text) {
             return escapeHtml(text).replace(/\[([^\]]+)\]/g, "<mark>$1</mark>");
+        }
+
+        // Speech voices can't read IPA, so each sound named in a title maps to
+        // a real word that's pronounced as just that sound. A lone letter
+        // doesn't work: voices spell it out ("é" → "e accent aigu").
+        const SOUND_SAMPLES = new Map(Object.entries({
+            "[e]": "et",
+            "[ɛ]": "haie",
+            "[ɑ̃]": "an",
+            "[ɛ̃]": "hein",
+            "[ɔ̃]": "on",
+            "[œ̃]": "un",
+            "[o]": "eau",
+            "[u]": "ou",
+            "[y]": "u",
+            "[ø]": "eux",
+        }).map(([symbol, sample]) => [symbol.normalize("NFC"), sample]));
+
+        // "Closed [e] — é, …" — the [e] becomes a button that says the sound.
+        function titleToHtml(title) {
+            return escapeHtml(title).replace(/\[[^\]]+\]/g, symbol => {
+                const sample = SOUND_SAMPLES.get(symbol.normalize("NFC"));
+                return sample
+                    ? `<button type="button" class="sound-button" data-say="${escapeHtml(sample)}" aria-label="Hear the sound ${symbol}">🔊 ${symbol}</button>`
+                    : symbol;
+            });
         }
 
         function stripMarkup(text) {
@@ -366,7 +394,10 @@
             stopPlayback();
             sentences = data.sentences || [];
 
-            document.getElementById("readingTitle").textContent = data.title || "";
+            document.getElementById("readingTitle").innerHTML = titleToHtml(data.title || "");
+            document.querySelectorAll("#readingTitle .sound-button").forEach(button => {
+                button.addEventListener("click", () => { stopPlayback(); speak(button.dataset.say, "fr-CA"); });
+            });
 
             const soundsHtml = (data.sounds || [])
                 .map(s => `<span class="tag is-danger is-light" lang="fr">${escapeHtml(s)}</span>`)
