@@ -19,6 +19,19 @@ Grammar practice:
   ```
   `vocab` lists non-obvious words in the sentence so they can be viewed/heard as a hint without giving away the full translation.
 
+### `reading-exercises/`
+Read-aloud passages consumed by `reading-trainer.html`, laid out like the translation drills: `<cefr-level>/<topic>/<n>.json` (e.g. `a1/nasale-in/1.json`). Each file is:
+```json
+{
+  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 1)",
+  "sounds": ["in", "im", "ain"],
+  "focus": "What is being trained, and the traps to watch for.",
+  "sentences": [{ "fr": "Dem[ain], le pr[in]ce…", "en": "Tomorrow, the prince…" }],
+  "vocab": [{ "fr": "demain", "en": "tomorrow" }]
+}
+```
+Square brackets in `fr` mark the letters being trained. They're shown highlighted and removed before the text is spoken. They're marked by hand rather than pattern-matched, because the same letters aren't always the target sound (*pain* vs. *semaine*).
+
 ### `pronunciation-generator/`
 Node.js script (`make-pronunciation-files.js`) that reads an Anki-formatted `.txt` file, uses a headless browser (Puppeteer) with speech synthesis to speak each French/English pair, records the audio, and saves it as `.webm` files (plus a concatenated file) alongside the source list — producing the `[sound:...]` clips referenced in `anki-words/`.
 
@@ -52,11 +65,14 @@ Standalone browser page that loads a vocabulary `.txt` file and quizzes you: sho
 ### `translation-drill.html`
 Standalone browser page that loads a `translation-drills/<topic>/*.json` exercise and quizzes you on full-sentence translation (harder than single-word recall): you type the French translation of each English sentence, check your answers, and hear the correct French read aloud (individually or all at once). Non-obvious vocabulary per sentence is shown (and speakable) alongside the prompt so you can pick up new words while attempting the sentence.
 
+### `reading-trainer.html`
+Standalone browser page that loads a `reading-exercises/` passage for read-aloud practice. The sounds being trained are highlighted in red (toggle them off to try spotting them yourself). Click any sentence to hear it, or "Read whole text" to hear the passage one sentence at a time; the sentence being read is highlighted along with its English translation, which can be shown or hidden.
+
 ## Usage
 
-Open `audio-drill.html`, `vocab-quiz.html`, or `translation-drill.html` directly in a browser and load the relevant file (`anki-words/*.txt` for the first two, `grammar-exercises/translation-drills/<topic>/*.json` for the third). No server or build step required.
+Open `audio-drill.html`, `vocab-quiz.html`, `translation-drill.html`, or `reading-trainer.html` directly in a browser and load the relevant file (`anki-words/*.txt` for the first two, `grammar-exercises/translation-drills/<level>/<topic>/*.json` for the third, `reading-exercises/<level>/<topic>/*.json` for the fourth). No server or build step required.
 
 ### Online (GitHub Pages)
-The three browser tools are also published to GitHub Pages by `.github/workflows/pages.yml` on every push to `master`, with a landing page (`index.html`). The deploy step runs `.github/scripts/build-manifest.js` to generate a `manifest.json` listing every `anki-words/` list and translation-drill set, so the online tools offer them in a picker — nothing needs downloading. New files show up automatically on the next push. (Locally there's no manifest, so the picker is hidden and you choose files as before.) The pronunciation generator isn't included — it needs Windows and Node.
+The browser tools are also published to GitHub Pages by `.github/workflows/pages.yml` on every push to `master`, with a landing page (`index.html`). The deploy step runs `.github/scripts/build-manifest.js` to generate a `manifest.json` listing every `anki-words/` list, translation-drill set, and reading exercise, so the online tools offer them in a picker — nothing needs downloading. New files show up automatically on the next push. (Locally there's no manifest, so the picker is hidden and you choose files as before.) The pronunciation generator isn't included — it needs Windows and Node.
 
 One-time setup: repo **Settings → Pages → Build and deployment → Source: GitHub Actions**.

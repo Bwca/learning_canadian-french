@@ -106,6 +106,7 @@ Each track is a standing responsibility, active across all phases at the appropr
 ## 6. Priority gaps (build these first)
 
 - **Speaking track**: no tooling exists yet anywhere. Highest priority — speaking is hardest to practice without dedicated support.
+- *Partial progress:* `reading-trainer.html` + `reading-exercises/` give Phase 1 read-aloud practice on phonetics (so far: nasal vowels [ɛ̃] [ɑ̃] [ɔ̃], and closed [e] vs. open [ɛ]). The learner reads a passage with the target sounds highlighted, then compares against TTS. There's still no feedback on the learner's own pronunciation, so this gap stays open.
 - **Writing track with correction/scoring**: no tooling exists yet. Second priority.
 - **Leveling**: existing vocabulary/grammar material (if any, elsewhere in this repo) is not phase-tagged; new material produced against this roadmap should be tagged by phase (1–4) from the start so progress is measurable against §4's exit criteria.
 - **Mock exam track**: should not be built last-minute — needs to exist in a lightweight form early so we get real calibration data on pace, not just at the end of Phase 4.
