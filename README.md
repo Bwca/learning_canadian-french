@@ -26,7 +26,7 @@ Read-aloud passages consumed by `reading-trainer.html`, laid out like the transl
   "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 1)",
   "sounds": ["in", "im", "ain"],
   "focus": "What is being trained, and the traps to watch for.",
-  "sentences": [{ "fr": "Dem[ain], le pr[in]ce…", "en": "Tomorrow, the prince…" }],
+  "sentences": [{ "fr": "Sylv[ain] a c[in]q ans…", "en": "Sylvain is five…" }],
   "vocab": [{ "fr": "demain", "en": "tomorrow" }]
 }
 ```

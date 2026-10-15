@@ -1,27 +1,70 @@
 {
   "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 1)",
-  "sounds": ["in", "im", "yn", "ym", "ain", "aim", "ein", "eim"],
+  "sounds": [
+    "in",
+    "im",
+    "yn",
+    "ym",
+    "ain",
+    "aim",
+    "ein",
+    "eim"
+  ],
   "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris.",
   "sentences": [
     {
-      "fr": "Dem[ain], le pr[in]ce qui est une personne [im]portante et [in]téressante prendra le tr[ain] pour aller voir les jeux ol[ym]piques.",
-      "en": "Tomorrow, the prince, who is an important and interesting person, will take the train to go and see the Olympic Games."
+      "fr": "Sylv[ain] a c[in]q ans et il a toujours f[aim].",
+      "en": "Sylvain is five years old and he's always hungry."
     },
     {
-      "fr": "Il mangera aussi du rais[in], du p[ain] et boira du v[in].",
-      "en": "He will also eat grapes and bread, and drink wine."
+      "fr": "Le mat[in], il mange du p[ain] avec du beurre et du rais[in].",
+      "en": "In the morning, he eats bread with butter and grapes."
     },
     {
-      "fr": "Il enverra ensuite une lettre t[im]brée à son cop[ain].",
-      "en": "Then he will send a stamped letter to his friend."
+      "fr": "Il a un l[yn]x en peluche qu'il garde toujours dans sa m[ain].",
+      "en": "He has a stuffed lynx that he always keeps in his hand."
+    },
+    {
+      "fr": "Sa grande sœur p[ein]t un tableau de leur jard[in].",
+      "en": "His big sister is painting a picture of their garden."
+    },
+    {
+      "fr": "Leur oncle habite à R[eim]s, en France : il envoie souvent des t[im]bres à Sylv[ain].",
+      "en": "Their uncle lives in Reims, in France: he often sends Sylvain stamps."
+    },
+    {
+      "fr": "Sylv[ain] trouve ça très s[ym]pa : il en a déjà v[in]gt !",
+      "en": "Sylvain thinks it's great: he already has twenty!"
     }
   ],
   "vocab": [
-    { "fr": "demain", "en": "tomorrow" },
-    { "fr": "le prince", "en": "the prince" },
-    { "fr": "les jeux olympiques", "en": "the Olympic Games" },
-    { "fr": "le raisin", "en": "grapes" },
-    { "fr": "timbré", "en": "stamped" },
-    { "fr": "le copain", "en": "friend / buddy" }
+    {
+      "fr": "avoir faim",
+      "en": "to be hungry"
+    },
+    {
+      "fr": "le beurre",
+      "en": "butter"
+    },
+    {
+      "fr": "en peluche",
+      "en": "stuffed (toy)"
+    },
+    {
+      "fr": "garder",
+      "en": "to keep"
+    },
+    {
+      "fr": "peindre un tableau",
+      "en": "to paint a picture"
+    },
+    {
+      "fr": "le timbre",
+      "en": "stamp"
+    },
+    {
+      "fr": "sympa",
+      "en": "nice, great"
+    }
   ]
 }

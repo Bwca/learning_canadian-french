@@ -130,7 +130,7 @@
                 .replace(/"/g, "&quot;");
         }
 
-        // "Dem[ain], le pr[in]ce" — brackets mark the letters being trained.
+        // "Sylv[ain] a c[in]q ans" — brackets mark the letters being trained.
         function markupToHtml(text) {
             return escapeHtml(text).replace(/\[([^\]]+)\]/g, "<mark>$1</mark>");
         }
