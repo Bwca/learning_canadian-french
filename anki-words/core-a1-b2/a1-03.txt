@@ -1,0 +1,50 @@
+prendre	to take	[sound:to-take-prendre.webm]	/pʁɑ̃dʁ/
+quand	when	[sound:when-quand.webm]	/kɑ̃/
+sans	without	[sound:without.webm]	/sɑ̃/
+là	there / here	[sound:there-here.webm]	/la/
+parler	to speak / to talk	[sound:to-speak-to-talk.webm]	/paʁle/
+suivre	to follow	[sound:to-follow.webm]	/sɥivʁ/
+si	if / so (si grand = so big)	[sound:if-so-si-grand-so-big.webm]	/si/
+toi	you (stressed, informal)	[sound:you-stressed-informal.webm]	/twa/
+falloir	to be necessary (il faut)	[sound:to-be-necessary-il-faut.webm]	/falwaʁ/
+ici	here	[sound:here.webm]	/isi/
+la chose	the thing	[sound:the-thing.webm]	/la ʃoz/
+alors	so / then	[sound:so-then.webm]	/alɔʁ/
+aussi	also / too	[sound:also-too.webm]	/osi/
+encore	again / still	[sound:again-still.webm]	/ɑ̃kɔʁ/
+très	very	[sound:very-tres.webm]	/tʁɛ/
+tout (adverbe)	all / quite (adverb)	[sound:all-quite-adverb.webm]	/tu/
+passer	to pass / to spend (time)	[sound:to-pass-to-spend-time.webm]	/pase/
+croire	to believe	[sound:to-believe.webm]	/kʁwaʁ/
+petit / petite	small / little	[sound:small-little.webm]	/pəti, pətit/
+l'homme (m.)	the man	[sound:the-man.webm]	/lɔm/
+jamais	never	[sound:never-jamais.webm]	/ʒamɛ/
+aimer	to love / to like	[sound:to-love-to-like.webm]	/eme/
+le jour	the day	[sound:the-day.webm]	/lə ʒuʁ/
+penser	to think	[sound:to-think.webm]	/pɑ̃se/
+bon / bonne	good	[sound:good-bon-bonne.webm]	/bɔ̃, bɔn/
+votre / vos	your (formal / plural)	[sound:your-formal-plural.webm]	/vɔtʁ, vo/
+le temps	the time / the weather	[sound:the-time-the-weather.webm]	/lə tɑ̃/
+trouver	to find	[sound:to-find-trouver.webm]	/tʁuve/
+même	even / same	[sound:even-same.webm]	/mɛm/
+tout (pronom)	everything / all (pronoun)	[sound:everything-all-pronoun.webm]	/tu/
+regarder	to look at / to watch	[sound:to-look-at-to-watch.webm]	/ʁəɡaʁde/
+laisser	to leave / to let	[sound:to-leave-to-let.webm]	/lese/
+toujours	always / still	[sound:always-still.webm]	/tuʒuʁ/
+donner	to give	[sound:to-give-donner.webm]	/dɔne/
+mettre	to put / to put on	[sound:to-put-to-put-on-mettre.webm]	/mɛtʁ/
+attendre	to wait (for)	[sound:to-wait-for.webm]	/atɑ̃dʁ/
+la femme	the woman / the wife	[sound:the-woman-the-wife.webm]	/la fam/
+ton / ta / tes	your (informal)	[sound:your-informal.webm]	/tɔ̃, ta, te/
+arriver	to arrive / to happen	[sound:to-arrive-to-happen.webm]	/aʁive/
+demander	to ask	[sound:to-ask.webm]	/dəmɑ̃de/
+grand / grande	big / tall	[sound:big-tall-grand-grande.webm]	/ɡʁɑ̃, ɡʁɑ̃d/
+la vie	the life	[sound:the-life.webm]	/la vi/
+seul / seule	alone / only	[sound:alone-only.webm]	/sœl/
+rester	to stay / to remain	[sound:to-stay-to-remain.webm]	/ʁɛste/
+la main	the hand	[sound:the-hand-la-main.webm]	/la mɛ̃/
+notre / nos	our	[sound:our.webm]	/nɔtʁ, no/
+autre	other	[sound:other.webm]	/otʁ/
+trop	too / too much	[sound:too-too-much.webm]	/tʁo/
+l'œil (m.) / les yeux	the eye / the eyes	[sound:the-eye-the-eyes.webm]	/lœj, lez jø/
+l'heure (f.)	the hour / the time (o'clock)	[sound:the-hour-the-time-o-clock.webm]	/lœʁ/

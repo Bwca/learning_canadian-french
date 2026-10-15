@@ -1,0 +1,50 @@
+oui	yes	[sound:yes.webm]	/wi/
+d'accord	OK / agreed	[sound:ok-agreed.webm]	/dakɔʁ/
+au revoir	goodbye	[sound:goodbye.webm]	/o ʁəvwaʁ/
+excusez-moi	excuse me	[sound:excuse-me.webm]	/ɛkskyze mwa/
+de rien	you're welcome (Québec: bienvenue)	[sound:you-re-welcome-quebec-bienvenue.webm]	/də ʁjɛ̃/
+enchanté / enchantée	nice to meet you	[sound:nice-to-meet-you.webm]	/ɑ̃ʃɑ̃te/
+voici / voilà	here is / there is	[sound:here-is-there-is.webm]	/vwasi, vwala/
+ce / cet / cette / ces	this / that / these / those	[sound:this-that-these-those.webm]	/sə, sɛt, sɛt, se/
+quel / quelle / quels / quelles	which / what	[sound:which-what.webm]	/kɛl/
+leur / leurs	their	[sound:their.webm]	/lœʁ/
+rien (ne… rien)	nothing	[sound:nothing.webm]	/ʁjɛ̃/
+chaque	each / every	[sound:each-every.webm]	/ʃak/
+quelques	a few / some	[sound:a-few-some.webm]	/kɛlk/
+tout / toute / tous / toutes	all / every / whole	[sound:all-every-whole.webm]	/tu, tut, tu, tut/
+donc	so / therefore	[sound:so-therefore.webm]	/dɔ̃k/
+parce que	because	[sound:because.webm]	/paʁskə/
+deux	two	[sound:two.webm]	/dø/
+trois	three	[sound:three.webm]	/tʁwa/
+quatre	four	[sound:four.webm]	/katʁ/
+cinq	five	[sound:five-cinq.webm]	/sɛ̃k/
+six	six	[sound:six.webm]	/sis/
+sept	seven	[sound:seven.webm]	/sɛt/
+huit	eight	[sound:eight.webm]	/ɥit/
+neuf	nine	[sound:nine.webm]	/nœf/
+dix	ten	[sound:ten.webm]	/dis/
+onze	eleven	[sound:eleven-onze.webm]	/ɔ̃z/
+douze	twelve	[sound:twelve.webm]	/duz/
+treize	thirteen	[sound:thirteen-treize.webm]	/tʁɛz/
+quatorze	fourteen	[sound:fourteen.webm]	/katɔʁz/
+quinze	fifteen	[sound:fifteen-quinze.webm]	/kɛ̃z/
+seize	sixteen	[sound:sixteen-seize.webm]	/sɛz/
+dix-sept	seventeen	[sound:seventeen.webm]	/disɛt/
+dix-huit	eighteen	[sound:eighteen.webm]	/dizɥit/
+dix-neuf	nineteen	[sound:nineteen.webm]	/diznœf/
+vingt	twenty	[sound:twenty-vingt.webm]	/vɛ̃/
+trente	thirty	[sound:thirty.webm]	/tʁɑ̃t/
+quarante	forty	[sound:forty.webm]	/kaʁɑ̃t/
+soixante	sixty	[sound:sixty.webm]	/swasɑ̃t/
+soixante-dix	seventy	[sound:seventy.webm]	/swasɑ̃tdis/
+quatre-vingts	eighty	[sound:eighty.webm]	/katʁəvɛ̃/
+quatre-vingt-dix	ninety	[sound:ninety.webm]	/katʁəvɛ̃dis/
+cent	one hundred	[sound:one-hundred-cent.webm]	/sɑ̃/
+mille	one thousand	[sound:one-thousand.webm]	/mil/
+deuxième	second (2nd)	[sound:second-2nd.webm]	/døzjɛm/
+troisième	third	[sound:third.webm]	/tʁwazjɛm/
+le fils	the son	[sound:the-son.webm]	/lə fis/
+le mois	the month	[sound:the-month.webm]	/lə mwa/
+les pâtes (f.)	the pasta	[sound:the-pasta.webm]	/le pɑt/
+les toilettes (f.)	the restroom / the bathroom (Québec: la salle de bain)	[sound:the-restroom-the-bathroom-quebec-la-salle-de-bain.webm]	/le twalɛt/
+de	of / from	[sound:of-from.webm]	/də/

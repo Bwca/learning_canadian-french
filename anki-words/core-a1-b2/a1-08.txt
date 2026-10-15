@@ -1,0 +1,50 @@
+la route	the road	[sound:the-road.webm]	/la ʁut/
+derrière	behind / at the back	[sound:behind-at-the-back.webm]	/dɛʁjɛʁ/
+mauvais / mauvaise	bad / wrong	[sound:bad-wrong.webm]	/movɛ, movɛz/
+l'ordre (m.)	the order	[sound:the-order.webm]	/lɔʁdʁ/
+manquer	to miss / to lack	[sound:to-miss-to-lack.webm]	/mɑ̃ke/
+le lieu	the place / the spot	[sound:the-place-the-spot.webm]	/lə ljø/
+autour	around	[sound:around.webm]	/otuʁ/
+le ciel	the sky	[sound:the-sky-le-ciel.webm]	/lə sjɛl/
+le pays	the country	[sound:the-country.webm]	/lə pei/
+parfois	sometimes	[sound:sometimes.webm]	/paʁfwa/
+surtout	especially / above all	[sound:especially-above-all.webm]	/syʁtu/
+acheter	to buy	[sound:to-buy-acheter.webm]	/aʃəte/
+heureux / heureuse	happy	[sound:happy.webm]	/øʁø, øʁøz/
+espérer	to hope	[sound:to-hope.webm]	/ɛspeʁe/
+prêt / prête	ready	[sound:ready.webm]	/pʁɛ, pʁɛt/
+fermer	to close	[sound:to-close.webm]	/fɛʁme/
+imaginer	to imagine	[sound:to-imagine.webm]	/imaʒine/
+expliquer	to explain	[sound:to-explain.webm]	/ɛksplike/
+merci	thank you	[sound:thank-you-merci.webm]	/mɛʁsi/
+le silence	the silence	[sound:the-silence.webm]	/lə silɑ̃s/
+compter	to count	[sound:to-count-compter.webm]	/kɔ̃te/
+rencontrer	to meet	[sound:to-meet-rencontrer.webm]	/ʁɑ̃kɔ̃tʁe/
+la pièce	the room / the coin / the play (theatre)	[sound:the-room-the-coin-the-play-theatre.webm]	/la pjɛs/
+souvent	often	[sound:often-souvent.webm]	/suvɑ̃/
+décider	to decide	[sound:to-decide.webm]	/deside/
+le plaisir	the pleasure (avec plaisir = with pleasure)	[sound:the-pleasure-avec-plaisir-with-pleasure.webm]	/lə pleziʁ/
+prier	to pray / to beg (je vous en prie = you're welcome)	[sound:to-pray-to-beg-je-vous-en-prie-you-re-welcome.webm]	/pʁije/
+recevoir	to receive	[sound:to-receive.webm]	/ʁəsəvwaʁ/
+la cause	the cause (à cause de = because of)	[sound:the-cause-a-cause-de-because-of.webm]	/la koz/
+le bois	the wood / the woods	[sound:the-wood-the-woods.webm]	/lə bwa/
+possible	possible	[sound:possible.webm]	/pɔsibl/
+la lettre	the letter	[sound:the-letter-la-lettre.webm]	/la lɛtʁ/
+courir	to run	[sound:to-run.webm]	/kuʁiʁ/
+la lumière	the light	[sound:the-light.webm]	/la lymjɛʁ/
+le chien / la chienne	the dog	[sound:the-dog.webm]	/lə ʃjɛ̃, la ʃjɛn/
+le mur	the wall	[sound:the-wall.webm]	/lə myʁ/
+le verre	the glass	[sound:the-glass-le-verre.webm]	/lə vɛʁ/
+la partie	the part / the game (match)	[sound:the-part-the-game-match.webm]	/la paʁti/
+puis	then	[sound:then.webm]	/pɥi/
+ensemble	together	[sound:together-ensemble.webm]	/ɑ̃sɑ̃bl/
+le mec	the guy (slang)	[sound:the-guy-slang.webm]	/lə mɛk/
+la face	the face / the side (en face de = opposite)	[sound:the-face-the-side-en-face-de-opposite.webm]	/la fas/
+nouveau / nouvelle	new	[sound:new.webm]	/nuvo, nuvɛl/
+les cheveux	the hair	[sound:the-hair.webm]	/le ʃəvø/
+offrir	to offer / to give (a gift)	[sound:to-offer-to-give-a-gift.webm]	/ɔfʁiʁ/
+le mari	the husband	[sound:the-husband.webm]	/lə maʁi/
+cacher	to hide	[sound:to-hide.webm]	/kaʃe/
+le reste	the rest	[sound:the-rest.webm]	/lə ʁɛst/
+battre	to beat (se battre = to fight)	[sound:to-beat-se-battre-to-fight.webm]	/batʁ/
+là-bas	over there	[sound:over-there.webm]	/laba/

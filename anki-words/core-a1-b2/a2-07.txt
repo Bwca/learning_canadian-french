@@ -1,0 +1,50 @@
+double	double	[sound:double.webm]	/dubl/
+l'inspecteur (m.) / l'inspectrice (f.)	the inspector	[sound:the-inspector.webm]	/lɛ̃spɛktœʁ, lɛ̃spɛktʁis/
+la presse	the press	[sound:the-press.webm]	/la pʁɛs/
+l'élément (m.)	the element	[sound:the-element.webm]	/lelemɑ̃/
+l'artiste (m./f.)	the artist	[sound:the-artist.webm]	/laʁtist/
+étroit / étroite	narrow / tight	[sound:narrow-tight.webm]	/etʁwa, etʁwat/
+nerveux / nerveuse	nervous	[sound:nervous.webm]	/nɛʁvø, nɛʁvøz/
+évoquer	to mention / to bring to mind	[sound:to-mention-to-bring-to-mind.webm]	/evɔke/
+inconnu / inconnue	unknown	[sound:unknown.webm]	/ɛ̃kɔny/
+le moteur	the engine / the motor	[sound:the-engine-the-motor.webm]	/lə mɔtœʁ/
+le / la malade	the patient / the sick person	[sound:the-patient-the-sick-person.webm]	/lə, la malad/
+social / sociale	social	[sound:social.webm]	/sɔsjal/
+l'alcool (m.)	the alcohol	[sound:the-alcohol.webm]	/lalkɔl/
+le niveau	the level	[sound:the-level.webm]	/lə nivo/
+mignon / mignonne	cute	[sound:cute-mignon-mignonne.webm]	/miɲɔ̃, miɲɔn/
+environ	about / around (approximately)	[sound:about-around-approximately.webm]	/ɑ̃viʁɔ̃/
+la colline	the hill	[sound:the-hill.webm]	/la kɔlin/
+la saison	the season	[sound:the-season.webm]	/la sɛzɔ̃/
+inquiet / inquiète	worried	[sound:worried.webm]	/ɛ̃kjɛ, ɛ̃kjɛt/
+russe	Russian	[sound:russian.webm]	/ʁys/
+recouvrir	to cover (completely)	[sound:to-cover-completely.webm]	/ʁəkuvʁiʁ/
+accomplir	to accomplish	[sound:to-accomplish.webm]	/akɔ̃pliʁ/
+suivant / suivante	following / next	[sound:following-next.webm]	/sɥivɑ̃, sɥivɑ̃t/
+rapprocher	to bring closer	[sound:to-bring-closer.webm]	/ʁapʁɔʃe/
+la retraite	the retirement	[sound:the-retirement.webm]	/la ʁətʁɛt/
+sauvage	wild	[sound:wild.webm]	/sovaʒ/
+l'enquête (f.)	the investigation / the survey	[sound:the-investigation-the-survey.webm]	/lɑ̃kɛt/
+le mystère	the mystery	[sound:the-mystery.webm]	/lə mistɛʁ/
+le style	the style	[sound:the-style.webm]	/lə stil/
+la cave	the cellar	[sound:the-cellar.webm]	/la kav/
+marre	fed up (en avoir marre = to be fed up)	[sound:fed-up-en-avoir-marre-to-be-fed-up.webm]	/maʁ/
+le prisonnier / la prisonnière	the prisoner	[sound:the-prisoner.webm]	/lə pʁizɔnje, la pʁizɔnjɛʁ/
+la marque	the brand / the mark	[sound:the-brand-the-mark.webm]	/la maʁk/
+rattraper	to catch up (with)	[sound:to-catch-up-with.webm]	/ʁatʁape/
+utile	useful	[sound:useful.webm]	/ytil/
+louer	to rent / to praise	[sound:to-rent-to-praise.webm]	/lwe/
+le territoire	the territory	[sound:the-territory.webm]	/lə tɛʁitwaʁ/
+la botte	the boot	[sound:the-boot.webm]	/la bɔt/
+vain / vaine	vain (en vain = in vain)	[sound:vain-en-vain-in-vain.webm]	/vɛ̃, vɛn/
+violent / violente	violent	[sound:violent.webm]	/vjɔlɑ̃, vjɔlɑ̃t/
+le charme	the charm	[sound:the-charm.webm]	/lə ʃaʁm/
+la nourriture	the food	[sound:the-food.webm]	/la nuʁityʁ/
+l'infirmier (m.) / l'infirmière (f.)	the nurse	[sound:the-nurse.webm]	/lɛ̃fiʁmje, lɛ̃fiʁmjɛʁ/
+la plume	the feather / the pen	[sound:the-feather-the-pen.webm]	/la plym/
+la coupe	the cup (trophy) / the haircut / the cut	[sound:the-cup-trophy-the-haircut-the-cut.webm]	/la kup/
+le loup / la louve	the wolf	[sound:the-wolf.webm]	/lə lu, la luv/
+la blessure	the injury / the wound	[sound:the-injury-the-wound.webm]	/la blesyʁ/
+mystérieux / mystérieuse	mysterious	[sound:mysterious.webm]	/misteʁjø, misteʁjøz/
+l'énergie (f.)	the energy	[sound:the-energy.webm]	/lenɛʁʒi/
+la carrière	the career / the quarry	[sound:the-career-the-quarry.webm]	/la kaʁjɛʁ/
