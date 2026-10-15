@@ -1,0 +1,53 @@
+{
+  "title": "Open [ɛ] — ai, aî, ei (set 7)",
+  "sounds": [
+    "ai",
+    "aî",
+    "ei"
+  ],
+  "focus": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+  "sentences": [
+    {
+      "fr": "Mon frère [ai]me f[ai]re du vélo.",
+      "en": "My brother loves to ride his bike."
+    },
+    {
+      "fr": "Le samedi, nous faisons du ski.",
+      "en": "On Saturdays, we go skiing."
+    },
+    {
+      "fr": "Je ne suis jam[ai]s fatiguée !",
+      "en": "I'm never tired!"
+    },
+    {
+      "fr": "Mon père travaille beaucoup.",
+      "en": "My dad works a lot."
+    },
+    {
+      "fr": "Il n'[ai]me pas le sport, m[ai]s il [ai]me la musique.",
+      "en": "He doesn't like sports, but he loves music."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "faire du vélo",
+      "en": "to ride a bike"
+    },
+    {
+      "fr": "faire du ski",
+      "en": "to go skiing"
+    },
+    {
+      "fr": "ne… jamais",
+      "en": "never"
+    },
+    {
+      "fr": "fatigué / fatiguée",
+      "en": "tired"
+    },
+    {
+      "fr": "travailler",
+      "en": "to work"
+    }
+  ]
+}

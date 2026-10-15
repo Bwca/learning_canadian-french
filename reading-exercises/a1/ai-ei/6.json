@@ -1,0 +1,53 @@
+{
+  "title": "Open [ɛ] — ai, aî, ei (set 6)",
+  "sounds": [
+    "ai",
+    "aî",
+    "ei"
+  ],
+  "focus": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+  "sentences": [
+    {
+      "fr": "Dans la classe, il y a vingt ch[ai]ses.",
+      "en": "In the classroom, there are twenty chairs."
+    },
+    {
+      "fr": "Le professeur s'appelle Monsieur Lem[ai]re.",
+      "en": "The teacher's name is Mr. Lemaire."
+    },
+    {
+      "fr": "Il écrit au tableau avec une cr[ai]e.",
+      "en": "He writes on the board with chalk."
+    },
+    {
+      "fr": "Est-ce que je peux f[ai]re mes devoirs ici, s'il vous pl[aî]t ?",
+      "en": "Can I do my homework here, please?"
+    },
+    {
+      "fr": "Oui, m[ai]s en silence !",
+      "en": "Yes, but quietly!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "une chaise",
+      "en": "a chair"
+    },
+    {
+      "fr": "le tableau",
+      "en": "the board"
+    },
+    {
+      "fr": "une craie",
+      "en": "a piece of chalk"
+    },
+    {
+      "fr": "les devoirs",
+      "en": "homework"
+    },
+    {
+      "fr": "en silence",
+      "en": "quietly, in silence"
+    }
+  ]
+}

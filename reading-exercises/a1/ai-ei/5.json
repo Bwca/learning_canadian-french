@@ -1,0 +1,53 @@
+{
+  "title": "Open [ɛ] — ai, aî, ei (set 5)",
+  "sounds": [
+    "ai",
+    "aî",
+    "ei"
+  ],
+  "focus": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+  "sentences": [
+    {
+      "fr": "Aujourd'hui, je porte un pantalon b[ei]ge.",
+      "en": "Today, I'm wearing beige pants."
+    },
+    {
+      "fr": "J'ai une p[ai]re de bas en l[ai]ne.",
+      "en": "I have a pair of wool socks."
+    },
+    {
+      "fr": "Ma mère [ai]me les manteaux ép[ai]s.",
+      "en": "My mom likes thick coats."
+    },
+    {
+      "fr": "Est-ce que tu [ai]mes ma tuque ?",
+      "en": "Do you like my winter hat?"
+    },
+    {
+      "fr": "Oui, c'est vr[ai], elle est très belle !",
+      "en": "Yes, really, it's very nice!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "un pantalon",
+      "en": "pants"
+    },
+    {
+      "fr": "une paire de bas",
+      "en": "a pair of socks (Québec)"
+    },
+    {
+      "fr": "épais",
+      "en": "thick"
+    },
+    {
+      "fr": "une tuque",
+      "en": "a winter hat (Québec)"
+    },
+    {
+      "fr": "c'est vrai",
+      "en": "it's true, really"
+    }
+  ]
+}
