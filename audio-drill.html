@@ -30,6 +30,21 @@
             </div>
         </div>
         <div class="field">
+            <label class="label" for="voiceSelect">French voice</label>
+            <div class="control">
+                <div class="select">
+                    <select id="voiceSelect"></select>
+                </div>
+            </div>
+            <p id="voiceIndicator" class="help" aria-live="polite"></p>
+        </div>
+        <div class="field">
+            <label class="label" for="speechRate">French speech speed: <span id="speechRateValue">100%</span></label>
+            <div class="control">
+                <input type="range" id="speechRate" min="0.5" max="1.5" step="0.1" value="1">
+            </div>
+        </div>
+        <div class="field">
             <label class="label">Repetitions</label>
             <div class="control">
                 <input class="input" type="number" id="repetitions" min="1" value="1">
@@ -65,6 +80,87 @@
         // to it alive while the engine gets around to it — keep it pinned
         // here until it's done.
         const pendingUtterances = [];
+
+        let frenchVoices = [];
+        let selectedVoice = null;
+
+        const voiceSelect = document.getElementById("voiceSelect");
+        const voiceIndicator = document.getElementById("voiceIndicator");
+        const VOICE_STORAGE_KEY = "audioDrillVoiceURI";
+        const SPEECH_RATE_KEY = "audioDrillSpeechRate";
+
+        function escapeHtml(str) {
+            return String(str)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;");
+        }
+
+        function populateVoices() {
+            const voices = speechSynthesis.getVoices();
+            frenchVoices = voices.filter(v => v.lang.toLowerCase().startsWith("fr"));
+
+            if (frenchVoices.length === 0) {
+                voiceSelect.innerHTML = `<option value="">No French voice installed</option>`;
+                voiceIndicator.textContent = "⚠️ No fr-* voice found on this system — speech will fall back to the default system voice.";
+                selectedVoice = null;
+                return;
+            }
+
+            const savedURI = sessionStorage.getItem(VOICE_STORAGE_KEY);
+            voiceSelect.innerHTML = frenchVoices
+                .map(v => `<option value="${escapeHtml(v.voiceURI)}">${escapeHtml(v.name)} (${escapeHtml(v.lang)})</option>`)
+                .join("");
+
+            const savedVoice = frenchVoices.find(v => v.voiceURI === savedURI);
+            // Prefer a local (on-device) fr-CA voice — network voices can
+            // silently fail to speak the first time or two.
+            const localCaVoice = frenchVoices.find(v => v.lang.toLowerCase() === "fr-ca" && v.localService);
+            const anyCaVoice = frenchVoices.find(v => v.lang.toLowerCase() === "fr-ca");
+            const anyLocalVoice = frenchVoices.find(v => v.localService);
+            selectedVoice = savedVoice || localCaVoice || anyCaVoice || anyLocalVoice || frenchVoices[0];
+            voiceSelect.value = selectedVoice.voiceURI;
+            describeSelectedVoice();
+        }
+
+        function describeSelectedVoice() {
+            if (!selectedVoice) return;
+            const networkNote = selectedVoice.localService
+                ? ""
+                : " — this is a network voice; if it stays silent on the first click or two, try a local voice instead if one is listed";
+            voiceIndicator.textContent = `🔊 Using: ${selectedVoice.name} (${selectedVoice.lang})${networkNote}`;
+        }
+
+        voiceSelect.addEventListener("change", () => {
+            selectedVoice = frenchVoices.find(v => v.voiceURI === voiceSelect.value) || null;
+            if (selectedVoice) {
+                sessionStorage.setItem(VOICE_STORAGE_KEY, selectedVoice.voiceURI);
+                describeSelectedVoice();
+            }
+        });
+
+        populateVoices();
+        if (speechSynthesis.onvoiceschanged !== undefined) {
+            speechSynthesis.onvoiceschanged = populateVoices;
+        }
+
+        // --- Speech speed control (slower French for new learners; English stays at normal speed) ---
+        const speechRateInput = document.getElementById("speechRate");
+        const speechRateValue = document.getElementById("speechRateValue");
+        let speechRate = parseFloat(localStorage.getItem(SPEECH_RATE_KEY)) || 1;
+
+        function applySpeechRate() {
+            speechRateInput.value = speechRate;
+            speechRateValue.textContent = `${Math.round(speechRate * 100)}%`;
+        }
+
+        speechRateInput.addEventListener("input", () => {
+            speechRate = parseFloat(speechRateInput.value);
+            localStorage.setItem(SPEECH_RATE_KEY, speechRate);
+            applySpeechRate();
+        });
+        applySpeechRate();
 
         function removeSlashes(word) {
             return word.replace(/\s*\/\s*/g, ", ");
@@ -120,6 +216,10 @@
                         attempt++;
                         const utterance = new SpeechSynthesisUtterance(text);
                         utterance.lang = lang;
+                        if (lang.toLowerCase().startsWith("fr")) {
+                            utterance.rate = speechRate;
+                            if (selectedVoice) utterance.voice = selectedVoice;
+                        }
                         pendingUtterances.push(utterance);
 
                         let settled = false;
