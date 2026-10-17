@@ -1,50 +1,50 @@
-parler	to speak
-perdue	lost
-petit	small
-petite	small (fem.)
-peureuses	fearful (fem. plural)
-peureux	fearful
-pichet	pitcher
-place	square
-plage	beach
-plante	plant
-pleine	full (fem.)
-pluie	rain
-plusieurs	several
-poisson	fish
-pomme	apple
-pont	bridge
-porte	door
-pot	jar
-poule	chicken/hen
-premier	first
-première	first (fem.)
-prix	price (same spelling in plural)
-problème	problem
-professeur	teacher
-professeure	teacher (fem.)
-propre	clean
-près d'ici	near here
-prêt	ready
-père	father
-quarante	forty
-quarante-cinq	forty-five
-quatorze	fourteen
-quatre-vingts	eighty
-quel âge	how old
-quelques	a few / some
-qui	who
-québécois	Québécois
-québécois / québécoise	from Quebec
-rapide	fast
-regarder	to watch
-repas	meal (same spelling in plural)
-restaurant	restaurant
-rivière	river
-riz	rice
-robe	dress
-ronde	round (fem.)
-rose	pink
-rouge	red
-route	road
-rue	street
+jaser	to chat (Québec)
+jaune	yellow
+jaunir	to turn yellow
+jeu	game
+jeune	young
+jeux	games
+jeux vidéo	video games
+joli	pretty
+jolie	pretty (fem.)
+jouer à	to play (a sport or game)
+jouet	toy
+jour	day
+journal	newspaper
+journaux	newspapers
+jumeaux	twins
+jus	juice
+ketchup	ketchup
+la fin de semaine	on the weekend (Québec)
+la nuit	at night
+lac	lake
+lait	milk
+lampe	lamp
+langue	language
+lapin	rabbit
+laver	to wash
+le Québec	Quebec (the province)
+le dimanche	on Sundays
+le samedi	on Saturdays
+le soir	in the evening
+lentement	slowly
+les nouvelles	the news
+lettre	letter
+leur	their
+leurs	their (plural)
+leçon	lesson
+linge	laundry
+lit	bed
+livre	book
+loin d'ici	far from here
+long	long
+longtemps	a long time
+longue	long (fem.)
+lourd	heavy
+lumière	light
+lundi	Monday
+lune	moon
+léger	light (weight)
+légume	vegetable
+légère	light (weight) (fem.)
+ma	my (fem. singular)

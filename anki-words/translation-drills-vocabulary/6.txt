@@ -1,50 +1,50 @@
-jambon	ham
-jardin	garden
-jaune	yellow
-jeu	game
-jeune	young
-jeux	games
-joli	pretty
-jolie	pretty (fem.)
-jouet	toy
-jour	day
-journal	newspaper
-journaux	newspapers
-jumeaux	twins
-jus	juice
-ketchup	ketchup
-lac	lake
-lait	milk
-lampe	lamp
-langue	language
-lapin	rabbit
-les nouvelles	the news
-leur	their
-leurs	their (plural)
-lit	bed
-livre	book
-loin d'ici	far from here
-long	long
-longue	long (fem.)
-lourd	heavy
-lundi	Monday
-lune	moon
-léger	light (weight)
-légume	vegetable
-légère	light (weight) (fem.)
-ma	my (fem. singular)
-magasin	store / shop
-maison	house
-malade	sick
-manger	to eat
-manuel	textbook
-marché	market
-mari	husband
-marqueur	marker
-marron	brown (never changes form)
-mauvais	bad
-mauvaise	bad (fem.)
-mer	sea
-mes	my (plural)
-mexicain	Mexican
-mexicaine	Mexican (fem.)
+fenêtre	window
+fermer	to close / to turn off (Québec)
+fermier	farmer
+fermée	closed (fem.)
+feuille	leaf
+fier	proud
+fille	girl / daughter
+film	movie
+fils	son (same spelling in plural)
+finir	to finish
+fleur	flower
+fleurir	to bloom
+fois	time (occurrence)
+fondre	to melt
+formulaire	form
+fort	strong
+forêt	forest
+foulard	scarf
+fournir	to provide
+frais	fresh
+fraise	strawberry
+français	French
+française	French (fem.)
+frigo	fridge
+froid	cold (noun)
+froide	cold (fem.)
+fromage	cheese
+fruit	fruit
+frère	brother
+fête	party
+gant	glove
+garage	garage
+gare	station
+garçon	boy
+gazon	lawn
+genou / genoux	knee / knees (irregular plural)
+gentil	nice / kind
+gentille	nice / kind (fem.)
+glace	ice / ice cream
+glacière	cooler
+gomme	eraser
+grand	big / tall
+grand-maman	grandma
+grand-mère	grandmother
+grand-papa	grandpa
+grand-père	grandfather
+grande	big / tall (fem.)
+grandes	big / tall (fem. plural)
+grandir	to grow (up)
+grands	big / tall (masc. plural)

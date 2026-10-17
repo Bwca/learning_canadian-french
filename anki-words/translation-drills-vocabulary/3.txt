@@ -1,50 +1,50 @@
+bébé	baby
+cadeau	gift
+café	coffee
+cahier	notebook
+caillou	pebble
+cailloux	pebbles (irregular plural)
+caissière	cashier (fem.)
+calculatrice	calculator
+calme	calm / quiet
+canadien	Canadian
+canadienne	Canadian (fem.)
+candidat	candidate
+carte	map
+cartes	cards
+casse-tête	puzzle
+casserole	pot
+ce matin	this morning
+ce soir	tonight / this evening
+ce week-end	this weekend
+ceinture	belt
+centre commercial	mall
+centre-ville	downtown
+cette semaine	this week
+chaise	chair
+chalet	cottage (Québec)
+chaleur	heat
+chambre	bedroom / room
+champ	field
+chandail	sweater (Québec)
+chanter	to sing
+chanteur	singer
+chapeau	hat
+chat	cat
+chaud	hot
+chauffeur	driver
+chaussure	shoe
+chemin	path
+chemise	shirt
+cher	expensive / dear
+chercher	to look for
+cheval	horse
+cheval / chevaux	horse / horses
+chien	dog
 chocolat	chocolate
+choisir	to choose
 chou	cabbage
 choux	cabbages
 château	castle
 châteaux	castles
 chère	expensive / dear (fem.)
-ciel	sky
-cinq	five
-cinquante	fifty
-cinéma	movies / cinema
-clé	key
-comment	how
-comptoir	counter
-confiture	jam
-content	happy
-contente	happy (fem.)
-contentes	happy (fem. pl.)
-correct	right / correct
-couleur	color
-couloir	hallway
-cousin	cousin
-cousine	cousin (fem.)
-crayon	pencil
-cruel	cruel
-cruelle	cruel (fem.)
-crème	cream
-cuisine	kitchen
-cuisinier	cook
-curieuse	curious (fem.)
-curieux	curious
-célèbre	famous
-dangereuse	dangerous (fem.)
-dangereuses	dangerous (fem. plural)
-dangereux	dangerous
-dans	in
-de	from
-de beaux	beautiful (des becomes de before a plural adjective + noun)
-de l'	some (before vowel/mute h)
-de la	some (fem.)
-demi-frère	half-brother
-dernier	last
-dernière	last (fem.)
-derrière	behind
-des	of the (de + les)
-dessert	dessert
-devant	in front of
-dictionnaire	dictionary
-dix	ten
-dix-huit	eighteen
-dix-neuf	nineteen

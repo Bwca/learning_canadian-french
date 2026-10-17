@@ -1,50 +1,50 @@
-règle	ruler
-réfrigérateur	fridge
-sa	his/her (fem. singular)
-sac	bag
-sac à dos	backpack
-salade	salad
-salle	room
-salle de bain	bathroom
-salle de classe	classroom
-salon	living room
-samedi	Saturday
-sandwich	sandwich
-seize	sixteen
-semaine	week
-sept	seven
-serpent	snake
-ses	his/her (plural)
-seul	alone
-six	six
-soixante	sixty
-soixante-dix	seventy
-soleil	sun
-son	his/her (masc. singular)
-soupe	soup
-sous	under
-spécial	special
-spéciaux	special (masc. plural)
-strict	strict
-stylo	pen
-sucre	sugar
-sur	on
-sympathique	friendly
-sœur	sister
-ta	your (fem. singular, informal)
-table	table
-tableau	board
-tante	aunt
-tapis	rug
-tard	late
-tasse	cup
-temps	time / weather
-tempête	storm
-tes	your (plural, informal)
-thé	tea
-toilettes	bathroom/toilet
-toit	roof
-ton	your (masc. singular, informal)
-ton amie	your friend (fem.) — ton, not ta, before a vowel sound
-tonnerre	thunder
-tortue	turtle
+magasin	store / shop
+magasiner	to shop (Québec)
+maigrir	to lose weight
+maison	house
+malade	sick
+manger	to eat
+manuel	textbook
+marcher	to walk
+marché	market
+mari	husband
+marqueur	marker
+marron	brown (never changes form)
+mauvais	bad
+mauvaise	bad (fem.)
+mer	sea
+mes	my (plural)
+mexicain	Mexican
+mexicaine	Mexican (fem.)
+midi	noon
+minuit	midnight
+miroir	mirror
+mon	my (masc. singular)
+monde	people / crowd
+monnaie	change (coins)
+montagne	mountain
+montre	watch
+moqueur	mocking
+moqueuse	mocking (fem.)
+mordre	to bite
+moutarde	mustard
+mur	wall
+musique	music
+musée	museum
+mère	mother
+médecin	doctor
+métro	subway
+météo	weather (forecast)
+mûrir	to ripen
+neige	snow
+nerveuse	nervous (fem.)
+nerveux	nervous
+neuf	nine
+neuves	new (fem. pl.)
+neveu	nephew
+niaiser	to kid around (Québec, informal)
+nièce	niece
+noir	black / dark
+noire	black (fem.)
+nom	name
+normal	normal

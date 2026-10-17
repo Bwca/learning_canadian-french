@@ -1,50 +1,50 @@
-dollar	dollar
-douce	soft / sweet / mild (fem.)
-doux	soft / sweet / mild
-douze	twelve
-drôle	funny
-du	some (masc.) / of the (de + le)
-du matin	in the morning
-eau	water
-en haut	upstairs
-en hiver	in winter
-en retard	late
-en été	in summer
-enfant	child
-escalier	staircase
-espagnol	Spanish
-et	and
-excité	excited
-famille	family
-farine	flour
-fatigué	tired
-fatiguée	tired (fem.)
-femme	wife / woman
-fenêtre	window
-fermée	closed (fem.)
-fier	proud
-fille	girl / daughter
-film	movie
-fils	son (same spelling in plural)
-fleur	flower
-fois	time (occurrence)
-fort	strong
-forêt	forest
-foulard	scarf
-frais	fresh
-français	French
-française	French (fem.)
-frigo	fridge
-froid	cold (noun)
-froide	cold (fem.)
-fromage	cheese
-fruit	fruit
-frère	brother
-gant	glove
-garage	garage
-gare	station
-garçon	boy
-genou / genoux	knee / knees (irregular plural)
-gentil	nice / kind
-gentille	nice / kind (fem.)
-glace	ice / ice cream
+ciel	sky
+cinq	five
+cinq heures	five o'clock
+cinquante	fifty
+cinéma	movies / cinema
+clé	key
+comment	how
+commis	clerk (store employee)
+comptoir	counter
+confiture	jam
+content	happy
+contente	happy (fem.)
+contentes	happy (fem. pl.)
+correct	right / correct
+couleur	color
+couloir	hallway
+courriel	email (Québec)
+cours	class
+cousin	cousin
+cousine	cousin (fem.)
+crayon	pencil
+cruel	cruel
+cruelle	cruel (fem.)
+crème	cream
+crème glacée	ice cream (Québec)
+cuisine	kitchen
+cuisiner	to cook
+cuisinier	cook
+curieuse	curious (fem.)
+curieux	curious
+cégep	cégep (Québec college)
+célèbre	famous
+dangereuse	dangerous (fem.)
+dangereuses	dangerous (fem. plural)
+dangereux	dangerous
+dans	in
+danser	to dance
+de	from
+de beaux	beautiful (des becomes de before a plural adjective + noun)
+de l'	some (before vowel/mute h)
+de la	some (fem.)
+demain	tomorrow
+demande	application
+demi-frère	half-brother
+dent	tooth
+dernier	last
+dernière	last (fem.)
+derrière	behind
+des	of the (de + les)
+descendre	to go down / to get off

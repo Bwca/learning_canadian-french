@@ -1,50 +1,50 @@
-midi	noon
-minuit	midnight
-miroir	mirror
-mon	my (masc. singular)
-monde	people / crowd
-montagne	mountain
-montre	watch
-moqueur	mocking
-moqueuse	mocking (fem.)
-moutarde	mustard
-mur	wall
-musique	music
-musée	museum
-mère	mother
-médecin	doctor
-neige	snow
-nerveuse	nervous (fem.)
-nerveux	nervous
-neuf	nine
-neuves	new (fem. pl.)
-neveu	nephew
-nièce	niece
-noir	black / dark
-noire	black (fem.)
-nom	name
-normal	normal
-normaux	normal (masc. plural)
-nos	our (plural)
-notre	our (singular)
-nouveau	new
-nouveau / nouveaux	new
-nouvelle	new (fem.)
-nouvelles	news
-nuage	cloud
-occupé	busy
-occupée	busy (fem.)
-oiseau	bird
-oncle	uncle
-orage	storm
-orange	orange (never changes form)
-ordinateur	computer
-ouverte	open (fem.)
-où	where
-pain	bread
-panier	basket
-parapluie	umbrella
-parc	park
-parents	parents
-paresseuse	lazy (fem.)
-paresseux	lazy
+grands-parents	grandparents
+gris	grey
+grise	grey (fem.)
+gros	fat / big
+grosse	fat / big (fem.)
+grossir	to gain weight
+grêle	hail
+guérir	to heal / to get better
+gâteau	cake
+gâteaux	cakes
+génial	awesome / great
+géniaux	awesome / great (masc. plural)
+habiter	to live
+hamster	hamster
+haute	high (fem.)
+haïtien	Haitian
+herbe	grass
+heure	o'clock/hour
+heureuse	happy (fem.)
+heureuses	happy (fem. plural)
+heureux	happy
+hibou	owl
+hiboux	owls (irregular plural)
+histoire	story
+hiver	winter
+homme	man
+horloge	clock
+huile	oil
+huit	eight
+huit heures	eight o'clock
+hôpital	hospital
+ici	here
+idée	idea
+idées	ideas
+il y a	there is / there are
+infirmière	nurse
+ingénieur	engineer
+inquiet	worried
+intelligent	intelligent / smart
+intelligente	intelligent / smart (fem.)
+intelligentes	intelligent / smart (fem. plural)
+interrompre	to interrupt (il/elle interrompt)
+intéressant	interesting
+intéressantes	interesting (fem. plural)
+intéressants	interesting (masc. plural)
+inviter	to invite
+italien	Italian
+italienne	Italian (fem.)
+jambon	ham
+jardin	garden

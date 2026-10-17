@@ -1,50 +1,50 @@
-touriste	tourist
-train	train
-travail	work
-travailler	to work
-trente	thirty
-trente-deux	thirty-two
-triste	sad
-trop de	too much / too many
-téléphone	phone
-télévision	television
-tête	head
-un peu de	a little
-vendredi	Friday
-vent	wind
-ventre	stomach
-verglas	black ice
-verre	glass
-vert	green
-verte	green (fem.)
-veste	jacket
-viande	meat
-vieille	old (fem.)
-vieilles	old (fem. plural)
-vieux	old
-ville	city
-vingt	twenty
-vingt-cinq	twenty-five
-vingt-deux	twenty-two
-violet	purple
-voisin	neighbour
-voisine	neighbour (fem.)
-voiture	car
-vos	your (formal/plural)
-votre	your (formal, singular)
-vélo	bike
-à côté de	next to
-à la maison	at home
-école	school
-église	church
-élevé	high
-énergie	energy
-étagère	shelf
-étoile	star
-étranger	foreign
-étrangère	foreign (fem.)
-étroit	narrow
-étudiant	student
-étudiante	student (fem.)
-œil / yeux	eye / eyes (irregular plural)
-œuf	egg
+normaux	normal (masc. plural)
+nos	our (plural)
+notre	our (singular)
+nourrir	to feed
+nouveau	new
+nouveau / nouveaux	new
+nouvelle	new (fem.)
+nouvelles	news
+nuage	cloud
+obéir	to obey
+obéir à	to obey
+occupé	busy
+occupée	busy (fem.)
+oiseau	bird
+oncle	uncle
+orage	storm
+orange	orange (never changes form)
+ordinateur	computer
+os	bone
+oublier	to forget
+ours	bear
+ouverte	open (fem.)
+où	where
+pain	bread
+panier	basket
+parapluie	umbrella
+parc	park
+parents	parents
+paresseuse	lazy (fem.)
+paresseux	lazy
+parler	to speak
+partie	game (match)
+patiner	to skate
+patron	boss
+pendant	during
+perdre	to lose
+perdre du poids	to lose weight
+perdre du temps	to waste time
+perdre patience	to lose patience
+perdue	lost
+petit	small
+petite	small (fem.)
+peureuses	fearful (fem. plural)
+peureux	fearful
+pichet	pitcher
+place	square
+plage	beach
+plancher	floor (Québec)
+plante	plant
+pleine	full (fem.)

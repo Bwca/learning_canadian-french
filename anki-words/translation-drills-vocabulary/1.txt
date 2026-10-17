@@ -1,8 +1,15 @@
+Laurentides	the Laurentians
+Noël	Christmas
+Québec	Quebec City
 acteur	actor
+adorer	to love / to adore
+agir	to act
+aider	to help
 ail	garlic
 aimer	to like / to love
 air	air
 allemand	German
+allumer	to turn on
 ami	friend
 amie	friend (fem.)
 américain	American
@@ -13,38 +20,31 @@ ancienne	old / former (fem.)
 anglais	English
 animal	animal
 animaux	animals
+annonce	announcement
+applaudir	to applaud
+apporter	to bring
 araignée	spider
 arbre	tree
 argent	money
 armoire	cupboard
+arriver	to arrive
 artiste	artist
+aréna	arena (Québec)
 assiette	plate
+attendre	to wait (for)
+atterrir	to land
 au	to/at the (à + le)
 au loin	in the distance
 aujourd'hui	today
+auto	car
+auto de location	rental car
+autobus	bus
 automne	autumn/fall
+autoroute	highway
 autour de	around
 aux	at/to the (à + les)
+avertir	to warn
+avion	plane
 avoine	oats
 avoir besoin de	to need
 avoir chaud	to be hot
-avoir de la chance	to be lucky
-avoir envie de	to feel like
-avoir faim	to be hungry
-avoir froid	to be cold
-avoir honte	to be ashamed
-avoir hâte	to look forward to / can't wait
-avoir l'air	to look/seem
-avoir mal à	to have pain in
-avoir peur	to be afraid
-avoir raison	to be right
-avoir soif	to be thirsty
-avoir sommeil	to be sleepy
-avoir tort	to be wrong
-ballon	balloon
-banane	banana
-banque	bank
-beau	beautiful
-beau-père	stepfather/father-in-law
-beaucoup de	a lot of / many
-beaux	beautiful (masc. plural)

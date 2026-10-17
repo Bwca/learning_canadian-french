@@ -1,50 +1,50 @@
-gomme	eraser
-grand	big / tall
-grand-mère	grandmother
-grand-père	grandfather
-grande	big / tall (fem.)
-grandes	big / tall (fem. plural)
-grands	big / tall (masc. plural)
-grands-parents	grandparents
-gris	grey
-grise	grey (fem.)
-gros	fat / big
-grosse	fat / big (fem.)
-grêle	hail
-gâteau	cake
-gâteaux	cakes
-génial	awesome / great
-géniaux	awesome / great (masc. plural)
-habiter	to live
-hamster	hamster
-haute	high (fem.)
-haïtien	Haitian
-herbe	grass
-heure	o'clock/hour
-heureuse	happy (fem.)
-heureuses	happy (fem. plural)
-heureux	happy
-hibou	owl
-hiboux	owls (irregular plural)
-histoire	story
-hiver	winter
-homme	man
-horloge	clock
-huile	oil
-huit	eight
-hôpital	hospital
-ici	here
-idée	idea
-idées	ideas
-il y a	there is / there are
-infirmière	nurse
-ingénieur	engineer
-inquiet	worried
-intelligent	intelligent / smart
-intelligente	intelligent / smart (fem.)
-intelligentes	intelligent / smart (fem. plural)
-intéressant	interesting
-intéressantes	interesting (fem. plural)
-intéressants	interesting (masc. plural)
-italien	Italian
-italienne	Italian (fem.)
+descendre de	to get off
+descendre en ville	to go downtown
+dessert	dessert
+devant	in front of
+devoirs	homework
+dictionnaire	dictionary
+dix	ten
+dix-huit	eighteen
+dix-neuf	nineteen
+dollar	dollar
+douce	soft / sweet / mild (fem.)
+doux	soft / sweet / mild
+douze	twelve
+drôle	funny
+du	some (masc.) / of the (de + le)
+du matin	in the morning
+défendre	to defend / to forbid
+déjeuner	to have breakfast (Québec)
+démolir	to demolish
+déneiger	to clear the snow from
+dépanneur	convenience store (Québec)
+dépendre	to depend
+dépendre de	to depend on
+détester	to hate
+dîner	lunch / to have lunch (Québec)
+eau	water
+emploi	job
+en famille	with the family
+en file	in line (Québec)
+en haut	upstairs
+en hiver	in winter
+en retard	late
+en été	in summer
+enfant	child
+enseignante	teacher (fem.)
+entendre	to hear
+entendre parler de	to hear about
+entreprise	company
+entrée	driveway
+escalier	staircase
+espagnol	Spanish
+et	and
+examen de conduite	driving test
+excité	excited
+expliquer	to explain
+famille	family
+farine	flour
+fatigué	tired
+fatiguée	tired (fem.)
+femme	wife / woman
