@@ -1,0 +1,81 @@
+{
+  "title": "Verbes en -ir — present tense (set 5: the body and health)",
+  "exercises": [
+    {
+      "en": "I gain weight at Christmas.",
+      "fr": "Je grossis à Noël.",
+      "vocab": [
+        { "fr": "grossir", "en": "to gain weight" },
+        { "fr": "Noël", "en": "Christmas" }
+      ]
+    },
+    {
+      "en": "You (informal) are losing weight.",
+      "fr": "Tu maigris.",
+      "vocab": [
+        { "fr": "maigrir", "en": "to lose weight" }
+      ]
+    },
+    {
+      "en": "He heals quickly.",
+      "fr": "Il guérit vite.",
+      "vocab": [
+        { "fr": "guérir", "en": "to heal / to get better" },
+        { "fr": "vite", "en": "quickly" }
+      ]
+    },
+    {
+      "en": "She turns pale.",
+      "fr": "Elle pâlit.",
+      "vocab": [
+        { "fr": "pâlir", "en": "to turn pale" }
+      ]
+    },
+    {
+      "en": "We are getting old.",
+      "fr": "Nous vieillissons.",
+      "vocab": [
+        { "fr": "vieillir", "en": "to get old" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) tan at the beach.",
+      "fr": "Vous brunissez à la plage.",
+      "vocab": [
+        { "fr": "brunir", "en": "to tan" },
+        { "fr": "plage", "en": "beach" }
+      ]
+    },
+    {
+      "en": "The children grow fast.",
+      "fr": "Les enfants grandissent vite.",
+      "vocab": [
+        { "fr": "grandir", "en": "to grow (up)" },
+        { "fr": "vite", "en": "fast" }
+      ]
+    },
+    {
+      "en": "They (fem.) blush.",
+      "fr": "Elles rougissent.",
+      "vocab": [
+        { "fr": "rougir", "en": "to blush" }
+      ]
+    },
+    {
+      "en": "The doctor heals the patient.",
+      "fr": "Le médecin guérit le patient.",
+      "vocab": [
+        { "fr": "guérir", "en": "to heal / to cure" },
+        { "fr": "médecin", "en": "doctor" }
+      ]
+    },
+    {
+      "en": "Grandpa is getting younger!",
+      "fr": "Grand-papa rajeunit!",
+      "vocab": [
+        { "fr": "rajeunir", "en": "to get younger" },
+        { "fr": "grand-papa", "en": "grandpa" }
+      ]
+    }
+  ]
+}

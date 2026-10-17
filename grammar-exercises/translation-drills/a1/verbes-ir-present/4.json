@@ -1,0 +1,88 @@
+{
+  "title": "Verbes en -ir — present tense (set 4: nature and the seasons)",
+  "exercises": [
+    {
+      "en": "The leaves turn yellow in October.",
+      "fr": "Les feuilles jaunissent en octobre.",
+      "vocab": [
+        { "fr": "jaunir", "en": "to turn yellow" },
+        { "fr": "feuille", "en": "leaf" }
+      ]
+    },
+    {
+      "en": "The maple turns red.",
+      "fr": "L'érable rougit.",
+      "vocab": [
+        { "fr": "rougir", "en": "to turn red / to blush" },
+        { "fr": "érable", "en": "maple (tree)" }
+      ]
+    },
+    {
+      "en": "The flowers bloom in May.",
+      "fr": "Les fleurs fleurissent en mai.",
+      "vocab": [
+        { "fr": "fleurir", "en": "to bloom" },
+        { "fr": "fleur", "en": "flower" }
+      ]
+    },
+    {
+      "en": "The apples ripen in September.",
+      "fr": "Les pommes mûrissent en septembre.",
+      "vocab": [
+        { "fr": "mûrir", "en": "to ripen" },
+        { "fr": "pomme", "en": "apple" }
+      ]
+    },
+    {
+      "en": "The tree grows slowly.",
+      "fr": "L'arbre grandit lentement.",
+      "vocab": [
+        { "fr": "grandir", "en": "to grow (up)" },
+        { "fr": "arbre", "en": "tree" },
+        { "fr": "lentement", "en": "slowly" }
+      ]
+    },
+    {
+      "en": "The water cools down.",
+      "fr": "L'eau refroidit.",
+      "vocab": [
+        { "fr": "refroidir", "en": "to cool down" },
+        { "fr": "eau", "en": "water" }
+      ]
+    },
+    {
+      "en": "The days get shorter in November.",
+      "fr": "Les jours raccourcissent en novembre.",
+      "vocab": [
+        { "fr": "raccourcir", "en": "to get shorter" },
+        { "fr": "jour", "en": "day" }
+      ]
+    },
+    {
+      "en": "The farmers feed the cows.",
+      "fr": "Les fermiers nourrissent les vaches.",
+      "vocab": [
+        { "fr": "nourrir", "en": "to feed" },
+        { "fr": "fermier", "en": "farmer" },
+        { "fr": "vache", "en": "cow" }
+      ]
+    },
+    {
+      "en": "The garden blooms in June.",
+      "fr": "Le jardin fleurit en juin.",
+      "vocab": [
+        { "fr": "fleurir", "en": "to bloom" },
+        { "fr": "jardin", "en": "garden" }
+      ]
+    },
+    {
+      "en": "The bear gains weight in the fall.",
+      "fr": "L'ours grossit à l'automne.",
+      "vocab": [
+        { "fr": "grossir", "en": "to gain weight" },
+        { "fr": "ours", "en": "bear" },
+        { "fr": "à l'automne", "en": "in the fall" }
+      ]
+    }
+  ]
+}

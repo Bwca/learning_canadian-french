@@ -1,0 +1,80 @@
+{
+  "title": "Verbes en -ir — present tense (set 2: with nous/vous/ils/elles)",
+  "exercises": [
+    {
+      "en": "We finish at five o'clock.",
+      "fr": "Nous finissons à cinq heures.",
+      "vocab": [
+        { "fr": "finir", "en": "to finish" },
+        { "fr": "cinq heures", "en": "five o'clock" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) choose the restaurant.",
+      "fr": "Vous choisissez le restaurant.",
+      "vocab": [
+        { "fr": "choisir", "en": "to choose" }
+      ]
+    },
+    {
+      "en": "They (masc.) pass the exam.",
+      "fr": "Ils réussissent l'examen.",
+      "vocab": [
+        { "fr": "réussir un examen", "en": "to pass an exam" }
+      ]
+    },
+    {
+      "en": "They (fem.) grow up in Montreal.",
+      "fr": "Elles grandissent à Montréal.",
+      "vocab": [
+        { "fr": "grandir", "en": "to grow (up)" }
+      ]
+    },
+    {
+      "en": "We fill out the form.",
+      "fr": "Nous remplissons le formulaire.",
+      "vocab": [
+        { "fr": "remplir", "en": "to fill (out)" },
+        { "fr": "formulaire", "en": "form" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) slow down near the school.",
+      "fr": "Vous ralentissez près de l'école.",
+      "vocab": [
+        { "fr": "ralentir", "en": "to slow down" },
+        { "fr": "près de", "en": "near" }
+      ]
+    },
+    {
+      "en": "The students applaud.",
+      "fr": "Les étudiants applaudissent.",
+      "vocab": [
+        { "fr": "applaudir", "en": "to applaud" },
+        { "fr": "étudiant", "en": "student" }
+      ]
+    },
+    {
+      "en": "We think about the problem.",
+      "fr": "Nous réfléchissons au problème.",
+      "vocab": [
+        { "fr": "réfléchir à", "en": "to think about" },
+        { "fr": "problème", "en": "problem" }
+      ]
+    },
+    {
+      "en": "They (masc.) build a house.",
+      "fr": "Ils bâtissent une maison.",
+      "vocab": [
+        { "fr": "bâtir", "en": "to build" }
+      ]
+    },
+    {
+      "en": "The parents are getting old.",
+      "fr": "Les parents vieillissent.",
+      "vocab": [
+        { "fr": "vieillir", "en": "to get old" }
+      ]
+    }
+  ]
+}

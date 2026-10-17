@@ -1,0 +1,80 @@
+{
+  "title": "Verbes en -ir — present tense (set 3: negatives and questions)",
+  "exercises": [
+    {
+      "en": "I don't finish the book.",
+      "fr": "Je ne finis pas le livre.",
+      "vocab": [
+        { "fr": "finir", "en": "to finish" }
+      ]
+    },
+    {
+      "en": "Do you (informal) choose the red sweater?",
+      "fr": "Est-ce que tu choisis le chandail rouge?",
+      "vocab": [
+        { "fr": "choisir", "en": "to choose" },
+        { "fr": "chandail", "en": "sweater (Québec)" }
+      ]
+    },
+    {
+      "en": "He doesn't gain weight.",
+      "fr": "Il ne grossit pas.",
+      "vocab": [
+        { "fr": "grossir", "en": "to gain weight" }
+      ]
+    },
+    {
+      "en": "Do they (masc.) obey the teacher?",
+      "fr": "Est-ce qu'ils obéissent au professeur?",
+      "vocab": [
+        { "fr": "obéir à", "en": "to obey" },
+        { "fr": "professeur", "en": "teacher" }
+      ]
+    },
+    {
+      "en": "We don't blush.",
+      "fr": "Nous ne rougissons pas.",
+      "vocab": [
+        { "fr": "rougir", "en": "to blush" }
+      ]
+    },
+    {
+      "en": "Does the plane land in Montreal?",
+      "fr": "Est-ce que l'avion atterrit à Montréal?",
+      "vocab": [
+        { "fr": "atterrir", "en": "to land" },
+        { "fr": "avion", "en": "plane" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) don't fill the bottle.",
+      "fr": "Vous ne remplissez pas la bouteille.",
+      "vocab": [
+        { "fr": "remplir", "en": "to fill" },
+        { "fr": "bouteille", "en": "bottle" }
+      ]
+    },
+    {
+      "en": "Do they (fem.) pass the course?",
+      "fr": "Est-ce qu'elles réussissent le cours?",
+      "vocab": [
+        { "fr": "réussir un cours", "en": "to pass a course" }
+      ]
+    },
+    {
+      "en": "She doesn't feed the dog.",
+      "fr": "Elle ne nourrit pas le chien.",
+      "vocab": [
+        { "fr": "nourrir", "en": "to feed" }
+      ]
+    },
+    {
+      "en": "Do we finish at noon?",
+      "fr": "Est-ce que nous finissons à midi?",
+      "vocab": [
+        { "fr": "finir", "en": "to finish" },
+        { "fr": "midi", "en": "noon" }
+      ]
+    }
+  ]
+}

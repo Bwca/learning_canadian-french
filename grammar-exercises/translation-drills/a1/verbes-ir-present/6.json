@@ -1,0 +1,85 @@
+{
+  "title": "Verbes en -ir — present tense (set 6: at school and work)",
+  "exercises": [
+    {
+      "en": "I fill out the application.",
+      "fr": "Je remplis la demande.",
+      "vocab": [
+        { "fr": "remplir", "en": "to fill (out)" },
+        { "fr": "demande", "en": "application" }
+      ]
+    },
+    {
+      "en": "You (informal) finish the report.",
+      "fr": "Tu finis le rapport.",
+      "vocab": [
+        { "fr": "finir", "en": "to finish" },
+        { "fr": "rapport", "en": "report" }
+      ]
+    },
+    {
+      "en": "The boss chooses the candidate.",
+      "fr": "Le patron choisit le candidat.",
+      "vocab": [
+        { "fr": "choisir", "en": "to choose" },
+        { "fr": "patron", "en": "boss" },
+        { "fr": "candidat", "en": "candidate" }
+      ]
+    },
+    {
+      "en": "She does well in French.",
+      "fr": "Elle réussit en français.",
+      "vocab": [
+        { "fr": "réussir en", "en": "to do well in (a subject)" }
+      ]
+    },
+    {
+      "en": "We think about the project.",
+      "fr": "Nous réfléchissons au projet.",
+      "vocab": [
+        { "fr": "réfléchir à", "en": "to think about" },
+        { "fr": "projet", "en": "project" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) provide the documents.",
+      "fr": "Vous fournissez les documents.",
+      "vocab": [
+        { "fr": "fournir", "en": "to provide" }
+      ]
+    },
+    {
+      "en": "They (masc.) act quickly.",
+      "fr": "Ils agissent vite.",
+      "vocab": [
+        { "fr": "agir", "en": "to act" },
+        { "fr": "vite", "en": "quickly" }
+      ]
+    },
+    {
+      "en": "They (fem.) react well.",
+      "fr": "Elles réagissent bien.",
+      "vocab": [
+        { "fr": "réagir", "en": "to react" },
+        { "fr": "bien", "en": "well" }
+      ]
+    },
+    {
+      "en": "The company builds a school.",
+      "fr": "L'entreprise bâtit une école.",
+      "vocab": [
+        { "fr": "bâtir", "en": "to build" },
+        { "fr": "entreprise", "en": "company" }
+      ]
+    },
+    {
+      "en": "The students applaud the teacher.",
+      "fr": "Les élèves applaudissent l'enseignante.",
+      "vocab": [
+        { "fr": "applaudir", "en": "to applaud" },
+        { "fr": "élève", "en": "student (pupil)" },
+        { "fr": "enseignante", "en": "teacher (fem.)" }
+      ]
+    }
+  ]
+}

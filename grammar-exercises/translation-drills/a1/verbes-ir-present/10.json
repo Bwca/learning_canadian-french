@@ -1,0 +1,82 @@
+{
+  "title": "Verbes en -ir — present tense (set 10: review: negatives and questions)",
+  "exercises": [
+    {
+      "en": "I don't choose the dessert.",
+      "fr": "Je ne choisis pas le dessert.",
+      "vocab": [
+        { "fr": "choisir", "en": "to choose" }
+      ]
+    },
+    {
+      "en": "Do you (informal) finish at four o'clock?",
+      "fr": "Est-ce que tu finis à quatre heures?",
+      "vocab": [
+        { "fr": "finir", "en": "to finish" },
+        { "fr": "quatre heures", "en": "four o'clock" }
+      ]
+    },
+    {
+      "en": "He doesn't react.",
+      "fr": "Il ne réagit pas.",
+      "vocab": [
+        { "fr": "réagir", "en": "to react" }
+      ]
+    },
+    {
+      "en": "Where does the plane land?",
+      "fr": "Où est-ce que l'avion atterrit?",
+      "vocab": [
+        { "fr": "atterrir", "en": "to land" },
+        { "fr": "avion", "en": "plane" }
+      ]
+    },
+    {
+      "en": "We don't gain weight in summer.",
+      "fr": "Nous ne grossissons pas en été.",
+      "vocab": [
+        { "fr": "grossir", "en": "to gain weight" },
+        { "fr": "en été", "en": "in summer" }
+      ]
+    },
+    {
+      "en": "Do you (formal/plural) fill out the form?",
+      "fr": "Est-ce que vous remplissez le formulaire?",
+      "vocab": [
+        { "fr": "remplir", "en": "to fill (out)" },
+        { "fr": "formulaire", "en": "form" }
+      ]
+    },
+    {
+      "en": "They (masc.) don't obey.",
+      "fr": "Ils n'obéissent pas.",
+      "vocab": [
+        { "fr": "obéir", "en": "to obey" }
+      ]
+    },
+    {
+      "en": "Do the leaves turn yellow in September?",
+      "fr": "Est-ce que les feuilles jaunissent en septembre?",
+      "vocab": [
+        { "fr": "jaunir", "en": "to turn yellow" },
+        { "fr": "feuille", "en": "leaf" }
+      ]
+    },
+    {
+      "en": "She doesn't think about the problem.",
+      "fr": "Elle ne réfléchit pas au problème.",
+      "vocab": [
+        { "fr": "réfléchir à", "en": "to think about" },
+        { "fr": "problème", "en": "problem" }
+      ]
+    },
+    {
+      "en": "Do the children grow fast?",
+      "fr": "Est-ce que les enfants grandissent vite?",
+      "vocab": [
+        { "fr": "grandir", "en": "to grow (up)" },
+        { "fr": "vite", "en": "fast" }
+      ]
+    }
+  ]
+}

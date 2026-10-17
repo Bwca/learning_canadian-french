@@ -1,0 +1,85 @@
+{
+  "title": "Verbes en -ir — present tense (set 8: nous and vous, -issons/-issez)",
+  "exercises": [
+    {
+      "en": "We choose a movie.",
+      "fr": "Nous choisissons un film.",
+      "vocab": [
+        { "fr": "choisir", "en": "to choose" },
+        { "fr": "film", "en": "movie" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) finish early.",
+      "fr": "Vous finissez tôt.",
+      "vocab": [
+        { "fr": "finir", "en": "to finish" },
+        { "fr": "tôt", "en": "early" }
+      ]
+    },
+    {
+      "en": "We fill the cooler.",
+      "fr": "Nous remplissons la glacière.",
+      "vocab": [
+        { "fr": "remplir", "en": "to fill" },
+        { "fr": "glacière", "en": "cooler" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) feed the horses.",
+      "fr": "Vous nourrissez les chevaux.",
+      "vocab": [
+        { "fr": "nourrir", "en": "to feed" },
+        { "fr": "cheval / chevaux", "en": "horse / horses" }
+      ]
+    },
+    {
+      "en": "We pass the driving test.",
+      "fr": "Nous réussissons l'examen de conduite.",
+      "vocab": [
+        { "fr": "réussir un examen", "en": "to pass an exam" },
+        { "fr": "examen de conduite", "en": "driving test" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) build a cottage.",
+      "fr": "Vous bâtissez un chalet.",
+      "vocab": [
+        { "fr": "bâtir", "en": "to build" },
+        { "fr": "chalet", "en": "cottage (Québec)" }
+      ]
+    },
+    {
+      "en": "We applaud the singer.",
+      "fr": "Nous applaudissons le chanteur.",
+      "vocab": [
+        { "fr": "applaudir", "en": "to applaud" },
+        { "fr": "chanteur", "en": "singer" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) think a lot.",
+      "fr": "Vous réfléchissez beaucoup.",
+      "vocab": [
+        { "fr": "réfléchir", "en": "to think (it over)" },
+        { "fr": "beaucoup", "en": "a lot" }
+      ]
+    },
+    {
+      "en": "We slow down in the snow.",
+      "fr": "Nous ralentissons dans la neige.",
+      "vocab": [
+        { "fr": "ralentir", "en": "to slow down" },
+        { "fr": "neige", "en": "snow" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) obey the rules.",
+      "fr": "Vous obéissez aux règles.",
+      "vocab": [
+        { "fr": "obéir à", "en": "to obey" },
+        { "fr": "règle", "en": "rule" }
+      ]
+    }
+  ]
+}

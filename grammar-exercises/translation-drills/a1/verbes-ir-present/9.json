@@ -1,0 +1,83 @@
+{
+  "title": "Verbes en -ir — present tense (set 9: singular vs plural, il finit/ils finissent)",
+  "exercises": [
+    {
+      "en": "The boy grows.",
+      "fr": "Le garçon grandit.",
+      "vocab": [
+        { "fr": "grandir", "en": "to grow (up)" },
+        { "fr": "garçon", "en": "boy" }
+      ]
+    },
+    {
+      "en": "The boys grow.",
+      "fr": "Les garçons grandissent.",
+      "vocab": [
+        { "fr": "grandir", "en": "to grow (up)" },
+        { "fr": "garçon", "en": "boy" }
+      ]
+    },
+    {
+      "en": "She chooses the cake.",
+      "fr": "Elle choisit le gâteau.",
+      "vocab": [
+        { "fr": "choisir", "en": "to choose" },
+        { "fr": "gâteau", "en": "cake" }
+      ]
+    },
+    {
+      "en": "They (fem.) choose the pie.",
+      "fr": "Elles choisissent la tarte.",
+      "vocab": [
+        { "fr": "choisir", "en": "to choose" },
+        { "fr": "tarte", "en": "pie" }
+      ]
+    },
+    {
+      "en": "The plane lands.",
+      "fr": "L'avion atterrit.",
+      "vocab": [
+        { "fr": "atterrir", "en": "to land" },
+        { "fr": "avion", "en": "plane" }
+      ]
+    },
+    {
+      "en": "The planes land at night.",
+      "fr": "Les avions atterrissent la nuit.",
+      "vocab": [
+        { "fr": "atterrir", "en": "to land" },
+        { "fr": "la nuit", "en": "at night" }
+      ]
+    },
+    {
+      "en": "The cat gains weight.",
+      "fr": "Le chat grossit.",
+      "vocab": [
+        { "fr": "grossir", "en": "to gain weight" }
+      ]
+    },
+    {
+      "en": "The cats gain weight.",
+      "fr": "Les chats grossissent.",
+      "vocab": [
+        { "fr": "grossir", "en": "to gain weight" }
+      ]
+    },
+    {
+      "en": "The student (fem.) succeeds.",
+      "fr": "L'étudiante réussit.",
+      "vocab": [
+        { "fr": "réussir", "en": "to succeed" },
+        { "fr": "étudiante", "en": "student (fem.)" }
+      ]
+    },
+    {
+      "en": "The students (fem.) succeed.",
+      "fr": "Les étudiantes réussissent.",
+      "vocab": [
+        { "fr": "réussir", "en": "to succeed" },
+        { "fr": "étudiante", "en": "student (fem.)" }
+      ]
+    }
+  ]
+}

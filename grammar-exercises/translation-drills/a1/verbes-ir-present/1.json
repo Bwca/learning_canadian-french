@@ -1,0 +1,80 @@
+{
+  "title": "Verbes en -ir — present tense (set 1: with je/tu/il/elle)",
+  "exercises": [
+    {
+      "en": "I finish my homework.",
+      "fr": "Je finis mes devoirs.",
+      "vocab": [
+        { "fr": "finir", "en": "to finish" },
+        { "fr": "devoirs", "en": "homework" }
+      ]
+    },
+    {
+      "en": "You (informal) choose a gift.",
+      "fr": "Tu choisis un cadeau.",
+      "vocab": [
+        { "fr": "choisir", "en": "to choose" },
+        { "fr": "cadeau", "en": "gift" }
+      ]
+    },
+    {
+      "en": "He succeeds at school.",
+      "fr": "Il réussit à l'école.",
+      "vocab": [
+        { "fr": "réussir", "en": "to succeed" }
+      ]
+    },
+    {
+      "en": "She gains weight in winter.",
+      "fr": "Elle grossit en hiver.",
+      "vocab": [
+        { "fr": "grossir", "en": "to gain weight" },
+        { "fr": "en hiver", "en": "in winter" }
+      ]
+    },
+    {
+      "en": "I am losing weight.",
+      "fr": "Je maigris.",
+      "vocab": [
+        { "fr": "maigrir", "en": "to lose weight" }
+      ]
+    },
+    {
+      "en": "The child grows fast.",
+      "fr": "L'enfant grandit vite.",
+      "vocab": [
+        { "fr": "grandir", "en": "to grow (up)" },
+        { "fr": "vite", "en": "fast" }
+      ]
+    },
+    {
+      "en": "You (informal) blush.",
+      "fr": "Tu rougis.",
+      "vocab": [
+        { "fr": "rougir", "en": "to blush" }
+      ]
+    },
+    {
+      "en": "He thinks about the question.",
+      "fr": "Il réfléchit à la question.",
+      "vocab": [
+        { "fr": "réfléchir à", "en": "to think about" }
+      ]
+    },
+    {
+      "en": "She fills the glass.",
+      "fr": "Elle remplit le verre.",
+      "vocab": [
+        { "fr": "remplir", "en": "to fill" },
+        { "fr": "verre", "en": "glass" }
+      ]
+    },
+    {
+      "en": "I feed the cat.",
+      "fr": "Je nourris le chat.",
+      "vocab": [
+        { "fr": "nourrir", "en": "to feed" }
+      ]
+    }
+  ]
+}

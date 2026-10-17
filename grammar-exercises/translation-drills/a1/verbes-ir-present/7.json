@@ -1,0 +1,85 @@
+{
+  "title": "Verbes en -ir — present tense (set 7: everyday actions)",
+  "exercises": [
+    {
+      "en": "I fill the bathtub.",
+      "fr": "Je remplis le bain.",
+      "vocab": [
+        { "fr": "remplir", "en": "to fill" },
+        { "fr": "bain", "en": "bath / bathtub" }
+      ]
+    },
+    {
+      "en": "You (informal) get the floor dirty.",
+      "fr": "Tu salis le plancher.",
+      "vocab": [
+        { "fr": "salir", "en": "to get (something) dirty" },
+        { "fr": "plancher", "en": "floor (Québec)" }
+      ]
+    },
+    {
+      "en": "He feeds the birds.",
+      "fr": "Il nourrit les oiseaux.",
+      "vocab": [
+        { "fr": "nourrir", "en": "to feed" },
+        { "fr": "oiseau", "en": "bird" }
+      ]
+    },
+    {
+      "en": "She chooses a dress.",
+      "fr": "Elle choisit une robe.",
+      "vocab": [
+        { "fr": "choisir", "en": "to choose" },
+        { "fr": "robe", "en": "dress" }
+      ]
+    },
+    {
+      "en": "We warn the neighbours.",
+      "fr": "Nous avertissons les voisins.",
+      "vocab": [
+        { "fr": "avertir", "en": "to warn" },
+        { "fr": "voisin", "en": "neighbour" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) slow down on the highway.",
+      "fr": "Vous ralentissez sur l'autoroute.",
+      "vocab": [
+        { "fr": "ralentir", "en": "to slow down" },
+        { "fr": "autoroute", "en": "highway" }
+      ]
+    },
+    {
+      "en": "They (masc.) demolish the old garage.",
+      "fr": "Ils démolissent le vieux garage.",
+      "vocab": [
+        { "fr": "démolir", "en": "to demolish" },
+        { "fr": "vieux", "en": "old" }
+      ]
+    },
+    {
+      "en": "They (fem.) finish the puzzle.",
+      "fr": "Elles finissent le casse-tête.",
+      "vocab": [
+        { "fr": "finir", "en": "to finish" },
+        { "fr": "casse-tête", "en": "puzzle" }
+      ]
+    },
+    {
+      "en": "The dog gets the carpet dirty.",
+      "fr": "Le chien salit le tapis.",
+      "vocab": [
+        { "fr": "salir", "en": "to get (something) dirty" },
+        { "fr": "tapis", "en": "carpet" }
+      ]
+    },
+    {
+      "en": "I finish the dishes.",
+      "fr": "Je finis la vaisselle.",
+      "vocab": [
+        { "fr": "finir", "en": "to finish" },
+        { "fr": "vaisselle", "en": "dishes" }
+      ]
+    }
+  ]
+}
