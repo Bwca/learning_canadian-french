@@ -1,0 +1,82 @@
+{
+  "title": "Verbes en -er — present tense (set 7: at school and work)",
+  "exercises": [
+    {
+      "en": "The teacher explains the lesson.",
+      "fr": "Le professeur explique la leçon.",
+      "vocab": [
+        { "fr": "expliquer", "en": "to explain" },
+        { "fr": "leçon", "en": "lesson" }
+      ]
+    },
+    {
+      "en": "I ask a question.",
+      "fr": "Je pose une question.",
+      "vocab": [
+        { "fr": "poser une question", "en": "to ask a question" }
+      ]
+    },
+    {
+      "en": "You (informal) are looking for a job.",
+      "fr": "Tu cherches un emploi.",
+      "vocab": [
+        { "fr": "chercher", "en": "to look for" },
+        { "fr": "emploi", "en": "job" }
+      ]
+    },
+    {
+      "en": "She finds the answer.",
+      "fr": "Elle trouve la réponse.",
+      "vocab": [
+        { "fr": "trouver", "en": "to find" },
+        { "fr": "réponse", "en": "answer" }
+      ]
+    },
+    {
+      "en": "We call the client.",
+      "fr": "Nous téléphonons au client.",
+      "vocab": [
+        { "fr": "téléphoner à", "en": "to call (on the phone)" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) forget the meeting.",
+      "fr": "Vous oubliez la réunion.",
+      "vocab": [
+        { "fr": "oublier", "en": "to forget" },
+        { "fr": "réunion", "en": "meeting" }
+      ]
+    },
+    {
+      "en": "They (masc.) bring sandwiches.",
+      "fr": "Ils apportent des sandwichs.",
+      "vocab": [
+        { "fr": "apporter", "en": "to bring" }
+      ]
+    },
+    {
+      "en": "They (fem.) present the project.",
+      "fr": "Elles présentent le projet.",
+      "vocab": [
+        { "fr": "présenter", "en": "to present" },
+        { "fr": "projet", "en": "project" }
+      ]
+    },
+    {
+      "en": "I don't work on the weekend.",
+      "fr": "Je ne travaille pas la fin de semaine.",
+      "vocab": [
+        { "fr": "travailler", "en": "to work" },
+        { "fr": "la fin de semaine", "en": "on the weekend (Québec)" }
+      ]
+    },
+    {
+      "en": "The students study the vocabulary.",
+      "fr": "Les étudiants étudient le vocabulaire.",
+      "vocab": [
+        { "fr": "étudier", "en": "to study" },
+        { "fr": "vocabulaire", "en": "vocabulary" }
+      ]
+    }
+  ]
+}

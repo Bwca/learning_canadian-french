@@ -1,0 +1,83 @@
+{
+  "title": "Verbes en -er — present tense (set 2: with nous/vous/ils/elles)",
+  "exercises": [
+    {
+      "en": "We live in Quebec City.",
+      "fr": "Nous habitons à Québec.",
+      "vocab": [
+        { "fr": "habiter", "en": "to live" },
+        { "fr": "Québec", "en": "Quebec City" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) speak English.",
+      "fr": "Vous parlez anglais.",
+      "vocab": [
+        { "fr": "parler", "en": "to speak" }
+      ]
+    },
+    {
+      "en": "They (masc.) work on Saturdays.",
+      "fr": "Ils travaillent le samedi.",
+      "vocab": [
+        { "fr": "travailler", "en": "to work" },
+        { "fr": "le samedi", "en": "on Saturdays" }
+      ]
+    },
+    {
+      "en": "They (fem.) sing well.",
+      "fr": "Elles chantent bien.",
+      "vocab": [
+        { "fr": "chanter", "en": "to sing" },
+        { "fr": "bien", "en": "well" }
+      ]
+    },
+    {
+      "en": "We listen to the teacher.",
+      "fr": "Nous écoutons le professeur.",
+      "vocab": [
+        { "fr": "écouter", "en": "to listen to" },
+        { "fr": "professeur", "en": "teacher" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) play cards.",
+      "fr": "Vous jouez aux cartes.",
+      "vocab": [
+        { "fr": "jouer à", "en": "to play (a sport or game)" },
+        { "fr": "cartes", "en": "cards" }
+      ]
+    },
+    {
+      "en": "They (masc.) watch the game.",
+      "fr": "Ils regardent la partie.",
+      "vocab": [
+        { "fr": "regarder", "en": "to watch" },
+        { "fr": "partie", "en": "game (match)" }
+      ]
+    },
+    {
+      "en": "We study French.",
+      "fr": "Nous étudions le français.",
+      "vocab": [
+        { "fr": "étudier", "en": "to study" }
+      ]
+    },
+    {
+      "en": "They (fem.) dance at the party.",
+      "fr": "Elles dansent à la fête.",
+      "vocab": [
+        { "fr": "danser", "en": "to dance" },
+        { "fr": "fête", "en": "party" }
+      ]
+    },
+    {
+      "en": "We love winter.",
+      "fr": "Nous aimons l'hiver.",
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "hiver", "en": "winter" }
+      ]
+    }
+  ]
+}

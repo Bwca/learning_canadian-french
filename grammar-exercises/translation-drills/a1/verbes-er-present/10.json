@@ -1,0 +1,82 @@
+{
+  "title": "Verbes en -er — present tense (set 10: review: negatives and questions)",
+  "exercises": [
+    {
+      "en": "I don't speak Spanish.",
+      "fr": "Je ne parle pas espagnol.",
+      "vocab": [
+        { "fr": "parler", "en": "to speak" },
+        { "fr": "espagnol", "en": "Spanish" }
+      ]
+    },
+    {
+      "en": "Do you (informal) work tomorrow?",
+      "fr": "Est-ce que tu travailles demain?",
+      "vocab": [
+        { "fr": "travailler", "en": "to work" },
+        { "fr": "demain", "en": "tomorrow" }
+      ]
+    },
+    {
+      "en": "He doesn't cook.",
+      "fr": "Il ne cuisine pas.",
+      "vocab": [
+        { "fr": "cuisiner", "en": "to cook" }
+      ]
+    },
+    {
+      "en": "She doesn't like the rain.",
+      "fr": "Elle n'aime pas la pluie.",
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "pluie", "en": "rain" }
+      ]
+    },
+    {
+      "en": "Do we invite Paul?",
+      "fr": "Est-ce que nous invitons Paul?",
+      "vocab": [
+        { "fr": "inviter", "en": "to invite" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) don't stay here.",
+      "fr": "Vous ne restez pas ici.",
+      "vocab": [
+        { "fr": "rester", "en": "to stay" },
+        { "fr": "ici", "en": "here" }
+      ]
+    },
+    {
+      "en": "Where do they (masc.) skate?",
+      "fr": "Où est-ce qu'ils patinent?",
+      "vocab": [
+        { "fr": "patiner", "en": "to skate" }
+      ]
+    },
+    {
+      "en": "They (fem.) don't watch hockey.",
+      "fr": "Elles ne regardent pas le hockey.",
+      "vocab": [
+        { "fr": "regarder", "en": "to watch" }
+      ]
+    },
+    {
+      "en": "I don't forget the keys.",
+      "fr": "Je n'oublie pas les clés.",
+      "vocab": [
+        { "fr": "oublier", "en": "to forget" },
+        { "fr": "clé", "en": "key" }
+      ]
+    },
+    {
+      "en": "Does he text during class?",
+      "fr": "Est-ce qu'il texte pendant le cours?",
+      "vocab": [
+        { "fr": "texter", "en": "to text (Québec)" },
+        { "fr": "pendant", "en": "during" },
+        { "fr": "cours", "en": "class" }
+      ]
+    }
+  ]
+}

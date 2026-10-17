@@ -1,0 +1,84 @@
+{
+  "title": "Verbes en -er — present tense (set 5: daily routine)",
+  "exercises": [
+    {
+      "en": "I cook in the evening.",
+      "fr": "Je cuisine le soir.",
+      "vocab": [
+        { "fr": "cuisiner", "en": "to cook" },
+        { "fr": "le soir", "en": "in the evening" }
+      ]
+    },
+    {
+      "en": "You (informal) walk in the park.",
+      "fr": "Tu marches dans le parc.",
+      "vocab": [
+        { "fr": "marcher", "en": "to walk" },
+        { "fr": "parc", "en": "park" }
+      ]
+    },
+    {
+      "en": "He comes home at six o'clock.",
+      "fr": "Il rentre à six heures.",
+      "vocab": [
+        { "fr": "rentrer", "en": "to come home" },
+        { "fr": "six heures", "en": "six o'clock" }
+      ]
+    },
+    {
+      "en": "She closes the door.",
+      "fr": "Elle ferme la porte.",
+      "vocab": [
+        { "fr": "fermer", "en": "to close" },
+        { "fr": "porte", "en": "door" }
+      ]
+    },
+    {
+      "en": "We prepare lunch.",
+      "fr": "Nous préparons le dîner.",
+      "vocab": [
+        { "fr": "préparer", "en": "to prepare" },
+        { "fr": "dîner", "en": "lunch (Québec)" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) stay at home.",
+      "fr": "Vous restez à la maison.",
+      "vocab": [
+        { "fr": "rester", "en": "to stay" },
+        { "fr": "à la maison", "en": "at home" }
+      ]
+    },
+    {
+      "en": "They (masc.) wash the dishes.",
+      "fr": "Ils lavent la vaisselle.",
+      "vocab": [
+        { "fr": "laver", "en": "to wash" },
+        { "fr": "vaisselle", "en": "dishes" }
+      ]
+    },
+    {
+      "en": "They (fem.) have breakfast at seven o'clock.",
+      "fr": "Elles déjeunent à sept heures.",
+      "vocab": [
+        { "fr": "déjeuner", "en": "to have breakfast (Québec)" },
+        { "fr": "sept heures", "en": "seven o'clock" }
+      ]
+    },
+    {
+      "en": "I turn on the light.",
+      "fr": "J'allume la lumière.",
+      "vocab": [
+        { "fr": "allumer", "en": "to turn on" },
+        { "fr": "lumière", "en": "light" }
+      ]
+    },
+    {
+      "en": "He turns off the television.",
+      "fr": "Il ferme la télévision.",
+      "vocab": [
+        { "fr": "fermer", "en": "to turn off (Québec) / to close" }
+      ]
+    }
+  ]
+}

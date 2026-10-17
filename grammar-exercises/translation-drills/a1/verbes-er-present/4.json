@@ -1,0 +1,84 @@
+{
+  "title": "Verbes en -er — present tense (set 4: verbs starting with a vowel, j' and liaison)",
+  "exercises": [
+    {
+      "en": "I love Quebec.",
+      "fr": "J'adore le Québec.",
+      "vocab": [
+        { "fr": "adorer", "en": "to love / to adore" },
+        { "fr": "le Québec", "en": "Quebec (the province)" }
+      ]
+    },
+    {
+      "en": "I arrive at eight o'clock.",
+      "fr": "J'arrive à huit heures.",
+      "vocab": [
+        { "fr": "arriver", "en": "to arrive" },
+        { "fr": "huit heures", "en": "eight o'clock" }
+      ]
+    },
+    {
+      "en": "I help my brother.",
+      "fr": "J'aide mon frère.",
+      "vocab": [
+        { "fr": "aider", "en": "to help" },
+        { "fr": "frère", "en": "brother" }
+      ]
+    },
+    {
+      "en": "We invite the neighbours.",
+      "fr": "Nous invitons les voisins.",
+      "vocab": [
+        { "fr": "inviter", "en": "to invite" },
+        { "fr": "voisin", "en": "neighbour" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) use the computer.",
+      "fr": "Vous utilisez l'ordinateur.",
+      "vocab": [
+        { "fr": "utiliser", "en": "to use" },
+        { "fr": "ordinateur", "en": "computer" }
+      ]
+    },
+    {
+      "en": "They (masc.) love dogs.",
+      "fr": "Ils aiment les chiens.",
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" }
+      ]
+    },
+    {
+      "en": "They (fem.) arrive tomorrow.",
+      "fr": "Elles arrivent demain.",
+      "vocab": [
+        { "fr": "arriver", "en": "to arrive" },
+        { "fr": "demain", "en": "tomorrow" }
+      ]
+    },
+    {
+      "en": "I listen to the news.",
+      "fr": "J'écoute les nouvelles.",
+      "vocab": [
+        { "fr": "écouter", "en": "to listen to" },
+        { "fr": "nouvelles", "en": "news" }
+      ]
+    },
+    {
+      "en": "I live on Sainte-Catherine Street.",
+      "fr": "J'habite sur la rue Sainte-Catherine.",
+      "vocab": [
+        { "fr": "habiter", "en": "to live" },
+        { "fr": "rue", "en": "street" }
+      ]
+    },
+    {
+      "en": "I study at the library.",
+      "fr": "J'étudie à la bibliothèque.",
+      "vocab": [
+        { "fr": "étudier", "en": "to study" },
+        { "fr": "bibliothèque", "en": "library" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Verbes en -er — present tense (set 3: negatives and questions)",
+  "exercises": [
+    {
+      "en": "I don't work on Sundays.",
+      "fr": "Je ne travaille pas le dimanche.",
+      "vocab": [
+        { "fr": "travailler", "en": "to work" },
+        { "fr": "le dimanche", "en": "on Sundays" }
+      ]
+    },
+    {
+      "en": "Do you (informal) speak English?",
+      "fr": "Est-ce que tu parles anglais?",
+      "vocab": [
+        { "fr": "parler", "en": "to speak" }
+      ]
+    },
+    {
+      "en": "We shop at the mall.",
+      "fr": "Nous magasinons au centre commercial.",
+      "vocab": [
+        { "fr": "magasiner", "en": "to shop (Québec)" },
+        { "fr": "centre commercial", "en": "mall" }
+      ]
+    },
+    {
+      "en": "They (masc.) don't watch the news.",
+      "fr": "Ils ne regardent pas les nouvelles.",
+      "vocab": [
+        { "fr": "regarder", "en": "to watch" },
+        { "fr": "nouvelles", "en": "news" }
+      ]
+    },
+    {
+      "en": "Does she skate on the river?",
+      "fr": "Est-ce qu'elle patine sur la rivière?",
+      "vocab": [
+        { "fr": "patiner", "en": "to skate" },
+        { "fr": "rivière", "en": "river" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) chat with the neighbours.",
+      "fr": "Vous jasez avec les voisins.",
+      "vocab": [
+        { "fr": "jaser", "en": "to chat (Québec)" },
+        { "fr": "voisin", "en": "neighbour" }
+      ]
+    },
+    {
+      "en": "He doesn't listen to the teacher.",
+      "fr": "Il n'écoute pas le professeur.",
+      "vocab": [
+        { "fr": "écouter", "en": "to listen to" },
+        { "fr": "professeur", "en": "teacher" }
+      ]
+    },
+    {
+      "en": "Do they (fem.) live in Gatineau?",
+      "fr": "Est-ce qu'elles habitent à Gatineau?",
+      "vocab": [
+        { "fr": "habiter", "en": "to live" }
+      ]
+    },
+    {
+      "en": "I don't like the cold.",
+      "fr": "Je n'aime pas le froid.",
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "froid", "en": "cold" }
+      ]
+    },
+    {
+      "en": "Do we have supper at six o'clock?",
+      "fr": "Est-ce que nous soupons à six heures?",
+      "vocab": [
+        { "fr": "souper", "en": "to have supper (Québec)" },
+        { "fr": "six heures", "en": "six o'clock" }
+      ]
+    }
+  ]
+}

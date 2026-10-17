@@ -1,0 +1,76 @@
+{
+  "title": "Verbes en -er — present tense (set 9: questions with est-ce que and où est-ce que)",
+  "exercises": [
+    {
+      "en": "Where do you (informal) live?",
+      "fr": "Où est-ce que tu habites?",
+      "vocab": [
+        { "fr": "habiter", "en": "to live" }
+      ]
+    },
+    {
+      "en": "Where does he work?",
+      "fr": "Où est-ce qu'il travaille?",
+      "vocab": [
+        { "fr": "travailler", "en": "to work" }
+      ]
+    },
+    {
+      "en": "Do you (formal/plural) speak French?",
+      "fr": "Est-ce que vous parlez français?",
+      "vocab": [
+        { "fr": "parler", "en": "to speak" }
+      ]
+    },
+    {
+      "en": "Where do we park?",
+      "fr": "Où est-ce que nous stationnons?",
+      "vocab": [
+        { "fr": "stationner", "en": "to park (Québec)" }
+      ]
+    },
+    {
+      "en": "Does she like to cook?",
+      "fr": "Est-ce qu'elle aime cuisiner?",
+      "vocab": [
+        { "fr": "cuisiner", "en": "to cook" }
+      ]
+    },
+    {
+      "en": "Where do they (masc.) study?",
+      "fr": "Où est-ce qu'ils étudient?",
+      "vocab": [
+        { "fr": "étudier", "en": "to study" }
+      ]
+    },
+    {
+      "en": "Do they (fem.) play hockey?",
+      "fr": "Est-ce qu'elles jouent au hockey?",
+      "vocab": [
+        { "fr": "jouer à", "en": "to play (a sport or game)" }
+      ]
+    },
+    {
+      "en": "Where do you (informal) shop?",
+      "fr": "Où est-ce que tu magasines?",
+      "vocab": [
+        { "fr": "magasiner", "en": "to shop (Québec)" }
+      ]
+    },
+    {
+      "en": "Do I close the window?",
+      "fr": "Est-ce que je ferme la fenêtre?",
+      "vocab": [
+        { "fr": "fermer", "en": "to close" },
+        { "fr": "fenêtre", "en": "window" }
+      ]
+    },
+    {
+      "en": "Where do you (formal/plural) have lunch?",
+      "fr": "Où est-ce que vous dînez?",
+      "vocab": [
+        { "fr": "dîner", "en": "to have lunch (Québec)" }
+      ]
+    }
+  ]
+}

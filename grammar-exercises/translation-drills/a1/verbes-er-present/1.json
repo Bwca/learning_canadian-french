@@ -1,0 +1,80 @@
+{
+  "title": "Verbes en -er — present tense (set 1: with je/tu/il/elle)",
+  "exercises": [
+    {
+      "en": "I live in Montreal.",
+      "fr": "J'habite à Montréal.",
+      "vocab": [
+        { "fr": "habiter", "en": "to live" }
+      ]
+    },
+    {
+      "en": "You (informal) speak French.",
+      "fr": "Tu parles français.",
+      "vocab": [
+        { "fr": "parler", "en": "to speak" }
+      ]
+    },
+    {
+      "en": "He works at the hospital.",
+      "fr": "Il travaille à l'hôpital.",
+      "vocab": [
+        { "fr": "travailler", "en": "to work" },
+        { "fr": "hôpital", "en": "hospital" }
+      ]
+    },
+    {
+      "en": "She sings in the shower.",
+      "fr": "Elle chante sous la douche.",
+      "vocab": [
+        { "fr": "chanter", "en": "to sing" },
+        { "fr": "sous la douche", "en": "in the shower" }
+      ]
+    },
+    {
+      "en": "I listen to the radio.",
+      "fr": "J'écoute la radio.",
+      "vocab": [
+        { "fr": "écouter", "en": "to listen to" }
+      ]
+    },
+    {
+      "en": "You (informal) play hockey.",
+      "fr": "Tu joues au hockey.",
+      "vocab": [
+        { "fr": "jouer à", "en": "to play (a sport or game)" }
+      ]
+    },
+    {
+      "en": "He watches television.",
+      "fr": "Il regarde la télévision.",
+      "vocab": [
+        { "fr": "regarder", "en": "to watch" }
+      ]
+    },
+    {
+      "en": "She studies at the cégep.",
+      "fr": "Elle étudie au cégep.",
+      "vocab": [
+        { "fr": "étudier", "en": "to study" },
+        { "fr": "cégep", "en": "cégep (Québec college)" }
+      ]
+    },
+    {
+      "en": "I dance with my girlfriend.",
+      "fr": "Je danse avec ma blonde.",
+      "vocab": [
+        { "fr": "danser", "en": "to dance" },
+        { "fr": "blonde", "en": "girlfriend (Québec)" }
+      ]
+    },
+    {
+      "en": "He loves the snow.",
+      "fr": "Il aime la neige.",
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "neige", "en": "snow" }
+      ]
+    }
+  ]
+}

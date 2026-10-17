@@ -1,0 +1,83 @@
+{
+  "title": "Verbes en -er — present tense (set 6: everyday Québec life)",
+  "exercises": [
+    {
+      "en": "I clear the snow from the driveway.",
+      "fr": "Je déneige l'entrée.",
+      "vocab": [
+        { "fr": "déneiger", "en": "to clear the snow from" },
+        { "fr": "entrée", "en": "driveway" }
+      ]
+    },
+    {
+      "en": "You (informal) text Marie.",
+      "fr": "Tu textes Marie.",
+      "vocab": [
+        { "fr": "texter", "en": "to text (Québec)" }
+      ]
+    },
+    {
+      "en": "He parks the car in front of the house.",
+      "fr": "Il stationne l'auto devant la maison.",
+      "vocab": [
+        { "fr": "stationner", "en": "to park (Québec)" },
+        { "fr": "auto", "en": "car" },
+        { "fr": "devant", "en": "in front of" }
+      ]
+    },
+    {
+      "en": "She skis in the Laurentians.",
+      "fr": "Elle skie dans les Laurentides.",
+      "vocab": [
+        { "fr": "skier", "en": "to ski" },
+        { "fr": "Laurentides", "en": "the Laurentians" }
+      ]
+    },
+    {
+      "en": "We have lunch at noon.",
+      "fr": "Nous dînons à midi.",
+      "vocab": [
+        { "fr": "dîner", "en": "to have lunch (Québec)" },
+        { "fr": "midi", "en": "noon" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) chat on the phone.",
+      "fr": "Vous jasez au téléphone.",
+      "vocab": [
+        { "fr": "jaser", "en": "to chat (Québec)" }
+      ]
+    },
+    {
+      "en": "They (masc.) skate at the arena.",
+      "fr": "Ils patinent à l'aréna.",
+      "vocab": [
+        { "fr": "patiner", "en": "to skate" },
+        { "fr": "aréna", "en": "arena (Québec)" }
+      ]
+    },
+    {
+      "en": "They (fem.) shop downtown.",
+      "fr": "Elles magasinent au centre-ville.",
+      "vocab": [
+        { "fr": "magasiner", "en": "to shop (Québec)" },
+        { "fr": "centre-ville", "en": "downtown" }
+      ]
+    },
+    {
+      "en": "I'm kidding!",
+      "fr": "Je niaise!",
+      "vocab": [
+        { "fr": "niaiser", "en": "to kid around (Québec, informal)" }
+      ]
+    },
+    {
+      "en": "We have supper with the family.",
+      "fr": "Nous soupons en famille.",
+      "vocab": [
+        { "fr": "souper", "en": "to have supper (Québec)" },
+        { "fr": "en famille", "en": "with the family" }
+      ]
+    }
+  ]
+}

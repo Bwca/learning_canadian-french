@@ -1,0 +1,81 @@
+{
+  "title": "Verbes en -er — present tense (set 8: aimer, adorer, détester + infinitive)",
+  "exercises": [
+    {
+      "en": "I like to dance.",
+      "fr": "J'aime danser.",
+      "vocab": [
+        { "fr": "aimer", "en": "to like / to love" },
+        { "fr": "danser", "en": "to dance" }
+      ]
+    },
+    {
+      "en": "You (informal) love to sing.",
+      "fr": "Tu adores chanter.",
+      "vocab": [
+        { "fr": "adorer", "en": "to love / to adore" },
+        { "fr": "chanter", "en": "to sing" }
+      ]
+    },
+    {
+      "en": "He hates to cook.",
+      "fr": "Il déteste cuisiner.",
+      "vocab": [
+        { "fr": "détester", "en": "to hate" },
+        { "fr": "cuisiner", "en": "to cook" }
+      ]
+    },
+    {
+      "en": "She likes to play tennis.",
+      "fr": "Elle aime jouer au tennis.",
+      "vocab": [
+        { "fr": "jouer à", "en": "to play (a sport or game)" }
+      ]
+    },
+    {
+      "en": "We love to skate.",
+      "fr": "Nous adorons patiner.",
+      "vocab": [
+        { "fr": "adorer", "en": "to love / to adore" },
+        { "fr": "patiner", "en": "to skate" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) like to travel.",
+      "fr": "Vous aimez voyager.",
+      "vocab": [
+        { "fr": "voyager", "en": "to travel" }
+      ]
+    },
+    {
+      "en": "They (masc.) hate to work on Sundays.",
+      "fr": "Ils détestent travailler le dimanche.",
+      "vocab": [
+        { "fr": "détester", "en": "to hate" },
+        { "fr": "le dimanche", "en": "on Sundays" }
+      ]
+    },
+    {
+      "en": "They (fem.) like to shop.",
+      "fr": "Elles aiment magasiner.",
+      "vocab": [
+        { "fr": "magasiner", "en": "to shop (Québec)" }
+      ]
+    },
+    {
+      "en": "I don't like to study in the evening.",
+      "fr": "Je n'aime pas étudier le soir.",
+      "vocab": [
+        { "fr": "étudier", "en": "to study" },
+        { "fr": "le soir", "en": "in the evening" }
+      ]
+    },
+    {
+      "en": "Do you (informal) like to ski?",
+      "fr": "Est-ce que tu aimes skier?",
+      "vocab": [
+        { "fr": "skier", "en": "to ski" }
+      ]
+    }
+  ]
+}
