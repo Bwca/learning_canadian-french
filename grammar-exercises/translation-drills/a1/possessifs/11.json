@@ -1,0 +1,81 @@
+{
+  "title": "Possessifs — agreement with the thing owned (set 11: his or her, mon/ton/son before a vowel)",
+  "exercises": [
+    {
+      "en": "Her brother is a doctor.",
+      "fr": "Son frère est médecin.",
+      "vocab": [
+        { "fr": "frère", "en": "brother (masc.)" },
+        { "fr": "médecin", "en": "doctor" }
+      ]
+    },
+    {
+      "en": "His sister lives in Laval.",
+      "fr": "Sa sœur habite à Laval.",
+      "vocab": [
+        { "fr": "sœur", "en": "sister (fem.)" },
+        { "fr": "habiter", "en": "to live" }
+      ]
+    },
+    {
+      "en": "My friend (fem.) lives in Sherbrooke.",
+      "fr": "Mon amie habite à Sherbrooke.",
+      "vocab": [
+        { "fr": "amie", "en": "friend (fem.)" }
+      ]
+    },
+    {
+      "en": "Your (informal) school is big.",
+      "fr": "Ton école est grande.",
+      "vocab": [
+        { "fr": "école", "en": "school (fem.)" }
+      ]
+    },
+    {
+      "en": "Her car is new.",
+      "fr": "Son auto est neuve.",
+      "vocab": [
+        { "fr": "auto", "en": "car (fem.)" },
+        { "fr": "neuve", "en": "new (fem.)" }
+      ]
+    },
+    {
+      "en": "His cousins (fem.) are nice.",
+      "fr": "Ses cousines sont gentilles.",
+      "vocab": [
+        { "fr": "cousine", "en": "cousin (fem.)" },
+        { "fr": "gentille", "en": "nice / kind (fem.)" }
+      ]
+    },
+    {
+      "en": "Our neighbour (fem.) has a dog.",
+      "fr": "Notre voisine a un chien.",
+      "vocab": [
+        { "fr": "voisine", "en": "neighbour (fem.)" }
+      ]
+    },
+    {
+      "en": "Your (formal/plural) notebooks are on the table.",
+      "fr": "Vos cahiers sont sur la table.",
+      "vocab": [
+        { "fr": "cahier", "en": "notebook (masc.)" }
+      ]
+    },
+    {
+      "en": "Their house is blue.",
+      "fr": "Leur maison est bleue.",
+      "vocab": [
+        { "fr": "maison", "en": "house (fem.)" },
+        { "fr": "bleue", "en": "blue (fem.)" }
+      ]
+    },
+    {
+      "en": "Their children play hockey.",
+      "fr": "Leurs enfants jouent au hockey.",
+      "vocab": [
+        { "fr": "enfant", "en": "child" },
+        { "fr": "jouer à", "en": "to play (a sport or game)" }
+      ]
+    }
+  ]
+}
