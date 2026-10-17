@@ -1,0 +1,82 @@
+{
+  "title": "Verbes en -re — present tense (set 2: with nous/vous/ils/elles)",
+  "exercises": [
+    {
+      "en": "We sell maple syrup.",
+      "fr": "Nous vendons du sirop d'érable.",
+      "vocab": [
+        { "fr": "vendre", "en": "to sell" },
+        { "fr": "sirop d'érable", "en": "maple syrup" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) are waiting for the train.",
+      "fr": "Vous attendez le train.",
+      "vocab": [
+        { "fr": "attendre", "en": "to wait for" }
+      ]
+    },
+    {
+      "en": "They (masc.) lose the game.",
+      "fr": "Ils perdent la partie.",
+      "vocab": [
+        { "fr": "perdre", "en": "to lose" },
+        { "fr": "partie", "en": "game (match)" }
+      ]
+    },
+    {
+      "en": "They (fem.) answer the phone.",
+      "fr": "Elles répondent au téléphone.",
+      "vocab": [
+        { "fr": "répondre à", "en": "to answer" }
+      ]
+    },
+    {
+      "en": "We hear the birds.",
+      "fr": "Nous entendons les oiseaux.",
+      "vocab": [
+        { "fr": "entendre", "en": "to hear" },
+        { "fr": "oiseau", "en": "bird" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) go down to the basement.",
+      "fr": "Vous descendez au sous-sol.",
+      "vocab": [
+        { "fr": "descendre", "en": "to go down" },
+        { "fr": "sous-sol", "en": "basement" }
+      ]
+    },
+    {
+      "en": "The dogs bite.",
+      "fr": "Les chiens mordent.",
+      "vocab": [
+        { "fr": "mordre", "en": "to bite" }
+      ]
+    },
+    {
+      "en": "We mow the lawn.",
+      "fr": "Nous tondons le gazon.",
+      "vocab": [
+        { "fr": "tondre", "en": "to mow" },
+        { "fr": "gazon", "en": "lawn" }
+      ]
+    },
+    {
+      "en": "They (masc.) give back the money.",
+      "fr": "Ils rendent l'argent.",
+      "vocab": [
+        { "fr": "rendre", "en": "to give back" },
+        { "fr": "argent", "en": "money" }
+      ]
+    },
+    {
+      "en": "The children visit the neighbours.",
+      "fr": "Les enfants rendent visite aux voisins.",
+      "vocab": [
+        { "fr": "rendre visite à", "en": "to visit (a person)" },
+        { "fr": "voisin", "en": "neighbour" }
+      ]
+    }
+  ]
+}

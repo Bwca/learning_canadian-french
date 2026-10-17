@@ -1,0 +1,82 @@
+{
+  "title": "Verbes en -re — present tense (set 1: with je/tu/il/elle)",
+  "exercises": [
+    {
+      "en": "I am selling my car.",
+      "fr": "Je vends mon auto.",
+      "vocab": [
+        { "fr": "vendre", "en": "to sell" },
+        { "fr": "auto", "en": "car" }
+      ]
+    },
+    {
+      "en": "You (informal) lose your keys.",
+      "fr": "Tu perds tes clés.",
+      "vocab": [
+        { "fr": "perdre", "en": "to lose" },
+        { "fr": "clé", "en": "key" }
+      ]
+    },
+    {
+      "en": "He answers the question.",
+      "fr": "Il répond à la question.",
+      "vocab": [
+        { "fr": "répondre à", "en": "to answer" }
+      ]
+    },
+    {
+      "en": "She hears the music.",
+      "fr": "Elle entend la musique.",
+      "vocab": [
+        { "fr": "entendre", "en": "to hear" }
+      ]
+    },
+    {
+      "en": "I am waiting for the bus.",
+      "fr": "J'attends l'autobus.",
+      "vocab": [
+        { "fr": "attendre", "en": "to wait for" },
+        { "fr": "autobus", "en": "bus" }
+      ]
+    },
+    {
+      "en": "You (informal) give back the book.",
+      "fr": "Tu rends le livre.",
+      "vocab": [
+        { "fr": "rendre", "en": "to give back" }
+      ]
+    },
+    {
+      "en": "He goes down the stairs.",
+      "fr": "Il descend l'escalier.",
+      "vocab": [
+        { "fr": "descendre", "en": "to go down" },
+        { "fr": "escalier", "en": "stairs" }
+      ]
+    },
+    {
+      "en": "She interrupts the teacher.",
+      "fr": "Elle interrompt le professeur.",
+      "vocab": [
+        { "fr": "interrompre", "en": "to interrupt (il/elle interrompt)" },
+        { "fr": "professeur", "en": "teacher" }
+      ]
+    },
+    {
+      "en": "The snow is melting.",
+      "fr": "La neige fond.",
+      "vocab": [
+        { "fr": "fondre", "en": "to melt" },
+        { "fr": "neige", "en": "snow" }
+      ]
+    },
+    {
+      "en": "I visit my grandmother.",
+      "fr": "Je rends visite à ma grand-mère.",
+      "vocab": [
+        { "fr": "rendre visite à", "en": "to visit (a person)" },
+        { "fr": "grand-mère", "en": "grandmother" }
+      ]
+    }
+  ]
+}

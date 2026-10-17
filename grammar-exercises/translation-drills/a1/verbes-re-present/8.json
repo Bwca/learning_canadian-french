@@ -1,0 +1,79 @@
+{
+  "title": "Verbes en -re — present tense (set 8: common expressions)",
+  "exercises": [
+    {
+      "en": "I waste time.",
+      "fr": "Je perds du temps.",
+      "vocab": [
+        { "fr": "perdre du temps", "en": "to waste time" }
+      ]
+    },
+    {
+      "en": "You (informal) do Paul a favour.",
+      "fr": "Tu rends service à Paul.",
+      "vocab": [
+        { "fr": "rendre service à", "en": "to do (someone) a favour" }
+      ]
+    },
+    {
+      "en": "He hears about the festival.",
+      "fr": "Il entend parler du festival.",
+      "vocab": [
+        { "fr": "entendre parler de", "en": "to hear about" }
+      ]
+    },
+    {
+      "en": "She waits a long time.",
+      "fr": "Elle attend longtemps.",
+      "vocab": [
+        { "fr": "attendre", "en": "to wait (for)" },
+        { "fr": "longtemps", "en": "a long time" }
+      ]
+    },
+    {
+      "en": "It depends.",
+      "fr": "Ça dépend.",
+      "vocab": [
+        { "fr": "dépendre", "en": "to depend" }
+      ]
+    },
+    {
+      "en": "We visit the grandparents on Sundays.",
+      "fr": "Nous rendons visite aux grands-parents le dimanche.",
+      "vocab": [
+        { "fr": "rendre visite à", "en": "to visit (a person)" },
+        { "fr": "grands-parents", "en": "grandparents" },
+        { "fr": "le dimanche", "en": "on Sundays" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) lose patience.",
+      "fr": "Vous perdez patience.",
+      "vocab": [
+        { "fr": "perdre patience", "en": "to lose patience" }
+      ]
+    },
+    {
+      "en": "They (masc.) sell at a high price.",
+      "fr": "Ils vendent cher.",
+      "vocab": [
+        { "fr": "vendre cher", "en": "to sell at a high price" }
+      ]
+    },
+    {
+      "en": "They (fem.) lose weight.",
+      "fr": "Elles perdent du poids.",
+      "vocab": [
+        { "fr": "perdre du poids", "en": "to lose weight" }
+      ]
+    },
+    {
+      "en": "I wait my turn.",
+      "fr": "J'attends mon tour.",
+      "vocab": [
+        { "fr": "attendre", "en": "to wait (for)" },
+        { "fr": "tour", "en": "turn" }
+      ]
+    }
+  ]
+}

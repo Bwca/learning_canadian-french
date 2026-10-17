@@ -1,0 +1,83 @@
+{
+  "title": "Verbes en -re — present tense (set 9: questions with est-ce que and où est-ce que)",
+  "exercises": [
+    {
+      "en": "Where do you (informal) wait?",
+      "fr": "Où est-ce que tu attends?",
+      "vocab": [
+        { "fr": "attendre", "en": "to wait (for)" }
+      ]
+    },
+    {
+      "en": "Do you (formal/plural) hear the music?",
+      "fr": "Est-ce que vous entendez la musique?",
+      "vocab": [
+        { "fr": "entendre", "en": "to hear" }
+      ]
+    },
+    {
+      "en": "Where do they (masc.) sell maple syrup?",
+      "fr": "Où est-ce qu'ils vendent du sirop d'érable?",
+      "vocab": [
+        { "fr": "vendre", "en": "to sell" },
+        { "fr": "sirop d'érable", "en": "maple syrup" }
+      ]
+    },
+    {
+      "en": "Does she answer the letters?",
+      "fr": "Est-ce qu'elle répond aux lettres?",
+      "vocab": [
+        { "fr": "répondre à", "en": "to answer" },
+        { "fr": "lettre", "en": "letter" }
+      ]
+    },
+    {
+      "en": "Where do we get off?",
+      "fr": "Où est-ce que nous descendons?",
+      "vocab": [
+        { "fr": "descendre", "en": "to get off" }
+      ]
+    },
+    {
+      "en": "Do I give back the keys?",
+      "fr": "Est-ce que je rends les clés?",
+      "vocab": [
+        { "fr": "rendre", "en": "to give back" },
+        { "fr": "clé", "en": "key" }
+      ]
+    },
+    {
+      "en": "Does the team lose often?",
+      "fr": "Est-ce que l'équipe perd souvent?",
+      "vocab": [
+        { "fr": "perdre", "en": "to lose" },
+        { "fr": "équipe", "en": "team" },
+        { "fr": "souvent", "en": "often" }
+      ]
+    },
+    {
+      "en": "Where do you (informal) hang the laundry?",
+      "fr": "Où est-ce que tu étends le linge?",
+      "vocab": [
+        { "fr": "étendre", "en": "to hang (laundry) / to spread" },
+        { "fr": "linge", "en": "laundry" }
+      ]
+    },
+    {
+      "en": "Do they (fem.) visit the neighbours?",
+      "fr": "Est-ce qu'elles rendent visite aux voisins?",
+      "vocab": [
+        { "fr": "rendre visite à", "en": "to visit (a person)" },
+        { "fr": "voisin", "en": "neighbour" }
+      ]
+    },
+    {
+      "en": "Does it depend on the price?",
+      "fr": "Est-ce que ça dépend du prix?",
+      "vocab": [
+        { "fr": "dépendre de", "en": "to depend on" },
+        { "fr": "prix", "en": "price" }
+      ]
+    }
+  ]
+}

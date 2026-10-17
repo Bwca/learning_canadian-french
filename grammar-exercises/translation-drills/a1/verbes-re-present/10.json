@@ -1,0 +1,81 @@
+{
+  "title": "Verbes en -re — present tense (set 10: review: negatives and questions)",
+  "exercises": [
+    {
+      "en": "I don't sell the house.",
+      "fr": "Je ne vends pas la maison.",
+      "vocab": [
+        { "fr": "vendre", "en": "to sell" }
+      ]
+    },
+    {
+      "en": "Do you (informal) hear the rain?",
+      "fr": "Est-ce que tu entends la pluie?",
+      "vocab": [
+        { "fr": "entendre", "en": "to hear" },
+        { "fr": "pluie", "en": "rain" }
+      ]
+    },
+    {
+      "en": "He doesn't answer.",
+      "fr": "Il ne répond pas.",
+      "vocab": [
+        { "fr": "répondre", "en": "to answer" }
+      ]
+    },
+    {
+      "en": "We don't waste time.",
+      "fr": "Nous ne perdons pas de temps.",
+      "vocab": [
+        { "fr": "perdre du temps", "en": "to waste time" }
+      ]
+    },
+    {
+      "en": "Are you (formal/plural) waiting for the doctor?",
+      "fr": "Est-ce que vous attendez le médecin?",
+      "vocab": [
+        { "fr": "attendre", "en": "to wait for" },
+        { "fr": "médecin", "en": "doctor" }
+      ]
+    },
+    {
+      "en": "They (masc.) don't go downtown.",
+      "fr": "Ils ne descendent pas en ville.",
+      "vocab": [
+        { "fr": "descendre en ville", "en": "to go downtown" }
+      ]
+    },
+    {
+      "en": "Does the snow melt in March?",
+      "fr": "Est-ce que la neige fond en mars?",
+      "vocab": [
+        { "fr": "fondre", "en": "to melt" },
+        { "fr": "neige", "en": "snow" }
+      ]
+    },
+    {
+      "en": "They (fem.) don't lose the game.",
+      "fr": "Elles ne perdent pas la partie.",
+      "vocab": [
+        { "fr": "perdre", "en": "to lose" },
+        { "fr": "partie", "en": "game (match)" }
+      ]
+    },
+    {
+      "en": "The cashier doesn't give back the change.",
+      "fr": "La caissière ne rend pas la monnaie.",
+      "vocab": [
+        { "fr": "rendre", "en": "to give back" },
+        { "fr": "caissière", "en": "cashier (fem.)" },
+        { "fr": "monnaie", "en": "change (coins)" }
+      ]
+    },
+    {
+      "en": "Do the dogs bite?",
+      "fr": "Est-ce que les chiens mordent?",
+      "vocab": [
+        { "fr": "mordre", "en": "to bite" }
+      ]
+    }
+  ]
+}

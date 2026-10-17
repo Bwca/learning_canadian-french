@@ -1,0 +1,84 @@
+{
+  "title": "Verbes en -re — present tense (set 4: singular vs plural, il vend/ils vendent)",
+  "exercises": [
+    {
+      "en": "The baker sells bread.",
+      "fr": "Le boulanger vend du pain.",
+      "vocab": [
+        { "fr": "vendre", "en": "to sell" },
+        { "fr": "boulanger", "en": "baker" }
+      ]
+    },
+    {
+      "en": "The bakers sell croissants.",
+      "fr": "Les boulangers vendent des croissants.",
+      "vocab": [
+        { "fr": "vendre", "en": "to sell" },
+        { "fr": "boulanger", "en": "baker" }
+      ]
+    },
+    {
+      "en": "The child loses a tooth.",
+      "fr": "L'enfant perd une dent.",
+      "vocab": [
+        { "fr": "perdre", "en": "to lose" },
+        { "fr": "dent", "en": "tooth" }
+      ]
+    },
+    {
+      "en": "The parents lose patience.",
+      "fr": "Les parents perdent patience.",
+      "vocab": [
+        { "fr": "perdre patience", "en": "to lose patience" }
+      ]
+    },
+    {
+      "en": "She hears a noise.",
+      "fr": "Elle entend un bruit.",
+      "vocab": [
+        { "fr": "entendre", "en": "to hear" },
+        { "fr": "bruit", "en": "noise" }
+      ]
+    },
+    {
+      "en": "They (fem.) hear the thunder.",
+      "fr": "Elles entendent le tonnerre.",
+      "vocab": [
+        { "fr": "entendre", "en": "to hear" },
+        { "fr": "tonnerre", "en": "thunder" }
+      ]
+    },
+    {
+      "en": "He waits at the door.",
+      "fr": "Il attend à la porte.",
+      "vocab": [
+        { "fr": "attendre", "en": "to wait (for)" },
+        { "fr": "porte", "en": "door" }
+      ]
+    },
+    {
+      "en": "They (masc.) wait in line.",
+      "fr": "Ils attendent en file.",
+      "vocab": [
+        { "fr": "attendre", "en": "to wait (for)" },
+        { "fr": "en file", "en": "in line (Québec)" }
+      ]
+    },
+    {
+      "en": "The dog bites the bone.",
+      "fr": "Le chien mord l'os.",
+      "vocab": [
+        { "fr": "mordre", "en": "to bite" },
+        { "fr": "os", "en": "bone" }
+      ]
+    },
+    {
+      "en": "The dogs bite the ball.",
+      "fr": "Les chiens mordent la balle.",
+      "vocab": [
+        { "fr": "mordre", "en": "to bite" },
+        { "fr": "balle", "en": "ball" }
+      ]
+    }
+  ]
+}

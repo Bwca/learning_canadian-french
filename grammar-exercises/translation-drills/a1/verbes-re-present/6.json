@@ -1,0 +1,84 @@
+{
+  "title": "Verbes en -re — present tense (set 6: getting around)",
+  "exercises": [
+    {
+      "en": "I get off at the next stop.",
+      "fr": "Je descends au prochain arrêt.",
+      "vocab": [
+        { "fr": "descendre", "en": "to get off" },
+        { "fr": "prochain arrêt", "en": "next stop" }
+      ]
+    },
+    {
+      "en": "You (informal) wait for the subway.",
+      "fr": "Tu attends le métro.",
+      "vocab": [
+        { "fr": "attendre", "en": "to wait for" },
+        { "fr": "métro", "en": "subway" }
+      ]
+    },
+    {
+      "en": "He loses the map.",
+      "fr": "Il perd la carte.",
+      "vocab": [
+        { "fr": "perdre", "en": "to lose" },
+        { "fr": "carte", "en": "map" }
+      ]
+    },
+    {
+      "en": "She returns the rental car.",
+      "fr": "Elle rend l'auto de location.",
+      "vocab": [
+        { "fr": "rendre", "en": "to give back / to return" },
+        { "fr": "auto de location", "en": "rental car" }
+      ]
+    },
+    {
+      "en": "We hear the announcement.",
+      "fr": "Nous entendons l'annonce.",
+      "vocab": [
+        { "fr": "entendre", "en": "to hear" },
+        { "fr": "annonce", "en": "announcement" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) go downtown.",
+      "fr": "Vous descendez en ville.",
+      "vocab": [
+        { "fr": "descendre en ville", "en": "to go downtown" }
+      ]
+    },
+    {
+      "en": "They (masc.) wait at the train station.",
+      "fr": "Ils attendent à la gare.",
+      "vocab": [
+        { "fr": "attendre", "en": "to wait (for)" },
+        { "fr": "gare", "en": "train station" }
+      ]
+    },
+    {
+      "en": "They (fem.) lose the suitcases.",
+      "fr": "Elles perdent les valises.",
+      "vocab": [
+        { "fr": "perdre", "en": "to lose" },
+        { "fr": "valise", "en": "suitcase" }
+      ]
+    },
+    {
+      "en": "The driver answers the question.",
+      "fr": "Le chauffeur répond à la question.",
+      "vocab": [
+        { "fr": "répondre à", "en": "to answer" },
+        { "fr": "chauffeur", "en": "driver" }
+      ]
+    },
+    {
+      "en": "We get off the bus.",
+      "fr": "Nous descendons de l'autobus.",
+      "vocab": [
+        { "fr": "descendre de", "en": "to get off" },
+        { "fr": "autobus", "en": "bus" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Verbes en -re — present tense (set 7: at home and with family)",
+  "exercises": [
+    {
+      "en": "I mow the lawn on Saturdays.",
+      "fr": "Je tonds le gazon le samedi.",
+      "vocab": [
+        { "fr": "tondre", "en": "to mow" },
+        { "fr": "gazon", "en": "lawn" },
+        { "fr": "le samedi", "en": "on Saturdays" }
+      ]
+    },
+    {
+      "en": "You (informal) hang the laundry.",
+      "fr": "Tu étends le linge.",
+      "vocab": [
+        { "fr": "étendre", "en": "to hang (laundry) / to spread" },
+        { "fr": "linge", "en": "laundry" }
+      ]
+    },
+    {
+      "en": "Dad forbids video games.",
+      "fr": "Papa défend les jeux vidéo.",
+      "vocab": [
+        { "fr": "défendre", "en": "to forbid / to defend" },
+        { "fr": "jeux vidéo", "en": "video games" }
+      ]
+    },
+    {
+      "en": "She visits Aunt Julie.",
+      "fr": "Elle rend visite à tante Julie.",
+      "vocab": [
+        { "fr": "rendre visite à", "en": "to visit (a person)" },
+        { "fr": "tante", "en": "aunt" }
+      ]
+    },
+    {
+      "en": "We are waiting for Grandma.",
+      "fr": "Nous attendons grand-maman.",
+      "vocab": [
+        { "fr": "attendre", "en": "to wait for" },
+        { "fr": "grand-maman", "en": "grandma" }
+      ]
+    },
+    {
+      "en": "You (formal/plural) hear the baby.",
+      "fr": "Vous entendez le bébé.",
+      "vocab": [
+        { "fr": "entendre", "en": "to hear" }
+      ]
+    },
+    {
+      "en": "The brothers defend the little sister.",
+      "fr": "Les frères défendent la petite sœur.",
+      "vocab": [
+        { "fr": "défendre", "en": "to defend / to forbid" },
+        { "fr": "sœur", "en": "sister" }
+      ]
+    },
+    {
+      "en": "The ice cream is melting.",
+      "fr": "La crème glacée fond.",
+      "vocab": [
+        { "fr": "fondre", "en": "to melt" },
+        { "fr": "crème glacée", "en": "ice cream (Québec)" }
+      ]
+    },
+    {
+      "en": "It depends on the weather.",
+      "fr": "Ça dépend de la météo.",
+      "vocab": [
+        { "fr": "dépendre de", "en": "to depend on" },
+        { "fr": "météo", "en": "weather (forecast)" }
+      ]
+    },
+    {
+      "en": "The children give back the toys.",
+      "fr": "Les enfants rendent les jouets.",
+      "vocab": [
+        { "fr": "rendre", "en": "to give back" },
+        { "fr": "jouet", "en": "toy" }
+      ]
+    }
+  ]
+}
