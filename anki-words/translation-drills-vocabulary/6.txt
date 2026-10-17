@@ -1,3 +1,4 @@
+femme	wife / woman
 fenêtre	window
 fermer	to close / to turn off (Québec)
 fermier	farmer
@@ -47,4 +48,3 @@ grand-père	grandfather
 grande	big / tall (fem.)
 grandes	big / tall (fem. plural)
 grandir	to grow (up)
-grands	big / tall (masc. plural)

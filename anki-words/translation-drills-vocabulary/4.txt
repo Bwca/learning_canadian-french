@@ -1,3 +1,4 @@
+chère	expensive / dear (fem.)
 ciel	sky
 cinq	five
 cinq heures	five o'clock
@@ -47,4 +48,3 @@ dernier	last
 dernière	last (fem.)
 derrière	behind
 des	of the (de + les)
-descendre	to go down / to get off

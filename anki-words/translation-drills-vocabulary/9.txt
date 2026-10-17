@@ -1,3 +1,4 @@
+ma	my (fem. singular)
 magasin	store / shop
 magasiner	to shop (Québec)
 maigrir	to lose weight
@@ -40,11 +41,10 @@ neige	snow
 nerveuse	nervous (fem.)
 nerveux	nervous
 neuf	nine
+neuve	new (fem.)
 neuves	new (fem. pl.)
 neveu	nephew
 niaiser	to kid around (Québec, informal)
 nièce	niece
 noir	black / dark
 noire	black (fem.)
-nom	name
-normal	normal

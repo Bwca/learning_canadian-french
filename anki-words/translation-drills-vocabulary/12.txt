@@ -1,3 +1,5 @@
+restaurant	restaurant
+rester	to stay
 revendre	to resell
 reçu	receipt
 rivière	river
@@ -46,5 +48,3 @@ six heures	six o'clock
 skier	to ski
 soixante	sixty
 soixante-dix	seventy
-soldes	sales
-soleil	sun

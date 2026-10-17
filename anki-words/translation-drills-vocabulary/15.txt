@@ -1,3 +1,5 @@
+étoile	star
+étranger	foreign
 étrangère	foreign (fem.)
 étroit	narrow
 étudiant	student

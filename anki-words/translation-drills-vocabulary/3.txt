@@ -1,3 +1,4 @@
+bâtir	to build
 bébé	baby
 cadeau	gift
 café	coffee
@@ -47,4 +48,3 @@ chou	cabbage
 choux	cabbages
 château	castle
 châteaux	castles
-chère	expensive / dear (fem.)

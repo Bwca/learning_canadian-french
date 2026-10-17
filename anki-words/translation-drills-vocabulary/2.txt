@@ -33,6 +33,7 @@ billet	ticket
 blanc	white
 blanche	white (fem.)
 bleu	blue
+bleue	blue (fem.)
 blonde	girlfriend (Québec)
 bol	bowl
 bon	good
@@ -47,4 +48,3 @@ bruit	noise
 brunir	to tan
 bureau	desk
 bus	bus (same spelling in plural)
-bâtir	to build

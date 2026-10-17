@@ -1,3 +1,5 @@
+plante	plant
+pleine	full (fem.)
 pluie	rain
 plusieurs	several
 poisson	fish
@@ -46,5 +48,3 @@ rendre service à	to do (someone) a favour
 rendre visite à	to visit (a person)
 rentrer	to come home
 repas	meal (same spelling in plural)
-restaurant	restaurant
-rester	to stay

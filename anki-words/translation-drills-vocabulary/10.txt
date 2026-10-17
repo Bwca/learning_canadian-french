@@ -1,3 +1,5 @@
+nom	name
+normal	normal
 normaux	normal (masc. plural)
 nos	our (plural)
 notre	our (singular)
@@ -46,5 +48,3 @@ pichet	pitcher
 place	square
 plage	beach
 plancher	floor (Québec)
-plante	plant
-pleine	full (fem.)

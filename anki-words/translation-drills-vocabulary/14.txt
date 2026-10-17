@@ -1,3 +1,5 @@
+télévision	television
+tête	head
 tôt	early
 un peu de	a little
 utiliser	to use
@@ -46,5 +48,3 @@ vélo	bike
 érable	maple (tree)
 étagère	shelf
 étendre	to hang (laundry) / to spread
-étoile	star
-étranger	foreign

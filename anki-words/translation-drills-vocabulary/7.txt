@@ -1,3 +1,4 @@
+grands	big / tall (masc. plural)
 grands-parents	grandparents
 gris	grey
 grise	grey (fem.)
@@ -47,4 +48,3 @@ inviter	to invite
 italien	Italian
 italienne	Italian (fem.)
 jambon	ham
-jardin	garden

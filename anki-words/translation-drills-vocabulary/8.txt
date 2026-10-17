@@ -1,3 +1,4 @@
+jardin	garden
 jaser	to chat (Québec)
 jaune	yellow
 jaunir	to turn yellow
@@ -47,4 +48,3 @@ lune	moon
 léger	light (weight)
 légume	vegetable
 légère	light (weight) (fem.)
-ma	my (fem. singular)
