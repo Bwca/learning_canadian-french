@@ -16,6 +16,10 @@
         /* Plain buttons, and no blue ring left on a tapped one; keyboard focus still shows it. */
         .buttons .button:focus:not(:focus-visible) { border-color: #dbdbdb; box-shadow: none; }
         .hidden { display: none; }
+        #preview summary { cursor: pointer; font-weight: 600; }
+        #preview td { vertical-align: middle; }
+        #preview .say { cursor: pointer; }
+        #preview .ipa { font-size: 0.9em; margin-top: 0; }
         /* Full screen: just the progress, word box and buttons, centred, with bigger text. Where the
            Fullscreen API isn't available (iPhone Safari) it fills the browser window instead. */
         #drillArea.focus-mode { position: fixed; inset: 0; z-index: 100; background: #fff; display: flex; flex-direction: column; justify-content: center; padding: 1.5rem; overflow: auto; }
@@ -40,6 +44,11 @@
                 </label>
             </div>
         </div>
+        <details class="field has-text-left hidden" id="preview">
+            <summary id="previewSummary"></summary>
+            <p class="help">Untick entries to leave them out of the session; tap a French word to hear it.</p>
+            <div id="previewList"></div>
+        </details>
         <div class="field">
             <label class="label" for="voiceSelect">French voice</label>
             <div class="control">
@@ -419,36 +428,148 @@
                     displayWord.textContent = "";
                 }
             }
+            isTraining = false;
         }
 
-        const libraryTexts = mountLibraryChecklist(document.getElementById("library"), "vocab");
+        function parseEntries(text) {
+            return text.split("\n").map(line => {
+                const parts = line.split("\t");
+                // Optional 4th column (after the [sound:…] tag): IPA in slashes, e.g. /la mɛzɔ̃/.
+                const ipa = (parts[3] || "").trim();
+                return parts.length >= 2 ? {
+                    french: cleanFrenchWord(parts[0].trim()),
+                    english: removeSlashes(parts[1].trim()),
+                    ipa: /^\/.+\/$/.test(ipa) ? ipa : "",
+                } : null;
+            }).filter(Boolean);
+        }
+
+        function escapeHtml(text) {
+            return text.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+        }
+
+        // Preview of the chosen files: [{ name, entries: [{ french, english, ipa, included }] }].
+        // Unticked entries are remembered per file and line, so they stay unticked when other files are added.
+        let previewFiles = [];
+        const excludedEntries = new Set();
+        const entryKey = (file, index) => `${file.name}\n${index}`;
+        let previewLoad = Promise.resolve();
+        let previewGeneration = 0;
+
+        const preview = document.getElementById("preview");
+        const previewSummary = document.getElementById("previewSummary");
+        const previewList = document.getElementById("previewList");
+
+        function updatePreviewCounts() {
+            const all = previewFiles.flatMap(file => file.entries);
+            const included = all.filter(entry => entry.included).length;
+            previewSummary.textContent = included === all.length
+                ? `Preview: ${all.length} entries`
+                : `Preview: ${included} of ${all.length} entries`;
+            previewList.querySelectorAll(".file-toggle").forEach(box => {
+                const fileEntries = previewFiles[box.dataset.file].entries;
+                const fileIncluded = fileEntries.filter(entry => entry.included).length;
+                box.checked = fileIncluded === fileEntries.length;
+                box.indeterminate = fileIncluded > 0 && fileIncluded < fileEntries.length;
+            });
+        }
+
+        function renderPreview() {
+            preview.classList.toggle("hidden", previewFiles.length === 0);
+            previewList.innerHTML = previewFiles.map((file, fileIndex) => `
+                <p class="has-text-weight-semibold mt-3">
+                    <label class="checkbox"><input type="checkbox" class="file-toggle" data-file="${fileIndex}"> ${escapeHtml(file.name)}</label>
+                </p>
+                <table class="table is-narrow is-fullwidth"><tbody>${file.entries.map((entry, index) => `
+                    <tr>
+                        <td><input type="checkbox" class="entry-toggle" data-file="${fileIndex}" data-index="${index}"${entry.included ? " checked" : ""} aria-label="Include ${escapeHtml(entry.french)}"></td>
+                        <td><span class="say">${escapeHtml(entry.french)}</span>${entry.ipa ? `<div class="ipa" lang="fr-fonipa">${escapeHtml(entry.ipa)}</div>` : ""}</td>
+                        <td>${escapeHtml(entry.english)}</td>
+                    </tr>`).join("")}
+                </tbody></table>`).join("");
+            updatePreviewCounts();
+        }
+
+        async function loadPreview() {
+            const generation = ++previewGeneration;
+            let files;
+            try {
+                files = await (await libraryFiles)();
+            } catch (error) {
+                alert(error.message);
+                files = [];
+            }
+            for (let file of document.getElementById("fileInput").files) {
+                files.push({ name: file.name, text: await file.text() });
+            }
+            // A newer selection came in while this one was loading.
+            if (generation !== previewGeneration) return;
+            previewFiles = files.map(file => ({
+                name: file.name,
+                entries: parseEntries(file.text).map((entry, index) => ({ ...entry, included: !excludedEntries.has(entryKey(file, index)) })),
+            }));
+            renderPreview();
+        }
+
+        function refreshPreview() {
+            previewLoad = loadPreview();
+        }
+
+        previewList.addEventListener("change", event => {
+            const box = event.target;
+            const file = previewFiles[box.dataset.file];
+            const setIncluded = (index, included) => {
+                file.entries[index].included = included;
+                if (included) excludedEntries.delete(entryKey(file, index));
+                else excludedEntries.add(entryKey(file, index));
+            };
+            if (box.classList.contains("file-toggle")) {
+                file.entries.forEach((entry, index) => setIncluded(index, box.checked));
+                previewList.querySelectorAll(`.entry-toggle[data-file="${box.dataset.file}"]`).forEach(entryBox => entryBox.checked = box.checked);
+            } else {
+                setIncluded(box.dataset.index, box.checked);
+            }
+            updatePreviewCounts();
+        });
+
+        // Tapping a French word in the preview reads it with the chosen voice and speed (not mid-session).
+        previewList.addEventListener("click", event => {
+            const word = event.target.closest(".say");
+            if (!word || isTraining) return;
+            speechSynthesis.cancel();
+            const utterance = new SpeechSynthesisUtterance(word.textContent);
+            utterance.lang = "fr-CA";
+            utterance.rate = speechRate;
+            if (selectedVoice) utterance.voice = selectedVoice;
+            speechSynthesis.speak(utterance);
+        });
+
+        const libraryFiles = mountLibraryChecklist(document.getElementById("library"), "vocab", refreshPreview);
+        document.getElementById("fileInput").addEventListener("change", refreshPreview);
+        // A browser may keep the file input's files on reload.
+        refreshPreview();
 
         document.getElementById("trainButton").addEventListener("click", async () => {
-            const files = document.getElementById("fileInput").files;
-            const texts = await (await libraryTexts)();
-            for (let file of files) texts.push(await file.text());
-            if (texts.length === 0) {
+            // Wait for the latest selection to finish loading.
+            let loading;
+            do {
+                loading = previewLoad;
+                await loading;
+            } while (loading !== previewLoad);
+
+            if (previewFiles.length === 0) {
                 alert("Please select at least one file.");
+                return;
+            }
+            entries = previewFiles.flatMap(file => file.entries).filter(entry => entry.included)
+                .map(({ french, english, ipa }) => ({ french, english, ipa }));
+            if (entries.length === 0) {
+                alert("Every entry is unticked in the preview.");
                 return;
             }
 
             const repetitions = parseInt(document.getElementById("repetitions").value, 10);
             const randomize = document.getElementById("randomize").checked;
-            entries = [];
-
-            for (let text of texts) {
-                const fileEntries = text.split("\n").map(line => {
-                    const parts = line.split("\t");
-                    // Optional 4th column (after the [sound:…] tag): IPA in slashes, e.g. /la mɛzɔ̃/.
-                    const ipa = (parts[3] || "").trim();
-                    return parts.length >= 2 ? {
-                        french: cleanFrenchWord(parts[0].trim()),
-                        english: removeSlashes(parts[1].trim()),
-                        ipa: /^\/.+\/$/.test(ipa) ? ipa : "",
-                    } : null;
-                }).filter(Boolean);
-                entries.push(...fileEntries);
-            }
 
             if (randomize) {
                 entries = entries.sort(() => Math.random() - 0.5);
