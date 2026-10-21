@@ -56,6 +56,12 @@
                 <input type="checkbox" id="randomize"> Randomize
             </label>
         </div>
+        <div class="field hidden" id="keepAwakeField">
+            <label class="checkbox">
+                <input type="checkbox" id="keepAwake"> Keep screen on
+            </label>
+            <p class="help">Phones stop the speech when the screen turns off; this keeps it from timing out while the page is open.</p>
+        </div>
         <div id="progress" class="notification is-light"></div>
         <div id="speechError" class="notification is-danger is-light" style="display: none;"></div>
         <div id="displayWord" class="box has-background-light"></div>
@@ -89,6 +95,7 @@
         const voiceIndicator = document.getElementById("voiceIndicator");
         const VOICE_STORAGE_KEY = "audioDrillVoiceURI";
         const SPEECH_RATE_KEY = "audioDrillSpeechRate";
+        const KEEP_AWAKE_KEY = "audioDrillKeepAwake";
 
         function escapeHtml(str) {
             return String(str)
@@ -162,6 +169,36 @@
             applySpeechRate();
         });
         applySpeechRate();
+
+        // --- Keep screen on (Screen Wake Lock API; the browser drops the lock whenever the page is hidden) ---
+        const keepAwakeInput = document.getElementById("keepAwake");
+        let wakeLock = null;
+
+        async function updateWakeLock() {
+            if (keepAwakeInput.checked && document.visibilityState === "visible") {
+                if (wakeLock) return;
+                try {
+                    wakeLock = await navigator.wakeLock.request("screen");
+                    wakeLock.addEventListener("release", () => { wakeLock = null; });
+                } catch (e) {
+                    wakeLock = null;
+                }
+            } else if (wakeLock) {
+                wakeLock.release();
+                wakeLock = null;
+            }
+        }
+
+        if ("wakeLock" in navigator) {
+            document.getElementById("keepAwakeField").classList.remove("hidden");
+            keepAwakeInput.checked = localStorage.getItem(KEEP_AWAKE_KEY) === "true";
+            keepAwakeInput.addEventListener("change", () => {
+                localStorage.setItem(KEEP_AWAKE_KEY, keepAwakeInput.checked);
+                updateWakeLock();
+            });
+            document.addEventListener("visibilitychange", updateWakeLock);
+            updateWakeLock();
+        }
 
         function removeSlashes(word) {
             return word.replace(/\s*\/\s*/g, ", ");
