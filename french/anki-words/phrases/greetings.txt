@@ -1,0 +1,54 @@
+bonjour	hello / good morning (Québec: also goodbye)	[sound:hello-good-morning-quebec-also-goodbye.webm]	/bɔ̃ʒuʁ/
+bonsoir	good evening (also when leaving)	[sound:good-evening-also-when-leaving.webm]	/bɔ̃swaʁ/
+salut	hi / bye (informal)	[sound:hi-bye-informal.webm]	/saly/
+allô	hi (Québec, informal) / hello? (on the phone)	[sound:hi-quebec-informal-hello-on-the-phone.webm]	/alo/
+bienvenue	welcome (Québec: also you're welcome)	[sound:welcome-quebec-also-you-re-welcome.webm]	/bjɛ̃vəny/
+bonjour à tous	hello everyone	[sound:hello-everyone.webm]	/bɔ̃ʒuʁ a tus/
+je m'appelle…	my name is… (literally: I call myself)	[sound:my-name-is-literally-i-call-myself.webm]	/ʒə mapɛl/
+mon nom est…	my name is…	[sound:my-name-is.webm]	/mɔ̃ nɔ̃ ɛ/
+je suis…	I am…	[sound:i-am.webm]	/ʒə sɥi/
+je suis français / je suis française	I am French	[sound:i-am-french.webm]	/ʒə sɥi fʁɑ̃sɛ, ʒə sɥi fʁɑ̃sɛz/
+je parle français et anglais	I speak French and English	[sound:i-speak-french-and-english.webm]	/ʒə paʁl fʁɑ̃sɛ e ɑ̃ɡlɛ/
+enchanté / enchantée	nice to meet you	[sound:nice-to-meet-you.webm]	/ɑ̃ʃɑ̃te/
+ravi(e) de vous rencontrer	nice to meet you (formal)	[sound:nice-to-meet-you-formal.webm]	/ʁavi də vu ʁɑ̃kɔ̃tʁe/
+ravi(e) de vous voir	nice to see you	[sound:nice-to-see-you.webm]	/ʁavi də vu vwaʁ/
+comment ça va ?	how's it going?	[sound:how-s-it-going.webm]	/kɔmɑ̃ sa va/
+ça va ?	how are you? / all good?	[sound:how-are-you-all-good.webm]	/sa va/
+comment allez-vous ?	how are you? (formal, or to several people)	[sound:how-are-you-formal-or-to-several-people.webm]	/kɔmɑ̃t ale vu/
+comment vas-tu ?	how are you? (informal)	[sound:how-are-you-informal.webm]	/kɔmɑ̃ va ty/
+oui, ça va bien	yes, I'm doing well	[sound:yes-i-m-doing-well.webm]	/wi sa va bjɛ̃/
+ça va, merci	I'm fine, thanks	[sound:i-m-fine-thanks.webm]	/sa va mɛʁsi/
+moi, ça va bien, merci	I'm doing well, thank you	[sound:i-m-doing-well-thank-you.webm]	/mwa sa va bjɛ̃ mɛʁsi/
+ça va mal	I'm not doing well	[sound:i-m-not-doing-well.webm]	/sa va mal/
+ça va pas mal	not bad (Québec: pretty good)	[sound:not-bad-quebec-pretty-good.webm]	/sa va pa mal/
+comme ci, comme ça	so-so	[sound:so-so.webm]	/kɔm si kɔm sa/
+et toi ? / et vous ?	and you? (informal / formal)	[sound:and-you-informal-formal.webm]	/e twa, e vu/
+quoi de neuf ?	what's new? / what's up?	[sound:what-s-new-what-s-up.webm]	/kwa də nœf/
+ça fait longtemps !	long time no see!	[sound:long-time-no-see.webm]	/sa fɛ lɔ̃tɑ̃/
+qu'est-ce que tu deviens ?	how have you been? / what are you up to these days?	[sound:how-have-you-been-what-are-you-up-to-these-days.webm]	/kɛs kə ty dəvjɛ̃/
+comment va la vie ?	how's life?	[sound:how-s-life.webm]	/kɔmɑ̃ va la vi/
+comment se passe ta journée ?	how's your day going?	[sound:how-s-your-day-going.webm]	/kɔmɑ̃ sə pas ta ʒuʁne/
+merci	thank you	[sound:thank-you.webm]	/mɛʁsi/
+merci beaucoup	thank you very much	[sound:thank-you-very-much.webm]	/mɛʁsi boku/
+de rien	you're welcome	[sound:you-re-welcome.webm]	/də ʁjɛ̃/
+ça me fait plaisir	you're welcome / my pleasure (common in Québec)	[sound:you-re-welcome-my-pleasure-common-in-quebec.webm]	/sa mə fɛ plɛziʁ/
+s'il te plaît	please (informal)	[sound:please-informal.webm]	/sil tə plɛ/
+s'il vous plaît	please (formal, or to several people)	[sound:please-formal-or-to-several-people.webm]	/sil vu plɛ/
+excuse-moi	excuse me (informal)	[sound:excuse-me-informal.webm]	/ɛkskyz mwa/
+excusez-moi	excuse me (formal)	[sound:excuse-me-formal.webm]	/ɛkskyze mwa/
+pardonne-moi / pardonnez-moi	forgive me (informal / formal)	[sound:forgive-me-informal-formal.webm]	/paʁdɔn mwa, paʁdɔne mwa/
+pardon	sorry / pardon?	[sound:sorry-pardon.webm]	/paʁdɔ̃/
+au revoir	goodbye	[sound:goodbye.webm]	/o ʁəvwaʁ/
+au revoir, monsieur / au revoir, madame	goodbye, sir / goodbye, ma'am	[sound:goodbye-sir-goodbye-ma-am.webm]	/o ʁəvwaʁ məsjø, o ʁəvwaʁ madam/
+à bientôt	see you soon	[sound:see-you-soon.webm]	/a bjɛ̃to/
+à tout à l'heure	see you later (later today)	[sound:see-you-later-later-today.webm]	/a tut a lœʁ/
+à plus tard	see you later	[sound:see-you-later.webm]	/a ply taʁ/
+à demain	see you tomorrow	[sound:see-you-tomorrow.webm]	/a dəmɛ̃/
+à la prochaine	until next time	[sound:until-next-time.webm]	/a la pʁɔʃɛn/
+on se revoit bientôt	see you again soon	[sound:see-you-again-soon.webm]	/ɔ̃ sə ʁəvwa bjɛ̃to/
+je dois y aller	I have to go	[sound:i-have-to-go.webm]	/ʒə dwa i ale/
+bonne journée	have a good day	[sound:have-a-good-day.webm]	/bɔn ʒuʁne/
+bon après-midi	have a good afternoon	[sound:have-a-good-afternoon.webm]	/bɔn apʁɛmidi/
+bonne soirée	have a good evening	[sound:have-a-good-evening.webm]	/bɔn swaʁe/
+bonne nuit	good night	[sound:good-night.webm]	/bɔn nɥi/
+bonne fin de semaine	have a good weekend (Québec)	[sound:have-a-good-weekend-quebec.webm]	/bɔn fɛ̃ də səmɛn/
