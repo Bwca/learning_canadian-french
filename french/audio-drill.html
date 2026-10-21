@@ -14,6 +14,14 @@
         #progress { margin-top: 10px; font-size: 18px; min-height: 30px; }
         .buttons { margin-top: 20px; }
         .hidden { display: none; }
+        /* Full screen: just the progress, word box and buttons, centred, with bigger text. Where the
+           Fullscreen API isn't available (iPhone Safari) it fills the browser window instead. */
+        #drillArea.focus-mode { position: fixed; inset: 0; z-index: 100; background: #fff; display: flex; flex-direction: column; justify-content: center; padding: 1.5rem; overflow: auto; }
+        #drillArea.focus-mode > * { width: 100%; max-width: 900px; margin-left: auto; margin-right: auto; }
+        .focus-mode #displayWord, .focus-mode .display-probe { font-size: 36px; }
+        .focus-mode .translation { font-size: 30px; }
+        .focus-mode .ipa { font-size: 28px; }
+        .focus-mode .buttons { justify-content: center; }
     </style>
 </head>
 <body>
@@ -62,13 +70,16 @@
             </label>
             <p class="help">Phones stop the speech when the screen turns off; this keeps it from timing out while the page is open.</p>
         </div>
-        <div id="progress" class="notification is-light"></div>
-        <div id="speechError" class="notification is-danger is-light" style="display: none;"></div>
-        <div id="displayWord" class="box has-background-light"></div>
-        <div class="buttons">
-            <button class="button is-primary" id="trainButton">Train</button>
-            <button class="button is-warning" id="pauseButton">Pause</button>
-            <button class="button is-danger" id="stopButton">Stop</button>
+        <div id="drillArea">
+            <div id="progress" class="notification is-light"></div>
+            <div id="speechError" class="notification is-danger is-light" style="display: none;"></div>
+            <div id="displayWord" class="box has-background-light"></div>
+            <div class="buttons">
+                <button class="button is-primary" id="trainButton">Train</button>
+                <button class="button is-warning" id="pauseButton">Pause</button>
+                <button class="button is-danger" id="stopButton">Stop</button>
+                <button class="button is-light" id="focusButton">Full screen</button>
+            </div>
         </div>
     </div>
     <script src="../library.js"></script>
@@ -253,6 +264,33 @@
             holder.remove();
             displayWord.style.minHeight = `${tallest}px`;
         }
+
+        // --- Full screen (just the drill area, for concentrating) ---
+        const drillArea = document.getElementById("drillArea");
+        const focusButton = document.getElementById("focusButton");
+
+        function setFocusMode(on) {
+            drillArea.classList.toggle("focus-mode", on);
+            focusButton.textContent = on ? "Exit full screen" : "Full screen";
+            reserveDisplayHeight();
+        }
+
+        focusButton.addEventListener("click", () => {
+            if (drillArea.classList.contains("focus-mode")) {
+                if (document.fullscreenElement) document.exitFullscreen();
+                setFocusMode(false);
+            } else {
+                setFocusMode(true);
+                if (drillArea.requestFullscreen) drillArea.requestFullscreen().catch(() => {});
+            }
+        });
+        // Leaving real full screen with Esc or the back gesture also leaves focus mode.
+        document.addEventListener("fullscreenchange", () => {
+            if (!document.fullscreenElement) setFocusMode(false);
+        });
+        document.addEventListener("keydown", (e) => {
+            if (e.key === "Escape" && drillArea.classList.contains("focus-mode")) setFocusMode(false);
+        });
 
         let resizeTimer = null;
         window.addEventListener("resize", () => {
