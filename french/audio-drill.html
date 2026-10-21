@@ -13,6 +13,8 @@
         .ipa { font-family: "Charis SIL", "Doulos SIL", "Gentium Plus", "Segoe UI", "Lucida Sans Unicode", "DejaVu Sans", sans-serif; font-size: 20px; font-weight: normal; color: #4a4a4a; margin-top: 4px; }
         #progress { margin-top: 10px; font-size: 18px; min-height: 30px; }
         .buttons { margin-top: 20px; }
+        /* Plain buttons, and no blue ring left on a tapped one; keyboard focus still shows it. */
+        .buttons .button:focus:not(:focus-visible) { border-color: #dbdbdb; box-shadow: none; }
         .hidden { display: none; }
         /* Full screen: just the progress, word box and buttons, centred, with bigger text. Where the
            Fullscreen API isn't available (iPhone Safari) it fills the browser window instead. */
@@ -75,10 +77,10 @@
             <div id="speechError" class="notification is-danger is-light" style="display: none;"></div>
             <div id="displayWord" class="box has-background-light"></div>
             <div class="buttons">
-                <button class="button is-primary" id="trainButton">Train</button>
-                <button class="button is-warning" id="pauseButton">Pause</button>
-                <button class="button is-danger" id="stopButton">Stop</button>
-                <button class="button is-light" id="focusButton">Full screen</button>
+                <button class="button" id="trainButton">Train</button>
+                <button class="button" id="pauseButton">Pause</button>
+                <button class="button" id="stopButton">Stop</button>
+                <button class="button" id="focusButton">Full screen</button>
             </div>
         </div>
     </div>
