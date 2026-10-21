@@ -198,6 +198,7 @@
 
             // Shows the French word, with its IPA transcription underneath when the file has one,
             // and the English translation below that once it's being read, so the French stays visible.
+            // The translation line is always laid out (just invisible until read) so the box doesn't jump in height.
             const showEntry = (entry, withTranslation) => {
                 displayWord.textContent = entry.french;
                 if (entry.ipa) {
@@ -207,13 +208,12 @@
                     ipaLine.textContent = entry.ipa;
                     displayWord.appendChild(ipaLine);
                 }
-                if (withTranslation) {
-                    const translationLine = document.createElement("div");
-                    translationLine.className = "translation";
-                    translationLine.lang = "en";
-                    translationLine.textContent = entry.english;
-                    displayWord.appendChild(translationLine);
-                }
+                const translationLine = document.createElement("div");
+                translationLine.className = "translation";
+                translationLine.lang = "en";
+                translationLine.textContent = entry.english;
+                if (!withTranslation) translationLine.style.visibility = "hidden";
+                displayWord.appendChild(translationLine);
             };
 
             const speak = (text, lang, onStart) => {
