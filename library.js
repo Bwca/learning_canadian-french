@@ -47,16 +47,24 @@ async function mountLibrarySelect(container, kind, placeholder, onPick) {
     container.classList.remove("hidden");
 }
 
-// Multi-choice checklist, grouped by folder. Returns a function giving the checked files as
-// { name, text }, name being "<folder> / <file>". onChange, if given, fires when a box is ticked or unticked.
+// Multi-choice checklist, grouped by folder, in a section that starts open and can be collapsed once
+// the lists are chosen; its summary line counts the chosen ones. Returns a function giving the checked
+// files as { name, text }, name being "<folder> / <file>". onChange, if given, fires when a box is ticked or unticked.
 async function mountLibraryChecklist(container, kind, onChange) {
     const groups = await fetchLibrary(kind);
     if (!groups) return async () => [];
-    container.innerHTML = groups.map(group => `
+    container.innerHTML = `<details open><summary></summary>${groups.map(group => `
         <p class="has-text-weight-semibold mt-2">${group.label}</p>
         <div>${group.files.map(file => `
             <label class="checkbox mr-3"><input type="checkbox" value="${file.path}" data-name="${group.label} / ${file.name}"> ${file.name}</label>`).join("")}
-        </div>`).join("") + `<p class="help mt-2">…or choose files from your computer:</p>`;
+        </div>`).join("")}</details><p class="help mt-2">…or choose files from your computer:</p>`;
+    const summary = container.querySelector("summary");
+    const countChosen = () => {
+        const chosen = container.querySelectorAll("input:checked").length;
+        summary.textContent = `Lists: ${chosen} chosen`;
+    };
+    countChosen();
+    container.addEventListener("change", countChosen);
     container.classList.remove("hidden");
     if (onChange) container.addEventListener("change", onChange);
     return () => Promise.all([...container.querySelectorAll("input:checked")].map(async box =>
