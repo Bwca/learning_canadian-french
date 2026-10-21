@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
     <style>
         .container { max-width: 600px; margin: auto; text-align: center; }
-        #displayWord { font-size: 24px; font-weight: bold; margin-top: 20px; min-height: 100px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+        #displayWord, .display-probe { font-size: 24px; font-weight: bold; margin-top: 20px; min-height: 100px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
         /* Fonts with full IPA coverage, so combining marks like the nasal tilde in ɑ̃ sit on their letter. */
         .translation { font-size: 22px; font-weight: normal; margin-top: 12px; }
         .ipa { font-family: "Charis SIL", "Doulos SIL", "Gentium Plus", "Segoe UI", "Lucida Sans Unicode", "DejaVu Sans", sans-serif; font-size: 20px; font-weight: normal; color: #4a4a4a; margin-top: 4px; }
@@ -211,6 +211,55 @@
                 .trim());
         }
 
+        // Shows the French word, with its IPA transcription underneath when the file has one,
+        // and the English translation below that once it's being read, so the French stays visible.
+        // The translation line is always laid out (just invisible until read) so the box doesn't jump in height.
+        function renderEntry(box, entry, withTranslation) {
+            box.textContent = entry.french;
+            if (entry.ipa) {
+                const ipaLine = document.createElement("div");
+                ipaLine.className = "ipa";
+                ipaLine.lang = "fr-fonipa";
+                ipaLine.textContent = entry.ipa;
+                box.appendChild(ipaLine);
+            }
+            const translationLine = document.createElement("div");
+            translationLine.className = "translation";
+            translationLine.lang = "en";
+            translationLine.textContent = entry.english;
+            if (!withTranslation) translationLine.style.visibility = "hidden";
+            box.appendChild(translationLine);
+        }
+
+        // Sizes the box for the tallest entry in the set, so it doesn't jump between words.
+        // Every entry is laid out at once in invisible copies of the box at the same width (one
+        // layout pass, so it stays fast for big sets); wrapping depends on that width, so it's
+        // redone when the window is resized or the phone rotated.
+        function reserveDisplayHeight() {
+            const displayWord = document.getElementById("displayWord");
+            if (entries.length === 0) return;
+            const holder = document.createElement("div");
+            holder.style.cssText = `position: absolute; visibility: hidden; left: 0; top: 0; width: ${displayWord.offsetWidth}px;`;
+            for (const entry of entries) {
+                const probe = displayWord.cloneNode(false);
+                probe.removeAttribute("id");
+                probe.removeAttribute("style");
+                probe.classList.add("display-probe");
+                renderEntry(probe, entry, true);
+                holder.appendChild(probe);
+            }
+            displayWord.parentNode.appendChild(holder);
+            const tallest = Math.max(...Array.from(holder.children, probe => probe.offsetHeight));
+            holder.remove();
+            displayWord.style.minHeight = `${tallest}px`;
+        }
+
+        let resizeTimer = null;
+        window.addEventListener("resize", () => {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(reserveDisplayHeight, 200);
+        });
+
         async function train(repetitions) {
             totalIterations = repetitions;
             totalEntries = entries.length;
@@ -233,25 +282,8 @@
                 speechError.style.display = "block";
             };
 
-            // Shows the French word, with its IPA transcription underneath when the file has one,
-            // and the English translation below that once it's being read, so the French stays visible.
-            // The translation line is always laid out (just invisible until read) so the box doesn't jump in height.
-            const showEntry = (entry, withTranslation) => {
-                displayWord.textContent = entry.french;
-                if (entry.ipa) {
-                    const ipaLine = document.createElement("div");
-                    ipaLine.className = "ipa";
-                    ipaLine.lang = "fr-fonipa";
-                    ipaLine.textContent = entry.ipa;
-                    displayWord.appendChild(ipaLine);
-                }
-                const translationLine = document.createElement("div");
-                translationLine.className = "translation";
-                translationLine.lang = "en";
-                translationLine.textContent = entry.english;
-                if (!withTranslation) translationLine.style.visibility = "hidden";
-                displayWord.appendChild(translationLine);
-            };
+            const showEntry = (entry, withTranslation) => renderEntry(displayWord, entry, withTranslation);
+            reserveDisplayHeight();
 
             const speak = (text, lang, onStart) => {
                 return new Promise(resolve => {
