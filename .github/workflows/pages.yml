@@ -28,7 +28,14 @@ jobs:
       - name: Assemble site
         run: |
           mkdir _site
-          cp -r index.html library.js audio-drill.html vocab-quiz.html translation-drill.html reading-trainer.html anki-words grammar-exercises reading-exercises _site/
+          cp index.html library.js _site/
+          # Every top-level folder with an index.html is a language; publish it minus the non-web parts.
+          for lang in */; do
+            lang="${lang%/}"
+            [ -f "$lang/index.html" ] || continue
+            cp -r "$lang" _site/
+            rm -rf "_site/$lang/pronunciation-generator" "_site/$lang/tef-prep" "_site/$lang"/*.md
+          done
           node .github/scripts/build-manifest.js _site
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

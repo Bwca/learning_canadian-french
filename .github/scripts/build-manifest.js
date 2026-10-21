@@ -1,6 +1,9 @@
-// Builds manifest.json for the GitHub Pages site: lists every vocab list,
-// translation-drill set and reading exercise so the browser tools can offer them in a picker
-// (Pages has no directory listing). Run from the repo root.
+// Builds a manifest.json for each language on the GitHub Pages site: lists every
+// vocab list, translation-drill set and reading exercise so the browser tools can
+// offer them in a picker (Pages has no directory listing). A language is any
+// top-level folder with an index.html. Run from the repo root:
+//   node .github/scripts/build-manifest.js <site-dir>
+// writes <site-dir>/<language>/manifest.json, with paths relative to that folder.
 const fs = require("fs");
 const path = require("path");
 
@@ -13,29 +16,41 @@ function listDir(dir, filter) {
 
 const isDir = dir => name => fs.statSync(path.join(dir, name)).isDirectory();
 
-const vocab = listDir("anki-words", isDir("anki-words")).map(group => ({
-    label: group,
-    files: listDir(path.join("anki-words", group), name => name.endsWith(".txt")).map(name => ({
-        name: name.replace(/\.txt$/, ""),
-        path: `anki-words/${group}/${name}`,
-    })),
-})).filter(group => group.files.length);
+function buildManifest(langDir) {
+    const rel = (...parts) => path.join(langDir, ...parts);
 
-// <root>/<level>/<topic>/<n>.json, grouped by level · topic and labelled with each file's title.
-const levelledJson = root => listDir(root, isDir(root)).flatMap(level =>
-    listDir(path.join(root, level), isDir(path.join(root, level))).map(topic => ({
-        label: `${level.toUpperCase()} · ${topic}`,
-        files: listDir(path.join(root, level, topic), name => name.endsWith(".json")).map(name => {
-            const filePath = `${root}/${level}/${topic}/${name}`;
-            const { title } = JSON.parse(fs.readFileSync(filePath, "utf8"));
-            return { name: `${name.replace(/\.json$/, "")}. ${title || ""}`.trim(), path: filePath };
-        }),
-    }))
-).filter(group => group.files.length);
+    const vocab = listDir(rel("anki-words"), isDir(rel("anki-words"))).map(group => ({
+        label: group,
+        files: listDir(rel("anki-words", group), name => name.endsWith(".txt")).map(name => ({
+            name: name.replace(/\.txt$/, ""),
+            path: `anki-words/${group}/${name}`,
+        })),
+    })).filter(group => group.files.length);
 
-const drills = levelledJson("grammar-exercises/translation-drills");
-const reading = levelledJson("reading-exercises");
+    // <root>/<level>/<topic>/<n>.json, grouped by level · topic and labelled with each file's title.
+    const levelledJson = root => listDir(rel(root), isDir(rel(root))).flatMap(level =>
+        listDir(rel(root, level), isDir(rel(root, level))).map(topic => ({
+            label: `${level.toUpperCase()} · ${topic}`,
+            files: listDir(rel(root, level, topic), name => name.endsWith(".json")).map(name => {
+                const filePath = `${root}/${level}/${topic}/${name}`;
+                const { title } = JSON.parse(fs.readFileSync(rel(filePath), "utf8"));
+                return { name: `${name.replace(/\.json$/, "")}. ${title || ""}`.trim(), path: filePath };
+            }),
+        }))
+    ).filter(group => group.files.length);
+
+    return {
+        vocab,
+        drills: levelledJson("grammar-exercises/translation-drills"),
+        reading: levelledJson("reading-exercises"),
+    };
+}
 
 const outDir = process.argv[2] || ".";
-fs.writeFileSync(path.join(outDir, "manifest.json"), JSON.stringify({ vocab, drills, reading }, null, 2));
-console.log(`manifest.json: ${vocab.length} vocab groups, ${drills.length} drill topics, ${reading.length} reading topics`);
+const languages = listDir(".", name => !name.startsWith(".") && isDir(".")(name) && fs.existsSync(path.join(name, "index.html")));
+for (const lang of languages) {
+    const manifest = buildManifest(lang);
+    fs.mkdirSync(path.join(outDir, lang), { recursive: true });
+    fs.writeFileSync(path.join(outDir, lang, "manifest.json"), JSON.stringify(manifest, null, 2));
+    console.log(`${lang}/manifest.json: ${manifest.vocab.length} vocab groups, ${manifest.drills.length} drill topics, ${manifest.reading.length} reading topics`);
+}
