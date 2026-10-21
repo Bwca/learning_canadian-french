@@ -1,7 +1,8 @@
 // Builds a manifest.json for each language on the GitHub Pages site: lists every
 // vocab list, translation-drill set and reading exercise so the browser tools can
 // offer them in a picker (Pages has no directory listing). A language is any
-// top-level folder with an index.html. Run from the repo root:
+// top-level folder with an index.html, except ones starting with "." or "_" (like
+// the _site output itself). Run from the repo root:
 //   node .github/scripts/build-manifest.js <site-dir>
 // writes <site-dir>/<language>/manifest.json, with paths relative to that folder.
 const fs = require("fs");
@@ -47,7 +48,7 @@ function buildManifest(langDir) {
 }
 
 const outDir = process.argv[2] || ".";
-const languages = listDir(".", name => !name.startsWith(".") && isDir(".")(name) && fs.existsSync(path.join(name, "index.html")));
+const languages = listDir(".", name => !/^[._]/.test(name) && isDir(".")(name) && fs.existsSync(path.join(name, "index.html")));
 for (const lang of languages) {
     const manifest = buildManifest(lang);
     fs.mkdirSync(path.join(outDir, lang), { recursive: true });
