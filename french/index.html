@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learning Canadian French</title>
+    <title data-i18n="pageTitle">Learning Canadian French</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
     <style>
         .container { max-width: 800px; margin: auto; padding: 2rem 1rem; }
@@ -11,8 +11,8 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="title">Learning Canadian French</h1>
-        <p class="subtitle is-6">
+        <h1 class="title" data-i18n="pageTitle">Learning Canadian French</h1>
+        <p class="subtitle is-6" data-i18n="intro">
             Drilling tools for TEF Canada prep (Québécois French). Every vocabulary list and exercise set
             from the repo is built in — just pick one. Speech uses your browser's text-to-speech, so install
             a French (Canada) voice for the best accent.
@@ -20,30 +20,63 @@
         <div class="columns is-multiline">
             <div class="column is-one-third">
                 <a class="box" href="translation-drill.html">
-                    <p class="title is-5">Translation drill</p>
-                    <p>Translate English sentences into French, with speakable vocabulary hints.</p>
+                    <p class="title is-5" data-i18n="drillTitle">Translation drill</p>
+                    <p data-i18n="drillText">Translate English sentences into French, with speakable vocabulary hints.</p>
                 </a>
             </div>
             <div class="column is-one-third">
                 <a class="box" href="reading-trainer.html">
-                    <p class="title is-5">Reading trainer</p>
-                    <p>Read a passage aloud with the target sounds highlighted, then listen and check the translation.</p>
+                    <p class="title is-5" data-i18n="readingTitle">Reading trainer</p>
+                    <p data-i18n="readingText">Read a passage aloud with the target sounds highlighted, then listen and check the translation.</p>
                 </a>
             </div>
             <div class="column is-one-third">
                 <a class="box" href="vocab-quiz.html">
-                    <p class="title is-5">Vocabulary quiz</p>
-                    <p>See the English, type the French, get scored.</p>
+                    <p class="title is-5" data-i18n="quizTitle">Vocabulary quiz</p>
+                    <p data-i18n="quizText">See the English, type the French, get scored.</p>
                 </a>
             </div>
             <div class="column is-one-third">
                 <a class="box" href="audio-drill.html">
-                    <p class="title is-5">Audio drill</p>
-                    <p>Hands-free listening: each French/English pair read aloud on a loop.</p>
+                    <p class="title is-5" data-i18n="audioTitle">Audio drill</p>
+                    <p data-i18n="audioText">Hands-free listening: each French/English pair read aloud on a loop.</p>
                 </a>
             </div>
         </div>
-        <p class="is-size-7"><a href="../">All languages</a> · <a href="https://github.com/Bwca/learning_canadian-french">Source on GitHub</a></p>
+        <p class="is-size-7"><a href="../" data-i18n="allLanguages">All languages</a> · <a href="https://github.com/Bwca/learning_canadian-french" data-i18n="source">Source on GitHub</a></p>
     </div>
+    <script src="../i18n.js"></script>
+    <script>
+        defineStrings({
+            en: {
+                pageTitle: "Learning Canadian French",
+                intro: "Drilling tools for TEF Canada prep (Québécois French). Every vocabulary list and exercise set from the repo is built in — just pick one. Speech uses your browser's text-to-speech, so install a French (Canada) voice for the best accent.",
+                drillTitle: "Translation drill",
+                drillText: "Translate English sentences into French, with speakable vocabulary hints.",
+                readingTitle: "Reading trainer",
+                readingText: "Read a passage aloud with the target sounds highlighted, then listen and check the translation.",
+                quizTitle: "Vocabulary quiz",
+                quizText: "See the English, type the French, get scored.",
+                audioTitle: "Audio drill",
+                audioText: "Hands-free listening: each French/English pair read aloud on a loop.",
+                allLanguages: "All languages",
+                source: "Source on GitHub",
+            },
+            uk: {
+                pageTitle: "Вивчаємо канадську французьку",
+                intro: "Тренажери для підготовки до TEF Canada (квебекська французька). Усі списки слів і набори вправ із репозиторію вже вбудовані — просто виберіть потрібний. Озвучує текст синтезатор мовлення вашого браузера, тож для найкращої вимови встановіть голос «французька (Канада)».",
+                drillTitle: "Переклад речень",
+                drillText: "Перекладайте українські речення французькою, з підказками слів, які можна прослухати.",
+                readingTitle: "Тренажер читання",
+                readingText: "Читайте текст уголос із виділеними звуками, які тренуєте, потім слухайте й звіряйтеся з перекладом.",
+                quizTitle: "Тест зі слів",
+                quizText: "Бачите українське слово, пишете французьке, отримуєте оцінку.",
+                audioTitle: "Аудіотренажер",
+                audioText: "Слухання без рук: кожна пара французька/українська звучить по колу.",
+                allLanguages: "Усі мови",
+                source: "Код на GitHub",
+            },
+        });
+    </script>
 </body>
 </html>

@@ -10,6 +10,10 @@ Personal study materials and small browser-based tools for learning languages: v
 
 Each language lives in its own top-level folder with its content, its tools and a landing page (`index.html`).
 
+## Your language
+
+The materials were written for an English speaker; they're being translated into Ukrainian as well. Every page has an **EN | УКР** switch (top right) that changes the interface, the translations in vocabulary lists and exercises, and the reading notes. The choice is remembered. Anything not yet translated shows in English. In the audio drill, translations are read by a voice in your language. Without one installed (Ukrainian is often missing on Windows), they're shown but not read aloud. `i18n.js` holds the shared switch and strings.
+
 ## Online (GitHub Pages)
 
 The browser tools are published at <https://bwca.github.io/learning_canadian-french/> by `.github/workflows/pages.yml` on every push to `master`. The root `index.html` links to each language's landing page.

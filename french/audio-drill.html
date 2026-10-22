@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>French Trainer</title>
+    <title data-i18n="pageTitle">French Trainer</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
     <style>
         .container { max-width: 600px; margin: auto; text-align: center; }
@@ -32,69 +32,126 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="title">French Pronunciation Trainer</h1>
+        <h1 class="title" data-i18n="heading">French Pronunciation Trainer</h1>
         <div class="field has-text-left hidden" id="library"></div>
         <div class="field">
             <div class="file has-name is-boxed">
                 <label class="file-label">
                     <input class="file-input" type="file" id="fileInput" accept=".txt" multiple>
                     <span class="file-cta">
-                        <span class="file-label">Choose files…</span>
+                        <span class="file-label" data-i18n="chooseFiles">Choose files…</span>
                     </span>
                 </label>
             </div>
         </div>
         <details class="field has-text-left hidden" id="preview">
             <summary id="previewSummary"></summary>
-            <p class="help">Untick entries to leave them out of the session; tap a French word to hear it.</p>
+            <p class="help" data-i18n="previewHelp">Untick entries to leave them out of the session; tap a French word to hear it.</p>
             <div id="previewList"></div>
         </details>
         <div class="field">
-            <label class="label" for="voiceSelect">French voice</label>
+            <label class="label" for="voiceSelect" data-i18n="frenchVoice">French voice</label>
             <div class="control">
                 <div class="select">
                     <select id="voiceSelect"></select>
                 </div>
             </div>
             <p id="voiceIndicator" class="help" aria-live="polite"></p>
+            <p id="translationVoiceIndicator" class="help" aria-live="polite"></p>
         </div>
         <div class="field">
-            <label class="label" for="speechRate">French speech speed: <span id="speechRateValue">100%</span></label>
+            <label class="label" for="speechRate"><span data-i18n="frenchSpeed">French speech speed:</span> <span id="speechRateValue">100%</span></label>
             <div class="control">
                 <input type="range" id="speechRate" min="0.5" max="1.5" step="0.1" value="1">
             </div>
         </div>
         <div class="field">
-            <label class="label">Repetitions</label>
+            <label class="label" for="repetitions" data-i18n="repetitions">Repetitions</label>
             <div class="control">
                 <input class="input" type="number" id="repetitions" min="1" value="1">
             </div>
         </div>
         <div class="field">
             <label class="checkbox">
-                <input type="checkbox" id="randomize"> Randomize
+                <input type="checkbox" id="randomize"> <span data-i18n="randomize">Randomize</span>
             </label>
         </div>
         <div class="field hidden" id="keepAwakeField">
             <label class="checkbox">
-                <input type="checkbox" id="keepAwake"> Keep screen on
+                <input type="checkbox" id="keepAwake"> <span data-i18n="keepAwake">Keep screen on</span>
             </label>
-            <p class="help">Phones stop the speech when the screen turns off; this keeps it from timing out while the page is open.</p>
+            <p class="help" data-i18n="keepAwakeHelp">Phones stop the speech when the screen turns off; this keeps it from timing out while the page is open.</p>
         </div>
         <div id="drillArea">
             <div id="progress" class="notification is-light"></div>
             <div id="speechError" class="notification is-danger is-light" style="display: none;"></div>
             <div id="displayWord" class="box has-background-light"></div>
             <div class="buttons">
-                <button class="button" id="trainButton">Train</button>
-                <button class="button" id="pauseButton">Pause</button>
-                <button class="button" id="stopButton">Stop</button>
-                <button class="button" id="focusButton">Full screen</button>
+                <button class="button" id="trainButton" data-i18n="train">Train</button>
+                <button class="button" id="pauseButton" data-i18n="pause">Pause</button>
+                <button class="button" id="stopButton" data-i18n="stop">Stop</button>
+                <button class="button" id="focusButton" data-i18n="fullScreen">Full screen</button>
             </div>
         </div>
     </div>
+    <script src="../i18n.js"></script>
     <script src="../library.js"></script>
     <script>
+        defineStrings({
+            en: {
+                pageTitle: "French Trainer",
+                heading: "French Pronunciation Trainer",
+                chooseFiles: "Choose files…",
+                previewAll: "Preview: {total} entries",
+                previewSome: "Preview: {included} of {total} entries",
+                previewHelp: "Untick entries to leave them out of the session; tap a French word to hear it.",
+                includeEntry: "Include {french}",
+                translationVoice: "Translations are read by: {voice}",
+                noTranslationVoice: "No {language} voice installed — translations are shown but not read aloud.",
+                frenchSpeed: "French speech speed:",
+                repetitions: "Repetitions",
+                randomize: "Randomize",
+                keepAwake: "Keep screen on",
+                keepAwakeHelp: "Phones stop the speech when the screen turns off; this keeps it from timing out while the page is open.",
+                train: "Train",
+                pause: "Pause",
+                resume: "Resume",
+                stop: "Stop",
+                fullScreen: "Full screen",
+                exitFullScreen: "Exit full screen",
+                progress: "Iteration: {iteration}/{iterations} | Pronounced: {entry}/{entries}",
+                speechFailed: "⚠️ Speech failed for \"{text}\" ({lang}). This can happen when a network voice stops responding — often after a browser or Windows update changes voice availability. Training stopped; check Settings > Time & Language > Speech, or try again.",
+                selectFile: "Please select at least one file.",
+                allUnticked: "Every entry is unticked in the preview.",
+            },
+            uk: {
+                pageTitle: "Французький тренажер",
+                heading: "Тренажер французької вимови",
+                chooseFiles: "Виберіть файли…",
+                previewAll: "Перегляд: записів — {total}",
+                previewSome: "Перегляд: вибрано {included} із {total}",
+                previewHelp: "Зніміть позначку із записів, які не треба тренувати; торкніться французького слова, щоб його почути.",
+                includeEntry: "Тренувати «{french}»",
+                translationVoice: "Переклад читає: {voice}",
+                noTranslationVoice: "Голос для мови «{language}» не встановлено — переклад показується, але не озвучується.",
+                frenchSpeed: "Швидкість французького мовлення:",
+                repetitions: "Повторень",
+                randomize: "Перемішати",
+                keepAwake: "Не вимикати екран",
+                keepAwakeHelp: "Телефони зупиняють мовлення, коли гасне екран; ця опція не дає йому згаснути, поки сторінка відкрита.",
+                train: "Тренувати",
+                pause: "Пауза",
+                resume: "Продовжити",
+                stop: "Стоп",
+                fullScreen: "На весь екран",
+                exitFullScreen: "Вийти з повноекранного режиму",
+                progress: "Коло: {iteration}/{iterations} | Вимовлено: {entry}/{entries}",
+                speechFailed: "⚠️ Не вдалося озвучити «{text}» ({lang}). Так буває, коли мережевий голос перестає відповідати — часто після оновлення браузера чи Windows, яке змінює доступність голосів. Тренування зупинено; перевірте Параметри > Час і мова > Мовлення або спробуйте ще раз.",
+                selectFile: "Виберіть принаймні один файл.",
+                allUnticked: "У перегляді не позначено жодного запису.",
+            },
+        });
+
         let isTraining = false;
         let isPaused = false;
         let currentIteration = 0;
@@ -132,8 +189,8 @@
             frenchVoices = voices.filter(v => v.lang.toLowerCase().startsWith("fr"));
 
             if (frenchVoices.length === 0) {
-                voiceSelect.innerHTML = `<option value="">No French voice installed</option>`;
-                voiceIndicator.textContent = "⚠️ No fr-* voice found on this system — speech will fall back to the default system voice.";
+                voiceSelect.innerHTML = `<option value="" data-i18n="noFrenchVoice">${t("noFrenchVoice")}</option>`;
+                setText(voiceIndicator, "noFrenchVoiceHint");
                 selectedVoice = null;
                 return;
             }
@@ -156,10 +213,8 @@
 
         function describeSelectedVoice() {
             if (!selectedVoice) return;
-            const networkNote = selectedVoice.localService
-                ? ""
-                : " — this is a network voice; if it stays silent on the first click or two, try a local voice instead if one is listed";
-            voiceIndicator.textContent = `🔊 Using: ${selectedVoice.name} (${selectedVoice.lang})${networkNote}`;
+            setText(voiceIndicator, selectedVoice.localService ? "usingVoice" : "usingNetworkVoice",
+                { voice: `${selectedVoice.name} (${selectedVoice.lang})` });
         }
 
         voiceSelect.addEventListener("change", () => {
@@ -170,10 +225,26 @@
             }
         });
 
-        populateVoices();
-        if (speechSynthesis.onvoiceschanged !== undefined) {
-            speechSynthesis.onvoiceschanged = populateVoices;
+        // Translations are read in the learner's language, by a voice for it (a local one where there's a
+        // choice). With no voice for it, common for Ukrainian on Windows, the translation is shown but not read.
+        function translationVoice(lang) {
+            const voices = speechSynthesis.getVoices().filter(v => v.lang.toLowerCase().startsWith(lang));
+            return voices.find(v => v.localService) || voices[0] || null;
         }
+
+        function describeTranslationVoice() {
+            const indicator = document.getElementById("translationVoiceIndicator");
+            const voice = translationVoice(uiLanguage);
+            if (voice) setText(indicator, "translationVoice", { voice: `${voice.name} (${voice.lang})` });
+            else setText(indicator, "noTranslationVoice", { language: UI_LANGUAGES[uiLanguage].name });
+        }
+
+        populateVoices();
+        describeTranslationVoice();
+        if (speechSynthesis.onvoiceschanged !== undefined) {
+            speechSynthesis.onvoiceschanged = () => { populateVoices(); describeTranslationVoice(); };
+        }
+        document.addEventListener("uilanguagechange", describeTranslationVoice);
 
         // --- Speech speed control (slower French for new learners; English stays at normal speed) ---
         const speechRateInput = document.getElementById("speechRate");
@@ -247,8 +318,8 @@
             }
             const translationLine = document.createElement("div");
             translationLine.className = "translation";
-            translationLine.lang = "en";
-            translationLine.textContent = entry.english;
+            translationLine.lang = contentLanguage(entry.translation);
+            translationLine.textContent = localized(entry.translation);
             if (!withTranslation) translationLine.style.visibility = "hidden";
             box.appendChild(translationLine);
         }
@@ -282,7 +353,7 @@
 
         function setFocusMode(on) {
             drillArea.classList.toggle("focus-mode", on);
-            focusButton.textContent = on ? "Exit full screen" : "Full screen";
+            setText(focusButton, on ? "exitFullScreen" : "fullScreen");
             reserveDisplayHeight();
         }
 
@@ -308,6 +379,8 @@
             clearTimeout(resizeTimer);
             resizeTimer = setTimeout(reserveDisplayHeight, 200);
         });
+        // Translations differ in length between languages.
+        document.addEventListener("uilanguagechange", reserveDisplayHeight);
 
         async function train(repetitions) {
             totalIterations = repetitions;
@@ -320,21 +393,21 @@
             const speechError = document.getElementById("speechError");
             speechError.style.display = "none";
 
-            const stopTrainingWithError = (message) => {
+            const stopTrainingWithError = (key, vars) => {
                 isTraining = false;
                 isPaused = false;
                 speechSynthesis.cancel();
-                document.getElementById("pauseButton").textContent = "Pause";
+                setText(document.getElementById("pauseButton"), "pause");
                 displayWord.textContent = "";
-                progress.textContent = "";
-                speechError.textContent = message;
+                clearText(progress);
+                setText(speechError, key, vars);
                 speechError.style.display = "block";
             };
 
             const showEntry = (entry, withTranslation) => renderEntry(displayWord, entry, withTranslation);
             reserveDisplayHeight();
 
-            const speak = (text, lang, onStart) => {
+            const speak = (text, lang, onStart, voice) => {
                 return new Promise(resolve => {
                     if (!isTraining) return resolve();
 
@@ -346,6 +419,8 @@
                         if (lang.toLowerCase().startsWith("fr")) {
                             utterance.rate = speechRate;
                             if (selectedVoice) utterance.voice = selectedVoice;
+                        } else if (voice) {
+                            utterance.voice = voice;
                         }
                         pendingUtterances.push(utterance);
 
@@ -362,11 +437,7 @@
                         const giveUp = () => {
                             settled = true;
                             forget();
-                            stopTrainingWithError(
-                                `⚠️ Speech failed for "${text}" (${lang}). This can happen when a network voice ` +
-                                `stops responding — often after a browser or Windows update changes voice availability. ` +
-                                `Training stopped; check Settings > Time & Language > Speech, or try again.`
-                            );
+                            stopTrainingWithError("speechFailed", { text, lang });
                             resolve();
                         };
 
@@ -418,11 +489,20 @@
                     if (!isTraining) return;
                     while (isPaused) await new Promise(res => setTimeout(res, 200));
 
-                    progress.textContent = `Iteration: ${currentIteration + 1}/${totalIterations} | Pronounced: ${currentEntry + 1}/${totalEntries}`;
+                    setText(progress, "progress", { iteration: currentIteration + 1, iterations: totalIterations, entry: currentEntry + 1, entries: totalEntries });
                     const entry = entries[currentEntry];
                     await speak(entry.french, "fr-CA", () => showEntry(entry, false));
                     if (!isTraining) return;
-                    await speak(entry.english, "en-US", () => showEntry(entry, true));
+                    // English as before goes to the browser's default English voice; other languages need one of their own.
+                    const translation = localized(entry.translation);
+                    const translationLang = contentLanguage(entry.translation);
+                    const voice = translationLang === "en" ? null : translationVoice(translationLang);
+                    if (translationLang === "en" || voice) {
+                        await speak(translation, UI_LANGUAGES[translationLang].speech, () => showEntry(entry, true), voice);
+                    } else {
+                        showEntry(entry, true);
+                        await new Promise(res => setTimeout(res, 1000 + 60 * translation.length));
+                    }
                     if (!isTraining) return;
                     await new Promise(res => setTimeout(res, 1000));
                     displayWord.textContent = "";
@@ -435,20 +515,17 @@
             return text.split("\n").map(line => {
                 const parts = line.split("\t");
                 // Optional 4th column (after the [sound:…] tag): IPA in slashes, e.g. /la mɛzɔ̃/.
+                // Optional 5th: the Ukrainian translation.
                 const ipa = (parts[3] || "").trim();
                 return parts.length >= 2 ? {
                     french: cleanFrenchWord(parts[0].trim()),
-                    english: removeSlashes(parts[1].trim()),
+                    translation: { en: removeSlashes(parts[1].trim()), uk: removeSlashes((parts[4] || "").trim()) },
                     ipa: /^\/.+\/$/.test(ipa) ? ipa : "",
                 } : null;
             }).filter(Boolean);
         }
 
-        function escapeHtml(text) {
-            return text.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
-        }
-
-        // Preview of the chosen files: [{ name, entries: [{ french, english, ipa, included }] }].
+        // Preview of the chosen files: [{ name, entries: [{ french, translation, ipa, included }] }].
         // Unticked entries are remembered per file and line, so they stay unticked when other files are added.
         let previewFiles = [];
         const excludedEntries = new Set();
@@ -463,9 +540,8 @@
         function updatePreviewCounts() {
             const all = previewFiles.flatMap(file => file.entries);
             const included = all.filter(entry => entry.included).length;
-            previewSummary.textContent = included === all.length
-                ? `Preview: ${all.length} entries`
-                : `Preview: ${included} of ${all.length} entries`;
+            if (included === all.length) setText(previewSummary, "previewAll", { total: all.length });
+            else setText(previewSummary, "previewSome", { included, total: all.length });
             previewList.querySelectorAll(".file-toggle").forEach(box => {
                 const fileEntries = previewFiles[box.dataset.file].entries;
                 const fileIncluded = fileEntries.filter(entry => entry.included).length;
@@ -482,11 +558,12 @@
                 </p>
                 <table class="table is-narrow is-fullwidth"><tbody>${file.entries.map((entry, index) => `
                     <tr>
-                        <td><input type="checkbox" class="entry-toggle" data-file="${fileIndex}" data-index="${index}"${entry.included ? " checked" : ""} aria-label="Include ${escapeHtml(entry.french)}"></td>
+                        <td><input type="checkbox" class="entry-toggle" data-file="${fileIndex}" data-index="${index}"${entry.included ? " checked" : ""} data-i18n-attr="aria-label:includeEntry" data-i18n-vars="${escapeHtml(JSON.stringify({ french: entry.french }))}"></td>
                         <td><span class="say">${escapeHtml(entry.french)}</span>${entry.ipa ? `<div class="ipa" lang="fr-fonipa">${escapeHtml(entry.ipa)}</div>` : ""}</td>
-                        <td>${escapeHtml(entry.english)}</td>
+                        <td ${contentAttrs(entry.translation)}></td>
                     </tr>`).join("")}
                 </tbody></table>`).join("");
+            applyTranslations(previewList);
             updatePreviewCounts();
         }
 
@@ -558,13 +635,13 @@
             } while (loading !== previewLoad);
 
             if (previewFiles.length === 0) {
-                alert("Please select at least one file.");
+                alert(t("selectFile"));
                 return;
             }
             entries = previewFiles.flatMap(file => file.entries).filter(entry => entry.included)
-                .map(({ french, english, ipa }) => ({ french, english, ipa }));
+                .map(({ french, translation, ipa }) => ({ french, translation, ipa }));
             if (entries.length === 0) {
-                alert("Every entry is unticked in the preview.");
+                alert(t("allUnticked"));
                 return;
             }
 
@@ -580,7 +657,7 @@
 
         document.getElementById("pauseButton").addEventListener("click", () => {
             isPaused = !isPaused;
-            document.getElementById("pauseButton").textContent = isPaused ? "Resume" : "Pause";
+            setText(document.getElementById("pauseButton"), isPaused ? "resume" : "pause");
         });
 
         document.getElementById("stopButton").addEventListener("click", () => {
@@ -588,7 +665,7 @@
             isPaused = false;
             speechSynthesis.cancel();
             document.getElementById("displayWord").textContent = "";
-            document.getElementById("progress").textContent = "";
+            clearText(document.getElementById("progress"));
             document.getElementById("speechError").style.display = "none";
         });
     </script>

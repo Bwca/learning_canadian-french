@@ -29,13 +29,19 @@ function buildManifest(langDir) {
     })).filter(group => group.files.length);
 
     // <root>/<level>/<topic>/<n>.json, grouped by level · topic and labelled with each file's title.
+    // A title is a string (English) or { en, uk }; the name follows suit, for the picker to localize.
     const levelledJson = root => listDir(rel(root), isDir(rel(root))).flatMap(level =>
         listDir(rel(root, level), isDir(rel(root, level))).map(topic => ({
             label: `${level.toUpperCase()} · ${topic}`,
             files: listDir(rel(root, level, topic), name => name.endsWith(".json")).map(name => {
                 const filePath = `${root}/${level}/${topic}/${name}`;
                 const { title } = JSON.parse(fs.readFileSync(rel(filePath), "utf8"));
-                return { name: `${name.replace(/\.json$/, "")}. ${title || ""}`.trim(), path: filePath };
+                const label = text => `${name.replace(/\.json$/, "")}. ${text || ""}`.trim();
+                const titles = title && typeof title === "object" ? title : { en: title };
+                return {
+                    name: Object.fromEntries(Object.entries(titles).filter(([lang, text]) => text || lang === "en").map(([lang, text]) => [lang, label(text)])),
+                    path: filePath,
+                };
             }),
         }))
     ).filter(group => group.files.length);

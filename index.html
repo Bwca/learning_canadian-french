@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Language learning</title>
+    <title data-i18n="pageTitle">Language learning</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
     <style>
         .container { max-width: 800px; margin: auto; padding: 2rem 1rem; }
@@ -11,17 +11,34 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="title">Language learning</h1>
-        <p class="subtitle is-6">Vocabulary, grammar and pronunciation drills. Pick a language.</p>
+        <h1 class="title" data-i18n="pageTitle">Language learning</h1>
+        <p class="subtitle is-6" data-i18n="intro">Vocabulary, grammar and pronunciation drills. Pick a language.</p>
         <div class="columns is-multiline">
             <div class="column is-one-third">
                 <a class="box" href="french/" lang="fr">
                     <p class="title is-5">Français</p>
-                    <p lang="en">Canadian (Québécois) French, for TEF Canada prep.</p>
+                    <p data-i18n="frenchCard">Canadian (Québécois) French, for TEF Canada prep.</p>
                 </a>
             </div>
         </div>
-        <p class="is-size-7"><a href="https://github.com/Bwca/learning_canadian-french">Source on GitHub</a></p>
+        <p class="is-size-7"><a href="https://github.com/Bwca/learning_canadian-french" data-i18n="source">Source on GitHub</a></p>
     </div>
+    <script src="i18n.js"></script>
+    <script>
+        defineStrings({
+            en: {
+                pageTitle: "Language learning",
+                intro: "Vocabulary, grammar and pronunciation drills. Pick a language.",
+                frenchCard: "Canadian (Québécois) French, for TEF Canada prep.",
+                source: "Source on GitHub",
+            },
+            uk: {
+                pageTitle: "Вивчення мов",
+                intro: "Лексика, граматика й вимова у вправах. Виберіть мову.",
+                frenchCard: "Канадська (квебекська) французька, підготовка до TEF Canada.",
+                source: "Код на GitHub",
+            },
+        });
+    </script>
 </body>
 </html>

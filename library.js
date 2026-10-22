@@ -3,6 +3,8 @@
 // drill sets in the repo, so the tools can fetch them instead of asking for a
 // local file. When opened locally (file://) there's no manifest and the picker
 // stays hidden — the "Choose a file…" input still works as before.
+// Needs ../i18n.js loaded first: labels follow the learner's language, and a set's
+// name is { en, uk } when its file has a translated title.
 async function fetchLibrary(kind) {
     try {
         const response = await fetch("manifest.json");
@@ -20,19 +22,17 @@ async function fetchLibraryFile(filePath) {
     return response.text();
 }
 
-// Single-choice dropdown, grouped by folder/topic. onPick(text, file) fires on selection.
-async function mountLibrarySelect(container, kind, placeholder, onPick) {
+// Single-choice dropdown, grouped by folder/topic. placeholderKey is an i18n key.
+// onPick(text, file) fires on selection.
+async function mountLibrarySelect(container, kind, placeholderKey, onPick) {
     const groups = await fetchLibrary(kind);
     if (!groups) return;
     const select = document.createElement("select");
-    select.setAttribute("aria-label", placeholder);
-    select.add(new Option(placeholder, ""));
-    groups.forEach(group => {
-        const optgroup = document.createElement("optgroup");
-        optgroup.label = group.label;
-        group.files.forEach(file => optgroup.appendChild(new Option(file.name, file.path)));
-        select.appendChild(optgroup);
-    });
+    select.dataset.i18nAttr = `aria-label:${placeholderKey}`;
+    select.innerHTML = `<option value="" data-i18n="${placeholderKey}"></option>` + groups.map(group => `
+        <optgroup label="${i18nEscape(group.label)}">${group.files.map(file => `
+            <option value="${i18nEscape(file.path)}" ${contentAttrs(file.name)}></option>`).join("")}
+        </optgroup>`).join("");
     select.addEventListener("change", async () => {
         if (!select.value) return;
         const file = groups.flatMap(group => group.files).find(f => f.path === select.value);
@@ -42,8 +42,9 @@ async function mountLibrarySelect(container, kind, placeholder, onPick) {
             alert(error.message);
         }
     });
-    container.innerHTML = `<div class="select is-fullwidth"></div><p class="help">…or choose a file from your computer:</p>`;
+    container.innerHTML = `<div class="select is-fullwidth"></div><p class="help" data-i18n="orChooseFile"></p>`;
     container.firstElementChild.appendChild(select);
+    applyTranslations(container);
     container.classList.remove("hidden");
 }
 
@@ -57,11 +58,12 @@ async function mountLibraryChecklist(container, kind, onChange) {
         <p class="has-text-weight-semibold mt-2">${group.label}</p>
         <div>${group.files.map(file => `
             <label class="checkbox mr-3"><input type="checkbox" value="${file.path}" data-name="${group.label} / ${file.name}"> ${file.name}</label>`).join("")}
-        </div>`).join("")}</details><p class="help mt-2">…or choose files from your computer:</p>`;
+        </div>`).join("")}</details><p class="help mt-2" data-i18n="orChooseFiles"></p>`;
     const summary = container.querySelector("summary");
+    summary.dataset.i18n = "listsChosen";
     const countChosen = () => {
-        const chosen = container.querySelectorAll("input:checked").length;
-        summary.textContent = `Lists: ${chosen} chosen`;
+        summary.dataset.i18nVars = JSON.stringify({ n: container.querySelectorAll("input:checked").length });
+        applyTranslations(container);
     };
     countChosen();
     container.addEventListener("change", countChosen);

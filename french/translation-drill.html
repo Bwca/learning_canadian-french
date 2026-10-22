@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>French Translation Drill</title>
+    <title data-i18n="pageTitle">French Translation Drill</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
     <style>
         :root { --font-scale: 1; }
@@ -37,19 +37,19 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="title">French Translation Drill</h1>
-        <p class="subtitle is-6">
+        <h1 class="title" data-i18n="pageTitle">French Translation Drill</h1>
+        <p class="subtitle is-6" data-i18n="intro">
             Translate each sentence into French, then check your answers. Vocabulary hints keep the French blurred —
             hover over (or tap) a tag to reveal it, click it to hear it,
             or click 🔊 next to your own answer to hear it read back at any time — no need to check first.
             Checking is exact-match, so use "Mark as Correct" for valid phrasings that differ from the reference.
         </p>
 
-        <div class="font-size-toolbar" role="group" aria-label="Text size controls">
-            <span id="fontSizeLabel">Text size: <span id="fontSizeValue">100%</span></span>
-            <button type="button" class="button is-small" id="fontDecrease" aria-label="Decrease text size">A−</button>
-            <button type="button" class="button is-small" id="fontReset" aria-label="Reset text size to default">Reset</button>
-            <button type="button" class="button is-small" id="fontIncrease" aria-label="Increase text size">A+</button>
+        <div class="font-size-toolbar" role="group" data-i18n-attr="aria-label:textSizeControls">
+            <span id="fontSizeLabel"><span data-i18n="textSize">Text size:</span> <span id="fontSizeValue">100%</span></span>
+            <button type="button" class="button is-small" id="fontDecrease" data-i18n-attr="aria-label:textSmaller">A−</button>
+            <button type="button" class="button is-small" id="fontReset" data-i18n-attr="aria-label:textReset" data-i18n="textResetButton">Reset</button>
+            <button type="button" class="button is-small" id="fontIncrease" data-i18n-attr="aria-label:textBigger">A+</button>
         </div>
 
         <div class="field hidden" id="library"></div>
@@ -58,13 +58,13 @@
                 <label class="file-label">
                     <input class="file-input" type="file" id="fileInput" accept=".json">
                     <span class="file-cta">
-                        <span class="file-label">Choose an exercise…</span>
+                        <span class="file-label" data-i18n="chooseFile">Choose an exercise…</span>
                     </span>
                 </label>
             </div>
         </div>
         <div class="field">
-            <label class="label" for="voiceSelect">French voice</label>
+            <label class="label" for="voiceSelect" data-i18n="frenchVoice">French voice</label>
             <div class="control">
                 <div class="select">
                     <select id="voiceSelect"></select>
@@ -74,7 +74,7 @@
             <p id="speechError" class="help has-text-danger" aria-live="polite"></p>
         </div>
         <div class="field">
-            <label class="label" for="speechRate">Speech speed: <span id="speechRateValue">100%</span></label>
+            <label class="label" for="speechRate"><span data-i18n="speechSpeed">Speech speed:</span> <span id="speechRateValue">100%</span></label>
             <div class="control">
                 <input type="range" id="speechRate" min="0.5" max="1.5" step="0.1" value="1">
             </div>
@@ -83,14 +83,46 @@
             <h2 class="subtitle" id="exerciseTitle"></h2>
             <div id="exerciseList"></div>
             <div class="buttons is-centered">
-                <button class="button is-primary" id="checkButton">Check Answers</button>
-                <button class="button is-info" id="readAllButton" disabled>🔊 Read All Corrections</button>
+                <button class="button is-primary" id="checkButton" data-i18n="checkAnswers">Check Answers</button>
+                <button class="button is-info" id="readAllButton" disabled data-i18n="readAll">🔊 Read All Corrections</button>
             </div>
             <p id="score" class="mt-4" aria-live="polite"></p>
         </div>
     </div>
+    <script src="../i18n.js"></script>
     <script src="../library.js"></script>
     <script>
+        defineStrings({
+            en: {
+                pageTitle: "French Translation Drill",
+                intro: "Translate each sentence into French, then check your answers. Vocabulary hints keep the French blurred — hover over (or tap) a tag to reveal it, click it to hear it, or click 🔊 next to your own answer to hear it read back at any time — no need to check first. Checking is exact-match, so use \"Mark as Correct\" for valid phrasings that differ from the reference.",
+                chooseFile: "Choose an exercise…",
+                pickSet: "Pick an exercise set…",
+                checkAnswers: "Check Answers",
+                readAll: "🔊 Read All Corrections",
+                answerLabel: "Your French translation for sentence {n}",
+                answerPlaceholder: "Your translation…",
+                hearOwnAnswer: "Read sentence {n}'s answer back to me",
+                correct: "✅ Correct!",
+                correctIs: "❌ Correct:",
+                hearCorrection: "Hear the correct answer for this sentence",
+            },
+            uk: {
+                pageTitle: "Переклад речень французькою",
+                intro: "Перекладіть кожне речення французькою, потім перевірте відповіді. У підказках французьке слово розмите — наведіть на підказку (або торкніться), щоб його побачити, натисніть, щоб почути, або натисніть 🔊 біля своєї відповіді, щоб прослухати її будь-коли, не чекаючи перевірки. Перевірка вимагає точного збігу, тож для правильних варіантів, які відрізняються від еталона, позначайте «Зарахувати».",
+                chooseFile: "Виберіть вправу…",
+                pickSet: "Виберіть набір вправ…",
+                checkAnswers: "Перевірити відповіді",
+                readAll: "🔊 Прочитати всі правильні відповіді",
+                answerLabel: "Ваш французький переклад речення {n}",
+                answerPlaceholder: "Ваш переклад…",
+                hearOwnAnswer: "Прочитати мою відповідь на речення {n}",
+                correct: "✅ Правильно!",
+                correctIs: "❌ Правильно:",
+                hearCorrection: "Прослухати правильну відповідь на це речення",
+            },
+        });
+
         let exercises = [];
         let frenchVoices = [];
         let selectedVoice = null;
@@ -104,10 +136,8 @@
         // browser or Windows update changes how they're provisioned.
         function reportSpeechFailure(lang) {
             const voice = lang.toLowerCase().startsWith("fr") ? selectedVoice : null;
-            const hint = voice && !voice.localService
-                ? `"${voice.name}" is a network voice and didn't respond. This commonly happens after a browser or Windows update changes network-voice availability — try switching to a local voice above.`
-                : "The selected voice didn't respond. Try again, or check your system's speech/audio settings.";
-            speechError.textContent = `⚠️ Speech failed: ${hint}`;
+            if (voice && !voice.localService) setText(speechError, "speechFailedNetwork", { voice: voice.name });
+            else setText(speechError, "speechFailedGeneric");
         }
         const VOICE_STORAGE_KEY = "translationDrillVoiceURI";
         const FONT_SCALE_KEY = "translationDrillFontScale";
@@ -148,8 +178,8 @@
             frenchVoices = voices.filter(v => v.lang.toLowerCase().startsWith("fr"));
 
             if (frenchVoices.length === 0) {
-                voiceSelect.innerHTML = `<option value="">No French voice installed</option>`;
-                voiceIndicator.textContent = "⚠️ No fr-* voice found on this system — speech will fall back to the default system voice.";
+                voiceSelect.innerHTML = `<option value="" data-i18n="noFrenchVoice">${t("noFrenchVoice")}</option>`;
+                setText(voiceIndicator, "noFrenchVoiceHint");
                 selectedVoice = null;
                 return;
             }
@@ -175,10 +205,8 @@
 
         function describeSelectedVoice() {
             if (!selectedVoice) return;
-            const networkNote = selectedVoice.localService
-                ? ""
-                : " — this is a network voice; if it stays silent on the first click or two, try a local voice instead if one is listed";
-            voiceIndicator.textContent = `🔊 Using: ${selectedVoice.name} (${selectedVoice.lang})${networkNote}`;
+            setText(voiceIndicator, selectedVoice.localService ? "usingVoice" : "usingNetworkVoice",
+                { voice: `${selectedVoice.name} (${selectedVoice.lang})` });
         }
 
         voiceSelect.addEventListener("change", () => {
@@ -275,7 +303,7 @@
                         if (settled) return;
                         settled = true;
                         forget();
-                        speechError.textContent = "";
+                        clearText(speechError);
                         resolve();
                     };
                     utterance.onerror = () => {
@@ -297,7 +325,7 @@
             });
         }
 
-        mountLibrarySelect(document.getElementById("library"), "drills", "Pick an exercise set…", text => renderExercises(JSON.parse(text)));
+        mountLibrarySelect(document.getElementById("library"), "drills", "pickSet", text => renderExercises(JSON.parse(text)));
 
         document.getElementById("fileInput").addEventListener("change", async function () {
             const file = this.files[0];
@@ -308,7 +336,7 @@
         function renderExercises(data) {
             exercises = data.exercises || [];
 
-            document.getElementById("exerciseTitle").textContent = data.title || "";
+            document.getElementById("exerciseTitle").innerHTML = `<span ${contentAttrs(data.title || "")}></span>`;
             const list = document.getElementById("exerciseList");
             list.innerHTML = "";
 
@@ -317,24 +345,24 @@
                 box.classList.add("box", "exercise-box");
 
                 const vocabHtml = (exercise.vocab || [])
-                    .map(v => `<button type="button" class="tag is-light" data-fr="${escapeHtml(v.fr)}">🔊 <span lang="en">${escapeHtml(v.en)}</span> — <span class="vocab-fr" lang="fr">${escapeHtml(v.fr)}</span></button>`)
+                    .map(v => `<button type="button" class="tag is-light" data-fr="${escapeHtml(v.fr)}">🔊 <span ${contentAttrs(v)}></span> — <span class="vocab-fr" lang="fr">${escapeHtml(v.fr)}</span></button>`)
                     .join("");
 
                 box.innerHTML = `
-                    <p class="prompt" id="prompt-${index}">${index + 1}. <span lang="en">${escapeHtml(exercise.en)}</span></p>
+                    <p class="prompt" id="prompt-${index}">${index + 1}. <span ${contentAttrs(exercise)}></span></p>
                     <div class="vocab-hints">${vocabHtml}</div>
-                    <label class="is-sr-only" for="answer-${index}">Your French translation for sentence ${index + 1}: ${escapeHtml(exercise.en)}</label>
+                    <label class="is-sr-only" for="answer-${index}" data-i18n="answerLabel" data-i18n-vars='{"n":${index + 1}}'></label>
                     <div class="field has-addons answer-row">
                         <div class="control is-expanded">
-                            <input id="answer-${index}" class="input answer" type="text" lang="fr" data-correct="${escapeHtml(exercise.fr)}" placeholder="Your translation…" aria-describedby="prompt-${index}">
+                            <input id="answer-${index}" class="input answer" type="text" lang="fr" data-correct="${escapeHtml(exercise.fr)}" data-i18n-attr="placeholder:answerPlaceholder" aria-describedby="prompt-${index}">
                         </div>
                         <div class="control">
-                            <button type="button" class="button speak-own-answer" aria-label="Read sentence ${index + 1}'s answer back to me">🔊</button>
+                            <button type="button" class="button speak-own-answer" data-i18n-attr="aria-label:hearOwnAnswer" data-i18n-vars='{"n":${index + 1}}'>🔊</button>
                         </div>
                     </div>
                     <p class="correct-answer hidden" aria-live="polite"></p>
                     <label class="checkbox hidden override-label">
-                        <input type="checkbox" class="override-correct"> Mark as Correct
+                        <input type="checkbox" class="override-correct"> <span data-i18n="markCorrect"></span>
                     </label>
                 `;
                 list.appendChild(box);
@@ -349,9 +377,10 @@
                 box.querySelector(".speak-own-answer").addEventListener("click", () => speak(input.value, "fr-CA"));
             });
 
+            applyTranslations(document.getElementById("exerciseForm"));
             document.getElementById("exerciseForm").classList.remove("hidden");
             document.getElementById("readAllButton").disabled = true;
-            document.getElementById("score").textContent = "";
+            clearText(document.getElementById("score"));
         }
 
         document.getElementById("checkButton").addEventListener("click", function () {
@@ -368,14 +397,16 @@
                     input.classList.add("correct");
                     input.classList.remove("incorrect");
                     input.setAttribute("aria-invalid", "false");
-                    correctAnswerDisplay.innerHTML = "✅ Correct!";
+                    correctAnswerDisplay.innerHTML = `<span data-i18n="correct"></span>`;
                     correctAnswerDisplay.classList.remove("hidden");
+                    applyTranslations(correctAnswerDisplay);
                 } else {
                     input.classList.add("incorrect");
                     input.classList.remove("correct");
                     input.setAttribute("aria-invalid", "true");
-                    correctAnswerDisplay.innerHTML = `❌ Correct: <span lang="fr">${escapeHtml(input.dataset.correct)}</span> <button class="button is-small is-info speak-correction" type="button" aria-label="Hear the correct answer for this sentence">🔊</button>`;
+                    correctAnswerDisplay.innerHTML = `<span data-i18n="correctIs"></span> <span lang="fr">${escapeHtml(input.dataset.correct)}</span> <button class="button is-small is-info speak-correction" type="button" data-i18n-attr="aria-label:hearCorrection">🔊</button>`;
                     correctAnswerDisplay.classList.remove("hidden");
+                    applyTranslations(correctAnswerDisplay);
                     correctAnswerDisplay.querySelector(".speak-correction")
                         .addEventListener("click", () => speak(input.dataset.correct, "fr-CA"));
                 }
@@ -398,8 +429,8 @@
                     correctCount++;
                 }
             });
-            document.getElementById("score").textContent =
-                `Score: ${correctCount} / ${boxes.length} (${Math.round((correctCount / boxes.length) * 100)}%)`;
+            setText(document.getElementById("score"), "score",
+                { correct: correctCount, total: boxes.length, percent: Math.round((correctCount / boxes.length) * 100) });
         }
 
         const REPEAT_AFTER_ME_PAUSE_MS = 3000;

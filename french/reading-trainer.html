@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>French Reading Trainer</title>
+    <title data-i18n="pageTitle">French Reading Trainer</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
     <style>
         :root { --font-scale: 1; }
@@ -36,18 +36,18 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="title">French Reading Trainer</h1>
-        <p class="subtitle is-6">
+        <h1 class="title" data-i18n="pageTitle">French Reading Trainer</h1>
+        <p class="subtitle is-6" data-i18n="intro">
             Read the passage aloud yourself first, then listen to compare. The sounds being trained are shown in red —
             turn the marks off to try spotting them on your own. Click the 🔊 sound in the title to hear it on its own, and any sentence to hear just that sentence;
             show the translation when you need it.
         </p>
 
-        <div class="font-size-toolbar" role="group" aria-label="Text size controls">
-            <span id="fontSizeLabel">Text size: <span id="fontSizeValue">100%</span></span>
-            <button type="button" class="button is-small" id="fontDecrease" aria-label="Decrease text size">A−</button>
-            <button type="button" class="button is-small" id="fontReset" aria-label="Reset text size to default">Reset</button>
-            <button type="button" class="button is-small" id="fontIncrease" aria-label="Increase text size">A+</button>
+        <div class="font-size-toolbar" role="group" data-i18n-attr="aria-label:textSizeControls">
+            <span id="fontSizeLabel"><span data-i18n="textSize">Text size:</span> <span id="fontSizeValue">100%</span></span>
+            <button type="button" class="button is-small" id="fontDecrease" data-i18n-attr="aria-label:textSmaller">A−</button>
+            <button type="button" class="button is-small" id="fontReset" data-i18n-attr="aria-label:textReset" data-i18n="textResetButton">Reset</button>
+            <button type="button" class="button is-small" id="fontIncrease" data-i18n-attr="aria-label:textBigger">A+</button>
         </div>
 
         <div class="field hidden" id="library"></div>
@@ -56,13 +56,13 @@
                 <label class="file-label">
                     <input class="file-input" type="file" id="fileInput" accept=".json">
                     <span class="file-cta">
-                        <span class="file-label">Choose a reading exercise…</span>
+                        <span class="file-label" data-i18n="chooseFile">Choose a reading exercise…</span>
                     </span>
                 </label>
             </div>
         </div>
         <div class="field">
-            <label class="label" for="voiceSelect">French voice</label>
+            <label class="label" for="voiceSelect" data-i18n="frenchVoice">French voice</label>
             <div class="control">
                 <div class="select">
                     <select id="voiceSelect"></select>
@@ -72,7 +72,7 @@
             <p id="speechError" class="help has-text-danger" aria-live="polite"></p>
         </div>
         <div class="field">
-            <label class="label" for="speechRate">Speech speed: <span id="speechRateValue">100%</span></label>
+            <label class="label" for="speechRate"><span data-i18n="speechSpeed">Speech speed:</span> <span id="speechRateValue">100%</span></label>
             <div class="control">
                 <input type="range" id="speechRate" min="0.5" max="1.5" step="0.1" value="1">
             </div>
@@ -80,24 +80,53 @@
         <div id="readingView" class="hidden">
             <h2 class="subtitle" id="readingTitle"></h2>
             <div class="toggles">
-                <label class="checkbox"><input type="checkbox" id="showMarks" checked> Highlight trained sounds</label>
-                <label class="checkbox"><input type="checkbox" id="showTranslation"> Show translation</label>
+                <label class="checkbox"><input type="checkbox" id="showMarks" checked> <span data-i18n="showMarks">Highlight trained sounds</span></label>
+                <label class="checkbox"><input type="checkbox" id="showTranslation"> <span data-i18n="showTranslation">Show translation</span></label>
             </div>
             <div class="buttons is-centered">
-                <button class="button is-primary" id="readAllButton">🔊 Read whole text</button>
-                <button class="button" id="stopButton" disabled>⏹ Stop</button>
+                <button class="button is-primary" id="readAllButton" data-i18n="readAll">🔊 Read whole text</button>
+                <button class="button" id="stopButton" disabled data-i18n="stop">⏹ Stop</button>
             </div>
             <div class="box reading-box">
                 <div id="focus"></div>
                 <p class="passage show-marks" id="passage" lang="fr"></p>
-                <p class="translation hidden" id="translation" lang="en"></p>
+                <p class="translation hidden" id="translation"></p>
                 <div class="vocab-hints" id="vocab"></div>
             </div>
         </div>
     </div>
+    <script src="../i18n.js"></script>
     <script src="../library.js"></script>
     <script>
+        defineStrings({
+            en: {
+                pageTitle: "French Reading Trainer",
+                intro: "Read the passage aloud yourself first, then listen to compare. The sounds being trained are shown in red — turn the marks off to try spotting them on your own. Click the 🔊 sound in the title to hear it on its own, and any sentence to hear just that sentence; show the translation when you need it.",
+                chooseFile: "Choose a reading exercise…",
+                pickReading: "Pick a reading exercise…",
+                showMarks: "Highlight trained sounds",
+                showTranslation: "Show translation",
+                readAll: "🔊 Read whole text",
+                stop: "⏹ Stop",
+                hearSound: "Hear the sound {symbol}",
+                hearSentence: "Hear sentence {n}",
+            },
+            uk: {
+                pageTitle: "Тренажер читання французькою",
+                intro: "Спершу прочитайте текст уголос самі, потім прослухайте й порівняйте. Звуки, які тренуєте, позначено червоним — вимкніть позначки, щоб спробувати знайти їх самостійно. Натисніть 🔊 зі звуком у заголовку, щоб почути його окремо, або будь-яке речення, щоб почути лише його; переклад показуйте, коли він потрібен.",
+                chooseFile: "Виберіть вправу з читання…",
+                pickReading: "Виберіть вправу з читання…",
+                showMarks: "Виділяти звуки, які тренуємо",
+                showTranslation: "Показати переклад",
+                readAll: "🔊 Прочитати весь текст",
+                stop: "⏹ Стоп",
+                hearSound: "Прослухати звук {symbol}",
+                hearSentence: "Прослухати речення {n}",
+            },
+        });
+
         let sentences = [];
+        let readingTitle = "";
         let frenchVoices = [];
         let selectedVoice = null;
 
@@ -110,10 +139,8 @@
         // browser or Windows update changes how they're provisioned.
         function reportSpeechFailure(lang) {
             const voice = lang.toLowerCase().startsWith("fr") ? selectedVoice : null;
-            const hint = voice && !voice.localService
-                ? `"${voice.name}" is a network voice and didn't respond. This commonly happens after a browser or Windows update changes network-voice availability — try switching to a local voice above.`
-                : "The selected voice didn't respond. Try again, or check your system's speech/audio settings.";
-            speechError.textContent = `⚠️ Speech failed: ${hint}`;
+            if (voice && !voice.localService) setText(speechError, "speechFailedNetwork", { voice: voice.name });
+            else setText(speechError, "speechFailedGeneric");
         }
         const VOICE_STORAGE_KEY = "readingTrainerVoiceURI";
         const FONT_SCALE_KEY = "readingTrainerFontScale";
@@ -158,7 +185,7 @@
             return escapeHtml(title).replace(/\[[^\]]+\]/g, symbol => {
                 const sample = SOUND_SAMPLES.get(symbol.normalize("NFC"));
                 return sample
-                    ? `<button type="button" class="sound-button" data-say="${escapeHtml(sample)}" aria-label="Hear the sound ${symbol}">🔊 ${symbol}</button>`
+                    ? `<button type="button" class="sound-button" data-say="${escapeHtml(sample)}" data-i18n-attr="aria-label:hearSound" data-i18n-vars='{"symbol":"${symbol}"}'>🔊 ${symbol}</button>`
                     : symbol;
             });
         }
@@ -191,8 +218,8 @@
             frenchVoices = voices.filter(v => v.lang.toLowerCase().startsWith("fr"));
 
             if (frenchVoices.length === 0) {
-                voiceSelect.innerHTML = `<option value="">No French voice installed</option>`;
-                voiceIndicator.textContent = "⚠️ No fr-* voice found on this system — speech will fall back to the default system voice.";
+                voiceSelect.innerHTML = `<option value="" data-i18n="noFrenchVoice">${t("noFrenchVoice")}</option>`;
+                setText(voiceIndicator, "noFrenchVoiceHint");
                 selectedVoice = null;
                 return;
             }
@@ -215,10 +242,8 @@
 
         function describeSelectedVoice() {
             if (!selectedVoice) return;
-            const networkNote = selectedVoice.localService
-                ? ""
-                : " — this is a network voice; if it stays silent on the first click or two, try a local voice instead if one is listed";
-            voiceIndicator.textContent = `🔊 Using: ${selectedVoice.name} (${selectedVoice.lang})${networkNote}`;
+            setText(voiceIndicator, selectedVoice.localService ? "usingVoice" : "usingNetworkVoice",
+                { voice: `${selectedVoice.name} (${selectedVoice.lang})` });
         }
 
         voiceSelect.addEventListener("change", () => {
@@ -309,7 +334,7 @@
                         if (settled) return;
                         settled = true;
                         forget();
-                        speechError.textContent = "";
+                        clearText(speechError);
                         resolve();
                     };
                     utterance.onerror = event => {
@@ -382,7 +407,7 @@
         showTranslation.addEventListener("change", () => { localStorage.setItem(SHOW_TRANSLATION_KEY, showTranslation.checked); applyToggles(); });
         applyToggles();
 
-        mountLibrarySelect(document.getElementById("library"), "reading", "Pick a reading exercise…", text => renderReading(JSON.parse(text)));
+        mountLibrarySelect(document.getElementById("library"), "reading", "pickReading", text => renderReading(JSON.parse(text)));
 
         document.getElementById("fileInput").addEventListener("change", async function () {
             const file = this.files[0];
@@ -394,27 +419,25 @@
             stopPlayback();
             sentences = data.sentences || [];
 
-            document.getElementById("readingTitle").innerHTML = titleToHtml(data.title || "");
-            document.querySelectorAll("#readingTitle .sound-button").forEach(button => {
-                button.addEventListener("click", () => { stopPlayback(); speak(button.dataset.say, "fr-CA"); });
-            });
+            readingTitle = data.title || "";
+            renderTitle();
 
             const soundsHtml = (data.sounds || [])
                 .map(s => `<span class="tag is-danger is-light" lang="fr">${escapeHtml(s)}</span>`)
                 .join("");
             document.getElementById("focus").innerHTML = data.focus || soundsHtml
-                ? `<div class="focus-sounds">${soundsHtml}</div><p class="focus-note">${escapeHtml(data.focus || "")}</p>`
+                ? `<div class="focus-sounds">${soundsHtml}</div><p class="focus-note" ${contentAttrs(data.focus || "")}></p>`
                 : "";
 
             // Sentences sit inline as one flowing paragraph; each French sentence
-            // and its English counterpart share an index so they light up together.
-            const sentenceSpan = (html, index, lang) =>
-                `<span class="sentence" data-index="${index}" tabindex="0" role="button" lang="${lang}"
-                    aria-label="Hear sentence ${index + 1}">${html}</span>`;
+            // and its translation share an index so they light up together.
+            const sentenceSpan = (index, attrs, html = "") =>
+                `<span class="sentence" data-index="${index}" tabindex="0" role="button" ${attrs}
+                    data-i18n-attr="aria-label:hearSentence" data-i18n-vars='{"n":${index + 1}}'>${html}</span>`;
             document.getElementById("passage").innerHTML =
-                sentences.map((s, i) => sentenceSpan(markupToHtml(s.fr), i, "fr")).join(" ");
+                sentences.map((s, i) => sentenceSpan(i, `lang="fr"`, markupToHtml(s.fr))).join(" ");
             document.getElementById("translation").innerHTML =
-                sentences.map((s, i) => sentenceSpan(escapeHtml(s.en || ""), i, "en")).join(" ");
+                sentences.map((s, i) => sentenceSpan(i, contentAttrs(s))).join(" ");
 
             document.querySelectorAll(".sentence").forEach(el => {
                 const index = Number(el.dataset.index);
@@ -428,14 +451,29 @@
             });
 
             document.getElementById("vocab").innerHTML = (data.vocab || [])
-                .map(v => `<button type="button" class="tag is-light" data-fr="${escapeHtml(v.fr)}">🔊 <span lang="fr">${escapeHtml(v.fr)}</span> — <span lang="en">${escapeHtml(v.en)}</span></button>`)
+                .map(v => `<button type="button" class="tag is-light" data-fr="${escapeHtml(v.fr)}">🔊 <span lang="fr">${escapeHtml(v.fr)}</span> — <span ${contentAttrs(v)}></span></button>`)
                 .join("");
             document.querySelectorAll("#vocab .tag").forEach(tag => {
                 tag.addEventListener("click", () => speak(tag.dataset.fr, "fr-CA"));
             });
 
+            applyTranslations(document.getElementById("readingView"));
             document.getElementById("readingView").classList.remove("hidden");
         }
+
+        // The title is rebuilt rather than just re-translated, since its sound symbols become buttons.
+        function renderTitle() {
+            const title = document.getElementById("readingTitle");
+            title.innerHTML = titleToHtml(localized(readingTitle));
+            title.lang = contentLanguage(readingTitle);
+            title.querySelectorAll(".sound-button").forEach(button => {
+                button.lang = "fr";
+                button.addEventListener("click", () => { stopPlayback(); speak(button.dataset.say, "fr-CA"); });
+            });
+            applyTranslations(title);
+        }
+
+        document.addEventListener("uilanguagechange", renderTitle);
     </script>
 </body>
 </html>
