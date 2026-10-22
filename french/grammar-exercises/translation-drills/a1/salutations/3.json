@@ -1,0 +1,68 @@
+{
+  "title": "Salutations — greetings & politeness (set 3: thanks, please & excuse me)",
+  "exercises": [
+    {
+      "en": "Thank you very much!",
+      "fr": "Merci beaucoup!",
+      "vocab": []
+    },
+    {
+      "en": "You're welcome.",
+      "fr": "De rien.",
+      "vocab": [
+        { "fr": "de rien", "en": "you're welcome (it's nothing)" }
+      ]
+    },
+    {
+      "en": "My pleasure. (Québec)",
+      "fr": "Ça me fait plaisir.",
+      "vocab": [
+        { "fr": "faire plaisir", "en": "to please" }
+      ]
+    },
+    {
+      "en": "You're welcome! (Québec, with bienvenue)",
+      "fr": "Bienvenue!",
+      "vocab": [
+        { "fr": "bienvenue", "en": "welcome (Québec: also you're welcome)" }
+      ]
+    },
+    {
+      "en": "A coffee, please. (formal)",
+      "fr": "Un café, s'il vous plaît.",
+      "vocab": [
+        { "fr": "café", "en": "coffee" }
+      ]
+    },
+    {
+      "en": "Water, please. (informal)",
+      "fr": "De l'eau, s'il te plaît.",
+      "vocab": [
+        { "fr": "eau", "en": "water" }
+      ]
+    },
+    {
+      "en": "Excuse me, sir. (formal)",
+      "fr": "Excusez-moi, monsieur.",
+      "vocab": []
+    },
+    {
+      "en": "Excuse me, Paul. (informal)",
+      "fr": "Excuse-moi, Paul.",
+      "vocab": []
+    },
+    {
+      "en": "Forgive me, I'm late. (formal)",
+      "fr": "Pardonnez-moi, je suis en retard.",
+      "vocab": [
+        { "fr": "pardonner", "en": "to forgive" },
+        { "fr": "être en retard", "en": "to be late" }
+      ]
+    },
+    {
+      "en": "Sorry? (didn't hear)",
+      "fr": "Pardon?",
+      "vocab": []
+    }
+  ]
+}

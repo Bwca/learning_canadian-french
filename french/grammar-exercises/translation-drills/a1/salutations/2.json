@@ -1,0 +1,66 @@
+{
+  "title": "Salutations — greetings & politeness (set 2: how are you?)",
+  "exercises": [
+    {
+      "en": "How's it going?",
+      "fr": "Comment ça va?",
+      "vocab": []
+    },
+    {
+      "en": "How are you? (formal)",
+      "fr": "Comment allez-vous?",
+      "vocab": [
+        { "fr": "aller", "en": "to go (here: to be doing)" }
+      ]
+    },
+    {
+      "en": "How are you? (informal)",
+      "fr": "Comment vas-tu?",
+      "vocab": []
+    },
+    {
+      "en": "Yes, I'm doing well, and you? (informal)",
+      "fr": "Oui, ça va bien, et toi?",
+      "vocab": []
+    },
+    {
+      "en": "I'm fine, thanks, and you? (formal)",
+      "fr": "Ça va, merci, et vous?",
+      "vocab": []
+    },
+    {
+      "en": "I'm not doing well today.",
+      "fr": "Ça va mal aujourd'hui.",
+      "vocab": [
+        { "fr": "mal", "en": "badly" }
+      ]
+    },
+    {
+      "en": "I'm doing pretty good. (Québec, with ça va)",
+      "fr": "Ça va pas mal.",
+      "vocab": [
+        { "fr": "pas mal", "en": "not bad (Québec: pretty good)" }
+      ]
+    },
+    {
+      "en": "So-so.",
+      "fr": "Comme ci, comme ça.",
+      "vocab": []
+    },
+    {
+      "en": "What's new?",
+      "fr": "Quoi de neuf?",
+      "vocab": [
+        { "fr": "neuf", "en": "new" }
+      ]
+    },
+    {
+      "en": "Long time no see! How's life?",
+      "fr": "Ça fait longtemps! Comment va la vie?",
+      "vocab": [
+        { "fr": "ça fait longtemps", "en": "it's been a long time" },
+        { "fr": "la vie", "en": "life" }
+      ]
+    }
+  ]
+}

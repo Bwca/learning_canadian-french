@@ -1,0 +1,72 @@
+{
+  "title": "Salutations — greetings & politeness (set 4: goodbyes & good wishes)",
+  "exercises": [
+    {
+      "en": "Goodbye, ma'am.",
+      "fr": "Au revoir, madame.",
+      "vocab": []
+    },
+    {
+      "en": "See you soon!",
+      "fr": "À bientôt!",
+      "vocab": [
+        { "fr": "bientôt", "en": "soon" }
+      ]
+    },
+    {
+      "en": "See you tomorrow!",
+      "fr": "À demain!",
+      "vocab": []
+    },
+    {
+      "en": "See you later! (later today)",
+      "fr": "À tout à l'heure!",
+      "vocab": [
+        { "fr": "tout à l'heure", "en": "in a little while" }
+      ]
+    },
+    {
+      "en": "See you later! (with plus tard)",
+      "fr": "À plus tard!",
+      "vocab": [
+        { "fr": "plus tard", "en": "later" }
+      ]
+    },
+    {
+      "en": "Until next time!",
+      "fr": "À la prochaine!",
+      "vocab": [
+        { "fr": "prochaine", "en": "next (one)" }
+      ]
+    },
+    {
+      "en": "I have to go, have a good day!",
+      "fr": "Je dois y aller, bonne journée!",
+      "vocab": [
+        { "fr": "je dois y aller", "en": "I have to go (there)" },
+        { "fr": "journée", "en": "day" }
+      ]
+    },
+    {
+      "en": "Have a good evening!",
+      "fr": "Bonne soirée!",
+      "vocab": [
+        { "fr": "soirée", "en": "evening" }
+      ]
+    },
+    {
+      "en": "Good night, mom.",
+      "fr": "Bonne nuit, maman.",
+      "vocab": [
+        { "fr": "nuit", "en": "night" }
+      ]
+    },
+    {
+      "en": "Have a good weekend! (Québec)",
+      "fr": "Bonne fin de semaine!",
+      "vocab": [
+        { "fr": "fin de semaine", "en": "weekend (Québec)" }
+      ]
+    }
+  ]
+}

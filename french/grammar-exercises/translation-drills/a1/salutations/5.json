@@ -1,0 +1,65 @@
+{
+  "title": "Salutations — greetings & politeness (set 5: mixed review — short exchanges)",
+  "exercises": [
+    {
+      "en": "Hi, what's new?",
+      "fr": "Salut, quoi de neuf?",
+      "vocab": []
+    },
+    {
+      "en": "Hello, how are you? (formal)",
+      "fr": "Bonjour, comment allez-vous?",
+      "vocab": []
+    },
+    {
+      "en": "Hi Marie, how's your day going?",
+      "fr": "Salut Marie, comment se passe ta journée?",
+      "vocab": [
+        { "fr": "se passer", "en": "to go (how something goes)" }
+      ]
+    },
+    {
+      "en": "What have you been up to? (informal)",
+      "fr": "Qu'est-ce que tu deviens?",
+      "vocab": [
+        { "fr": "devenir", "en": "to become" }
+      ]
+    },
+    {
+      "en": "Hello? (answering the phone, Québec)",
+      "fr": "Allô?",
+      "vocab": [
+        { "fr": "allô", "en": "hello? (phone) / hi (Québec)" }
+      ]
+    },
+    {
+      "en": "Nice to see you. (formal, said by a man)",
+      "fr": "Ravi de vous voir.",
+      "vocab": [
+        { "fr": "voir", "en": "to see" }
+      ]
+    },
+    {
+      "en": "My name is Luc, and you? (informal)",
+      "fr": "Je m'appelle Luc, et toi?",
+      "vocab": []
+    },
+    {
+      "en": "Thanks, see you soon!",
+      "fr": "Merci, à bientôt!",
+      "vocab": []
+    },
+    {
+      "en": "See you again soon! (with on)",
+      "fr": "On se revoit bientôt!",
+      "vocab": [
+        { "fr": "se revoir", "en": "to see each other again" }
+      ]
+    },
+    {
+      "en": "Excuse me, do you speak English? (formal)",
+      "fr": "Excusez-moi, est-ce que vous parlez anglais?",
+      "vocab": []
+    }
+  ]
+}

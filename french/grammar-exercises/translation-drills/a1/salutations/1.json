@@ -1,0 +1,74 @@
+{
+  "title": "Salutations — greetings & politeness (set 1: hello & introductions)",
+  "exercises": [
+    {
+      "en": "Hello, my name is Julie.",
+      "fr": "Bonjour, je m'appelle Julie.",
+      "vocab": [
+        { "fr": "s'appeler", "en": "to be called (je m'appelle = my name is)" }
+      ]
+    },
+    {
+      "en": "Hi, my name is Marc.",
+      "fr": "Salut, je m'appelle Marc.",
+      "vocab": [
+        { "fr": "salut", "en": "hi (informal)" }
+      ]
+    },
+    {
+      "en": "Good evening, ma'am.",
+      "fr": "Bonsoir, madame.",
+      "vocab": [
+        { "fr": "bonsoir", "en": "good evening" }
+      ]
+    },
+    {
+      "en": "Hello everyone!",
+      "fr": "Bonjour à tous!",
+      "vocab": [
+        { "fr": "à tous", "en": "everyone (to all)" }
+      ]
+    },
+    {
+      "en": "My name is Sophie Tremblay. (with nom)",
+      "fr": "Mon nom est Sophie Tremblay.",
+      "vocab": [
+        { "fr": "nom", "en": "name" }
+      ]
+    },
+    {
+      "en": "I am Canadian. (masc.)",
+      "fr": "Je suis canadien.",
+      "vocab": [
+        { "fr": "canadien / canadienne", "en": "Canadian" }
+      ]
+    },
+    {
+      "en": "I speak French and English.",
+      "fr": "Je parle français et anglais.",
+      "vocab": []
+    },
+    {
+      "en": "Nice to meet you. (said by a woman)",
+      "fr": "Enchantée.",
+      "vocab": [
+        { "fr": "enchanté / enchantée", "en": "nice to meet you" }
+      ]
+    },
+    {
+      "en": "Nice to meet you, sir. (formal, said by a man)",
+      "fr": "Ravi de vous rencontrer, monsieur.",
+      "vocab": [
+        { "fr": "ravi de", "en": "delighted to" },
+        { "fr": "rencontrer", "en": "to meet" }
+      ]
+    },
+    {
+      "en": "Welcome to Montréal!",
+      "fr": "Bienvenue à Montréal!",
+      "vocab": [
+        { "fr": "bienvenue", "en": "welcome" }
+      ]
+    }
+  ]
+}
