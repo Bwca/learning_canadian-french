@@ -28,6 +28,8 @@
         .focus-mode .translation { font-size: 30px; }
         .focus-mode .ipa { font-size: 28px; }
         .focus-mode .buttons { justify-content: center; }
+        /* Beside the buttons so it can be flipped mid-session, full screen included. */
+        #muteField { margin-top: 12px; }
     </style>
 </head>
 <body>
@@ -92,6 +94,12 @@
                 <button class="button" id="stopButton" data-i18n="stop">Stop</button>
                 <button class="button" id="focusButton" data-i18n="fullScreen">Full screen</button>
             </div>
+            <div class="field" id="muteField">
+                <label class="checkbox">
+                    <input type="checkbox" id="muteTranslations"> <span data-i18n="muteTranslations">Mute translations</span>
+                </label>
+                <p class="help" data-i18n="muteTranslationsHelp">Only the French is read aloud; the translation still stays on screen for about as long as reading it would take.</p>
+            </div>
         </div>
     </div>
     <script src="../i18n.js"></script>
@@ -111,6 +119,8 @@
                 frenchSpeed: "French speech speed:",
                 repetitions: "Repetitions",
                 randomize: "Randomize",
+                muteTranslations: "Mute translations",
+                muteTranslationsHelp: "Only the French is read aloud; the translation still stays on screen for about as long as reading it would take.",
                 keepAwake: "Keep screen on",
                 keepAwakeHelp: "Phones stop the speech when the screen turns off; this keeps it from timing out while the page is open.",
                 train: "Train",
@@ -137,6 +147,8 @@
                 frenchSpeed: "Швидкість французького мовлення:",
                 repetitions: "Повторень",
                 randomize: "Перемішати",
+                muteTranslations: "Не озвучувати переклад",
+                muteTranslationsHelp: "Уголос читається лише французька; переклад лишається на екрані приблизно стільки, скільки тривало б його читання.",
                 keepAwake: "Не вимикати екран",
                 keepAwakeHelp: "Телефони зупиняють мовлення, коли гасне екран; ця опція не дає йому згаснути, поки сторінка відкрита.",
                 train: "Тренувати",
@@ -175,6 +187,7 @@
         const VOICE_STORAGE_KEY = "audioDrillVoiceURI";
         const SPEECH_RATE_KEY = "audioDrillSpeechRate";
         const KEEP_AWAKE_KEY = "audioDrillKeepAwake";
+        const MUTE_TRANSLATIONS_KEY = "audioDrillMuteTranslations";
 
         function escapeHtml(str) {
             return String(str)
@@ -262,6 +275,13 @@
             applySpeechRate();
         });
         applySpeechRate();
+
+        // --- Mute translations (read only the French; checked per card, so flipping it mid-session applies from the next translation) ---
+        const muteTranslationsInput = document.getElementById("muteTranslations");
+        muteTranslationsInput.checked = localStorage.getItem(MUTE_TRANSLATIONS_KEY) === "true";
+        muteTranslationsInput.addEventListener("change", () => {
+            localStorage.setItem(MUTE_TRANSLATIONS_KEY, muteTranslationsInput.checked);
+        });
 
         // --- Keep screen on (Screen Wake Lock API; the browser drops the lock whenever the page is hidden) ---
         const keepAwakeInput = document.getElementById("keepAwake");
@@ -494,10 +514,12 @@
                     await speak(entry.french, "fr-CA", () => showEntry(entry, false));
                     if (!isTraining) return;
                     // English as before goes to the browser's default English voice; other languages need one of their own.
+                    // Muted, or with no voice for the language, the translation is shown silently for about as long as
+                    // reading it would take (rather than speaking at volume 0, which some phones ignore).
                     const translation = localized(entry.translation);
                     const translationLang = contentLanguage(entry.translation);
                     const voice = translationLang === "en" ? null : translationVoice(translationLang);
-                    if (translationLang === "en" || voice) {
+                    if (!muteTranslationsInput.checked && (translationLang === "en" || voice)) {
                         await speak(translation, UI_LANGUAGES[translationLang].speech, () => showEntry(entry, true), voice);
                     } else {
                         showEntry(entry, true);
