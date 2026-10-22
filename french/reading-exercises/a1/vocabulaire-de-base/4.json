@@ -1,0 +1,210 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 4: list a1-02, moving day)",
+    "uk": "Vocabulaire de base — базова лексика (набір 4: список a1-02, день переїзду)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Où » and « ou » sound exactly the same, [u]; only the accent tells “where” from “or” in writing. « Mon », « son » and « on » are nasal [ɔ̃], « mes » and « ses » are [me], [se], and « en » is the nasal [ɑ̃]. Liaison joins pronouns to a following vowel: « je te les apporte », « nous y allons » [nuz‿i alɔ̃], « j'en ai » [ʒɑ̃n‿e]. « Bien » is [bjɛ̃], « lui » is [lɥi]. In Québec casual speech, « lui » often becomes « y » (« j'y dis » = je lui dis), « moi » becomes « moé », and « je sais pas » shrinks to « ché pas ».",
+    "uk": "« Où » і « ou » звучать абсолютно однаково — [u]; лише на письмі наголос відрізняє «де» від «або». « Mon », « son » і « on » — носові [ɔ̃], « mes » і « ses » — це [me], [se], а « en » — носовий [ɑ̃]. Зв'язування (liaison) приєднує займенники до наступного голосного: « je te les apporte », « nous y allons » [nuz‿i alɔ̃], « j'en ai » [ʒɑ̃n‿e]. « Bien » — це [bjɛ̃], « lui » — [lɥi]. У невимушеному квебекському мовленні « lui » часто стає « y » (« j'y dis » = je lui dis), « moi » — « moé », а « je sais pas » скорочується до « ше па »."
+  },
+  "sentences": [
+    {
+      "fr": "Au Québec, le premier juillet, beaucoup de gens déménagent.",
+      "uk": "У Квебеку першого липня багато людей переїжджає.",
+      "en": "In Québec, on July first, a lot of people move."
+    },
+    {
+      "fr": "Mon ami Paul déménage aussi, et nous voulons l'aider.",
+      "uk": "Мій друг Поль теж переїжджає, і ми хочемо йому допомогти.",
+      "en": "My friend Paul is moving too, and we want to help him."
+    },
+    {
+      "fr": "Il m'appelle : « Est-ce que tu peux venir avec moi? »",
+      "uk": "Він дзвонить мені: « Можеш поїхати зі мною? »",
+      "en": "He calls me: “Can you come with me?”"
+    },
+    {
+      "fr": "« Non, je dois travailler le matin, mais je peux venir après. »",
+      "uk": "« Ні, зранку я мушу працювати, але можу приїхати потім. »",
+      "en": "“No, I have to work in the morning, but I can come after.”"
+    },
+    {
+      "fr": "« Où est-ce que tu habites maintenant? — Je ne sais pas le numéro! »",
+      "uk": "« А де ти тепер житимеш? — Я не знаю номера! »",
+      "en": "“Where do you live now? — I don't know the number!”"
+    },
+    {
+      "fr": "Ses livres sont sur la table, et sa lampe est dans une boîte.",
+      "uk": "Його книжки лежать на столі, а лампа — в коробці.",
+      "en": "His books are on the table, and his lamp is in a box."
+    },
+    {
+      "fr": "« Des boîtes? J'en ai trois, je te les apporte. »",
+      "uk": "« Коробки? У мене є три, я тобі їх принесу. »",
+      "en": "“Boxes? I have three, I'll bring them to you.”"
+    },
+    {
+      "fr": "Tu vois ce camion? C'est le camion de son père. Nous y allons ensemble.",
+      "uk": "Бачиш цю вантажівку? Це вантажівка його батька. Ми їдемо туди разом.",
+      "en": "Do you see that truck? It's his father's truck. We're going there together."
+    },
+    {
+      "fr": "On passe par le parc, et je pense que la nouvelle rue est loin.",
+      "uk": "Ми їдемо через парк, і, здається, нова вулиця далеко.",
+      "en": "We go through the park, and I think the new street is far."
+    },
+    {
+      "fr": "Le soir, on mange de la pizza, comme toujours. Tu veux de la bière ou de l'eau?",
+      "uk": "Увечері ми їмо піцу, як завжди. Хочеш пива чи води?",
+      "en": "In the evening, we eat pizza, like always. Do you want beer or water?"
+    },
+    {
+      "fr": "Paul est bien content, et je lui dis : « Bonne chance dans ta nouvelle maison! »",
+      "uk": "Поль дуже задоволений, і я кажу йому: « Щасти в новому домі! »",
+      "en": "Paul is very happy, and I say to him: “Good luck in your new home!”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "mon / ma / mes",
+      "en": "my",
+      "uk": "мій / моя / мої"
+    },
+    {
+      "fr": "nous",
+      "en": "we / us",
+      "uk": "ми / нас"
+    },
+    {
+      "fr": "vouloir",
+      "en": "to want",
+      "uk": "хотіти"
+    },
+    {
+      "fr": "le / la / les (pronom)",
+      "en": "him / her / it / them (object)",
+      "uk": "його / її / їх (додаток)"
+    },
+    {
+      "fr": "venir",
+      "en": "to come",
+      "uk": "приходити"
+    },
+    {
+      "fr": "avec",
+      "en": "with",
+      "uk": "з, разом з"
+    },
+    {
+      "fr": "moi",
+      "en": "me (stressed)",
+      "uk": "я, мене (наголошене)"
+    },
+    {
+      "fr": "non",
+      "en": "no",
+      "uk": "ні"
+    },
+    {
+      "fr": "devoir",
+      "en": "must / to have to / to owe",
+      "uk": "мусити, бути повинним / бути винним"
+    },
+    {
+      "fr": "pouvoir",
+      "en": "can / to be able to",
+      "uk": "могти, бути здатним"
+    },
+    {
+      "fr": "où",
+      "en": "where",
+      "uk": "де"
+    },
+    {
+      "fr": "savoir",
+      "en": "to know (a fact)",
+      "uk": "знати (факт), вміти"
+    },
+    {
+      "fr": "son / sa / ses",
+      "en": "his / her (masc.)",
+      "uk": "його / її (свій)"
+    },
+    {
+      "fr": "sur",
+      "en": "on",
+      "uk": "на"
+    },
+    {
+      "fr": "en (pronom)",
+      "en": "some / of it (pronoun)",
+      "uk": "його, цього, з цього (займенник)"
+    },
+    {
+      "fr": "te",
+      "en": "you / yourself (informal object)",
+      "uk": "тебе, тобі / себе (неформально)"
+    },
+    {
+      "fr": "voir",
+      "en": "to see",
+      "uk": "бачити"
+    },
+    {
+      "fr": "ce",
+      "en": "this / that / it (c'est)",
+      "uk": "це, те (c'est)"
+    },
+    {
+      "fr": "y",
+      "en": "there (j'y vais)",
+      "uk": "туди, там (j'y vais)"
+    },
+    {
+      "fr": "par",
+      "en": "by / through",
+      "uk": "через, за допомогою, ким"
+    },
+    {
+      "fr": "que",
+      "en": "that / what / than",
+      "uk": "що, який / ніж"
+    },
+    {
+      "fr": "comme",
+      "en": "like / as",
+      "uk": "як, наче / як (у ролі)"
+    },
+    {
+      "fr": "ou",
+      "en": "or",
+      "uk": "або, чи"
+    },
+    {
+      "fr": "bien",
+      "en": "well",
+      "uk": "добре"
+    },
+    {
+      "fr": "lui",
+      "en": "him / her (to him / to her)",
+      "uk": "йому / їй"
+    },
+    {
+      "fr": "déménager",
+      "en": "to move (house)",
+      "uk": "переїжджати"
+    },
+    {
+      "fr": "la boîte",
+      "en": "the box",
+      "uk": "коробка"
+    },
+    {
+      "fr": "le camion",
+      "en": "the truck",
+      "uk": "вантажівка"
+    }
+  ]
+}

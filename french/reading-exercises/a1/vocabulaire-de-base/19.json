@@ -1,0 +1,220 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 19: list a1-10, the wedding)",
+    "uk": "Vocabulaire de base — базова лексика (набір 19: список a1-10, весілля)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Mari » and « (se) marie » sound the same, [maʁi]. « Chacun » ends in the nasal [œ̃], « roi » is [ʁwa], and « tiens » [tjɛ̃] has a silent s. Em before b is nasal: « embrasser » [ɑ̃bʁase]. « Meilleur » is [mɛjœʁ], with eill as a y sound. A colour with a second word doesn't agree: « une robe bleu clair », not « bleue claire ». In Québec, « rêve » has a long vowel that can slide toward « raève », and a final -bre shrinks in casual speech: « libre » ≈ « lib' ».",
+    "uk": "« Mari » і « (se) marie » звучать однаково — [maʁi]. « Chacun » закінчується носовим [œ̃], « roi » — це [ʁwa], а в « tiens » [tjɛ̃] s німе. em перед b носове: « embrasser » [ɑ̃bʁase]. « Meilleur » — це [mɛjœʁ], eill звучить як «й». Колір із другим словом не узгоджується: « une robe bleu clair », а не « bleue claire ». У Квебеку в « rêve » довгий голосний, який може ковзати до « раев », а кінцеве -bre у невимушеному мовленні скорочується: « libre » ≈ « ліб »."
+  },
+  "sentences": [
+    {
+      "fr": "Samedi, ma cousine Amélie se marie avec Thomas, le meilleur ami de mon frère.",
+      "uk": "У суботу моя двоюрідна сестра Амелі виходить заміж за Тома, найкращого друга мого брата.",
+      "en": "On Saturday, my cousin Amélie is marrying Thomas, my brother's best friend."
+    },
+    {
+      "fr": "C'est un jour important pour toute la famille.",
+      "uk": "Це важливий день для всієї родини.",
+      "en": "It's an important day for the whole family."
+    },
+    {
+      "fr": "Amélie choisit une couleur originale : sa robe est bleu clair.",
+      "uk": "Амелі обирає незвичайний колір: її сукня світло-блакитна.",
+      "en": "Amélie chooses an unusual colour: her dress is light blue."
+    },
+    {
+      "fr": "Dans son costume, Thomas ressemble à un roi.",
+      "uk": "У своєму костюмі Тома схожий на короля.",
+      "en": "In his suit, Thomas looks like a king."
+    },
+    {
+      "fr": "Ils se promettent de s'aimer toute la vie, puis ils s'embrassent.",
+      "uk": "Вони обіцяють одне одному кохатися все життя, а потім цілуються.",
+      "en": "They promise to love each other all their lives, then they kiss."
+    },
+    {
+      "fr": "Amélie me présente à sa nouvelle famille : « Pour moi, c'est un rêve! »",
+      "uk": "Амелі знайомить мене зі своєю новою родиною: « Для мене це мрія! »",
+      "en": "Amélie introduces me to her new family: “For me, it's a dream!”"
+    },
+    {
+      "fr": "Le soir, il y a de la musique, et chacun chante.",
+      "uk": "Увечері грає музика, і кожен співає.",
+      "en": "In the evening, there's music, and everyone sings."
+    },
+    {
+      "fr": "On coupe le gâteau, et le photographe prend des photos.",
+      "uk": "Ми розрізаємо торт, а фотограф фотографує.",
+      "en": "We cut the cake, and the photographer takes photos."
+    },
+    {
+      "fr": "Ma tante s'inquiète : il n'y a pas assez de gâteau! « Tiens, prends mon morceau! »",
+      "uk": "Моя тітка хвилюється: торта не вистачає! « На, візьми мій шматок! »",
+      "en": "My aunt is worried: there isn't enough cake! “Here, take my piece!”"
+    },
+    {
+      "fr": "Un garçon me demande : « Tu es libre pour danser? »",
+      "uk": "Якийсь хлопець питає мене: « Ти вільна? Потанцюємо? »",
+      "en": "A boy asks me: “Are you free to dance?”"
+    },
+    {
+      "fr": "Je dis : « Désolée, je suis fatiguée. » Je refuse d'abord, puis j'accepte. J'espère le revoir bientôt!",
+      "uk": "Я кажу: « Вибач, я втомилася. » Спершу я відмовляюся, а потім погоджуюся. Сподіваюся скоро побачити його знову!",
+      "en": "I say: “Sorry, I'm tired.” I refuse at first, then I accept. I hope to see him again soon!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "marier",
+      "en": "to marry (se marier = to get married)",
+      "uk": "одружувати (se marier = одружуватися)"
+    },
+    {
+      "fr": "meilleur / meilleure",
+      "en": "better / best",
+      "uk": "кращий / краща, найкращий"
+    },
+    {
+      "fr": "important / importante",
+      "en": "important",
+      "uk": "важливий / важлива"
+    },
+    {
+      "fr": "choisir",
+      "en": "to choose",
+      "uk": "вибирати"
+    },
+    {
+      "fr": "la couleur",
+      "en": "the colour",
+      "uk": "колір"
+    },
+    {
+      "fr": "bleu / bleue",
+      "en": "blue",
+      "uk": "синій / синя, блакитний"
+    },
+    {
+      "fr": "clair / claire",
+      "en": "clear / light (colour)",
+      "uk": "ясний / ясна, світлий"
+    },
+    {
+      "fr": "ressembler",
+      "en": "to look like / to resemble",
+      "uk": "бути схожим на"
+    },
+    {
+      "fr": "le roi",
+      "en": "the king",
+      "uk": "король"
+    },
+    {
+      "fr": "promettre",
+      "en": "to promise",
+      "uk": "обіцяти"
+    },
+    {
+      "fr": "embrasser",
+      "en": "to kiss / to hug",
+      "uk": "цілувати / обіймати"
+    },
+    {
+      "fr": "présenter",
+      "en": "to present / to introduce",
+      "uk": "представляти / знайомити"
+    },
+    {
+      "fr": "le rêve",
+      "en": "the dream",
+      "uk": "мрія / сон"
+    },
+    {
+      "fr": "la musique",
+      "en": "the music",
+      "uk": "музика"
+    },
+    {
+      "fr": "chacun",
+      "en": "each one / everyone",
+      "uk": "кожен"
+    },
+    {
+      "fr": "chanter",
+      "en": "to sing",
+      "uk": "співати"
+    },
+    {
+      "fr": "couper",
+      "en": "to cut",
+      "uk": "різати"
+    },
+    {
+      "fr": "la photo",
+      "en": "the photo",
+      "uk": "фото"
+    },
+    {
+      "fr": "s'inquiéter",
+      "en": "to worry (s'inquiéter)",
+      "uk": "хвилюватися, турбуватися"
+    },
+    {
+      "fr": "tiens",
+      "en": "here! / well! (tiens)",
+      "uk": "на! / ну ж! (tiens)"
+    },
+    {
+      "fr": "libre",
+      "en": "free (not busy)",
+      "uk": "вільний (не зайнятий)"
+    },
+    {
+      "fr": "désolé / désolée",
+      "en": "sorry",
+      "uk": "перепрошую, мені шкода"
+    },
+    {
+      "fr": "refuser",
+      "en": "to refuse",
+      "uk": "відмовлятися"
+    },
+    {
+      "fr": "accepter",
+      "en": "to accept",
+      "uk": "приймати, погоджуватися"
+    },
+    {
+      "fr": "revoir",
+      "en": "to see again",
+      "uk": "знову побачити"
+    },
+    {
+      "fr": "la cousine",
+      "en": "the (female) cousin",
+      "uk": "двоюрідна сестра"
+    },
+    {
+      "fr": "la robe",
+      "en": "the dress",
+      "uk": "сукня"
+    },
+    {
+      "fr": "le costume",
+      "en": "the suit",
+      "uk": "костюм"
+    },
+    {
+      "fr": "le photographe",
+      "en": "the photographer",
+      "uk": "фотограф"
+    },
+    {
+      "fr": "danser",
+      "en": "to dance",
+      "uk": "танцювати"
+    }
+  ]
+}

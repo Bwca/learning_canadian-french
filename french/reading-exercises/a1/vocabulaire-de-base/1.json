@@ -1,0 +1,185 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 1: list a1-01, at the restaurant)",
+    "uk": "Vocabulaire de base — базова лексика (набір 1: список a1-01, у ресторані)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "Watch the silent letters: « fils » is [fis] (no l, but the s is said), while « mois » and « toilettes » end silently. « Quel », « quelle » and « quelles » all sound the same, [kɛl], and « tout » is [tu] (the t is heard only in « toute », [tut]). In Québec the â of « pâtes » is a long, deep [ɑ], so it doesn't sound like « pattes »; « moi » often becomes « moé » in casual speech, and people answer « merci » with « bienvenue » more often than « de rien ».",
+    "uk": "Стежте за німими літерами: « fils » — це [fis] (l не вимовляється, а s — так), а « mois » і « toilettes » закінчуються беззвучно. « Quel », « quelle » і « quelles » звучать однаково — [kɛl], а « tout » — це [tu] (t чути лише в « toute », [tut]). У Квебеку â в « pâtes » — довгий, глибокий [ɑ], тож це слово не звучить як « pattes »; « moi » у невимушеному мовленні часто стає « moé », а на « merci » частіше відповідають « bienvenue », ніж « de rien »."
+  },
+  "sentences": [
+    {
+      "fr": "Chaque mois, Marc mange au restaurant avec son fils et quelques amis.",
+      "uk": "Щомісяця Марк вечеряє в ресторані зі своїм сином і кількома друзями.",
+      "en": "Every month, Marc eats at the restaurant with his son and a few friends."
+    },
+    {
+      "fr": "Ce soir, toute la bande est là.",
+      "uk": "Сьогодні ввечері вся компанія тут.",
+      "en": "Tonight, the whole gang is there."
+    },
+    {
+      "fr": "« Bonjour! Voici le menu », dit la serveuse.",
+      "uk": "« Добрий вечір! Ось меню », — каже офіціантка.",
+      "en": "“Hello! Here's the menu,” says the waitress."
+    },
+    {
+      "fr": "Marc présente son fils, et la serveuse dit : « Enchantée! »",
+      "uk": "Марк знайомить її зі своїм сином, і офіціантка каже: « Приємно познайомитися! »",
+      "en": "Marc introduces his son, and the waitress says: “Nice to meet you!”"
+    },
+    {
+      "fr": "« Quelles pâtes est-ce que vous voulez? »",
+      "uk": "« Які макарони ви хочете? »",
+      "en": "“Which pasta do you want?”"
+    },
+    {
+      "fr": "Le fils ne veut rien, parce qu'il n'a pas faim.",
+      "uk": "Син нічого не хоче, бо він не голодний.",
+      "en": "The son doesn't want anything, because he isn't hungry."
+    },
+    {
+      "fr": "Les amis de Marc, eux, ont faim, donc ils prennent leurs pâtes préférées.",
+      "uk": "А от друзі Марка голодні, тож вони беруть свої улюблені макарони.",
+      "en": "Marc's friends, though, are hungry, so they get their favourite pasta."
+    },
+    {
+      "fr": "« Oui, d'accord! Voilà! »",
+      "uk": "« Так, гаразд! Ось, будь ласка! »",
+      "en": "“Yes, OK! There you go!”"
+    },
+    {
+      "fr": "« Excusez-moi, où sont les toilettes? — Au fond, à droite. — Merci! — De rien. »",
+      "uk": "« Перепрошую, де туалет? — У глибині зали, праворуч. — Дякую! — Нема за що. »",
+      "en": "“Excuse me, where's the restroom? — At the back, on the right. — Thank you! — You're welcome.”"
+    },
+    {
+      "fr": "À la fin, tout le monde dit au revoir.",
+      "uk": "Наприкінці всі прощаються.",
+      "en": "At the end, everyone says goodbye."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "chaque",
+      "en": "each / every",
+      "uk": "кожен / кожна"
+    },
+    {
+      "fr": "le mois",
+      "en": "the month",
+      "uk": "місяць"
+    },
+    {
+      "fr": "le fils",
+      "en": "the son",
+      "uk": "син"
+    },
+    {
+      "fr": "quelques",
+      "en": "a few / some",
+      "uk": "кілька, декілька"
+    },
+    {
+      "fr": "de",
+      "en": "of / from",
+      "uk": "з, від; (родовий відмінок)"
+    },
+    {
+      "fr": "ce / cet / cette / ces",
+      "en": "this / that / these / those",
+      "uk": "цей / ця / ці (той / та / ті)"
+    },
+    {
+      "fr": "tout / toute / tous / toutes",
+      "en": "all / every / whole",
+      "uk": "весь / вся / всі / цілий"
+    },
+    {
+      "fr": "voici / voilà",
+      "en": "here is / there is",
+      "uk": "ось / от"
+    },
+    {
+      "fr": "enchanté / enchantée",
+      "en": "nice to meet you",
+      "uk": "приємно познайомитися"
+    },
+    {
+      "fr": "quel / quelle / quels / quelles",
+      "en": "which / what",
+      "uk": "який / яка / які"
+    },
+    {
+      "fr": "les pâtes (f.)",
+      "en": "the pasta",
+      "uk": "макарони"
+    },
+    {
+      "fr": "rien (ne… rien)",
+      "en": "nothing",
+      "uk": "ніщо, нічого (ne… rien)"
+    },
+    {
+      "fr": "parce que",
+      "en": "because",
+      "uk": "тому що, бо"
+    },
+    {
+      "fr": "donc",
+      "en": "so / therefore",
+      "uk": "отже, тож"
+    },
+    {
+      "fr": "leur / leurs",
+      "en": "their",
+      "uk": "їхній / їхні"
+    },
+    {
+      "fr": "oui",
+      "en": "yes",
+      "uk": "так"
+    },
+    {
+      "fr": "d'accord",
+      "en": "OK / agreed",
+      "uk": "гаразд / згода"
+    },
+    {
+      "fr": "excusez-moi",
+      "en": "excuse me",
+      "uk": "перепрошую, вибачте"
+    },
+    {
+      "fr": "les toilettes (f.)",
+      "en": "the restroom / the bathroom (Québec: la salle de bain)",
+      "uk": "туалет / вбиральня (у Квебеку: la salle de bain)"
+    },
+    {
+      "fr": "de rien",
+      "en": "you're welcome (Québec: bienvenue)",
+      "uk": "нема за що (у Квебеку: bienvenue)"
+    },
+    {
+      "fr": "au revoir",
+      "en": "goodbye",
+      "uk": "до побачення"
+    },
+    {
+      "fr": "la bande",
+      "en": "the gang, the group (of friends)",
+      "uk": "компанія, гурт"
+    },
+    {
+      "fr": "la serveuse",
+      "en": "the waitress",
+      "uk": "офіціантка"
+    },
+    {
+      "fr": "au fond",
+      "en": "at the back",
+      "uk": "у глибині"
+    }
+  ]
+}

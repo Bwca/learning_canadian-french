@@ -1,0 +1,215 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 14: list a1-07, around the campfire)",
+    "uk": "Vocabulaire de base — базова лексика (набір 14: список a1-07, біля вогнища)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Feu » [fø] and « fou » [fu] differ only in the vowel, and « folle » is [fɔl]. « Blanc » [blɑ̃] has a silent c, but « blanche » is [blɑ̃ʃ]. « Lit » [li], « cas » [ka] and « pas » [pa] end silently. The u in « guerre » [ɡɛʁ] is silent; it only keeps the g hard. ç is always [s]: « garçon », « façon ». In Québec, « type » sounds like « tsip », and the a of « pas » and « cas » is deep, close to « pâ ».",
+    "uk": "« Feu » [fø] і « fou » [fu] відрізняються лише голосним, а « folle » — це [fɔl]. У « blanc » [blɑ̃] c німе, а « blanche » — це [blɑ̃ʃ]. « Lit » [li], « cas » [ka] і « pas » [pa] закінчуються беззвучно. u в « guerre » [ɡɛʁ] німе: воно лише зберігає g твердим. ç — завжди [s]: « garçon », « façon ». У Квебеку « type » звучить як « ціп », а a в « pas » і « cas » глибоке, близьке до « па » з відкритим горлом."
+  },
+  "sentences": [
+    {
+      "fr": "Le soir, au chalet, on fait un feu dehors.",
+      "uk": "Увечері на дачі ми розпалюємо вогнище надворі.",
+      "en": "In the evening, at the cottage, we make a fire outside."
+    },
+    {
+      "fr": "Mon oncle raconte des histoires de la guerre : il se souvient de tout.",
+      "uk": "Мій дядько розповідає історії про війну: він усе пам'ятає.",
+      "en": "My uncle tells stories about the war: he remembers everything."
+    },
+    {
+      "fr": "C'est un drôle de type, un peu fou, mais on l'aime.",
+      "uk": "Він кумедний тип, трохи божевільний, але ми його любимо.",
+      "en": "He's a funny guy, a little crazy, but we love him."
+    },
+    {
+      "fr": "« Eh, les enfants! Ne touchez pas au feu! »",
+      "uk": "« Гей, діти! Не чіпайте вогонь! »",
+      "en": "“Hey, kids! Don't touch the fire!”"
+    },
+    {
+      "fr": "Les garçons jettent des bâtons dans le feu, et ils rient.",
+      "uk": "Хлопці кидають у вогонь палиці й сміються.",
+      "en": "The boys throw sticks into the fire and laugh."
+    },
+    {
+      "fr": "Ma tante, elle, s'occupe des guimauves.",
+      "uk": "А моя тітка займається маршмелоу.",
+      "en": "My aunt, for her part, takes care of the marshmallows."
+    },
+    {
+      "fr": "Mon oncle joue aux cartes et il gagne à chaque tour. Quelle chance!",
+      "uk": "Дядько грає в карти й виграє кожен кон. Оце везіння!",
+      "en": "My uncle plays cards and wins every round. What luck!"
+    },
+    {
+      "fr": "Pourtant, il dit que c'est sa façon de jouer, pas la chance.",
+      "uk": "Проте він каже, що це його манера гри, а не везіння.",
+      "en": "However, he says it's his way of playing, not luck."
+    },
+    {
+      "fr": "Mon petit cousin a mal au ventre : trop de guimauves blanches! Sa mère dit : « Dans ce cas, au lit! »",
+      "uk": "У мого маленького двоюрідного брата болить живіт: забагато білого маршмелоу! Його мама каже: « У такому разі — до ліжка! »",
+      "en": "My little cousin has a stomachache: too many white marshmallows! His mother says: “In that case, off to bed!”"
+    },
+    {
+      "fr": "Il fait quelques pas vers le chalet, puis il revient : « Je veux la suite de l'histoire! »",
+      "uk": "Він робить кілька кроків до будиночка, а потім повертається: « Я хочу почути, що було далі! »",
+      "en": "He takes a few steps toward the cottage, then comes back: “I want the rest of the story!”"
+    },
+    {
+      "fr": "Alors, mon oncle reprend son histoire et continue jusqu'à minuit.",
+      "uk": "Тож дядько знову береться за свою історію й розповідає до опівночі.",
+      "en": "So my uncle picks up his story again and keeps going until midnight."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le feu",
+      "en": "the fire / the traffic light",
+      "uk": "вогонь / світлофор"
+    },
+    {
+      "fr": "raconter",
+      "en": "to tell (a story)",
+      "uk": "розповідати"
+    },
+    {
+      "fr": "la guerre",
+      "en": "the war",
+      "uk": "війна"
+    },
+    {
+      "fr": "se souvenir (de)",
+      "en": "to remember",
+      "uk": "пам'ятати, згадувати"
+    },
+    {
+      "fr": "le type",
+      "en": "the type / the guy (slang)",
+      "uk": "тип / хлопець (сленг)"
+    },
+    {
+      "fr": "fou / folle",
+      "en": "crazy",
+      "uk": "божевільний / божевільна"
+    },
+    {
+      "fr": "eh",
+      "en": "hey",
+      "uk": "гей"
+    },
+    {
+      "fr": "toucher",
+      "en": "to touch",
+      "uk": "торкатися"
+    },
+    {
+      "fr": "le garçon",
+      "en": "the boy",
+      "uk": "хлопчик"
+    },
+    {
+      "fr": "jeter",
+      "en": "to throw (away)",
+      "uk": "кидати / викидати"
+    },
+    {
+      "fr": "rire",
+      "en": "to laugh",
+      "uk": "сміятися"
+    },
+    {
+      "fr": "occuper",
+      "en": "to occupy (s'occuper de = to take care of)",
+      "uk": "займати (s'occuper de = піклуватися про)"
+    },
+    {
+      "fr": "gagner",
+      "en": "to win / to earn",
+      "uk": "вигравати / заробляти"
+    },
+    {
+      "fr": "le tour / la tour",
+      "en": "the turn / the tour (la tour = the tower)",
+      "uk": "оберт, черга / поїздка (la tour = вежа)"
+    },
+    {
+      "fr": "la chance",
+      "en": "the luck / the chance",
+      "uk": "удача / шанс"
+    },
+    {
+      "fr": "pourtant",
+      "en": "yet / however",
+      "uk": "проте, однак"
+    },
+    {
+      "fr": "la façon",
+      "en": "the way / the manner",
+      "uk": "спосіб, манера"
+    },
+    {
+      "fr": "le mal",
+      "en": "the harm / the pain (avoir mal = to hurt)",
+      "uk": "зло / біль (avoir mal = боліти)"
+    },
+    {
+      "fr": "blanc / blanche",
+      "en": "white",
+      "uk": "білий / біла"
+    },
+    {
+      "fr": "le cas",
+      "en": "the case",
+      "uk": "випадок"
+    },
+    {
+      "fr": "le lit",
+      "en": "the bed",
+      "uk": "ліжко"
+    },
+    {
+      "fr": "le pas",
+      "en": "the step (pas = not)",
+      "uk": "крок (pas = не)"
+    },
+    {
+      "fr": "la suite",
+      "en": "the rest / the sequel (tout de suite = right away)",
+      "uk": "решта / продовження (tout de suite = негайно)"
+    },
+    {
+      "fr": "reprendre",
+      "en": "to take back / to resume",
+      "uk": "забирати назад / відновлювати"
+    },
+    {
+      "fr": "continuer",
+      "en": "to continue",
+      "uk": "продовжувати"
+    },
+    {
+      "fr": "le chalet",
+      "en": "the cottage (Québec)",
+      "uk": "заміський будиночок, дача (у Квебеку)"
+    },
+    {
+      "fr": "le bâton",
+      "en": "the stick",
+      "uk": "палиця"
+    },
+    {
+      "fr": "la guimauve",
+      "en": "the marshmallow",
+      "uk": "маршмелоу"
+    },
+    {
+      "fr": "le ventre",
+      "en": "the belly, the stomach",
+      "uk": "живіт"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 18: list a1-09, the stolen bike)",
+    "uk": "Vocabulaire de base — базова лексика (набір 18: список a1-09, викрадений велосипед)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Bruit » [bʁɥi] and « droit » [dʁwa] end silently. « Hier » is one or two syllables, [jɛʁ] or [ijɛʁ]. « Vieille » is [vjɛj], with eill as [ɛj], like « soleil ». « Voler » means both “to fly” and “to steal”, and « police » is [pɔlis]. In Québec, the ê of « fenêtre » is long and the end often drops (« fenêt' »), « propre » can shrink to « prop' », and a police station is « un poste de police ». « Il fait noir » means “it's dark”.",
+    "uk": "« Bruit » [bʁɥi] і « droit » [dʁwa] закінчуються беззвучно. « Hier » має один або два склади: [jɛʁ] чи [ijɛʁ]. « Vieille » — це [vjɛj], eill звучить як [ɛj], як у « soleil ». « Voler » означає і «літати», і «красти», а « police » — це [pɔlis]. У Квебеку ê у « fenêtre » довге, а кінець часто зникає (« фенет »), « propre » може скоротитися до « проп », а поліцейська дільниця — це « un poste de police ». « Il fait noir » означає «темно»."
+  },
+  "sentences": [
+    {
+      "fr": "Hier soir, j'entends un gros bruit dans la rue.",
+      "uk": "Учора ввечері я чую сильний шум на вулиці.",
+      "en": "Last night, I hear a loud noise in the street."
+    },
+    {
+      "fr": "Je regarde par la fenêtre : un homme vole mon vélo!",
+      "uk": "Я дивлюся у вікно: якийсь чоловік краде мій велосипед!",
+      "en": "I look out the window: a man is stealing my bike!"
+    },
+    {
+      "fr": "Je crie, mais il disparaît dans le noir, comme dans un film.",
+      "uk": "Я кричу, але він зникає в темряві, як у кіно.",
+      "en": "I shout, but he disappears into the dark, like in a movie."
+    },
+    {
+      "fr": "Ce matin, je vais au poste de police. Dans la salle d'attente, il y a une vieille dame. Elle est la première, alors j'attends.",
+      "uk": "Сьогодні зранку я йду до поліцейської дільниці. У залі очікування сидить старенька пані. Вона перша, тож я чекаю.",
+      "en": "This morning, I go to the police station. In the waiting room, there's an old lady. She's first, so I wait."
+    },
+    {
+      "fr": "Enfin, un policier me reçoit dans son bureau : « À votre service! »",
+      "uk": "Нарешті поліцейський приймає мене у своєму кабінеті: « До ваших послуг! »",
+      "en": "Finally, a police officer sees me in his office: “At your service!”"
+    },
+    {
+      "fr": "« Vous avez le droit de porter plainte. Est-ce que vous reconnaissez cet homme sur la photo? »",
+      "uk": "« Ви маєте право подати скаргу. Ви впізнаєте цього чоловіка на фото? »",
+      "en": "“You have the right to file a complaint. Do you recognize this man in the photo?”"
+    },
+    {
+      "fr": "« Dites-moi la vérité : est-ce qu'il a une arme? Est-ce qu'il parle français? »",
+      "uk": "« Скажіть мені правду: у нього є зброя? Він говорить французькою? »",
+      "en": "“Tell me the truth: does he have a weapon? Does he speak French?”"
+    },
+    {
+      "fr": "« Je ne sais pas, il fait noir! »",
+      "uk": "« Не знаю, темно ж! »",
+      "en": "“I don't know, it's dark!”"
+    },
+    {
+      "fr": "La police cherche partout. C'est un travail dur.",
+      "uk": "Поліція шукає всюди. Це важка робота.",
+      "en": "The police search everywhere. It's hard work."
+    },
+    {
+      "fr": "Le soir, un policier frappe à ma porte : on découvre mon vélo au milieu d'un parc, tout propre!",
+      "uk": "Увечері поліцейський стукає в мої двері: мій велосипед знаходять посеред парку, зовсім чистий!",
+      "en": "In the evening, a police officer knocks at my door: they find my bike in the middle of a park, all clean!"
+    },
+    {
+      "fr": "« Merci, vous me sauvez! »",
+      "uk": "« Дякую, ви мене рятуєте! »",
+      "en": "“Thank you, you're saving me!”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "hier",
+      "en": "yesterday",
+      "uk": "вчора"
+    },
+    {
+      "fr": "le bruit",
+      "en": "the noise",
+      "uk": "шум"
+    },
+    {
+      "fr": "la fenêtre",
+      "en": "the window",
+      "uk": "вікно"
+    },
+    {
+      "fr": "voler",
+      "en": "to fly / to steal",
+      "uk": "літати / красти"
+    },
+    {
+      "fr": "crier",
+      "en": "to shout",
+      "uk": "кричати"
+    },
+    {
+      "fr": "disparaître",
+      "en": "to disappear",
+      "uk": "зникати"
+    },
+    {
+      "fr": "le film",
+      "en": "the film / the movie",
+      "uk": "фільм"
+    },
+    {
+      "fr": "la police",
+      "en": "the police",
+      "uk": "поліція"
+    },
+    {
+      "fr": "la salle",
+      "en": "the room / the hall",
+      "uk": "зала, кімната"
+    },
+    {
+      "fr": "le vieux / la vieille",
+      "en": "the old man / the old woman",
+      "uk": "старий / стара (людина)"
+    },
+    {
+      "fr": "le premier / la première",
+      "en": "the first (one)",
+      "uk": "перший / перша"
+    },
+    {
+      "fr": "le bureau",
+      "en": "the office / the desk",
+      "uk": "офіс, кабінет / письмовий стіл"
+    },
+    {
+      "fr": "le service",
+      "en": "the service / the favour",
+      "uk": "послуга, обслуговування / ласка"
+    },
+    {
+      "fr": "le droit",
+      "en": "the right / the law",
+      "uk": "право / закон"
+    },
+    {
+      "fr": "reconnaître",
+      "en": "to recognize",
+      "uk": "впізнавати / визнавати"
+    },
+    {
+      "fr": "la vérité",
+      "en": "the truth",
+      "uk": "правда"
+    },
+    {
+      "fr": "l'arme (f.)",
+      "en": "the weapon",
+      "uk": "зброя"
+    },
+    {
+      "fr": "français / française",
+      "en": "French",
+      "uk": "французький / французька, француз"
+    },
+    {
+      "fr": "partout",
+      "en": "everywhere",
+      "uk": "скрізь"
+    },
+    {
+      "fr": "dur / dure",
+      "en": "hard",
+      "uk": "твердий / тверда, важкий"
+    },
+    {
+      "fr": "frapper",
+      "en": "to hit / to knock",
+      "uk": "бити / стукати"
+    },
+    {
+      "fr": "découvrir",
+      "en": "to discover",
+      "uk": "відкривати, виявляти"
+    },
+    {
+      "fr": "le milieu",
+      "en": "the middle",
+      "uk": "середина"
+    },
+    {
+      "fr": "propre",
+      "en": "clean / own (ma propre voiture = my own car)",
+      "uk": "чистий / власний (ma propre voiture = моя власна машина)"
+    },
+    {
+      "fr": "sauver",
+      "en": "to save / to rescue",
+      "uk": "рятувати"
+    },
+    {
+      "fr": "le vélo",
+      "en": "the bike",
+      "uk": "велосипед"
+    },
+    {
+      "fr": "le poste de police",
+      "en": "the police station",
+      "uk": "поліцейська дільниця"
+    },
+    {
+      "fr": "la salle d'attente",
+      "en": "the waiting room",
+      "uk": "зала очікування"
+    },
+    {
+      "fr": "porter plainte",
+      "en": "to file a complaint",
+      "uk": "подати скаргу"
+    }
+  ]
+}

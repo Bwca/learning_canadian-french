@@ -1,0 +1,195 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 11: list a1-06, a Monday morning)",
+    "uk": "Vocabulaire de base — базова лексика (набір 11: список a1-06, ранок понеділка)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "Mind the -ille / -ile pair: « famille » is [famij] with a y sound, but « ville » is [vil], like « mille ». « Travail » is [tʁavaj], with ail as [aj]. Many words end in a silent consonant: « pied » [pje], « tard » [taʁ], « loin » [lwɛ̃], « argent » [aʁʒɑ̃]. « Seulement » loses its middle e: [sœlmɑ̃]. In Québec, people often say « l'auto » or « le char » rather than « la voiture », and « bonjour » is also said when leaving a shop, as a goodbye.",
+    "uk": "Зверніть увагу на пару -ille / -ile: « famille » — це [famij] зі звуком «й», а « ville » — [vil], як « mille ». « Travail » — це [tʁavaj], ail звучить як [aj]. Багато слів закінчуються німим приголосним: « pied » [pje], « tard » [taʁ], « loin » [lwɛ̃], « argent » [aʁʒɑ̃]. « Seulement » втрачає середнє e: [sœlmɑ̃]. У Квебеку замість « la voiture » часто кажуть « l'auto » або « le char », а « bonjour » кажуть і виходячи з крамниці — як «до побачення»."
+  },
+  "sentences": [
+    {
+      "fr": "Lundi matin, je me lève tard : il est presque huit heures!",
+      "uk": "У понеділок зранку я встаю пізно: уже майже восьма!",
+      "en": "Monday morning, I get up late: it's almost eight o'clock!"
+    },
+    {
+      "fr": "Mon frère dort encore dans sa chambre.",
+      "uk": "Мій брат ще спить у своїй кімнаті.",
+      "en": "My brother is still sleeping in his room."
+    },
+    {
+      "fr": "Maman boit son café dans la cuisine : « Bonjour! Vite, tu vas être en retard! »",
+      "uk": "Мама п'є каву на кухні: « Доброго ранку! Швидше, ти запізнишся! »",
+      "en": "Mom is drinking her coffee in the kitchen: “Good morning! Quick, you're going to be late!”"
+    },
+    {
+      "fr": "Je mets mes affaires dans mon sac.",
+      "uk": "Я складаю свої речі в сумку.",
+      "en": "I put my things in my bag."
+    },
+    {
+      "fr": "Notre famille a seulement une voiture, et papa la prend pour son travail.",
+      "uk": "У нашої родини лише одна машина, і тато бере її на роботу.",
+      "en": "Our family only has one car, and Dad takes it for his job."
+    },
+    {
+      "fr": "Alors, je vais à pied. Je travaille en ville, pas très loin.",
+      "uk": "Тож я йду пішки. Я працюю в місті, не дуже далеко.",
+      "en": "So I go on foot. I work in town, not very far."
+    },
+    {
+      "fr": "Je marche vite dans la rue, puis je monte l'escalier en courant.",
+      "uk": "Я швидко йду вулицею, а потім вибігаю сходами нагору.",
+      "en": "I walk fast down the street, then I run up the stairs."
+    },
+    {
+      "fr": "Enfin, je m'assois à mon bureau.",
+      "uk": "Нарешті я сідаю за свій стіл.",
+      "en": "Finally, I sit down at my desk."
+    },
+    {
+      "fr": "Mais je n'ai pas d'argent sur moi : pas de café ce matin!",
+      "uk": "Але в мене з собою немає грошей: сьогодні вранці без кави!",
+      "en": "But I don't have any money on me: no coffee this morning!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le matin",
+      "en": "the morning",
+      "uk": "ранок"
+    },
+    {
+      "fr": "lever",
+      "en": "to raise / to lift (se lever = to get up)",
+      "uk": "піднімати (se lever = вставати)"
+    },
+    {
+      "fr": "tard",
+      "en": "late",
+      "uk": "пізно"
+    },
+    {
+      "fr": "presque",
+      "en": "almost",
+      "uk": "майже"
+    },
+    {
+      "fr": "le frère",
+      "en": "the brother",
+      "uk": "брат"
+    },
+    {
+      "fr": "dormir",
+      "en": "to sleep",
+      "uk": "спати"
+    },
+    {
+      "fr": "la chambre",
+      "en": "the bedroom",
+      "uk": "спальня, кімната"
+    },
+    {
+      "fr": "la maman",
+      "en": "mom",
+      "uk": "мама"
+    },
+    {
+      "fr": "boire",
+      "en": "to drink",
+      "uk": "пити"
+    },
+    {
+      "fr": "bonjour",
+      "en": "hello / good morning",
+      "uk": "добрий день / доброго ранку"
+    },
+    {
+      "fr": "l'affaire (f.)",
+      "en": "the matter / the business (les affaires = belongings, business)",
+      "uk": "справа / бізнес (les affaires = речі, справи)"
+    },
+    {
+      "fr": "la famille",
+      "en": "the family",
+      "uk": "родина, сім'я"
+    },
+    {
+      "fr": "seulement",
+      "en": "only",
+      "uk": "лише, тільки"
+    },
+    {
+      "fr": "la voiture",
+      "en": "the car",
+      "uk": "машина, автомобіль"
+    },
+    {
+      "fr": "le travail",
+      "en": "the work / the job",
+      "uk": "робота, праця"
+    },
+    {
+      "fr": "le pied",
+      "en": "the foot",
+      "uk": "нога (стопа)"
+    },
+    {
+      "fr": "travailler",
+      "en": "to work",
+      "uk": "працювати"
+    },
+    {
+      "fr": "la ville",
+      "en": "the city / the town",
+      "uk": "місто"
+    },
+    {
+      "fr": "loin",
+      "en": "far",
+      "uk": "далеко"
+    },
+    {
+      "fr": "marcher",
+      "en": "to walk / to work (function)",
+      "uk": "ходити / працювати (про пристрій)"
+    },
+    {
+      "fr": "la rue",
+      "en": "the street",
+      "uk": "вулиця"
+    },
+    {
+      "fr": "monter",
+      "en": "to go up / to get on",
+      "uk": "підніматися / сідати (у транспорт)"
+    },
+    {
+      "fr": "enfin",
+      "en": "finally / at last",
+      "uk": "нарешті"
+    },
+    {
+      "fr": "s'asseoir",
+      "en": "to sit (s'asseoir)",
+      "uk": "сідати"
+    },
+    {
+      "fr": "l'argent (m.)",
+      "en": "the money / silver",
+      "uk": "гроші / срібло"
+    },
+    {
+      "fr": "l'escalier (m.)",
+      "en": "the stairs",
+      "uk": "сходи"
+    },
+    {
+      "fr": "en courant",
+      "en": "running",
+      "uk": "бігом"
+    }
+  ]
+}

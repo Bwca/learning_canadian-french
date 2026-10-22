@@ -1,0 +1,200 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 8: list a1-04, the gentleman in the park)",
+    "uk": "Vocabulaire de base — базова лексика (набір 8: список a1-04, пан у парку)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Monsieur » is said [məsjø]: the on sounds like a weak e, and the r is silent. « Dieu » [djø], « mieux » [mjø] and « vieux » share the same ending, and in Québec the d of « Dieu » sounds like « dz ». « Beau » becomes « bel » before a vowel: « un bel arbre » [œ̃ bɛl‿aʁbʁ]. « Vers » [vɛʁ], « moins » [mwɛ̃] and « sous » [su] all have a silent last letter — don't confuse « sous » (under) with « sur » [syʁ] (on). « Beaucoup » is [boku], and « vraiment » [vʁɛmɑ̃]. In Québec, « tête » has a long vowel that can slide toward « taète ».",
+    "uk": "« Monsieur » вимовляється [məsjø]: on звучить як слабке e, а r німе. « Dieu » [djø], « mieux » [mjø] і « vieux » мають однакове закінчення, а в Квебеку d у « Dieu » звучить як « дз ». « Beau » перед голосним стає « bel »: « un bel arbre » [œ̃ bɛl‿aʁbʁ]. У « vers » [vɛʁ], « moins » [mwɛ̃] і « sous » [su] остання літера німа — не плутайте « sous » (під) із « sur » [syʁ] (на). « Beaucoup » — це [boku], а « vraiment » — [vʁɛmɑ̃]. У Квебеку в « tête » довгий голосний, який може ковзати до « таєт »."
+  },
+  "sentences": [
+    {
+      "fr": "Dans le parc, un vieux monsieur est assis sous un bel arbre.",
+      "uk": "У парку під гарним деревом сидить старенький пан.",
+      "en": "In the park, an old gentleman is sitting under a beautiful tree."
+    },
+    {
+      "fr": "Il a l'air fatigué, et il tient sa tête entre ses mains.",
+      "uk": "Він має втомлений вигляд і тримається руками за голову.",
+      "en": "He looks tired, and he's holding his head in his hands."
+    },
+    {
+      "fr": "« Monsieur, comment ça va? Est-ce que vous avez besoin d'aide? »",
+      "uk": "« Пане, як ви? Вам потрібна допомога? »",
+      "en": "“Sir, how are you? Do you need help?”"
+    },
+    {
+      "fr": "« Oh, merci. Je ne me sens pas bien. Je n'ai ni faim ni soif. »",
+      "uk": "« О, дякую. Мені недобре. Я не хочу ні їсти, ні пити. »",
+      "en": "“Oh, thank you. I don't feel well. I'm neither hungry nor thirsty.”"
+    },
+    {
+      "fr": "« Mon Dieu! Je cherche un médecin? »",
+      "uk": "« Боже мій! Пошукати лікаря? »",
+      "en": "“My God! Should I look for a doctor?”"
+    },
+    {
+      "fr": "« Non, non, je ne vais pas mourir! Je connais tout le monde ici, et mon fils arrive. »",
+      "uk": "« Ні-ні, я не помру! Я тут усіх знаю, і мій син зараз приїде. »",
+      "en": "“No, no, I'm not going to die! I know everybody here, and my son is coming.”"
+    },
+    {
+      "fr": "« Quoi? Il arrive quand? »",
+      "uk": "« Що? А коли він приїде? »",
+      "en": "“What? When is he coming?”"
+    },
+    {
+      "fr": "Le fils arrive vers trois heures. Il arrête son auto devant le parc.",
+      "uk": "Син приїжджає близько третьої. Він зупиняє машину перед парком.",
+      "en": "The son arrives around three o'clock. He stops his car in front of the park."
+    },
+    {
+      "fr": "« Papa, cela arrive beaucoup ces jours-ci. Tu dois boire de l'eau et marcher moins au soleil. »",
+      "uk": "« Тату, останнім часом таке трапляється часто. Тобі треба пити воду й менше ходити на сонці. »",
+      "en": "“Dad, that happens a lot these days. You have to drink water and walk less in the sun.”"
+    },
+    {
+      "fr": "Après un verre d'eau, le monsieur sourit : « Ça va vraiment mieux, merci! »",
+      "uk": "Випивши склянку води, пан усміхається: « Мені справді краще, дякую! »",
+      "en": "After a glass of water, the gentleman smiles: “I really feel better, thank you!”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le monsieur",
+      "en": "the gentleman / sir",
+      "uk": "пан / пане"
+    },
+    {
+      "fr": "sous",
+      "en": "under",
+      "uk": "під"
+    },
+    {
+      "fr": "beau / belle",
+      "en": "beautiful / handsome",
+      "uk": "гарний / гарна, красивий"
+    },
+    {
+      "fr": "l'air (m.)",
+      "en": "the air / the look (avoir l'air = to seem)",
+      "uk": "повітря / вигляд (avoir l'air = здаватися)"
+    },
+    {
+      "fr": "tenir",
+      "en": "to hold",
+      "uk": "тримати"
+    },
+    {
+      "fr": "la tête",
+      "en": "the head",
+      "uk": "голова"
+    },
+    {
+      "fr": "entre",
+      "en": "between",
+      "uk": "між"
+    },
+    {
+      "fr": "comment",
+      "en": "how",
+      "uk": "як"
+    },
+    {
+      "fr": "le besoin",
+      "en": "the need (avoir besoin de = to need)",
+      "uk": "потреба (avoir besoin de = потребувати)"
+    },
+    {
+      "fr": "oh",
+      "en": "oh",
+      "uk": "о"
+    },
+    {
+      "fr": "sentir",
+      "en": "to feel / to smell",
+      "uk": "відчувати / пахнути, нюхати"
+    },
+    {
+      "fr": "ni",
+      "en": "neither / nor",
+      "uk": "ні… ні"
+    },
+    {
+      "fr": "le dieu",
+      "en": "God / the god",
+      "uk": "Бог / бог"
+    },
+    {
+      "fr": "chercher",
+      "en": "to look for",
+      "uk": "шукати"
+    },
+    {
+      "fr": "mourir",
+      "en": "to die",
+      "uk": "помирати"
+    },
+    {
+      "fr": "connaître",
+      "en": "to know (a person / a place)",
+      "uk": "знати (людину / місце)"
+    },
+    {
+      "fr": "le monde",
+      "en": "the world / people (tout le monde)",
+      "uk": "світ / люди (tout le monde = всі)"
+    },
+    {
+      "fr": "quoi",
+      "en": "what",
+      "uk": "що"
+    },
+    {
+      "fr": "vers",
+      "en": "towards",
+      "uk": "до, в бік"
+    },
+    {
+      "fr": "arrêter",
+      "en": "to stop",
+      "uk": "зупиняти, припиняти"
+    },
+    {
+      "fr": "cela",
+      "en": "that (formal)",
+      "uk": "це, те (книжн.)"
+    },
+    {
+      "fr": "beaucoup",
+      "en": "a lot / much",
+      "uk": "багато"
+    },
+    {
+      "fr": "moins",
+      "en": "less",
+      "uk": "менше"
+    },
+    {
+      "fr": "vraiment",
+      "en": "really",
+      "uk": "справді"
+    },
+    {
+      "fr": "mieux",
+      "en": "better",
+      "uk": "краще"
+    },
+    {
+      "fr": "assis / assise",
+      "en": "sitting, seated",
+      "uk": "сидячи (який сидить)"
+    },
+    {
+      "fr": "l'aide (f.)",
+      "en": "help",
+      "uk": "допомога"
+    }
+  ]
+}

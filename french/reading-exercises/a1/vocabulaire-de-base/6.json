@@ -1,0 +1,210 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 6: list a1-03, Grandma's pie)",
+    "uk": "Vocabulaire de base — базова лексика (набір 6: список a1-03, бабусин пиріг)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Il faut » is [il fo], and in Québec the il usually disappears: « faut que tu viennes ». « Toi » is often « toé » in casual Québec speech. « Même » has a long vowel, and in Québec it can slide toward « maïme ». « Votre » [vɔtʁ] and « notre » [nɔtʁ] have an open o, but « vos » [vo] and « nos » [no] a closed one, and liaison adds a z before a vowel: « vos enfants » [voz‿ɑ̃fɑ̃]. « Tout petit » is [tu pəti], with no t heard. « Bon » is nasal [bɔ̃], « bonne » isn't: [bɔn].",
+    "uk": "« Il faut » — це [il fo], а в Квебеку il зазвичай зникає: « faut que tu viennes ». « Toi » у невимушеному квебекському мовленні часто звучить як « toé ». « Même » має довгий голосний, і в Квебеку він може ковзати до « майм ». У « votre » [vɔtʁ] і « notre » [nɔtʁ] o відкрите, а в « vos » [vo] і « nos » [no] — закрите, і перед голосним зв'язування додає z: « vos enfants » [voz‿ɑ̃fɑ̃]. « Tout petit » — це [tu pəti], t не чути. « Bon » — носове [bɔ̃], а « bonne » — ні: [bɔn]."
+  },
+  "sentences": [
+    {
+      "fr": "Ma grand-mère dit toujours : « Dans la vie, il faut suivre ton cœur. »",
+      "uk": "Моя бабуся завжди каже: « У житті треба слухати своє серце. »",
+      "en": "My grandmother always says: “In life, you have to follow your heart.”"
+    },
+    {
+      "fr": "Le jour de Noël, toute la famille reste chez elle.",
+      "uk": "На Різдво вся родина залишається в неї.",
+      "en": "On Christmas Day, the whole family stays at her place."
+    },
+    {
+      "fr": "Elle aime faire des tartes, et mes enfants les aiment aussi.",
+      "uk": "Вона любить пекти пироги, і мої діти їх теж люблять.",
+      "en": "She loves making pies, and my children love them too."
+    },
+    {
+      "fr": "Elle me dit : « Prends une autre pointe de tarte! », mais je prends un tout petit morceau.",
+      "uk": "Вона каже мені: « Візьми ще шматок пирога! », але я беру зовсім маленький шматочок.",
+      "en": "She says to me: “Have another slice of pie!”, but I take a very small piece."
+    },
+    {
+      "fr": "Je pense que sa tarte est parfaite : je ne trouve jamais une tarte comme ça au magasin.",
+      "uk": "Я думаю, що її пиріг ідеальний: у магазині я ніколи не знаходжу такого пирога.",
+      "en": "I think her pie is perfect: I never find a pie like that at the store."
+    },
+    {
+      "fr": "« Grand-maman, tu crois que je peux la faire, moi? »",
+      "uk": "« Бабусю, ти думаєш, я зможу його спекти? »",
+      "en": "“Grandma, do you think I can make it?”"
+    },
+    {
+      "fr": "Alors, elle met la recette dans une enveloppe : « Je te donne notre recette de famille. Elle est pour toi. »",
+      "uk": "Тоді вона кладе рецепт у конверт: « Я даю тобі наш родинний рецепт. Він для тебе. »",
+      "en": "So she puts the recipe in an envelope: “I'm giving you our family recipe. It's for you.”"
+    },
+    {
+      "fr": "« C'est une chose simple : tu mets des pommes et du sucre, et tu laisses cuire une heure. »",
+      "uk": "« Це проста річ: кладеш яблука й цукор і залишаєш пектися на годину. »",
+      "en": "“It's a simple thing: you put in apples and sugar, and you let it bake for an hour.”"
+    },
+    {
+      "fr": "« Même vos enfants peuvent la faire! »",
+      "uk": "« Навіть ваші діти можуть його спекти! »",
+      "en": "“Even your children can make it!”"
+    },
+    {
+      "fr": "C'est vrai : chez grand-maman, tout est bon.",
+      "uk": "Це правда: у бабусі все смачне.",
+      "en": "It's true: at Grandma's, everything is good."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la vie",
+      "en": "the life",
+      "uk": "життя"
+    },
+    {
+      "fr": "falloir",
+      "en": "to be necessary (il faut)",
+      "uk": "бути потрібно (il faut)"
+    },
+    {
+      "fr": "suivre",
+      "en": "to follow",
+      "uk": "слідувати, іти за"
+    },
+    {
+      "fr": "ton / ta / tes",
+      "en": "your (informal)",
+      "uk": "твій / твоя / твої"
+    },
+    {
+      "fr": "le jour",
+      "en": "the day",
+      "uk": "день"
+    },
+    {
+      "fr": "rester",
+      "en": "to stay / to remain",
+      "uk": "залишатися"
+    },
+    {
+      "fr": "aimer",
+      "en": "to love / to like",
+      "uk": "кохати / любити, подобатися"
+    },
+    {
+      "fr": "aussi",
+      "en": "also / too",
+      "uk": "також, теж"
+    },
+    {
+      "fr": "prendre",
+      "en": "to take",
+      "uk": "брати"
+    },
+    {
+      "fr": "autre",
+      "en": "other",
+      "uk": "інший"
+    },
+    {
+      "fr": "tout (adverbe)",
+      "en": "all / quite (adverb)",
+      "uk": "зовсім, цілком (прислівник)"
+    },
+    {
+      "fr": "penser",
+      "en": "to think",
+      "uk": "думати"
+    },
+    {
+      "fr": "croire",
+      "en": "to believe",
+      "uk": "вірити, гадати"
+    },
+    {
+      "fr": "trouver",
+      "en": "to find",
+      "uk": "знаходити"
+    },
+    {
+      "fr": "jamais",
+      "en": "never",
+      "uk": "ніколи"
+    },
+    {
+      "fr": "mettre",
+      "en": "to put / to put on",
+      "uk": "класти / вдягати"
+    },
+    {
+      "fr": "donner",
+      "en": "to give",
+      "uk": "давати"
+    },
+    {
+      "fr": "notre / nos",
+      "en": "our",
+      "uk": "наш / наші"
+    },
+    {
+      "fr": "toi",
+      "en": "you (stressed, informal)",
+      "uk": "ти, тебе (наголошене, неформально)"
+    },
+    {
+      "fr": "la chose",
+      "en": "the thing",
+      "uk": "річ"
+    },
+    {
+      "fr": "laisser",
+      "en": "to leave / to let",
+      "uk": "залишати / дозволяти"
+    },
+    {
+      "fr": "même",
+      "en": "even / same",
+      "uk": "навіть / той самий"
+    },
+    {
+      "fr": "votre / vos",
+      "en": "your (formal / plural)",
+      "uk": "ваш / ваші (ввічливо / множина)"
+    },
+    {
+      "fr": "tout (pronom)",
+      "en": "everything / all (pronoun)",
+      "uk": "все, усе (займенник)"
+    },
+    {
+      "fr": "bon / bonne",
+      "en": "good",
+      "uk": "добрий / добра, хороший"
+    },
+    {
+      "fr": "la tarte",
+      "en": "the pie",
+      "uk": "пиріг"
+    },
+    {
+      "fr": "la pointe",
+      "en": "the slice (of pie)",
+      "uk": "шматок (пирога)"
+    },
+    {
+      "fr": "la recette",
+      "en": "the recipe",
+      "uk": "рецепт"
+    },
+    {
+      "fr": "cuire",
+      "en": "to cook, to bake",
+      "uk": "пектися, варитися"
+    }
+  ]
+}

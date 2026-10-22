@@ -1,0 +1,195 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 7: list a1-04, going out tonight)",
+    "uk": "Vocabulaire de base — базова лексика (набір 7: список a1-04, вечірня прогулянка)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« L'an » is [lɑ̃], and liaison links it to a number: « seize ans » [sɛz‿ɑ̃]. The t of « enfant » and « maintenant » is silent, and « maintenant » usually loses its middle e: [mɛ̃tnɑ̃]. « Nuit » is [nɥi], with the quick [ɥ] glide of « huit ». « Fille » is [fij] — ill makes a y sound here. « Peut-être » is [pøtɛtʁ], but casual speech shortens it to « p't-êt' ». In Québec, the long vowel of « père » and « mère » often slides into « paère », « maère », and « sûr » is lengthened.",
+    "uk": "« L'an » — це [lɑ̃], і зв'язування приєднує його до числа: « seize ans » [sɛz‿ɑ̃]. t в « enfant » і « maintenant » німе, а « maintenant » зазвичай втрачає середнє e: [mɛ̃tnɑ̃]. « Nuit » — це [nɥi], зі швидким ковзним [ɥ], як у « huit ». « Fille » — це [fij]: ill тут дає звук «й». « Peut-être » — це [pøtɛtʁ], але в невимушеному мовленні скорочується до « п'т-ет ». У Квебеку довгий голосний у « père » і « mère » часто ковзає до « паер », « маер », а « sûr » подовжується."
+  },
+  "sentences": [
+    {
+      "fr": "Chez nous, le soir, la maison est calme.",
+      "uk": "У нас удома ввечері тихо.",
+      "en": "At our place, in the evening, the house is calm."
+    },
+    {
+      "fr": "Ma fille a seize ans. Ce soir, elle veut sortir avec une amie.",
+      "uk": "Моїй доньці шістнадцять. Сьогодні ввечері вона хоче піти гуляти з подругою.",
+      "en": "My daughter is sixteen. Tonight, she wants to go out with a friend."
+    },
+    {
+      "fr": "« Maman, je pars maintenant! »",
+      "uk": "« Мамо, я вже йду! »",
+      "en": "“Mom, I'm leaving now!”"
+    },
+    {
+      "fr": "« Déjà? Pourquoi? On mange dans un moment! »",
+      "uk": "« Уже? Чому? Ми зараз будемо їсти! »",
+      "en": "“Already? Why? We're eating in a moment!”"
+    },
+    {
+      "fr": "« Je mange chez Chloé. Je reviens avant minuit, c'est sûr. »",
+      "uk": "« Я поїм у Хлої. Повернуся до опівночі, точно. »",
+      "en": "“I'm eating at Chloé's. I'll be back before midnight, for sure.”"
+    },
+    {
+      "fr": "Son père ne comprend pas : « Minuit? C'est la nuit! »",
+      "uk": "Її тато не розуміє: « Опівночі? Це ж ніч! »",
+      "en": "Her father doesn't understand: “Midnight? That's the middle of the night!”"
+    },
+    {
+      "fr": "« Papa, je ne suis plus une enfant! »",
+      "uk": "« Тату, я вже не дитина! »",
+      "en": "“Dad, I'm not a child anymore!”"
+    },
+    {
+      "fr": "La mère sourit : « Appelle-nous après le film. Un coup de fil, c'est tout. »",
+      "uk": "Мама усміхається: « Подзвони нам після фільму. Один дзвінок — і все. »",
+      "en": "The mother smiles: “Call us after the movie. One phone call, that's all.”"
+    },
+    {
+      "fr": "Ma fille rit : « D'accord, peut-être! »",
+      "uk": "Донька сміється: « Гаразд, можливо! »",
+      "en": "My daughter laughs: “OK, maybe!”"
+    },
+    {
+      "fr": "À onze heures et demie, on entend la porte : elle est déjà là!",
+      "uk": "О пів на дванадцяту ми чуємо двері: вона вже вдома!",
+      "en": "At half past eleven, we hear the door: she's already home!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "chez",
+      "en": "at (someone's place)",
+      "uk": "у (когось удома)"
+    },
+    {
+      "fr": "le soir",
+      "en": "the evening",
+      "uk": "вечір"
+    },
+    {
+      "fr": "la maison",
+      "en": "the house",
+      "uk": "будинок, дім"
+    },
+    {
+      "fr": "la fille",
+      "en": "the girl / the daughter",
+      "uk": "дівчина / донька"
+    },
+    {
+      "fr": "l'an (m.)",
+      "en": "the year (with numbers: j'ai vingt ans)",
+      "uk": "рік (з числами: j'ai vingt ans)"
+    },
+    {
+      "fr": "sortir",
+      "en": "to go out",
+      "uk": "виходити"
+    },
+    {
+      "fr": "l'ami (m.) / l'amie (f.)",
+      "en": "the friend",
+      "uk": "друг / подруга"
+    },
+    {
+      "fr": "partir",
+      "en": "to leave / to go away",
+      "uk": "йти, від'їжджати"
+    },
+    {
+      "fr": "maintenant",
+      "en": "now",
+      "uk": "зараз"
+    },
+    {
+      "fr": "déjà",
+      "en": "already",
+      "uk": "вже"
+    },
+    {
+      "fr": "pourquoi",
+      "en": "why",
+      "uk": "чому"
+    },
+    {
+      "fr": "le moment",
+      "en": "the moment",
+      "uk": "мить, момент"
+    },
+    {
+      "fr": "revenir",
+      "en": "to come back",
+      "uk": "повертатися"
+    },
+    {
+      "fr": "avant",
+      "en": "before / beforehand",
+      "uk": "до, перед / раніше"
+    },
+    {
+      "fr": "sûr / sûre",
+      "en": "sure",
+      "uk": "певний, впевнений / впевнена"
+    },
+    {
+      "fr": "le père",
+      "en": "the father",
+      "uk": "батько"
+    },
+    {
+      "fr": "comprendre",
+      "en": "to understand",
+      "uk": "розуміти"
+    },
+    {
+      "fr": "la nuit",
+      "en": "the night",
+      "uk": "ніч"
+    },
+    {
+      "fr": "l'enfant (m./f.)",
+      "en": "the child",
+      "uk": "дитина"
+    },
+    {
+      "fr": "la mère",
+      "en": "the mother",
+      "uk": "мати"
+    },
+    {
+      "fr": "appeler",
+      "en": "to call",
+      "uk": "кликати, телефонувати"
+    },
+    {
+      "fr": "après",
+      "en": "after",
+      "uk": "після"
+    },
+    {
+      "fr": "le coup",
+      "en": "the blow / the hit (un coup de fil = a call)",
+      "uk": "удар (un coup de fil = дзвінок)"
+    },
+    {
+      "fr": "peut-être",
+      "en": "maybe",
+      "uk": "можливо"
+    },
+    {
+      "fr": "entendre",
+      "en": "to hear",
+      "uk": "чути"
+    },
+    {
+      "fr": "minuit",
+      "en": "midnight",
+      "uk": "північ"
+    }
+  ]
+}

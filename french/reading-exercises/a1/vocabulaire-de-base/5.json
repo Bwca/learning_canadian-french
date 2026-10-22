@@ -1,0 +1,205 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 5: list a1-03, at the bus stop)",
+    "uk": "Vocabulaire de base — базова лексика (набір 5: список a1-03, на зупинці)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "Plenty of silent letters here: « temps » is just [tɑ̃], « trop » is [tʁo], « très » is [tʁɛ], and the h of « l'homme » is never said. « Femme » is [fam], not « fèm ». Watch the eyes: « l'œil » is [lœj], but « les yeux » is [lez‿jø], with a z sound from the liaison. A d turns into a t sound in liaison: « grand homme » [ɡʁɑ̃t‿ɔm]. In Québec, « petite » sounds like « p'tsite », i and u in a closed syllable are short and loose (« vite », « juste »), and « ici » often becomes « icitte » in casual speech.",
+    "uk": "Тут багато німих літер: « temps » — це просто [tɑ̃], « trop » — [tʁo], « très » — [tʁɛ], а h в « l'homme » ніколи не вимовляється. « Femme » — це [fam], а не « фем ». Зверніть увагу на очі: « l'œil » — це [lœj], а « les yeux » — [lez‿jø], зі звуком z від зв'язування. У зв'язуванні d звучить як t: « grand homme » [ɡʁɑ̃t‿ɔm]. У Квебеку « petite » звучить як « п'ціт », i та u в закритому складі короткі й ненапружені (« vite », « juste »), а « ici » у невимушеному мовленні часто стає « icitte »."
+  },
+  "sentences": [
+    {
+      "fr": "Il est huit heures. Je suis seule à l'arrêt d'autobus, et j'attends.",
+      "uk": "Восьма година. Я сама на автобусній зупинці й чекаю.",
+      "en": "It's eight o'clock. I'm alone at the bus stop, and I'm waiting."
+    },
+    {
+      "fr": "L'autobus n'arrive pas. Il est encore en retard, comme toujours!",
+      "uk": "Автобус не приходить. Він знову запізнюється, як завжди!",
+      "en": "The bus isn't coming. It's late again, as always!"
+    },
+    {
+      "fr": "Il fait très froid, et le temps passe lentement.",
+      "uk": "Дуже холодно, і час тягнеться повільно.",
+      "en": "It's very cold, and time goes by slowly."
+    },
+    {
+      "fr": "Un grand homme arrive avec une petite femme.",
+      "uk": "Підходить високий чоловік із невисокою жінкою.",
+      "en": "A tall man arrives with a short woman."
+    },
+    {
+      "fr": "La femme a un café à la main.",
+      "uk": "У жінки в руці кава.",
+      "en": "The woman has a coffee in her hand."
+    },
+    {
+      "fr": "L'homme regarde sa montre, puis il me demande : « Est-ce que l'autobus passe ici? »",
+      "uk": "Чоловік дивиться на годинник, а потім питає мене: « Автобус тут проходить? »",
+      "en": "The man looks at his watch, then he asks me: “Does the bus stop here?”"
+    },
+    {
+      "fr": "« Oui, mais quand? Je ne sais pas! »",
+      "uk": "« Так, але коли — не знаю! »",
+      "en": "“Yes, but when? I don't know!”"
+    },
+    {
+      "fr": "« Si l'autobus n'arrive pas, je vais être en retard au travail. »",
+      "uk": "« Якщо автобус не приїде, я запізнюся на роботу. »",
+      "en": "“If the bus doesn't come, I'm going to be late for work.”"
+    },
+    {
+      "fr": "On parle un peu. La femme a les yeux bleus, et elle parle trop vite pour moi.",
+      "uk": "Ми трохи розмовляємо. У жінки блакитні очі, і вона говорить для мене надто швидко.",
+      "en": "We talk a little. The woman has blue eyes, and she speaks too fast for me."
+    },
+    {
+      "fr": "Enfin, l'autobus est là! Alors, on monte sans attendre.",
+      "uk": "Нарешті автобус тут! Тож ми сідаємо, не гаючи часу.",
+      "en": "Finally, the bus is here! So we get on without waiting."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'heure (f.)",
+      "en": "the hour / the time (o'clock)",
+      "uk": "година / час (котра година)"
+    },
+    {
+      "fr": "seul / seule",
+      "en": "alone / only",
+      "uk": "сам / сама, єдиний"
+    },
+    {
+      "fr": "attendre",
+      "en": "to wait (for)",
+      "uk": "чекати (на)"
+    },
+    {
+      "fr": "arriver",
+      "en": "to arrive / to happen",
+      "uk": "прибувати / траплятися"
+    },
+    {
+      "fr": "encore",
+      "en": "again / still",
+      "uk": "знову / ще"
+    },
+    {
+      "fr": "toujours",
+      "en": "always / still",
+      "uk": "завжди / досі"
+    },
+    {
+      "fr": "très",
+      "en": "very",
+      "uk": "дуже"
+    },
+    {
+      "fr": "le temps",
+      "en": "the time / the weather",
+      "uk": "час / погода"
+    },
+    {
+      "fr": "passer",
+      "en": "to pass / to spend (time)",
+      "uk": "проходити / проводити (час)"
+    },
+    {
+      "fr": "grand / grande",
+      "en": "big / tall",
+      "uk": "великий / велика, високий"
+    },
+    {
+      "fr": "l'homme (m.)",
+      "en": "the man",
+      "uk": "чоловік, людина"
+    },
+    {
+      "fr": "petit / petite",
+      "en": "small / little",
+      "uk": "маленький / маленька"
+    },
+    {
+      "fr": "la femme",
+      "en": "the woman / the wife",
+      "uk": "жінка / дружина"
+    },
+    {
+      "fr": "la main",
+      "en": "the hand",
+      "uk": "рука (кисть)"
+    },
+    {
+      "fr": "regarder",
+      "en": "to look at / to watch",
+      "uk": "дивитися"
+    },
+    {
+      "fr": "demander",
+      "en": "to ask",
+      "uk": "питати, просити"
+    },
+    {
+      "fr": "ici",
+      "en": "here",
+      "uk": "тут"
+    },
+    {
+      "fr": "quand",
+      "en": "when",
+      "uk": "коли"
+    },
+    {
+      "fr": "si",
+      "en": "if / so (si grand = so big)",
+      "uk": "якщо / такий, так (si grand = такий великий)"
+    },
+    {
+      "fr": "parler",
+      "en": "to speak / to talk",
+      "uk": "говорити, розмовляти"
+    },
+    {
+      "fr": "l'œil (m.) / les yeux",
+      "en": "the eye / the eyes",
+      "uk": "око / очі"
+    },
+    {
+      "fr": "trop",
+      "en": "too / too much",
+      "uk": "занадто / забагато"
+    },
+    {
+      "fr": "là",
+      "en": "there / here",
+      "uk": "там / тут"
+    },
+    {
+      "fr": "alors",
+      "en": "so / then",
+      "uk": "отже, тоді"
+    },
+    {
+      "fr": "sans",
+      "en": "without",
+      "uk": "без"
+    },
+    {
+      "fr": "l'arrêt d'autobus (m.)",
+      "en": "the bus stop (Québec)",
+      "uk": "автобусна зупинка (у Квебеку)"
+    },
+    {
+      "fr": "en retard",
+      "en": "late",
+      "uk": "із запізненням"
+    },
+    {
+      "fr": "la montre",
+      "en": "the watch",
+      "uk": "наручний годинник"
+    }
+  ]
+}

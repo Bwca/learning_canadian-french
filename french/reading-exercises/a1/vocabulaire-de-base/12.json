@@ -1,0 +1,210 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 12: list a1-06, French class)",
+    "uk": "Vocabulaire de base — базова лексика (набір 12: список a1-06, урок французької)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Question » is [kɛstjɔ̃]: after s, the ti is a real t, not the [s] of « nation ». Watch the masculine/feminine pairs: « gros » [ɡʁo] but « grosse » [ɡʁos], « long » [lɔ̃] but « longue » [lɔ̃ɡ]; « longtemps » is [lɔ̃tɑ̃]. « Bras » [bʁa] and « écrit » [ekʁi] end silently, and the h of « l'histoire » is silent. « Cœur » is [kœʁ], the same vowel as « sœur ». In Québec, oi before r is often a deep [wɑ], so « noir » can sound like « nwâr », and vowels before r are long.",
+    "uk": "« Question » — це [kɛstjɔ̃]: після s ti — справжнє t, а не [s], як у « nation ». Стежте за парами чоловічого й жіночого роду: « gros » [ɡʁo], але « grosse » [ɡʁos], « long » [lɔ̃], але « longue » [lɔ̃ɡ]; « longtemps » — це [lɔ̃tɑ̃]. « Bras » [bʁa] і « écrit » [ekʁi] закінчуються беззвучно, а h в « l'histoire » німе. « Cœur » — це [kœʁ], той самий голосний, що в « sœur ». У Квебеку oi перед r часто звучить як глибоке [wɑ], тож « noir » може звучати як « нвар », а голосні перед r довгі."
+  },
+  "sentences": [
+    {
+      "fr": "Cette année, j'apprends le français, et ça change ma vie.",
+      "uk": "Цього року я вчу французьку, і це змінює моє життя.",
+      "en": "This year, I'm learning French, and it's changing my life."
+    },
+    {
+      "fr": "J'attends ce moment depuis longtemps.",
+      "uk": "Я давно чекаю на цю мить.",
+      "en": "I've been waiting for this moment for a long time."
+    },
+    {
+      "fr": "Le cours est long, mais la prof est super : elle écrit au tableau noir et elle nous montre des photos.",
+      "uk": "Заняття довге, але викладачка чудова: вона пише на дошці й показує нам фото.",
+      "en": "The class is long, but the teacher is great: she writes on the blackboard and shows us photos."
+    },
+    {
+      "fr": "Elle pose des questions, et je lève le bras pour répondre.",
+      "uk": "Вона ставить запитання, а я піднімаю руку, щоб відповісти.",
+      "en": "She asks questions, and I raise my arm to answer."
+    },
+    {
+      "fr": "Mon cœur bat vite, car pour moi, la grammaire est un gros problème.",
+      "uk": "Серце калатає, бо для мене граматика — велика проблема.",
+      "en": "My heart is beating fast, because for me, grammar is a big problem."
+    },
+    {
+      "fr": "La prof sourit : « Ce n'est pas la peine d'avoir peur. Les erreurs servent à apprendre. »",
+      "uk": "Викладачка всміхається: « Не треба боятися. Помилки допомагають навчатися. »",
+      "en": "The teacher smiles: “There's no need to be afraid. Mistakes help you learn.”"
+    },
+    {
+      "fr": "Ensuite, on lit une histoire sur le Québec.",
+      "uk": "Потім ми читаємо історію про Квебек.",
+      "en": "Then we read a story about Québec."
+    },
+    {
+      "fr": "Après le cours, je retrouve mes amis au café. J'ai une idée : on parle seulement français!",
+      "uk": "Після заняття я зустрічаюся з друзями в кав'ярні. У мене є ідея: говоримо лише французькою!",
+      "en": "After class, I meet up with my friends at the café. I have an idea: we speak only French!"
+    },
+    {
+      "fr": "Mon amie partage un gâteau : « Voici ta part! » Elle a un grand sourire sur le visage.",
+      "uk": "Моя подруга ділить торт: « Ось твоя частка! » На її обличчі широка усмішка.",
+      "en": "My friend shares a cake: “Here's your share!” She has a big smile on her face."
+    },
+    {
+      "fr": "Ainsi, petit à petit, j'apprends.",
+      "uk": "Так, крок за кроком, я вчуся.",
+      "en": "That's how, little by little, I learn."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'année (f.)",
+      "en": "the year",
+      "uk": "рік"
+    },
+    {
+      "fr": "apprendre",
+      "en": "to learn",
+      "uk": "вчити(ся), дізнаватися"
+    },
+    {
+      "fr": "changer",
+      "en": "to change",
+      "uk": "змінювати(ся)"
+    },
+    {
+      "fr": "longtemps",
+      "en": "for a long time",
+      "uk": "довго"
+    },
+    {
+      "fr": "long / longue",
+      "en": "long",
+      "uk": "довгий / довга"
+    },
+    {
+      "fr": "écrire",
+      "en": "to write",
+      "uk": "писати"
+    },
+    {
+      "fr": "noir / noire",
+      "en": "black",
+      "uk": "чорний / чорна"
+    },
+    {
+      "fr": "montrer",
+      "en": "to show",
+      "uk": "показувати"
+    },
+    {
+      "fr": "poser",
+      "en": "to put down / to ask (a question)",
+      "uk": "класти / ставити (запитання)"
+    },
+    {
+      "fr": "la question",
+      "en": "the question",
+      "uk": "питання, запитання"
+    },
+    {
+      "fr": "le bras",
+      "en": "the arm",
+      "uk": "рука (від плеча)"
+    },
+    {
+      "fr": "répondre",
+      "en": "to answer",
+      "uk": "відповідати"
+    },
+    {
+      "fr": "le cœur",
+      "en": "the heart",
+      "uk": "серце"
+    },
+    {
+      "fr": "car",
+      "en": "because / for",
+      "uk": "бо, адже"
+    },
+    {
+      "fr": "gros / grosse",
+      "en": "big / fat",
+      "uk": "великий / товстий, товста"
+    },
+    {
+      "fr": "le problème",
+      "en": "the problem",
+      "uk": "проблема"
+    },
+    {
+      "fr": "la peine",
+      "en": "the trouble / the sorrow (ce n'est pas la peine = no need)",
+      "uk": "клопіт / горе (ce n'est pas la peine = не варто)"
+    },
+    {
+      "fr": "servir",
+      "en": "to serve / to be used for",
+      "uk": "служити, подавати / слугувати для"
+    },
+    {
+      "fr": "lire",
+      "en": "to read",
+      "uk": "читати"
+    },
+    {
+      "fr": "l'histoire (f.)",
+      "en": "the story / history",
+      "uk": "історія, розповідь / історія (наука)"
+    },
+    {
+      "fr": "retrouver",
+      "en": "to find again / to meet up with",
+      "uk": "знову знайти / зустрітися з"
+    },
+    {
+      "fr": "l'idée (f.)",
+      "en": "the idea",
+      "uk": "ідея, думка"
+    },
+    {
+      "fr": "la part",
+      "en": "the share / the part (de la part de = from)",
+      "uk": "частка, частина (de la part de = від)"
+    },
+    {
+      "fr": "le visage",
+      "en": "the face",
+      "uk": "обличчя"
+    },
+    {
+      "fr": "ainsi",
+      "en": "thus / so",
+      "uk": "так, таким чином"
+    },
+    {
+      "fr": "la prof",
+      "en": "the teacher (woman, informal)",
+      "uk": "викладачка (розм.)"
+    },
+    {
+      "fr": "le tableau",
+      "en": "the board",
+      "uk": "дошка"
+    },
+    {
+      "fr": "l'erreur (f.)",
+      "en": "the mistake",
+      "uk": "помилка"
+    },
+    {
+      "fr": "partager",
+      "en": "to share",
+      "uk": "ділити, ділитися"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 10: list a1-05, Grandpa's garden)",
+    "uk": "Vocabulaire de base — базова лексика (набір 10: список a1-05, дідусів город)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "Final consonants hide again: « vit » [vi], « mort » [mɔʁ], « peu » [pø], « vieux » [vjø]. « Le fait » is an exception many speakers make: they say the t, [fɛt], as in « en fait ». « Eau » is just [o], so « un peu d'eau » is [œ̃ pø do]. « Quelqu'un » ends in the nasal [œ̃]; in Québec it stays distinct from the [ɛ̃] of « vin », while many speakers in France merge them. « Juste » often drops its final -te in Québec speech (« jusse »), and « terre » has a long vowel that can slide toward « taère ».",
+    "uk": "Кінцеві приголосні знову ховаються: « vit » [vi], « mort » [mɔʁ], « peu » [pø], « vieux » [vjø]. « Le fait » — виняток, який роблять багато мовців: вони вимовляють t, [fɛt], як у « en fait ». « Eau » — це просто [o], тож « un peu d'eau » — [œ̃ pø do]. « Quelqu'un » закінчується носовим [œ̃]; у Квебеку він не зливається з [ɛ̃] у « vin », тоді як у Франції багато хто їх не розрізняє. У квебекському мовленні « juste » часто втрачає кінцеве -te (« jusse »), а в « terre » довгий голосний, який може ковзати до « таер »."
+  },
+  "sentences": [
+    {
+      "fr": "Mon grand-père habite à la campagne. Depuis la mort de grand-maman, il vit seul.",
+      "uk": "Мій дідусь живе в селі. Після смерті бабусі він живе сам.",
+      "en": "My grandfather lives in the country. Since Grandma's death, he's been living alone."
+    },
+    {
+      "fr": "Il est vieux, mais il travaille encore la terre.",
+      "uk": "Він старий, але досі обробляє землю.",
+      "en": "He's old, but he still works the land."
+    },
+    {
+      "fr": "Il fait pousser ses tomates avec tant d'amour!",
+      "uk": "Він вирощує свої помідори з такою любов'ю!",
+      "en": "He grows his tomatoes with so much love!"
+    },
+    {
+      "fr": "Quand j'arrive, il ouvre la porte et dit juste un mot : « Enfin! »",
+      "uk": "Коли я приїжджаю, він відчиняє двері й каже лише одне слово: « Нарешті! »",
+      "en": "When I arrive, he opens the door and says just one word: “Finally!”"
+    },
+    {
+      "fr": "Il me donne un peu d'eau fraîche, puis il demande : « Tu veux essayer une tomate? »",
+      "uk": "Він дає мені трохи холодної води, а потім питає: « Хочеш скуштувати помідор? »",
+      "en": "He gives me a little cool water, then he asks: “Do you want to try a tomato?”"
+    },
+    {
+      "fr": "Elle est délicieuse, ça me plaît beaucoup! On mange dehors, au soleil.",
+      "uk": "Він смачнющий, мені дуже подобається! Ми їмо надворі, на сонці.",
+      "en": "It's delicious, I really like it! We eat outside, in the sun."
+    },
+    {
+      "fr": "Grand-papa a mal au dos, mais dans son jardin, il oublie tout.",
+      "uk": "У дідуся болить спина, але на своєму городі він про все забуває.",
+      "en": "Grandpa's back hurts, but in his garden, he forgets everything."
+    },
+    {
+      "fr": "Le fait est simple : ce jardin le rend heureux. C'est sa raison de vivre.",
+      "uk": "Річ проста: цей город робить його щасливим. Це сенс його життя.",
+      "en": "The fact is simple: this garden makes him happy. It's his reason for living."
+    },
+    {
+      "fr": "J'écoute ses histoires pendant des heures.",
+      "uk": "Я годинами слухаю його історії.",
+      "en": "I listen to his stories for hours."
+    },
+    {
+      "fr": "Le soir, quelqu'un frappe à la porte : c'est le voisin, qui vient jouer aux cartes.",
+      "uk": "Увечері хтось стукає у двері: це сусід, який приходить пограти в карти.",
+      "en": "In the evening, someone knocks at the door: it's the neighbour, who comes to play cards."
+    },
+    {
+      "fr": "Avec lui, grand-papa devient un autre homme : il rit et il chante.",
+      "uk": "З ним дідусь стає іншою людиною: він сміється й співає.",
+      "en": "With him, Grandpa becomes another man: he laughs and sings."
+    },
+    {
+      "fr": "Tard, je rentre en ville, avec un sac plein de tomates.",
+      "uk": "Пізно ввечері я повертаюся до міста з повною торбою помідорів.",
+      "en": "Late, I go back home to the city, with a bag full of tomatoes."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "depuis",
+      "en": "since / for (time)",
+      "uk": "з (якогось часу) / протягом"
+    },
+    {
+      "fr": "la mort",
+      "en": "the death / (le mort = dead person)",
+      "uk": "смерть / (le mort = мертвий, покійник)"
+    },
+    {
+      "fr": "vivre",
+      "en": "to live",
+      "uk": "жити"
+    },
+    {
+      "fr": "vieux / vieille",
+      "en": "old",
+      "uk": "старий / стара"
+    },
+    {
+      "fr": "la terre",
+      "en": "the earth / the ground",
+      "uk": "земля / ґрунт"
+    },
+    {
+      "fr": "tant",
+      "en": "so much / so many",
+      "uk": "так багато, стільки"
+    },
+    {
+      "fr": "l'amour (m.)",
+      "en": "the love",
+      "uk": "кохання, любов"
+    },
+    {
+      "fr": "ouvrir",
+      "en": "to open",
+      "uk": "відчиняти"
+    },
+    {
+      "fr": "la porte",
+      "en": "the door",
+      "uk": "двері"
+    },
+    {
+      "fr": "juste",
+      "en": "fair / just / right",
+      "uk": "справедливий / саме, якраз / правильний"
+    },
+    {
+      "fr": "le mot",
+      "en": "the word",
+      "uk": "слово"
+    },
+    {
+      "fr": "peu",
+      "en": "little / not much",
+      "uk": "мало, небагато"
+    },
+    {
+      "fr": "l'eau (f.)",
+      "en": "the water",
+      "uk": "вода"
+    },
+    {
+      "fr": "essayer",
+      "en": "to try",
+      "uk": "пробувати, намагатися"
+    },
+    {
+      "fr": "plaire",
+      "en": "to please (ça me plaît = I like it)",
+      "uk": "подобатися (ça me plaît = мені це подобається)"
+    },
+    {
+      "fr": "manger",
+      "en": "to eat",
+      "uk": "їсти"
+    },
+    {
+      "fr": "mal",
+      "en": "badly / bad",
+      "uk": "погано / поганий"
+    },
+    {
+      "fr": "oublier",
+      "en": "to forget",
+      "uk": "забувати"
+    },
+    {
+      "fr": "le fait",
+      "en": "the fact",
+      "uk": "факт"
+    },
+    {
+      "fr": "rendre",
+      "en": "to give back / to make (rendre heureux)",
+      "uk": "повертати, віддавати / робити (rendre heureux = робити щасливим)"
+    },
+    {
+      "fr": "la raison",
+      "en": "the reason (avoir raison = to be right)",
+      "uk": "причина (avoir raison = мати рацію)"
+    },
+    {
+      "fr": "écouter",
+      "en": "to listen (to)",
+      "uk": "слухати"
+    },
+    {
+      "fr": "quelqu'un",
+      "en": "someone",
+      "uk": "хтось"
+    },
+    {
+      "fr": "devenir",
+      "en": "to become",
+      "uk": "ставати"
+    },
+    {
+      "fr": "rentrer",
+      "en": "to come home / to go back in",
+      "uk": "повертатися додому / заходити назад"
+    },
+    {
+      "fr": "la campagne",
+      "en": "the countryside",
+      "uk": "село, сільська місцевість"
+    },
+    {
+      "fr": "faire pousser",
+      "en": "to grow (plants)",
+      "uk": "вирощувати"
+    },
+    {
+      "fr": "le jardin",
+      "en": "the (vegetable) garden",
+      "uk": "город, сад"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 2: list a1-01, the Tremblay family in numbers)",
+    "uk": "Vocabulaire de base — базова лексика (набір 2: список a1-01, родина Трамбле в числах)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "Numbers change at the end depending on what follows. « Six » and « dix » end in [s] on their own, are silent before a consonant (« six pommes » [si pɔm]) and become [z] before a vowel (« dix-huit » [dizɥit]). « Huit » drops its t before a consonant (« huit tomates » [ɥi tɔmat]), and « neuf » turns into [v] in « neuf heures ». « Vingt » is [vɛ̃], « sept » is [sɛt] with no p, « cent » keeps its t silent, and « quatre-vingts » has no t or s sounded. The x in « soixante » is [s], but in « deuxième » it's [z]. In Québec, d and t before i, u or y become « dz » and « ts »: « dix » ≈ « dzis », « petits » ≈ « p'tsi ».",
+    "uk": "Числа змінюють своє закінчення залежно від того, що йде далі. « Six » і « dix » окремо закінчуються на [s], перед приголосним німі (« six pommes » [si pɔm]), а перед голосним стають [z] (« dix-huit » [dizɥit]). « Huit » втрачає t перед приголосним (« huit tomates » [ɥi tɔmat]), а « neuf » перетворюється на [v] у « neuf heures ». « Vingt » — це [vɛ̃], « sept » — [sɛt] без p, у « cent » t німе, а в « quatre-vingts » не вимовляється ні t, ні s. x у « soixante » — це [s], а в « deuxième » — [z]. У Квебеку d і t перед i, u чи y стають « дз » і « ц »: « dix » ≈ « дзіс », « petits » ≈ « п'ці »."
+  },
+  "sentences": [
+    {
+      "fr": "Chez les Tremblay, il y a deux parents, trois enfants et un chien de cinq ans.",
+      "uk": "У родині Трамбле двоє батьків, троє дітей і п'ятирічний пес.",
+      "en": "At the Tremblays', there are two parents, three children and a five-year-old dog."
+    },
+    {
+      "fr": "Léa a dix-neuf ans, Hugo a seize ans et la petite Zoé a onze ans.",
+      "uk": "Леї дев'ятнадцять, Гюґо шістнадцять, а маленькій Зое одинадцять.",
+      "en": "Léa is nineteen, Hugo is sixteen and little Zoé is eleven."
+    },
+    {
+      "fr": "Hugo est le deuxième enfant, et Zoé est la troisième.",
+      "uk": "Гюґо — друга дитина, а Зое — третя.",
+      "en": "Hugo is the second child, and Zoé is the third."
+    },
+    {
+      "fr": "Leur mère a quarante ans et leur grand-maman a soixante-dix ans.",
+      "uk": "Їхній мамі сорок, а бабусі сімдесят.",
+      "en": "Their mother is forty and their grandma is seventy."
+    },
+    {
+      "fr": "Grand-papa a quatre-vingt-dix ans, et il veut vivre jusqu'à cent ans!",
+      "uk": "Дідусеві дев'яносто, і він хоче дожити до ста!",
+      "en": "Grandpa is ninety, and he wants to live to a hundred!"
+    },
+    {
+      "fr": "Le samedi, au marché, ils achètent six pommes, sept poires, huit tomates, douze œufs et quatre pains.",
+      "uk": "По суботах на ринку вони купують шість яблук, сім груш, вісім помідорів, дванадцять яєць і чотири хлібини.",
+      "en": "On Saturdays, at the market, they buy six apples, seven pears, eight tomatoes, twelve eggs and four loaves of bread."
+    },
+    {
+      "fr": "Ça coûte vingt dollars.",
+      "uk": "Це коштує двадцять доларів.",
+      "en": "It costs twenty dollars."
+    },
+    {
+      "fr": "Ils habitent au numéro quatorze, et le loyer coûte mille dollars par mois.",
+      "uk": "Вони живуть у будинку номер чотирнадцять, і оренда коштує тисячу доларів на місяць.",
+      "en": "They live at number fourteen, and the rent is a thousand dollars a month."
+    },
+    {
+      "fr": "Hugo travaille dix-sept heures par semaine dans un café et il gagne quinze dollars de l'heure.",
+      "uk": "Гюґо працює сімнадцять годин на тиждень у кав'ярні й заробляє п'ятнадцять доларів на годину.",
+      "en": "Hugo works seventeen hours a week in a café and earns fifteen dollars an hour."
+    },
+    {
+      "fr": "Léa a des cours de neuf heures à treize heures, puis elle étudie jusqu'à dix-huit heures.",
+      "uk": "У Леї пари з дев'ятої до тринадцятої, а потім вона навчається до вісімнадцятої.",
+      "en": "Léa has classes from nine to one, then she studies until six."
+    },
+    {
+      "fr": "Le soir, Zoé lit trente pages et sa mère court dix kilomètres.",
+      "uk": "Увечері Зое читає тридцять сторінок, а її мама пробігає десять кілометрів.",
+      "en": "In the evening, Zoé reads thirty pages and her mother runs ten kilometres."
+    },
+    {
+      "fr": "Le chien pèse soixante livres et il mange quatre-vingts biscuits par semaine!",
+      "uk": "Пес важить шістдесят фунтів і з'їдає вісімдесят печив на тиждень!",
+      "en": "The dog weighs sixty pounds and eats eighty biscuits a week!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "deux",
+      "en": "two",
+      "uk": "два"
+    },
+    {
+      "fr": "trois",
+      "en": "three",
+      "uk": "три"
+    },
+    {
+      "fr": "cinq",
+      "en": "five",
+      "uk": "п'ять"
+    },
+    {
+      "fr": "dix-neuf",
+      "en": "nineteen",
+      "uk": "дев'ятнадцять"
+    },
+    {
+      "fr": "seize",
+      "en": "sixteen",
+      "uk": "шістнадцять"
+    },
+    {
+      "fr": "onze",
+      "en": "eleven",
+      "uk": "одинадцять"
+    },
+    {
+      "fr": "deuxième",
+      "en": "second (2nd)",
+      "uk": "другий (2-й)"
+    },
+    {
+      "fr": "troisième",
+      "en": "third",
+      "uk": "третій"
+    },
+    {
+      "fr": "quarante",
+      "en": "forty",
+      "uk": "сорок"
+    },
+    {
+      "fr": "soixante-dix",
+      "en": "seventy",
+      "uk": "сімдесят"
+    },
+    {
+      "fr": "quatre-vingt-dix",
+      "en": "ninety",
+      "uk": "дев'яносто"
+    },
+    {
+      "fr": "cent",
+      "en": "one hundred",
+      "uk": "сто"
+    },
+    {
+      "fr": "six",
+      "en": "six",
+      "uk": "шість"
+    },
+    {
+      "fr": "sept",
+      "en": "seven",
+      "uk": "сім"
+    },
+    {
+      "fr": "huit",
+      "en": "eight",
+      "uk": "вісім"
+    },
+    {
+      "fr": "douze",
+      "en": "twelve",
+      "uk": "дванадцять"
+    },
+    {
+      "fr": "quatre",
+      "en": "four",
+      "uk": "чотири"
+    },
+    {
+      "fr": "vingt",
+      "en": "twenty",
+      "uk": "двадцять"
+    },
+    {
+      "fr": "quatorze",
+      "en": "fourteen",
+      "uk": "чотирнадцять"
+    },
+    {
+      "fr": "mille",
+      "en": "one thousand",
+      "uk": "тисяча"
+    },
+    {
+      "fr": "dix-sept",
+      "en": "seventeen",
+      "uk": "сімнадцять"
+    },
+    {
+      "fr": "quinze",
+      "en": "fifteen",
+      "uk": "п'ятнадцять"
+    },
+    {
+      "fr": "neuf",
+      "en": "nine",
+      "uk": "дев'ять"
+    },
+    {
+      "fr": "treize",
+      "en": "thirteen",
+      "uk": "тринадцять"
+    },
+    {
+      "fr": "dix-huit",
+      "en": "eighteen",
+      "uk": "вісімнадцять"
+    },
+    {
+      "fr": "trente",
+      "en": "thirty",
+      "uk": "тридцять"
+    },
+    {
+      "fr": "dix",
+      "en": "ten",
+      "uk": "десять"
+    },
+    {
+      "fr": "soixante",
+      "en": "sixty",
+      "uk": "шістдесят"
+    },
+    {
+      "fr": "quatre-vingts",
+      "en": "eighty",
+      "uk": "вісімдесят"
+    },
+    {
+      "fr": "le loyer",
+      "en": "the rent",
+      "uk": "оренда, квартплата"
+    },
+    {
+      "fr": "de l'heure",
+      "en": "an hour, per hour (Québec)",
+      "uk": "на годину (у Квебеку)"
+    },
+    {
+      "fr": "la livre",
+      "en": "the pound (weight)",
+      "uk": "фунт (вага)"
+    }
+  ]
+}

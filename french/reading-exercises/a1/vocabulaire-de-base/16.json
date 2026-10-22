@@ -1,0 +1,215 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 16: list a1-08, the surprise party)",
+    "uk": "Vocabulaire de base — базова лексика (набір 16: список a1-08, вечірка-сюрприз)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Verre » [vɛʁ] sounds the same as « vert » and « vers », and « mur » is [myʁ]. « Prêt » is [pʁɛ], « prête » [pʁɛt]. The p in « compter » is silent: [kɔ̃te], just like « conter ». « Là-bas » is [laba], and « cheveux » is [ʃəvø] — « ch'veux » in quick speech. In Québec, « fermer la lumière » means turning off the light (France says « éteindre »), and the guys are usually « les gars » rather than « les mecs », which sounds French from France.",
+    "uk": "« Verre » [vɛʁ] звучить так само, як « vert » і « vers », а « mur » — це [myʁ]. « Prêt » — це [pʁɛ], « prête » — [pʁɛt]. p у « compter » німе: [kɔ̃te], точно як « conter ». « Là-bas » — це [laba], а « cheveux » — [ʃəvø], у швидкому мовленні « ш'вє ». У Квебеку « fermer la lumière » означає вимкнути світло (у Франції кажуть « éteindre »), а хлопців зазвичай називають « les gars », а не « les mecs », що звучить по-французькому з Франції."
+  },
+  "sentences": [
+    {
+      "fr": "Samedi, c'est la fête de Max, et on prépare une surprise.",
+      "uk": "У суботу день народження Макса, і ми готуємо сюрприз.",
+      "en": "Saturday is Max's birthday, and we're planning a surprise."
+    },
+    {
+      "fr": "Le lieu : l'appartement de Julie, en face du parc.",
+      "uk": "Місце: квартира Жюлі, навпроти парку.",
+      "en": "The place: Julie's apartment, across from the park."
+    },
+    {
+      "fr": "On achète des ballons et un gâteau, puis on met de l'ordre dans la pièce.",
+      "uk": "Ми купуємо повітряні кульки й торт, а потім наводимо лад у кімнаті.",
+      "en": "We buy balloons and a cake, then we tidy up the room."
+    },
+    {
+      "fr": "Julie explique le plan : « On ferme la lumière et on se cache derrière le mur. »",
+      "uk": "Жюлі пояснює план: « Вимикаємо світло й ховаємося за стіною. »",
+      "en": "Julie explains the plan: “We turn off the light and hide behind the wall.”"
+    },
+    {
+      "fr": "« Vous êtes prêts? Il arrive! » On compte : « Un, deux, trois… Surprise! »",
+      "uk": "« Готові? Він іде! » Ми рахуємо: « Раз, два, три… Сюрприз! »",
+      "en": "“Are you ready? He's coming!” We count: “One, two, three… Surprise!”"
+    },
+    {
+      "fr": "Max a les cheveux tout mouillés à cause de la pluie.",
+      "uk": "У Макса все волосся мокре через дощ.",
+      "en": "Max's hair is all wet because of the rain."
+    },
+    {
+      "fr": "« Ah, les mecs, quel plaisir! »",
+      "uk": "« Ах, хлопці, яка радість! »",
+      "en": "“Ah, guys, what a pleasure!”"
+    },
+    {
+      "fr": "On lui offre un verre et un cadeau. « Merci! — Je t'en prie! »",
+      "uk": "Ми пропонуємо йому келих і даруємо подарунок. « Дякую! — Нема за що! »",
+      "en": "We give him a drink and a present. “Thank you! — You're welcome!”"
+    },
+    {
+      "fr": "Ensuite, on fait une partie de cartes, et Max nous bat tous.",
+      "uk": "Потім ми граємо партію в карти, і Макс усіх нас обігрує.",
+      "en": "Next, we play a game of cards, and Max beats us all."
+    },
+    {
+      "fr": "Mais attention : le chien est là-bas, dans la cuisine, avec le reste du gâteau. Mauvaise idée!",
+      "uk": "Але обережно: собака там, на кухні, з рештою торта. Погана ідея!",
+      "en": "But watch out: the dog is over there, in the kitchen, with the rest of the cake. Bad idea!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le lieu",
+      "en": "the place / the spot",
+      "uk": "місце"
+    },
+    {
+      "fr": "la face",
+      "en": "the face / the side (en face de = opposite)",
+      "uk": "обличчя / бік (en face de = навпроти)"
+    },
+    {
+      "fr": "acheter",
+      "en": "to buy",
+      "uk": "купувати"
+    },
+    {
+      "fr": "puis",
+      "en": "then",
+      "uk": "потім"
+    },
+    {
+      "fr": "l'ordre (m.)",
+      "en": "the order",
+      "uk": "порядок / наказ"
+    },
+    {
+      "fr": "la pièce",
+      "en": "the room / the coin / the play (theatre)",
+      "uk": "кімната / монета / п'єса"
+    },
+    {
+      "fr": "expliquer",
+      "en": "to explain",
+      "uk": "пояснювати"
+    },
+    {
+      "fr": "fermer",
+      "en": "to close",
+      "uk": "зачиняти"
+    },
+    {
+      "fr": "cacher",
+      "en": "to hide",
+      "uk": "ховати"
+    },
+    {
+      "fr": "derrière",
+      "en": "behind / at the back",
+      "uk": "позаду / ззаду"
+    },
+    {
+      "fr": "le mur",
+      "en": "the wall",
+      "uk": "стіна"
+    },
+    {
+      "fr": "prêt / prête",
+      "en": "ready",
+      "uk": "готовий / готова"
+    },
+    {
+      "fr": "compter",
+      "en": "to count",
+      "uk": "рахувати"
+    },
+    {
+      "fr": "les cheveux",
+      "en": "the hair",
+      "uk": "волосся"
+    },
+    {
+      "fr": "la cause",
+      "en": "the cause (à cause de = because of)",
+      "uk": "причина (à cause de = через)"
+    },
+    {
+      "fr": "le mec",
+      "en": "the guy (slang)",
+      "uk": "хлопець, тип (сленг)"
+    },
+    {
+      "fr": "le plaisir",
+      "en": "the pleasure (avec plaisir = with pleasure)",
+      "uk": "задоволення (avec plaisir = із задоволенням)"
+    },
+    {
+      "fr": "offrir",
+      "en": "to offer / to give (a gift)",
+      "uk": "пропонувати / дарувати"
+    },
+    {
+      "fr": "le verre",
+      "en": "the glass",
+      "uk": "склянка / скло"
+    },
+    {
+      "fr": "prier",
+      "en": "to pray / to beg (je vous en prie = you're welcome)",
+      "uk": "молитися / просити (je vous en prie = прошу, будь ласка)"
+    },
+    {
+      "fr": "la partie",
+      "en": "the part / the game (match)",
+      "uk": "частина / гра, матч"
+    },
+    {
+      "fr": "battre",
+      "en": "to beat (se battre = to fight)",
+      "uk": "бити (se battre = битися)"
+    },
+    {
+      "fr": "là-bas",
+      "en": "over there",
+      "uk": "там, он там"
+    },
+    {
+      "fr": "le reste",
+      "en": "the rest",
+      "uk": "решта"
+    },
+    {
+      "fr": "mauvais / mauvaise",
+      "en": "bad / wrong",
+      "uk": "поганий / погана, неправильний"
+    },
+    {
+      "fr": "la fête",
+      "en": "the birthday, the party",
+      "uk": "день народження, свято"
+    },
+    {
+      "fr": "le ballon",
+      "en": "the balloon",
+      "uk": "повітряна кулька"
+    },
+    {
+      "fr": "mouillé / mouillée",
+      "en": "wet",
+      "uk": "мокрий / мокра"
+    },
+    {
+      "fr": "la pluie",
+      "en": "the rain",
+      "uk": "дощ"
+    },
+    {
+      "fr": "le cadeau",
+      "en": "the present, the gift",
+      "uk": "подарунок"
+    }
+  ]
+}

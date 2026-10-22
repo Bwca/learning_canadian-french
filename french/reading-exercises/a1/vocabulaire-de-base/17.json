@@ -1,0 +1,215 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 17: list a1-09, a day at the sea)",
+    "uk": "Vocabulaire de base — базова лексика (набір 17: список a1-09, день на морі)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Mer », « mère » and « maire » all sound the same, [mɛʁ], and so do « cher » and « chère », « joli » and « jolie ». Em before a consonant is the nasal [ɑ̃]: « emmener » [ɑ̃mne], « jambe » [ʒɑ̃b]. « Sœur » is [sœʁ], with the same vowel as « cœur ». The d of « d'abord » and the t of « salut » are silent. In Québec, « âge » has a long, deep [ɑ], ice cream is « la crème glacée » (France: « une glace »), and « d'abord » can also mean “then, in that case”: « OK d'abord! »",
+    "uk": "« Mer », « mère » і « maire » звучать однаково — [mɛʁ], так само як « cher » і « chère », « joli » і « jolie ». em перед приголосним — це носовий [ɑ̃]: « emmener » [ɑ̃mne], « jambe » [ʒɑ̃b]. « Sœur » — це [sœʁ], з тим самим голосним, що в « cœur ». d у « d'abord » і t у « salut » німі. У Квебеку в « âge » довгий, глибокий [ɑ], морозиво — « la crème glacée » (у Франції — « une glace »), а « d'abord » може означати ще й «тоді, у такому разі»: « OK d'abord! »"
+  },
+  "sentences": [
+    {
+      "fr": "Ce matin, papa nous emmène à la mer, ma sœur et moi.",
+      "uk": "Сьогодні зранку тато везе нас із сестрою на море.",
+      "en": "This morning, Dad is taking my sister and me to the sea."
+    },
+    {
+      "fr": "D'abord, il prépare du café et des sandwichs.",
+      "uk": "Спершу він готує каву й бутерброди.",
+      "en": "First, he makes coffee and sandwiches."
+    },
+    {
+      "fr": "Ma sœur apporte un jeu de cartes et son joli chapeau rouge.",
+      "uk": "Сестра бере з собою карти й свій гарненький червоний капелюшок.",
+      "en": "My sister brings a deck of cards and her pretty red hat."
+    },
+    {
+      "fr": "On prend un petit chemin jusqu'à un bel endroit, loin des gens.",
+      "uk": "Ми йдемо стежкою до гарного місця, подалі від людей.",
+      "en": "We take a little path to a beautiful spot, far from people."
+    },
+    {
+      "fr": "La journée est tellement belle!",
+      "uk": "День такий гарний!",
+      "en": "The day is so beautiful!"
+    },
+    {
+      "fr": "À son âge, ma sœur ne nage pas encore très bien, alors papa ne lui permet pas d'aller loin.",
+      "uk": "У її віці сестра ще не дуже добре плаває, тож тато не дозволяє їй запливати далеко.",
+      "en": "At her age, my sister doesn't swim very well yet, so Dad doesn't let her go far."
+    },
+    {
+      "fr": "Elle tombe sur un rocher et se fait mal à la jambe. Elle pleure un peu, puis elle sourit.",
+      "uk": "Вона падає на камінь і забиває ногу. Трохи плаче, а потім усміхається.",
+      "en": "She falls on a rock and hurts her leg. She cries a little, then she smiles."
+    },
+    {
+      "fr": "On achète une crème glacée, même si c'est cher.",
+      "uk": "Ми купуємо морозиво, хоч воно й дороге.",
+      "en": "We buy an ice cream, even if it's expensive."
+    },
+    {
+      "fr": "Papa dit : « L'école commence bientôt. Profitez de la plage! »",
+      "uk": "Тато каже: « Скоро школа. Насолоджуйтеся пляжем! »",
+      "en": "Dad says: “School starts soon. Enjoy the beach!”"
+    },
+    {
+      "fr": "Le soir, papa couche ma sœur, et elle dit : « Salut, la mer! »",
+      "uk": "Увечері тато вкладає сестру спати, і вона каже: « Бувай, море! »",
+      "en": "In the evening, Dad puts my sister to bed, and she says: “Bye, sea!”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le papa",
+      "en": "dad",
+      "uk": "тато"
+    },
+    {
+      "fr": "emmener",
+      "en": "to take (someone somewhere)",
+      "uk": "забирати, везти (когось кудись)"
+    },
+    {
+      "fr": "la mer",
+      "en": "the sea",
+      "uk": "море"
+    },
+    {
+      "fr": "la sœur",
+      "en": "the sister",
+      "uk": "сестра"
+    },
+    {
+      "fr": "d'abord",
+      "en": "first (of all)",
+      "uk": "спершу, насамперед"
+    },
+    {
+      "fr": "préparer",
+      "en": "to prepare",
+      "uk": "готувати"
+    },
+    {
+      "fr": "le café",
+      "en": "the coffee / the café",
+      "uk": "кава / кав'ярня"
+    },
+    {
+      "fr": "apporter",
+      "en": "to bring",
+      "uk": "приносити"
+    },
+    {
+      "fr": "le jeu",
+      "en": "the game",
+      "uk": "гра"
+    },
+    {
+      "fr": "joli / jolie",
+      "en": "pretty",
+      "uk": "гарний / гарна, симпатичний"
+    },
+    {
+      "fr": "rouge",
+      "en": "red",
+      "uk": "червоний"
+    },
+    {
+      "fr": "le chemin",
+      "en": "the path / the way",
+      "uk": "шлях, дорога"
+    },
+    {
+      "fr": "l'endroit (m.)",
+      "en": "the place / the spot",
+      "uk": "місце"
+    },
+    {
+      "fr": "la journée",
+      "en": "the day (daytime)",
+      "uk": "день (світла частина доби)"
+    },
+    {
+      "fr": "tellement",
+      "en": "so / so much",
+      "uk": "так / настільки"
+    },
+    {
+      "fr": "l'âge (m.)",
+      "en": "the age",
+      "uk": "вік"
+    },
+    {
+      "fr": "permettre",
+      "en": "to allow",
+      "uk": "дозволяти"
+    },
+    {
+      "fr": "la jambe",
+      "en": "the leg",
+      "uk": "нога"
+    },
+    {
+      "fr": "pleurer",
+      "en": "to cry",
+      "uk": "плакати"
+    },
+    {
+      "fr": "sourire",
+      "en": "to smile",
+      "uk": "усміхатися"
+    },
+    {
+      "fr": "cher / chère",
+      "en": "expensive / dear",
+      "uk": "дорогий / дорога"
+    },
+    {
+      "fr": "l'école (f.)",
+      "en": "the school",
+      "uk": "школа"
+    },
+    {
+      "fr": "bientôt",
+      "en": "soon",
+      "uk": "незабаром"
+    },
+    {
+      "fr": "coucher",
+      "en": "to put to bed (se coucher = to go to bed)",
+      "uk": "вкладати спати (se coucher = лягати спати)"
+    },
+    {
+      "fr": "salut",
+      "en": "hi / bye (informal)",
+      "uk": "привіт / бувай (неформально)"
+    },
+    {
+      "fr": "le chapeau",
+      "en": "the hat",
+      "uk": "капелюх"
+    },
+    {
+      "fr": "nager",
+      "en": "to swim",
+      "uk": "плавати"
+    },
+    {
+      "fr": "le rocher",
+      "en": "the rock",
+      "uk": "камінь, скеля"
+    },
+    {
+      "fr": "la crème glacée",
+      "en": "the ice cream (Québec)",
+      "uk": "морозиво (у Квебеку)"
+    },
+    {
+      "fr": "profiter de",
+      "en": "to enjoy, to make the most of",
+      "uk": "користатися, насолоджуватися"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 15: list a1-08, a letter to Mom)",
+    "uk": "Vocabulaire de base — базова лексика (набір 15: список a1-08, лист мамі)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Pays » has two syllables, [pei], and « ciel » is [sjɛl]. « Bois » [bwa], « parfois » [paʁfwa], « souvent » [suvɑ̃] and « surtout » [syʁtu] end silently. « Heureux » and « heureuse » differ only at the end: [œʁø], [œʁøz]. « Chère » sounds exactly like « cher », [ʃɛʁ]. In Québec, a final -ble or -tre often loses its last sounds in casual speech: « possible » ≈ « possib' », « ensemble » ≈ « ensemb' », « notre » ≈ « not' ».",
+    "uk": "« Pays » має два склади — [pei], а « ciel » — це [sjɛl]. « Bois » [bwa], « parfois » [paʁfwa], « souvent » [suvɑ̃] і « surtout » [syʁtu] закінчуються беззвучно. « Heureux » і « heureuse » відрізняються лише закінченням: [œʁø], [œʁøz]. « Chère » звучить точнісінько як « cher » — [ʃɛʁ]. У Квебеку кінцеве -ble чи -tre у невимушеному мовленні часто втрачає останні звуки: « possible » ≈ « посіб », « ensemble » ≈ « ансамб », « notre » ≈ « нот »."
+  },
+  "sentences": [
+    {
+      "fr": "Chère maman, merci pour ta lettre!",
+      "uk": "Дорога мамо, дякую за твій лист!",
+      "en": "Dear Mom, thank you for your letter!"
+    },
+    {
+      "fr": "Je la reçois aujourd'hui, et je la lis trois fois.",
+      "uk": "Я отримую його сьогодні й перечитую тричі.",
+      "en": "I'm getting it today, and I read it three times."
+    },
+    {
+      "fr": "Tu me manques souvent, et notre pays aussi, surtout le soir.",
+      "uk": "Я часто сумую за тобою і за нашою країною, особливо ввечері.",
+      "en": "I often miss you, and our country too, especially in the evening."
+    },
+    {
+      "fr": "Mais ici, je suis heureuse : notre nouvelle maison est près d'un bois.",
+      "uk": "Але тут я щаслива: наш новий будинок біля лісу.",
+      "en": "But here, I'm happy: our new house is near some woods."
+    },
+    {
+      "fr": "Le matin, je cours autour du lac avec le chien.",
+      "uk": "Зранку я бігаю навколо озера з собакою.",
+      "en": "In the morning, I run around the lake with the dog."
+    },
+    {
+      "fr": "Il y a un grand silence, et la lumière sur l'eau est magnifique.",
+      "uk": "Стоїть велика тиша, а світло на воді чудове.",
+      "en": "There's a deep silence, and the light on the water is magnificent."
+    },
+    {
+      "fr": "Parfois, le soir, le ciel devient tout rose.",
+      "uk": "Іноді ввечері небо стає зовсім рожевим.",
+      "en": "Sometimes, in the evening, the sky turns all pink."
+    },
+    {
+      "fr": "Mon mari rencontre beaucoup de gens au travail.",
+      "uk": "Мій чоловік знайомиться з багатьма людьми на роботі.",
+      "en": "My husband meets a lot of people at work."
+    },
+    {
+      "fr": "Imagine : nous décidons d'apprendre à skier ensemble!",
+      "uk": "Уяви: ми вирішили разом навчитися кататися на лижах!",
+      "en": "Imagine: we're deciding to learn to ski together!"
+    },
+    {
+      "fr": "La route est longue, mais j'espère que c'est possible pour toi de venir cet été.",
+      "uk": "Дорога довга, але я сподіваюся, що цього літа ти зможеш приїхати.",
+      "en": "The road is long, but I hope it's possible for you to come this summer."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "merci",
+      "en": "thank you",
+      "uk": "дякую"
+    },
+    {
+      "fr": "la lettre",
+      "en": "the letter",
+      "uk": "лист / літера"
+    },
+    {
+      "fr": "recevoir",
+      "en": "to receive",
+      "uk": "отримувати"
+    },
+    {
+      "fr": "manquer",
+      "en": "to miss / to lack",
+      "uk": "пропускати, сумувати / бракувати"
+    },
+    {
+      "fr": "souvent",
+      "en": "often",
+      "uk": "часто"
+    },
+    {
+      "fr": "le pays",
+      "en": "the country",
+      "uk": "країна"
+    },
+    {
+      "fr": "surtout",
+      "en": "especially / above all",
+      "uk": "особливо / передусім"
+    },
+    {
+      "fr": "heureux / heureuse",
+      "en": "happy",
+      "uk": "щасливий / щаслива"
+    },
+    {
+      "fr": "nouveau / nouvelle",
+      "en": "new",
+      "uk": "новий / нова"
+    },
+    {
+      "fr": "le bois",
+      "en": "the wood / the woods",
+      "uk": "деревина / ліс"
+    },
+    {
+      "fr": "courir",
+      "en": "to run",
+      "uk": "бігти"
+    },
+    {
+      "fr": "autour",
+      "en": "around",
+      "uk": "навколо"
+    },
+    {
+      "fr": "le chien / la chienne",
+      "en": "the dog",
+      "uk": "собака / сука"
+    },
+    {
+      "fr": "le silence",
+      "en": "the silence",
+      "uk": "тиша"
+    },
+    {
+      "fr": "la lumière",
+      "en": "the light",
+      "uk": "світло"
+    },
+    {
+      "fr": "parfois",
+      "en": "sometimes",
+      "uk": "іноді"
+    },
+    {
+      "fr": "le ciel",
+      "en": "the sky",
+      "uk": "небо"
+    },
+    {
+      "fr": "le mari",
+      "en": "the husband",
+      "uk": "чоловік (у шлюбі)"
+    },
+    {
+      "fr": "rencontrer",
+      "en": "to meet",
+      "uk": "зустрічати"
+    },
+    {
+      "fr": "imaginer",
+      "en": "to imagine",
+      "uk": "уявляти"
+    },
+    {
+      "fr": "décider",
+      "en": "to decide",
+      "uk": "вирішувати"
+    },
+    {
+      "fr": "ensemble",
+      "en": "together",
+      "uk": "разом"
+    },
+    {
+      "fr": "la route",
+      "en": "the road",
+      "uk": "дорога"
+    },
+    {
+      "fr": "espérer",
+      "en": "to hope",
+      "uk": "сподіватися"
+    },
+    {
+      "fr": "possible",
+      "en": "possible",
+      "uk": "можливий"
+    },
+    {
+      "fr": "le lac",
+      "en": "the lake",
+      "uk": "озеро"
+    },
+    {
+      "fr": "skier",
+      "en": "to ski",
+      "uk": "кататися на лижах"
+    }
+  ]
+}

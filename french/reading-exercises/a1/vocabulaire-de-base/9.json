@@ -1,0 +1,220 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 9: list a1-05, the hockey game)",
+    "uk": "Vocabulaire de base — базова лексика (набір 9: список a1-05, хокейний матч)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Le hockey » keeps its article whole: the h is “aspirated”, so it's never « l'hockey » and there's no liaison (« les | hockeyeurs »). « Voix » [vwa] and « nom » [nɔ̃] end silently, and « eux » is just [ø]. « Dernier » [dɛʁnje] and « dernière » [dɛʁnjɛʁ] differ in the end: closed é, then open è + r. « Jeune » [ʒœn] has an open vowel. In Québec, i and u in a closed syllable are short and loose, so « vite » sounds close to « vitt », and vowels before r are long — « peur » can sound like « paeur ». The rink is « l'aréna », the puck « la rondelle ».",
+    "uk": "« Le hockey » зберігає артикль повністю: h тут «придихове», тож ніколи не буває « l'hockey » і немає зв'язування (« les | hockeyeurs »). « Voix » [vwa] і « nom » [nɔ̃] закінчуються беззвучно, а « eux » — це просто [ø]. « Dernier » [dɛʁnje] і « dernière » [dɛʁnjɛʁ] відрізняються закінченням: закрите é, а потім відкрите è + r. У « jeune » [ʒœn] відкритий голосний. У Квебеку i та u в закритому складі короткі й ненапружені, тож « vite » звучить майже як « віт », а голосні перед r довгі — « peur » може звучати як « паер ». Ковзанка — це « l'aréna », шайба — « la rondelle »."
+  },
+  "sentences": [
+    {
+      "fr": "Ce soir, mon fils joue au hockey contre l'équipe de Laval.",
+      "uk": "Сьогодні ввечері мій син грає в хокей проти команди з Лаваля.",
+      "en": "Tonight, my son is playing hockey against the team from Laval."
+    },
+    {
+      "fr": "Les gens entrent dans l'aréna, et on trouve une place devant la glace.",
+      "uk": "Люди заходять на арену, а ми знаходимо місце перед льодом.",
+      "en": "People are coming into the arena, and we find a seat in front of the ice."
+    },
+    {
+      "fr": "Les joueurs sont jeunes : ils ont dix ans.",
+      "uk": "Гравці молоді: їм по десять років.",
+      "en": "The players are young: they're ten."
+    },
+    {
+      "fr": "Mon fils porte le numéro sept, avec son nom sur le dos.",
+      "uk": "Мій син грає під сьомим номером, а на спині в нього його прізвище.",
+      "en": "My son wears number seven, with his name on his back."
+    },
+    {
+      "fr": "Le match commence, et les petits patinent vite!",
+      "uk": "Матч починається, і малеча швидко катається!",
+      "en": "The game starts, and the little ones skate fast!"
+    },
+    {
+      "fr": "Pendant la première période, mon fils tombe, mais un ami l'aide à se lever.",
+      "uk": "У першому періоді мій син падає, але друг допомагає йому підвестися.",
+      "en": "During the first period, my son falls, but a friend helps him get up."
+    },
+    {
+      "fr": "Il n'a pas peur : il tire, et… ah! Le gardien arrête la rondelle.",
+      "uk": "Він не боїться: він кидає, і… ах! Воротар ловить шайбу.",
+      "en": "He's not afraid: he shoots, and… ah! The goalie stops the puck."
+    },
+    {
+      "fr": "De notre côté, les parents crient, et j'entends la voix de mon mari partout.",
+      "uk": "На нашому боці батьки кричать, і голос мого чоловіка чути всюди.",
+      "en": "On our side, the parents are shouting, and I can hear my husband's voice everywhere."
+    },
+    {
+      "fr": "L'autre équipe semble très forte : eux, ils marquent trois buts, et nous, seulement un.",
+      "uk": "Інша команда, здається, дуже сильна: вони забивають три шайби, а ми — лише одну.",
+      "en": "The other team seems very strong: they score three goals, and we only one."
+    },
+    {
+      "fr": "À la dernière minute, le match finit, et on perd trois à un.",
+      "uk": "На останній хвилині матч закінчується, і ми програємо з рахунком три — один.",
+      "en": "In the last minute, the game ends, and we lose three to one."
+    },
+    {
+      "fr": "« C'est assez de hockey pour aujourd'hui! On va manger une poutine. »",
+      "uk": "« На сьогодні хокею досить! Ходімо їсти путін. »",
+      "en": "“That's enough hockey for today! Let's go eat a poutine.”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "jouer",
+      "en": "to play",
+      "uk": "грати"
+    },
+    {
+      "fr": "contre",
+      "en": "against",
+      "uk": "проти"
+    },
+    {
+      "fr": "les gens",
+      "en": "people",
+      "uk": "люди"
+    },
+    {
+      "fr": "entrer",
+      "en": "to enter / to come in",
+      "uk": "входити, заходити"
+    },
+    {
+      "fr": "la place",
+      "en": "the place / the seat / the square",
+      "uk": "місце / сидіння / площа"
+    },
+    {
+      "fr": "devant",
+      "en": "in front of",
+      "uk": "перед"
+    },
+    {
+      "fr": "jeune",
+      "en": "young",
+      "uk": "молодий"
+    },
+    {
+      "fr": "porter",
+      "en": "to carry / to wear",
+      "uk": "нести / носити (одяг)"
+    },
+    {
+      "fr": "le nom",
+      "en": "the name",
+      "uk": "ім'я, назва"
+    },
+    {
+      "fr": "commencer",
+      "en": "to start / to begin",
+      "uk": "починати"
+    },
+    {
+      "fr": "vite",
+      "en": "quickly / fast",
+      "uk": "швидко"
+    },
+    {
+      "fr": "pendant",
+      "en": "during",
+      "uk": "під час"
+    },
+    {
+      "fr": "tomber",
+      "en": "to fall",
+      "uk": "падати"
+    },
+    {
+      "fr": "aider",
+      "en": "to help",
+      "uk": "допомагати"
+    },
+    {
+      "fr": "la peur",
+      "en": "the fear (avoir peur = to be afraid)",
+      "uk": "страх (avoir peur = боятися)"
+    },
+    {
+      "fr": "tirer",
+      "en": "to pull / to shoot",
+      "uk": "тягнути / стріляти"
+    },
+    {
+      "fr": "ah",
+      "en": "ah",
+      "uk": "а, ах"
+    },
+    {
+      "fr": "le côté",
+      "en": "the side",
+      "uk": "бік, сторона"
+    },
+    {
+      "fr": "la voix",
+      "en": "the voice",
+      "uk": "голос"
+    },
+    {
+      "fr": "sembler",
+      "en": "to seem",
+      "uk": "здаватися"
+    },
+    {
+      "fr": "eux",
+      "en": "them (stressed)",
+      "uk": "вони, їх (наголошене)"
+    },
+    {
+      "fr": "dernier / dernière",
+      "en": "last",
+      "uk": "останній / остання"
+    },
+    {
+      "fr": "finir",
+      "en": "to finish",
+      "uk": "закінчувати"
+    },
+    {
+      "fr": "perdre",
+      "en": "to lose",
+      "uk": "губити, втрачати"
+    },
+    {
+      "fr": "assez",
+      "en": "enough",
+      "uk": "досить, достатньо"
+    },
+    {
+      "fr": "l'équipe (f.)",
+      "en": "the team",
+      "uk": "команда"
+    },
+    {
+      "fr": "l'aréna (m.)",
+      "en": "the (hockey) arena, the rink (Québec)",
+      "uk": "льодова арена (у Квебеку)"
+    },
+    {
+      "fr": "patiner",
+      "en": "to skate",
+      "uk": "кататися на ковзанах"
+    },
+    {
+      "fr": "la rondelle",
+      "en": "the puck (Québec)",
+      "uk": "шайба (у Квебеку)"
+    },
+    {
+      "fr": "le but",
+      "en": "the goal",
+      "uk": "гол"
+    }
+  ]
+}

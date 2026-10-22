@@ -1,0 +1,225 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 20: list a1-10, a morning on the horse farm)",
+    "uk": "Vocabulaire de base — базова лексика (набір 20: список a1-10, ранок на кінній фермі)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Le vent » and « il vend » sound exactly the same, [vɑ̃]. So do « maître », « mettre » and « mètre », [mɛtʁ]. « Dos » [do], « froid » [fʁwa] and « coin » [kwɛ̃] end silently. « Cheval » often loses its e: [ʃval]. « Ombre » [ɔ̃bʁ] starts with a nasal, and « effet » is [efɛ]. In Québec, « arbre » can shrink to « arb' » in casual speech, and when it's really cold people say « il fait frette ».",
+    "uk": "« Le vent » і « il vend » звучать абсолютно однаково — [vɑ̃]. Так само й « maître », « mettre » і « mètre » — [mɛtʁ]. « Dos » [do], « froid » [fʁwa] і « coin » [kwɛ̃] закінчуються беззвучно. « Cheval » часто втрачає e: [ʃval]. « Ombre » [ɔ̃bʁ] починається з носового, а « effet » — це [efɛ]. У Квебеку « arbre » у невимушеному мовленні може скоротитися до « арб », а коли справді холодно, кажуть « il fait frette »."
+  },
+  "sentences": [
+    {
+      "fr": "Dimanche, mon père me réveille à six heures : « Debout! »",
+      "uk": "У неділю тато будить мене о шостій: « Вставай! »",
+      "en": "On Sunday, my father wakes me up at six: “Get up!”"
+    },
+    {
+      "fr": "D'abord, il lit le journal, ensuite on part. Il conduit jusqu'à une ferme, au bord d'une rivière.",
+      "uk": "Спершу він читає газету, а потім ми вирушаємо. Він везе нас до ферми на березі річки.",
+      "en": "First, he reads the newspaper, then we leave. He drives to a farm, on the bank of a river."
+    },
+    {
+      "fr": "Il fait froid, et le vent est fort.",
+      "uk": "Холодно, і вітер сильний.",
+      "en": "It's cold, and the wind is strong."
+    },
+    {
+      "fr": "Un chien s'approche de nous, puis il retourne vers son maître.",
+      "uk": "До нас підходить собака, а потім повертається до свого господаря.",
+      "en": "A dog comes up to us, then it goes back to its master."
+    },
+    {
+      "fr": "Le fermier vend des chevaux, mais je préfère seulement les regarder.",
+      "uk": "Фермер продає коней, але я волію лише на них дивитися.",
+      "en": "The farmer sells horses, but I prefer just to look at them."
+    },
+    {
+      "fr": "Il répète : « Attention! Il faut avancer doucement. »",
+      "uk": "Він повторює: « Обережно! Треба підходити повільно. »",
+      "en": "He repeats: “Careful! You have to move forward slowly.”"
+    },
+    {
+      "fr": "Je monte sur le dos d'un vieux cheval. C'est simple!",
+      "uk": "Я сідаю на спину старого коня. Це просто!",
+      "en": "I get on the back of an old horse. It's simple!"
+    },
+    {
+      "fr": "Le cheval marche à l'ombre des arbres, et l'effet est magique : je n'ai plus froid.",
+      "uk": "Кінь іде в затінку дерев, і це діє чарівно: мені вже не холодно.",
+      "en": "The horse walks in the shade of the trees, and the effect is magical: I'm not cold anymore."
+    },
+    {
+      "fr": "Est-ce que le paradis existe? Je suis certaine que oui : c'est ici!",
+      "uk": "Чи існує рай? Я впевнена, що так: він тут!",
+      "en": "Does paradise exist? I'm certain it does: it's here!"
+    },
+    {
+      "fr": "Au retour, je dors dans le coin de la banquette, avec mon sac sur les genoux.",
+      "uk": "Дорогою назад я сплю в кутку заднього сидіння із сумкою на колінах.",
+      "en": "On the way back, I sleep in the corner of the back seat, with my bag on my lap."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "réveiller",
+      "en": "to wake (someone) up (se réveiller = to wake up)",
+      "uk": "будити (se réveiller = прокидатися)"
+    },
+    {
+      "fr": "le journal",
+      "en": "the newspaper",
+      "uk": "газета"
+    },
+    {
+      "fr": "ensuite",
+      "en": "then / next",
+      "uk": "потім, далі"
+    },
+    {
+      "fr": "conduire",
+      "en": "to drive / to lead",
+      "uk": "керувати (авто) / вести"
+    },
+    {
+      "fr": "le bord",
+      "en": "the edge / the side (au bord de la mer = at the seaside)",
+      "uk": "край / берег (au bord de la mer = на березі моря)"
+    },
+    {
+      "fr": "froid / froide",
+      "en": "cold",
+      "uk": "холодний / холодна"
+    },
+    {
+      "fr": "le vent",
+      "en": "the wind",
+      "uk": "вітер"
+    },
+    {
+      "fr": "approcher",
+      "en": "to bring closer (s'approcher = to come closer)",
+      "uk": "наближати (s'approcher = наближатися)"
+    },
+    {
+      "fr": "le maître",
+      "en": "the master / the teacher",
+      "uk": "господар / вчитель"
+    },
+    {
+      "fr": "vendre",
+      "en": "to sell",
+      "uk": "продавати"
+    },
+    {
+      "fr": "le cheval",
+      "en": "the horse",
+      "uk": "кінь"
+    },
+    {
+      "fr": "préférer",
+      "en": "to prefer",
+      "uk": "віддавати перевагу"
+    },
+    {
+      "fr": "répéter",
+      "en": "to repeat",
+      "uk": "повторювати"
+    },
+    {
+      "fr": "l'attention (f.)",
+      "en": "the attention (faire attention = to be careful)",
+      "uk": "увага (faire attention = бути обережним)"
+    },
+    {
+      "fr": "avancer",
+      "en": "to move forward",
+      "uk": "просуватися вперед"
+    },
+    {
+      "fr": "le dos",
+      "en": "the back",
+      "uk": "спина"
+    },
+    {
+      "fr": "simple",
+      "en": "simple",
+      "uk": "простий"
+    },
+    {
+      "fr": "l'ombre (f.)",
+      "en": "the shadow / the shade",
+      "uk": "тінь"
+    },
+    {
+      "fr": "l'arbre (m.)",
+      "en": "the tree",
+      "uk": "дерево"
+    },
+    {
+      "fr": "l'effet (m.)",
+      "en": "the effect",
+      "uk": "ефект, вплив"
+    },
+    {
+      "fr": "exister",
+      "en": "to exist",
+      "uk": "існувати"
+    },
+    {
+      "fr": "certain / certaine",
+      "en": "certain / sure",
+      "uk": "певний / певна, впевнений"
+    },
+    {
+      "fr": "le retour",
+      "en": "the return",
+      "uk": "повернення"
+    },
+    {
+      "fr": "le coin",
+      "en": "the corner",
+      "uk": "кут, куток"
+    },
+    {
+      "fr": "le sac",
+      "en": "the bag",
+      "uk": "сумка"
+    },
+    {
+      "fr": "debout",
+      "en": "standing; get up!",
+      "uk": "стоячи; вставай!"
+    },
+    {
+      "fr": "la ferme",
+      "en": "the farm",
+      "uk": "ферма"
+    },
+    {
+      "fr": "la rivière",
+      "en": "the river",
+      "uk": "річка"
+    },
+    {
+      "fr": "le fermier",
+      "en": "the farmer",
+      "uk": "фермер"
+    },
+    {
+      "fr": "doucement",
+      "en": "gently, slowly",
+      "uk": "обережно, повільно"
+    },
+    {
+      "fr": "la banquette",
+      "en": "the (car) seat",
+      "uk": "сидіння (в машині)"
+    },
+    {
+      "fr": "les genoux (m.)",
+      "en": "the knees, the lap",
+      "uk": "коліна"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 3: list a1-02, my new neighbour)",
+    "uk": "Vocabulaire de base — базова лексика (набір 3: список a1-02, моя нова сусідка)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "Small words are where French runs together. A final consonant is usually silent, but it's said before a vowel in liaison: « vous allez » [vuz‿ale], « un appartement » [œ̃n‿apaʁtəmɑ̃], « les enfants ». « Et » is always [e], never with a t. « Plus » is [ply] in « ne… plus » but often [plys] when it means “more” (« plus de lait »). Québec casual speech shortens these words a lot: « je suis » ≈ « chu », « il » ≈ « i' » (« i' fait froid »), « elle » ≈ « a », and « tu » ≈ « tsu »; the a of « pas » is deep, close to « pâ ».",
+    "uk": "Саме в малих словах французька мова зливається. Кінцевий приголосний зазвичай німий, але вимовляється перед голосним у зв'язуванні (liaison): « vous allez » [vuz‿ale], « un appartement » [œ̃n‿apaʁtəmɑ̃], « les enfants ». « Et » — завжди [e], ніколи з t. « Plus » — це [ply] у « ne… plus », але часто [plys], коли означає «більше» (« plus de lait »). У невимушеному квебекському мовленні ці слова сильно скорочуються: « je suis » ≈ « шю », « il » ≈ « і » (« i' fait froid »), « elle » ≈ « а », а « tu » ≈ « цю »; a в « pas » глибоке, близьке до « па » з відкритим горлом."
+  },
+  "sentences": [
+    {
+      "fr": "Je m'appelle Sofia, je suis ukrainienne et j'ai trente ans.",
+      "uk": "Мене звати Софія, я українка, і мені тридцять років.",
+      "en": "My name is Sofia, I'm Ukrainian and I'm thirty."
+    },
+    {
+      "fr": "J'habite à Montréal, dans un petit appartement.",
+      "uk": "Я живу в Монреалі, в маленькій квартирі.",
+      "en": "I live in Montreal, in a small apartment."
+    },
+    {
+      "fr": "Ma voisine s'appelle Julie. Elle a un chien et une chatte.",
+      "uk": "Мою сусідку звати Жюлі. У неї є пес і кішка.",
+      "en": "My neighbour's name is Julie. She has a dog and a cat."
+    },
+    {
+      "fr": "Le matin, il fait froid, mais Julie n'a pas froid.",
+      "uk": "Зранку холодно, але Жюлі не мерзне.",
+      "en": "In the morning, it's cold, but Julie isn't cold."
+    },
+    {
+      "fr": "Un jour, elle me dit : « Tu veux un café? »",
+      "uk": "Одного дня вона каже мені: « Хочеш кави? »",
+      "en": "One day, she says to me: “Do you want a coffee?”"
+    },
+    {
+      "fr": "On boit le café chez elle avec son frère, qui fait du hockey.",
+      "uk": "Ми п'ємо каву в неї разом з її братом, який грає в хокей.",
+      "en": "We drink coffee at her place with her brother, who plays hockey."
+    },
+    {
+      "fr": "Le frère nous demande : « Vous allez en Gaspésie cet été? »",
+      "uk": "Брат питає нас: « Ви їдете до Гаспезі цього літа? »",
+      "en": "The brother asks us: “Are you going to the Gaspé this summer?”"
+    },
+    {
+      "fr": "Je ne sais pas encore, mais je veux voir la mer.",
+      "uk": "Я ще не знаю, але хочу побачити море.",
+      "en": "I don't know yet, but I want to see the sea."
+    },
+    {
+      "fr": "Je prends plus de lait dans mon café, et je dis à Julie : « Merci pour le café! »",
+      "uk": "Я доливаю собі в каву більше молока й кажу Жюлі: « Дякую за каву! »",
+      "en": "I take more milk in my coffee, and I say to Julie: “Thanks for the coffee!”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "je",
+      "en": "I",
+      "uk": "я"
+    },
+    {
+      "fr": "me",
+      "en": "me / myself",
+      "uk": "мене, мені / себе"
+    },
+    {
+      "fr": "être",
+      "en": "to be",
+      "uk": "бути"
+    },
+    {
+      "fr": "et",
+      "en": "and",
+      "uk": "і, та"
+    },
+    {
+      "fr": "avoir",
+      "en": "to have",
+      "uk": "мати"
+    },
+    {
+      "fr": "à",
+      "en": "to / at / in",
+      "uk": "до, в, у, на"
+    },
+    {
+      "fr": "dans",
+      "en": "in / inside",
+      "uk": "в, у, всередині"
+    },
+    {
+      "fr": "un / une",
+      "en": "a / an",
+      "uk": "неозначений артикль (чол. / жін.)"
+    },
+    {
+      "fr": "se",
+      "en": "oneself / himself / herself (reflexive)",
+      "uk": "себе, -ся (зворотне)"
+    },
+    {
+      "fr": "elle",
+      "en": "she / it",
+      "uk": "вона / воно"
+    },
+    {
+      "fr": "le / la / les",
+      "en": "the",
+      "uk": "означений артикль (чол. / жін. / мн.)"
+    },
+    {
+      "fr": "il",
+      "en": "he / it",
+      "uk": "він / воно"
+    },
+    {
+      "fr": "faire",
+      "en": "to do / to make",
+      "uk": "робити"
+    },
+    {
+      "fr": "mais",
+      "en": "but",
+      "uk": "але"
+    },
+    {
+      "fr": "ne",
+      "en": "not (ne… pas)",
+      "uk": "не (ne… pas)"
+    },
+    {
+      "fr": "pas",
+      "en": "not",
+      "uk": "не"
+    },
+    {
+      "fr": "dire",
+      "en": "to say / to tell",
+      "uk": "казати, говорити"
+    },
+    {
+      "fr": "tu",
+      "en": "you (informal)",
+      "uk": "ти"
+    },
+    {
+      "fr": "on",
+      "en": "we (casual) / one",
+      "uk": "ми (розм.) / хтось, люди"
+    },
+    {
+      "fr": "qui",
+      "en": "who / which",
+      "uk": "хто, який"
+    },
+    {
+      "fr": "vous",
+      "en": "you (formal / plural)",
+      "uk": "ви (ввічливо / множина)"
+    },
+    {
+      "fr": "aller",
+      "en": "to go",
+      "uk": "іти, їхати"
+    },
+    {
+      "fr": "en (préposition)",
+      "en": "in / to (a country)",
+      "uk": "в, у, до (країни)"
+    },
+    {
+      "fr": "plus",
+      "en": "more",
+      "uk": "більше"
+    },
+    {
+      "fr": "pour",
+      "en": "for",
+      "uk": "для"
+    },
+    {
+      "fr": "la voisine",
+      "en": "the neighbour (woman)",
+      "uk": "сусідка"
+    },
+    {
+      "fr": "la Gaspésie",
+      "en": "the Gaspé Peninsula (Québec)",
+      "uk": "Гаспезі (півострів у Квебеку)"
+    }
+  ]
+}
