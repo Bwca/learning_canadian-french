@@ -1,81 +1,94 @@
 {
-  "title": "Verbes en -er — present tense (set 10: review: negatives and questions)",
+  "title": {
+    "en": "Verbes en -er — present tense (set 10: review: negatives and questions)",
+    "uk": "Дієслова на -er — теперішній час (набір 10: повторення заперечень і питань)"
+  },
   "exercises": [
     {
       "en": "I don't speak Spanish.",
+      "uk": "Я не говорю іспанською.",
       "fr": "Je ne parle pas espagnol.",
       "vocab": [
-        { "fr": "parler", "en": "to speak" },
-        { "fr": "espagnol", "en": "Spanish" }
+        { "fr": "parler", "en": "to speak", "uk": "говорити" },
+        { "fr": "espagnol", "en": "Spanish", "uk": "іспанська (мова)" }
       ]
     },
     {
       "en": "Do you (informal) work tomorrow?",
+      "uk": "Ти працюєш завтра? (з est-ce que)",
       "fr": "Est-ce que tu travailles demain?",
       "vocab": [
-        { "fr": "travailler", "en": "to work" },
-        { "fr": "demain", "en": "tomorrow" }
+        { "fr": "travailler", "en": "to work", "uk": "працювати" },
+        { "fr": "demain", "en": "tomorrow", "uk": "завтра" }
       ]
     },
     {
       "en": "He doesn't cook.",
+      "uk": "Він не готує.",
       "fr": "Il ne cuisine pas.",
       "vocab": [
-        { "fr": "cuisiner", "en": "to cook" }
+        { "fr": "cuisiner", "en": "to cook", "uk": "готувати (їжу)" }
       ]
     },
     {
       "en": "She doesn't like the rain.",
+      "uk": "Вона не любить дощ.",
       "fr": "Elle n'aime pas la pluie.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "pluie", "en": "rain" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити, подобатися" },
+        { "fr": "pluie", "en": "rain", "uk": "дощ" }
       ]
     },
     {
       "en": "Do we invite Paul?",
+      "uk": "Ми запрошуємо Поля? (з est-ce que)",
       "fr": "Est-ce que nous invitons Paul?",
       "vocab": [
-        { "fr": "inviter", "en": "to invite" }
+        { "fr": "inviter", "en": "to invite", "uk": "запрошувати" }
       ]
     },
     {
       "en": "You (formal/plural) don't stay here.",
+      "uk": "Ви тут не залишаєтеся.",
       "fr": "Vous ne restez pas ici.",
       "vocab": [
-        { "fr": "rester", "en": "to stay" },
-        { "fr": "ici", "en": "here" }
+        { "fr": "rester", "en": "to stay", "uk": "залишатися" },
+        { "fr": "ici", "en": "here", "uk": "тут" }
       ]
     },
     {
       "en": "Where do they (masc.) skate?",
+      "uk": "Де вони (чол.) катаються на ковзанах?",
       "fr": "Où est-ce qu'ils patinent?",
       "vocab": [
-        { "fr": "patiner", "en": "to skate" }
+        { "fr": "patiner", "en": "to skate", "uk": "кататися на ковзанах" }
       ]
     },
     {
       "en": "They (fem.) don't watch hockey.",
+      "uk": "Вони (жін.) не дивляться хокей.",
       "fr": "Elles ne regardent pas le hockey.",
       "vocab": [
-        { "fr": "regarder", "en": "to watch" }
+        { "fr": "regarder", "en": "to watch", "uk": "дивитися" }
       ]
     },
     {
       "en": "I don't forget the keys.",
+      "uk": "Я не забуваю ключі.",
       "fr": "Je n'oublie pas les clés.",
       "vocab": [
-        { "fr": "oublier", "en": "to forget" },
-        { "fr": "clé", "en": "key" }
+        { "fr": "oublier", "en": "to forget", "uk": "забувати" },
+        { "fr": "clé", "en": "key", "uk": "ключ" }
       ]
     },
     {
       "en": "Does he text during class?",
+      "uk": "Він пише повідомлення під час уроку? (з est-ce que)",
       "fr": "Est-ce qu'il texte pendant le cours?",
       "vocab": [
-        { "fr": "texter", "en": "to text (Québec)" },
-        { "fr": "pendant", "en": "during" },
-        { "fr": "cours", "en": "class" }
+        { "fr": "texter", "en": "to text (Québec)", "uk": "писати повідомлення (у Квебеку)" },
+        { "fr": "pendant", "en": "during", "uk": "під час" },
+        { "fr": "cours", "en": "class", "uk": "урок, заняття" }
       ]
     }
   ]

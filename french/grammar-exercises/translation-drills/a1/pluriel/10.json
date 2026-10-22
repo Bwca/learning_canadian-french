@@ -1,86 +1,99 @@
 {
-  "title": "Pluriel — noun plurals (set 10: mixed review 2)",
+  "title": {
+    "en": "Pluriel — noun plurals (set 10: mixed review 2)",
+    "uk": "Pluriel — множина іменників (набір 10: повторення 2)"
+  },
   "exercises": [
     {
       "en": "I have two books and three pens.",
+      "uk": "У мене дві книжки й три ручки.",
       "fr": "J'ai deux livres et trois stylos.",
       "vocab": [
-        { "fr": "livre", "en": "book" },
-        { "fr": "stylo", "en": "pen" }
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "stylo", "en": "pen", "uk": "ручка" }
       ]
     },
     {
       "en": "The cars are new.",
+      "uk": "Машини нові.",
       "fr": "Les voitures sont nouvelles.",
       "vocab": [
-        { "fr": "voiture", "en": "car" },
-        { "fr": "nouvelle", "en": "new (fem.)" }
+        { "fr": "voiture", "en": "car", "uk": "машина" },
+        { "fr": "nouvelle", "en": "new (fem.)", "uk": "нова (жін. р.)" }
       ]
     },
     {
       "en": "She has five apples and two oranges.",
+      "uk": "У неї п'ять яблук і два апельсини.",
       "fr": "Elle a cinq pommes et deux oranges.",
       "vocab": [
-        { "fr": "pomme", "en": "apple" },
-        { "fr": "orange", "en": "orange (fruit)" }
+        { "fr": "pomme", "en": "apple", "uk": "яблуко" },
+        { "fr": "orange", "en": "orange (fruit)", "uk": "апельсин" }
       ]
     },
     {
       "en": "The animals are big.",
+      "uk": "Тварини великі.",
       "fr": "Les animaux sont grands.",
       "vocab": [
-        { "fr": "animaux", "en": "animals" }
+        { "fr": "animaux", "en": "animals", "uk": "тварини" }
       ]
     },
     {
       "en": "We have four chairs and a table.",
+      "uk": "У нас чотири стільці й стіл.",
       "fr": "Nous avons quatre chaises et une table.",
       "vocab": [
-        { "fr": "chaise", "en": "chair" },
-        { "fr": "table", "en": "table" }
+        { "fr": "chaise", "en": "chair", "uk": "стілець" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "The prices are high.",
+      "uk": "Ціни високі.",
       "fr": "Les prix sont élevés.",
       "vocab": [
-        { "fr": "prix", "en": "price (same spelling in plural)" },
-        { "fr": "élevé", "en": "high" }
+        { "fr": "prix", "en": "price (same spelling in plural)", "uk": "ціна (однаково в множині)" },
+        { "fr": "élevé", "en": "high", "uk": "високий" }
       ]
     },
     {
       "en": "He has blue eyes and black shoes.",
+      "uk": "У нього блакитні очі й чорні черевики.",
       "fr": "Il a les yeux bleus et les chaussures noires.",
       "vocab": [
-        { "fr": "œil / yeux", "en": "eye / eyes (irregular plural)" },
-        { "fr": "bleu", "en": "blue" },
-        { "fr": "chaussure", "en": "shoe" },
-        { "fr": "noir", "en": "black" }
+        { "fr": "œil / yeux", "en": "eye / eyes (irregular plural)", "uk": "око / очі (неправильна множина)" },
+        { "fr": "bleu", "en": "blue", "uk": "блакитний, синій" },
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" },
+        { "fr": "noir", "en": "black", "uk": "чорний" }
       ]
     },
     {
       "en": "The children have many toys.",
+      "uk": "У дітей багато іграшок.",
       "fr": "Les enfants ont beaucoup de jouets.",
       "vocab": [
-        { "fr": "enfant", "en": "child" },
-        { "fr": "beaucoup de", "en": "a lot of / many" },
-        { "fr": "jouet", "en": "toy" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "beaucoup de", "en": "a lot of / many", "uk": "багато" },
+        { "fr": "jouet", "en": "toy", "uk": "іграшка" }
       ]
     },
     {
       "en": "I have three friends (fem.).",
+      "uk": "У мене три подруги.",
       "fr": "J'ai trois amies.",
       "vocab": [
-        { "fr": "amie", "en": "friend (fem.)" }
+        { "fr": "amie", "en": "friend (fem.)", "uk": "подруга" }
       ]
     },
     {
       "en": "The flowers in the garden are beautiful.",
+      "uk": "Квіти в саду гарні.",
       "fr": "Les fleurs dans le jardin sont belles.",
       "vocab": [
-        { "fr": "fleur", "en": "flower" },
-        { "fr": "jardin", "en": "garden" },
-        { "fr": "belle", "en": "beautiful (fem.)" }
+        { "fr": "fleur", "en": "flower", "uk": "квітка" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" },
+        { "fr": "belle", "en": "beautiful (fem.)", "uk": "гарна (жін. р.)" }
       ]
     }
   ]

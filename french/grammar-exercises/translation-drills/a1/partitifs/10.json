@@ -1,93 +1,106 @@
 {
-  "title": "Partitifs — du/de la/de l' (set 10: mixed review)",
+  "title": {
+    "en": "Partitifs — du/de la/de l' (set 10: mixed review)",
+    "uk": "Партитиви — du/de la/de l' (набір 10: повторення)"
+  },
   "exercises": [
     {
       "en": "I have some bread and some jam.",
+      "uk": "У мене є хліб і варення.",
       "fr": "J'ai du pain et de la confiture.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "pain", "en": "bread" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "confiture", "en": "jam" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "pain", "en": "bread", "uk": "хліб" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "confiture", "en": "jam", "uk": "варення, джем" }
       ]
     },
     {
       "en": "There is some snow and some wind.",
+      "uk": "Є сніг і вітер.",
       "fr": "Il y a de la neige et du vent.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "neige", "en": "snow" },
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "vent", "en": "wind" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "neige", "en": "snow", "uk": "сніг" },
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "vent", "en": "wind", "uk": "вітер" }
       ]
     },
     {
       "en": "You (informal) eat some soup.",
+      "uk": "Ти їси суп.",
       "fr": "Tu manges de la soupe.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "soupe", "en": "soup" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "soupe", "en": "soup", "uk": "суп" }
       ]
     },
     {
       "en": "Is there any water?",
+      "uk": "Вода є?",
       "fr": "Est-ce qu'il y a de l'eau?",
       "vocab": [
-        { "fr": "de l'", "en": "some/any (before vowel/mute h)" },
-        { "fr": "eau", "en": "water" }
+        { "fr": "de l'", "en": "some/any (before vowel/mute h)", "uk": "якийсь, трохи (перед голосною або німим h)" },
+        { "fr": "eau", "en": "water", "uk": "вода" }
       ]
     },
     {
       "en": "She has some money.",
+      "uk": "У неї є гроші.",
       "fr": "Elle a de l'argent.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "argent", "en": "money" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "argent", "en": "money", "uk": "гроші" }
       ]
     },
     {
       "en": "We have some rice and some vegetables.",
+      "uk": "У нас є рис і овочі.",
       "fr": "Nous avons du riz et des légumes.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "riz", "en": "rice" },
-        { "fr": "légume", "en": "vegetable" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "riz", "en": "rice", "uk": "рис" },
+        { "fr": "légume", "en": "vegetable", "uk": "овоч" }
       ]
     },
     {
       "en": "You (formal/plural) have some coffee and some tea.",
+      "uk": "У вас є кава і чай.",
       "fr": "Vous avez du café et du thé.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "café", "en": "coffee" },
-        { "fr": "thé", "en": "tea" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "café", "en": "coffee", "uk": "кава" },
+        { "fr": "thé", "en": "tea", "uk": "чай" }
       ]
     },
     {
       "en": "They (masc.) eat some fish.",
+      "uk": "Вони (чол.) їдять рибу.",
       "fr": "Ils mangent du poisson.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "poisson", "en": "fish" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "poisson", "en": "fish", "uk": "риба" }
       ]
     },
     {
       "en": "Do you (informal) have any oil?",
+      "uk": "У тебе є олія?",
       "fr": "Est-ce que tu as de l'huile?",
       "vocab": [
-        { "fr": "de l'", "en": "some/any (before vowel/mute h)" },
-        { "fr": "huile", "en": "oil" }
+        { "fr": "de l'", "en": "some/any (before vowel/mute h)", "uk": "якийсь, трохи (перед голосною або німим h)" },
+        { "fr": "huile", "en": "oil", "uk": "олія" }
       ]
     },
     {
       "en": "There is some sun today.",
+      "uk": "Сьогодні сонячно.",
       "fr": "Il y a du soleil aujourd'hui.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "soleil", "en": "sun" },
-        { "fr": "aujourd'hui", "en": "today" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "soleil", "en": "sun", "uk": "сонце" },
+        { "fr": "aujourd'hui", "en": "today", "uk": "сьогодні" }
       ]
     }
   ]

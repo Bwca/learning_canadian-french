@@ -1,74 +1,87 @@
 {
-  "title": "Questions — est-ce que (set 7: with adjectives and feelings)",
+  "title": {
+    "en": "Questions — est-ce que (set 7: with adjectives and feelings)",
+    "uk": "Питання — est-ce que (набір 7: з прикметниками й почуттями)"
+  },
   "exercises": [
     {
       "en": "Are you (informal) tired?",
+      "uk": "Ти втомлений?",
       "fr": "Est-ce que tu es fatigué?",
       "vocab": [
-        { "fr": "fatigué", "en": "tired" }
+        { "fr": "fatigué", "en": "tired", "uk": "втомлений" }
       ]
     },
     {
       "en": "Is he hungry?",
+      "uk": "Він голодний?",
       "fr": "Est-ce qu'il a faim?",
       "vocab": [
-        { "fr": "avoir faim", "en": "to be hungry" }
+        { "fr": "avoir faim", "en": "to be hungry", "uk": "бути голодним" }
       ]
     },
     {
       "en": "Is she thirsty?",
+      "uk": "Вона хоче пити?",
       "fr": "Est-ce qu'elle a soif?",
       "vocab": [
-        { "fr": "avoir soif", "en": "to be thirsty" }
+        { "fr": "avoir soif", "en": "to be thirsty", "uk": "хотіти пити" }
       ]
     },
     {
       "en": "Are we late?",
+      "uk": "Ми запізнюємося?",
       "fr": "Est-ce que nous sommes en retard?",
       "vocab": [
-        { "fr": "en retard", "en": "late" }
+        { "fr": "en retard", "en": "late", "uk": "із запізненням" }
       ]
     },
     {
       "en": "Are you (formal) cold?",
+      "uk": "Вам холодно?",
       "fr": "Est-ce que vous avez froid?",
       "vocab": [
-        { "fr": "avoir froid", "en": "to be cold" }
+        { "fr": "avoir froid", "en": "to be cold", "uk": "бути холодно (комусь)" }
       ]
     },
     {
       "en": "Are they (masc.) afraid?",
+      "uk": "Вони (чол.) бояться?",
       "fr": "Est-ce qu'ils ont peur?",
       "vocab": [
-        { "fr": "avoir peur", "en": "to be afraid" }
+        { "fr": "avoir peur", "en": "to be afraid", "uk": "боятися" }
       ]
     },
     {
       "en": "Is she happy?",
+      "uk": "Вона задоволена?",
       "fr": "Est-ce qu'elle est contente?",
       "vocab": [
-        { "fr": "contente", "en": "happy (fem.)" }
+        { "fr": "contente", "en": "happy (fem.)", "uk": "задоволена, рада (жін. р.)" }
       ]
     },
     {
       "en": "Are you (informal) sick?",
+      "uk": "Ти хворий?",
       "fr": "Est-ce que tu es malade?",
       "vocab": [
-        { "fr": "malade", "en": "sick" }
+        { "fr": "malade", "en": "sick", "uk": "хворий" }
       ]
     },
     {
       "en": "Is he nervous?",
+      "uk": "Він нервує?",
       "fr": "Est-ce qu'il est nerveux?",
       "vocab": [
-        { "fr": "nerveux", "en": "nervous" }
+        { "fr": "nerveux", "en": "nervous", "uk": "нервовий" }
       ]
     },
     {
       "en": "Are they (fem.) tired?",
+      "uk": "Вони (жін.) втомлені?",
       "fr": "Est-ce qu'elles sont fatiguées?",
       "vocab": [
-        { "fr": "fatigué", "en": "tired" }
+        { "fr": "fatigué", "en": "tired", "uk": "втомлений" }
       ]
     }
   ]

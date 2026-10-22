@@ -1,79 +1,92 @@
 {
-  "title": "Articles — definite & indefinite (set 3: new thing (un/une) vs. known thing (le/la/l'))",
+  "title": {
+    "en": "Articles — definite & indefinite (set 3: new thing (un/une) vs. known thing (le/la/l'))",
+    "uk": "Articles — означені й неозначені (набір 3: нове (un/une) і вже відоме (le/la/l'))"
+  },
   "exercises": [
     {
       "en": "I have a cat.",
+      "uk": "У мене є кіт.",
       "fr": "J'ai un chat.",
       "vocab": [
-        { "fr": "chat", "en": "cat" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" }
       ]
     },
     {
       "en": "The cat is on the chair.",
+      "uk": "Кіт (цей) на стільці.",
       "fr": "Le chat est sur la chaise.",
       "vocab": [
-        { "fr": "chat", "en": "cat" },
-        { "fr": "chaise", "en": "chair" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" },
+        { "fr": "chaise", "en": "chair", "uk": "стілець" }
       ]
     },
     {
       "en": "He has a book.",
+      "uk": "У нього є книжка.",
       "fr": "Il a un livre.",
       "vocab": [
-        { "fr": "livre", "en": "book" }
+        { "fr": "livre", "en": "book", "uk": "книжка" }
       ]
     },
     {
       "en": "The book is interesting.",
+      "uk": "Книжка (ця) цікава.",
       "fr": "Le livre est intéressant.",
       "vocab": [
-        { "fr": "livre", "en": "book" },
-        { "fr": "intéressant", "en": "interesting" }
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "intéressant", "en": "interesting", "uk": "цікавий" }
       ]
     },
     {
       "en": "She has an idea.",
+      "uk": "У неї є ідея.",
       "fr": "Elle a une idée.",
       "vocab": [
-        { "fr": "idée", "en": "idea" }
+        { "fr": "idée", "en": "idea", "uk": "ідея" }
       ]
     },
     {
       "en": "The idea is good.",
+      "uk": "Ідея (ця) добра.",
       "fr": "L'idée est bonne.",
       "vocab": [
-        { "fr": "idée", "en": "idea" },
-        { "fr": "bonne", "en": "good (fem.)" }
+        { "fr": "idée", "en": "idea", "uk": "ідея" },
+        { "fr": "bonne", "en": "good (fem.)", "uk": "добра (жін. р.)" }
       ]
     },
     {
       "en": "We have a house.",
+      "uk": "У нас є будинок.",
       "fr": "Nous avons une maison.",
       "vocab": [
-        { "fr": "maison", "en": "house" }
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "The house is big.",
+      "uk": "Будинок (цей) великий.",
       "fr": "La maison est grande.",
       "vocab": [
-        { "fr": "maison", "en": "house" },
-        { "fr": "grande", "en": "big (fem.)" }
+        { "fr": "maison", "en": "house", "uk": "будинок" },
+        { "fr": "grande", "en": "big (fem.)", "uk": "велика (жін. р.)" }
       ]
     },
     {
       "en": "I have a friend (fem.).",
+      "uk": "У мене є подруга.",
       "fr": "J'ai une amie.",
       "vocab": [
-        { "fr": "amie", "en": "friend (fem.)" }
+        { "fr": "amie", "en": "friend (fem.)", "uk": "подруга" }
       ]
     },
     {
       "en": "The friend is nice.",
+      "uk": "Подруга (ця) мила.",
       "fr": "L'amie est gentille.",
       "vocab": [
-        { "fr": "amie", "en": "friend (fem.)" },
-        { "fr": "gentille", "en": "nice (fem.)" }
+        { "fr": "amie", "en": "friend (fem.)", "uk": "подруга" },
+        { "fr": "gentille", "en": "nice (fem.)", "uk": "мила (жін. р.)" }
       ]
     }
   ]

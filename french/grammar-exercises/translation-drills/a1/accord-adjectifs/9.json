@@ -1,77 +1,90 @@
 {
-  "title": "Accord des adjectifs — plural agreement (set 9: -eau→-eaux and -al→-aux endings)",
+  "title": {
+    "en": "Accord des adjectifs — plural agreement (set 9: -eau→-eaux and -al→-aux endings)",
+    "uk": "Accord des adjectifs — узгодження в числі (набір 9: -eau→-eaux та -al→-aux)"
+  },
   "exercises": [
     {
       "en": "I have new books.",
+      "uk": "У мене нові книжки.",
       "fr": "J'ai de nouveaux livres.",
       "vocab": [
-        { "fr": "nouveaux", "en": "new (masc. plural)" }
+        { "fr": "nouveaux", "en": "new (masc. plural)", "uk": "нові (чол. р. мн.)" }
       ]
     },
     {
       "en": "We have beautiful flowers.",
+      "uk": "У нас гарні квіти.",
       "fr": "Nous avons de belles fleurs.",
       "vocab": [
-        { "fr": "belles", "en": "beautiful (fem. plural)" }
+        { "fr": "belles", "en": "beautiful (fem. plural)", "uk": "гарні (жін. р. мн.)" }
       ]
     },
     {
       "en": "She has new ideas.",
+      "uk": "У неї нові ідеї.",
       "fr": "Elle a de nouvelles idées.",
       "vocab": [
-        { "fr": "nouvelles", "en": "new (fem. plural)" },
-        { "fr": "idées", "en": "ideas" }
+        { "fr": "nouvelles", "en": "new (fem. plural)", "uk": "нові (жін. р. мн.)" },
+        { "fr": "idées", "en": "ideas", "uk": "ідеї" }
       ]
     },
     {
       "en": "I have a normal day.",
+      "uk": "У мене звичайний день.",
       "fr": "J'ai un jour normal.",
       "vocab": [
-        { "fr": "normal", "en": "normal" }
+        { "fr": "normal", "en": "normal", "uk": "звичайний, нормальний" }
       ]
     },
     {
       "en": "We have normal days.",
+      "uk": "У нас звичайні дні.",
       "fr": "Nous avons des jours normaux.",
       "vocab": [
-        { "fr": "normaux", "en": "normal (masc. plural)" }
+        { "fr": "normaux", "en": "normal (masc. plural)", "uk": "звичайні (чол. р. мн.)" }
       ]
     },
     {
       "en": "It's an awesome movie.",
+      "uk": "Це чудовий фільм.",
       "fr": "C'est un film génial.",
       "vocab": [
-        { "fr": "film", "en": "movie" },
-        { "fr": "génial", "en": "awesome / great" }
+        { "fr": "film", "en": "movie", "uk": "фільм" },
+        { "fr": "génial", "en": "awesome / great", "uk": "чудовий, класний" }
       ]
     },
     {
       "en": "They are awesome movies.",
+      "uk": "Це чудові фільми.",
       "fr": "Ce sont des films géniaux.",
       "vocab": [
-        { "fr": "géniaux", "en": "awesome / great (masc. plural)" }
+        { "fr": "géniaux", "en": "awesome / great (masc. plural)", "uk": "чудові, класні (чол. р. мн.)" }
       ]
     },
     {
       "en": "I have a special day.",
+      "uk": "У мене особливий день.",
       "fr": "J'ai un jour spécial.",
       "vocab": [
-        { "fr": "spécial", "en": "special" }
+        { "fr": "spécial", "en": "special", "uk": "особливий" }
       ]
     },
     {
       "en": "We have special days.",
+      "uk": "У нас особливі дні.",
       "fr": "Nous avons des jours spéciaux.",
       "vocab": [
-        { "fr": "spéciaux", "en": "special (masc. plural)" }
+        { "fr": "spéciaux", "en": "special (masc. plural)", "uk": "особливі (чол. р. мн.)" }
       ]
     },
     {
       "en": "I have beautiful eyes.",
+      "uk": "У мене гарні очі.",
       "fr": "J'ai de beaux yeux.",
       "vocab": [
-        { "fr": "beaux", "en": "beautiful (masc. plural)" },
-        { "fr": "yeux", "en": "eyes" }
+        { "fr": "beaux", "en": "beautiful (masc. plural)", "uk": "гарні (чол. р. мн.)" },
+        { "fr": "yeux", "en": "eyes", "uk": "очі" }
       ]
     }
   ]

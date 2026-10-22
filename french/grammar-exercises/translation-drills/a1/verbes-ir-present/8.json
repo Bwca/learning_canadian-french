@@ -1,84 +1,97 @@
 {
-  "title": "Verbes en -ir — present tense (set 8: nous and vous, -issons/-issez)",
+  "title": {
+    "en": "Verbes en -ir — present tense (set 8: nous and vous, -issons/-issez)",
+    "uk": "Дієслова на -ir — теперішній час (набір 8: nous і vous, -issons/-issez)"
+  },
   "exercises": [
     {
       "en": "We choose a movie.",
+      "uk": "Ми вибираємо фільм.",
       "fr": "Nous choisissons un film.",
       "vocab": [
-        { "fr": "choisir", "en": "to choose" },
-        { "fr": "film", "en": "movie" }
+        { "fr": "choisir", "en": "to choose", "uk": "вибирати" },
+        { "fr": "film", "en": "movie", "uk": "фільм" }
       ]
     },
     {
       "en": "You (formal/plural) finish early.",
+      "uk": "Ви закінчуєте рано.",
       "fr": "Vous finissez tôt.",
       "vocab": [
-        { "fr": "finir", "en": "to finish" },
-        { "fr": "tôt", "en": "early" }
+        { "fr": "finir", "en": "to finish", "uk": "закінчувати" },
+        { "fr": "tôt", "en": "early", "uk": "рано" }
       ]
     },
     {
       "en": "We fill the cooler.",
+      "uk": "Ми наповнюємо сумку-холодильник.",
       "fr": "Nous remplissons la glacière.",
       "vocab": [
-        { "fr": "remplir", "en": "to fill" },
-        { "fr": "glacière", "en": "cooler" }
+        { "fr": "remplir", "en": "to fill", "uk": "наповнювати" },
+        { "fr": "glacière", "en": "cooler", "uk": "сумка-холодильник" }
       ]
     },
     {
       "en": "You (formal/plural) feed the horses.",
+      "uk": "Ви годуєте коней.",
       "fr": "Vous nourrissez les chevaux.",
       "vocab": [
-        { "fr": "nourrir", "en": "to feed" },
-        { "fr": "cheval / chevaux", "en": "horse / horses" }
+        { "fr": "nourrir", "en": "to feed", "uk": "годувати" },
+        { "fr": "cheval / chevaux", "en": "horse / horses", "uk": "кінь / коні" }
       ]
     },
     {
       "en": "We pass the driving test.",
+      "uk": "Ми складаємо іспит з водіння.",
       "fr": "Nous réussissons l'examen de conduite.",
       "vocab": [
-        { "fr": "réussir un examen", "en": "to pass an exam" },
-        { "fr": "examen de conduite", "en": "driving test" }
+        { "fr": "réussir un examen", "en": "to pass an exam", "uk": "скласти іспит" },
+        { "fr": "examen de conduite", "en": "driving test", "uk": "іспит з водіння" }
       ]
     },
     {
       "en": "You (formal/plural) build a cottage.",
+      "uk": "Ви будуєте дачу.",
       "fr": "Vous bâtissez un chalet.",
       "vocab": [
-        { "fr": "bâtir", "en": "to build" },
-        { "fr": "chalet", "en": "cottage (Québec)" }
+        { "fr": "bâtir", "en": "to build", "uk": "будувати" },
+        { "fr": "chalet", "en": "cottage (Québec)", "uk": "дача, будиночок за містом (у Квебеку)" }
       ]
     },
     {
       "en": "We applaud the singer.",
+      "uk": "Ми аплодуємо співакові.",
       "fr": "Nous applaudissons le chanteur.",
       "vocab": [
-        { "fr": "applaudir", "en": "to applaud" },
-        { "fr": "chanteur", "en": "singer" }
+        { "fr": "applaudir", "en": "to applaud", "uk": "аплодувати" },
+        { "fr": "chanteur", "en": "singer", "uk": "співак" }
       ]
     },
     {
       "en": "You (formal/plural) think a lot.",
+      "uk": "Ви багато розмірковуєте.",
       "fr": "Vous réfléchissez beaucoup.",
       "vocab": [
-        { "fr": "réfléchir", "en": "to think (it over)" },
-        { "fr": "beaucoup", "en": "a lot" }
+        { "fr": "réfléchir", "en": "to think (it over)", "uk": "розмірковувати, обдумувати" },
+        { "fr": "beaucoup", "en": "a lot", "uk": "багато" }
       ]
     },
     {
       "en": "We slow down in the snow.",
+      "uk": "Ми сповільнюємося на снігу.",
       "fr": "Nous ralentissons dans la neige.",
       "vocab": [
-        { "fr": "ralentir", "en": "to slow down" },
-        { "fr": "neige", "en": "snow" }
+        { "fr": "ralentir", "en": "to slow down", "uk": "сповільнюватися, пригальмовувати" },
+        { "fr": "neige", "en": "snow", "uk": "сніг" }
       ]
     },
     {
       "en": "You (formal/plural) obey the rules.",
+      "uk": "Ви дотримуєтеся правил.",
       "fr": "Vous obéissez aux règles.",
       "vocab": [
-        { "fr": "obéir à", "en": "to obey" },
-        { "fr": "règle", "en": "rule" }
+        { "fr": "obéir à", "en": "to obey", "uk": "слухатися, коритися" },
+        { "fr": "règle", "en": "rule", "uk": "правило" }
       ]
     }
   ]

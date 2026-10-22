@@ -1,85 +1,98 @@
 {
-  "title": "Être — present tense (set 10: mixed review)",
+  "title": {
+    "en": "Être — present tense (set 10: mixed review)",
+    "uk": "Être — теперішній час (набір 10: повторення)"
+  },
   "exercises": [
     {
       "en": "I am a student and I am happy.",
+      "uk": "Я студент, і я задоволений.",
       "fr": "Je suis étudiant et je suis content.",
       "vocab": [
-        { "fr": "étudiant", "en": "student" },
-        { "fr": "content", "en": "happy" }
+        { "fr": "étudiant", "en": "student", "uk": "студент" },
+        { "fr": "content", "en": "happy", "uk": "задоволений, радий" }
       ]
     },
     {
       "en": "She is Canadian and she is kind.",
+      "uk": "Вона канадка, і вона добра.",
       "fr": "Elle est canadienne et elle est gentille.",
       "vocab": [
-        { "fr": "canadienne", "en": "Canadian (fem.)" },
-        { "fr": "gentille", "en": "kind (fem.)" }
+        { "fr": "canadienne", "en": "Canadian (fem.)", "uk": "канадка, канадська (жін. р.)" },
+        { "fr": "gentille", "en": "kind (fem.)", "uk": "добра, мила (жін. р.)" }
       ]
     },
     {
       "en": "We are at home.",
+      "uk": "Ми вдома.",
       "fr": "Nous sommes à la maison.",
       "vocab": [
-        { "fr": "à la maison", "en": "at home" }
+        { "fr": "à la maison", "en": "at home", "uk": "вдома" }
       ]
     },
     {
       "en": "The children are tired.",
+      "uk": "Діти втомлені.",
       "fr": "Les enfants sont fatigués.",
       "vocab": [
-        { "fr": "enfant", "en": "child" },
-        { "fr": "fatigué", "en": "tired" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "fatigué", "en": "tired", "uk": "втомлений" }
       ]
     },
     {
       "en": "He is a doctor and he is busy.",
+      "uk": "Він лікар, і він зайнятий.",
       "fr": "Il est médecin et il est occupé.",
       "vocab": [
-        { "fr": "médecin", "en": "doctor" },
-        { "fr": "occupé", "en": "busy" }
+        { "fr": "médecin", "en": "doctor", "uk": "лікар" },
+        { "fr": "occupé", "en": "busy", "uk": "зайнятий" }
       ]
     },
     {
       "en": "The books are new and they are on the table.",
+      "uk": "Книжки нові, і вони на столі.",
       "fr": "Les livres sont nouveaux et ils sont sur la table.",
       "vocab": [
-        { "fr": "livre", "en": "book" },
-        { "fr": "nouveau / nouveaux", "en": "new" },
-        { "fr": "sur", "en": "on" },
-        { "fr": "table", "en": "table" }
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "nouveau / nouveaux", "en": "new", "uk": "новий / нові (чол. р. мн.)" },
+        { "fr": "sur", "en": "on", "uk": "на" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "You (informal) are tall and strong.",
+      "uk": "Ти високий і сильний.",
       "fr": "Tu es grand et fort.",
       "vocab": [
-        { "fr": "grand", "en": "tall" },
-        { "fr": "fort", "en": "strong" }
+        { "fr": "grand", "en": "tall", "uk": "високий" },
+        { "fr": "fort", "en": "strong", "uk": "сильний" }
       ]
     },
     {
       "en": "It is ten o'clock and we are ready.",
+      "uk": "Зараз десята година, і ми готові.",
       "fr": "Il est dix heures et nous sommes prêts.",
       "vocab": [
-        { "fr": "heure", "en": "o'clock/hour" },
-        { "fr": "prêt", "en": "ready" }
+        { "fr": "heure", "en": "o'clock/hour", "uk": "година" },
+        { "fr": "prêt", "en": "ready", "uk": "готовий" }
       ]
     },
     {
       "en": "They (fem.) are nurses.",
+      "uk": "Вони (жін.) медсестри.",
       "fr": "Elles sont infirmières.",
       "vocab": [
-        { "fr": "infirmière", "en": "nurse" }
+        { "fr": "infirmière", "en": "nurse", "uk": "медсестра" }
       ]
     },
     {
       "en": "The cat is under the table.",
+      "uk": "Кіт під столом.",
       "fr": "Le chat est sous la table.",
       "vocab": [
-        { "fr": "chat", "en": "cat" },
-        { "fr": "sous", "en": "under" },
-        { "fr": "table", "en": "table" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" },
+        { "fr": "sous", "en": "under", "uk": "під" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     }
   ]

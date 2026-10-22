@@ -1,77 +1,90 @@
 {
-  "title": "Pluriel — noun plurals (set 2: special plurals — -eau/-eu→x, -al→aux)",
+  "title": {
+    "en": "Pluriel — noun plurals (set 2: special plurals — -eau/-eu→x, -al→aux)",
+    "uk": "Pluriel — множина іменників (набір 2: особлива множина — -eau/-eu→x, -al→aux)"
+  },
   "exercises": [
     {
       "en": "She has a cake.",
+      "uk": "У неї є торт.",
       "fr": "Elle a un gâteau.",
       "vocab": [
-        { "fr": "gâteau", "en": "cake" }
+        { "fr": "gâteau", "en": "cake", "uk": "торт, тістечко" }
       ]
     },
     {
       "en": "She has three cakes.",
+      "uk": "У неї три торти.",
       "fr": "Elle a trois gâteaux.",
       "vocab": [
-        { "fr": "gâteaux", "en": "cakes" }
+        { "fr": "gâteaux", "en": "cakes", "uk": "торти, тістечка" }
       ]
     },
     {
       "en": "He has a game.",
+      "uk": "У нього є гра.",
       "fr": "Il a un jeu.",
       "vocab": [
-        { "fr": "jeu", "en": "game" }
+        { "fr": "jeu", "en": "game", "uk": "гра" }
       ]
     },
     {
       "en": "He has many games.",
+      "uk": "У нього багато ігор.",
       "fr": "Il a beaucoup de jeux.",
       "vocab": [
-        { "fr": "jeux", "en": "games" },
-        { "fr": "beaucoup de", "en": "a lot of" }
+        { "fr": "jeux", "en": "games", "uk": "ігри" },
+        { "fr": "beaucoup de", "en": "a lot of", "uk": "багато" }
       ]
     },
     {
       "en": "The animal is big.",
+      "uk": "Тварина велика.",
       "fr": "L'animal est grand.",
       "vocab": [
-        { "fr": "animal", "en": "animal" }
+        { "fr": "animal", "en": "animal", "uk": "тварина" }
       ]
     },
     {
       "en": "The animals are big.",
+      "uk": "Тварини великі.",
       "fr": "Les animaux sont grands.",
       "vocab": [
-        { "fr": "animaux", "en": "animals" }
+        { "fr": "animaux", "en": "animals", "uk": "тварини" }
       ]
     },
     {
       "en": "I have a newspaper.",
+      "uk": "У мене є газета.",
       "fr": "J'ai un journal.",
       "vocab": [
-        { "fr": "journal", "en": "newspaper" }
+        { "fr": "journal", "en": "newspaper", "uk": "газета" }
       ]
     },
     {
       "en": "I have two newspapers.",
+      "uk": "У мене дві газети.",
       "fr": "J'ai deux journaux.",
       "vocab": [
-        { "fr": "journaux", "en": "newspapers" }
+        { "fr": "journaux", "en": "newspapers", "uk": "газети" }
       ]
     },
     {
       "en": "The castle is beautiful.",
+      "uk": "Замок гарний.",
       "fr": "Le château est beau.",
       "vocab": [
-        { "fr": "château", "en": "castle" },
-        { "fr": "beau", "en": "beautiful" }
+        { "fr": "château", "en": "castle", "uk": "замок" },
+        { "fr": "beau", "en": "beautiful", "uk": "гарний" }
       ]
     },
     {
       "en": "The castles are beautiful.",
+      "uk": "Замки гарні.",
       "fr": "Les châteaux sont beaux.",
       "vocab": [
-        { "fr": "châteaux", "en": "castles" },
-        { "fr": "beaux", "en": "beautiful (masc. plural)" }
+        { "fr": "châteaux", "en": "castles", "uk": "замки" },
+        { "fr": "beaux", "en": "beautiful (masc. plural)", "uk": "гарні (чол. р. мн.)" }
       ]
     }
   ]

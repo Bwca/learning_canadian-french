@@ -1,69 +1,82 @@
 {
-  "title": "Avoir — expressions with avoir (set 5: habits, trust, shame & hate)",
+  "title": {
+    "en": "Avoir — expressions with avoir (set 5: habits, trust, shame & hate)",
+    "uk": "Avoir — вирази з avoir (набір 5: звички, довіра, сором, огида)"
+  },
   "exercises": [
     {
       "en": "I'm used to watching TV.",
+      "uk": "Я звик дивитися телевізор.",
       "fr": "J'ai l'habitude de regarder la télé.",
       "vocab": [
-        { "fr": "avoir l'habitude de", "en": "to be used to" },
-        { "fr": "télé", "en": "TV" }
+        { "fr": "avoir l'habitude de", "en": "to be used to", "uk": "мати звичку" },
+        { "fr": "télé", "en": "TV", "uk": "телевізор" }
       ]
     },
     {
       "en": "We're used to the cold.",
+      "uk": "Ми звикли до холоду.",
       "fr": "Nous avons l'habitude du froid.",
       "vocab": [
-        { "fr": "du", "en": "de + le" }
+        { "fr": "du", "en": "de + le", "uk": "du = de + le" }
       ]
     },
     {
       "en": "I trust you. (informal)",
+      "uk": "Я тобі довіряю.",
       "fr": "J'ai confiance en toi.",
       "vocab": [
-        { "fr": "avoir confiance en", "en": "to trust" }
+        { "fr": "avoir confiance en", "en": "to trust", "uk": "довіряти" }
       ]
     },
     {
       "en": "She trusts her brother.",
+      "uk": "Вона довіряє своєму братові.",
       "fr": "Elle a confiance en son frère.",
       "vocab": []
     },
     {
       "en": "He is ashamed.",
+      "uk": "Йому соромно.",
       "fr": "Il a honte.",
       "vocab": [
-        { "fr": "avoir honte", "en": "to be ashamed" }
+        { "fr": "avoir honte", "en": "to be ashamed", "uk": "соромитися" }
       ]
     },
     {
       "en": "I'm ashamed of you. (informal)",
+      "uk": "Мені за тебе соромно.",
       "fr": "J'ai honte de toi.",
       "vocab": []
     },
     {
       "en": "I hate horror movies.",
+      "uk": "Я терпіти не можу фільмів жахів.",
       "fr": "J'ai horreur des films d'horreur.",
       "vocab": [
-        { "fr": "avoir horreur de", "en": "to hate, to loathe" },
-        { "fr": "film d'horreur", "en": "horror movie" }
+        { "fr": "avoir horreur de", "en": "to hate, to loathe", "uk": "терпіти не могти, ненавидіти" },
+        { "fr": "film d'horreur", "en": "horror movie", "uk": "фільм жахів" }
       ]
     },
     {
       "en": "They (masc.) hate the snow.",
+      "uk": "Вони (чол.) терпіти не можуть снігу.",
       "fr": "Ils ont horreur de la neige.",
       "vocab": [
-        { "fr": "neige", "en": "snow" }
+        { "fr": "neige", "en": "snow", "uk": "сніг" }
       ]
     },
     {
       "en": "I'm twenty years old.",
+      "uk": "Мені двадцять років.",
       "fr": "J'ai vingt ans.",
       "vocab": [
-        { "fr": "avoir … ans", "en": "to be … years old" }
+        { "fr": "avoir … ans", "en": "to be … years old", "uk": "мати … років" }
       ]
     },
     {
       "en": "Do you trust me? (formal)",
+      "uk": "Ви мені довіряєте?",
       "fr": "Est-ce que vous avez confiance en moi?",
       "vocab": []
     }

@@ -1,86 +1,99 @@
 {
-  "title": "Possessifs — votre/vos (set 6: your things, formal/plural)",
+  "title": {
+    "en": "Possessifs — votre/vos (set 6: your things, formal/plural)",
+    "uk": "Присвійні — votre/vos (набір 6: ваші речі)"
+  },
   "exercises": [
     {
       "en": "Your children are happy.",
+      "uk": "Ваші діти задоволені.",
       "fr": "Vos enfants sont contents.",
       "vocab": [
-        { "fr": "vos", "en": "your (formal/plural)" },
-        { "fr": "enfant", "en": "child" }
+        { "fr": "vos", "en": "your (formal/plural)", "uk": "ваші (мн.)" },
+        { "fr": "enfant", "en": "child", "uk": "дитина" }
       ]
     },
     {
       "en": "Your house is big.",
+      "uk": "Ваш будинок великий.",
       "fr": "Votre maison est grande.",
       "vocab": [
-        { "fr": "votre", "en": "your (formal, singular)" },
-        { "fr": "maison", "en": "house" }
+        { "fr": "votre", "en": "your (formal, singular)", "uk": "ваш (одн.)" },
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "Your car is new.",
+      "uk": "Ваша машина нова.",
       "fr": "Votre voiture est neuve.",
       "vocab": [
-        { "fr": "votre", "en": "your (formal, singular)" },
-        { "fr": "voiture", "en": "car" }
+        { "fr": "votre", "en": "your (formal, singular)", "uk": "ваш (одн.)" },
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "Your friends (fem.) are kind.",
+      "uk": "Ваші подруги добрі.",
       "fr": "Vos amies sont gentilles.",
       "vocab": [
-        { "fr": "vos", "en": "your (formal/plural)" },
-        { "fr": "ami", "en": "friend" }
+        { "fr": "vos", "en": "your (formal/plural)", "uk": "ваші (мн.)" },
+        { "fr": "ami", "en": "friend", "uk": "друг" }
       ]
     },
     {
       "en": "Your dog is nice.",
+      "uk": "Ваш собака добрий.",
       "fr": "Votre chien est gentil.",
       "vocab": [
-        { "fr": "votre", "en": "your (formal, singular)" },
-        { "fr": "chien", "en": "dog" }
+        { "fr": "votre", "en": "your (formal, singular)", "uk": "ваш (одн.)" },
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     },
     {
       "en": "Your keys are here.",
+      "uk": "Ваші ключі тут.",
       "fr": "Vos clés sont ici.",
       "vocab": [
-        { "fr": "vos", "en": "your (formal/plural)" },
-        { "fr": "clé", "en": "key" },
-        { "fr": "ici", "en": "here" }
+        { "fr": "vos", "en": "your (formal/plural)", "uk": "ваші (мн.)" },
+        { "fr": "clé", "en": "key", "uk": "ключ" },
+        { "fr": "ici", "en": "here", "uk": "тут" }
       ]
     },
     {
       "en": "Your teacher is strict.",
+      "uk": "Ваш вчитель суворий.",
       "fr": "Votre professeur est strict.",
       "vocab": [
-        { "fr": "votre", "en": "your (formal, singular)" },
-        { "fr": "professeur", "en": "teacher" },
-        { "fr": "strict", "en": "strict" }
+        { "fr": "votre", "en": "your (formal, singular)", "uk": "ваш (одн.)" },
+        { "fr": "professeur", "en": "teacher", "uk": "вчитель" },
+        { "fr": "strict", "en": "strict", "uk": "суворий" }
       ]
     },
     {
       "en": "Your parents are tall.",
+      "uk": "Ваші батьки високі.",
       "fr": "Vos parents sont grands.",
       "vocab": [
-        { "fr": "vos", "en": "your (formal/plural)" },
-        { "fr": "parents", "en": "parents" }
+        { "fr": "vos", "en": "your (formal/plural)", "uk": "ваші (мн.)" },
+        { "fr": "parents", "en": "parents", "uk": "батьки" }
       ]
     },
     {
       "en": "Your garden is beautiful.",
+      "uk": "Ваш сад гарний.",
       "fr": "Votre jardin est beau.",
       "vocab": [
-        { "fr": "votre", "en": "your (formal, singular)" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "votre", "en": "your (formal, singular)", "uk": "ваш (одн.)" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "Your books are new.",
+      "uk": "Ваші книжки нові.",
       "fr": "Vos livres sont nouveaux.",
       "vocab": [
-        { "fr": "vos", "en": "your (formal/plural)" },
-        { "fr": "livre", "en": "book" }
+        { "fr": "vos", "en": "your (formal/plural)", "uk": "ваші (мн.)" },
+        { "fr": "livre", "en": "book", "uk": "книжка" }
       ]
     }
   ]

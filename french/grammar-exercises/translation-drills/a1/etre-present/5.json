@@ -1,74 +1,87 @@
 {
-  "title": "Être — present tense (set 5: nationalities and origin)",
+  "title": {
+    "en": "Être — present tense (set 5: nationalities and origin)",
+    "uk": "Être — теперішній час (набір 5: національність і походження)"
+  },
   "exercises": [
     {
       "en": "I am Canadian.",
+      "uk": "Я канадієць.",
       "fr": "Je suis canadien.",
       "vocab": [
-        { "fr": "canadien", "en": "Canadian" }
+        { "fr": "canadien", "en": "Canadian", "uk": "канадієць, канадський" }
       ]
     },
     {
       "en": "She is Canadian.",
+      "uk": "Вона канадка.",
       "fr": "Elle est canadienne.",
       "vocab": [
-        { "fr": "canadienne", "en": "Canadian (fem.)" }
+        { "fr": "canadienne", "en": "Canadian (fem.)", "uk": "канадка, канадська (жін. р.)" }
       ]
     },
     {
       "en": "We are from Montreal.",
+      "uk": "Ми з Монреаля.",
       "fr": "Nous sommes de Montréal.",
       "vocab": [
-        { "fr": "de", "en": "from" }
+        { "fr": "de", "en": "from", "uk": "з" }
       ]
     },
     {
       "en": "He is French.",
+      "uk": "Він француз.",
       "fr": "Il est français.",
       "vocab": [
-        { "fr": "français", "en": "French" }
+        { "fr": "français", "en": "French", "uk": "француз, французький" }
       ]
     },
     {
       "en": "You (informal) are American.",
+      "uk": "Ти американець.",
       "fr": "Tu es américain.",
       "vocab": [
-        { "fr": "américain", "en": "American" }
+        { "fr": "américain", "en": "American", "uk": "американець, американський" }
       ]
     },
     {
       "en": "The parents are Haitian.",
+      "uk": "Батьки гаїтяни.",
       "fr": "Les parents sont haïtiens.",
       "vocab": [
-        { "fr": "haïtien", "en": "Haitian" }
+        { "fr": "haïtien", "en": "Haitian", "uk": "гаїтянин, гаїтянський" }
       ]
     },
     {
       "en": "They (fem.) are Québécoise.",
+      "uk": "Вони (жін.) квебечки.",
       "fr": "Elles sont québécoises.",
       "vocab": [
-        { "fr": "québécois / québécoise", "en": "from Quebec" }
+        { "fr": "québécois / québécoise", "en": "from Quebec", "uk": "квебекець / квебечка" }
       ]
     },
     {
       "en": "I am from Quebec City.",
+      "uk": "Я з міста Квебек.",
       "fr": "Je suis de Québec.",
       "vocab": [
-        { "fr": "de", "en": "from" }
+        { "fr": "de", "en": "from", "uk": "з" }
       ]
     },
     {
       "en": "She is Italian.",
+      "uk": "Вона італійка.",
       "fr": "Elle est italienne.",
       "vocab": [
-        { "fr": "italienne", "en": "Italian (fem.)" }
+        { "fr": "italienne", "en": "Italian (fem.)", "uk": "італійка, італійська (жін. р.)" }
       ]
     },
     {
       "en": "He is Mexican.",
+      "uk": "Він мексиканець.",
       "fr": "Il est mexicain.",
       "vocab": [
-        { "fr": "mexicain", "en": "Mexican" }
+        { "fr": "mexicain", "en": "Mexican", "uk": "мексиканець, мексиканський" }
       ]
     }
   ]

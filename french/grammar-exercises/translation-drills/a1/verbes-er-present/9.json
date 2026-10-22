@@ -1,75 +1,88 @@
 {
-  "title": "Verbes en -er — present tense (set 9: questions with est-ce que and où est-ce que)",
+  "title": {
+    "en": "Verbes en -er — present tense (set 9: questions with est-ce que and où est-ce que)",
+    "uk": "Дієслова на -er — теперішній час (набір 9: питання з est-ce que і où est-ce que)"
+  },
   "exercises": [
     {
       "en": "Where do you (informal) live?",
+      "uk": "Де ти живеш?",
       "fr": "Où est-ce que tu habites?",
       "vocab": [
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "Where does he work?",
+      "uk": "Де він працює?",
       "fr": "Où est-ce qu'il travaille?",
       "vocab": [
-        { "fr": "travailler", "en": "to work" }
+        { "fr": "travailler", "en": "to work", "uk": "працювати" }
       ]
     },
     {
       "en": "Do you (formal/plural) speak French?",
+      "uk": "Ви говорите французькою? (з est-ce que)",
       "fr": "Est-ce que vous parlez français?",
       "vocab": [
-        { "fr": "parler", "en": "to speak" }
+        { "fr": "parler", "en": "to speak", "uk": "говорити" }
       ]
     },
     {
       "en": "Where do we park?",
+      "uk": "Де ми паркуємося?",
       "fr": "Où est-ce que nous stationnons?",
       "vocab": [
-        { "fr": "stationner", "en": "to park (Québec)" }
+        { "fr": "stationner", "en": "to park (Québec)", "uk": "паркувати (у Квебеку)" }
       ]
     },
     {
       "en": "Does she like to cook?",
+      "uk": "Вона любить готувати? (з est-ce que)",
       "fr": "Est-ce qu'elle aime cuisiner?",
       "vocab": [
-        { "fr": "cuisiner", "en": "to cook" }
+        { "fr": "cuisiner", "en": "to cook", "uk": "готувати (їжу)" }
       ]
     },
     {
       "en": "Where do they (masc.) study?",
+      "uk": "Де вони (чол.) навчаються?",
       "fr": "Où est-ce qu'ils étudient?",
       "vocab": [
-        { "fr": "étudier", "en": "to study" }
+        { "fr": "étudier", "en": "to study", "uk": "навчатися, вивчати" }
       ]
     },
     {
       "en": "Do they (fem.) play hockey?",
+      "uk": "Вони (жін.) грають у хокей? (з est-ce que)",
       "fr": "Est-ce qu'elles jouent au hockey?",
       "vocab": [
-        { "fr": "jouer à", "en": "to play (a sport or game)" }
+        { "fr": "jouer à", "en": "to play (a sport or game)", "uk": "грати в (спорт чи гру)" }
       ]
     },
     {
       "en": "Where do you (informal) shop?",
+      "uk": "Де ти ходиш по магазинах?",
       "fr": "Où est-ce que tu magasines?",
       "vocab": [
-        { "fr": "magasiner", "en": "to shop (Québec)" }
+        { "fr": "magasiner", "en": "to shop (Québec)", "uk": "ходити по магазинах (у Квебеку)" }
       ]
     },
     {
       "en": "Do I close the window?",
+      "uk": "Мені зачинити вікно? (з est-ce que)",
       "fr": "Est-ce que je ferme la fenêtre?",
       "vocab": [
-        { "fr": "fermer", "en": "to close" },
-        { "fr": "fenêtre", "en": "window" }
+        { "fr": "fermer", "en": "to close", "uk": "зачиняти" },
+        { "fr": "fenêtre", "en": "window", "uk": "вікно" }
       ]
     },
     {
       "en": "Where do you (formal/plural) have lunch?",
+      "uk": "Де ви обідаєте?",
       "fr": "Où est-ce que vous dînez?",
       "vocab": [
-        { "fr": "dîner", "en": "to have lunch (Québec)" }
+        { "fr": "dîner", "en": "to have lunch (Québec)", "uk": "обідати (у Квебеку)" }
       ]
     }
   ]

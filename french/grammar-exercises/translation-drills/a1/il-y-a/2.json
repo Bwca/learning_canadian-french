@@ -1,75 +1,88 @@
 {
-  "title": "Il y a — there is/there are (set 2: negation, il n'y a pas de)",
+  "title": {
+    "en": "Il y a — there is/there are (set 2: negation, il n'y a pas de)",
+    "uk": "Il y a — є (набір 2: заперечення, il n'y a pas de)"
+  },
   "exercises": [
     {
       "en": "There is no bread.",
+      "uk": "Немає хліба.",
       "fr": "Il n'y a pas de pain.",
       "vocab": [
-        { "fr": "pain", "en": "bread" }
+        { "fr": "pain", "en": "bread", "uk": "хліб" }
       ]
     },
     {
       "en": "There are no apples.",
+      "uk": "Немає яблук.",
       "fr": "Il n'y a pas de pommes.",
       "vocab": [
-        { "fr": "pomme", "en": "apple" }
+        { "fr": "pomme", "en": "apple", "uk": "яблуко" }
       ]
     },
     {
       "en": "There is no milk.",
+      "uk": "Немає молока.",
       "fr": "Il n'y a pas de lait.",
       "vocab": [
-        { "fr": "lait", "en": "milk" }
+        { "fr": "lait", "en": "milk", "uk": "молоко" }
       ]
     },
     {
       "en": "There are no eggs.",
+      "uk": "Немає яєць.",
       "fr": "Il n'y a pas d'œufs.",
       "vocab": [
-        { "fr": "œuf", "en": "egg" }
+        { "fr": "œuf", "en": "egg", "uk": "яйце" }
       ]
     },
     {
       "en": "There is no cheese.",
+      "uk": "Немає сиру.",
       "fr": "Il n'y a pas de fromage.",
       "vocab": [
-        { "fr": "fromage", "en": "cheese" }
+        { "fr": "fromage", "en": "cheese", "uk": "сир" }
       ]
     },
     {
       "en": "There is no coffee.",
+      "uk": "Немає кави.",
       "fr": "Il n'y a pas de café.",
       "vocab": [
-        { "fr": "café", "en": "coffee" }
+        { "fr": "café", "en": "coffee", "uk": "кава" }
       ]
     },
     {
       "en": "There are no children in the park.",
+      "uk": "У парку немає дітей.",
       "fr": "Il n'y a pas d'enfants dans le parc.",
       "vocab": [
-        { "fr": "enfant", "en": "child" },
-        { "fr": "parc", "en": "park" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "parc", "en": "park", "uk": "парк" }
       ]
     },
     {
       "en": "There is no table.",
+      "uk": "Немає столу.",
       "fr": "Il n'y a pas de table.",
       "vocab": [
-        { "fr": "table", "en": "table" }
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "There are no books.",
+      "uk": "Немає книжок.",
       "fr": "Il n'y a pas de livres.",
       "vocab": [
-        { "fr": "livre", "en": "book" }
+        { "fr": "livre", "en": "book", "uk": "книжка" }
       ]
     },
     {
       "en": "There is no snow today.",
+      "uk": "Сьогодні немає снігу.",
       "fr": "Il n'y a pas de neige aujourd'hui.",
       "vocab": [
-        { "fr": "neige", "en": "snow" }
+        { "fr": "neige", "en": "snow", "uk": "сніг" }
       ]
     }
   ]

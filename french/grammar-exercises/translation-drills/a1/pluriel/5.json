@@ -1,77 +1,90 @@
 {
-  "title": "Pluriel — noun plurals (set 5: quantities with plural nouns)",
+  "title": {
+    "en": "Pluriel — noun plurals (set 5: quantities with plural nouns)",
+    "uk": "Pluriel — множина іменників (набір 5: кількість з іменниками в множині)"
+  },
   "exercises": [
     {
       "en": "I have many friends (fem.).",
+      "uk": "У мене багато подруг.",
       "fr": "J'ai beaucoup d'amies.",
       "vocab": [
-        { "fr": "beaucoup de", "en": "a lot of / many" },
-        { "fr": "amie", "en": "friend (fem.)" }
+        { "fr": "beaucoup de", "en": "a lot of / many", "uk": "багато" },
+        { "fr": "amie", "en": "friend (fem.)", "uk": "подруга" }
       ]
     },
     {
       "en": "She has several books.",
+      "uk": "У неї кілька книжок.",
       "fr": "Elle a plusieurs livres.",
       "vocab": [
-        { "fr": "plusieurs", "en": "several" }
+        { "fr": "plusieurs", "en": "several", "uk": "кілька" }
       ]
     },
     {
       "en": "We have a few apples.",
+      "uk": "У нас кілька яблук.",
       "fr": "Nous avons quelques pommes.",
       "vocab": [
-        { "fr": "quelques", "en": "a few" }
+        { "fr": "quelques", "en": "a few", "uk": "кілька, декілька" }
       ]
     },
     {
       "en": "They (masc.) have too many problems.",
+      "uk": "У них (чол.) забагато проблем.",
       "fr": "Ils ont trop de problèmes.",
       "vocab": [
-        { "fr": "trop de", "en": "too many / too much" },
-        { "fr": "problème", "en": "problem" }
+        { "fr": "trop de", "en": "too many / too much", "uk": "забагато" },
+        { "fr": "problème", "en": "problem", "uk": "проблема" }
       ]
     },
     {
       "en": "I have five dollars.",
+      "uk": "У мене п'ять доларів.",
       "fr": "J'ai cinq dollars.",
       "vocab": [
-        { "fr": "dollar", "en": "dollar" }
+        { "fr": "dollar", "en": "dollar", "uk": "долар" }
       ]
     },
     {
       "en": "He has ten books.",
+      "uk": "У нього десять книжок.",
       "fr": "Il a dix livres.",
       "vocab": [
-        { "fr": "livre", "en": "book" }
+        { "fr": "livre", "en": "book", "uk": "книжка" }
       ]
     },
     {
       "en": "You (informal) have three sisters.",
+      "uk": "У тебе три сестри.",
       "fr": "Tu as trois sœurs.",
       "vocab": [
-        { "fr": "sœur", "en": "sister" }
+        { "fr": "sœur", "en": "sister", "uk": "сестра" }
       ]
     },
     {
       "en": "We have two cars.",
+      "uk": "У нас дві машини.",
       "fr": "Nous avons deux voitures.",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "She has many shoes.",
+      "uk": "У неї багато взуття.",
       "fr": "Elle a beaucoup de chaussures.",
       "vocab": [
-        { "fr": "beaucoup de", "en": "a lot of / many" },
-        { "fr": "chaussure", "en": "shoe" }
+        { "fr": "beaucoup de", "en": "a lot of / many", "uk": "багато" },
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" }
       ]
     },
     {
       "en": "He has four brothers.",
+      "uk": "У нього четверо братів.",
       "fr": "Il a quatre frères.",
       "vocab": [
-        { "fr": "frère", "en": "brother" }
+        { "fr": "frère", "en": "brother", "uk": "брат" }
       ]
     }
   ]

@@ -1,82 +1,95 @@
 {
-  "title": "Verbes en -ir — present tense (set 9: singular vs plural, il finit/ils finissent)",
+  "title": {
+    "en": "Verbes en -ir — present tense (set 9: singular vs plural, il finit/ils finissent)",
+    "uk": "Дієслова на -ir — теперішній час (набір 9: однина й множина, il finit/ils finissent)"
+  },
   "exercises": [
     {
       "en": "The boy grows.",
+      "uk": "Хлопчик росте.",
       "fr": "Le garçon grandit.",
       "vocab": [
-        { "fr": "grandir", "en": "to grow (up)" },
-        { "fr": "garçon", "en": "boy" }
+        { "fr": "grandir", "en": "to grow (up)", "uk": "рости, дорослішати" },
+        { "fr": "garçon", "en": "boy", "uk": "хлопчик" }
       ]
     },
     {
       "en": "The boys grow.",
+      "uk": "Хлопчики ростуть.",
       "fr": "Les garçons grandissent.",
       "vocab": [
-        { "fr": "grandir", "en": "to grow (up)" },
-        { "fr": "garçon", "en": "boy" }
+        { "fr": "grandir", "en": "to grow (up)", "uk": "рости, дорослішати" },
+        { "fr": "garçon", "en": "boy", "uk": "хлопчик" }
       ]
     },
     {
       "en": "She chooses the cake.",
+      "uk": "Вона вибирає торт.",
       "fr": "Elle choisit le gâteau.",
       "vocab": [
-        { "fr": "choisir", "en": "to choose" },
-        { "fr": "gâteau", "en": "cake" }
+        { "fr": "choisir", "en": "to choose", "uk": "вибирати" },
+        { "fr": "gâteau", "en": "cake", "uk": "торт, тістечко" }
       ]
     },
     {
       "en": "They (fem.) choose the pie.",
+      "uk": "Вони (жін.) вибирають пиріг.",
       "fr": "Elles choisissent la tarte.",
       "vocab": [
-        { "fr": "choisir", "en": "to choose" },
-        { "fr": "tarte", "en": "pie" }
+        { "fr": "choisir", "en": "to choose", "uk": "вибирати" },
+        { "fr": "tarte", "en": "pie", "uk": "пиріг, тарт" }
       ]
     },
     {
       "en": "The plane lands.",
+      "uk": "Літак приземляється.",
       "fr": "L'avion atterrit.",
       "vocab": [
-        { "fr": "atterrir", "en": "to land" },
-        { "fr": "avion", "en": "plane" }
+        { "fr": "atterrir", "en": "to land", "uk": "приземлятися" },
+        { "fr": "avion", "en": "plane", "uk": "літак" }
       ]
     },
     {
       "en": "The planes land at night.",
+      "uk": "Літаки приземляються вночі.",
       "fr": "Les avions atterrissent la nuit.",
       "vocab": [
-        { "fr": "atterrir", "en": "to land" },
-        { "fr": "la nuit", "en": "at night" }
+        { "fr": "atterrir", "en": "to land", "uk": "приземлятися" },
+        { "fr": "la nuit", "en": "at night", "uk": "вночі" }
       ]
     },
     {
       "en": "The cat gains weight.",
+      "uk": "Кіт гладшає.",
       "fr": "Le chat grossit.",
       "vocab": [
-        { "fr": "grossir", "en": "to gain weight" }
+        { "fr": "grossir", "en": "to gain weight", "uk": "гладшати, набирати вагу" }
       ]
     },
     {
       "en": "The cats gain weight.",
+      "uk": "Коти гладшають.",
       "fr": "Les chats grossissent.",
       "vocab": [
-        { "fr": "grossir", "en": "to gain weight" }
+        { "fr": "grossir", "en": "to gain weight", "uk": "гладшати, набирати вагу" }
       ]
     },
     {
       "en": "The student (fem.) succeeds.",
+      "uk": "Студентка має успіх.",
       "fr": "L'étudiante réussit.",
       "vocab": [
-        { "fr": "réussir", "en": "to succeed" },
-        { "fr": "étudiante", "en": "student (fem.)" }
+        { "fr": "réussir", "en": "to succeed", "uk": "мати успіх, досягати успіху" },
+        { "fr": "étudiante", "en": "student (fem.)", "uk": "студентка" }
       ]
     },
     {
       "en": "The students (fem.) succeed.",
+      "uk": "Студентки мають успіх.",
       "fr": "Les étudiantes réussissent.",
       "vocab": [
-        { "fr": "réussir", "en": "to succeed" },
-        { "fr": "étudiante", "en": "student (fem.)" }
+        { "fr": "réussir", "en": "to succeed", "uk": "мати успіх, досягати успіху" },
+        { "fr": "étudiante", "en": "student (fem.)", "uk": "студентка" }
       ]
     }
   ]

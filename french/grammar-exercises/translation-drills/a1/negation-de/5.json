@@ -1,85 +1,98 @@
 {
-  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 5: manger with food)",
+  "title": {
+    "en": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 5: manger with food)",
+    "uk": "Заперечення — pas de (без du/de la/de l'/des/un/une) (набір 5: manger з їжею)"
+  },
   "exercises": [
     {
       "en": "I don't eat meat.",
+      "uk": "Я не їм м'яса.",
       "fr": "Je ne mange pas de viande.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "viande", "en": "meat" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "viande", "en": "meat", "uk": "м'ясо" }
       ]
     },
     {
       "en": "You (informal) don't eat fish.",
+      "uk": "Ти не їси риби.",
       "fr": "Tu ne manges pas de poisson.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "poisson", "en": "fish" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "poisson", "en": "fish", "uk": "риба" }
       ]
     },
     {
       "en": "He doesn't eat vegetables.",
+      "uk": "Він не їсть овочів.",
       "fr": "Il ne mange pas de légumes.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "légume", "en": "vegetable" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "légume", "en": "vegetable", "uk": "овоч" }
       ]
     },
     {
       "en": "She doesn't eat cheese.",
+      "uk": "Вона не їсть сиру.",
       "fr": "Elle ne mange pas de fromage.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "fromage", "en": "cheese" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "fromage", "en": "cheese", "uk": "сир" }
       ]
     },
     {
       "en": "We don't eat red meat.",
+      "uk": "Ми не їмо червоного м'яса.",
       "fr": "Nous ne mangeons pas de viande rouge.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "viande", "en": "meat" },
-        { "fr": "rouge", "en": "red" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "viande", "en": "meat", "uk": "м'ясо" },
+        { "fr": "rouge", "en": "red", "uk": "червоний" }
       ]
     },
     {
       "en": "You (formal/plural) don't eat sugar.",
+      "uk": "Ви не їсте цукру.",
       "fr": "Vous ne mangez pas de sucre.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "sucre", "en": "sugar" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "sucre", "en": "sugar", "uk": "цукор" }
       ]
     },
     {
       "en": "They (masc.) don't eat bread.",
+      "uk": "Вони (чол.) не їдять хліба.",
       "fr": "Ils ne mangent pas de pain.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "pain", "en": "bread" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "pain", "en": "bread", "uk": "хліб" }
       ]
     },
     {
       "en": "They (fem.) don't eat rice.",
+      "uk": "Вони (жін.) не їдять рису.",
       "fr": "Elles ne mangent pas de riz.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "riz", "en": "rice" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "riz", "en": "rice", "uk": "рис" }
       ]
     },
     {
       "en": "I don't eat dessert.",
+      "uk": "Я не їм десерту.",
       "fr": "Je ne mange pas de dessert.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "dessert", "en": "dessert" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "dessert", "en": "dessert", "uk": "десерт" }
       ]
     },
     {
       "en": "You (informal) don't eat fruit.",
+      "uk": "Ти не їси фруктів.",
       "fr": "Tu ne manges pas de fruits.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "fruit", "en": "fruit" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "fruit", "en": "fruit", "uk": "фрукт" }
       ]
     }
   ]

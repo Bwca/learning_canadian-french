@@ -1,66 +1,79 @@
 {
-  "title": "Salutations — greetings & politeness (set 3: thanks, please & excuse me)",
+  "title": {
+    "en": "Salutations — greetings & politeness (set 3: thanks, please & excuse me)",
+    "uk": "Salutations — привітання та ввічливість (набір 3: дякую, будь ласка, перепрошую)"
+  },
   "exercises": [
     {
       "en": "Thank you very much!",
+      "uk": "Щиро дякую!",
       "fr": "Merci beaucoup!",
       "vocab": []
     },
     {
       "en": "You're welcome.",
+      "uk": "Нема за що.",
       "fr": "De rien.",
       "vocab": [
-        { "fr": "de rien", "en": "you're welcome (it's nothing)" }
+        { "fr": "de rien", "en": "you're welcome (it's nothing)", "uk": "нема за що (дослівно: з нічого)" }
       ]
     },
     {
       "en": "My pleasure. (Québec)",
+      "uk": "Мені приємно. (у Квебеку)",
       "fr": "Ça me fait plaisir.",
       "vocab": [
-        { "fr": "faire plaisir", "en": "to please" }
+        { "fr": "faire plaisir", "en": "to please", "uk": "робити приємність, тішити" }
       ]
     },
     {
       "en": "You're welcome! (Québec, with bienvenue)",
+      "uk": "Нема за що! (у Квебеку, з bienvenue)",
       "fr": "Bienvenue!",
       "vocab": [
-        { "fr": "bienvenue", "en": "welcome (Québec: also you're welcome)" }
+        { "fr": "bienvenue", "en": "welcome (Québec: also you're welcome)", "uk": "ласкаво просимо (у Квебеку: також «нема за що»)" }
       ]
     },
     {
       "en": "A coffee, please. (formal)",
+      "uk": "Каву, будь ласка. (до «ви»)",
       "fr": "Un café, s'il vous plaît.",
       "vocab": [
-        { "fr": "café", "en": "coffee" }
+        { "fr": "café", "en": "coffee", "uk": "кава" }
       ]
     },
     {
       "en": "Water, please. (informal)",
+      "uk": "Води, будь ласка. (до «ти»)",
       "fr": "De l'eau, s'il te plaît.",
       "vocab": [
-        { "fr": "eau", "en": "water" }
+        { "fr": "eau", "en": "water", "uk": "вода" }
       ]
     },
     {
       "en": "Excuse me, sir. (formal)",
+      "uk": "Вибачте, пане.",
       "fr": "Excusez-moi, monsieur.",
       "vocab": []
     },
     {
       "en": "Excuse me, Paul. (informal)",
+      "uk": "Вибач, Поле.",
       "fr": "Excuse-moi, Paul.",
       "vocab": []
     },
     {
       "en": "Forgive me, I'm late. (formal)",
+      "uk": "Пробачте, я запізнююся.",
       "fr": "Pardonnez-moi, je suis en retard.",
       "vocab": [
-        { "fr": "pardonner", "en": "to forgive" },
-        { "fr": "être en retard", "en": "to be late" }
+        { "fr": "pardonner", "en": "to forgive", "uk": "пробачати" },
+        { "fr": "être en retard", "en": "to be late", "uk": "запізнюватися" }
       ]
     },
     {
       "en": "Sorry? (didn't hear)",
+      "uk": "Перепрошую? (не розчув)",
       "fr": "Pardon?",
       "vocab": []
     }

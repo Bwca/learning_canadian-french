@@ -1,78 +1,91 @@
 {
-  "title": "Pluriel — noun plurals (set 9: special plurals, continued — -ou → x)",
+  "title": {
+    "en": "Pluriel — noun plurals (set 9: special plurals, continued — -ou → x)",
+    "uk": "Pluriel — множина іменників (набір 9: особлива множина, продовження — -ou → x)"
+  },
   "exercises": [
     {
       "en": "I have a jewel.",
+      "uk": "У мене є прикраса.",
       "fr": "J'ai un bijou.",
       "vocab": [
-        { "fr": "bijou", "en": "jewel" }
+        { "fr": "bijou", "en": "jewel", "uk": "прикраса, коштовність" }
       ]
     },
     {
       "en": "I have two jewels.",
+      "uk": "У мене дві прикраси.",
       "fr": "J'ai deux bijoux.",
       "vocab": [
-        { "fr": "bijoux", "en": "jewels (irregular plural)" }
+        { "fr": "bijoux", "en": "jewels (irregular plural)", "uk": "прикраси (неправильна множина)" }
       ]
     },
     {
       "en": "She has a cabbage.",
+      "uk": "У неї є капустина.",
       "fr": "Elle a un chou.",
       "vocab": [
-        { "fr": "chou", "en": "cabbage" }
+        { "fr": "chou", "en": "cabbage", "uk": "капуста, качан" }
       ]
     },
     {
       "en": "She has three cabbages.",
+      "uk": "У неї три качани капусти.",
       "fr": "Elle a trois choux.",
       "vocab": [
-        { "fr": "choux", "en": "cabbages" }
+        { "fr": "choux", "en": "cabbages", "uk": "качани капусти" }
       ]
     },
     {
       "en": "I have two knees.",
+      "uk": "У мене два коліна.",
       "fr": "J'ai deux genoux.",
       "vocab": [
-        { "fr": "genou / genoux", "en": "knee / knees (irregular plural)" }
+        { "fr": "genou / genoux", "en": "knee / knees (irregular plural)", "uk": "коліно / коліна (неправильна множина)" }
       ]
     },
     {
       "en": "The owl is in the tree.",
+      "uk": "Сова на дереві.",
       "fr": "Le hibou est dans l'arbre.",
       "vocab": [
-        { "fr": "hibou", "en": "owl" },
-        { "fr": "arbre", "en": "tree" }
+        { "fr": "hibou", "en": "owl", "uk": "сова" },
+        { "fr": "arbre", "en": "tree", "uk": "дерево" }
       ]
     },
     {
       "en": "The owls are in the forest.",
+      "uk": "Сови в лісі.",
       "fr": "Les hiboux sont dans la forêt.",
       "vocab": [
-        { "fr": "hiboux", "en": "owls (irregular plural)" }
+        { "fr": "hiboux", "en": "owls (irregular plural)", "uk": "сови (неправильна множина)" }
       ]
     },
     {
       "en": "I have a pebble in the shoe.",
+      "uk": "У мене в черевику камінець.",
       "fr": "J'ai un caillou dans la chaussure.",
       "vocab": [
-        { "fr": "caillou", "en": "pebble" },
-        { "fr": "chaussure", "en": "shoe" }
+        { "fr": "caillou", "en": "pebble", "uk": "камінець" },
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" }
       ]
     },
     {
       "en": "The pebbles are on the path.",
+      "uk": "Камінці на стежці.",
       "fr": "Les cailloux sont sur le chemin.",
       "vocab": [
-        { "fr": "cailloux", "en": "pebbles (irregular plural)" },
-        { "fr": "chemin", "en": "path" }
+        { "fr": "cailloux", "en": "pebbles (irregular plural)", "uk": "камінці (неправильна множина)" },
+        { "fr": "chemin", "en": "path", "uk": "стежка" }
       ]
     },
     {
       "en": "The cabbages are green.",
+      "uk": "Качани капусти зелені.",
       "fr": "Les choux sont verts.",
       "vocab": [
-        { "fr": "choux", "en": "cabbages" },
-        { "fr": "vert", "en": "green" }
+        { "fr": "choux", "en": "cabbages", "uk": "качани капусти" },
+        { "fr": "vert", "en": "green", "uk": "зелений" }
       ]
     }
   ]

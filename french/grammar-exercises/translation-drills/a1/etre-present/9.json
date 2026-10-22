@@ -1,77 +1,90 @@
 {
-  "title": "Être — present tense (set 9: telling time and the day)",
+  "title": {
+    "en": "Être — present tense (set 9: telling time and the day)",
+    "uk": "Être — теперішній час (набір 9: котра година, який день)"
+  },
   "exercises": [
     {
       "en": "It is three o'clock.",
+      "uk": "Зараз третя година.",
       "fr": "Il est trois heures.",
       "vocab": [
-        { "fr": "heure", "en": "o'clock/hour" }
+        { "fr": "heure", "en": "o'clock/hour", "uk": "година" }
       ]
     },
     {
       "en": "It is noon.",
+      "uk": "Зараз полудень.",
       "fr": "Il est midi.",
       "vocab": [
-        { "fr": "midi", "en": "noon" }
+        { "fr": "midi", "en": "noon", "uk": "полудень" }
       ]
     },
     {
       "en": "It is midnight.",
+      "uk": "Зараз північ.",
       "fr": "Il est minuit.",
       "vocab": [
-        { "fr": "minuit", "en": "midnight" }
+        { "fr": "minuit", "en": "midnight", "uk": "північ (опівночі)" }
       ]
     },
     {
       "en": "It is five o'clock.",
+      "uk": "Зараз п'ята година.",
       "fr": "Il est cinq heures.",
       "vocab": [
-        { "fr": "heure", "en": "o'clock/hour" }
+        { "fr": "heure", "en": "o'clock/hour", "uk": "година" }
       ]
     },
     {
       "en": "Today is Monday.",
+      "uk": "Сьогодні понеділок.",
       "fr": "Aujourd'hui, c'est lundi.",
       "vocab": [
-        { "fr": "aujourd'hui", "en": "today" },
-        { "fr": "lundi", "en": "Monday" }
+        { "fr": "aujourd'hui", "en": "today", "uk": "сьогодні" },
+        { "fr": "lundi", "en": "Monday", "uk": "понеділок" }
       ]
     },
     {
       "en": "It is ten o'clock.",
+      "uk": "Зараз десята година.",
       "fr": "Il est dix heures.",
       "vocab": [
-        { "fr": "heure", "en": "o'clock/hour" }
+        { "fr": "heure", "en": "o'clock/hour", "uk": "година" }
       ]
     },
     {
       "en": "Today is Friday.",
+      "uk": "Сьогодні п'ятниця.",
       "fr": "Aujourd'hui, c'est vendredi.",
       "vocab": [
-        { "fr": "aujourd'hui", "en": "today" },
-        { "fr": "vendredi", "en": "Friday" }
+        { "fr": "aujourd'hui", "en": "today", "uk": "сьогодні" },
+        { "fr": "vendredi", "en": "Friday", "uk": "п'ятниця" }
       ]
     },
     {
       "en": "It is one o'clock.",
+      "uk": "Зараз перша година.",
       "fr": "Il est une heure.",
       "vocab": [
-        { "fr": "heure", "en": "o'clock/hour" }
+        { "fr": "heure", "en": "o'clock/hour", "uk": "година" }
       ]
     },
     {
       "en": "It is eight o'clock in the morning.",
+      "uk": "Зараз восьма година ранку.",
       "fr": "Il est huit heures du matin.",
       "vocab": [
-        { "fr": "heure", "en": "o'clock/hour" },
-        { "fr": "du matin", "en": "in the morning" }
+        { "fr": "heure", "en": "o'clock/hour", "uk": "година" },
+        { "fr": "du matin", "en": "in the morning", "uk": "ранку" }
       ]
     },
     {
       "en": "It is late.",
+      "uk": "Уже пізно.",
       "fr": "Il est tard.",
       "vocab": [
-        { "fr": "tard", "en": "late" }
+        { "fr": "tard", "en": "late", "uk": "пізно" }
       ]
     }
   ]

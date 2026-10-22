@@ -1,87 +1,100 @@
 {
-  "title": "Verbes en -ir — present tense (set 4: nature and the seasons)",
+  "title": {
+    "en": "Verbes en -ir — present tense (set 4: nature and the seasons)",
+    "uk": "Дієслова на -ir — теперішній час (набір 4: природа й пори року)"
+  },
   "exercises": [
     {
       "en": "The leaves turn yellow in October.",
+      "uk": "Листя жовтіє в жовтні.",
       "fr": "Les feuilles jaunissent en octobre.",
       "vocab": [
-        { "fr": "jaunir", "en": "to turn yellow" },
-        { "fr": "feuille", "en": "leaf" }
+        { "fr": "jaunir", "en": "to turn yellow", "uk": "жовтіти" },
+        { "fr": "feuille", "en": "leaf", "uk": "листок" }
       ]
     },
     {
       "en": "The maple turns red.",
+      "uk": "Клен червоніє.",
       "fr": "L'érable rougit.",
       "vocab": [
-        { "fr": "rougir", "en": "to turn red / to blush" },
-        { "fr": "érable", "en": "maple (tree)" }
+        { "fr": "rougir", "en": "to turn red / to blush", "uk": "червоніти" },
+        { "fr": "érable", "en": "maple (tree)", "uk": "клен" }
       ]
     },
     {
       "en": "The flowers bloom in May.",
+      "uk": "Квіти розквітають у травні.",
       "fr": "Les fleurs fleurissent en mai.",
       "vocab": [
-        { "fr": "fleurir", "en": "to bloom" },
-        { "fr": "fleur", "en": "flower" }
+        { "fr": "fleurir", "en": "to bloom", "uk": "цвісти, розквітати" },
+        { "fr": "fleur", "en": "flower", "uk": "квітка" }
       ]
     },
     {
       "en": "The apples ripen in September.",
+      "uk": "Яблука достигають у вересні.",
       "fr": "Les pommes mûrissent en septembre.",
       "vocab": [
-        { "fr": "mûrir", "en": "to ripen" },
-        { "fr": "pomme", "en": "apple" }
+        { "fr": "mûrir", "en": "to ripen", "uk": "достигати" },
+        { "fr": "pomme", "en": "apple", "uk": "яблуко" }
       ]
     },
     {
       "en": "The tree grows slowly.",
+      "uk": "Дерево росте повільно.",
       "fr": "L'arbre grandit lentement.",
       "vocab": [
-        { "fr": "grandir", "en": "to grow (up)" },
-        { "fr": "arbre", "en": "tree" },
-        { "fr": "lentement", "en": "slowly" }
+        { "fr": "grandir", "en": "to grow (up)", "uk": "рости, дорослішати" },
+        { "fr": "arbre", "en": "tree", "uk": "дерево" },
+        { "fr": "lentement", "en": "slowly", "uk": "повільно" }
       ]
     },
     {
       "en": "The water cools down.",
+      "uk": "Вода холоне.",
       "fr": "L'eau refroidit.",
       "vocab": [
-        { "fr": "refroidir", "en": "to cool down" },
-        { "fr": "eau", "en": "water" }
+        { "fr": "refroidir", "en": "to cool down", "uk": "холонути, охолоджуватися" },
+        { "fr": "eau", "en": "water", "uk": "вода" }
       ]
     },
     {
       "en": "The days get shorter in November.",
+      "uk": "У листопаді дні коротшають.",
       "fr": "Les jours raccourcissent en novembre.",
       "vocab": [
-        { "fr": "raccourcir", "en": "to get shorter" },
-        { "fr": "jour", "en": "day" }
+        { "fr": "raccourcir", "en": "to get shorter", "uk": "коротшати" },
+        { "fr": "jour", "en": "day", "uk": "день" }
       ]
     },
     {
       "en": "The farmers feed the cows.",
+      "uk": "Фермери годують корів.",
       "fr": "Les fermiers nourrissent les vaches.",
       "vocab": [
-        { "fr": "nourrir", "en": "to feed" },
-        { "fr": "fermier", "en": "farmer" },
-        { "fr": "vache", "en": "cow" }
+        { "fr": "nourrir", "en": "to feed", "uk": "годувати" },
+        { "fr": "fermier", "en": "farmer", "uk": "фермер" },
+        { "fr": "vache", "en": "cow", "uk": "корова" }
       ]
     },
     {
       "en": "The garden blooms in June.",
+      "uk": "Сад розквітає в червні.",
       "fr": "Le jardin fleurit en juin.",
       "vocab": [
-        { "fr": "fleurir", "en": "to bloom" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "fleurir", "en": "to bloom", "uk": "цвісти, розквітати" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "The bear gains weight in the fall.",
+      "uk": "Восени ведмідь набирає вагу.",
       "fr": "L'ours grossit à l'automne.",
       "vocab": [
-        { "fr": "grossir", "en": "to gain weight" },
-        { "fr": "ours", "en": "bear" },
-        { "fr": "à l'automne", "en": "in the fall" }
+        { "fr": "grossir", "en": "to gain weight", "uk": "гладшати, набирати вагу" },
+        { "fr": "ours", "en": "bear", "uk": "ведмідь" },
+        { "fr": "à l'automne", "en": "in the fall", "uk": "восени" }
       ]
     }
   ]

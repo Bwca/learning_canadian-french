@@ -1,74 +1,87 @@
 {
-  "title": "Accord des adjectifs — adjective placement before the noun (set 6: masculine singular)",
+  "title": {
+    "en": "Accord des adjectifs — adjective placement before the noun (set 6: masculine singular)",
+    "uk": "Accord des adjectifs — прикметник перед іменником (набір 6: чоловічий рід однини)"
+  },
   "exercises": [
     {
       "en": "I have a big garden.",
+      "uk": "У мене великий сад.",
       "fr": "J'ai un grand jardin.",
       "vocab": [
-        { "fr": "grand", "en": "big / tall" }
+        { "fr": "grand", "en": "big / tall", "uk": "великий / високий" }
       ]
     },
     {
       "en": "I have a good friend (masc.).",
+      "uk": "У мене є добрий друг.",
       "fr": "J'ai un bon ami.",
       "vocab": [
-        { "fr": "bon", "en": "good" }
+        { "fr": "bon", "en": "good", "uk": "добрий, хороший" }
       ]
     },
     {
       "en": "He has a beautiful cat.",
+      "uk": "У нього гарний кіт.",
       "fr": "Il a un beau chat.",
       "vocab": [
-        { "fr": "beau", "en": "beautiful" }
+        { "fr": "beau", "en": "beautiful", "uk": "гарний" }
       ]
     },
     {
       "en": "I have an old book.",
+      "uk": "У мене стара книжка.",
       "fr": "J'ai un vieux livre.",
       "vocab": [
-        { "fr": "vieux", "en": "old" }
+        { "fr": "vieux", "en": "old", "uk": "старий" }
       ]
     },
     {
       "en": "We have a new bag.",
+      "uk": "У нас нова сумка.",
       "fr": "Nous avons un nouveau sac.",
       "vocab": [
-        { "fr": "nouveau", "en": "new" }
+        { "fr": "nouveau", "en": "new", "uk": "новий" }
       ]
     },
     {
       "en": "You (informal) have a young dog.",
+      "uk": "У тебе молодий собака.",
       "fr": "Tu as un jeune chien.",
       "vocab": [
-        { "fr": "jeune", "en": "young" }
+        { "fr": "jeune", "en": "young", "uk": "молодий" }
       ]
     },
     {
       "en": "He has a bad day.",
+      "uk": "У нього поганий день.",
       "fr": "Il a un mauvais jour.",
       "vocab": [
-        { "fr": "mauvais", "en": "bad" }
+        { "fr": "mauvais", "en": "bad", "uk": "поганий" }
       ]
     },
     {
       "en": "I have a small book.",
+      "uk": "У мене маленька книжка.",
       "fr": "J'ai un petit livre.",
       "vocab": [
-        { "fr": "petit", "en": "small" }
+        { "fr": "petit", "en": "small", "uk": "маленький" }
       ]
     },
     {
       "en": "We have a fat dog.",
+      "uk": "У нас товстий собака.",
       "fr": "Nous avons un gros chien.",
       "vocab": [
-        { "fr": "gros", "en": "fat / big" }
+        { "fr": "gros", "en": "fat / big", "uk": "товстий / великий" }
       ]
     },
     {
       "en": "They (masc.) have a pretty garden.",
+      "uk": "У них (чол.) гарний сад.",
       "fr": "Ils ont un joli jardin.",
       "vocab": [
-        { "fr": "joli", "en": "pretty" }
+        { "fr": "joli", "en": "pretty", "uk": "гарний" }
       ]
     }
   ]

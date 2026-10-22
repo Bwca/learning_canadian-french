@@ -1,86 +1,99 @@
 {
-  "title": "Possessifs — mixed review",
+  "title": {
+    "en": "Possessifs — mixed review",
+    "uk": "Присвійні — повторення"
+  },
   "exercises": [
     {
       "en": "My brother is tall and my sister is small.",
+      "uk": "Мій брат високий, а моя сестра невисока.",
       "fr": "Mon frère est grand et ma sœur est petite.",
       "vocab": [
-        { "fr": "mon", "en": "my (masc. singular)" },
-        { "fr": "frère", "en": "brother" },
-        { "fr": "ma", "en": "my (fem. singular)" },
-        { "fr": "sœur", "en": "sister" }
+        { "fr": "mon", "en": "my (masc. singular)", "uk": "мій (чол. р., одн.)" },
+        { "fr": "frère", "en": "brother", "uk": "брат" },
+        { "fr": "ma", "en": "my (fem. singular)", "uk": "моя (жін. р., одн.)" },
+        { "fr": "sœur", "en": "sister", "uk": "сестра" }
       ]
     },
     {
       "en": "Your (informal) dog is nice.",
+      "uk": "Твій собака добрий.",
       "fr": "Ton chien est gentil.",
       "vocab": [
-        { "fr": "ton", "en": "your (masc. singular, informal)" },
-        { "fr": "chien", "en": "dog" }
+        { "fr": "ton", "en": "your (masc. singular, informal)", "uk": "твій (чол. р., одн.)" },
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     },
     {
       "en": "His car is red.",
+      "uk": "Його машина червона.",
       "fr": "Sa voiture est rouge.",
       "vocab": [
-        { "fr": "sa", "en": "his/her (fem. singular)" },
-        { "fr": "voiture", "en": "car" }
+        { "fr": "sa", "en": "his/her (fem. singular)", "uk": "його / її (жін. р., одн.)" },
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "Our house is big.",
+      "uk": "Наш будинок великий.",
       "fr": "Notre maison est grande.",
       "vocab": [
-        { "fr": "notre", "en": "our (singular)" },
-        { "fr": "maison", "en": "house" }
+        { "fr": "notre", "en": "our (singular)", "uk": "наш (одн.)" },
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "Your (formal) children are happy.",
+      "uk": "Ваші діти задоволені.",
       "fr": "Vos enfants sont contents.",
       "vocab": [
-        { "fr": "vos", "en": "your (formal/plural)" },
-        { "fr": "enfant", "en": "child" }
+        { "fr": "vos", "en": "your (formal/plural)", "uk": "ваші (мн.)" },
+        { "fr": "enfant", "en": "child", "uk": "дитина" }
       ]
     },
     {
       "en": "Their cat is black.",
+      "uk": "Їхній кіт чорний.",
       "fr": "Leur chat est noir.",
       "vocab": [
-        { "fr": "leur", "en": "their" },
-        { "fr": "chat", "en": "cat" }
+        { "fr": "leur", "en": "their", "uk": "їхній" },
+        { "fr": "chat", "en": "cat", "uk": "кіт" }
       ]
     },
     {
       "en": "Her idea is good.",
+      "uk": "Її ідея добра.",
       "fr": "Son idée est bonne.",
       "vocab": [
-        { "fr": "son", "en": "his/her (masc. singular)" },
-        { "fr": "idée", "en": "idea" }
+        { "fr": "son", "en": "his/her (masc. singular)", "uk": "його / її (чол. р., одн.)" },
+        { "fr": "idée", "en": "idea", "uk": "ідея" }
       ]
     },
     {
       "en": "My parents are kind.",
+      "uk": "Мої батьки добрі.",
       "fr": "Mes parents sont gentils.",
       "vocab": [
-        { "fr": "mes", "en": "my (plural)" },
-        { "fr": "parents", "en": "parents" }
+        { "fr": "mes", "en": "my (plural)", "uk": "мої (мн.)" },
+        { "fr": "parents", "en": "parents", "uk": "батьки" }
       ]
     },
     {
       "en": "Our friends (fem.) are nice.",
+      "uk": "Наші подруги милі.",
       "fr": "Nos amies sont gentilles.",
       "vocab": [
-        { "fr": "nos", "en": "our (plural)" },
-        { "fr": "ami", "en": "friend" }
+        { "fr": "nos", "en": "our (plural)", "uk": "наші (мн.)" },
+        { "fr": "ami", "en": "friend", "uk": "друг" }
       ]
     },
     {
       "en": "Their garden is beautiful.",
+      "uk": "Їхній сад гарний.",
       "fr": "Leur jardin est beau.",
       "vocab": [
-        { "fr": "leur", "en": "their" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "leur", "en": "their", "uk": "їхній" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     }
   ]

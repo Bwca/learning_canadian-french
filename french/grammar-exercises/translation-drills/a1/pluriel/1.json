@@ -1,76 +1,89 @@
 {
-  "title": "Pluriel — noun plurals (set 1: regular plurals with -s)",
+  "title": {
+    "en": "Pluriel — noun plurals (set 1: regular plurals with -s)",
+    "uk": "Pluriel — множина іменників (набір 1: звичайна множина на -s)"
+  },
   "exercises": [
     {
       "en": "I have a book.",
+      "uk": "У мене є книжка.",
       "fr": "J'ai un livre.",
       "vocab": [
-        { "fr": "livre", "en": "book" }
+        { "fr": "livre", "en": "book", "uk": "книжка" }
       ]
     },
     {
       "en": "I have two books.",
+      "uk": "У мене дві книжки.",
       "fr": "J'ai deux livres.",
       "vocab": [
-        { "fr": "livre", "en": "book" }
+        { "fr": "livre", "en": "book", "uk": "книжка" }
       ]
     },
     {
       "en": "The table is small.",
+      "uk": "Стіл маленький.",
       "fr": "La table est petite.",
       "vocab": [
-        { "fr": "table", "en": "table" }
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "The tables are small.",
+      "uk": "Столи маленькі.",
       "fr": "Les tables sont petites.",
       "vocab": [
-        { "fr": "table", "en": "table" },
-        { "fr": "petit", "en": "small" }
+        { "fr": "table", "en": "table", "uk": "стіл" },
+        { "fr": "petit", "en": "small", "uk": "маленький" }
       ]
     },
     {
       "en": "She has a flower.",
+      "uk": "У неї є квітка.",
       "fr": "Elle a une fleur.",
       "vocab": [
-        { "fr": "fleur", "en": "flower" }
+        { "fr": "fleur", "en": "flower", "uk": "квітка" }
       ]
     },
     {
       "en": "She has five flowers.",
+      "uk": "У неї п'ять квітів.",
       "fr": "Elle a cinq fleurs.",
       "vocab": [
-        { "fr": "cinq", "en": "five" }
+        { "fr": "cinq", "en": "five", "uk": "п'ять" }
       ]
     },
     {
       "en": "The car is red.",
+      "uk": "Машина червона.",
       "fr": "La voiture est rouge.",
       "vocab": [
-        { "fr": "rouge", "en": "red" }
+        { "fr": "rouge", "en": "red", "uk": "червоний" }
       ]
     },
     {
       "en": "The cars are red.",
+      "uk": "Машини червоні.",
       "fr": "Les voitures sont rouges.",
       "vocab": [
-        { "fr": "voiture", "en": "car" },
-        { "fr": "rouge", "en": "red" }
+        { "fr": "voiture", "en": "car", "uk": "машина" },
+        { "fr": "rouge", "en": "red", "uk": "червоний" }
       ]
     },
     {
       "en": "I have a friend (masc.).",
+      "uk": "У мене є друг.",
       "fr": "J'ai un ami.",
       "vocab": [
-        { "fr": "ami", "en": "friend (masc.)" }
+        { "fr": "ami", "en": "friend (masc.)", "uk": "друг" }
       ]
     },
     {
       "en": "I have two friends (masc.).",
+      "uk": "У мене двоє друзів.",
       "fr": "J'ai deux amis.",
       "vocab": [
-        { "fr": "ami", "en": "friend (masc.)" }
+        { "fr": "ami", "en": "friend (masc.)", "uk": "друг" }
       ]
     }
   ]

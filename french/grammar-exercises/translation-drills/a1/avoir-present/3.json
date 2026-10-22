@@ -1,86 +1,99 @@
 {
-  "title": "Avoir — present tense (set 3: age)",
+  "title": {
+    "en": "Avoir — present tense (set 3: age)",
+    "uk": "Avoir — теперішній час (набір 3: вік)"
+  },
   "exercises": [
     {
       "en": "I am ten years old.",
+      "uk": "Мені десять років.",
       "fr": "J'ai dix ans.",
       "vocab": [
-        { "fr": "dix", "en": "ten" },
-        { "fr": "an", "en": "year" }
+        { "fr": "dix", "en": "ten", "uk": "десять" },
+        { "fr": "an", "en": "year", "uk": "рік" }
       ]
     },
     {
       "en": "You (informal) are twelve years old.",
+      "uk": "Тобі дванадцять років.",
       "fr": "Tu as douze ans.",
       "vocab": [
-        { "fr": "douze", "en": "twelve" },
-        { "fr": "an", "en": "year" }
+        { "fr": "douze", "en": "twelve", "uk": "дванадцять" },
+        { "fr": "an", "en": "year", "uk": "рік" }
       ]
     },
     {
       "en": "He is twenty years old.",
+      "uk": "Йому двадцять років.",
       "fr": "Il a vingt ans.",
       "vocab": [
-        { "fr": "vingt", "en": "twenty" },
-        { "fr": "an", "en": "year" }
+        { "fr": "vingt", "en": "twenty", "uk": "двадцять" },
+        { "fr": "an", "en": "year", "uk": "рік" }
       ]
     },
     {
       "en": "She is eighteen years old.",
+      "uk": "Їй вісімнадцять років.",
       "fr": "Elle a dix-huit ans.",
       "vocab": [
-        { "fr": "dix-huit", "en": "eighteen" },
-        { "fr": "an", "en": "year" }
+        { "fr": "dix-huit", "en": "eighteen", "uk": "вісімнадцять" },
+        { "fr": "an", "en": "year", "uk": "рік" }
       ]
     },
     {
       "en": "The father is fifty years old.",
+      "uk": "Батькові п'ятдесят років.",
       "fr": "Le père a cinquante ans.",
       "vocab": [
-        { "fr": "père", "en": "father" },
-        { "fr": "cinquante", "en": "fifty" },
-        { "fr": "an", "en": "year" }
+        { "fr": "père", "en": "father", "uk": "батько" },
+        { "fr": "cinquante", "en": "fifty", "uk": "п'ятдесят" },
+        { "fr": "an", "en": "year", "uk": "рік" }
       ]
     },
     {
       "en": "The mother is forty-five years old.",
+      "uk": "Матері сорок п'ять років.",
       "fr": "La mère a quarante-cinq ans.",
       "vocab": [
-        { "fr": "mère", "en": "mother" },
-        { "fr": "quarante-cinq", "en": "forty-five" },
-        { "fr": "an", "en": "year" }
+        { "fr": "mère", "en": "mother", "uk": "мати" },
+        { "fr": "quarante-cinq", "en": "forty-five", "uk": "сорок п'ять" },
+        { "fr": "an", "en": "year", "uk": "рік" }
       ]
     },
     {
       "en": "They (masc.) are sixteen years old.",
+      "uk": "Їм (чол.) шістнадцять років.",
       "fr": "Ils ont seize ans.",
       "vocab": [
-        { "fr": "seize", "en": "sixteen" },
-        { "fr": "an", "en": "year" }
+        { "fr": "seize", "en": "sixteen", "uk": "шістнадцять" },
+        { "fr": "an", "en": "year", "uk": "рік" }
       ]
     },
     {
       "en": "How old are you (informal)?",
+      "uk": "Скільки тобі років? (з інверсією)",
       "fr": "Quel âge as-tu?",
       "vocab": [
-        { "fr": "quel âge", "en": "how old" }
+        { "fr": "quel âge", "en": "how old", "uk": "скільки років" }
       ]
     },
     {
       "en": "She is thirty years old.",
+      "uk": "Їй тридцять років.",
       "fr": "Elle a trente ans.",
       "vocab": [
-        { "fr": "trente", "en": "thirty" },
-        { "fr": "an", "en": "year" }
+        { "fr": "trente", "en": "thirty", "uk": "тридцять" },
+        { "fr": "an", "en": "year", "uk": "рік" }
       ]
     },
     {
       "en": "The grandfather is seventy years old.",
+      "uk": "Дідусеві сімдесят років.",
       "fr": "Le grand-père a soixante-dix ans.",
       "vocab": [
-        { "fr": "grand-père", "en": "grandfather" },
-        { "fr": "soixante-dix", "en": "seventy" },
-        { "fr": "an", "en": "year" }
+        { "fr": "grand-père", "en": "grandfather", "uk": "дідусь" },
+        { "fr": "soixante-dix", "en": "seventy", "uk": "сімдесят" },
+        { "fr": "an", "en": "year", "uk": "рік" }
       ]
     }
   ]

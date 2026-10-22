@@ -1,84 +1,97 @@
 {
-  "title": "Questions — est-ce que (set 3: with aimer)",
+  "title": {
+    "en": "Questions — est-ce que (set 3: with aimer)",
+    "uk": "Питання — est-ce que (набір 3: з aimer)"
+  },
   "exercises": [
     {
       "en": "Do you (informal) like coffee?",
+      "uk": "Ти любиш каву?",
       "fr": "Est-ce que tu aimes le café?",
       "vocab": [
-        { "fr": "aimer", "en": "to like" },
-        { "fr": "café", "en": "coffee" }
+        { "fr": "aimer", "en": "to like", "uk": "любити" },
+        { "fr": "café", "en": "coffee", "uk": "кава" }
       ]
     },
     {
       "en": "Does he like chocolate?",
+      "uk": "Він любить шоколад?",
       "fr": "Est-ce qu'il aime le chocolat?",
       "vocab": [
-        { "fr": "aimer", "en": "to like" },
-        { "fr": "chocolat", "en": "chocolate" }
+        { "fr": "aimer", "en": "to like", "uk": "любити" },
+        { "fr": "chocolat", "en": "chocolate", "uk": "шоколад" }
       ]
     },
     {
       "en": "Does she like music?",
+      "uk": "Вона любить музику?",
       "fr": "Est-ce qu'elle aime la musique?",
       "vocab": [
-        { "fr": "aimer", "en": "to like" },
-        { "fr": "musique", "en": "music" }
+        { "fr": "aimer", "en": "to like", "uk": "любити" },
+        { "fr": "musique", "en": "music", "uk": "музика" }
       ]
     },
     {
       "en": "Do we like the snow?",
+      "uk": "Ми любимо сніг?",
       "fr": "Est-ce que nous aimons la neige?",
       "vocab": [
-        { "fr": "aimer", "en": "to like" },
-        { "fr": "neige", "en": "snow" }
+        { "fr": "aimer", "en": "to like", "uk": "любити" },
+        { "fr": "neige", "en": "snow", "uk": "сніг" }
       ]
     },
     {
       "en": "Do you (formal) like tea?",
+      "uk": "Ви любите чай?",
       "fr": "Est-ce que vous aimez le thé?",
       "vocab": [
-        { "fr": "aimer", "en": "to like" },
-        { "fr": "thé", "en": "tea" }
+        { "fr": "aimer", "en": "to like", "uk": "любити" },
+        { "fr": "thé", "en": "tea", "uk": "чай" }
       ]
     },
     {
       "en": "Do they (masc.) like animals?",
+      "uk": "Вони (чол.) люблять тварин?",
       "fr": "Est-ce qu'ils aiment les animaux?",
       "vocab": [
-        { "fr": "aimer", "en": "to like" },
-        { "fr": "animal", "en": "animal" }
+        { "fr": "aimer", "en": "to like", "uk": "любити" },
+        { "fr": "animal", "en": "animal", "uk": "тварина" }
       ]
     },
     {
       "en": "Do they (fem.) like the rain?",
+      "uk": "Вони (жін.) люблять дощ?",
       "fr": "Est-ce qu'elles aiment la pluie?",
       "vocab": [
-        { "fr": "aimer", "en": "to like" },
-        { "fr": "pluie", "en": "rain" }
+        { "fr": "aimer", "en": "to like", "uk": "любити" },
+        { "fr": "pluie", "en": "rain", "uk": "дощ" }
       ]
     },
     {
       "en": "Does he like the city?",
+      "uk": "Він любить місто?",
       "fr": "Est-ce qu'il aime la ville?",
       "vocab": [
-        { "fr": "aimer", "en": "to like" },
-        { "fr": "ville", "en": "city" }
+        { "fr": "aimer", "en": "to like", "uk": "любити" },
+        { "fr": "ville", "en": "city", "uk": "місто" }
       ]
     },
     {
       "en": "Do you (informal) like winter?",
+      "uk": "Ти любиш зиму?",
       "fr": "Est-ce que tu aimes l'hiver?",
       "vocab": [
-        { "fr": "aimer", "en": "to like" },
-        { "fr": "hiver", "en": "winter" }
+        { "fr": "aimer", "en": "to like", "uk": "любити" },
+        { "fr": "hiver", "en": "winter", "uk": "зима" }
       ]
     },
     {
       "en": "Does she like vegetables?",
+      "uk": "Вона любить овочі?",
       "fr": "Est-ce qu'elle aime les légumes?",
       "vocab": [
-        { "fr": "aimer", "en": "to like" },
-        { "fr": "légume", "en": "vegetable" }
+        { "fr": "aimer", "en": "to like", "uk": "любити" },
+        { "fr": "légume", "en": "vegetable", "uk": "овоч" }
       ]
     }
   ]

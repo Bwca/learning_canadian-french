@@ -1,74 +1,87 @@
 {
-  "title": "Être — present tense (set 1: basic identity & professions)",
+  "title": {
+    "en": "Être — present tense (set 1: basic identity & professions)",
+    "uk": "Être — теперішній час (набір 1: хто я, професії)"
+  },
   "exercises": [
     {
       "en": "I am a student.",
+      "uk": "Я студент.",
       "fr": "Je suis étudiant.",
       "vocab": [
-        { "fr": "étudiant", "en": "student" }
+        { "fr": "étudiant", "en": "student", "uk": "студент" }
       ]
     },
     {
       "en": "You (informal) are a teacher.",
+      "uk": "Ти вчитель.",
       "fr": "Tu es professeur.",
       "vocab": [
-        { "fr": "professeur", "en": "teacher" }
+        { "fr": "professeur", "en": "teacher", "uk": "вчитель" }
       ]
     },
     {
       "en": "He is a doctor.",
+      "uk": "Він лікар.",
       "fr": "Il est médecin.",
       "vocab": [
-        { "fr": "médecin", "en": "doctor" }
+        { "fr": "médecin", "en": "doctor", "uk": "лікар" }
       ]
     },
     {
       "en": "She is a nurse.",
+      "uk": "Вона медсестра.",
       "fr": "Elle est infirmière.",
       "vocab": [
-        { "fr": "infirmière", "en": "nurse" }
+        { "fr": "infirmière", "en": "nurse", "uk": "медсестра" }
       ]
     },
     {
       "en": "We are friends.",
+      "uk": "Ми друзі.",
       "fr": "Nous sommes amis.",
       "vocab": [
-        { "fr": "ami", "en": "friend" }
+        { "fr": "ami", "en": "friend", "uk": "друг" }
       ]
     },
     {
       "en": "You (formal/plural) are neighbours.",
+      "uk": "Ви сусіди.",
       "fr": "Vous êtes voisins.",
       "vocab": [
-        { "fr": "voisin", "en": "neighbour" }
+        { "fr": "voisin", "en": "neighbour", "uk": "сусід" }
       ]
     },
     {
       "en": "They (masc.) are cooks.",
+      "uk": "Вони (чол.) кухарі.",
       "fr": "Ils sont cuisiniers.",
       "vocab": [
-        { "fr": "cuisinier", "en": "cook" }
+        { "fr": "cuisinier", "en": "cook", "uk": "кухар" }
       ]
     },
     {
       "en": "They (fem.) are artists.",
+      "uk": "Вони (жін.) художниці.",
       "fr": "Elles sont artistes.",
       "vocab": [
-        { "fr": "artiste", "en": "artist" }
+        { "fr": "artiste", "en": "artist", "uk": "митець, художник" }
       ]
     },
     {
       "en": "I am happy.",
+      "uk": "Я задоволений.",
       "fr": "Je suis content.",
       "vocab": [
-        { "fr": "content", "en": "happy" }
+        { "fr": "content", "en": "happy", "uk": "задоволений, радий" }
       ]
     },
     {
       "en": "You (formal/plural) are engineers.",
+      "uk": "Ви інженери.",
       "fr": "Vous êtes ingénieurs.",
       "vocab": [
-        { "fr": "ingénieur", "en": "engineer" }
+        { "fr": "ingénieur", "en": "engineer", "uk": "інженер" }
       ]
     }
   ]

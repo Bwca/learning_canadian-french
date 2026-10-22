@@ -1,73 +1,86 @@
 {
-  "title": "Salutations — greetings & politeness (set 1: hello & introductions)",
+  "title": {
+    "en": "Salutations — greetings & politeness (set 1: hello & introductions)",
+    "uk": "Salutations — привітання та ввічливість (набір 1: вітаємося й знайомимося)"
+  },
   "exercises": [
     {
       "en": "Hello, my name is Julie.",
+      "uk": "Добрий день, мене звати Жулі.",
       "fr": "Bonjour, je m'appelle Julie.",
       "vocab": [
-        { "fr": "s'appeler", "en": "to be called (je m'appelle = my name is)" }
+        { "fr": "s'appeler", "en": "to be called (je m'appelle = my name is)", "uk": "називатися (je m'appelle = мене звати)" }
       ]
     },
     {
       "en": "Hi, my name is Marc.",
+      "uk": "Привіт, мене звати Марк.",
       "fr": "Salut, je m'appelle Marc.",
       "vocab": [
-        { "fr": "salut", "en": "hi (informal)" }
+        { "fr": "salut", "en": "hi (informal)", "uk": "привіт (неформально)" }
       ]
     },
     {
       "en": "Good evening, ma'am.",
+      "uk": "Добрий вечір, пані.",
       "fr": "Bonsoir, madame.",
       "vocab": [
-        { "fr": "bonsoir", "en": "good evening" }
+        { "fr": "bonsoir", "en": "good evening", "uk": "добрий вечір" }
       ]
     },
     {
       "en": "Hello everyone!",
+      "uk": "Добрий день усім!",
       "fr": "Bonjour à tous!",
       "vocab": [
-        { "fr": "à tous", "en": "everyone (to all)" }
+        { "fr": "à tous", "en": "everyone (to all)", "uk": "усім" }
       ]
     },
     {
       "en": "My name is Sophie Tremblay. (with nom)",
+      "uk": "Моє ім'я — Софі Трамбле. (з nom)",
       "fr": "Mon nom est Sophie Tremblay.",
       "vocab": [
-        { "fr": "nom", "en": "name" }
+        { "fr": "nom", "en": "name", "uk": "ім'я" }
       ]
     },
     {
       "en": "I am Canadian. (masc.)",
+      "uk": "Я канадієць.",
       "fr": "Je suis canadien.",
       "vocab": [
-        { "fr": "canadien / canadienne", "en": "Canadian" }
+        { "fr": "canadien / canadienne", "en": "Canadian", "uk": "канадієць / канадійка" }
       ]
     },
     {
       "en": "I speak French and English.",
+      "uk": "Я розмовляю французькою та англійською.",
       "fr": "Je parle français et anglais.",
       "vocab": []
     },
     {
       "en": "Nice to meet you. (said by a woman)",
+      "uk": "Дуже приємно. (каже жінка)",
       "fr": "Enchantée.",
       "vocab": [
-        { "fr": "enchanté / enchantée", "en": "nice to meet you" }
+        { "fr": "enchanté / enchantée", "en": "nice to meet you", "uk": "дуже приємно (чол. / жін.)" }
       ]
     },
     {
       "en": "Nice to meet you, sir. (formal, said by a man)",
+      "uk": "Радий з вами познайомитися, пане.",
       "fr": "Ravi de vous rencontrer, monsieur.",
       "vocab": [
-        { "fr": "ravi de", "en": "delighted to" },
-        { "fr": "rencontrer", "en": "to meet" }
+        { "fr": "ravi de", "en": "delighted to", "uk": "радий (+ інфінітив)" },
+        { "fr": "rencontrer", "en": "to meet", "uk": "знайомитися, зустрічати" }
       ]
     },
     {
       "en": "Welcome to Montréal!",
+      "uk": "Ласкаво просимо до Монреаля!",
       "fr": "Bienvenue à Montréal!",
       "vocab": [
-        { "fr": "bienvenue", "en": "welcome" }
+        { "fr": "bienvenue", "en": "welcome", "uk": "ласкаво просимо" }
       ]
     }
   ]

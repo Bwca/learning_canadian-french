@@ -1,78 +1,91 @@
 {
-  "title": "Avoir — present tense (set 7: idiomatic expressions with avoir, continued)",
+  "title": {
+    "en": "Avoir — present tense (set 7: idiomatic expressions with avoir, continued)",
+    "uk": "Avoir — теперішній час (набір 7: сталі вирази з avoir, продовження)"
+  },
   "exercises": [
     {
       "en": "I need a coffee.",
+      "uk": "Мені потрібна кава.",
       "fr": "J'ai besoin d'un café.",
       "vocab": [
-        { "fr": "avoir besoin de", "en": "to need" },
-        { "fr": "café", "en": "coffee" }
+        { "fr": "avoir besoin de", "en": "to need", "uk": "потребувати" },
+        { "fr": "café", "en": "coffee", "uk": "кава" }
       ]
     },
     {
       "en": "He looks tired.",
+      "uk": "Він має втомлений вигляд.",
       "fr": "Il a l'air fatigué.",
       "vocab": [
-        { "fr": "avoir l'air", "en": "to look/seem" }
+        { "fr": "avoir l'air", "en": "to look/seem", "uk": "мати вигляд, здаватися" }
       ]
     },
     {
       "en": "We are lucky.",
+      "uk": "Нам щастить.",
       "fr": "Nous avons de la chance.",
       "vocab": [
-        { "fr": "avoir de la chance", "en": "to be lucky" }
+        { "fr": "avoir de la chance", "en": "to be lucky", "uk": "мати везіння, щастити" }
       ]
     },
     {
       "en": "You (informal) have time.",
+      "uk": "У тебе є час.",
       "fr": "Tu as le temps.",
       "vocab": [
-        { "fr": "temps", "en": "time" }
+        { "fr": "temps", "en": "time", "uk": "час" }
       ]
     },
     {
       "en": "She has a headache.",
+      "uk": "У неї болить голова.",
       "fr": "Elle a mal à la tête.",
       "vocab": [
-        { "fr": "avoir mal à", "en": "to have pain in" },
-        { "fr": "tête", "en": "head" }
+        { "fr": "avoir mal à", "en": "to have pain in", "uk": "боліти (щось у когось)" },
+        { "fr": "tête", "en": "head", "uk": "голова" }
       ]
     },
     {
       "en": "They (masc.) are ashamed.",
+      "uk": "Їм (чол.) соромно.",
       "fr": "Ils ont honte.",
       "vocab": [
-        { "fr": "avoir honte", "en": "to be ashamed" }
+        { "fr": "avoir honte", "en": "to be ashamed", "uk": "соромитися" }
       ]
     },
     {
       "en": "I can't wait.",
+      "uk": "Не можу дочекатися.",
       "fr": "J'ai hâte.",
       "vocab": [
-        { "fr": "avoir hâte", "en": "to look forward to / can't wait" }
+        { "fr": "avoir hâte", "en": "to look forward to / can't wait", "uk": "з нетерпінням чекати" }
       ]
     },
     {
       "en": "He needs a book.",
+      "uk": "Йому потрібна книжка.",
       "fr": "Il a besoin d'un livre.",
       "vocab": [
-        { "fr": "avoir besoin de", "en": "to need" },
-        { "fr": "livre", "en": "book" }
+        { "fr": "avoir besoin de", "en": "to need", "uk": "потребувати" },
+        { "fr": "livre", "en": "book", "uk": "книжка" }
       ]
     },
     {
       "en": "You (formal) look happy.",
+      "uk": "Ви маєте задоволений вигляд.",
       "fr": "Vous avez l'air content.",
       "vocab": [
-        { "fr": "avoir l'air", "en": "to look/seem" },
-        { "fr": "content", "en": "happy" }
+        { "fr": "avoir l'air", "en": "to look/seem", "uk": "мати вигляд, здаватися" },
+        { "fr": "content", "en": "happy", "uk": "задоволений" }
       ]
     },
     {
       "en": "She has a stomach ache.",
+      "uk": "У неї болить живіт.",
       "fr": "Elle a mal au ventre.",
       "vocab": [
-        { "fr": "ventre", "en": "stomach" }
+        { "fr": "ventre", "en": "stomach", "uk": "живіт" }
       ]
     }
   ]

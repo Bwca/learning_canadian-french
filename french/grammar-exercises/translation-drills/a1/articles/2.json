@@ -1,84 +1,97 @@
 {
-  "title": "Articles — definite & indefinite (set 2: definite articles for specific & general things)",
+  "title": {
+    "en": "Articles — definite & indefinite (set 2: definite articles for specific & general things)",
+    "uk": "Articles — означені й неозначені (набір 2: означені артиклі для конкретного й загального)"
+  },
   "exercises": [
     {
       "en": "The sun is yellow.",
+      "uk": "Сонце жовте.",
       "fr": "Le soleil est jaune.",
       "vocab": [
-        { "fr": "soleil", "en": "sun" },
-        { "fr": "jaune", "en": "yellow" }
+        { "fr": "soleil", "en": "sun", "uk": "сонце" },
+        { "fr": "jaune", "en": "yellow", "uk": "жовтий" }
       ]
     },
     {
       "en": "The moon is beautiful tonight.",
+      "uk": "Місяць сьогодні ввечері гарний.",
       "fr": "La lune est belle ce soir.",
       "vocab": [
-        { "fr": "lune", "en": "moon" },
-        { "fr": "ce soir", "en": "tonight" }
+        { "fr": "lune", "en": "moon", "uk": "місяць (на небі)" },
+        { "fr": "ce soir", "en": "tonight", "uk": "сьогодні ввечері" }
       ]
     },
     {
       "en": "The children are at school.",
+      "uk": "Діти в школі.",
       "fr": "Les enfants sont à l'école.",
       "vocab": [
-        { "fr": "enfant", "en": "child" },
-        { "fr": "école", "en": "school" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "école", "en": "school", "uk": "школа" }
       ]
     },
     {
       "en": "The water is cold.",
+      "uk": "Вода холодна.",
       "fr": "L'eau est froide.",
       "vocab": [
-        { "fr": "eau", "en": "water" },
-        { "fr": "froide", "en": "cold (fem.)" }
+        { "fr": "eau", "en": "water", "uk": "вода" },
+        { "fr": "froide", "en": "cold (fem.)", "uk": "холодна (жін. р.)" }
       ]
     },
     {
       "en": "I like chocolate.",
+      "uk": "Я люблю шоколад.",
       "fr": "J'aime le chocolat.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "chocolat", "en": "chocolate" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "chocolat", "en": "chocolate", "uk": "шоколад" }
       ]
     },
     {
       "en": "He likes coffee.",
+      "uk": "Він любить каву.",
       "fr": "Il aime le café.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "café", "en": "coffee" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "café", "en": "coffee", "uk": "кава" }
       ]
     },
     {
       "en": "We like animals.",
+      "uk": "Ми любимо тварин.",
       "fr": "Nous aimons les animaux.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "animal", "en": "animal" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "animal", "en": "animal", "uk": "тварина" }
       ]
     },
     {
       "en": "She likes music.",
+      "uk": "Вона любить музику.",
       "fr": "Elle aime la musique.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "musique", "en": "music" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "musique", "en": "music", "uk": "музика" }
       ]
     },
     {
       "en": "They (masc.) like tea.",
+      "uk": "Вони (чол.) люблять чай.",
       "fr": "Ils aiment le thé.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "thé", "en": "tea" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "thé", "en": "tea", "uk": "чай" }
       ]
     },
     {
       "en": "The flowers are beautiful.",
+      "uk": "Квіти гарні.",
       "fr": "Les fleurs sont belles.",
       "vocab": [
-        { "fr": "fleur", "en": "flower" },
-        { "fr": "belle", "en": "beautiful (fem.)" }
+        { "fr": "fleur", "en": "flower", "uk": "квітка" },
+        { "fr": "belle", "en": "beautiful (fem.)", "uk": "гарна (жін. р.)" }
       ]
     }
   ]

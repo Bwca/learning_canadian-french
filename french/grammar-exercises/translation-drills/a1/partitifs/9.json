@@ -1,85 +1,98 @@
 {
-  "title": "Partitifs — du/de la/de l' (set 9: expanded food & drink vocabulary)",
+  "title": {
+    "en": "Partitifs — du/de la/de l' (set 9: expanded food & drink vocabulary)",
+    "uk": "Партитиви — du/de la/de l' (набір 9: більше слів про їжу й напої)"
+  },
   "exercises": [
     {
       "en": "I have some ham.",
+      "uk": "У мене є шинка.",
       "fr": "J'ai du jambon.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "jambon", "en": "ham" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "jambon", "en": "ham", "uk": "шинка" }
       ]
     },
     {
       "en": "You (informal) have some salad.",
+      "uk": "У тебе є салат.",
       "fr": "Tu as de la salade.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "salade", "en": "salad" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "salade", "en": "salad", "uk": "салат" }
       ]
     },
     {
       "en": "He has some fish.",
+      "uk": "У нього є риба.",
       "fr": "Il a du poisson.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "poisson", "en": "fish" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "poisson", "en": "fish", "uk": "риба" }
       ]
     },
     {
       "en": "She has some rice.",
+      "uk": "У неї є рис.",
       "fr": "Elle a du riz.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "riz", "en": "rice" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "riz", "en": "rice", "uk": "рис" }
       ]
     },
     {
       "en": "We have some jam.",
+      "uk": "У нас є варення.",
       "fr": "Nous avons de la confiture.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "confiture", "en": "jam" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "confiture", "en": "jam", "uk": "варення, джем" }
       ]
     },
     {
       "en": "You (formal/plural) have some butter.",
+      "uk": "У вас є масло.",
       "fr": "Vous avez du beurre.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "beurre", "en": "butter" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "beurre", "en": "butter", "uk": "масло (вершкове)" }
       ]
     },
     {
       "en": "They (masc.) have some mustard.",
+      "uk": "У них (чол.) є гірчиця.",
       "fr": "Ils ont de la moutarde.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "moutarde", "en": "mustard" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "moutarde", "en": "mustard", "uk": "гірчиця" }
       ]
     },
     {
       "en": "They (fem.) have some ketchup.",
+      "uk": "У них (жін.) є кетчуп.",
       "fr": "Elles ont du ketchup.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "ketchup", "en": "ketchup" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "ketchup", "en": "ketchup", "uk": "кетчуп" }
       ]
     },
     {
       "en": "I have some coffee and some tea.",
+      "uk": "У мене є кава і чай.",
       "fr": "J'ai du café et du thé.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "café", "en": "coffee" },
-        { "fr": "thé", "en": "tea" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "café", "en": "coffee", "uk": "кава" },
+        { "fr": "thé", "en": "tea", "uk": "чай" }
       ]
     },
     {
       "en": "You (informal) have some chocolate.",
+      "uk": "У тебе є шоколад.",
       "fr": "Tu as du chocolat.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "chocolat", "en": "chocolate" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "chocolat", "en": "chocolate", "uk": "шоколад" }
       ]
     }
   ]

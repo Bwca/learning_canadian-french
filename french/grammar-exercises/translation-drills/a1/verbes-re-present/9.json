@@ -1,82 +1,95 @@
 {
-  "title": "Verbes en -re — present tense (set 9: questions with est-ce que and où est-ce que)",
+  "title": {
+    "en": "Verbes en -re — present tense (set 9: questions with est-ce que and où est-ce que)",
+    "uk": "Дієслова на -re — теперішній час (набір 9: питання з est-ce que і où est-ce que)"
+  },
   "exercises": [
     {
       "en": "Where do you (informal) wait?",
+      "uk": "Де ти чекаєш?",
       "fr": "Où est-ce que tu attends?",
       "vocab": [
-        { "fr": "attendre", "en": "to wait (for)" }
+        { "fr": "attendre", "en": "to wait (for)", "uk": "чекати" }
       ]
     },
     {
       "en": "Do you (formal/plural) hear the music?",
+      "uk": "Ви чуєте музику? (з est-ce que)",
       "fr": "Est-ce que vous entendez la musique?",
       "vocab": [
-        { "fr": "entendre", "en": "to hear" }
+        { "fr": "entendre", "en": "to hear", "uk": "чути" }
       ]
     },
     {
       "en": "Where do they (masc.) sell maple syrup?",
+      "uk": "Де вони (чол.) продають кленовий сироп?",
       "fr": "Où est-ce qu'ils vendent du sirop d'érable?",
       "vocab": [
-        { "fr": "vendre", "en": "to sell" },
-        { "fr": "sirop d'érable", "en": "maple syrup" }
+        { "fr": "vendre", "en": "to sell", "uk": "продавати" },
+        { "fr": "sirop d'érable", "en": "maple syrup", "uk": "кленовий сироп" }
       ]
     },
     {
       "en": "Does she answer the letters?",
+      "uk": "Вона відповідає на листи? (з est-ce que)",
       "fr": "Est-ce qu'elle répond aux lettres?",
       "vocab": [
-        { "fr": "répondre à", "en": "to answer" },
-        { "fr": "lettre", "en": "letter" }
+        { "fr": "répondre à", "en": "to answer", "uk": "відповідати (на щось)" },
+        { "fr": "lettre", "en": "letter", "uk": "лист" }
       ]
     },
     {
       "en": "Where do we get off?",
+      "uk": "Де ми виходимо?",
       "fr": "Où est-ce que nous descendons?",
       "vocab": [
-        { "fr": "descendre", "en": "to get off" }
+        { "fr": "descendre", "en": "to get off", "uk": "виходити (з транспорту)" }
       ]
     },
     {
       "en": "Do I give back the keys?",
+      "uk": "Мені повернути ключі? (з est-ce que)",
       "fr": "Est-ce que je rends les clés?",
       "vocab": [
-        { "fr": "rendre", "en": "to give back" },
-        { "fr": "clé", "en": "key" }
+        { "fr": "rendre", "en": "to give back", "uk": "повертати, віддавати" },
+        { "fr": "clé", "en": "key", "uk": "ключ" }
       ]
     },
     {
       "en": "Does the team lose often?",
+      "uk": "Команда часто програє? (з est-ce que)",
       "fr": "Est-ce que l'équipe perd souvent?",
       "vocab": [
-        { "fr": "perdre", "en": "to lose" },
-        { "fr": "équipe", "en": "team" },
-        { "fr": "souvent", "en": "often" }
+        { "fr": "perdre", "en": "to lose", "uk": "губити, втрачати, програвати" },
+        { "fr": "équipe", "en": "team", "uk": "команда" },
+        { "fr": "souvent", "en": "often", "uk": "часто" }
       ]
     },
     {
       "en": "Where do you (informal) hang the laundry?",
+      "uk": "Де ти розвішуєш білизну?",
       "fr": "Où est-ce que tu étends le linge?",
       "vocab": [
-        { "fr": "étendre", "en": "to hang (laundry) / to spread" },
-        { "fr": "linge", "en": "laundry" }
+        { "fr": "étendre", "en": "to hang (laundry) / to spread", "uk": "розвішувати (білизну) / розстилати" },
+        { "fr": "linge", "en": "laundry", "uk": "білизна" }
       ]
     },
     {
       "en": "Do they (fem.) visit the neighbours?",
+      "uk": "Вони (жін.) відвідують сусідів? (з est-ce que)",
       "fr": "Est-ce qu'elles rendent visite aux voisins?",
       "vocab": [
-        { "fr": "rendre visite à", "en": "to visit (a person)" },
-        { "fr": "voisin", "en": "neighbour" }
+        { "fr": "rendre visite à", "en": "to visit (a person)", "uk": "відвідувати (когось)" },
+        { "fr": "voisin", "en": "neighbour", "uk": "сусід" }
       ]
     },
     {
       "en": "Does it depend on the price?",
+      "uk": "Це залежить від ціни? (з est-ce que)",
       "fr": "Est-ce que ça dépend du prix?",
       "vocab": [
-        { "fr": "dépendre de", "en": "to depend on" },
-        { "fr": "prix", "en": "price" }
+        { "fr": "dépendre de", "en": "to depend on", "uk": "залежати від" },
+        { "fr": "prix", "en": "price", "uk": "ціна" }
       ]
     }
   ]

@@ -1,75 +1,88 @@
 {
-  "title": "Accord des adjectifs — adjective placement before the noun (set 7: feminine singular)",
+  "title": {
+    "en": "Accord des adjectifs — adjective placement before the noun (set 7: feminine singular)",
+    "uk": "Accord des adjectifs — прикметник перед іменником (набір 7: жіночий рід однини)"
+  },
   "exercises": [
     {
       "en": "I have a big house.",
+      "uk": "У мене великий будинок.",
       "fr": "J'ai une grande maison.",
       "vocab": [
-        { "fr": "grande", "en": "big / tall (fem.)" }
+        { "fr": "grande", "en": "big / tall (fem.)", "uk": "велика / висока (жін. р.)" }
       ]
     },
     {
       "en": "I have a good idea.",
+      "uk": "У мене гарна ідея.",
       "fr": "J'ai une bonne idée.",
       "vocab": [
-        { "fr": "bonne", "en": "good (fem.)" },
-        { "fr": "idée", "en": "idea" }
+        { "fr": "bonne", "en": "good (fem.)", "uk": "добра, хороша (жін. р.)" },
+        { "fr": "idée", "en": "idea", "uk": "ідея" }
       ]
     },
     {
       "en": "She has a beautiful flower.",
+      "uk": "У неї гарна квітка.",
       "fr": "Elle a une belle fleur.",
       "vocab": [
-        { "fr": "belle", "en": "beautiful (fem.)" }
+        { "fr": "belle", "en": "beautiful (fem.)", "uk": "гарна (жін. р.)" }
       ]
     },
     {
       "en": "I have an old house.",
+      "uk": "У мене старий будинок.",
       "fr": "J'ai une vieille maison.",
       "vocab": [
-        { "fr": "vieille", "en": "old (fem.)" }
+        { "fr": "vieille", "en": "old (fem.)", "uk": "стара (жін. р.)" }
       ]
     },
     {
       "en": "We have a new car.",
+      "uk": "У нас нова машина.",
       "fr": "Nous avons une nouvelle voiture.",
       "vocab": [
-        { "fr": "nouvelle", "en": "new (fem.)" }
+        { "fr": "nouvelle", "en": "new (fem.)", "uk": "нова (жін. р.)" }
       ]
     },
     {
       "en": "You (informal) have a young sister.",
+      "uk": "У тебе молодша сестра.",
       "fr": "Tu as une jeune sœur.",
       "vocab": [
-        { "fr": "jeune", "en": "young" }
+        { "fr": "jeune", "en": "young", "uk": "молодий, молода" }
       ]
     },
     {
       "en": "She has a bad idea.",
+      "uk": "У неї погана ідея.",
       "fr": "Elle a une mauvaise idée.",
       "vocab": [
-        { "fr": "mauvaise", "en": "bad (fem.)" }
+        { "fr": "mauvaise", "en": "bad (fem.)", "uk": "погана (жін. р.)" }
       ]
     },
     {
       "en": "I have a small table.",
+      "uk": "У мене маленький стіл.",
       "fr": "J'ai une petite table.",
       "vocab": [
-        { "fr": "petite", "en": "small (fem.)" }
+        { "fr": "petite", "en": "small (fem.)", "uk": "маленька (жін. р.)" }
       ]
     },
     {
       "en": "We have a heavy car.",
+      "uk": "У нас важка машина.",
       "fr": "Nous avons une grosse voiture.",
       "vocab": [
-        { "fr": "grosse", "en": "fat / big (fem.)" }
+        { "fr": "grosse", "en": "fat / big (fem.)", "uk": "товста / велика (жін. р.)" }
       ]
     },
     {
       "en": "They (fem.) have a pretty flower.",
+      "uk": "У них (жін.) гарна квітка.",
       "fr": "Elles ont une jolie fleur.",
       "vocab": [
-        { "fr": "jolie", "en": "pretty (fem.)" }
+        { "fr": "jolie", "en": "pretty (fem.)", "uk": "гарна (жін. р.)" }
       ]
     }
   ]

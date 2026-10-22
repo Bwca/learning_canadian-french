@@ -1,84 +1,97 @@
 {
-  "title": "Questions — est-ce que (set 8: où est-ce que, with everyday verbs)",
+  "title": {
+    "en": "Questions — est-ce que (set 8: où est-ce que, with everyday verbs)",
+    "uk": "Питання — est-ce que (набір 8: où est-ce que з повсякденними дієсловами)"
+  },
   "exercises": [
     {
       "en": "Where do you (informal) live?",
+      "uk": "Де ти живеш?",
       "fr": "Où est-ce que tu habites?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "Where does he live?",
+      "uk": "Де він живе?",
       "fr": "Où est-ce qu'il habite?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "Where does she work?",
+      "uk": "Де вона працює?",
       "fr": "Où est-ce qu'elle travaille?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "travailler", "en": "to work" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "travailler", "en": "to work", "uk": "працювати" }
       ]
     },
     {
       "en": "Where do we eat?",
+      "uk": "Де ми їмо?",
       "fr": "Où est-ce que nous mangeons?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "manger", "en": "to eat" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "manger", "en": "to eat", "uk": "їсти" }
       ]
     },
     {
       "en": "Where do you (formal) live?",
+      "uk": "Де ви живете?",
       "fr": "Où est-ce que vous habitez?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "Where do they (masc.) live?",
+      "uk": "Де вони (чол.) живуть?",
       "fr": "Où est-ce qu'ils habitent?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "Where does he work?",
+      "uk": "Де він працює?",
       "fr": "Où est-ce qu'il travaille?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "travailler", "en": "to work" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "travailler", "en": "to work", "uk": "працювати" }
       ]
     },
     {
       "en": "Where do you (informal) eat?",
+      "uk": "Де ти їси?",
       "fr": "Où est-ce que tu manges?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "manger", "en": "to eat" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "manger", "en": "to eat", "uk": "їсти" }
       ]
     },
     {
       "en": "Where does she live?",
+      "uk": "Де вона живе?",
       "fr": "Où est-ce qu'elle habite?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "Where do they (fem.) work?",
+      "uk": "Де вони (жін.) працюють?",
       "fr": "Où est-ce qu'elles travaillent?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "travailler", "en": "to work" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "travailler", "en": "to work", "uk": "працювати" }
       ]
     }
   ]

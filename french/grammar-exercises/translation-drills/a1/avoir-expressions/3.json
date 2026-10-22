@@ -1,76 +1,89 @@
 {
-  "title": "Avoir — expressions with avoir (set 3: needing, wanting & looking forward)",
+  "title": {
+    "en": "Avoir — expressions with avoir (set 3: needing, wanting & looking forward)",
+    "uk": "Avoir — вирази з avoir (набір 3: потреби, бажання, нетерпіння)"
+  },
   "exercises": [
     {
       "en": "I need help.",
+      "uk": "Мені потрібна допомога.",
       "fr": "J'ai besoin d'aide.",
       "vocab": [
-        { "fr": "avoir besoin de", "en": "to need" },
-        { "fr": "aide", "en": "help" }
+        { "fr": "avoir besoin de", "en": "to need", "uk": "потребувати" },
+        { "fr": "aide", "en": "help", "uk": "допомога" }
       ]
     },
     {
       "en": "We need a car.",
+      "uk": "Нам потрібна машина.",
       "fr": "Nous avons besoin d'une voiture.",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина, автомобіль" }
       ]
     },
     {
       "en": "I feel like eating an ice cream.",
+      "uk": "Мені хочеться морозива.",
       "fr": "J'ai envie de manger une crème glacée.",
       "vocab": [
-        { "fr": "avoir envie de", "en": "to feel like" },
-        { "fr": "crème glacée", "en": "ice cream (France: glace)" }
+        { "fr": "avoir envie de", "en": "to feel like", "uk": "хотіти, мати бажання" },
+        { "fr": "crème glacée", "en": "ice cream (France: glace)", "uk": "морозиво (у Франції: glace)" }
       ]
     },
     {
       "en": "She feels like dancing.",
+      "uk": "Їй хочеться потанцювати.",
       "fr": "Elle a envie de danser.",
       "vocab": [
-        { "fr": "danser", "en": "to dance" }
+        { "fr": "danser", "en": "to dance", "uk": "танцювати" }
       ]
     },
     {
       "en": "I can't wait!",
+      "uk": "Не можу дочекатися!",
       "fr": "J'ai hâte!",
       "vocab": [
-        { "fr": "avoir hâte", "en": "can't wait / to look forward" }
+        { "fr": "avoir hâte", "en": "can't wait / to look forward", "uk": "з нетерпінням чекати" }
       ]
     },
     {
       "en": "We can't wait to see you. (informal)",
+      "uk": "Ми не можемо дочекатися, коли тебе побачимо.",
       "fr": "Nous avons hâte de te voir.",
       "vocab": [
-        { "fr": "voir", "en": "to see" }
+        { "fr": "voir", "en": "to see", "uk": "бачити" }
       ]
     },
     {
       "en": "Do you feel like going to the movies? (informal, Québec, with goût)",
+      "uk": "Тобі хочеться піти в кіно? (у Квебеку, з goût)",
       "fr": "Est-ce que tu as le goût d'aller au cinéma?",
       "vocab": [
-        { "fr": "avoir le goût de", "en": "to feel like (Québec)" },
-        { "fr": "cinéma", "en": "movies" }
+        { "fr": "avoir le goût de", "en": "to feel like (Québec)", "uk": "хотіти (у Квебеку)" },
+        { "fr": "cinéma", "en": "movies", "uk": "кіно" }
       ]
     },
     {
       "en": "He needs to sleep.",
+      "uk": "Йому треба поспати.",
       "fr": "Il a besoin de dormir.",
       "vocab": [
-        { "fr": "dormir", "en": "to sleep" }
+        { "fr": "dormir", "en": "to sleep", "uk": "спати" }
       ]
     },
     {
       "en": "I don't feel like working today.",
+      "uk": "Мені не хочеться сьогодні працювати.",
       "fr": "Je n'ai pas envie de travailler aujourd'hui.",
       "vocab": []
     },
     {
       "en": "The children can't wait to play outside.",
+      "uk": "Діти не можуть дочекатися, коли підуть гратися надвір.",
       "fr": "Les enfants ont hâte de jouer dehors.",
       "vocab": [
-        { "fr": "jouer", "en": "to play" },
-        { "fr": "dehors", "en": "outside" }
+        { "fr": "jouer", "en": "to play", "uk": "гратися" },
+        { "fr": "dehors", "en": "outside", "uk": "надворі, надвір" }
       ]
     }
   ]

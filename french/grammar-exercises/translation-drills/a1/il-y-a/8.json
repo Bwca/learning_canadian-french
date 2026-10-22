@@ -1,82 +1,95 @@
 {
-  "title": "Il y a — there is/there are (set 8: outdoors and nature)",
+  "title": {
+    "en": "Il y a — there is/there are (set 8: outdoors and nature)",
+    "uk": "Il y a — є (набір 8: природа)"
+  },
   "exercises": [
     {
       "en": "There is a tree in the garden.",
+      "uk": "У саду є дерево.",
       "fr": "Il y a un arbre dans le jardin.",
       "vocab": [
-        { "fr": "arbre", "en": "tree" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "arbre", "en": "tree", "uk": "дерево" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "There are flowers in the park.",
+      "uk": "У парку є квіти.",
       "fr": "Il y a des fleurs dans le parc.",
       "vocab": [
-        { "fr": "fleur", "en": "flower" },
-        { "fr": "parc", "en": "park" }
+        { "fr": "fleur", "en": "flower", "uk": "квітка" },
+        { "fr": "parc", "en": "park", "uk": "парк" }
       ]
     },
     {
       "en": "There is a lake near the forest.",
+      "uk": "Біля лісу є озеро.",
       "fr": "Il y a un lac près de la forêt.",
       "vocab": [
-        { "fr": "lac", "en": "lake" },
-        { "fr": "forêt", "en": "forest" }
+        { "fr": "lac", "en": "lake", "uk": "озеро" },
+        { "fr": "forêt", "en": "forest", "uk": "ліс" }
       ]
     },
     {
       "en": "There are mountains in the distance.",
+      "uk": "Вдалині видно гори.",
       "fr": "Il y a des montagnes au loin.",
       "vocab": [
-        { "fr": "au loin", "en": "in the distance" },
-        { "fr": "montagne", "en": "mountain" }
+        { "fr": "au loin", "en": "in the distance", "uk": "вдалині" },
+        { "fr": "montagne", "en": "mountain", "uk": "гора" }
       ]
     },
     {
       "en": "There is a river behind the house.",
+      "uk": "За будинком є річка.",
       "fr": "Il y a une rivière derrière la maison.",
       "vocab": [
-        { "fr": "rivière", "en": "river" },
-        { "fr": "maison", "en": "house" }
+        { "fr": "rivière", "en": "river", "uk": "річка" },
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "There are birds in the trees.",
+      "uk": "На деревах є пташки.",
       "fr": "Il y a des oiseaux dans les arbres.",
       "vocab": [
-        { "fr": "oiseau", "en": "bird" },
-        { "fr": "arbre", "en": "tree" }
+        { "fr": "oiseau", "en": "bird", "uk": "птах" },
+        { "fr": "arbre", "en": "tree", "uk": "дерево" }
       ]
     },
     {
       "en": "There is a path in the forest.",
+      "uk": "У лісі є стежка.",
       "fr": "Il y a un chemin dans la forêt.",
       "vocab": [
-        { "fr": "chemin", "en": "path" },
-        { "fr": "forêt", "en": "forest" }
+        { "fr": "chemin", "en": "path", "uk": "стежка" },
+        { "fr": "forêt", "en": "forest", "uk": "ліс" }
       ]
     },
     {
       "en": "There are clouds in the sky.",
+      "uk": "На небі є хмари.",
       "fr": "Il y a des nuages dans le ciel.",
       "vocab": [
-        { "fr": "nuage", "en": "cloud" }
+        { "fr": "nuage", "en": "cloud", "uk": "хмара" }
       ]
     },
     {
       "en": "There is a beach near the city.",
+      "uk": "Біля міста є пляж.",
       "fr": "Il y a une plage près de la ville.",
       "vocab": [
-        { "fr": "plage", "en": "beach" }
+        { "fr": "plage", "en": "beach", "uk": "пляж" }
       ]
     },
     {
       "en": "There are animals in the field.",
+      "uk": "У полі є тварини.",
       "fr": "Il y a des animaux dans le champ.",
       "vocab": [
-        { "fr": "champ", "en": "field" },
-        { "fr": "animal", "en": "animal" }
+        { "fr": "champ", "en": "field", "uk": "поле" },
+        { "fr": "animal", "en": "animal", "uk": "тварина" }
       ]
     }
   ]

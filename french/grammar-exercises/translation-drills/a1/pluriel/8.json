@@ -1,84 +1,97 @@
 {
-  "title": "Pluriel — noun plurals (set 8: plural with colour adjectives)",
+  "title": {
+    "en": "Pluriel — noun plurals (set 8: plural with colour adjectives)",
+    "uk": "Pluriel — множина іменників (набір 8: множина з прикметниками кольору)"
+  },
   "exercises": [
     {
       "en": "The pens are blue.",
+      "uk": "Ручки сині.",
       "fr": "Les stylos sont bleus.",
       "vocab": [
-        { "fr": "stylo", "en": "pen" },
-        { "fr": "bleu", "en": "blue" }
+        { "fr": "stylo", "en": "pen", "uk": "ручка" },
+        { "fr": "bleu", "en": "blue", "uk": "синій" }
       ]
     },
     {
       "en": "The dresses are red.",
+      "uk": "Сукні червоні.",
       "fr": "Les robes sont rouges.",
       "vocab": [
-        { "fr": "robe", "en": "dress" },
-        { "fr": "rouge", "en": "red" }
+        { "fr": "robe", "en": "dress", "uk": "сукня" },
+        { "fr": "rouge", "en": "red", "uk": "червоний" }
       ]
     },
     {
       "en": "The hats are black.",
+      "uk": "Капелюхи чорні.",
       "fr": "Les chapeaux sont noirs.",
       "vocab": [
-        { "fr": "chapeau", "en": "hat" },
-        { "fr": "noir", "en": "black" }
+        { "fr": "chapeau", "en": "hat", "uk": "капелюх" },
+        { "fr": "noir", "en": "black", "uk": "чорний" }
       ]
     },
     {
       "en": "The flowers are yellow.",
+      "uk": "Квіти жовті.",
       "fr": "Les fleurs sont jaunes.",
       "vocab": [
-        { "fr": "fleur", "en": "flower" },
-        { "fr": "jaune", "en": "yellow" }
+        { "fr": "fleur", "en": "flower", "uk": "квітка" },
+        { "fr": "jaune", "en": "yellow", "uk": "жовтий" }
       ]
     },
     {
       "en": "The cars are white.",
+      "uk": "Машини білі.",
       "fr": "Les voitures sont blanches.",
       "vocab": [
-        { "fr": "voiture", "en": "car" },
-        { "fr": "blanche", "en": "white (fem.)" }
+        { "fr": "voiture", "en": "car", "uk": "машина" },
+        { "fr": "blanche", "en": "white (fem.)", "uk": "біла (жін. р.)" }
       ]
     },
     {
       "en": "The shoes are brown.",
+      "uk": "Черевики коричневі.",
       "fr": "Les chaussures sont marron.",
       "vocab": [
-        { "fr": "chaussure", "en": "shoe" },
-        { "fr": "marron", "en": "brown (never changes form)" }
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" },
+        { "fr": "marron", "en": "brown (never changes form)", "uk": "коричневий (не змінюється)" }
       ]
     },
     {
       "en": "The books are green.",
+      "uk": "Книжки зелені.",
       "fr": "Les livres sont verts.",
       "vocab": [
-        { "fr": "livre", "en": "book" },
-        { "fr": "vert", "en": "green" }
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "vert", "en": "green", "uk": "зелений" }
       ]
     },
     {
       "en": "The bags are orange.",
+      "uk": "Сумки помаранчеві.",
       "fr": "Les sacs sont orange.",
       "vocab": [
-        { "fr": "sac", "en": "bag" },
-        { "fr": "orange", "en": "orange (never changes form)" }
+        { "fr": "sac", "en": "bag", "uk": "сумка" },
+        { "fr": "orange", "en": "orange (never changes form)", "uk": "помаранчевий (не змінюється)" }
       ]
     },
     {
       "en": "The jackets are grey.",
+      "uk": "Куртки сірі.",
       "fr": "Les vestes sont grises.",
       "vocab": [
-        { "fr": "veste", "en": "jacket" },
-        { "fr": "grise", "en": "grey (fem.)" }
+        { "fr": "veste", "en": "jacket", "uk": "куртка, піджак" },
+        { "fr": "grise", "en": "grey (fem.)", "uk": "сіра (жін. р.)" }
       ]
     },
     {
       "en": "The scarves are purple.",
+      "uk": "Шарфи фіолетові.",
       "fr": "Les foulards sont violets.",
       "vocab": [
-        { "fr": "foulard", "en": "scarf" },
-        { "fr": "violet", "en": "purple" }
+        { "fr": "foulard", "en": "scarf", "uk": "шарф, хустка" },
+        { "fr": "violet", "en": "purple", "uk": "фіолетовий" }
       ]
     }
   ]

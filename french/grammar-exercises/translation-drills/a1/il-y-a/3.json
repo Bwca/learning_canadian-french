@@ -1,83 +1,96 @@
 {
-  "title": "Il y a — there is/there are (set 3: questions, est-ce qu'il y a)",
+  "title": {
+    "en": "Il y a — there is/there are (set 3: questions, est-ce qu'il y a)",
+    "uk": "Il y a — є (набір 3: питання, est-ce qu'il y a)"
+  },
   "exercises": [
     {
       "en": "Is there a bathroom here?",
+      "uk": "Тут є ванна кімната?",
       "fr": "Est-ce qu'il y a une salle de bain ici?",
       "vocab": [
-        { "fr": "salle de bain", "en": "bathroom" }
+        { "fr": "salle de bain", "en": "bathroom", "uk": "ванна кімната" }
       ]
     },
     {
       "en": "Is there a cat in the garden?",
+      "uk": "У саду є кіт?",
       "fr": "Est-ce qu'il y a un chat dans le jardin?",
       "vocab": [
-        { "fr": "chat", "en": "cat" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "Is there a book on the table?",
+      "uk": "На столі є книжка?",
       "fr": "Est-ce qu'il y a un livre sur la table?",
       "vocab": [
-        { "fr": "livre", "en": "book" },
-        { "fr": "table", "en": "table" }
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "Are there apples in the basket?",
+      "uk": "У кошику є яблука?",
       "fr": "Est-ce qu'il y a des pommes dans le panier?",
       "vocab": [
-        { "fr": "pomme", "en": "apple" },
-        { "fr": "panier", "en": "basket" }
+        { "fr": "pomme", "en": "apple", "uk": "яблуко" },
+        { "fr": "panier", "en": "basket", "uk": "кошик" }
       ]
     },
     {
       "en": "Is there a student in the classroom?",
+      "uk": "У класі є студент?",
       "fr": "Est-ce qu'il y a un étudiant dans la salle de classe?",
       "vocab": [
-        { "fr": "étudiant", "en": "student" },
-        { "fr": "salle de classe", "en": "classroom" }
+        { "fr": "étudiant", "en": "student", "uk": "студент" },
+        { "fr": "salle de classe", "en": "classroom", "uk": "клас (кімната)" }
       ]
     },
     {
       "en": "Are there children in the park?",
+      "uk": "У парку є діти?",
       "fr": "Est-ce qu'il y a des enfants dans le parc?",
       "vocab": [
-        { "fr": "enfant", "en": "child" },
-        { "fr": "parc", "en": "park" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "parc", "en": "park", "uk": "парк" }
       ]
     },
     {
       "en": "Is there a car in front of the house?",
+      "uk": "Перед будинком є машина?",
       "fr": "Est-ce qu'il y a une voiture devant la maison?",
       "vocab": [
-        { "fr": "voiture", "en": "car" },
-        { "fr": "maison", "en": "house" }
+        { "fr": "voiture", "en": "car", "uk": "машина" },
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "Are there eggs in the fridge?",
+      "uk": "У холодильнику є яйця?",
       "fr": "Est-ce qu'il y a des œufs dans le frigo?",
       "vocab": [
-        { "fr": "œuf", "en": "egg" },
-        { "fr": "frigo", "en": "fridge" }
+        { "fr": "œuf", "en": "egg", "uk": "яйце" },
+        { "fr": "frigo", "en": "fridge", "uk": "холодильник" }
       ]
     },
     {
       "en": "Is there a dog in the garden?",
+      "uk": "У саду є собака?",
       "fr": "Est-ce qu'il y a un chien dans le jardin?",
       "vocab": [
-        { "fr": "chien", "en": "dog" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "chien", "en": "dog", "uk": "собака" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "Is there a phone on the table?",
+      "uk": "На столі є телефон?",
       "fr": "Est-ce qu'il y a un téléphone sur la table?",
       "vocab": [
-        { "fr": "téléphone", "en": "phone" },
-        { "fr": "table", "en": "table" }
+        { "fr": "téléphone", "en": "phone", "uk": "телефон" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     }
   ]

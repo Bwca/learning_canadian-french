@@ -1,78 +1,91 @@
 {
-  "title": "Pluriel — noun plurals (set 4: invariable and irregular plurals)",
+  "title": {
+    "en": "Pluriel — noun plurals (set 4: invariable and irregular plurals)",
+    "uk": "Pluriel — множина іменників (набір 4: незмінні й неправильні форми множини)"
+  },
   "exercises": [
     {
       "en": "I have a son.",
+      "uk": "У мене є син.",
       "fr": "J'ai un fils.",
       "vocab": [
-        { "fr": "fils", "en": "son (same spelling in plural)" }
+        { "fr": "fils", "en": "son (same spelling in plural)", "uk": "син (однаково в множині)" }
       ]
     },
     {
       "en": "I have two sons.",
+      "uk": "У мене двоє синів.",
       "fr": "J'ai deux fils.",
       "vocab": [
-        { "fr": "fils", "en": "son (same spelling in plural)" }
+        { "fr": "fils", "en": "son (same spelling in plural)", "uk": "син (однаково в множині)" }
       ]
     },
     {
       "en": "He has blue eyes.",
+      "uk": "У нього блакитні очі.",
       "fr": "Il a les yeux bleus.",
       "vocab": [
-        { "fr": "œil / yeux", "en": "eye / eyes (irregular plural)" },
-        { "fr": "bleu", "en": "blue" }
+        { "fr": "œil / yeux", "en": "eye / eyes (irregular plural)", "uk": "око / очі (неправильна множина)" },
+        { "fr": "bleu", "en": "blue", "uk": "блакитний, синій" }
       ]
     },
     {
       "en": "She has brown eyes.",
+      "uk": "У неї карі очі.",
       "fr": "Elle a les yeux marron.",
       "vocab": [
-        { "fr": "œil / yeux", "en": "eye / eyes (irregular plural)" },
-        { "fr": "marron", "en": "brown (never changes form)" }
+        { "fr": "œil / yeux", "en": "eye / eyes (irregular plural)", "uk": "око / очі (неправильна множина)" },
+        { "fr": "marron", "en": "brown (never changes form)", "uk": "карий, коричневий (не змінюється)" }
       ]
     },
     {
       "en": "I have a bus.",
+      "uk": "У мене є автобус.",
       "fr": "J'ai un bus.",
       "vocab": [
-        { "fr": "bus", "en": "bus (same spelling in plural)" }
+        { "fr": "bus", "en": "bus (same spelling in plural)", "uk": "автобус (однаково в множині)" }
       ]
     },
     {
       "en": "I have two buses.",
+      "uk": "У мене два автобуси.",
       "fr": "J'ai deux bus.",
       "vocab": [
-        { "fr": "bus", "en": "bus (same spelling in plural)" }
+        { "fr": "bus", "en": "bus (same spelling in plural)", "uk": "автобус (однаково в множині)" }
       ]
     },
     {
       "en": "We have a meal.",
+      "uk": "У нас є одна страва.",
       "fr": "Nous avons un repas.",
       "vocab": [
-        { "fr": "repas", "en": "meal (same spelling in plural)" }
+        { "fr": "repas", "en": "meal (same spelling in plural)", "uk": "їжа, прийом їжі (однаково в множині)" }
       ]
     },
     {
       "en": "We have three meals.",
+      "uk": "У нас три прийоми їжі.",
       "fr": "Nous avons trois repas.",
       "vocab": [
-        { "fr": "repas", "en": "meal (same spelling in plural)" }
+        { "fr": "repas", "en": "meal (same spelling in plural)", "uk": "їжа, прийом їжі (однаково в множині)" }
       ]
     },
     {
       "en": "The price is high.",
+      "uk": "Ціна висока.",
       "fr": "Le prix est élevé.",
       "vocab": [
-        { "fr": "prix", "en": "price (same spelling in plural)" },
-        { "fr": "élevé", "en": "high" }
+        { "fr": "prix", "en": "price (same spelling in plural)", "uk": "ціна (однаково в множині)" },
+        { "fr": "élevé", "en": "high", "uk": "високий" }
       ]
     },
     {
       "en": "The prices are high.",
+      "uk": "Ціни високі.",
       "fr": "Les prix sont élevés.",
       "vocab": [
-        { "fr": "prix", "en": "price (same spelling in plural)" },
-        { "fr": "élevé", "en": "high" }
+        { "fr": "prix", "en": "price (same spelling in plural)", "uk": "ціна (однаково в множині)" },
+        { "fr": "élevé", "en": "high", "uk": "високий" }
       ]
     }
   ]

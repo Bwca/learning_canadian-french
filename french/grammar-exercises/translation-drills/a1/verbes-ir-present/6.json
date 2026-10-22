@@ -1,84 +1,97 @@
 {
-  "title": "Verbes en -ir — present tense (set 6: at school and work)",
+  "title": {
+    "en": "Verbes en -ir — present tense (set 6: at school and work)",
+    "uk": "Дієслова на -ir — теперішній час (набір 6: на навчанні й роботі)"
+  },
   "exercises": [
     {
       "en": "I fill out the application.",
+      "uk": "Я заповнюю заяву.",
       "fr": "Je remplis la demande.",
       "vocab": [
-        { "fr": "remplir", "en": "to fill (out)" },
-        { "fr": "demande", "en": "application" }
+        { "fr": "remplir", "en": "to fill (out)", "uk": "заповнювати" },
+        { "fr": "demande", "en": "application", "uk": "заява" }
       ]
     },
     {
       "en": "You (informal) finish the report.",
+      "uk": "Ти закінчуєш звіт.",
       "fr": "Tu finis le rapport.",
       "vocab": [
-        { "fr": "finir", "en": "to finish" },
-        { "fr": "rapport", "en": "report" }
+        { "fr": "finir", "en": "to finish", "uk": "закінчувати" },
+        { "fr": "rapport", "en": "report", "uk": "звіт" }
       ]
     },
     {
       "en": "The boss chooses the candidate.",
+      "uk": "Начальник вибирає кандидата.",
       "fr": "Le patron choisit le candidat.",
       "vocab": [
-        { "fr": "choisir", "en": "to choose" },
-        { "fr": "patron", "en": "boss" },
-        { "fr": "candidat", "en": "candidate" }
+        { "fr": "choisir", "en": "to choose", "uk": "вибирати" },
+        { "fr": "patron", "en": "boss", "uk": "начальник" },
+        { "fr": "candidat", "en": "candidate", "uk": "кандидат" }
       ]
     },
     {
       "en": "She does well in French.",
+      "uk": "Вона має успіхи у французькій.",
       "fr": "Elle réussit en français.",
       "vocab": [
-        { "fr": "réussir en", "en": "to do well in (a subject)" }
+        { "fr": "réussir en", "en": "to do well in (a subject)", "uk": "мати успіхи в (предметі)" }
       ]
     },
     {
       "en": "We think about the project.",
+      "uk": "Ми обмірковуємо проєкт.",
       "fr": "Nous réfléchissons au projet.",
       "vocab": [
-        { "fr": "réfléchir à", "en": "to think about" },
-        { "fr": "projet", "en": "project" }
+        { "fr": "réfléchir à", "en": "to think about", "uk": "обмірковувати, думати про" },
+        { "fr": "projet", "en": "project", "uk": "проєкт" }
       ]
     },
     {
       "en": "You (formal/plural) provide the documents.",
+      "uk": "Ви надаєте документи.",
       "fr": "Vous fournissez les documents.",
       "vocab": [
-        { "fr": "fournir", "en": "to provide" }
+        { "fr": "fournir", "en": "to provide", "uk": "надавати, постачати" }
       ]
     },
     {
       "en": "They (masc.) act quickly.",
+      "uk": "Вони (чол.) діють швидко.",
       "fr": "Ils agissent vite.",
       "vocab": [
-        { "fr": "agir", "en": "to act" },
-        { "fr": "vite", "en": "quickly" }
+        { "fr": "agir", "en": "to act", "uk": "діяти" },
+        { "fr": "vite", "en": "quickly", "uk": "швидко" }
       ]
     },
     {
       "en": "They (fem.) react well.",
+      "uk": "Вони (жін.) добре реагують.",
       "fr": "Elles réagissent bien.",
       "vocab": [
-        { "fr": "réagir", "en": "to react" },
-        { "fr": "bien", "en": "well" }
+        { "fr": "réagir", "en": "to react", "uk": "реагувати" },
+        { "fr": "bien", "en": "well", "uk": "добре" }
       ]
     },
     {
       "en": "The company builds a school.",
+      "uk": "Компанія будує школу.",
       "fr": "L'entreprise bâtit une école.",
       "vocab": [
-        { "fr": "bâtir", "en": "to build" },
-        { "fr": "entreprise", "en": "company" }
+        { "fr": "bâtir", "en": "to build", "uk": "будувати" },
+        { "fr": "entreprise", "en": "company", "uk": "компанія, підприємство" }
       ]
     },
     {
       "en": "The students applaud the teacher.",
+      "uk": "Учні аплодують учительці.",
       "fr": "Les élèves applaudissent l'enseignante.",
       "vocab": [
-        { "fr": "applaudir", "en": "to applaud" },
-        { "fr": "élève", "en": "student (pupil)" },
-        { "fr": "enseignante", "en": "teacher (fem.)" }
+        { "fr": "applaudir", "en": "to applaud", "uk": "аплодувати" },
+        { "fr": "élève", "en": "student (pupil)", "uk": "учень" },
+        { "fr": "enseignante", "en": "teacher (fem.)", "uk": "вчителька" }
       ]
     }
   ]

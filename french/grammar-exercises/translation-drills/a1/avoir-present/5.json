@@ -1,74 +1,87 @@
 {
-  "title": "Avoir — present tense (set 5: possession — school items)",
+  "title": {
+    "en": "Avoir — present tense (set 5: possession — school items)",
+    "uk": "Avoir — теперішній час (набір 5: шкільне приладдя)"
+  },
   "exercises": [
     {
       "en": "I have a notebook.",
+      "uk": "У мене є зошит.",
       "fr": "J'ai un cahier.",
       "vocab": [
-        { "fr": "cahier", "en": "notebook" }
+        { "fr": "cahier", "en": "notebook", "uk": "зошит" }
       ]
     },
     {
       "en": "You (informal) have a pencil.",
+      "uk": "У тебе є олівець.",
       "fr": "Tu as un crayon.",
       "vocab": [
-        { "fr": "crayon", "en": "pencil" }
+        { "fr": "crayon", "en": "pencil", "uk": "олівець" }
       ]
     },
     {
       "en": "He has a backpack.",
+      "uk": "У нього є рюкзак.",
       "fr": "Il a un sac à dos.",
       "vocab": [
-        { "fr": "sac à dos", "en": "backpack" }
+        { "fr": "sac à dos", "en": "backpack", "uk": "рюкзак" }
       ]
     },
     {
       "en": "She has an eraser.",
+      "uk": "У неї є гумка.",
       "fr": "Elle a une gomme.",
       "vocab": [
-        { "fr": "gomme", "en": "eraser" }
+        { "fr": "gomme", "en": "eraser", "uk": "гумка" }
       ]
     },
     {
       "en": "We have a ruler.",
+      "uk": "У нас є лінійка.",
       "fr": "Nous avons une règle.",
       "vocab": [
-        { "fr": "règle", "en": "ruler" }
+        { "fr": "règle", "en": "ruler", "uk": "лінійка" }
       ]
     },
     {
       "en": "You (formal) have a dictionary.",
+      "uk": "У вас є словник.",
       "fr": "Vous avez un dictionnaire.",
       "vocab": [
-        { "fr": "dictionnaire", "en": "dictionary" }
+        { "fr": "dictionnaire", "en": "dictionary", "uk": "словник" }
       ]
     },
     {
       "en": "They (masc.) have textbooks.",
+      "uk": "У них (чол.) є підручники.",
       "fr": "Ils ont des manuels.",
       "vocab": [
-        { "fr": "manuel", "en": "textbook" }
+        { "fr": "manuel", "en": "textbook", "uk": "підручник" }
       ]
     },
     {
       "en": "They (fem.) have calculators.",
+      "uk": "У них (жін.) є калькулятори.",
       "fr": "Elles ont des calculatrices.",
       "vocab": [
-        { "fr": "calculatrice", "en": "calculator" }
+        { "fr": "calculatrice", "en": "calculator", "uk": "калькулятор" }
       ]
     },
     {
       "en": "I have a pen.",
+      "uk": "У мене є ручка.",
       "fr": "J'ai un stylo.",
       "vocab": [
-        { "fr": "stylo", "en": "pen" }
+        { "fr": "stylo", "en": "pen", "uk": "ручка" }
       ]
     },
     {
       "en": "He has markers.",
+      "uk": "У нього є маркери.",
       "fr": "Il a des marqueurs.",
       "vocab": [
-        { "fr": "marqueur", "en": "marker" }
+        { "fr": "marqueur", "en": "marker", "uk": "маркер" }
       ]
     }
   ]

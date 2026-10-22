@@ -1,90 +1,103 @@
 {
-  "title": "Possessifs — mixed persons, with everyday objects",
+  "title": {
+    "en": "Possessifs — mixed persons, with everyday objects",
+    "uk": "Присвійні — різні особи, повсякденні речі"
+  },
   "exercises": [
     {
       "en": "My bag is heavy.",
+      "uk": "Моя сумка важка.",
       "fr": "Mon sac est lourd.",
       "vocab": [
-        { "fr": "mon", "en": "my (masc. singular)" },
-        { "fr": "sac", "en": "bag" },
-        { "fr": "lourd", "en": "heavy" }
+        { "fr": "mon", "en": "my (masc. singular)", "uk": "мій (чол. р., одн.)" },
+        { "fr": "sac", "en": "bag", "uk": "сумка" },
+        { "fr": "lourd", "en": "heavy", "uk": "важкий" }
       ]
     },
     {
       "en": "Your (informal) pencil is yellow.",
+      "uk": "Твій олівець жовтий.",
       "fr": "Ton crayon est jaune.",
       "vocab": [
-        { "fr": "ton", "en": "your (masc. singular, informal)" },
-        { "fr": "crayon", "en": "pencil" },
-        { "fr": "jaune", "en": "yellow" }
+        { "fr": "ton", "en": "your (masc. singular, informal)", "uk": "твій (чол. р., одн.)" },
+        { "fr": "crayon", "en": "pencil", "uk": "олівець" },
+        { "fr": "jaune", "en": "yellow", "uk": "жовтий" }
       ]
     },
     {
       "en": "His phone is new.",
+      "uk": "Його телефон новий.",
       "fr": "Son téléphone est neuf.",
       "vocab": [
-        { "fr": "son", "en": "his/her (masc. singular)" },
-        { "fr": "téléphone", "en": "phone" }
+        { "fr": "son", "en": "his/her (masc. singular)", "uk": "його / її (чол. р., одн.)" },
+        { "fr": "téléphone", "en": "phone", "uk": "телефон" }
       ]
     },
     {
       "en": "Her umbrella is red.",
+      "uk": "Її парасолька червона.",
       "fr": "Son parapluie est rouge.",
       "vocab": [
-        { "fr": "son", "en": "his/her (masc. singular)" },
-        { "fr": "parapluie", "en": "umbrella" }
+        { "fr": "son", "en": "his/her (masc. singular)", "uk": "його / її (чол. р., одн.)" },
+        { "fr": "parapluie", "en": "umbrella", "uk": "парасолька" }
       ]
     },
     {
       "en": "Our chairs are old.",
+      "uk": "Наші стільці старі.",
       "fr": "Nos chaises sont vieilles.",
       "vocab": [
-        { "fr": "nos", "en": "our (plural)" },
-        { "fr": "chaise", "en": "chair" },
-        { "fr": "vieille", "en": "old (fem.)" }
+        { "fr": "nos", "en": "our (plural)", "uk": "наші (мн.)" },
+        { "fr": "chaise", "en": "chair", "uk": "стілець" },
+        { "fr": "vieille", "en": "old (fem.)", "uk": "стара (жін. р.)" }
       ]
     },
     {
       "en": "Your (formal) computer is fast.",
+      "uk": "Ваш комп'ютер швидкий.",
       "fr": "Votre ordinateur est rapide.",
       "vocab": [
-        { "fr": "votre", "en": "your (formal, singular)" },
-        { "fr": "ordinateur", "en": "computer" },
-        { "fr": "rapide", "en": "fast" }
+        { "fr": "votre", "en": "your (formal, singular)", "uk": "ваш (одн.)" },
+        { "fr": "ordinateur", "en": "computer", "uk": "комп'ютер" },
+        { "fr": "rapide", "en": "fast", "uk": "швидкий" }
       ]
     },
     {
       "en": "Their keys are lost.",
+      "uk": "Їхні ключі загубилися.",
       "fr": "Leurs clés sont perdues.",
       "vocab": [
-        { "fr": "leurs", "en": "their (plural)" },
-        { "fr": "clé", "en": "key" },
-        { "fr": "perdue", "en": "lost" }
+        { "fr": "leurs", "en": "their (plural)", "uk": "їхні (мн.)" },
+        { "fr": "clé", "en": "key", "uk": "ключ" },
+        { "fr": "perdue", "en": "lost", "uk": "загублений" }
       ]
     },
     {
       "en": "My shoes are new.",
+      "uk": "Мої черевики нові.",
       "fr": "Mes chaussures sont neuves.",
       "vocab": [
-        { "fr": "mes", "en": "my (plural)" },
-        { "fr": "chaussure", "en": "shoe" }
+        { "fr": "mes", "en": "my (plural)", "uk": "мої (мн.)" },
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" }
       ]
     },
     {
       "en": "Your (informal) watch is beautiful.",
+      "uk": "Твій годинник гарний.",
       "fr": "Ta montre est belle.",
       "vocab": [
-        { "fr": "ta", "en": "your (fem. singular, informal)" },
-        { "fr": "montre", "en": "watch" }
+        { "fr": "ta", "en": "your (fem. singular, informal)", "uk": "твоя (жін. р., одн.)" },
+        { "fr": "montre", "en": "watch", "uk": "наручний годинник" }
       ]
     },
     {
       "en": "His notebook is on the desk.",
+      "uk": "Його зошит на письмовому столі.",
       "fr": "Son cahier est sur le bureau.",
       "vocab": [
-        { "fr": "son", "en": "his/her (masc. singular)" },
-        { "fr": "cahier", "en": "notebook" },
-        { "fr": "bureau", "en": "desk" }
+        { "fr": "son", "en": "his/her (masc. singular)", "uk": "його / її (чол. р., одн.)" },
+        { "fr": "cahier", "en": "notebook", "uk": "зошит" },
+        { "fr": "bureau", "en": "desk", "uk": "письмовий стіл" }
       ]
     }
   ]

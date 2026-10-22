@@ -1,87 +1,100 @@
 {
-  "title": "Partitifs — du/de la/de l' (set 5: de l' before a vowel or mute h)",
+  "title": {
+    "en": "Partitifs — du/de la/de l' (set 5: de l' before a vowel or mute h)",
+    "uk": "Партитиви — du/de la/de l' (набір 5: de l' перед голосною або німим h)"
+  },
   "exercises": [
     {
       "en": "I have some water.",
+      "uk": "У мене є вода.",
       "fr": "J'ai de l'eau.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "eau", "en": "water" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "eau", "en": "water", "uk": "вода" }
       ]
     },
     {
       "en": "He has some money.",
+      "uk": "У нього є гроші.",
       "fr": "Il a de l'argent.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "argent", "en": "money" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "argent", "en": "money", "uk": "гроші" }
       ]
     },
     {
       "en": "She has some oil.",
+      "uk": "У неї є олія.",
       "fr": "Elle a de l'huile.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "huile", "en": "oil" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "huile", "en": "oil", "uk": "олія" }
       ]
     },
     {
       "en": "We have some garlic.",
+      "uk": "У нас є часник.",
       "fr": "Nous avons de l'ail.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "ail", "en": "garlic" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "ail", "en": "garlic", "uk": "часник" }
       ]
     },
     {
       "en": "You (formal/plural) have some grass.",
+      "uk": "У вас є трава.",
       "fr": "Vous avez de l'herbe.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "herbe", "en": "grass" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "herbe", "en": "grass", "uk": "трава" }
       ]
     },
     {
       "en": "They (masc.) have some energy.",
+      "uk": "У них (чол.) є енергія.",
       "fr": "Ils ont de l'énergie.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "énergie", "en": "energy" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "énergie", "en": "energy", "uk": "енергія" }
       ]
     },
     {
       "en": "There is some water in the bottle.",
+      "uk": "У пляшці є вода.",
       "fr": "Il y a de l'eau dans la bouteille.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "eau", "en": "water" },
-        { "fr": "bouteille", "en": "bottle" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "eau", "en": "water", "uk": "вода" },
+        { "fr": "bouteille", "en": "bottle", "uk": "пляшка" }
       ]
     },
     {
       "en": "There is some air in the balloon.",
+      "uk": "У кульці є повітря.",
       "fr": "Il y a de l'air dans le ballon.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "air", "en": "air" },
-        { "fr": "ballon", "en": "balloon" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "air", "en": "air", "uk": "повітря" },
+        { "fr": "ballon", "en": "balloon", "uk": "повітряна кулька, м'яч" }
       ]
     },
     {
       "en": "She eats some pineapple.",
+      "uk": "Вона їсть ананас.",
       "fr": "Elle mange de l'ananas.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "ananas", "en": "pineapple" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "ananas", "en": "pineapple", "uk": "ананас" }
       ]
     },
     {
       "en": "You (informal) have some oats.",
+      "uk": "У тебе є вівсянка.",
       "fr": "Tu as de l'avoine.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "avoine", "en": "oats" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "avoine", "en": "oats", "uk": "овес, вівсяні пластівці" }
       ]
     }
   ]

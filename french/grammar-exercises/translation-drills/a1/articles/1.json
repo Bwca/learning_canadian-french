@@ -1,74 +1,87 @@
 {
-  "title": "Articles — definite & indefinite (set 1: indefinite articles un/une/des with avoir)",
+  "title": {
+    "en": "Articles — definite & indefinite (set 1: indefinite articles un/une/des with avoir)",
+    "uk": "Articles — означені й неозначені (набір 1: неозначені артиклі un/une/des з avoir)"
+  },
   "exercises": [
     {
       "en": "I have a cat.",
+      "uk": "У мене є кіт.",
       "fr": "J'ai un chat.",
       "vocab": [
-        { "fr": "chat", "en": "cat" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" }
       ]
     },
     {
       "en": "I have a book.",
+      "uk": "У мене є книжка.",
       "fr": "J'ai un livre.",
       "vocab": [
-        { "fr": "livre", "en": "book" }
+        { "fr": "livre", "en": "book", "uk": "книжка" }
       ]
     },
     {
       "en": "She has a car.",
+      "uk": "У неї є машина.",
       "fr": "Elle a une voiture.",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "We have apples.",
+      "uk": "У нас є яблука.",
       "fr": "Nous avons des pommes.",
       "vocab": [
-        { "fr": "pomme", "en": "apple" }
+        { "fr": "pomme", "en": "apple", "uk": "яблуко" }
       ]
     },
     {
       "en": "He has a dog.",
+      "uk": "У нього є собака.",
       "fr": "Il a un chien.",
       "vocab": [
-        { "fr": "chien", "en": "dog" }
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     },
     {
       "en": "They (masc.) have children.",
+      "uk": "У них (чол.) є діти.",
       "fr": "Ils ont des enfants.",
       "vocab": [
-        { "fr": "enfant", "en": "child" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" }
       ]
     },
     {
       "en": "You (informal) have a bag.",
+      "uk": "У тебе є сумка.",
       "fr": "Tu as un sac.",
       "vocab": [
-        { "fr": "sac", "en": "bag" }
+        { "fr": "sac", "en": "bag", "uk": "сумка" }
       ]
     },
     {
       "en": "You (formal) have eggs.",
+      "uk": "У вас є яйця.",
       "fr": "Vous avez des œufs.",
       "vocab": [
-        { "fr": "œuf", "en": "egg" }
+        { "fr": "œuf", "en": "egg", "uk": "яйце" }
       ]
     },
     {
       "en": "I have a friend (fem.).",
+      "uk": "У мене є подруга.",
       "fr": "J'ai une amie.",
       "vocab": [
-        { "fr": "amie", "en": "friend (fem.)" }
+        { "fr": "amie", "en": "friend (fem.)", "uk": "подруга" }
       ]
     },
     {
       "en": "He has a sister.",
+      "uk": "У нього є сестра.",
       "fr": "Il a une sœur.",
       "vocab": [
-        { "fr": "sœur", "en": "sister" }
+        { "fr": "sœur", "en": "sister", "uk": "сестра" }
       ]
     }
   ]

@@ -1,74 +1,87 @@
 {
-  "title": "Articles — definite & indefinite (set 6: indefinite articles with clothing)",
+  "title": {
+    "en": "Articles — definite & indefinite (set 6: indefinite articles with clothing)",
+    "uk": "Articles — означені й неозначені (набір 6: неозначені артиклі з одягом)"
+  },
   "exercises": [
     {
       "en": "I have a hat.",
+      "uk": "У мене є капелюх.",
       "fr": "J'ai un chapeau.",
       "vocab": [
-        { "fr": "chapeau", "en": "hat" }
+        { "fr": "chapeau", "en": "hat", "uk": "капелюх" }
       ]
     },
     {
       "en": "She has a dress.",
+      "uk": "У неї є сукня.",
       "fr": "Elle a une robe.",
       "vocab": [
-        { "fr": "robe", "en": "dress" }
+        { "fr": "robe", "en": "dress", "uk": "сукня" }
       ]
     },
     {
       "en": "He has gloves.",
+      "uk": "У нього є рукавички.",
       "fr": "Il a des gants.",
       "vocab": [
-        { "fr": "gant", "en": "glove" }
+        { "fr": "gant", "en": "glove", "uk": "рукавичка" }
       ]
     },
     {
       "en": "We have a jacket.",
+      "uk": "У нас є куртка.",
       "fr": "Nous avons une veste.",
       "vocab": [
-        { "fr": "veste", "en": "jacket" }
+        { "fr": "veste", "en": "jacket", "uk": "куртка" }
       ]
     },
     {
       "en": "You (informal) have shoes.",
+      "uk": "У тебе є черевики.",
       "fr": "Tu as des chaussures.",
       "vocab": [
-        { "fr": "chaussure", "en": "shoe" }
+        { "fr": "chaussure", "en": "shoe", "uk": "взуття, черевик" }
       ]
     },
     {
       "en": "They (fem.) have scarves.",
+      "uk": "У них (жін.) є шарфи.",
       "fr": "Elles ont des foulards.",
       "vocab": [
-        { "fr": "foulard", "en": "scarf" }
+        { "fr": "foulard", "en": "scarf", "uk": "шарф" }
       ]
     },
     {
       "en": "I have a shirt.",
+      "uk": "У мене є сорочка.",
       "fr": "J'ai une chemise.",
       "vocab": [
-        { "fr": "chemise", "en": "shirt" }
+        { "fr": "chemise", "en": "shirt", "uk": "сорочка" }
       ]
     },
     {
       "en": "You (formal) have boots.",
+      "uk": "У вас є чоботи.",
       "fr": "Vous avez des bottes.",
       "vocab": [
-        { "fr": "botte", "en": "boot" }
+        { "fr": "botte", "en": "boot", "uk": "чобіт" }
       ]
     },
     {
       "en": "He has a belt.",
+      "uk": "У нього є пасок.",
       "fr": "Il a une ceinture.",
       "vocab": [
-        { "fr": "ceinture", "en": "belt" }
+        { "fr": "ceinture", "en": "belt", "uk": "пасок" }
       ]
     },
     {
       "en": "They (masc.) have hats.",
+      "uk": "У них (чол.) є капелюхи.",
       "fr": "Ils ont des chapeaux.",
       "vocab": [
-        { "fr": "chapeau", "en": "hat" }
+        { "fr": "chapeau", "en": "hat", "uk": "капелюх" }
       ]
     }
   ]

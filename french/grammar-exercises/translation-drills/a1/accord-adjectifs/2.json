@@ -1,75 +1,88 @@
 {
-  "title": "Accord des adjectifs — gender agreement (set 2: doubled consonant & -ien/-ienne endings)",
+  "title": {
+    "en": "Accord des adjectifs — gender agreement (set 2: doubled consonant & -ien/-ienne endings)",
+    "uk": "Accord des adjectifs — узгодження в роді (набір 2: подвоєння приголосного та -ien/-ienne)"
+  },
   "exercises": [
     {
       "en": "The dog is good.",
+      "uk": "Собака добрий.",
       "fr": "Le chien est bon.",
       "vocab": [
-        { "fr": "bon", "en": "good" }
+        { "fr": "bon", "en": "good", "uk": "добрий, хороший" }
       ]
     },
     {
       "en": "The soup is good.",
+      "uk": "Суп смачний.",
       "fr": "La soupe est bonne.",
       "vocab": [
-        { "fr": "bonne", "en": "good (fem.)" }
+        { "fr": "bonne", "en": "good (fem.)", "uk": "добра, хороша (жін. р.)" }
       ]
     },
     {
       "en": "The cat is fat.",
+      "uk": "Кіт товстий.",
       "fr": "Le chat est gros.",
       "vocab": [
-        { "fr": "gros", "en": "fat / big" }
+        { "fr": "gros", "en": "fat / big", "uk": "товстий / великий" }
       ]
     },
     {
       "en": "The car is heavy.",
+      "uk": "Машина важка.",
       "fr": "La voiture est grosse.",
       "vocab": [
-        { "fr": "grosse", "en": "fat / big (fem.)" }
+        { "fr": "grosse", "en": "fat / big (fem.)", "uk": "товста / велика (жін. р.)" }
       ]
     },
     {
       "en": "The man is cruel.",
+      "uk": "Чоловік жорстокий.",
       "fr": "L'homme est cruel.",
       "vocab": [
-        { "fr": "cruel", "en": "cruel" }
+        { "fr": "cruel", "en": "cruel", "uk": "жорстокий" }
       ]
     },
     {
       "en": "The woman is cruel.",
+      "uk": "Жінка жорстока.",
       "fr": "La femme est cruelle.",
       "vocab": [
-        { "fr": "cruelle", "en": "cruel (fem.)" }
+        { "fr": "cruelle", "en": "cruel (fem.)", "uk": "жорстока (жін. р.)" }
       ]
     },
     {
       "en": "The boy is nice.",
+      "uk": "Хлопчик милий.",
       "fr": "Le garçon est gentil.",
       "vocab": [
-        { "fr": "gentil", "en": "nice / kind" }
+        { "fr": "gentil", "en": "nice / kind", "uk": "милий / добрий" }
       ]
     },
     {
       "en": "The girl is nice.",
+      "uk": "Дівчинка мила.",
       "fr": "La fille est gentille.",
       "vocab": [
-        { "fr": "gentille", "en": "nice / kind (fem.)" }
+        { "fr": "gentille", "en": "nice / kind (fem.)", "uk": "мила / добра (жін. р.)" }
       ]
     },
     {
       "en": "The book is old (ancient).",
+      "uk": "Книжка старовинна.",
       "fr": "Le livre est ancien.",
       "vocab": [
-        { "fr": "ancien", "en": "old / former" }
+        { "fr": "ancien", "en": "old / former", "uk": "старовинний / колишній" }
       ]
     },
     {
       "en": "The story is old (ancient).",
+      "uk": "Історія давня.",
       "fr": "L'histoire est ancienne.",
       "vocab": [
-        { "fr": "histoire", "en": "story" },
-        { "fr": "ancienne", "en": "old / former (fem.)" }
+        { "fr": "histoire", "en": "story", "uk": "історія" },
+        { "fr": "ancienne", "en": "old / former (fem.)", "uk": "старовинна / колишня (жін. р.)" }
       ]
     }
   ]

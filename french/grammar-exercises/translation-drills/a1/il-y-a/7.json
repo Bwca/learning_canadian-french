@@ -1,85 +1,98 @@
 {
-  "title": "Il y a — there is/there are (set 7: around town)",
+  "title": {
+    "en": "Il y a — there is/there are (set 7: around town)",
+    "uk": "Il y a — є (набір 7: у місті)"
+  },
   "exercises": [
     {
       "en": "There is a bank near here.",
+      "uk": "Неподалік є банк.",
       "fr": "Il y a une banque près d'ici.",
       "vocab": [
-        { "fr": "banque", "en": "bank" },
-        { "fr": "ici", "en": "here" }
+        { "fr": "banque", "en": "bank", "uk": "банк" },
+        { "fr": "ici", "en": "here", "uk": "тут" }
       ]
     },
     {
       "en": "There is a park in the city.",
+      "uk": "У місті є парк.",
       "fr": "Il y a un parc dans la ville.",
       "vocab": [
-        { "fr": "parc", "en": "park" },
-        { "fr": "ville", "en": "city" }
+        { "fr": "parc", "en": "park", "uk": "парк" },
+        { "fr": "ville", "en": "city", "uk": "місто" }
       ]
     },
     {
       "en": "There are many stores downtown.",
+      "uk": "У центрі міста багато магазинів.",
       "fr": "Il y a beaucoup de magasins au centre-ville.",
       "vocab": [
-        { "fr": "centre-ville", "en": "downtown" },
-        { "fr": "magasin", "en": "store / shop" }
+        { "fr": "centre-ville", "en": "downtown", "uk": "центр міста" },
+        { "fr": "magasin", "en": "store / shop", "uk": "магазин" }
       ]
     },
     {
       "en": "There is a hospital next to the school.",
+      "uk": "Поруч зі школою є лікарня.",
       "fr": "Il y a un hôpital à côté de l'école.",
       "vocab": [
-        { "fr": "hôpital", "en": "hospital" },
-        { "fr": "à côté de", "en": "next to" },
-        { "fr": "école", "en": "school" }
+        { "fr": "hôpital", "en": "hospital", "uk": "лікарня" },
+        { "fr": "à côté de", "en": "next to", "uk": "поруч із" },
+        { "fr": "école", "en": "school", "uk": "школа" }
       ]
     },
     {
       "en": "There is a station in front of the museum.",
+      "uk": "Перед музеєм є вокзал.",
       "fr": "Il y a une gare devant le musée.",
       "vocab": [
-        { "fr": "gare", "en": "station" },
-        { "fr": "musée", "en": "museum" }
+        { "fr": "gare", "en": "station", "uk": "вокзал" },
+        { "fr": "musée", "en": "museum", "uk": "музей" }
       ]
     },
     {
       "en": "There are restaurants on this street.",
+      "uk": "На цій вулиці є ресторани.",
       "fr": "Il y a des restaurants dans cette rue.",
       "vocab": [
-        { "fr": "rue", "en": "street" }
+        { "fr": "rue", "en": "street", "uk": "вулиця" }
       ]
     },
     {
       "en": "There is a church behind the library.",
+      "uk": "За бібліотекою є церква.",
       "fr": "Il y a une église derrière la bibliothèque.",
       "vocab": [
-        { "fr": "église", "en": "church" },
-        { "fr": "derrière", "en": "behind" },
-        { "fr": "bibliothèque", "en": "library" }
+        { "fr": "église", "en": "church", "uk": "церква" },
+        { "fr": "derrière", "en": "behind", "uk": "за, позаду" },
+        { "fr": "bibliothèque", "en": "library", "uk": "бібліотека" }
       ]
     },
     {
       "en": "There is a market on Saturday.",
+      "uk": "По суботах буває ринок.",
       "fr": "Il y a un marché le samedi.",
       "vocab": [
-        { "fr": "samedi", "en": "Saturday" },
-        { "fr": "marché", "en": "market" }
+        { "fr": "samedi", "en": "Saturday", "uk": "субота" },
+        { "fr": "marché", "en": "market", "uk": "ринок" }
       ]
     },
     {
       "en": "There are tourists in the square.",
+      "uk": "На площі є туристи.",
       "fr": "Il y a des touristes sur la place.",
       "vocab": [
-        { "fr": "touriste", "en": "tourist" },
-        { "fr": "place", "en": "square" }
+        { "fr": "touriste", "en": "tourist", "uk": "турист" },
+        { "fr": "place", "en": "square", "uk": "площа" }
       ]
     },
     {
       "en": "There is a bridge over the river.",
+      "uk": "Через річку є міст.",
       "fr": "Il y a un pont sur la rivière.",
       "vocab": [
-        { "fr": "pont", "en": "bridge" },
-        { "fr": "rivière", "en": "river" }
+        { "fr": "pont", "en": "bridge", "uk": "міст" },
+        { "fr": "rivière", "en": "river", "uk": "річка" }
       ]
     }
   ]

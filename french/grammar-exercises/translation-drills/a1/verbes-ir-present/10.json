@@ -1,81 +1,94 @@
 {
-  "title": "Verbes en -ir — present tense (set 10: review: negatives and questions)",
+  "title": {
+    "en": "Verbes en -ir — present tense (set 10: review: negatives and questions)",
+    "uk": "Дієслова на -ir — теперішній час (набір 10: повторення заперечень і питань)"
+  },
   "exercises": [
     {
       "en": "I don't choose the dessert.",
+      "uk": "Я не вибираю десерт.",
       "fr": "Je ne choisis pas le dessert.",
       "vocab": [
-        { "fr": "choisir", "en": "to choose" }
+        { "fr": "choisir", "en": "to choose", "uk": "вибирати" }
       ]
     },
     {
       "en": "Do you (informal) finish at four o'clock?",
+      "uk": "Ти закінчуєш о четвертій? (з est-ce que)",
       "fr": "Est-ce que tu finis à quatre heures?",
       "vocab": [
-        { "fr": "finir", "en": "to finish" },
-        { "fr": "quatre heures", "en": "four o'clock" }
+        { "fr": "finir", "en": "to finish", "uk": "закінчувати" },
+        { "fr": "quatre heures", "en": "four o'clock", "uk": "четверта година" }
       ]
     },
     {
       "en": "He doesn't react.",
+      "uk": "Він не реагує.",
       "fr": "Il ne réagit pas.",
       "vocab": [
-        { "fr": "réagir", "en": "to react" }
+        { "fr": "réagir", "en": "to react", "uk": "реагувати" }
       ]
     },
     {
       "en": "Where does the plane land?",
+      "uk": "Де приземляється літак?",
       "fr": "Où est-ce que l'avion atterrit?",
       "vocab": [
-        { "fr": "atterrir", "en": "to land" },
-        { "fr": "avion", "en": "plane" }
+        { "fr": "atterrir", "en": "to land", "uk": "приземлятися" },
+        { "fr": "avion", "en": "plane", "uk": "літак" }
       ]
     },
     {
       "en": "We don't gain weight in summer.",
+      "uk": "Ми не гладшаємо влітку.",
       "fr": "Nous ne grossissons pas en été.",
       "vocab": [
-        { "fr": "grossir", "en": "to gain weight" },
-        { "fr": "en été", "en": "in summer" }
+        { "fr": "grossir", "en": "to gain weight", "uk": "гладшати, набирати вагу" },
+        { "fr": "en été", "en": "in summer", "uk": "влітку" }
       ]
     },
     {
       "en": "Do you (formal/plural) fill out the form?",
+      "uk": "Ви заповнюєте бланк? (з est-ce que)",
       "fr": "Est-ce que vous remplissez le formulaire?",
       "vocab": [
-        { "fr": "remplir", "en": "to fill (out)" },
-        { "fr": "formulaire", "en": "form" }
+        { "fr": "remplir", "en": "to fill (out)", "uk": "заповнювати" },
+        { "fr": "formulaire", "en": "form", "uk": "бланк, анкета" }
       ]
     },
     {
       "en": "They (masc.) don't obey.",
+      "uk": "Вони (чол.) не слухаються.",
       "fr": "Ils n'obéissent pas.",
       "vocab": [
-        { "fr": "obéir", "en": "to obey" }
+        { "fr": "obéir", "en": "to obey", "uk": "слухатися, коритися" }
       ]
     },
     {
       "en": "Do the leaves turn yellow in September?",
+      "uk": "Листя жовтіє у вересні? (з est-ce que)",
       "fr": "Est-ce que les feuilles jaunissent en septembre?",
       "vocab": [
-        { "fr": "jaunir", "en": "to turn yellow" },
-        { "fr": "feuille", "en": "leaf" }
+        { "fr": "jaunir", "en": "to turn yellow", "uk": "жовтіти" },
+        { "fr": "feuille", "en": "leaf", "uk": "листок" }
       ]
     },
     {
       "en": "She doesn't think about the problem.",
+      "uk": "Вона не обмірковує проблему.",
       "fr": "Elle ne réfléchit pas au problème.",
       "vocab": [
-        { "fr": "réfléchir à", "en": "to think about" },
-        { "fr": "problème", "en": "problem" }
+        { "fr": "réfléchir à", "en": "to think about", "uk": "обмірковувати, думати про" },
+        { "fr": "problème", "en": "problem", "uk": "проблема" }
       ]
     },
     {
       "en": "Do the children grow fast?",
+      "uk": "Діти швидко ростуть? (з est-ce que)",
       "fr": "Est-ce que les enfants grandissent vite?",
       "vocab": [
-        { "fr": "grandir", "en": "to grow (up)" },
-        { "fr": "vite", "en": "fast" }
+        { "fr": "grandir", "en": "to grow (up)", "uk": "рости, дорослішати" },
+        { "fr": "vite", "en": "fast", "uk": "швидко" }
       ]
     }
   ]

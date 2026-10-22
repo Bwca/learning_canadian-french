@@ -1,84 +1,97 @@
 {
-  "title": "Être — present tense (set 7: basic question words with être)",
+  "title": {
+    "en": "Être — present tense (set 7: basic question words with être)",
+    "uk": "Être — теперішній час (набір 7: прості питальні слова з être)"
+  },
   "exercises": [
     {
       "en": "Where is the bathroom?",
+      "uk": "Де ванна кімната?",
       "fr": "Où est la salle de bain?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "salle de bain", "en": "bathroom" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "salle de bain", "en": "bathroom", "uk": "ванна кімната" }
       ]
     },
     {
       "en": "Who is the teacher?",
+      "uk": "Хто вчитель?",
       "fr": "Qui est le professeur?",
       "vocab": [
-        { "fr": "qui", "en": "who" },
-        { "fr": "professeur", "en": "teacher" }
+        { "fr": "qui", "en": "who", "uk": "хто" },
+        { "fr": "professeur", "en": "teacher", "uk": "вчитель" }
       ]
     },
     {
       "en": "Where are the shoes?",
+      "uk": "Де черевики?",
       "fr": "Où sont les chaussures?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "chaussure", "en": "shoe" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" }
       ]
     },
     {
       "en": "How is the weather today?",
+      "uk": "Яка сьогодні погода?",
       "fr": "Comment est le temps aujourd'hui?",
       "vocab": [
-        { "fr": "comment", "en": "how" },
-        { "fr": "temps", "en": "weather" }
+        { "fr": "comment", "en": "how", "uk": "як, який" },
+        { "fr": "temps", "en": "weather", "uk": "погода" }
       ]
     },
     {
       "en": "Who is at the door?",
+      "uk": "Хто за дверима?",
       "fr": "Qui est à la porte?",
       "vocab": [
-        { "fr": "qui", "en": "who" },
-        { "fr": "porte", "en": "door" }
+        { "fr": "qui", "en": "who", "uk": "хто" },
+        { "fr": "porte", "en": "door", "uk": "двері" }
       ]
     },
     {
       "en": "Where is the station?",
+      "uk": "Де вокзал?",
       "fr": "Où est la gare?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "gare", "en": "station" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "gare", "en": "station", "uk": "вокзал" }
       ]
     },
     {
       "en": "Who is tired?",
+      "uk": "Хто втомлений?",
       "fr": "Qui est fatigué?",
       "vocab": [
-        { "fr": "qui", "en": "who" },
-        { "fr": "fatigué", "en": "tired" }
+        { "fr": "qui", "en": "who", "uk": "хто" },
+        { "fr": "fatigué", "en": "tired", "uk": "втомлений" }
       ]
     },
     {
       "en": "Where are the children?",
+      "uk": "Де діти?",
       "fr": "Où sont les enfants?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "enfant", "en": "child" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "enfant", "en": "child", "uk": "дитина" }
       ]
     },
     {
       "en": "How is the teacher?",
+      "uk": "Який вчитель?",
       "fr": "Comment est le professeur?",
       "vocab": [
-        { "fr": "comment", "en": "how" },
-        { "fr": "professeur", "en": "teacher" }
+        { "fr": "comment", "en": "how", "uk": "як, який" },
+        { "fr": "professeur", "en": "teacher", "uk": "вчитель" }
       ]
     },
     {
       "en": "Where is the car?",
+      "uk": "Де машина?",
       "fr": "Où est la voiture?",
       "vocab": [
-        { "fr": "où", "en": "where" },
-        { "fr": "voiture", "en": "car" }
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     }
   ]

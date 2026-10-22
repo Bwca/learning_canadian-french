@@ -1,84 +1,97 @@
 {
-  "title": "Possessifs — ton/ta/tes (set 3: your things, informal)",
+  "title": {
+    "en": "Possessifs — ton/ta/tes (set 3: your things, informal)",
+    "uk": "Присвійні — ton/ta/tes (набір 3: твої речі)"
+  },
   "exercises": [
     {
       "en": "Your dog is nice.",
+      "uk": "Твій собака добрий.",
       "fr": "Ton chien est gentil.",
       "vocab": [
-        { "fr": "ton", "en": "your (masc. singular, informal)" },
-        { "fr": "chien", "en": "dog" }
+        { "fr": "ton", "en": "your (masc. singular, informal)", "uk": "твій (чол. р., одн.)" },
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     },
     {
       "en": "Your car is red.",
+      "uk": "Твоя машина червона.",
       "fr": "Ta voiture est rouge.",
       "vocab": [
-        { "fr": "ta", "en": "your (fem. singular, informal)" },
-        { "fr": "voiture", "en": "car" }
+        { "fr": "ta", "en": "your (fem. singular, informal)", "uk": "твоя (жін. р., одн.)" },
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "Your keys are on the table.",
+      "uk": "Твої ключі на столі.",
       "fr": "Tes clés sont sur la table.",
       "vocab": [
-        { "fr": "tes", "en": "your (plural, informal)" },
-        { "fr": "clé", "en": "key" },
-        { "fr": "table", "en": "table" }
+        { "fr": "tes", "en": "your (plural, informal)", "uk": "твої (мн.)" },
+        { "fr": "clé", "en": "key", "uk": "ключ" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "Your brother is tall.",
+      "uk": "Твій брат високий.",
       "fr": "Ton frère est grand.",
       "vocab": [
-        { "fr": "ton", "en": "your (masc. singular, informal)" },
-        { "fr": "frère", "en": "brother" }
+        { "fr": "ton", "en": "your (masc. singular, informal)", "uk": "твій (чол. р., одн.)" },
+        { "fr": "frère", "en": "brother", "uk": "брат" }
       ]
     },
     {
       "en": "Your idea is good.",
+      "uk": "Твоя ідея добра.",
       "fr": "Ton idée est bonne.",
       "vocab": [
-        { "fr": "ton", "en": "your (masc. singular, informal)" },
-        { "fr": "idée", "en": "idea" }
+        { "fr": "ton", "en": "your (masc. singular, informal)", "uk": "твій (чол. р., одн.)" },
+        { "fr": "idée", "en": "idea", "uk": "ідея" }
       ]
     },
     {
       "en": "Your shoes are black.",
+      "uk": "Твої черевики чорні.",
       "fr": "Tes chaussures sont noires.",
       "vocab": [
-        { "fr": "tes", "en": "your (plural, informal)" },
-        { "fr": "chaussure", "en": "shoe" }
+        { "fr": "tes", "en": "your (plural, informal)", "uk": "твої (мн.)" },
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" }
       ]
     },
     {
       "en": "Your sister is nice.",
+      "uk": "Твоя сестра мила.",
       "fr": "Ta sœur est gentille.",
       "vocab": [
-        { "fr": "ta", "en": "your (fem. singular, informal)" },
-        { "fr": "sœur", "en": "sister" }
+        { "fr": "ta", "en": "your (fem. singular, informal)", "uk": "твоя (жін. р., одн.)" },
+        { "fr": "sœur", "en": "sister", "uk": "сестра" }
       ]
     },
     {
       "en": "Your parents are kind.",
+      "uk": "Твої батьки добрі.",
       "fr": "Tes parents sont gentils.",
       "vocab": [
-        { "fr": "tes", "en": "your (plural, informal)" },
-        { "fr": "parents", "en": "parents" }
+        { "fr": "tes", "en": "your (plural, informal)", "uk": "твої (мн.)" },
+        { "fr": "parents", "en": "parents", "uk": "батьки" }
       ]
     },
     {
       "en": "Your house is big.",
+      "uk": "Твій будинок великий.",
       "fr": "Ta maison est grande.",
       "vocab": [
-        { "fr": "ta", "en": "your (fem. singular, informal)" },
-        { "fr": "maison", "en": "house" }
+        { "fr": "ta", "en": "your (fem. singular, informal)", "uk": "твоя (жін. р., одн.)" },
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "Your friend (fem.) is happy.",
+      "uk": "Твоя подруга задоволена.",
       "fr": "Ton amie est contente.",
       "vocab": [
-        { "fr": "ton amie", "en": "your friend (fem.) — ton, not ta, before a vowel sound" }
+        { "fr": "ton amie", "en": "your friend (fem.) — ton, not ta, before a vowel sound", "uk": "ton amie = твоя подруга — ton, а не ta, перед голосним звуком" }
       ]
     }
   ]

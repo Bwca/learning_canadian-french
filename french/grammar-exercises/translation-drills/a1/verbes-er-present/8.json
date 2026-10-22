@@ -1,80 +1,93 @@
 {
-  "title": "Verbes en -er — present tense (set 8: aimer, adorer, détester + infinitive)",
+  "title": {
+    "en": "Verbes en -er — present tense (set 8: aimer, adorer, détester + infinitive)",
+    "uk": "Дієслова на -er — теперішній час (набір 8: aimer, adorer, détester + інфінітив)"
+  },
   "exercises": [
     {
       "en": "I like to dance.",
+      "uk": "Я люблю танцювати.",
       "fr": "J'aime danser.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "danser", "en": "to dance" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити, подобатися" },
+        { "fr": "danser", "en": "to dance", "uk": "танцювати" }
       ]
     },
     {
       "en": "You (informal) love to sing.",
+      "uk": "Ти обожнюєш співати.",
       "fr": "Tu adores chanter.",
       "vocab": [
-        { "fr": "adorer", "en": "to love / to adore" },
-        { "fr": "chanter", "en": "to sing" }
+        { "fr": "adorer", "en": "to love / to adore", "uk": "обожнювати" },
+        { "fr": "chanter", "en": "to sing", "uk": "співати" }
       ]
     },
     {
       "en": "He hates to cook.",
+      "uk": "Він ненавидить готувати.",
       "fr": "Il déteste cuisiner.",
       "vocab": [
-        { "fr": "détester", "en": "to hate" },
-        { "fr": "cuisiner", "en": "to cook" }
+        { "fr": "détester", "en": "to hate", "uk": "ненавидіти" },
+        { "fr": "cuisiner", "en": "to cook", "uk": "готувати (їжу)" }
       ]
     },
     {
       "en": "She likes to play tennis.",
+      "uk": "Вона любить грати в теніс.",
       "fr": "Elle aime jouer au tennis.",
       "vocab": [
-        { "fr": "jouer à", "en": "to play (a sport or game)" }
+        { "fr": "jouer à", "en": "to play (a sport or game)", "uk": "грати в (спорт чи гру)" }
       ]
     },
     {
       "en": "We love to skate.",
+      "uk": "Ми обожнюємо кататися на ковзанах.",
       "fr": "Nous adorons patiner.",
       "vocab": [
-        { "fr": "adorer", "en": "to love / to adore" },
-        { "fr": "patiner", "en": "to skate" }
+        { "fr": "adorer", "en": "to love / to adore", "uk": "обожнювати" },
+        { "fr": "patiner", "en": "to skate", "uk": "кататися на ковзанах" }
       ]
     },
     {
       "en": "You (formal/plural) like to travel.",
+      "uk": "Ви любите подорожувати.",
       "fr": "Vous aimez voyager.",
       "vocab": [
-        { "fr": "voyager", "en": "to travel" }
+        { "fr": "voyager", "en": "to travel", "uk": "подорожувати" }
       ]
     },
     {
       "en": "They (masc.) hate to work on Sundays.",
+      "uk": "Вони (чол.) ненавидять працювати в неділю.",
       "fr": "Ils détestent travailler le dimanche.",
       "vocab": [
-        { "fr": "détester", "en": "to hate" },
-        { "fr": "le dimanche", "en": "on Sundays" }
+        { "fr": "détester", "en": "to hate", "uk": "ненавидіти" },
+        { "fr": "le dimanche", "en": "on Sundays", "uk": "по неділях" }
       ]
     },
     {
       "en": "They (fem.) like to shop.",
+      "uk": "Вони (жін.) люблять ходити по магазинах.",
       "fr": "Elles aiment magasiner.",
       "vocab": [
-        { "fr": "magasiner", "en": "to shop (Québec)" }
+        { "fr": "magasiner", "en": "to shop (Québec)", "uk": "ходити по магазинах (у Квебеку)" }
       ]
     },
     {
       "en": "I don't like to study in the evening.",
+      "uk": "Я не люблю вчитися ввечері.",
       "fr": "Je n'aime pas étudier le soir.",
       "vocab": [
-        { "fr": "étudier", "en": "to study" },
-        { "fr": "le soir", "en": "in the evening" }
+        { "fr": "étudier", "en": "to study", "uk": "навчатися, вивчати" },
+        { "fr": "le soir", "en": "in the evening", "uk": "ввечері" }
       ]
     },
     {
       "en": "Do you (informal) like to ski?",
+      "uk": "Ти любиш кататися на лижах? (з est-ce que)",
       "fr": "Est-ce que tu aimes skier?",
       "vocab": [
-        { "fr": "skier", "en": "to ski" }
+        { "fr": "skier", "en": "to ski", "uk": "кататися на лижах" }
       ]
     }
   ]

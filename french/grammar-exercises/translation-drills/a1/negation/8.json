@@ -1,72 +1,85 @@
 {
-  "title": "Negation — ne...pas (set 8: with avoir, feelings and states)",
+  "title": {
+    "en": "Negation — ne...pas (set 8: with avoir, feelings and states)",
+    "uk": "Заперечення — ne...pas (набір 8: з avoir, відчуття і стани)"
+  },
   "exercises": [
     {
       "en": "I am not hungry.",
+      "uk": "Я не голодний.",
       "fr": "Je n'ai pas faim.",
       "vocab": [
-        { "fr": "avoir faim", "en": "to be hungry" }
+        { "fr": "avoir faim", "en": "to be hungry", "uk": "бути голодним" }
       ]
     },
     {
       "en": "He is not thirsty.",
+      "uk": "Він не хоче пити.",
       "fr": "Il n'a pas soif.",
       "vocab": [
-        { "fr": "avoir soif", "en": "to be thirsty" }
+        { "fr": "avoir soif", "en": "to be thirsty", "uk": "хотіти пити" }
       ]
     },
     {
       "en": "We are not afraid.",
+      "uk": "Ми не боїмося.",
       "fr": "Nous n'avons pas peur.",
       "vocab": [
-        { "fr": "avoir peur", "en": "to be afraid" }
+        { "fr": "avoir peur", "en": "to be afraid", "uk": "боятися" }
       ]
     },
     {
       "en": "You (informal) are not cold.",
+      "uk": "Тобі не холодно.",
       "fr": "Tu n'as pas froid.",
       "vocab": [
-        { "fr": "avoir froid", "en": "to be cold" }
+        { "fr": "avoir froid", "en": "to be cold", "uk": "бути холодно (комусь)" }
       ]
     },
     {
       "en": "She is not hot.",
+      "uk": "Їй не жарко.",
       "fr": "Elle n'a pas chaud.",
       "vocab": [
-        { "fr": "avoir chaud", "en": "to be hot" }
+        { "fr": "avoir chaud", "en": "to be hot", "uk": "бути жарко (комусь)" }
       ]
     },
     {
       "en": "They (masc.) are not sleepy.",
+      "uk": "Вони (чол.) не хочуть спати.",
       "fr": "Ils n'ont pas sommeil.",
       "vocab": [
-        { "fr": "avoir sommeil", "en": "to be sleepy" }
+        { "fr": "avoir sommeil", "en": "to be sleepy", "uk": "хотіти спати" }
       ]
     },
     {
       "en": "I am not right.",
+      "uk": "Я не маю рації.",
       "fr": "Je n'ai pas raison.",
       "vocab": [
-        { "fr": "avoir raison", "en": "to be right" }
+        { "fr": "avoir raison", "en": "to be right", "uk": "мати рацію" }
       ]
     },
     {
       "en": "You (formal) are not wrong.",
+      "uk": "Ви не помиляєтеся.",
       "fr": "Vous n'avez pas tort.",
       "vocab": [
-        { "fr": "avoir tort", "en": "to be wrong" }
+        { "fr": "avoir tort", "en": "to be wrong", "uk": "помилятися" }
       ]
     },
     {
       "en": "She is not twenty years old.",
+      "uk": "Їй не двадцять років.",
       "fr": "Elle n'a pas vingt ans.",
       "vocab": []
     },
     {
       "en": "We do not have time.",
+      "uk": "Ми не маємо часу.",
       "fr": "Nous n'avons pas le temps.",
       "vocab": [
-        { "fr": "temps", "en": "time" }
+        { "fr": "temps", "en": "time", "uk": "час" }
       ]
     }
   ]

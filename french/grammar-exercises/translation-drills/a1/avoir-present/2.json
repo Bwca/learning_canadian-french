@@ -1,75 +1,88 @@
 {
-  "title": "Avoir — present tense (set 2: family)",
+  "title": {
+    "en": "Avoir — present tense (set 2: family)",
+    "uk": "Avoir — теперішній час (набір 2: родина)"
+  },
   "exercises": [
     {
       "en": "I have a brother.",
+      "uk": "У мене є брат.",
       "fr": "J'ai un frère.",
       "vocab": [
-        { "fr": "frère", "en": "brother" }
+        { "fr": "frère", "en": "brother", "uk": "брат" }
       ]
     },
     {
       "en": "I have a sister.",
+      "uk": "У мене є сестра.",
       "fr": "J'ai une sœur.",
       "vocab": [
-        { "fr": "sœur", "en": "sister" }
+        { "fr": "sœur", "en": "sister", "uk": "сестра" }
       ]
     },
     {
       "en": "He has two children.",
+      "uk": "У нього двоє дітей.",
       "fr": "Il a deux enfants.",
       "vocab": [
-        { "fr": "enfant", "en": "child" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" }
       ]
     },
     {
       "en": "We have a big family.",
+      "uk": "У нас велика родина.",
       "fr": "Nous avons une grande famille.",
       "vocab": [
-        { "fr": "famille", "en": "family" },
-        { "fr": "grande", "en": "big (fem.)" }
+        { "fr": "famille", "en": "family", "uk": "родина" },
+        { "fr": "grande", "en": "big (fem.)", "uk": "велика (жін. р.)" }
       ]
     },
     {
       "en": "You (informal) have a cousin (masc.).",
+      "uk": "У тебе є двоюрідний брат.",
       "fr": "Tu as un cousin.",
       "vocab": [
-        { "fr": "cousin", "en": "cousin (masc.)" }
+        { "fr": "cousin", "en": "cousin (masc.)", "uk": "двоюрідний брат" }
       ]
     },
     {
       "en": "They (fem.) have a grandmother.",
+      "uk": "У них (жін.) є бабуся.",
       "fr": "Elles ont une grand-mère.",
       "vocab": [
-        { "fr": "grand-mère", "en": "grandmother" }
+        { "fr": "grand-mère", "en": "grandmother", "uk": "бабуся" }
       ]
     },
     {
       "en": "She has a husband.",
+      "uk": "У неї є чоловік.",
       "fr": "Elle a un mari.",
       "vocab": [
-        { "fr": "mari", "en": "husband" }
+        { "fr": "mari", "en": "husband", "uk": "чоловік (у шлюбі)" }
       ]
     },
     {
       "en": "He has a wife.",
+      "uk": "У нього є дружина.",
       "fr": "Il a une femme.",
       "vocab": [
-        { "fr": "femme", "en": "wife / woman" }
+        { "fr": "femme", "en": "wife / woman", "uk": "дружина / жінка" }
       ]
     },
     {
       "en": "You (formal) have three daughters.",
+      "uk": "У вас три доньки.",
       "fr": "Vous avez trois filles.",
       "vocab": [
-        { "fr": "fille", "en": "daughter / girl" }
+        { "fr": "fille", "en": "daughter / girl", "uk": "донька / дівчинка" }
       ]
     },
     {
       "en": "She has a nephew.",
+      "uk": "У неї є племінник.",
       "fr": "Elle a un neveu.",
       "vocab": [
-        { "fr": "neveu", "en": "nephew" }
+        { "fr": "neveu", "en": "nephew", "uk": "племінник" }
       ]
     }
   ]

@@ -1,79 +1,92 @@
 {
-  "title": "Negation — ne...pas (set 7: with other -er verbs)",
+  "title": {
+    "en": "Negation — ne...pas (set 7: with other -er verbs)",
+    "uk": "Заперечення — ne...pas (набір 7: з іншими дієсловами на -er)"
+  },
   "exercises": [
     {
       "en": "I do not live in Montreal.",
+      "uk": "Я не живу в Монреалі.",
       "fr": "Je n'habite pas à Montréal.",
       "vocab": [
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "He does not speak Spanish.",
+      "uk": "Він не говорить іспанською.",
       "fr": "Il ne parle pas espagnol.",
       "vocab": [
-        { "fr": "parler", "en": "to speak" },
-        { "fr": "espagnol", "en": "Spanish" }
+        { "fr": "parler", "en": "to speak", "uk": "говорити" },
+        { "fr": "espagnol", "en": "Spanish", "uk": "іспанська (мова)" }
       ]
     },
     {
       "en": "She does not watch television.",
+      "uk": "Вона не дивиться телевізор.",
       "fr": "Elle ne regarde pas la télévision.",
       "vocab": [
-        { "fr": "regarder", "en": "to watch" },
-        { "fr": "télévision", "en": "television" }
+        { "fr": "regarder", "en": "to watch", "uk": "дивитися" },
+        { "fr": "télévision", "en": "television", "uk": "телевізор, телебачення" }
       ]
     },
     {
       "en": "We do not live here.",
+      "uk": "Ми тут не живемо.",
       "fr": "Nous n'habitons pas ici.",
       "vocab": [
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "You (informal) do not speak French.",
+      "uk": "Ти не говориш французькою.",
       "fr": "Tu ne parles pas français.",
       "vocab": [
-        { "fr": "parler", "en": "to speak" },
-        { "fr": "français", "en": "French (language)" }
+        { "fr": "parler", "en": "to speak", "uk": "говорити" },
+        { "fr": "français", "en": "French (language)", "uk": "французька (мова)" }
       ]
     },
     {
       "en": "They (masc.) do not watch movies.",
+      "uk": "Вони (чол.) не дивляться фільмів.",
       "fr": "Ils ne regardent pas de films.",
       "vocab": [
-        { "fr": "film", "en": "movie" }
+        { "fr": "film", "en": "movie", "uk": "фільм" }
       ]
     },
     {
       "en": "I do not speak English.",
+      "uk": "Я не говорю англійською.",
       "fr": "Je ne parle pas anglais.",
       "vocab": [
-        { "fr": "anglais", "en": "English" }
+        { "fr": "anglais", "en": "English", "uk": "англійська (мова)" }
       ]
     },
     {
       "en": "You (formal) do not live in Quebec City.",
+      "uk": "Ви не живете в місті Квебек.",
       "fr": "Vous n'habitez pas à Québec.",
       "vocab": [
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "She does not watch the news.",
+      "uk": "Вона не дивиться новини.",
       "fr": "Elle ne regarde pas les nouvelles.",
       "vocab": [
-        { "fr": "regarder", "en": "to watch" },
-        { "fr": "nouvelles", "en": "news" }
+        { "fr": "regarder", "en": "to watch", "uk": "дивитися" },
+        { "fr": "nouvelles", "en": "news", "uk": "новини" }
       ]
     },
     {
       "en": "We do not speak German.",
+      "uk": "Ми не говоримо німецькою.",
       "fr": "Nous ne parlons pas allemand.",
       "vocab": [
-        { "fr": "parler", "en": "to speak" },
-        { "fr": "allemand", "en": "German" }
+        { "fr": "parler", "en": "to speak", "uk": "говорити" },
+        { "fr": "allemand", "en": "German", "uk": "німецька (мова)" }
       ]
     }
   ]

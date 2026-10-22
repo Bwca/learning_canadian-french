@@ -1,75 +1,88 @@
 {
-  "title": "Negation — ne...pas (set 10: mixed review)",
+  "title": {
+    "en": "Negation — ne...pas (set 10: mixed review)",
+    "uk": "Заперечення — ne...pas (набір 10: повторення)"
+  },
   "exercises": [
     {
       "en": "I am not tired.",
+      "uk": "Я не втомлений.",
       "fr": "Je ne suis pas fatigué.",
       "vocab": [
-        { "fr": "fatigué", "en": "tired" }
+        { "fr": "fatigué", "en": "tired", "uk": "втомлений" }
       ]
     },
     {
       "en": "He does not have a car.",
+      "uk": "У нього немає машини.",
       "fr": "Il n'a pas de voiture.",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "We do not like the cold.",
+      "uk": "Ми не любимо холод.",
       "fr": "Nous n'aimons pas le froid.",
       "vocab": [
-        { "fr": "froid", "en": "cold (noun)" }
+        { "fr": "froid", "en": "cold (noun)", "uk": "холод" }
       ]
     },
     {
       "en": "She is not Canadian.",
+      "uk": "Вона не канадка.",
       "fr": "Elle n'est pas canadienne.",
       "vocab": [
-        { "fr": "canadien", "en": "Canadian" }
+        { "fr": "canadien", "en": "Canadian", "uk": "канадієць, канадський" }
       ]
     },
     {
       "en": "They (masc.) do not live in Quebec.",
+      "uk": "Вони (чол.) не живуть у Квебеку.",
       "fr": "Ils n'habitent pas au Québec.",
       "vocab": [
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "I do not have time.",
+      "uk": "Я не маю часу.",
       "fr": "Je n'ai pas le temps.",
       "vocab": [
-        { "fr": "temps", "en": "time" }
+        { "fr": "temps", "en": "time", "uk": "час" }
       ]
     },
     {
       "en": "You (informal) are not late.",
+      "uk": "Ти не запізнюєшся.",
       "fr": "Tu n'es pas en retard.",
       "vocab": [
-        { "fr": "en retard", "en": "late" }
+        { "fr": "en retard", "en": "late", "uk": "із запізненням" }
       ]
     },
     {
       "en": "We do not speak Italian.",
+      "uk": "Ми не говоримо італійською.",
       "fr": "Nous ne parlons pas italien.",
       "vocab": [
-        { "fr": "italien", "en": "Italian" }
+        { "fr": "italien", "en": "Italian", "uk": "італійська (мова)" }
       ]
     },
     {
       "en": "She does not have a brother.",
+      "uk": "У неї немає брата.",
       "fr": "Elle n'a pas de frère.",
       "vocab": [
-        { "fr": "frère", "en": "brother" }
+        { "fr": "frère", "en": "brother", "uk": "брат" }
       ]
     },
     {
       "en": "The house is not small.",
+      "uk": "Будинок не маленький.",
       "fr": "La maison n'est pas petite.",
       "vocab": [
-        { "fr": "maison", "en": "house" },
-        { "fr": "petit", "en": "small" }
+        { "fr": "maison", "en": "house", "uk": "будинок" },
+        { "fr": "petit", "en": "small", "uk": "маленький" }
       ]
     }
   ]

@@ -1,79 +1,92 @@
 {
-  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 6: mixed avoir/il y a review)",
+  "title": {
+    "en": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 6: mixed avoir/il y a review)",
+    "uk": "Заперечення — pas de (без du/de la/de l'/des/un/une) (набір 6: повторення avoir/il y a)"
+  },
   "exercises": [
     {
       "en": "I don't have a pencil.",
+      "uk": "У мене немає олівця.",
       "fr": "Je n'ai pas de crayon.",
       "vocab": [
-        { "fr": "crayon", "en": "pencil" }
+        { "fr": "crayon", "en": "pencil", "uk": "олівець" }
       ]
     },
     {
       "en": "There isn't any snow today.",
+      "uk": "Сьогодні немає снігу.",
       "fr": "Il n'y a pas de neige aujourd'hui.",
       "vocab": [
-        { "fr": "neige", "en": "snow" },
-        { "fr": "aujourd'hui", "en": "today" }
+        { "fr": "neige", "en": "snow", "uk": "сніг" },
+        { "fr": "aujourd'hui", "en": "today", "uk": "сьогодні" }
       ]
     },
     {
       "en": "We don't have a car.",
+      "uk": "У нас немає машини.",
       "fr": "Nous n'avons pas de voiture.",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "There isn't any bread in the bag.",
+      "uk": "У сумці немає хліба.",
       "fr": "Il n'y a pas de pain dans le sac.",
       "vocab": [
-        { "fr": "pain", "en": "bread" },
-        { "fr": "sac", "en": "bag" }
+        { "fr": "pain", "en": "bread", "uk": "хліб" },
+        { "fr": "sac", "en": "bag", "uk": "сумка" }
       ]
     },
     {
       "en": "She doesn't have a key.",
+      "uk": "У неї немає ключа.",
       "fr": "Elle n'a pas de clé.",
       "vocab": [
-        { "fr": "clé", "en": "key" }
+        { "fr": "clé", "en": "key", "uk": "ключ" }
       ]
     },
     {
       "en": "There isn't any milk in the cup.",
+      "uk": "У чашці немає молока.",
       "fr": "Il n'y a pas de lait dans la tasse.",
       "vocab": [
-        { "fr": "lait", "en": "milk" },
-        { "fr": "tasse", "en": "cup" }
+        { "fr": "lait", "en": "milk", "uk": "молоко" },
+        { "fr": "tasse", "en": "cup", "uk": "чашка" }
       ]
     },
     {
       "en": "You (formal/plural) don't have a chair.",
+      "uk": "У вас немає стільця.",
       "fr": "Vous n'avez pas de chaise.",
       "vocab": [
-        { "fr": "chaise", "en": "chair" }
+        { "fr": "chaise", "en": "chair", "uk": "стілець" }
       ]
     },
     {
       "en": "There isn't any sugar in the tea.",
+      "uk": "У чаї немає цукру.",
       "fr": "Il n'y a pas de sucre dans le thé.",
       "vocab": [
-        { "fr": "sucre", "en": "sugar" },
-        { "fr": "thé", "en": "tea" }
+        { "fr": "sucre", "en": "sugar", "uk": "цукор" },
+        { "fr": "thé", "en": "tea", "uk": "чай" }
       ]
     },
     {
       "en": "They (masc.) don't have a book.",
+      "uk": "У них (чол.) немає книжки.",
       "fr": "Ils n'ont pas de livre.",
       "vocab": [
-        { "fr": "livre", "en": "book" }
+        { "fr": "livre", "en": "book", "uk": "книжка" }
       ]
     },
     {
       "en": "There isn't any jam on the table.",
+      "uk": "На столі немає варення.",
       "fr": "Il n'y a pas de confiture sur la table.",
       "vocab": [
-        { "fr": "confiture", "en": "jam" },
-        { "fr": "table", "en": "table" }
+        { "fr": "confiture", "en": "jam", "uk": "варення, джем" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     }
   ]

@@ -1,86 +1,99 @@
 {
-  "title": "Partitifs — du/de la/de l' (set 8: est-ce que questions)",
+  "title": {
+    "en": "Partitifs — du/de la/de l' (set 8: est-ce que questions)",
+    "uk": "Партитиви — du/de la/de l' (набір 8: питання з est-ce que)"
+  },
   "exercises": [
     {
       "en": "Do you (informal) have any bread?",
+      "uk": "У тебе є хліб?",
       "fr": "Est-ce que tu as du pain?",
       "vocab": [
-        { "fr": "du", "en": "some/any (masc.)" },
-        { "fr": "pain", "en": "bread" }
+        { "fr": "du", "en": "some/any (masc.)", "uk": "якийсь, трохи (чол. р.)" },
+        { "fr": "pain", "en": "bread", "uk": "хліб" }
       ]
     },
     {
       "en": "Is there any snow?",
+      "uk": "Сніг є?",
       "fr": "Est-ce qu'il y a de la neige?",
       "vocab": [
-        { "fr": "de la", "en": "some/any (fem.)" },
-        { "fr": "neige", "en": "snow" }
+        { "fr": "de la", "en": "some/any (fem.)", "uk": "якийсь, трохи (жін. р.)" },
+        { "fr": "neige", "en": "snow", "uk": "сніг" }
       ]
     },
     {
       "en": "Do you (formal/plural) have any water?",
+      "uk": "У вас є вода?",
       "fr": "Est-ce que vous avez de l'eau?",
       "vocab": [
-        { "fr": "de l'", "en": "some/any (before vowel/mute h)" },
-        { "fr": "eau", "en": "water" }
+        { "fr": "de l'", "en": "some/any (before vowel/mute h)", "uk": "якийсь, трохи (перед голосною або німим h)" },
+        { "fr": "eau", "en": "water", "uk": "вода" }
       ]
     },
     {
       "en": "Does she have any cheese?",
+      "uk": "У неї є сир?",
       "fr": "Est-ce qu'elle a du fromage?",
       "vocab": [
-        { "fr": "du", "en": "some/any (masc.)" },
-        { "fr": "fromage", "en": "cheese" }
+        { "fr": "du", "en": "some/any (masc.)", "uk": "якийсь, трохи (чол. р.)" },
+        { "fr": "fromage", "en": "cheese", "uk": "сир" }
       ]
     },
     {
       "en": "Is there any wind?",
+      "uk": "Вітер є?",
       "fr": "Est-ce qu'il y a du vent?",
       "vocab": [
-        { "fr": "du", "en": "some/any (masc.)" },
-        { "fr": "vent", "en": "wind" }
+        { "fr": "du", "en": "some/any (masc.)", "uk": "якийсь, трохи (чол. р.)" },
+        { "fr": "vent", "en": "wind", "uk": "вітер" }
       ]
     },
     {
       "en": "Are you (informal) eating any soup?",
+      "uk": "Ти їси суп?",
       "fr": "Est-ce que tu manges de la soupe?",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "de la", "en": "some/any (fem.)" },
-        { "fr": "soupe", "en": "soup" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "de la", "en": "some/any (fem.)", "uk": "якийсь, трохи (жін. р.)" },
+        { "fr": "soupe", "en": "soup", "uk": "суп" }
       ]
     },
     {
       "en": "Do they (masc.) have any jam?",
+      "uk": "У них (чол.) є варення?",
       "fr": "Est-ce qu'ils ont de la confiture?",
       "vocab": [
-        { "fr": "de la", "en": "some/any (fem.)" },
-        { "fr": "confiture", "en": "jam" }
+        { "fr": "de la", "en": "some/any (fem.)", "uk": "якийсь, трохи (жін. р.)" },
+        { "fr": "confiture", "en": "jam", "uk": "варення, джем" }
       ]
     },
     {
       "en": "Is there any oil in the kitchen?",
+      "uk": "На кухні є олія?",
       "fr": "Est-ce qu'il y a de l'huile dans la cuisine?",
       "vocab": [
-        { "fr": "de l'", "en": "some/any (before vowel/mute h)" },
-        { "fr": "huile", "en": "oil" },
-        { "fr": "cuisine", "en": "kitchen" }
+        { "fr": "de l'", "en": "some/any (before vowel/mute h)", "uk": "якийсь, трохи (перед голосною або німим h)" },
+        { "fr": "huile", "en": "oil", "uk": "олія" },
+        { "fr": "cuisine", "en": "kitchen", "uk": "кухня" }
       ]
     },
     {
       "en": "Do we have any sugar?",
+      "uk": "У нас є цукор?",
       "fr": "Est-ce que nous avons du sucre?",
       "vocab": [
-        { "fr": "du", "en": "some/any (masc.)" },
-        { "fr": "sucre", "en": "sugar" }
+        { "fr": "du", "en": "some/any (masc.)", "uk": "якийсь, трохи (чол. р.)" },
+        { "fr": "sucre", "en": "sugar", "uk": "цукор" }
       ]
     },
     {
       "en": "Do you (informal) have any money?",
+      "uk": "У тебе є гроші?",
       "fr": "Est-ce que tu as de l'argent?",
       "vocab": [
-        { "fr": "de l'", "en": "some/any (before vowel/mute h)" },
-        { "fr": "argent", "en": "money" }
+        { "fr": "de l'", "en": "some/any (before vowel/mute h)", "uk": "якийсь, трохи (перед голосною або німим h)" },
+        { "fr": "argent", "en": "money", "uk": "гроші" }
       ]
     }
   ]

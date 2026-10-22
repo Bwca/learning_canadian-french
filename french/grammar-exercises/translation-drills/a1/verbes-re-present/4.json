@@ -1,83 +1,96 @@
 {
-  "title": "Verbes en -re — present tense (set 4: singular vs plural, il vend/ils vendent)",
+  "title": {
+    "en": "Verbes en -re — present tense (set 4: singular vs plural, il vend/ils vendent)",
+    "uk": "Дієслова на -re — теперішній час (набір 4: однина й множина, il vend/ils vendent)"
+  },
   "exercises": [
     {
       "en": "The baker sells bread.",
+      "uk": "Пекар продає хліб.",
       "fr": "Le boulanger vend du pain.",
       "vocab": [
-        { "fr": "vendre", "en": "to sell" },
-        { "fr": "boulanger", "en": "baker" }
+        { "fr": "vendre", "en": "to sell", "uk": "продавати" },
+        { "fr": "boulanger", "en": "baker", "uk": "пекар" }
       ]
     },
     {
       "en": "The bakers sell croissants.",
+      "uk": "Пекарі продають круасани.",
       "fr": "Les boulangers vendent des croissants.",
       "vocab": [
-        { "fr": "vendre", "en": "to sell" },
-        { "fr": "boulanger", "en": "baker" }
+        { "fr": "vendre", "en": "to sell", "uk": "продавати" },
+        { "fr": "boulanger", "en": "baker", "uk": "пекар" }
       ]
     },
     {
       "en": "The child loses a tooth.",
+      "uk": "Дитина втрачає зуб.",
       "fr": "L'enfant perd une dent.",
       "vocab": [
-        { "fr": "perdre", "en": "to lose" },
-        { "fr": "dent", "en": "tooth" }
+        { "fr": "perdre", "en": "to lose", "uk": "губити, втрачати" },
+        { "fr": "dent", "en": "tooth", "uk": "зуб" }
       ]
     },
     {
       "en": "The parents lose patience.",
+      "uk": "Батьки втрачають терпіння.",
       "fr": "Les parents perdent patience.",
       "vocab": [
-        { "fr": "perdre patience", "en": "to lose patience" }
+        { "fr": "perdre patience", "en": "to lose patience", "uk": "втрачати терпіння" }
       ]
     },
     {
       "en": "She hears a noise.",
+      "uk": "Вона чує шум.",
       "fr": "Elle entend un bruit.",
       "vocab": [
-        { "fr": "entendre", "en": "to hear" },
-        { "fr": "bruit", "en": "noise" }
+        { "fr": "entendre", "en": "to hear", "uk": "чути" },
+        { "fr": "bruit", "en": "noise", "uk": "шум" }
       ]
     },
     {
       "en": "They (fem.) hear the thunder.",
+      "uk": "Вони (жін.) чують грім.",
       "fr": "Elles entendent le tonnerre.",
       "vocab": [
-        { "fr": "entendre", "en": "to hear" },
-        { "fr": "tonnerre", "en": "thunder" }
+        { "fr": "entendre", "en": "to hear", "uk": "чути" },
+        { "fr": "tonnerre", "en": "thunder", "uk": "грім" }
       ]
     },
     {
       "en": "He waits at the door.",
+      "uk": "Він чекає біля дверей.",
       "fr": "Il attend à la porte.",
       "vocab": [
-        { "fr": "attendre", "en": "to wait (for)" },
-        { "fr": "porte", "en": "door" }
+        { "fr": "attendre", "en": "to wait (for)", "uk": "чекати" },
+        { "fr": "porte", "en": "door", "uk": "двері" }
       ]
     },
     {
       "en": "They (masc.) wait in line.",
+      "uk": "Вони (чол.) чекають у черзі.",
       "fr": "Ils attendent en file.",
       "vocab": [
-        { "fr": "attendre", "en": "to wait (for)" },
-        { "fr": "en file", "en": "in line (Québec)" }
+        { "fr": "attendre", "en": "to wait (for)", "uk": "чекати" },
+        { "fr": "en file", "en": "in line (Québec)", "uk": "у черзі (у Квебеку)" }
       ]
     },
     {
       "en": "The dog bites the bone.",
+      "uk": "Собака гризе кістку.",
       "fr": "Le chien mord l'os.",
       "vocab": [
-        { "fr": "mordre", "en": "to bite" },
-        { "fr": "os", "en": "bone" }
+        { "fr": "mordre", "en": "to bite", "uk": "кусати, гризти" },
+        { "fr": "os", "en": "bone", "uk": "кістка" }
       ]
     },
     {
       "en": "The dogs bite the ball.",
+      "uk": "Собаки кусають м'яч.",
       "fr": "Les chiens mordent la balle.",
       "vocab": [
-        { "fr": "mordre", "en": "to bite" },
-        { "fr": "balle", "en": "ball" }
+        { "fr": "mordre", "en": "to bite", "uk": "кусати, гризти" },
+        { "fr": "balle", "en": "ball", "uk": "м'яч" }
       ]
     }
   ]

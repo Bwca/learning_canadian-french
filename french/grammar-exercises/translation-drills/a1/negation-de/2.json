@@ -1,74 +1,87 @@
 {
-  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 2: avoir with everyday objects)",
+  "title": {
+    "en": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 2: avoir with everyday objects)",
+    "uk": "Заперечення — pas de (без du/de la/de l'/des/un/une) (набір 2: avoir з повсякденними речами)"
+  },
   "exercises": [
     {
       "en": "I don't have a pen.",
+      "uk": "У мене немає ручки.",
       "fr": "Je n'ai pas de stylo.",
       "vocab": [
-        { "fr": "stylo", "en": "pen" }
+        { "fr": "stylo", "en": "pen", "uk": "ручка" }
       ]
     },
     {
       "en": "You (informal) don't have a pencil.",
+      "uk": "У тебе немає олівця.",
       "fr": "Tu n'as pas de crayon.",
       "vocab": [
-        { "fr": "crayon", "en": "pencil" }
+        { "fr": "crayon", "en": "pencil", "uk": "олівець" }
       ]
     },
     {
       "en": "He doesn't have a key.",
+      "uk": "У нього немає ключа.",
       "fr": "Il n'a pas de clé.",
       "vocab": [
-        { "fr": "clé", "en": "key" }
+        { "fr": "clé", "en": "key", "uk": "ключ" }
       ]
     },
     {
       "en": "She doesn't have a chair.",
+      "uk": "У неї немає стільця.",
       "fr": "Elle n'a pas de chaise.",
       "vocab": [
-        { "fr": "chaise", "en": "chair" }
+        { "fr": "chaise", "en": "chair", "uk": "стілець" }
       ]
     },
     {
       "en": "We don't have a car.",
+      "uk": "У нас немає машини.",
       "fr": "Nous n'avons pas de voiture.",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "You (formal/plural) don't have a bag.",
+      "uk": "У вас немає сумки.",
       "fr": "Vous n'avez pas de sac.",
       "vocab": [
-        { "fr": "sac", "en": "bag" }
+        { "fr": "sac", "en": "bag", "uk": "сумка" }
       ]
     },
     {
       "en": "They (masc.) don't have a book.",
+      "uk": "У них (чол.) немає книжки.",
       "fr": "Ils n'ont pas de livre.",
       "vocab": [
-        { "fr": "livre", "en": "book" }
+        { "fr": "livre", "en": "book", "uk": "книжка" }
       ]
     },
     {
       "en": "They (fem.) don't have a table.",
+      "uk": "У них (жін.) немає столу.",
       "fr": "Elles n'ont pas de table.",
       "vocab": [
-        { "fr": "table", "en": "table" }
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "I don't have a phone.",
+      "uk": "У мене немає телефону.",
       "fr": "Je n'ai pas de téléphone.",
       "vocab": [
-        { "fr": "téléphone", "en": "phone" }
+        { "fr": "téléphone", "en": "phone", "uk": "телефон" }
       ]
     },
     {
       "en": "You (informal) don't have a watch.",
+      "uk": "У тебе немає годинника.",
       "fr": "Tu n'as pas de montre.",
       "vocab": [
-        { "fr": "montre", "en": "watch" }
+        { "fr": "montre", "en": "watch", "uk": "наручний годинник" }
       ]
     }
   ]

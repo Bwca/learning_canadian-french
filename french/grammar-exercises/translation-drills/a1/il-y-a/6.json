@@ -1,84 +1,97 @@
 {
-  "title": "Il y a — there is/there are (set 6: in the kitchen)",
+  "title": {
+    "en": "Il y a — there is/there are (set 6: in the kitchen)",
+    "uk": "Il y a — є (набір 6: на кухні)"
+  },
   "exercises": [
     {
       "en": "There is milk in the fridge.",
+      "uk": "У холодильнику є молоко.",
       "fr": "Il y a du lait dans le frigo.",
       "vocab": [
-        { "fr": "lait", "en": "milk" },
-        { "fr": "frigo", "en": "fridge" }
+        { "fr": "lait", "en": "milk", "uk": "молоко" },
+        { "fr": "frigo", "en": "fridge", "uk": "холодильник" }
       ]
     },
     {
       "en": "There is bread on the table.",
+      "uk": "На столі є хліб.",
       "fr": "Il y a du pain sur la table.",
       "vocab": [
-        { "fr": "pain", "en": "bread" },
-        { "fr": "table", "en": "table" }
+        { "fr": "pain", "en": "bread", "uk": "хліб" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "There are eggs in the basket.",
+      "uk": "У кошику є яйця.",
       "fr": "Il y a des œufs dans le panier.",
       "vocab": [
-        { "fr": "œuf", "en": "egg" },
-        { "fr": "panier", "en": "basket" }
+        { "fr": "œuf", "en": "egg", "uk": "яйце" },
+        { "fr": "panier", "en": "basket", "uk": "кошик" }
       ]
     },
     {
       "en": "There is cheese in the fridge.",
+      "uk": "У холодильнику є сир.",
       "fr": "Il y a du fromage dans le frigo.",
       "vocab": [
-        { "fr": "fromage", "en": "cheese" },
-        { "fr": "frigo", "en": "fridge" }
+        { "fr": "fromage", "en": "cheese", "uk": "сир" },
+        { "fr": "frigo", "en": "fridge", "uk": "холодильник" }
       ]
     },
     {
       "en": "There is coffee in the kitchen.",
+      "uk": "На кухні є кава.",
       "fr": "Il y a du café dans la cuisine.",
       "vocab": [
-        { "fr": "café", "en": "coffee" },
-        { "fr": "cuisine", "en": "kitchen" }
+        { "fr": "café", "en": "coffee", "uk": "кава" },
+        { "fr": "cuisine", "en": "kitchen", "uk": "кухня" }
       ]
     },
     {
       "en": "There are apples on the counter.",
+      "uk": "На стільниці є яблука.",
       "fr": "Il y a des pommes sur le comptoir.",
       "vocab": [
-        { "fr": "comptoir", "en": "counter" },
-        { "fr": "pomme", "en": "apple" }
+        { "fr": "comptoir", "en": "counter", "uk": "стільниця (на кухні)" },
+        { "fr": "pomme", "en": "apple", "uk": "яблуко" }
       ]
     },
     {
       "en": "There is water in the glass.",
+      "uk": "У склянці є вода.",
       "fr": "Il y a de l'eau dans le verre.",
       "vocab": [
-        { "fr": "verre", "en": "glass" },
-        { "fr": "eau", "en": "water" }
+        { "fr": "verre", "en": "glass", "uk": "склянка" },
+        { "fr": "eau", "en": "water", "uk": "вода" }
       ]
     },
     {
       "en": "There is a cake on the table.",
+      "uk": "На столі є торт.",
       "fr": "Il y a un gâteau sur la table.",
       "vocab": [
-        { "fr": "gâteau", "en": "cake" },
-        { "fr": "table", "en": "table" }
+        { "fr": "gâteau", "en": "cake", "uk": "торт" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "There are plates in the cupboard.",
+      "uk": "У шафі є тарілки.",
       "fr": "Il y a des assiettes dans l'armoire.",
       "vocab": [
-        { "fr": "assiette", "en": "plate" },
-        { "fr": "armoire", "en": "cupboard" }
+        { "fr": "assiette", "en": "plate", "uk": "тарілка" },
+        { "fr": "armoire", "en": "cupboard", "uk": "шафа" }
       ]
     },
     {
       "en": "There is sugar in the bowl.",
+      "uk": "У мисці є цукор.",
       "fr": "Il y a du sucre dans le bol.",
       "vocab": [
-        { "fr": "sucre", "en": "sugar" },
-        { "fr": "bol", "en": "bowl" }
+        { "fr": "sucre", "en": "sugar", "uk": "цукор" },
+        { "fr": "bol", "en": "bowl", "uk": "миска" }
       ]
     }
   ]

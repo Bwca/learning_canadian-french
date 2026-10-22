@@ -1,68 +1,81 @@
 {
-  "title": "Avoir — expressions with avoir (set 2: right, wrong & lucky)",
+  "title": {
+    "en": "Avoir — expressions with avoir (set 2: right, wrong & lucky)",
+    "uk": "Avoir — вирази з avoir (набір 2: мати рацію, помилятися, щастя)"
+  },
   "exercises": [
     {
       "en": "You're right. (informal)",
+      "uk": "Ти маєш рацію.",
       "fr": "Tu as raison.",
       "vocab": [
-        { "fr": "avoir raison", "en": "to be right" }
+        { "fr": "avoir raison", "en": "to be right", "uk": "мати рацію" }
       ]
     },
     {
       "en": "He is wrong.",
+      "uk": "Він помиляється.",
       "fr": "Il a tort.",
       "vocab": [
-        { "fr": "avoir tort", "en": "to be wrong" }
+        { "fr": "avoir tort", "en": "to be wrong", "uk": "помилятися" }
       ]
     },
     {
       "en": "We are lucky.",
+      "uk": "Нам щастить.",
       "fr": "Nous avons de la chance.",
       "vocab": [
-        { "fr": "avoir de la chance", "en": "to be lucky" }
+        { "fr": "avoir de la chance", "en": "to be lucky", "uk": "мати везіння, щастити" }
       ]
     },
     {
       "en": "I'm lucky to meet you. (informal)",
+      "uk": "Мені пощастило з тобою познайомитися.",
       "fr": "J'ai la chance de te rencontrer.",
       "vocab": [
-        { "fr": "avoir la chance de", "en": "to be lucky to" },
-        { "fr": "rencontrer", "en": "to meet" }
+        { "fr": "avoir la chance de", "en": "to be lucky to", "uk": "мати щастя (щось зробити)" },
+        { "fr": "rencontrer", "en": "to meet", "uk": "знайомитися, зустрічати" }
       ]
     },
     {
       "en": "You are wrong. (formal)",
+      "uk": "Ви помиляєтеся.",
       "fr": "Vous avez tort.",
       "vocab": []
     },
     {
       "en": "My mother is always right.",
+      "uk": "Моя мама завжди має рацію.",
       "fr": "Ma mère a toujours raison.",
       "vocab": [
-        { "fr": "toujours", "en": "always" }
+        { "fr": "toujours", "en": "always", "uk": "завжди" }
       ]
     },
     {
       "en": "They (masc.) are not lucky.",
+      "uk": "Їм (чол.) не щастить.",
       "fr": "Ils n'ont pas de chance.",
       "vocab": [
-        { "fr": "pas de chance", "en": "no luck (de la → de after pas)" }
+        { "fr": "pas de chance", "en": "no luck (de la → de after pas)", "uk": "не щастить (de la → de після pas)" }
       ]
     },
     {
       "en": "She is lucky to live in Québec.",
+      "uk": "Їй пощастило жити в Квебеку.",
       "fr": "Elle a la chance d'habiter au Québec.",
       "vocab": [
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "Am I right?",
+      "uk": "Я маю рацію?",
       "fr": "Est-ce que j'ai raison?",
       "vocab": []
     },
     {
       "en": "You're not wrong. (informal)",
+      "uk": "Ти не помиляєшся.",
       "fr": "Tu n'as pas tort.",
       "vocab": []
     }

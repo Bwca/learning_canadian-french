@@ -1,86 +1,99 @@
 {
-  "title": "Possessifs — leur/leurs (set 7: their things)",
+  "title": {
+    "en": "Possessifs — leur/leurs (set 7: their things)",
+    "uk": "Присвійні — leur/leurs (набір 7: їхні речі)"
+  },
   "exercises": [
     {
       "en": "Their cat is black.",
+      "uk": "Їхній кіт чорний.",
       "fr": "Leur chat est noir.",
       "vocab": [
-        { "fr": "leur", "en": "their" },
-        { "fr": "chat", "en": "cat" }
+        { "fr": "leur", "en": "their", "uk": "їхній" },
+        { "fr": "chat", "en": "cat", "uk": "кіт" }
       ]
     },
     {
       "en": "Their house is big.",
+      "uk": "Їхній будинок великий.",
       "fr": "Leur maison est grande.",
       "vocab": [
-        { "fr": "leur", "en": "their" },
-        { "fr": "maison", "en": "house" }
+        { "fr": "leur", "en": "their", "uk": "їхній" },
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "Their children are happy.",
+      "uk": "Їхні діти задоволені.",
       "fr": "Leurs enfants sont contents.",
       "vocab": [
-        { "fr": "leurs", "en": "their (plural)" },
-        { "fr": "enfant", "en": "child" }
+        { "fr": "leurs", "en": "their (plural)", "uk": "їхні (мн.)" },
+        { "fr": "enfant", "en": "child", "uk": "дитина" }
       ]
     },
     {
       "en": "Their car is new.",
+      "uk": "Їхня машина нова.",
       "fr": "Leur voiture est neuve.",
       "vocab": [
-        { "fr": "leur", "en": "their" },
-        { "fr": "voiture", "en": "car" }
+        { "fr": "leur", "en": "their", "uk": "їхній" },
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "Their books are on the table.",
+      "uk": "Їхні книжки на столі.",
       "fr": "Leurs livres sont sur la table.",
       "vocab": [
-        { "fr": "leurs", "en": "their (plural)" },
-        { "fr": "livre", "en": "book" },
-        { "fr": "table", "en": "table" }
+        { "fr": "leurs", "en": "their (plural)", "uk": "їхні (мн.)" },
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "Their dog is small.",
+      "uk": "Їхній собака маленький.",
       "fr": "Leur chien est petit.",
       "vocab": [
-        { "fr": "leur", "en": "their" },
-        { "fr": "chien", "en": "dog" }
+        { "fr": "leur", "en": "their", "uk": "їхній" },
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     },
     {
       "en": "Their parents are kind.",
+      "uk": "Їхні батьки добрі.",
       "fr": "Leurs parents sont gentils.",
       "vocab": [
-        { "fr": "leurs", "en": "their (plural)" },
-        { "fr": "parents", "en": "parents" }
+        { "fr": "leurs", "en": "their (plural)", "uk": "їхні (мн.)" },
+        { "fr": "parents", "en": "parents", "uk": "батьки" }
       ]
     },
     {
       "en": "Their garden is beautiful.",
+      "uk": "Їхній сад гарний.",
       "fr": "Leur jardin est beau.",
       "vocab": [
-        { "fr": "leur", "en": "their" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "leur", "en": "their", "uk": "їхній" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "Their friends (masc.) are nice.",
+      "uk": "Їхні друзі милі.",
       "fr": "Leurs amis sont gentils.",
       "vocab": [
-        { "fr": "leurs", "en": "their (plural)" },
-        { "fr": "ami", "en": "friend" }
+        { "fr": "leurs", "en": "their (plural)", "uk": "їхні (мн.)" },
+        { "fr": "ami", "en": "friend", "uk": "друг" }
       ]
     },
     {
       "en": "Their teacher is strict.",
+      "uk": "Їхній вчитель суворий.",
       "fr": "Leur professeur est strict.",
       "vocab": [
-        { "fr": "leur", "en": "their" },
-        { "fr": "professeur", "en": "teacher" },
-        { "fr": "strict", "en": "strict" }
+        { "fr": "leur", "en": "their", "uk": "їхній" },
+        { "fr": "professeur", "en": "teacher", "uk": "вчитель" },
+        { "fr": "strict", "en": "strict", "uk": "суворий" }
       ]
     }
   ]

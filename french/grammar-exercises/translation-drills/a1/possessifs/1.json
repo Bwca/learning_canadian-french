@@ -1,87 +1,100 @@
 {
-  "title": "Possessifs — mon/ma/mes (set 1: my family and things)",
+  "title": {
+    "en": "Possessifs — mon/ma/mes (set 1: my family and things)",
+    "uk": "Присвійні — mon/ma/mes (набір 1: моя родина й мої речі)"
+  },
   "exercises": [
     {
       "en": "My brother is tall.",
+      "uk": "Мій брат високий.",
       "fr": "Mon frère est grand.",
       "vocab": [
-        { "fr": "mon", "en": "my (masc. singular)" },
-        { "fr": "frère", "en": "brother" }
+        { "fr": "mon", "en": "my (masc. singular)", "uk": "мій (чол. р., одн.)" },
+        { "fr": "frère", "en": "brother", "uk": "брат" }
       ]
     },
     {
       "en": "My sister is tall.",
+      "uk": "Моя сестра висока.",
       "fr": "Ma sœur est grande.",
       "vocab": [
-        { "fr": "ma", "en": "my (fem. singular)" },
-        { "fr": "sœur", "en": "sister" }
+        { "fr": "ma", "en": "my (fem. singular)", "uk": "моя (жін. р., одн.)" },
+        { "fr": "sœur", "en": "sister", "uk": "сестра" }
       ]
     },
     {
       "en": "My father is fifty years old.",
+      "uk": "Моєму батькові п'ятдесят років.",
       "fr": "Mon père a cinquante ans.",
       "vocab": [
-        { "fr": "mon", "en": "my (masc. singular)" },
-        { "fr": "père", "en": "father" }
+        { "fr": "mon", "en": "my (masc. singular)", "uk": "мій (чол. р., одн.)" },
+        { "fr": "père", "en": "father", "uk": "батько" }
       ]
     },
     {
       "en": "My mother is forty-five years old.",
+      "uk": "Моїй матері сорок п'ять років.",
       "fr": "Ma mère a quarante-cinq ans.",
       "vocab": [
-        { "fr": "ma", "en": "my (fem. singular)" },
-        { "fr": "mère", "en": "mother" }
+        { "fr": "ma", "en": "my (fem. singular)", "uk": "моя (жін. р., одн.)" },
+        { "fr": "mère", "en": "mother", "uk": "мати" }
       ]
     },
     {
       "en": "My keys are in my bag.",
+      "uk": "Мої ключі в моїй сумці.",
       "fr": "Mes clés sont dans mon sac.",
       "vocab": [
-        { "fr": "mes", "en": "my (plural)" },
-        { "fr": "clé", "en": "key" },
-        { "fr": "mon", "en": "my (masc. singular)" },
-        { "fr": "sac", "en": "bag" }
+        { "fr": "mes", "en": "my (plural)", "uk": "мої (мн.)" },
+        { "fr": "clé", "en": "key", "uk": "ключ" },
+        { "fr": "mon", "en": "my (masc. singular)", "uk": "мій (чол. р., одн.)" },
+        { "fr": "sac", "en": "bag", "uk": "сумка" }
       ]
     },
     {
       "en": "My parents are kind.",
+      "uk": "Мої батьки добрі.",
       "fr": "Mes parents sont gentils.",
       "vocab": [
-        { "fr": "mes", "en": "my (plural)" },
-        { "fr": "parents", "en": "parents" }
+        { "fr": "mes", "en": "my (plural)", "uk": "мої (мн.)" },
+        { "fr": "parents", "en": "parents", "uk": "батьки" }
       ]
     },
     {
       "en": "My cousin (fem.) is nice.",
+      "uk": "Моя двоюрідна сестра мила.",
       "fr": "Ma cousine est gentille.",
       "vocab": [
-        { "fr": "ma", "en": "my (fem. singular)" },
-        { "fr": "cousine", "en": "cousin (fem.)" }
+        { "fr": "ma", "en": "my (fem. singular)", "uk": "моя (жін. р., одн.)" },
+        { "fr": "cousine", "en": "cousin (fem.)", "uk": "двоюрідна сестра" }
       ]
     },
     {
       "en": "My shoes are black.",
+      "uk": "Мої черевики чорні.",
       "fr": "Mes chaussures sont noires.",
       "vocab": [
-        { "fr": "mes", "en": "my (plural)" },
-        { "fr": "chaussure", "en": "shoe" }
+        { "fr": "mes", "en": "my (plural)", "uk": "мої (мн.)" },
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" }
       ]
     },
     {
       "en": "My parents are Haitian.",
+      "uk": "Мої батьки гаїтяни.",
       "fr": "Mes parents sont haïtiens.",
       "vocab": [
-        { "fr": "mes", "en": "my (plural)" },
-        { "fr": "parents", "en": "parents" },
-        { "fr": "haïtien", "en": "Haitian" }
+        { "fr": "mes", "en": "my (plural)", "uk": "мої (мн.)" },
+        { "fr": "parents", "en": "parents", "uk": "батьки" },
+        { "fr": "haïtien", "en": "Haitian", "uk": "гаїтянин, гаїтянський" }
       ]
     },
     {
       "en": "My dog is big.",
+      "uk": "Мій собака великий.",
       "fr": "Mon chien est grand.",
       "vocab": [
-        { "fr": "mon", "en": "my (masc. singular)" },
-        { "fr": "chien", "en": "dog" }
+        { "fr": "mon", "en": "my (masc. singular)", "uk": "мій (чол. р., одн.)" },
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     }
   ]

@@ -1,86 +1,99 @@
 {
-  "title": "Articles — definite & indefinite (set 8: definite articles with weather & nature)",
+  "title": {
+    "en": "Articles — definite & indefinite (set 8: definite articles with weather & nature)",
+    "uk": "Articles — означені й неозначені (набір 8: означені артиклі з погодою й природою)"
+  },
   "exercises": [
     {
       "en": "The sun is bright.",
+      "uk": "Сонце яскраве.",
       "fr": "Le soleil est brillant.",
       "vocab": [
-        { "fr": "soleil", "en": "sun" },
-        { "fr": "brillant", "en": "bright" }
+        { "fr": "soleil", "en": "sun", "uk": "сонце" },
+        { "fr": "brillant", "en": "bright", "uk": "яскравий" }
       ]
     },
     {
       "en": "The moon is full tonight.",
+      "uk": "Сьогодні ввечері місяць повний.",
       "fr": "La lune est pleine ce soir.",
       "vocab": [
-        { "fr": "lune", "en": "moon" },
-        { "fr": "pleine", "en": "full (fem.)" },
-        { "fr": "ce soir", "en": "tonight" }
+        { "fr": "lune", "en": "moon", "uk": "місяць (на небі)" },
+        { "fr": "pleine", "en": "full (fem.)", "uk": "повна (жін. р.)" },
+        { "fr": "ce soir", "en": "tonight", "uk": "сьогодні ввечері" }
       ]
     },
     {
       "en": "The stars are beautiful.",
+      "uk": "Зорі гарні.",
       "fr": "Les étoiles sont belles.",
       "vocab": [
-        { "fr": "étoile", "en": "star" },
-        { "fr": "belle", "en": "beautiful (fem.)" }
+        { "fr": "étoile", "en": "star", "uk": "зоря, зірка" },
+        { "fr": "belle", "en": "beautiful (fem.)", "uk": "гарна (жін. р.)" }
       ]
     },
     {
       "en": "The rain is cold.",
+      "uk": "Дощ холодний.",
       "fr": "La pluie est froide.",
       "vocab": [
-        { "fr": "pluie", "en": "rain" },
-        { "fr": "froide", "en": "cold (fem.)" }
+        { "fr": "pluie", "en": "rain", "uk": "дощ" },
+        { "fr": "froide", "en": "cold (fem.)", "uk": "холодна (жін. р.)" }
       ]
     },
     {
       "en": "The wind is strong.",
+      "uk": "Вітер сильний.",
       "fr": "Le vent est fort.",
       "vocab": [
-        { "fr": "vent", "en": "wind" },
-        { "fr": "fort", "en": "strong" }
+        { "fr": "vent", "en": "wind", "uk": "вітер" },
+        { "fr": "fort", "en": "strong", "uk": "сильний" }
       ]
     },
     {
       "en": "The snow is white.",
+      "uk": "Сніг білий.",
       "fr": "La neige est blanche.",
       "vocab": [
-        { "fr": "neige", "en": "snow" },
-        { "fr": "blanche", "en": "white (fem.)" }
+        { "fr": "neige", "en": "snow", "uk": "сніг" },
+        { "fr": "blanche", "en": "white (fem.)", "uk": "біла (жін. р.)" }
       ]
     },
     {
       "en": "The sky is grey today.",
+      "uk": "Сьогодні небо сіре.",
       "fr": "Le ciel est gris aujourd'hui.",
       "vocab": [
-        { "fr": "ciel", "en": "sky" },
-        { "fr": "gris", "en": "grey" },
-        { "fr": "aujourd'hui", "en": "today" }
+        { "fr": "ciel", "en": "sky", "uk": "небо" },
+        { "fr": "gris", "en": "grey", "uk": "сірий" },
+        { "fr": "aujourd'hui", "en": "today", "uk": "сьогодні" }
       ]
     },
     {
       "en": "The sea is calm.",
+      "uk": "Море спокійне.",
       "fr": "La mer est calme.",
       "vocab": [
-        { "fr": "mer", "en": "sea" },
-        { "fr": "calme", "en": "calm" }
+        { "fr": "mer", "en": "sea", "uk": "море" },
+        { "fr": "calme", "en": "calm", "uk": "спокійний" }
       ]
     },
     {
       "en": "The mountain is high.",
+      "uk": "Гора висока.",
       "fr": "La montagne est haute.",
       "vocab": [
-        { "fr": "montagne", "en": "mountain" },
-        { "fr": "haute", "en": "high (fem.)" }
+        { "fr": "montagne", "en": "mountain", "uk": "гора" },
+        { "fr": "haute", "en": "high (fem.)", "uk": "висока (жін. р.)" }
       ]
     },
     {
       "en": "The forest is green.",
+      "uk": "Ліс зелений.",
       "fr": "La forêt est verte.",
       "vocab": [
-        { "fr": "forêt", "en": "forest" },
-        { "fr": "verte", "en": "green (fem.)" }
+        { "fr": "forêt", "en": "forest", "uk": "ліс" },
+        { "fr": "verte", "en": "green (fem.)", "uk": "зелена (жін. р.)" }
       ]
     }
   ]

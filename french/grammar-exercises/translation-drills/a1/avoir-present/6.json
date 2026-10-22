@@ -1,74 +1,87 @@
 {
-  "title": "Avoir — present tense (set 6: possession — pets and animals)",
+  "title": {
+    "en": "Avoir — present tense (set 6: possession — pets and animals)",
+    "uk": "Avoir — теперішній час (набір 6: домашні тварини)"
+  },
   "exercises": [
     {
       "en": "I have a rabbit.",
+      "uk": "У мене є кролик.",
       "fr": "J'ai un lapin.",
       "vocab": [
-        { "fr": "lapin", "en": "rabbit" }
+        { "fr": "lapin", "en": "rabbit", "uk": "кролик" }
       ]
     },
     {
       "en": "She has a bird.",
+      "uk": "У неї є пташка.",
       "fr": "Elle a un oiseau.",
       "vocab": [
-        { "fr": "oiseau", "en": "bird" }
+        { "fr": "oiseau", "en": "bird", "uk": "птах" }
       ]
     },
     {
       "en": "He has a fish.",
+      "uk": "У нього є рибка.",
       "fr": "Il a un poisson.",
       "vocab": [
-        { "fr": "poisson", "en": "fish" }
+        { "fr": "poisson", "en": "fish", "uk": "риба" }
       ]
     },
     {
       "en": "We have a horse.",
+      "uk": "У нас є кінь.",
       "fr": "Nous avons un cheval.",
       "vocab": [
-        { "fr": "cheval", "en": "horse" }
+        { "fr": "cheval", "en": "horse", "uk": "кінь" }
       ]
     },
     {
       "en": "You (informal) have a turtle.",
+      "uk": "У тебе є черепаха.",
       "fr": "Tu as une tortue.",
       "vocab": [
-        { "fr": "tortue", "en": "turtle" }
+        { "fr": "tortue", "en": "turtle", "uk": "черепаха" }
       ]
     },
     {
       "en": "They (masc.) have two dogs.",
+      "uk": "У них (чол.) двоє собак.",
       "fr": "Ils ont deux chiens.",
       "vocab": [
-        { "fr": "chien", "en": "dog" }
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     },
     {
       "en": "I have three cats.",
+      "uk": "У мене три коти.",
       "fr": "J'ai trois chats.",
       "vocab": [
-        { "fr": "chat", "en": "cat" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" }
       ]
     },
     {
       "en": "You (formal) have a hamster.",
+      "uk": "У вас є хом'як.",
       "fr": "Vous avez un hamster.",
       "vocab": [
-        { "fr": "hamster", "en": "hamster" }
+        { "fr": "hamster", "en": "hamster", "uk": "хом'як" }
       ]
     },
     {
       "en": "She has a snake.",
+      "uk": "У неї є змія.",
       "fr": "Elle a un serpent.",
       "vocab": [
-        { "fr": "serpent", "en": "snake" }
+        { "fr": "serpent", "en": "snake", "uk": "змія" }
       ]
     },
     {
       "en": "We have chickens.",
+      "uk": "У нас є кури.",
       "fr": "Nous avons des poules.",
       "vocab": [
-        { "fr": "poule", "en": "chicken/hen" }
+        { "fr": "poule", "en": "chicken/hen", "uk": "курка" }
       ]
     }
   ]

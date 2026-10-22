@@ -1,88 +1,101 @@
 {
-  "title": "Il y a — there is/there are (set 1: statements)",
+  "title": {
+    "en": "Il y a — there is/there are (set 1: statements)",
+    "uk": "Il y a — є (набір 1: ствердження)"
+  },
   "exercises": [
     {
       "en": "There is a cat in the garden.",
+      "uk": "У саду є кіт.",
       "fr": "Il y a un chat dans le jardin.",
       "vocab": [
-        { "fr": "il y a", "en": "there is / there are" },
-        { "fr": "dans", "en": "in" },
-        { "fr": "chat", "en": "cat" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "il y a", "en": "there is / there are", "uk": "є (там є)" },
+        { "fr": "dans", "en": "in", "uk": "в, у" },
+        { "fr": "chat", "en": "cat", "uk": "кіт" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "There is a book on the table.",
+      "uk": "На столі є книжка.",
       "fr": "Il y a un livre sur la table.",
       "vocab": [
-        { "fr": "sur", "en": "on" },
-        { "fr": "livre", "en": "book" },
-        { "fr": "table", "en": "table" }
+        { "fr": "sur", "en": "on", "uk": "на" },
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "There is a car in front of the house.",
+      "uk": "Перед будинком стоїть машина.",
       "fr": "Il y a une voiture devant la maison.",
       "vocab": [
-        { "fr": "devant", "en": "in front of" },
-        { "fr": "voiture", "en": "car" },
-        { "fr": "maison", "en": "house" }
+        { "fr": "devant", "en": "in front of", "uk": "перед" },
+        { "fr": "voiture", "en": "car", "uk": "машина" },
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "There are apples in the basket.",
+      "uk": "У кошику є яблука.",
       "fr": "Il y a des pommes dans le panier.",
       "vocab": [
-        { "fr": "panier", "en": "basket" },
-        { "fr": "pomme", "en": "apple" }
+        { "fr": "panier", "en": "basket", "uk": "кошик" },
+        { "fr": "pomme", "en": "apple", "uk": "яблуко" }
       ]
     },
     {
       "en": "There is a student in the classroom.",
+      "uk": "У класі є студент.",
       "fr": "Il y a un étudiant dans la salle de classe.",
       "vocab": [
-        { "fr": "salle de classe", "en": "classroom" },
-        { "fr": "étudiant", "en": "student" }
+        { "fr": "salle de classe", "en": "classroom", "uk": "клас (кімната)" },
+        { "fr": "étudiant", "en": "student", "uk": "студент" }
       ]
     },
     {
       "en": "There are children in the park.",
+      "uk": "У парку є діти.",
       "fr": "Il y a des enfants dans le parc.",
       "vocab": [
-        { "fr": "parc", "en": "park" },
-        { "fr": "enfant", "en": "child" }
+        { "fr": "parc", "en": "park", "uk": "парк" },
+        { "fr": "enfant", "en": "child", "uk": "дитина" }
       ]
     },
     {
       "en": "There is a bag in the car.",
+      "uk": "У машині є сумка.",
       "fr": "Il y a un sac dans la voiture.",
       "vocab": [
-        { "fr": "sac", "en": "bag" },
-        { "fr": "voiture", "en": "car" }
+        { "fr": "sac", "en": "bag", "uk": "сумка" },
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "There are eggs in the fridge.",
+      "uk": "У холодильнику є яйця.",
       "fr": "Il y a des œufs dans le frigo.",
       "vocab": [
-        { "fr": "œuf", "en": "egg" },
-        { "fr": "frigo", "en": "fridge" }
+        { "fr": "œuf", "en": "egg", "uk": "яйце" },
+        { "fr": "frigo", "en": "fridge", "uk": "холодильник" }
       ]
     },
     {
       "en": "There are books at the library.",
+      "uk": "У бібліотеці є книжки.",
       "fr": "Il y a des livres à la bibliothèque.",
       "vocab": [
-        { "fr": "bibliothèque", "en": "library" },
-        { "fr": "livre", "en": "book" }
+        { "fr": "bibliothèque", "en": "library", "uk": "бібліотека" },
+        { "fr": "livre", "en": "book", "uk": "книжка" }
       ]
     },
     {
       "en": "There is a bird in the tree.",
+      "uk": "На дереві є пташка.",
       "fr": "Il y a un oiseau dans l'arbre.",
       "vocab": [
-        { "fr": "oiseau", "en": "bird" },
-        { "fr": "arbre", "en": "tree" }
+        { "fr": "oiseau", "en": "bird", "uk": "птах" },
+        { "fr": "arbre", "en": "tree", "uk": "дерево" }
       ]
     }
   ]

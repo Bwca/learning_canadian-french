@@ -1,85 +1,98 @@
 {
-  "title": "Articles — definite & indefinite (set 10: mixed review)",
+  "title": {
+    "en": "Articles — definite & indefinite (set 10: mixed review)",
+    "uk": "Articles — означені й неозначені (набір 10: повторення)"
+  },
   "exercises": [
     {
       "en": "I have a car and the car is red.",
+      "uk": "У мене є машина, і (ця) машина червона.",
       "fr": "J'ai une voiture et la voiture est rouge.",
       "vocab": [
-        { "fr": "voiture", "en": "car" },
-        { "fr": "rouge", "en": "red" }
+        { "fr": "voiture", "en": "car", "uk": "машина" },
+        { "fr": "rouge", "en": "red", "uk": "червоний" }
       ]
     },
     {
       "en": "She has a hat and the hat is blue.",
+      "uk": "У неї є капелюх, і (цей) капелюх синій.",
       "fr": "Elle a un chapeau et le chapeau est bleu.",
       "vocab": [
-        { "fr": "chapeau", "en": "hat" },
-        { "fr": "bleu", "en": "blue" }
+        { "fr": "chapeau", "en": "hat", "uk": "капелюх" },
+        { "fr": "bleu", "en": "blue", "uk": "синій" }
       ]
     },
     {
       "en": "We like the mountains.",
+      "uk": "Ми любимо гори.",
       "fr": "Nous aimons les montagnes.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "montagne", "en": "mountain" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "montagne", "en": "mountain", "uk": "гора" }
       ]
     },
     {
       "en": "He has an idea and the idea is good.",
+      "uk": "У нього є ідея, і (ця) ідея добра.",
       "fr": "Il a une idée et l'idée est bonne.",
       "vocab": [
-        { "fr": "idée", "en": "idea" },
-        { "fr": "bonne", "en": "good (fem.)" }
+        { "fr": "idée", "en": "idea", "uk": "ідея" },
+        { "fr": "bonne", "en": "good (fem.)", "uk": "добра (жін. р.)" }
       ]
     },
     {
       "en": "They (fem.) have flowers and the flowers are beautiful.",
+      "uk": "У них (жін.) є квіти, і (ці) квіти гарні.",
       "fr": "Elles ont des fleurs et les fleurs sont belles.",
       "vocab": [
-        { "fr": "fleur", "en": "flower" },
-        { "fr": "belle", "en": "beautiful (fem.)" }
+        { "fr": "fleur", "en": "flower", "uk": "квітка" },
+        { "fr": "belle", "en": "beautiful (fem.)", "uk": "гарна (жін. р.)" }
       ]
     },
     {
       "en": "I like the snow.",
+      "uk": "Я люблю сніг.",
       "fr": "J'aime la neige.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "neige", "en": "snow" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "neige", "en": "snow", "uk": "сніг" }
       ]
     },
     {
       "en": "You (informal) have a dog and the dog is big.",
+      "uk": "У тебе є собака, і (цей) собака великий.",
       "fr": "Tu as un chien et le chien est grand.",
       "vocab": [
-        { "fr": "chien", "en": "dog" },
-        { "fr": "grand", "en": "big / tall" }
+        { "fr": "chien", "en": "dog", "uk": "собака" },
+        { "fr": "grand", "en": "big / tall", "uk": "великий / високий" }
       ]
     },
     {
       "en": "The children have books and the books are new.",
+      "uk": "У дітей є книжки, і (ці) книжки нові.",
       "fr": "Les enfants ont des livres et les livres sont nouveaux.",
       "vocab": [
-        { "fr": "enfant", "en": "child" },
-        { "fr": "livre", "en": "book" },
-        { "fr": "nouveau", "en": "new (masc.)" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "nouveau", "en": "new (masc.)", "uk": "новий (чол. р.)" }
       ]
     },
     {
       "en": "We are in the kitchen and the kitchen is clean.",
+      "uk": "Ми на кухні, і (ця) кухня чиста.",
       "fr": "Nous sommes dans la cuisine et la cuisine est propre.",
       "vocab": [
-        { "fr": "cuisine", "en": "kitchen" },
-        { "fr": "propre", "en": "clean" }
+        { "fr": "cuisine", "en": "kitchen", "uk": "кухня" },
+        { "fr": "propre", "en": "clean", "uk": "чистий" }
       ]
     },
     {
       "en": "He likes the sea.",
+      "uk": "Він любить море.",
       "fr": "Il aime la mer.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "mer", "en": "sea" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "mer", "en": "sea", "uk": "море" }
       ]
     }
   ]

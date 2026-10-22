@@ -1,85 +1,98 @@
 {
-  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 8: il y a with weather & nature)",
+  "title": {
+    "en": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 8: il y a with weather & nature)",
+    "uk": "Заперечення — pas de (без du/de la/de l'/des/un/une) (набір 8: il y a з погодою і природою)"
+  },
   "exercises": [
     {
       "en": "There isn't any wind today.",
+      "uk": "Сьогодні немає вітру.",
       "fr": "Il n'y a pas de vent aujourd'hui.",
       "vocab": [
-        { "fr": "vent", "en": "wind" },
-        { "fr": "aujourd'hui", "en": "today" }
+        { "fr": "vent", "en": "wind", "uk": "вітер" },
+        { "fr": "aujourd'hui", "en": "today", "uk": "сьогодні" }
       ]
     },
     {
       "en": "There isn't any sun this morning.",
+      "uk": "Сьогодні вранці немає сонця.",
       "fr": "Il n'y a pas de soleil ce matin.",
       "vocab": [
-        { "fr": "soleil", "en": "sun" },
-        { "fr": "ce matin", "en": "this morning" }
+        { "fr": "soleil", "en": "sun", "uk": "сонце" },
+        { "fr": "ce matin", "en": "this morning", "uk": "сьогодні вранці" }
       ]
     },
     {
       "en": "There isn't any snow in summer.",
+      "uk": "Влітку немає снігу.",
       "fr": "Il n'y a pas de neige en été.",
       "vocab": [
-        { "fr": "neige", "en": "snow" },
-        { "fr": "en été", "en": "in summer" }
+        { "fr": "neige", "en": "snow", "uk": "сніг" },
+        { "fr": "en été", "en": "in summer", "uk": "влітку" }
       ]
     },
     {
       "en": "There isn't any rain this week.",
+      "uk": "Цього тижня немає дощу.",
       "fr": "Il n'y a pas de pluie cette semaine.",
       "vocab": [
-        { "fr": "pluie", "en": "rain" },
-        { "fr": "cette semaine", "en": "this week" }
+        { "fr": "pluie", "en": "rain", "uk": "дощ" },
+        { "fr": "cette semaine", "en": "this week", "uk": "цього тижня" }
       ]
     },
     {
       "en": "There isn't any fog this evening.",
+      "uk": "Сьогодні ввечері немає туману.",
       "fr": "Il n'y a pas de brouillard ce soir.",
       "vocab": [
-        { "fr": "brouillard", "en": "fog" },
-        { "fr": "ce soir", "en": "this evening" }
+        { "fr": "brouillard", "en": "fog", "uk": "туман" },
+        { "fr": "ce soir", "en": "this evening", "uk": "сьогодні ввечері" }
       ]
     },
     {
       "en": "There aren't any clouds in the sky.",
+      "uk": "На небі немає хмар.",
       "fr": "Il n'y a pas de nuages dans le ciel.",
       "vocab": [
-        { "fr": "nuage", "en": "cloud" },
-        { "fr": "ciel", "en": "sky" }
+        { "fr": "nuage", "en": "cloud", "uk": "хмара" },
+        { "fr": "ciel", "en": "sky", "uk": "небо" }
       ]
     },
     {
       "en": "There isn't any ice on the road.",
+      "uk": "На дорозі немає льоду.",
       "fr": "Il n'y a pas de glace sur la route.",
       "vocab": [
-        { "fr": "glace", "en": "ice" },
-        { "fr": "route", "en": "road" }
+        { "fr": "glace", "en": "ice", "uk": "лід" },
+        { "fr": "route", "en": "road", "uk": "дорога" }
       ]
     },
     {
       "en": "There isn't any storm this weekend.",
+      "uk": "Цих вихідних немає бурі.",
       "fr": "Il n'y a pas de tempête ce week-end.",
       "vocab": [
-        { "fr": "tempête", "en": "storm" },
-        { "fr": "ce week-end", "en": "this weekend" }
+        { "fr": "tempête", "en": "storm", "uk": "буря" },
+        { "fr": "ce week-end", "en": "this weekend", "uk": "цих вихідних" }
       ]
     },
     {
       "en": "There isn't any strong wind today.",
+      "uk": "Сьогодні немає сильного вітру.",
       "fr": "Il n'y a pas de vent fort aujourd'hui.",
       "vocab": [
-        { "fr": "vent", "en": "wind" },
-        { "fr": "fort", "en": "strong" },
-        { "fr": "aujourd'hui", "en": "today" }
+        { "fr": "vent", "en": "wind", "uk": "вітер" },
+        { "fr": "fort", "en": "strong", "uk": "сильний" },
+        { "fr": "aujourd'hui", "en": "today", "uk": "сьогодні" }
       ]
     },
     {
       "en": "There isn't any heat in winter.",
+      "uk": "Взимку немає спеки.",
       "fr": "Il n'y a pas de chaleur en hiver.",
       "vocab": [
-        { "fr": "chaleur", "en": "heat" },
-        { "fr": "en hiver", "en": "in winter" }
+        { "fr": "chaleur", "en": "heat", "uk": "спека" },
+        { "fr": "en hiver", "en": "in winter", "uk": "взимку" }
       ]
     }
   ]

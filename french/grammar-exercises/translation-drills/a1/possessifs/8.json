@@ -1,89 +1,102 @@
 {
-  "title": "Possessifs — mixed persons, with family vocabulary",
+  "title": {
+    "en": "Possessifs — mixed persons, with family vocabulary",
+    "uk": "Присвійні — різні особи, слова про родину"
+  },
   "exercises": [
     {
       "en": "My mother is kind.",
+      "uk": "Моя мати добра.",
       "fr": "Ma mère est gentille.",
       "vocab": [
-        { "fr": "ma", "en": "my (fem. singular)" },
-        { "fr": "mère", "en": "mother" }
+        { "fr": "ma", "en": "my (fem. singular)", "uk": "моя (жін. р., одн.)" },
+        { "fr": "mère", "en": "mother", "uk": "мати" }
       ]
     },
     {
       "en": "Your (informal) father is tall.",
+      "uk": "Твій батько високий.",
       "fr": "Ton père est grand.",
       "vocab": [
-        { "fr": "ton", "en": "your (masc. singular, informal)" },
-        { "fr": "père", "en": "father" }
+        { "fr": "ton", "en": "your (masc. singular, informal)", "uk": "твій (чол. р., одн.)" },
+        { "fr": "père", "en": "father", "uk": "батько" }
       ]
     },
     {
       "en": "His grandmother is eighty years old.",
+      "uk": "Його бабусі вісімдесят років.",
       "fr": "Sa grand-mère a quatre-vingts ans.",
       "vocab": [
-        { "fr": "sa", "en": "his/her (fem. singular)" },
-        { "fr": "grand-mère", "en": "grandmother" },
-        { "fr": "quatre-vingts", "en": "eighty" }
+        { "fr": "sa", "en": "his/her (fem. singular)", "uk": "його / її (жін. р., одн.)" },
+        { "fr": "grand-mère", "en": "grandmother", "uk": "бабуся" },
+        { "fr": "quatre-vingts", "en": "eighty", "uk": "вісімдесят" }
       ]
     },
     {
       "en": "Her grandfather is seventy years old.",
+      "uk": "Її дідусеві сімдесят років.",
       "fr": "Son grand-père a soixante-dix ans.",
       "vocab": [
-        { "fr": "son", "en": "his/her (masc. singular)" },
-        { "fr": "grand-père", "en": "grandfather" }
+        { "fr": "son", "en": "his/her (masc. singular)", "uk": "його / її (чол. р., одн.)" },
+        { "fr": "grand-père", "en": "grandfather", "uk": "дідусь" }
       ]
     },
     {
       "en": "Our uncle is nice.",
+      "uk": "Наш дядько добрий.",
       "fr": "Notre oncle est gentil.",
       "vocab": [
-        { "fr": "notre", "en": "our (singular)" },
-        { "fr": "oncle", "en": "uncle" }
+        { "fr": "notre", "en": "our (singular)", "uk": "наш (одн.)" },
+        { "fr": "oncle", "en": "uncle", "uk": "дядько" }
       ]
     },
     {
       "en": "Your (formal) aunt is here.",
+      "uk": "Ваша тітка тут.",
       "fr": "Votre tante est ici.",
       "vocab": [
-        { "fr": "votre", "en": "your (formal, singular)" },
-        { "fr": "tante", "en": "aunt" },
-        { "fr": "ici", "en": "here" }
+        { "fr": "votre", "en": "your (formal, singular)", "uk": "ваш (одн.)" },
+        { "fr": "tante", "en": "aunt", "uk": "тітка" },
+        { "fr": "ici", "en": "here", "uk": "тут" }
       ]
     },
     {
       "en": "Their cousins (masc.) are young.",
+      "uk": "Їхні двоюрідні брати молоді.",
       "fr": "Leurs cousins sont jeunes.",
       "vocab": [
-        { "fr": "leurs", "en": "their (plural)" },
-        { "fr": "cousin", "en": "cousin" },
-        { "fr": "jeune", "en": "young" }
+        { "fr": "leurs", "en": "their (plural)", "uk": "їхні (мн.)" },
+        { "fr": "cousin", "en": "cousin", "uk": "двоюрідний брат" },
+        { "fr": "jeune", "en": "young", "uk": "молодий" }
       ]
     },
     {
       "en": "My niece is small.",
+      "uk": "Моя племінниця маленька.",
       "fr": "Ma nièce est petite.",
       "vocab": [
-        { "fr": "ma", "en": "my (fem. singular)" },
-        { "fr": "nièce", "en": "niece" }
+        { "fr": "ma", "en": "my (fem. singular)", "uk": "моя (жін. р., одн.)" },
+        { "fr": "nièce", "en": "niece", "uk": "племінниця" }
       ]
     },
     {
       "en": "Your (informal) nephew is funny.",
+      "uk": "Твій племінник кумедний.",
       "fr": "Ton neveu est drôle.",
       "vocab": [
-        { "fr": "ton", "en": "your (masc. singular, informal)" },
-        { "fr": "neveu", "en": "nephew" },
-        { "fr": "drôle", "en": "funny" }
+        { "fr": "ton", "en": "your (masc. singular, informal)", "uk": "твій (чол. р., одн.)" },
+        { "fr": "neveu", "en": "nephew", "uk": "племінник" },
+        { "fr": "drôle", "en": "funny", "uk": "кумедний, смішний" }
       ]
     },
     {
       "en": "Her sister is a teacher.",
+      "uk": "Її сестра вчителька.",
       "fr": "Sa sœur est professeure.",
       "vocab": [
-        { "fr": "sa", "en": "his/her (fem. singular)" },
-        { "fr": "sœur", "en": "sister" },
-        { "fr": "professeure", "en": "teacher (fem.)" }
+        { "fr": "sa", "en": "his/her (fem. singular)", "uk": "його / її (жін. р., одн.)" },
+        { "fr": "sœur", "en": "sister", "uk": "сестра" },
+        { "fr": "professeure", "en": "teacher (fem.)", "uk": "вчителька" }
       ]
     }
   ]

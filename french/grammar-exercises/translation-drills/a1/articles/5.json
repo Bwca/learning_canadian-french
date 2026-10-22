@@ -1,82 +1,95 @@
 {
-  "title": "Articles — definite & indefinite (set 5: mixed review)",
+  "title": {
+    "en": "Articles — definite & indefinite (set 5: mixed review)",
+    "uk": "Articles — означені й неозначені (набір 5: повторення)"
+  },
   "exercises": [
     {
       "en": "The cat is in the garden.",
+      "uk": "Кіт у саду.",
       "fr": "Le chat est dans le jardin.",
       "vocab": [
-        { "fr": "chat", "en": "cat" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "The cat is black.",
+      "uk": "Кіт чорний.",
       "fr": "Le chat est noir.",
       "vocab": [
-        { "fr": "chat", "en": "cat" },
-        { "fr": "noir", "en": "black" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" },
+        { "fr": "noir", "en": "black", "uk": "чорний" }
       ]
     },
     {
       "en": "I like chocolate.",
+      "uk": "Я люблю шоколад.",
       "fr": "J'aime le chocolat.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "chocolat", "en": "chocolate" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "chocolat", "en": "chocolate", "uk": "шоколад" }
       ]
     },
     {
       "en": "I have a car.",
+      "uk": "У мене є машина.",
       "fr": "J'ai une voiture.",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "We are at the restaurant.",
+      "uk": "Ми в ресторані.",
       "fr": "Nous sommes au restaurant.",
       "vocab": [
-        { "fr": "au", "en": "to/at the (à + le)" },
-        { "fr": "restaurant", "en": "restaurant" }
+        { "fr": "au", "en": "to/at the (à + le)", "uk": "au = у, до (à + le)" },
+        { "fr": "restaurant", "en": "restaurant", "uk": "ресторан" }
       ]
     },
     {
       "en": "I have eggs in the basket.",
+      "uk": "У мене в кошику яйця.",
       "fr": "J'ai des œufs dans le panier.",
       "vocab": [
-        { "fr": "œuf", "en": "egg" },
-        { "fr": "panier", "en": "basket" }
+        { "fr": "œuf", "en": "egg", "uk": "яйце" },
+        { "fr": "panier", "en": "basket", "uk": "кошик" }
       ]
     },
     {
       "en": "The children are at school.",
+      "uk": "Діти в школі.",
       "fr": "Les enfants sont à l'école.",
       "vocab": [
-        { "fr": "enfant", "en": "child" },
-        { "fr": "école", "en": "school" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "école", "en": "school", "uk": "школа" }
       ]
     },
     {
       "en": "He has a friend (masc.).",
+      "uk": "У нього є друг.",
       "fr": "Il a un ami.",
       "vocab": [
-        { "fr": "ami", "en": "friend (masc.)" }
+        { "fr": "ami", "en": "friend (masc.)", "uk": "друг" }
       ]
     },
     {
       "en": "The friend is nice.",
+      "uk": "Друг (цей) милий.",
       "fr": "L'ami est gentil.",
       "vocab": [
-        { "fr": "ami", "en": "friend (masc.)" },
-        { "fr": "gentil", "en": "nice (masc.)" }
+        { "fr": "ami", "en": "friend (masc.)", "uk": "друг" },
+        { "fr": "gentil", "en": "nice (masc.)", "uk": "милий (чол. р.)" }
       ]
     },
     {
       "en": "We have a cat and a dog.",
+      "uk": "У нас є кіт і собака.",
       "fr": "Nous avons un chat et un chien.",
       "vocab": [
-        { "fr": "chat", "en": "cat" },
-        { "fr": "chien", "en": "dog" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" },
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     }
   ]

@@ -1,83 +1,96 @@
 {
-  "title": "Verbes en -er — present tense (set 4: verbs starting with a vowel, j' and liaison)",
+  "title": {
+    "en": "Verbes en -er — present tense (set 4: verbs starting with a vowel, j' and liaison)",
+    "uk": "Дієслова на -er — теперішній час (набір 4: дієслова на голосну, j' і зв'язування)"
+  },
   "exercises": [
     {
       "en": "I love Quebec.",
+      "uk": "Я обожнюю Квебек.",
       "fr": "J'adore le Québec.",
       "vocab": [
-        { "fr": "adorer", "en": "to love / to adore" },
-        { "fr": "le Québec", "en": "Quebec (the province)" }
+        { "fr": "adorer", "en": "to love / to adore", "uk": "обожнювати" },
+        { "fr": "le Québec", "en": "Quebec (the province)", "uk": "Квебек (провінція)" }
       ]
     },
     {
       "en": "I arrive at eight o'clock.",
+      "uk": "Я приїжджаю о восьмій.",
       "fr": "J'arrive à huit heures.",
       "vocab": [
-        { "fr": "arriver", "en": "to arrive" },
-        { "fr": "huit heures", "en": "eight o'clock" }
+        { "fr": "arriver", "en": "to arrive", "uk": "прибувати, приїжджати" },
+        { "fr": "huit heures", "en": "eight o'clock", "uk": "восьма година" }
       ]
     },
     {
       "en": "I help my brother.",
+      "uk": "Я допомагаю братові.",
       "fr": "J'aide mon frère.",
       "vocab": [
-        { "fr": "aider", "en": "to help" },
-        { "fr": "frère", "en": "brother" }
+        { "fr": "aider", "en": "to help", "uk": "допомагати" },
+        { "fr": "frère", "en": "brother", "uk": "брат" }
       ]
     },
     {
       "en": "We invite the neighbours.",
+      "uk": "Ми запрошуємо сусідів.",
       "fr": "Nous invitons les voisins.",
       "vocab": [
-        { "fr": "inviter", "en": "to invite" },
-        { "fr": "voisin", "en": "neighbour" }
+        { "fr": "inviter", "en": "to invite", "uk": "запрошувати" },
+        { "fr": "voisin", "en": "neighbour", "uk": "сусід" }
       ]
     },
     {
       "en": "You (formal/plural) use the computer.",
+      "uk": "Ви користуєтеся комп'ютером.",
       "fr": "Vous utilisez l'ordinateur.",
       "vocab": [
-        { "fr": "utiliser", "en": "to use" },
-        { "fr": "ordinateur", "en": "computer" }
+        { "fr": "utiliser", "en": "to use", "uk": "користуватися, використовувати" },
+        { "fr": "ordinateur", "en": "computer", "uk": "комп'ютер" }
       ]
     },
     {
       "en": "They (masc.) love dogs.",
+      "uk": "Вони (чол.) люблять собак.",
       "fr": "Ils aiment les chiens.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити, подобатися" }
       ]
     },
     {
       "en": "They (fem.) arrive tomorrow.",
+      "uk": "Вони (жін.) приїжджають завтра.",
       "fr": "Elles arrivent demain.",
       "vocab": [
-        { "fr": "arriver", "en": "to arrive" },
-        { "fr": "demain", "en": "tomorrow" }
+        { "fr": "arriver", "en": "to arrive", "uk": "прибувати, приїжджати" },
+        { "fr": "demain", "en": "tomorrow", "uk": "завтра" }
       ]
     },
     {
       "en": "I listen to the news.",
+      "uk": "Я слухаю новини.",
       "fr": "J'écoute les nouvelles.",
       "vocab": [
-        { "fr": "écouter", "en": "to listen to" },
-        { "fr": "nouvelles", "en": "news" }
+        { "fr": "écouter", "en": "to listen to", "uk": "слухати" },
+        { "fr": "nouvelles", "en": "news", "uk": "новини" }
       ]
     },
     {
       "en": "I live on Sainte-Catherine Street.",
+      "uk": "Я живу на вулиці Сент-Катрін.",
       "fr": "J'habite sur la rue Sainte-Catherine.",
       "vocab": [
-        { "fr": "habiter", "en": "to live" },
-        { "fr": "rue", "en": "street" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" },
+        { "fr": "rue", "en": "street", "uk": "вулиця" }
       ]
     },
     {
       "en": "I study at the library.",
+      "uk": "Я навчаюся в бібліотеці.",
       "fr": "J'étudie à la bibliothèque.",
       "vocab": [
-        { "fr": "étudier", "en": "to study" },
-        { "fr": "bibliothèque", "en": "library" }
+        { "fr": "étudier", "en": "to study", "uk": "навчатися, вивчати" },
+        { "fr": "bibliothèque", "en": "library", "uk": "бібліотека" }
       ]
     }
   ]

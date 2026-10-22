@@ -1,75 +1,88 @@
 {
-  "title": "Negation — ne...pas (set 6: with être, continued)",
+  "title": {
+    "en": "Negation — ne...pas (set 6: with être, continued)",
+    "uk": "Заперечення — ne...pas (набір 6: з être, продовження)"
+  },
   "exercises": [
     {
       "en": "I am not busy.",
+      "uk": "Я не зайнятий.",
       "fr": "Je ne suis pas occupé.",
       "vocab": [
-        { "fr": "occupé", "en": "busy" }
+        { "fr": "occupé", "en": "busy", "uk": "зайнятий" }
       ]
     },
     {
       "en": "He is not nervous.",
+      "uk": "Він не нервовий.",
       "fr": "Il n'est pas nerveux.",
       "vocab": [
-        { "fr": "nerveux", "en": "nervous" }
+        { "fr": "nerveux", "en": "nervous", "uk": "нервовий" }
       ]
     },
     {
       "en": "We are not Canadian.",
+      "uk": "Ми не канадці.",
       "fr": "Nous ne sommes pas canadiens.",
       "vocab": [
-        { "fr": "canadien", "en": "Canadian" }
+        { "fr": "canadien", "en": "Canadian", "uk": "канадієць, канадський" }
       ]
     },
     {
       "en": "You (informal) are not sick.",
+      "uk": "Ти не хворий.",
       "fr": "Tu n'es pas malade.",
       "vocab": [
-        { "fr": "malade", "en": "sick" }
+        { "fr": "malade", "en": "sick", "uk": "хворий" }
       ]
     },
     {
       "en": "She is not a teacher.",
+      "uk": "Вона не вчителька.",
       "fr": "Elle n'est pas professeure.",
       "vocab": [
-        { "fr": "professeure", "en": "teacher (fem.)" }
+        { "fr": "professeure", "en": "teacher (fem.)", "uk": "вчителька" }
       ]
     },
     {
       "en": "They (fem.) are not calm.",
+      "uk": "Вони (жін.) не спокійні.",
       "fr": "Elles ne sont pas calmes.",
       "vocab": [
-        { "fr": "calme", "en": "calm" }
+        { "fr": "calme", "en": "calm", "uk": "спокійний" }
       ]
     },
     {
       "en": "I am not excited.",
+      "uk": "Я не схвильований.",
       "fr": "Je ne suis pas excité.",
       "vocab": [
-        { "fr": "excité", "en": "excited" }
+        { "fr": "excité", "en": "excited", "uk": "схвильований" }
       ]
     },
     {
       "en": "You (formal/plural) are not tired.",
+      "uk": "Ви не втомлені.",
       "fr": "Vous n'êtes pas fatigués.",
       "vocab": [
-        { "fr": "fatigué", "en": "tired" }
+        { "fr": "fatigué", "en": "tired", "uk": "втомлений" }
       ]
     },
     {
       "en": "The children are not quiet.",
+      "uk": "Діти неспокійні.",
       "fr": "Les enfants ne sont pas calmes.",
       "vocab": [
-        { "fr": "enfant", "en": "child" },
-        { "fr": "calme", "en": "calm / quiet" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "calme", "en": "calm / quiet", "uk": "спокійний, тихий" }
       ]
     },
     {
       "en": "He is not proud.",
+      "uk": "Він не гордий.",
       "fr": "Il n'est pas fier.",
       "vocab": [
-        { "fr": "fier", "en": "proud" }
+        { "fr": "fier", "en": "proud", "uk": "гордий" }
       ]
     }
   ]

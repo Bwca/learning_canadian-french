@@ -1,74 +1,87 @@
 {
-  "title": "Accord des adjectifs — gender agreement (set 3: -eux/-euse and -eur/-euse endings)",
+  "title": {
+    "en": "Accord des adjectifs — gender agreement (set 3: -eux/-euse and -eur/-euse endings)",
+    "uk": "Accord des adjectifs — узгодження в роді (набір 3: закінчення -eux/-euse та -eur/-euse)"
+  },
   "exercises": [
     {
       "en": "The man is happy.",
+      "uk": "Чоловік щасливий.",
       "fr": "L'homme est heureux.",
       "vocab": [
-        { "fr": "heureux", "en": "happy" }
+        { "fr": "heureux", "en": "happy", "uk": "щасливий" }
       ]
     },
     {
       "en": "The woman is happy.",
+      "uk": "Жінка щаслива.",
       "fr": "La femme est heureuse.",
       "vocab": [
-        { "fr": "heureuse", "en": "happy (fem.)" }
+        { "fr": "heureuse", "en": "happy (fem.)", "uk": "щаслива (жін. р.)" }
       ]
     },
     {
       "en": "The animal is dangerous.",
+      "uk": "Тварина небезпечна.",
       "fr": "L'animal est dangereux.",
       "vocab": [
-        { "fr": "dangereux", "en": "dangerous" }
+        { "fr": "dangereux", "en": "dangerous", "uk": "небезпечний" }
       ]
     },
     {
       "en": "The storm is dangerous.",
+      "uk": "Буря небезпечна.",
       "fr": "La tempête est dangereuse.",
       "vocab": [
-        { "fr": "dangereuse", "en": "dangerous (fem.)" }
+        { "fr": "dangereuse", "en": "dangerous (fem.)", "uk": "небезпечна (жін. р.)" }
       ]
     },
     {
       "en": "The boy is lazy.",
+      "uk": "Хлопчик лінивий.",
       "fr": "Le garçon est paresseux.",
       "vocab": [
-        { "fr": "paresseux", "en": "lazy" }
+        { "fr": "paresseux", "en": "lazy", "uk": "лінивий" }
       ]
     },
     {
       "en": "The girl is lazy.",
+      "uk": "Дівчинка лінива.",
       "fr": "La fille est paresseuse.",
       "vocab": [
-        { "fr": "paresseuse", "en": "lazy (fem.)" }
+        { "fr": "paresseuse", "en": "lazy (fem.)", "uk": "лінива (жін. р.)" }
       ]
     },
     {
       "en": "The student (masc.) is curious.",
+      "uk": "Студент допитливий.",
       "fr": "L'étudiant est curieux.",
       "vocab": [
-        { "fr": "curieux", "en": "curious" }
+        { "fr": "curieux", "en": "curious", "uk": "допитливий" }
       ]
     },
     {
       "en": "The student (fem.) is curious.",
+      "uk": "Студентка допитлива.",
       "fr": "L'étudiante est curieuse.",
       "vocab": [
-        { "fr": "curieuse", "en": "curious (fem.)" }
+        { "fr": "curieuse", "en": "curious (fem.)", "uk": "допитлива (жін. р.)" }
       ]
     },
     {
       "en": "The boy is mocking.",
+      "uk": "Хлопчик насмішкуватий.",
       "fr": "Le garçon est moqueur.",
       "vocab": [
-        { "fr": "moqueur", "en": "mocking" }
+        { "fr": "moqueur", "en": "mocking", "uk": "насмішкуватий" }
       ]
     },
     {
       "en": "The girl is mocking.",
+      "uk": "Дівчинка насмішкувата.",
       "fr": "La fille est moqueuse.",
       "vocab": [
-        { "fr": "moqueuse", "en": "mocking (fem.)" }
+        { "fr": "moqueuse", "en": "mocking (fem.)", "uk": "насмішкувата (жін. р.)" }
       ]
     }
   ]

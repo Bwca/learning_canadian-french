@@ -1,84 +1,97 @@
 {
-  "title": "Être — present tense (set 8: colours and objects, mixed adjective review)",
+  "title": {
+    "en": "Être — present tense (set 8: colours and objects, mixed adjective review)",
+    "uk": "Être — теперішній час (набір 8: кольори й речі, повторення прикметників)"
+  },
   "exercises": [
     {
       "en": "The pen is blue.",
+      "uk": "Ручка синя.",
       "fr": "Le stylo est bleu.",
       "vocab": [
-        { "fr": "stylo", "en": "pen" },
-        { "fr": "bleu", "en": "blue" }
+        { "fr": "stylo", "en": "pen", "uk": "ручка" },
+        { "fr": "bleu", "en": "blue", "uk": "синій" }
       ]
     },
     {
       "en": "The bag is brown.",
+      "uk": "Сумка коричнева.",
       "fr": "Le sac est marron.",
       "vocab": [
-        { "fr": "sac", "en": "bag" },
-        { "fr": "marron", "en": "brown" }
+        { "fr": "sac", "en": "bag", "uk": "сумка" },
+        { "fr": "marron", "en": "brown", "uk": "коричневий" }
       ]
     },
     {
       "en": "The shoes are white.",
+      "uk": "Черевики білі.",
       "fr": "Les chaussures sont blanches.",
       "vocab": [
-        { "fr": "chaussure", "en": "shoe" },
-        { "fr": "blanche", "en": "white (fem.)" }
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" },
+        { "fr": "blanche", "en": "white (fem.)", "uk": "білий (жін. р.)" }
       ]
     },
     {
       "en": "The car is grey.",
+      "uk": "Машина сіра.",
       "fr": "La voiture est grise.",
       "vocab": [
-        { "fr": "voiture", "en": "car" },
-        { "fr": "grise", "en": "grey (fem.)" }
+        { "fr": "voiture", "en": "car", "uk": "машина" },
+        { "fr": "grise", "en": "grey (fem.)", "uk": "сіра (жін. р.)" }
       ]
     },
     {
       "en": "The flowers are yellow.",
+      "uk": "Квіти жовті.",
       "fr": "Les fleurs sont jaunes.",
       "vocab": [
-        { "fr": "fleur", "en": "flower" },
-        { "fr": "jaune", "en": "yellow" }
+        { "fr": "fleur", "en": "flower", "uk": "квітка" },
+        { "fr": "jaune", "en": "yellow", "uk": "жовтий" }
       ]
     },
     {
       "en": "The jacket is black.",
+      "uk": "Куртка чорна.",
       "fr": "La veste est noire.",
       "vocab": [
-        { "fr": "veste", "en": "jacket" },
-        { "fr": "noire", "en": "black (fem.)" }
+        { "fr": "veste", "en": "jacket", "uk": "куртка, піджак" },
+        { "fr": "noire", "en": "black (fem.)", "uk": "чорна (жін. р.)" }
       ]
     },
     {
       "en": "The table is orange.",
+      "uk": "Стіл помаранчевий.",
       "fr": "La table est orange.",
       "vocab": [
-        { "fr": "table", "en": "table" },
-        { "fr": "orange", "en": "orange" }
+        { "fr": "table", "en": "table", "uk": "стіл" },
+        { "fr": "orange", "en": "orange", "uk": "помаранчевий" }
       ]
     },
     {
       "en": "The books are purple.",
+      "uk": "Книжки фіолетові.",
       "fr": "Les livres sont violets.",
       "vocab": [
-        { "fr": "livre", "en": "book" },
-        { "fr": "violet", "en": "purple" }
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "violet", "en": "purple", "uk": "фіолетовий" }
       ]
     },
     {
       "en": "The house is pink.",
+      "uk": "Будинок рожевий.",
       "fr": "La maison est rose.",
       "vocab": [
-        { "fr": "maison", "en": "house" },
-        { "fr": "rose", "en": "pink" }
+        { "fr": "maison", "en": "house", "uk": "будинок" },
+        { "fr": "rose", "en": "pink", "uk": "рожевий" }
       ]
     },
     {
       "en": "The hat is green.",
+      "uk": "Капелюх зелений.",
       "fr": "Le chapeau est vert.",
       "vocab": [
-        { "fr": "chapeau", "en": "hat" },
-        { "fr": "vert", "en": "green" }
+        { "fr": "chapeau", "en": "hat", "uk": "капелюх" },
+        { "fr": "vert", "en": "green", "uk": "зелений" }
       ]
     }
   ]

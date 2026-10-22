@@ -1,86 +1,99 @@
 {
-  "title": "Possessifs — ton/son/notre/votre/leur (set 2: other possessors)",
+  "title": {
+    "en": "Possessifs — ton/son/notre/votre/leur (set 2: other possessors)",
+    "uk": "Присвійні — ton/son/notre/votre/leur (набір 2: інші власники)"
+  },
   "exercises": [
     {
       "en": "How old is your (informal) brother?",
+      "uk": "Скільки років твоєму братові?",
       "fr": "Quel âge a ton frère?",
       "vocab": [
-        { "fr": "quel âge", "en": "how old" },
-        { "fr": "ton", "en": "your (masc. singular, informal)" },
-        { "fr": "frère", "en": "brother" }
+        { "fr": "quel âge", "en": "how old", "uk": "скільки років" },
+        { "fr": "ton", "en": "your (masc. singular, informal)", "uk": "твій (чол. р., одн.)" },
+        { "fr": "frère", "en": "brother", "uk": "брат" }
       ]
     },
     {
       "en": "Your (informal) sister is nice.",
+      "uk": "Твоя сестра мила.",
       "fr": "Ta sœur est gentille.",
       "vocab": [
-        { "fr": "ta", "en": "your (fem. singular, informal)" },
-        { "fr": "sœur", "en": "sister" }
+        { "fr": "ta", "en": "your (fem. singular, informal)", "uk": "твоя (жін. р., одн.)" },
+        { "fr": "sœur", "en": "sister", "uk": "сестра" }
       ]
     },
     {
       "en": "His book is on the table.",
+      "uk": "Його книжка на столі.",
       "fr": "Son livre est sur la table.",
       "vocab": [
-        { "fr": "son", "en": "his/her (masc. singular)" },
-        { "fr": "livre", "en": "book" },
-        { "fr": "table", "en": "table" }
+        { "fr": "son", "en": "his/her (masc. singular)", "uk": "його / її (чол. р., одн.)" },
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "Her car is red.",
+      "uk": "Її машина червона.",
       "fr": "Sa voiture est rouge.",
       "vocab": [
-        { "fr": "sa", "en": "his/her (fem. singular)" },
-        { "fr": "voiture", "en": "car" }
+        { "fr": "sa", "en": "his/her (fem. singular)", "uk": "його / її (жін. р., одн.)" },
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "His shoes are black.",
+      "uk": "Його черевики чорні.",
       "fr": "Ses chaussures sont noires.",
       "vocab": [
-        { "fr": "ses", "en": "his/her (plural)" },
-        { "fr": "chaussure", "en": "shoe" }
+        { "fr": "ses", "en": "his/her (plural)", "uk": "його / її (мн.)" },
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" }
       ]
     },
     {
       "en": "Our house is big.",
+      "uk": "Наш будинок великий.",
       "fr": "Notre maison est grande.",
       "vocab": [
-        { "fr": "notre", "en": "our (singular)" },
-        { "fr": "maison", "en": "house" }
+        { "fr": "notre", "en": "our (singular)", "uk": "наш (одн.)" },
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "Our friends (masc.) are kind.",
+      "uk": "Наші друзі добрі.",
       "fr": "Nos amis sont gentils.",
       "vocab": [
-        { "fr": "nos", "en": "our (plural)" },
-        { "fr": "ami", "en": "friend" }
+        { "fr": "nos", "en": "our (plural)", "uk": "наші (мн.)" },
+        { "fr": "ami", "en": "friend", "uk": "друг" }
       ]
     },
     {
       "en": "Your (formal) children are happy.",
+      "uk": "Ваші діти задоволені.",
       "fr": "Vos enfants sont contents.",
       "vocab": [
-        { "fr": "vos", "en": "your (formal/plural)" },
-        { "fr": "enfant", "en": "child" }
+        { "fr": "vos", "en": "your (formal/plural)", "uk": "ваші (мн.)" },
+        { "fr": "enfant", "en": "child", "uk": "дитина" }
       ]
     },
     {
       "en": "Their (masc.) cat is black.",
+      "uk": "Їхній кіт чорний.",
       "fr": "Leur chat est noir.",
       "vocab": [
-        { "fr": "leur", "en": "their" },
-        { "fr": "chat", "en": "cat" }
+        { "fr": "leur", "en": "their", "uk": "їхній" },
+        { "fr": "chat", "en": "cat", "uk": "кіт" }
       ]
     },
     {
       "en": "Her shoes are new.",
+      "uk": "Її черевики нові.",
       "fr": "Ses chaussures sont neuves.",
       "vocab": [
-        { "fr": "ses", "en": "his/her (plural)" },
-        { "fr": "chaussure", "en": "shoe" }
+        { "fr": "ses", "en": "his/her (plural)", "uk": "його / її (мн.)" },
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" }
       ]
     }
   ]

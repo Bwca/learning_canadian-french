@@ -1,79 +1,92 @@
 {
-  "title": "Verbes en -er — present tense (set 1: with je/tu/il/elle)",
+  "title": {
+    "en": "Verbes en -er — present tense (set 1: with je/tu/il/elle)",
+    "uk": "Дієслова на -er — теперішній час (набір 1: з je/tu/il/elle)"
+  },
   "exercises": [
     {
       "en": "I live in Montreal.",
+      "uk": "Я живу в Монреалі.",
       "fr": "J'habite à Montréal.",
       "vocab": [
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "You (informal) speak French.",
+      "uk": "Ти говориш французькою.",
       "fr": "Tu parles français.",
       "vocab": [
-        { "fr": "parler", "en": "to speak" }
+        { "fr": "parler", "en": "to speak", "uk": "говорити" }
       ]
     },
     {
       "en": "He works at the hospital.",
+      "uk": "Він працює в лікарні.",
       "fr": "Il travaille à l'hôpital.",
       "vocab": [
-        { "fr": "travailler", "en": "to work" },
-        { "fr": "hôpital", "en": "hospital" }
+        { "fr": "travailler", "en": "to work", "uk": "працювати" },
+        { "fr": "hôpital", "en": "hospital", "uk": "лікарня" }
       ]
     },
     {
       "en": "She sings in the shower.",
+      "uk": "Вона співає в душі.",
       "fr": "Elle chante sous la douche.",
       "vocab": [
-        { "fr": "chanter", "en": "to sing" },
-        { "fr": "sous la douche", "en": "in the shower" }
+        { "fr": "chanter", "en": "to sing", "uk": "співати" },
+        { "fr": "sous la douche", "en": "in the shower", "uk": "у душі" }
       ]
     },
     {
       "en": "I listen to the radio.",
+      "uk": "Я слухаю радіо.",
       "fr": "J'écoute la radio.",
       "vocab": [
-        { "fr": "écouter", "en": "to listen to" }
+        { "fr": "écouter", "en": "to listen to", "uk": "слухати" }
       ]
     },
     {
       "en": "You (informal) play hockey.",
+      "uk": "Ти граєш у хокей.",
       "fr": "Tu joues au hockey.",
       "vocab": [
-        { "fr": "jouer à", "en": "to play (a sport or game)" }
+        { "fr": "jouer à", "en": "to play (a sport or game)", "uk": "грати в (спорт чи гру)" }
       ]
     },
     {
       "en": "He watches television.",
+      "uk": "Він дивиться телевізор.",
       "fr": "Il regarde la télévision.",
       "vocab": [
-        { "fr": "regarder", "en": "to watch" }
+        { "fr": "regarder", "en": "to watch", "uk": "дивитися" }
       ]
     },
     {
       "en": "She studies at the cégep.",
+      "uk": "Вона навчається в сежепі.",
       "fr": "Elle étudie au cégep.",
       "vocab": [
-        { "fr": "étudier", "en": "to study" },
-        { "fr": "cégep", "en": "cégep (Québec college)" }
+        { "fr": "étudier", "en": "to study", "uk": "навчатися, вивчати" },
+        { "fr": "cégep", "en": "cégep (Québec college)", "uk": "сежеп (коледж у Квебеку)" }
       ]
     },
     {
       "en": "I dance with my girlfriend.",
+      "uk": "Я танцюю зі своєю дівчиною.",
       "fr": "Je danse avec ma blonde.",
       "vocab": [
-        { "fr": "danser", "en": "to dance" },
-        { "fr": "blonde", "en": "girlfriend (Québec)" }
+        { "fr": "danser", "en": "to dance", "uk": "танцювати" },
+        { "fr": "blonde", "en": "girlfriend (Québec)", "uk": "дівчина, кохана (у Квебеку)" }
       ]
     },
     {
       "en": "He loves the snow.",
+      "uk": "Він любить сніг.",
       "fr": "Il aime la neige.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "neige", "en": "snow" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити, подобатися" },
+        { "fr": "neige", "en": "snow", "uk": "сніг" }
       ]
     }
   ]

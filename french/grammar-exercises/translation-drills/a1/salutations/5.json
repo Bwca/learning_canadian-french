@@ -1,63 +1,76 @@
 {
-  "title": "Salutations — greetings & politeness (set 5: mixed review — short exchanges)",
+  "title": {
+    "en": "Salutations — greetings & politeness (set 5: mixed review — short exchanges)",
+    "uk": "Salutations — привітання та ввічливість (набір 5: повторення — короткі діалоги)"
+  },
   "exercises": [
     {
       "en": "Hi, what's new?",
+      "uk": "Привіт, що нового?",
       "fr": "Salut, quoi de neuf?",
       "vocab": []
     },
     {
       "en": "Hello, how are you? (formal)",
+      "uk": "Добрий день, як ви поживаєте?",
       "fr": "Bonjour, comment allez-vous?",
       "vocab": []
     },
     {
       "en": "Hi Marie, how's your day going?",
+      "uk": "Привіт, Марі, як минає твій день?",
       "fr": "Salut Marie, comment se passe ta journée?",
       "vocab": [
-        { "fr": "se passer", "en": "to go (how something goes)" }
+        { "fr": "se passer", "en": "to go (how something goes)", "uk": "минати, відбуватися (про те, як щось іде)" }
       ]
     },
     {
       "en": "What have you been up to? (informal)",
+      "uk": "Як ти тепер? Чим займаєшся?",
       "fr": "Qu'est-ce que tu deviens?",
       "vocab": [
-        { "fr": "devenir", "en": "to become" }
+        { "fr": "devenir", "en": "to become", "uk": "ставати" }
       ]
     },
     {
       "en": "Hello? (answering the phone, Québec)",
+      "uk": "Алло? (відповідаючи на дзвінок, у Квебеку)",
       "fr": "Allô?",
       "vocab": [
-        { "fr": "allô", "en": "hello? (phone) / hi (Québec)" }
+        { "fr": "allô", "en": "hello? (phone) / hi (Québec)", "uk": "алло? (телефон) / привіт (у Квебеку)" }
       ]
     },
     {
       "en": "Nice to see you. (formal, said by a man)",
+      "uk": "Радий вас бачити.",
       "fr": "Ravi de vous voir.",
       "vocab": [
-        { "fr": "voir", "en": "to see" }
+        { "fr": "voir", "en": "to see", "uk": "бачити" }
       ]
     },
     {
       "en": "My name is Luc, and you? (informal)",
+      "uk": "Мене звати Люк, а тебе?",
       "fr": "Je m'appelle Luc, et toi?",
       "vocab": []
     },
     {
       "en": "Thanks, see you soon!",
+      "uk": "Дякую, до скорої зустрічі!",
       "fr": "Merci, à bientôt!",
       "vocab": []
     },
     {
       "en": "See you again soon! (with on)",
+      "uk": "Скоро побачимося знову! (з on)",
       "fr": "On se revoit bientôt!",
       "vocab": [
-        { "fr": "se revoir", "en": "to see each other again" }
+        { "fr": "se revoir", "en": "to see each other again", "uk": "знову бачитися" }
       ]
     },
     {
       "en": "Excuse me, do you speak English? (formal)",
+      "uk": "Вибачте, ви розмовляєте англійською?",
       "fr": "Excusez-moi, est-ce que vous parlez anglais?",
       "vocab": []
     }

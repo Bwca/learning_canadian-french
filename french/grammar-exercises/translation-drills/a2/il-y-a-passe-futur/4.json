@@ -1,73 +1,86 @@
 {
-  "title": "Il y a — past & future (set 4: il y a + time — ago)",
+  "title": {
+    "en": "Il y a — past & future (set 4: il y a + time — ago)",
+    "uk": "Il y a — минуле й майбутнє (набір 4: il y a + час — тому)"
+  },
   "exercises": [
     {
       "en": "I learned to drive ten years ago.",
+      "uk": "Я навчився водити десять років тому.",
       "fr": "J'ai appris à conduire il y a dix ans.",
       "vocab": [
-        { "fr": "il y a + time", "en": "… ago" },
-        { "fr": "apprendre à", "en": "to learn to (j'ai appris)" },
-        { "fr": "conduire", "en": "to drive" }
+        { "fr": "il y a + time", "en": "… ago", "uk": "il y a + час = … тому" },
+        { "fr": "apprendre à", "en": "to learn to (j'ai appris)", "uk": "навчитися (j'ai appris)" },
+        { "fr": "conduire", "en": "to drive", "uk": "водити (машину)" }
       ]
     },
     {
       "en": "We met Tom in the park two hours ago.",
+      "uk": "Ми зустріли Тома в парку дві години тому.",
       "fr": "Nous avons rencontré Tom au parc il y a deux heures.",
       "vocab": [
-        { "fr": "rencontrer", "en": "to meet" }
+        { "fr": "rencontrer", "en": "to meet", "uk": "зустрічати" }
       ]
     },
     {
       "en": "She arrived five minutes ago.",
+      "uk": "Вона прийшла п'ять хвилин тому.",
       "fr": "Elle est arrivée il y a cinq minutes.",
       "vocab": [
-        { "fr": "arriver", "en": "to arrive (takes être: elle est arrivée)" }
+        { "fr": "arriver", "en": "to arrive (takes être: elle est arrivée)", "uk": "прибувати (з être: elle est arrivée)" }
       ]
     },
     {
       "en": "I ate an hour ago.",
+      "uk": "Я їв годину тому.",
       "fr": "J'ai mangé il y a une heure.",
       "vocab": []
     },
     {
       "en": "They (masc.) moved three years ago.",
+      "uk": "Вони (чол.) переїхали три роки тому.",
       "fr": "Ils ont déménagé il y a trois ans.",
       "vocab": [
-        { "fr": "déménager", "en": "to move (house)" }
+        { "fr": "déménager", "en": "to move (house)", "uk": "переїжджати (на нове житло)" }
       ]
     },
     {
       "en": "He called his mother two days ago.",
+      "uk": "Він подзвонив мамі два дні тому.",
       "fr": "Il a appelé sa mère il y a deux jours.",
       "vocab": [
-        { "fr": "appeler", "en": "to call" }
+        { "fr": "appeler", "en": "to call", "uk": "дзвонити" }
       ]
     },
     {
       "en": "I started learning French a month ago.",
+      "uk": "Я почав учити французьку місяць тому.",
       "fr": "J'ai commencé à apprendre le français il y a un mois.",
       "vocab": [
-        { "fr": "commencer à", "en": "to start to" }
+        { "fr": "commencer à", "en": "to start to", "uk": "починати (щось робити)" }
       ]
     },
     {
       "en": "We bought this house a long time ago.",
+      "uk": "Ми купили цей будинок давно.",
       "fr": "Nous avons acheté cette maison il y a longtemps.",
       "vocab": [
-        { "fr": "acheter", "en": "to buy" },
-        { "fr": "longtemps", "en": "a long time" }
+        { "fr": "acheter", "en": "to buy", "uk": "купувати" },
+        { "fr": "longtemps", "en": "a long time", "uk": "довго, давно" }
       ]
     },
     {
       "en": "I haven't heard from Sophie in a long time.",
+      "uk": "Я давно нічого не чув про Софі.",
       "fr": "Il y a longtemps que je n'ai pas eu de nouvelles de Sophie.",
       "vocab": [
-        { "fr": "il y a longtemps que", "en": "it's been a long time since" },
-        { "fr": "avoir des nouvelles de", "en": "to hear from" }
+        { "fr": "il y a longtemps que", "en": "it's been a long time since", "uk": "il y a longtemps que = уже давно (як)" },
+        { "fr": "avoir des nouvelles de", "en": "to hear from", "uk": "мати новини від когось" }
       ]
     },
     {
       "en": "The movie started ten minutes ago.",
+      "uk": "Фільм почався десять хвилин тому.",
       "fr": "Le film a commencé il y a dix minutes.",
       "vocab": []
     }

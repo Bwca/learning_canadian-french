@@ -1,83 +1,96 @@
 {
-  "title": "Verbes en -er — present tense (set 5: daily routine)",
+  "title": {
+    "en": "Verbes en -er — present tense (set 5: daily routine)",
+    "uk": "Дієслова на -er — теперішній час (набір 5: розпорядок дня)"
+  },
   "exercises": [
     {
       "en": "I cook in the evening.",
+      "uk": "Я готую ввечері.",
       "fr": "Je cuisine le soir.",
       "vocab": [
-        { "fr": "cuisiner", "en": "to cook" },
-        { "fr": "le soir", "en": "in the evening" }
+        { "fr": "cuisiner", "en": "to cook", "uk": "готувати (їжу)" },
+        { "fr": "le soir", "en": "in the evening", "uk": "ввечері" }
       ]
     },
     {
       "en": "You (informal) walk in the park.",
+      "uk": "Ти гуляєш у парку.",
       "fr": "Tu marches dans le parc.",
       "vocab": [
-        { "fr": "marcher", "en": "to walk" },
-        { "fr": "parc", "en": "park" }
+        { "fr": "marcher", "en": "to walk", "uk": "ходити, гуляти" },
+        { "fr": "parc", "en": "park", "uk": "парк" }
       ]
     },
     {
       "en": "He comes home at six o'clock.",
+      "uk": "Він повертається додому о шостій.",
       "fr": "Il rentre à six heures.",
       "vocab": [
-        { "fr": "rentrer", "en": "to come home" },
-        { "fr": "six heures", "en": "six o'clock" }
+        { "fr": "rentrer", "en": "to come home", "uk": "повертатися додому" },
+        { "fr": "six heures", "en": "six o'clock", "uk": "шоста година" }
       ]
     },
     {
       "en": "She closes the door.",
+      "uk": "Вона зачиняє двері.",
       "fr": "Elle ferme la porte.",
       "vocab": [
-        { "fr": "fermer", "en": "to close" },
-        { "fr": "porte", "en": "door" }
+        { "fr": "fermer", "en": "to close", "uk": "зачиняти" },
+        { "fr": "porte", "en": "door", "uk": "двері" }
       ]
     },
     {
       "en": "We prepare lunch.",
+      "uk": "Ми готуємо обід.",
       "fr": "Nous préparons le dîner.",
       "vocab": [
-        { "fr": "préparer", "en": "to prepare" },
-        { "fr": "dîner", "en": "lunch (Québec)" }
+        { "fr": "préparer", "en": "to prepare", "uk": "готувати" },
+        { "fr": "dîner", "en": "lunch (Québec)", "uk": "обід (у Квебеку)" }
       ]
     },
     {
       "en": "You (formal/plural) stay at home.",
+      "uk": "Ви залишаєтеся вдома.",
       "fr": "Vous restez à la maison.",
       "vocab": [
-        { "fr": "rester", "en": "to stay" },
-        { "fr": "à la maison", "en": "at home" }
+        { "fr": "rester", "en": "to stay", "uk": "залишатися" },
+        { "fr": "à la maison", "en": "at home", "uk": "вдома" }
       ]
     },
     {
       "en": "They (masc.) wash the dishes.",
+      "uk": "Вони (чол.) миють посуд.",
       "fr": "Ils lavent la vaisselle.",
       "vocab": [
-        { "fr": "laver", "en": "to wash" },
-        { "fr": "vaisselle", "en": "dishes" }
+        { "fr": "laver", "en": "to wash", "uk": "мити" },
+        { "fr": "vaisselle", "en": "dishes", "uk": "посуд" }
       ]
     },
     {
       "en": "They (fem.) have breakfast at seven o'clock.",
+      "uk": "Вони (жін.) снідають о сьомій.",
       "fr": "Elles déjeunent à sept heures.",
       "vocab": [
-        { "fr": "déjeuner", "en": "to have breakfast (Québec)" },
-        { "fr": "sept heures", "en": "seven o'clock" }
+        { "fr": "déjeuner", "en": "to have breakfast (Québec)", "uk": "снідати (у Квебеку)" },
+        { "fr": "sept heures", "en": "seven o'clock", "uk": "сьома година" }
       ]
     },
     {
       "en": "I turn on the light.",
+      "uk": "Я вмикаю світло.",
       "fr": "J'allume la lumière.",
       "vocab": [
-        { "fr": "allumer", "en": "to turn on" },
-        { "fr": "lumière", "en": "light" }
+        { "fr": "allumer", "en": "to turn on", "uk": "вмикати" },
+        { "fr": "lumière", "en": "light", "uk": "світло" }
       ]
     },
     {
       "en": "He turns off the television.",
+      "uk": "Він вимикає телевізор.",
       "fr": "Il ferme la télévision.",
       "vocab": [
-        { "fr": "fermer", "en": "to turn off (Québec) / to close" }
+        { "fr": "fermer", "en": "to turn off (Québec) / to close", "uk": "вимикати (у Квебеку) / зачиняти" }
       ]
     }
   ]

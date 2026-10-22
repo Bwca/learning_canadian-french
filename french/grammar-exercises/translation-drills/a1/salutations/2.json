@@ -1,65 +1,78 @@
 {
-  "title": "Salutations — greetings & politeness (set 2: how are you?)",
+  "title": {
+    "en": "Salutations — greetings & politeness (set 2: how are you?)",
+    "uk": "Salutations — привітання та ввічливість (набір 2: як справи?)"
+  },
   "exercises": [
     {
       "en": "How's it going?",
+      "uk": "Як справи?",
       "fr": "Comment ça va?",
       "vocab": []
     },
     {
       "en": "How are you? (formal)",
+      "uk": "Як ви поживаєте?",
       "fr": "Comment allez-vous?",
       "vocab": [
-        { "fr": "aller", "en": "to go (here: to be doing)" }
+        { "fr": "aller", "en": "to go (here: to be doing)", "uk": "іти (тут: почуватися, поживати)" }
       ]
     },
     {
       "en": "How are you? (informal)",
+      "uk": "Як ти поживаєш?",
       "fr": "Comment vas-tu?",
       "vocab": []
     },
     {
       "en": "Yes, I'm doing well, and you? (informal)",
+      "uk": "Так, усе добре, а ти?",
       "fr": "Oui, ça va bien, et toi?",
       "vocab": []
     },
     {
       "en": "I'm fine, thanks, and you? (formal)",
+      "uk": "Нормально, дякую, а ви?",
       "fr": "Ça va, merci, et vous?",
       "vocab": []
     },
     {
       "en": "I'm not doing well today.",
+      "uk": "Сьогодні справи погано.",
       "fr": "Ça va mal aujourd'hui.",
       "vocab": [
-        { "fr": "mal", "en": "badly" }
+        { "fr": "mal", "en": "badly", "uk": "погано" }
       ]
     },
     {
       "en": "I'm doing pretty good. (Québec, with ça va)",
+      "uk": "Справи досить добре. (у Квебеку, з ça va)",
       "fr": "Ça va pas mal.",
       "vocab": [
-        { "fr": "pas mal", "en": "not bad (Québec: pretty good)" }
+        { "fr": "pas mal", "en": "not bad (Québec: pretty good)", "uk": "непогано (у Квебеку: досить добре)" }
       ]
     },
     {
       "en": "So-so.",
+      "uk": "Так собі.",
       "fr": "Comme ci, comme ça.",
       "vocab": []
     },
     {
       "en": "What's new?",
+      "uk": "Що нового?",
       "fr": "Quoi de neuf?",
       "vocab": [
-        { "fr": "neuf", "en": "new" }
+        { "fr": "neuf", "en": "new", "uk": "новий" }
       ]
     },
     {
       "en": "Long time no see! How's life?",
+      "uk": "Скільки літ, скільки зим! Як життя?",
       "fr": "Ça fait longtemps! Comment va la vie?",
       "vocab": [
-        { "fr": "ça fait longtemps", "en": "it's been a long time" },
-        { "fr": "la vie", "en": "life" }
+        { "fr": "ça fait longtemps", "en": "it's been a long time", "uk": "минуло багато часу" },
+        { "fr": "la vie", "en": "life", "uk": "життя" }
       ]
     }
   ]

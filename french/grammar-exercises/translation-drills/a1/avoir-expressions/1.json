@@ -1,65 +1,78 @@
 {
-  "title": "Avoir — expressions with avoir (set 1: hungry, thirsty, hot, cold, sleepy, scared)",
+  "title": {
+    "en": "Avoir — expressions with avoir (set 1: hungry, thirsty, hot, cold, sleepy, scared)",
+    "uk": "Avoir — вирази з avoir (набір 1: голод, спрага, жара, холод, сон, страх)"
+  },
   "exercises": [
     {
       "en": "I'm hungry.",
+      "uk": "Я голодний.",
       "fr": "J'ai faim.",
       "vocab": [
-        { "fr": "avoir faim", "en": "to be hungry" }
+        { "fr": "avoir faim", "en": "to be hungry", "uk": "бути голодним" }
       ]
     },
     {
       "en": "Are you thirsty? (informal)",
+      "uk": "Ти хочеш пити?",
       "fr": "Est-ce que tu as soif?",
       "vocab": [
-        { "fr": "avoir soif", "en": "to be thirsty" }
+        { "fr": "avoir soif", "en": "to be thirsty", "uk": "хотіти пити" }
       ]
     },
     {
       "en": "We are cold.",
+      "uk": "Нам холодно.",
       "fr": "Nous avons froid.",
       "vocab": [
-        { "fr": "avoir froid", "en": "to be (feel) cold" }
+        { "fr": "avoir froid", "en": "to be (feel) cold", "uk": "мерзнути, бути холодно (комусь)" }
       ]
     },
     {
       "en": "She is hot.",
+      "uk": "Їй жарко.",
       "fr": "Elle a chaud.",
       "vocab": [
-        { "fr": "avoir chaud", "en": "to be (feel) hot" }
+        { "fr": "avoir chaud", "en": "to be (feel) hot", "uk": "бути жарко (комусь)" }
       ]
     },
     {
       "en": "The children are sleepy.",
+      "uk": "Діти хочуть спати.",
       "fr": "Les enfants ont sommeil.",
       "vocab": [
-        { "fr": "avoir sommeil", "en": "to be sleepy" }
+        { "fr": "avoir sommeil", "en": "to be sleepy", "uk": "хотіти спати" }
       ]
     },
     {
       "en": "He is scared of dogs.",
+      "uk": "Він боїться собак.",
       "fr": "Il a peur des chiens.",
       "vocab": [
-        { "fr": "avoir peur de", "en": "to be scared of" }
+        { "fr": "avoir peur de", "en": "to be scared of", "uk": "боятися (когось, чогось)" }
       ]
     },
     {
       "en": "I'm not hungry.",
+      "uk": "Я не голодний.",
       "fr": "Je n'ai pas faim.",
       "vocab": []
     },
     {
       "en": "Are you cold? (formal)",
+      "uk": "Вам холодно?",
       "fr": "Est-ce que vous avez froid?",
       "vocab": []
     },
     {
       "en": "They (fem.) are thirsty.",
+      "uk": "Вони (жін.) хочуть пити.",
       "fr": "Elles ont soif.",
       "vocab": []
     },
     {
       "en": "I'm not scared.",
+      "uk": "Я не боюся.",
       "fr": "Je n'ai pas peur.",
       "vocab": []
     }

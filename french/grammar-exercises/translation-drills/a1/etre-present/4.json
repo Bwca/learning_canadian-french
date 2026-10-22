@@ -1,77 +1,90 @@
 {
-  "title": "Être — present tense (set 4: feelings and states)",
+  "title": {
+    "en": "Être — present tense (set 4: feelings and states)",
+    "uk": "Être — теперішній час (набір 4: почуття і стани)"
+  },
   "exercises": [
     {
       "en": "I am sick.",
+      "uk": "Я хворий.",
       "fr": "Je suis malade.",
       "vocab": [
-        { "fr": "malade", "en": "sick" }
+        { "fr": "malade", "en": "sick", "uk": "хворий" }
       ]
     },
     {
       "en": "He is busy.",
+      "uk": "Він зайнятий.",
       "fr": "Il est occupé.",
       "vocab": [
-        { "fr": "occupé", "en": "busy" }
+        { "fr": "occupé", "en": "busy", "uk": "зайнятий" }
       ]
     },
     {
       "en": "She is nervous.",
+      "uk": "Вона нервова.",
       "fr": "Elle est nerveuse.",
       "vocab": [
-        { "fr": "nerveuse", "en": "nervous (fem.)" }
+        { "fr": "nerveuse", "en": "nervous (fem.)", "uk": "нервова (жін. р.)" }
       ]
     },
     {
       "en": "We are tired.",
+      "uk": "Ми втомлені.",
       "fr": "Nous sommes fatigués.",
       "vocab": [
-        { "fr": "fatigué", "en": "tired" }
+        { "fr": "fatigué", "en": "tired", "uk": "втомлений" }
       ]
     },
     {
       "en": "They (fem.) are calm.",
+      "uk": "Вони (жін.) спокійні.",
       "fr": "Elles sont calmes.",
       "vocab": [
-        { "fr": "calme", "en": "calm" }
+        { "fr": "calme", "en": "calm", "uk": "спокійний" }
       ]
     },
     {
       "en": "You (informal) are happy today.",
+      "uk": "Ти сьогодні задоволений.",
       "fr": "Tu es content aujourd'hui.",
       "vocab": [
-        { "fr": "content", "en": "happy" },
-        { "fr": "aujourd'hui", "en": "today" }
+        { "fr": "content", "en": "happy", "uk": "задоволений, радий" },
+        { "fr": "aujourd'hui", "en": "today", "uk": "сьогодні" }
       ]
     },
     {
       "en": "He is excited.",
+      "uk": "Він схвильований.",
       "fr": "Il est excité.",
       "vocab": [
-        { "fr": "excité", "en": "excited" }
+        { "fr": "excité", "en": "excited", "uk": "схвильований" }
       ]
     },
     {
       "en": "The children are quiet.",
+      "uk": "Діти спокійні.",
       "fr": "Les enfants sont calmes.",
       "vocab": [
-        { "fr": "enfant", "en": "child" },
-        { "fr": "calme", "en": "calm" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "calme", "en": "calm", "uk": "спокійний" }
       ]
     },
     {
       "en": "The grandparents are proud.",
+      "uk": "Дідусь і бабуся пишаються.",
       "fr": "Les grands-parents sont fiers.",
       "vocab": [
-        { "fr": "grands-parents", "en": "grandparents" },
-        { "fr": "fier", "en": "proud" }
+        { "fr": "grands-parents", "en": "grandparents", "uk": "дідусь і бабуся" },
+        { "fr": "fier", "en": "proud", "uk": "гордий" }
       ]
     },
     {
       "en": "You (formal/plural) are worried.",
+      "uk": "Ви стурбовані.",
       "fr": "Vous êtes inquiets.",
       "vocab": [
-        { "fr": "inquiet", "en": "worried" }
+        { "fr": "inquiet", "en": "worried", "uk": "стурбований" }
       ]
     }
   ]

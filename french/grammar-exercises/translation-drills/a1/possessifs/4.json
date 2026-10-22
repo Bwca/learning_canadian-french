@@ -1,86 +1,99 @@
 {
-  "title": "Possessifs — son/sa/ses (set 4: his/her things)",
+  "title": {
+    "en": "Possessifs — son/sa/ses (set 4: his/her things)",
+    "uk": "Присвійні — son/sa/ses (набір 4: його/її речі)"
+  },
   "exercises": [
     {
       "en": "His book is on the table.",
+      "uk": "Його книжка на столі.",
       "fr": "Son livre est sur la table.",
       "vocab": [
-        { "fr": "son", "en": "his/her (masc. singular)" },
-        { "fr": "livre", "en": "book" },
-        { "fr": "table", "en": "table" }
+        { "fr": "son", "en": "his/her (masc. singular)", "uk": "його / її (чол. р., одн.)" },
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "Her car is red.",
+      "uk": "Її машина червона.",
       "fr": "Sa voiture est rouge.",
       "vocab": [
-        { "fr": "sa", "en": "his/her (fem. singular)" },
-        { "fr": "voiture", "en": "car" }
+        { "fr": "sa", "en": "his/her (fem. singular)", "uk": "його / її (жін. р., одн.)" },
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "His shoes are black.",
+      "uk": "Його черевики чорні.",
       "fr": "Ses chaussures sont noires.",
       "vocab": [
-        { "fr": "ses", "en": "his/her (plural)" },
-        { "fr": "chaussure", "en": "shoe" }
+        { "fr": "ses", "en": "his/her (plural)", "uk": "його / її (мн.)" },
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" }
       ]
     },
     {
       "en": "Her brother is tall.",
+      "uk": "Її брат високий.",
       "fr": "Son frère est grand.",
       "vocab": [
-        { "fr": "son", "en": "his/her (masc. singular)" },
-        { "fr": "frère", "en": "brother" }
+        { "fr": "son", "en": "his/her (masc. singular)", "uk": "його / її (чол. р., одн.)" },
+        { "fr": "frère", "en": "brother", "uk": "брат" }
       ]
     },
     {
       "en": "His sister is nice.",
+      "uk": "Його сестра мила.",
       "fr": "Sa sœur est gentille.",
       "vocab": [
-        { "fr": "sa", "en": "his/her (fem. singular)" },
-        { "fr": "sœur", "en": "sister" }
+        { "fr": "sa", "en": "his/her (fem. singular)", "uk": "його / її (жін. р., одн.)" },
+        { "fr": "sœur", "en": "sister", "uk": "сестра" }
       ]
     },
     {
       "en": "Her friend (masc.) is happy.",
+      "uk": "Її друг задоволений.",
       "fr": "Son ami est content.",
       "vocab": [
-        { "fr": "son", "en": "his/her (masc. singular)" },
-        { "fr": "ami", "en": "friend" }
+        { "fr": "son", "en": "his/her (masc. singular)", "uk": "його / її (чол. р., одн.)" },
+        { "fr": "ami", "en": "friend", "uk": "друг" }
       ]
     },
     {
       "en": "His keys are in the bag.",
+      "uk": "Його ключі в сумці.",
       "fr": "Ses clés sont dans le sac.",
       "vocab": [
-        { "fr": "ses", "en": "his/her (plural)" },
-        { "fr": "clé", "en": "key" },
-        { "fr": "sac", "en": "bag" }
+        { "fr": "ses", "en": "his/her (plural)", "uk": "його / її (мн.)" },
+        { "fr": "clé", "en": "key", "uk": "ключ" },
+        { "fr": "sac", "en": "bag", "uk": "сумка" }
       ]
     },
     {
       "en": "Her parents are kind.",
+      "uk": "Її батьки добрі.",
       "fr": "Ses parents sont gentils.",
       "vocab": [
-        { "fr": "ses", "en": "his/her (plural)" },
-        { "fr": "parents", "en": "parents" }
+        { "fr": "ses", "en": "his/her (plural)", "uk": "його / її (мн.)" },
+        { "fr": "parents", "en": "parents", "uk": "батьки" }
       ]
     },
     {
       "en": "His house is big.",
+      "uk": "Його будинок великий.",
       "fr": "Sa maison est grande.",
       "vocab": [
-        { "fr": "sa", "en": "his/her (fem. singular)" },
-        { "fr": "maison", "en": "house" }
+        { "fr": "sa", "en": "his/her (fem. singular)", "uk": "його / її (жін. р., одн.)" },
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "Her idea is good.",
+      "uk": "Її ідея добра.",
       "fr": "Son idée est bonne.",
       "vocab": [
-        { "fr": "son", "en": "his/her (masc. singular)" },
-        { "fr": "idée", "en": "idea" }
+        { "fr": "son", "en": "his/her (masc. singular)", "uk": "його / її (чол. р., одн.)" },
+        { "fr": "idée", "en": "idea", "uk": "ідея" }
       ]
     }
   ]

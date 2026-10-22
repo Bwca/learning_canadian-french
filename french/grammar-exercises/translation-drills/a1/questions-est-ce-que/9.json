@@ -1,69 +1,82 @@
 {
-  "title": "Questions — est-ce que (set 9: with nationalities)",
+  "title": {
+    "en": "Questions — est-ce que (set 9: with nationalities)",
+    "uk": "Питання — est-ce que (набір 9: з національностями)"
+  },
   "exercises": [
     {
       "en": "Is he Canadian?",
+      "uk": "Він канадієць?",
       "fr": "Est-ce qu'il est canadien?",
       "vocab": [
-        { "fr": "canadien", "en": "Canadian" }
+        { "fr": "canadien", "en": "Canadian", "uk": "канадієць, канадський" }
       ]
     },
     {
       "en": "Is she French?",
+      "uk": "Вона француженка?",
       "fr": "Est-ce qu'elle est française?",
       "vocab": [
-        { "fr": "française", "en": "French (fem.)" }
+        { "fr": "française", "en": "French (fem.)", "uk": "француженка, французька (жін. р.)" }
       ]
     },
     {
       "en": "Are you (informal) American?",
+      "uk": "Ти американець?",
       "fr": "Est-ce que tu es américain?",
       "vocab": [
-        { "fr": "américain", "en": "American" }
+        { "fr": "américain", "en": "American", "uk": "американець, американський" }
       ]
     },
     {
       "en": "Are we Québécois?",
+      "uk": "Ми квебекці?",
       "fr": "Est-ce que nous sommes québécois?",
       "vocab": [
-        { "fr": "québécois", "en": "Québécois" }
+        { "fr": "québécois", "en": "Québécois", "uk": "квебекець, квебекський" }
       ]
     },
     {
       "en": "Are you (formal) Italian?",
+      "uk": "Ви італієць?",
       "fr": "Est-ce que vous êtes italien?",
       "vocab": [
-        { "fr": "italien", "en": "Italian" }
+        { "fr": "italien", "en": "Italian", "uk": "італієць, італійський" }
       ]
     },
     {
       "en": "Are they (masc.) Haitian?",
+      "uk": "Вони (чол.) гаїтяни?",
       "fr": "Est-ce qu'ils sont haïtiens?",
       "vocab": [
-        { "fr": "haïtien", "en": "Haitian" }
+        { "fr": "haïtien", "en": "Haitian", "uk": "гаїтянин, гаїтянський" }
       ]
     },
     {
       "en": "Is she Mexican?",
+      "uk": "Вона мексиканка?",
       "fr": "Est-ce qu'elle est mexicaine?",
       "vocab": [
-        { "fr": "mexicaine", "en": "Mexican (fem.)" }
+        { "fr": "mexicaine", "en": "Mexican (fem.)", "uk": "мексиканка, мексиканська (жін. р.)" }
       ]
     },
     {
       "en": "Are they (fem.) Canadian?",
+      "uk": "Вони (жін.) канадки?",
       "fr": "Est-ce qu'elles sont canadiennes?",
       "vocab": [
-        { "fr": "canadien", "en": "Canadian" }
+        { "fr": "canadien", "en": "Canadian", "uk": "канадієць, канадський" }
       ]
     },
     {
       "en": "Is he from Montreal?",
+      "uk": "Він з Монреаля?",
       "fr": "Est-ce qu'il est de Montréal?",
       "vocab": []
     },
     {
       "en": "Are you (informal) from Quebec City?",
+      "uk": "Ти з міста Квебек?",
       "fr": "Est-ce que tu es de Québec?",
       "vocab": []
     }

@@ -1,82 +1,95 @@
 {
-  "title": "Verbes en -er — present tense (set 3: negatives and questions)",
+  "title": {
+    "en": "Verbes en -er — present tense (set 3: negatives and questions)",
+    "uk": "Дієслова на -er — теперішній час (набір 3: заперечення й питання)"
+  },
   "exercises": [
     {
       "en": "I don't work on Sundays.",
+      "uk": "Я не працюю по неділях.",
       "fr": "Je ne travaille pas le dimanche.",
       "vocab": [
-        { "fr": "travailler", "en": "to work" },
-        { "fr": "le dimanche", "en": "on Sundays" }
+        { "fr": "travailler", "en": "to work", "uk": "працювати" },
+        { "fr": "le dimanche", "en": "on Sundays", "uk": "по неділях" }
       ]
     },
     {
       "en": "Do you (informal) speak English?",
+      "uk": "Ти говориш англійською? (з est-ce que)",
       "fr": "Est-ce que tu parles anglais?",
       "vocab": [
-        { "fr": "parler", "en": "to speak" }
+        { "fr": "parler", "en": "to speak", "uk": "говорити" }
       ]
     },
     {
       "en": "We shop at the mall.",
+      "uk": "Ми ходимо по магазинах у торговому центрі.",
       "fr": "Nous magasinons au centre commercial.",
       "vocab": [
-        { "fr": "magasiner", "en": "to shop (Québec)" },
-        { "fr": "centre commercial", "en": "mall" }
+        { "fr": "magasiner", "en": "to shop (Québec)", "uk": "ходити по магазинах (у Квебеку)" },
+        { "fr": "centre commercial", "en": "mall", "uk": "торговий центр" }
       ]
     },
     {
       "en": "They (masc.) don't watch the news.",
+      "uk": "Вони (чол.) не дивляться новини.",
       "fr": "Ils ne regardent pas les nouvelles.",
       "vocab": [
-        { "fr": "regarder", "en": "to watch" },
-        { "fr": "nouvelles", "en": "news" }
+        { "fr": "regarder", "en": "to watch", "uk": "дивитися" },
+        { "fr": "nouvelles", "en": "news", "uk": "новини" }
       ]
     },
     {
       "en": "Does she skate on the river?",
+      "uk": "Вона катається на ковзанах на річці? (з est-ce que)",
       "fr": "Est-ce qu'elle patine sur la rivière?",
       "vocab": [
-        { "fr": "patiner", "en": "to skate" },
-        { "fr": "rivière", "en": "river" }
+        { "fr": "patiner", "en": "to skate", "uk": "кататися на ковзанах" },
+        { "fr": "rivière", "en": "river", "uk": "річка" }
       ]
     },
     {
       "en": "You (formal/plural) chat with the neighbours.",
+      "uk": "Ви балакаєте із сусідами.",
       "fr": "Vous jasez avec les voisins.",
       "vocab": [
-        { "fr": "jaser", "en": "to chat (Québec)" },
-        { "fr": "voisin", "en": "neighbour" }
+        { "fr": "jaser", "en": "to chat (Québec)", "uk": "балакати, теревенити (у Квебеку)" },
+        { "fr": "voisin", "en": "neighbour", "uk": "сусід" }
       ]
     },
     {
       "en": "He doesn't listen to the teacher.",
+      "uk": "Він не слухає вчителя.",
       "fr": "Il n'écoute pas le professeur.",
       "vocab": [
-        { "fr": "écouter", "en": "to listen to" },
-        { "fr": "professeur", "en": "teacher" }
+        { "fr": "écouter", "en": "to listen to", "uk": "слухати" },
+        { "fr": "professeur", "en": "teacher", "uk": "вчитель" }
       ]
     },
     {
       "en": "Do they (fem.) live in Gatineau?",
+      "uk": "Вони (жін.) живуть у Гатіно? (з est-ce que)",
       "fr": "Est-ce qu'elles habitent à Gatineau?",
       "vocab": [
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "I don't like the cold.",
+      "uk": "Я не люблю холод.",
       "fr": "Je n'aime pas le froid.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "froid", "en": "cold" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити, подобатися" },
+        { "fr": "froid", "en": "cold", "uk": "холод" }
       ]
     },
     {
       "en": "Do we have supper at six o'clock?",
+      "uk": "Ми вечеряємо о шостій? (з est-ce que)",
       "fr": "Est-ce que nous soupons à six heures?",
       "vocab": [
-        { "fr": "souper", "en": "to have supper (Québec)" },
-        { "fr": "six heures", "en": "six o'clock" }
+        { "fr": "souper", "en": "to have supper (Québec)", "uk": "вечеряти (у Квебеку)" },
+        { "fr": "six heures", "en": "six o'clock", "uk": "шоста година" }
       ]
     }
   ]

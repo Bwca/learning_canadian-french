@@ -1,74 +1,87 @@
 {
-  "title": "Questions — est-ce que (set 6: with avoir, possession)",
+  "title": {
+    "en": "Questions — est-ce que (set 6: with avoir, possession)",
+    "uk": "Питання — est-ce que (набір 6: з avoir, що в кого є)"
+  },
   "exercises": [
     {
       "en": "Do you (informal) have a car?",
+      "uk": "У тебе є машина?",
       "fr": "Est-ce que tu as une voiture?",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "Does he have a computer?",
+      "uk": "У нього є комп'ютер?",
       "fr": "Est-ce qu'il a un ordinateur?",
       "vocab": [
-        { "fr": "ordinateur", "en": "computer" }
+        { "fr": "ordinateur", "en": "computer", "uk": "комп'ютер" }
       ]
     },
     {
       "en": "Does she have a phone?",
+      "uk": "У неї є телефон?",
       "fr": "Est-ce qu'elle a un téléphone?",
       "vocab": [
-        { "fr": "téléphone", "en": "phone" }
+        { "fr": "téléphone", "en": "phone", "uk": "телефон" }
       ]
     },
     {
       "en": "Do we have time?",
+      "uk": "У нас є час?",
       "fr": "Est-ce que nous avons le temps?",
       "vocab": [
-        { "fr": "temps", "en": "time" }
+        { "fr": "temps", "en": "time", "uk": "час" }
       ]
     },
     {
       "en": "Do you (formal) have a dog?",
+      "uk": "У вас є собака?",
       "fr": "Est-ce que vous avez un chien?",
       "vocab": [
-        { "fr": "chien", "en": "dog" }
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     },
     {
       "en": "Do they (masc.) have a house?",
+      "uk": "У них (чол.) є будинок?",
       "fr": "Est-ce qu'ils ont une maison?",
       "vocab": [
-        { "fr": "maison", "en": "house" }
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "Do they (fem.) have keys?",
+      "uk": "У них (жін.) є ключі?",
       "fr": "Est-ce qu'elles ont des clés?",
       "vocab": [
-        { "fr": "clé", "en": "key" }
+        { "fr": "clé", "en": "key", "uk": "ключ" }
       ]
     },
     {
       "en": "Do you (informal) have a pencil?",
+      "uk": "У тебе є олівець?",
       "fr": "Est-ce que tu as un crayon?",
       "vocab": [
-        { "fr": "crayon", "en": "pencil" }
+        { "fr": "crayon", "en": "pencil", "uk": "олівець" }
       ]
     },
     {
       "en": "Does she have a bag?",
+      "uk": "У неї є сумка?",
       "fr": "Est-ce qu'elle a un sac?",
       "vocab": [
-        { "fr": "sac", "en": "bag" }
+        { "fr": "sac", "en": "bag", "uk": "сумка" }
       ]
     },
     {
       "en": "Does he have a bike?",
+      "uk": "У нього є велосипед?",
       "fr": "Est-ce qu'il a un vélo?",
       "vocab": [
-        { "fr": "vélo", "en": "bike" }
+        { "fr": "vélo", "en": "bike", "uk": "велосипед" }
       ]
     }
   ]

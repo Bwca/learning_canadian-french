@@ -1,81 +1,94 @@
 {
-  "title": "Verbes en -re — present tense (set 1: with je/tu/il/elle)",
+  "title": {
+    "en": "Verbes en -re — present tense (set 1: with je/tu/il/elle)",
+    "uk": "Дієслова на -re — теперішній час (набір 1: з je/tu/il/elle)"
+  },
   "exercises": [
     {
       "en": "I am selling my car.",
+      "uk": "Я продаю свою машину.",
       "fr": "Je vends mon auto.",
       "vocab": [
-        { "fr": "vendre", "en": "to sell" },
-        { "fr": "auto", "en": "car" }
+        { "fr": "vendre", "en": "to sell", "uk": "продавати" },
+        { "fr": "auto", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "You (informal) lose your keys.",
+      "uk": "Ти губиш свої ключі.",
       "fr": "Tu perds tes clés.",
       "vocab": [
-        { "fr": "perdre", "en": "to lose" },
-        { "fr": "clé", "en": "key" }
+        { "fr": "perdre", "en": "to lose", "uk": "губити, втрачати" },
+        { "fr": "clé", "en": "key", "uk": "ключ" }
       ]
     },
     {
       "en": "He answers the question.",
+      "uk": "Він відповідає на запитання.",
       "fr": "Il répond à la question.",
       "vocab": [
-        { "fr": "répondre à", "en": "to answer" }
+        { "fr": "répondre à", "en": "to answer", "uk": "відповідати (на щось)" }
       ]
     },
     {
       "en": "She hears the music.",
+      "uk": "Вона чує музику.",
       "fr": "Elle entend la musique.",
       "vocab": [
-        { "fr": "entendre", "en": "to hear" }
+        { "fr": "entendre", "en": "to hear", "uk": "чути" }
       ]
     },
     {
       "en": "I am waiting for the bus.",
+      "uk": "Я чекаю на автобус.",
       "fr": "J'attends l'autobus.",
       "vocab": [
-        { "fr": "attendre", "en": "to wait for" },
-        { "fr": "autobus", "en": "bus" }
+        { "fr": "attendre", "en": "to wait for", "uk": "чекати (на когось/щось)" },
+        { "fr": "autobus", "en": "bus", "uk": "автобус" }
       ]
     },
     {
       "en": "You (informal) give back the book.",
+      "uk": "Ти повертаєш книжку.",
       "fr": "Tu rends le livre.",
       "vocab": [
-        { "fr": "rendre", "en": "to give back" }
+        { "fr": "rendre", "en": "to give back", "uk": "повертати, віддавати" }
       ]
     },
     {
       "en": "He goes down the stairs.",
+      "uk": "Він спускається сходами.",
       "fr": "Il descend l'escalier.",
       "vocab": [
-        { "fr": "descendre", "en": "to go down" },
-        { "fr": "escalier", "en": "stairs" }
+        { "fr": "descendre", "en": "to go down", "uk": "спускатися" },
+        { "fr": "escalier", "en": "stairs", "uk": "сходи" }
       ]
     },
     {
       "en": "She interrupts the teacher.",
+      "uk": "Вона перебиває вчителя.",
       "fr": "Elle interrompt le professeur.",
       "vocab": [
-        { "fr": "interrompre", "en": "to interrupt (il/elle interrompt)" },
-        { "fr": "professeur", "en": "teacher" }
+        { "fr": "interrompre", "en": "to interrupt (il/elle interrompt)", "uk": "перебивати (il/elle interrompt)" },
+        { "fr": "professeur", "en": "teacher", "uk": "вчитель" }
       ]
     },
     {
       "en": "The snow is melting.",
+      "uk": "Сніг тане.",
       "fr": "La neige fond.",
       "vocab": [
-        { "fr": "fondre", "en": "to melt" },
-        { "fr": "neige", "en": "snow" }
+        { "fr": "fondre", "en": "to melt", "uk": "танути" },
+        { "fr": "neige", "en": "snow", "uk": "сніг" }
       ]
     },
     {
       "en": "I visit my grandmother.",
+      "uk": "Я відвідую бабусю.",
       "fr": "Je rends visite à ma grand-mère.",
       "vocab": [
-        { "fr": "rendre visite à", "en": "to visit (a person)" },
-        { "fr": "grand-mère", "en": "grandmother" }
+        { "fr": "rendre visite à", "en": "to visit (a person)", "uk": "відвідувати (когось)" },
+        { "fr": "grand-mère", "en": "grandmother", "uk": "бабуся" }
       ]
     }
   ]

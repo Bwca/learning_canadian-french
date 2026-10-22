@@ -1,87 +1,100 @@
 {
-  "title": "Possessifs — notre/nos (set 5: our things)",
+  "title": {
+    "en": "Possessifs — notre/nos (set 5: our things)",
+    "uk": "Присвійні — notre/nos (набір 5: наші речі)"
+  },
   "exercises": [
     {
       "en": "Our house is big.",
+      "uk": "Наш будинок великий.",
       "fr": "Notre maison est grande.",
       "vocab": [
-        { "fr": "notre", "en": "our (singular)" },
-        { "fr": "maison", "en": "house" }
+        { "fr": "notre", "en": "our (singular)", "uk": "наш (одн.)" },
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "Our car is new.",
+      "uk": "Наша машина нова.",
       "fr": "Notre voiture est neuve.",
       "vocab": [
-        { "fr": "notre", "en": "our (singular)" },
-        { "fr": "voiture", "en": "car" }
+        { "fr": "notre", "en": "our (singular)", "uk": "наш (одн.)" },
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "Our friends (masc.) are kind.",
+      "uk": "Наші друзі добрі.",
       "fr": "Nos amis sont gentils.",
       "vocab": [
-        { "fr": "nos", "en": "our (plural)" },
-        { "fr": "ami", "en": "friend" }
+        { "fr": "nos", "en": "our (plural)", "uk": "наші (мн.)" },
+        { "fr": "ami", "en": "friend", "uk": "друг" }
       ]
     },
     {
       "en": "Our parents are here.",
+      "uk": "Наші батьки тут.",
       "fr": "Nos parents sont ici.",
       "vocab": [
-        { "fr": "nos", "en": "our (plural)" },
-        { "fr": "parents", "en": "parents" },
-        { "fr": "ici", "en": "here" }
+        { "fr": "nos", "en": "our (plural)", "uk": "наші (мн.)" },
+        { "fr": "parents", "en": "parents", "uk": "батьки" },
+        { "fr": "ici", "en": "here", "uk": "тут" }
       ]
     },
     {
       "en": "Our dog is small.",
+      "uk": "Наш собака маленький.",
       "fr": "Notre chien est petit.",
       "vocab": [
-        { "fr": "notre", "en": "our (singular)" },
-        { "fr": "chien", "en": "dog" }
+        { "fr": "notre", "en": "our (singular)", "uk": "наш (одн.)" },
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     },
     {
       "en": "Our books are on the table.",
+      "uk": "Наші книжки на столі.",
       "fr": "Nos livres sont sur la table.",
       "vocab": [
-        { "fr": "nos", "en": "our (plural)" },
-        { "fr": "livre", "en": "book" },
-        { "fr": "table", "en": "table" }
+        { "fr": "nos", "en": "our (plural)", "uk": "наші (мн.)" },
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "Our teacher is nice.",
+      "uk": "Наш вчитель добрий.",
       "fr": "Notre professeur est gentil.",
       "vocab": [
-        { "fr": "notre", "en": "our (singular)" },
-        { "fr": "professeur", "en": "teacher" }
+        { "fr": "notre", "en": "our (singular)", "uk": "наш (одн.)" },
+        { "fr": "professeur", "en": "teacher", "uk": "вчитель" }
       ]
     },
     {
       "en": "Our neighbours are friendly.",
+      "uk": "Наші сусіди привітні.",
       "fr": "Nos voisins sont sympathiques.",
       "vocab": [
-        { "fr": "nos", "en": "our (plural)" },
-        { "fr": "voisin", "en": "neighbour" },
-        { "fr": "sympathique", "en": "friendly" }
+        { "fr": "nos", "en": "our (plural)", "uk": "наші (мн.)" },
+        { "fr": "voisin", "en": "neighbour", "uk": "сусід" },
+        { "fr": "sympathique", "en": "friendly", "uk": "привітний, симпатичний" }
       ]
     },
     {
       "en": "Our garden is beautiful.",
+      "uk": "Наш сад гарний.",
       "fr": "Notre jardin est beau.",
       "vocab": [
-        { "fr": "notre", "en": "our (singular)" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "notre", "en": "our (singular)", "uk": "наш (одн.)" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "Our children are happy.",
+      "uk": "Наші діти задоволені.",
       "fr": "Nos enfants sont contents.",
       "vocab": [
-        { "fr": "nos", "en": "our (plural)" },
-        { "fr": "enfant", "en": "child" }
+        { "fr": "nos", "en": "our (plural)", "uk": "наші (мн.)" },
+        { "fr": "enfant", "en": "child", "uk": "дитина" }
       ]
     }
   ]

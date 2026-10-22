@@ -1,79 +1,92 @@
 {
-  "title": "Verbes en -ir — present tense (set 3: negatives and questions)",
+  "title": {
+    "en": "Verbes en -ir — present tense (set 3: negatives and questions)",
+    "uk": "Дієслова на -ir — теперішній час (набір 3: заперечення й питання)"
+  },
   "exercises": [
     {
       "en": "I don't finish the book.",
+      "uk": "Я не дочитую книжку.",
       "fr": "Je ne finis pas le livre.",
       "vocab": [
-        { "fr": "finir", "en": "to finish" }
+        { "fr": "finir", "en": "to finish", "uk": "закінчувати" }
       ]
     },
     {
       "en": "Do you (informal) choose the red sweater?",
+      "uk": "Ти вибираєш червоний светр? (з est-ce que)",
       "fr": "Est-ce que tu choisis le chandail rouge?",
       "vocab": [
-        { "fr": "choisir", "en": "to choose" },
-        { "fr": "chandail", "en": "sweater (Québec)" }
+        { "fr": "choisir", "en": "to choose", "uk": "вибирати" },
+        { "fr": "chandail", "en": "sweater (Québec)", "uk": "светр (у Квебеку)" }
       ]
     },
     {
       "en": "He doesn't gain weight.",
+      "uk": "Він не гладшає.",
       "fr": "Il ne grossit pas.",
       "vocab": [
-        { "fr": "grossir", "en": "to gain weight" }
+        { "fr": "grossir", "en": "to gain weight", "uk": "гладшати, набирати вагу" }
       ]
     },
     {
       "en": "Do they (masc.) obey the teacher?",
+      "uk": "Вони (чол.) слухаються вчителя? (з est-ce que)",
       "fr": "Est-ce qu'ils obéissent au professeur?",
       "vocab": [
-        { "fr": "obéir à", "en": "to obey" },
-        { "fr": "professeur", "en": "teacher" }
+        { "fr": "obéir à", "en": "to obey", "uk": "слухатися, коритися" },
+        { "fr": "professeur", "en": "teacher", "uk": "вчитель" }
       ]
     },
     {
       "en": "We don't blush.",
+      "uk": "Ми не червоніємо.",
       "fr": "Nous ne rougissons pas.",
       "vocab": [
-        { "fr": "rougir", "en": "to blush" }
+        { "fr": "rougir", "en": "to blush", "uk": "червоніти" }
       ]
     },
     {
       "en": "Does the plane land in Montreal?",
+      "uk": "Літак приземляється в Монреалі? (з est-ce que)",
       "fr": "Est-ce que l'avion atterrit à Montréal?",
       "vocab": [
-        { "fr": "atterrir", "en": "to land" },
-        { "fr": "avion", "en": "plane" }
+        { "fr": "atterrir", "en": "to land", "uk": "приземлятися" },
+        { "fr": "avion", "en": "plane", "uk": "літак" }
       ]
     },
     {
       "en": "You (formal/plural) don't fill the bottle.",
+      "uk": "Ви не наповнюєте пляшку.",
       "fr": "Vous ne remplissez pas la bouteille.",
       "vocab": [
-        { "fr": "remplir", "en": "to fill" },
-        { "fr": "bouteille", "en": "bottle" }
+        { "fr": "remplir", "en": "to fill", "uk": "наповнювати" },
+        { "fr": "bouteille", "en": "bottle", "uk": "пляшка" }
       ]
     },
     {
       "en": "Do they (fem.) pass the course?",
+      "uk": "Вони (жін.) складають курс? (з est-ce que)",
       "fr": "Est-ce qu'elles réussissent le cours?",
       "vocab": [
-        { "fr": "réussir un cours", "en": "to pass a course" }
+        { "fr": "réussir un cours", "en": "to pass a course", "uk": "скласти курс" }
       ]
     },
     {
       "en": "She doesn't feed the dog.",
+      "uk": "Вона не годує собаку.",
       "fr": "Elle ne nourrit pas le chien.",
       "vocab": [
-        { "fr": "nourrir", "en": "to feed" }
+        { "fr": "nourrir", "en": "to feed", "uk": "годувати" }
       ]
     },
     {
       "en": "Do we finish at noon?",
+      "uk": "Ми закінчуємо опівдні? (з est-ce que)",
       "fr": "Est-ce que nous finissons à midi?",
       "vocab": [
-        { "fr": "finir", "en": "to finish" },
-        { "fr": "midi", "en": "noon" }
+        { "fr": "finir", "en": "to finish", "uk": "закінчувати" },
+        { "fr": "midi", "en": "noon", "uk": "полудень" }
       ]
     }
   ]

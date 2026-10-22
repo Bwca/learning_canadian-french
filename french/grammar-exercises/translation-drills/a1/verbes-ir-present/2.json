@@ -1,79 +1,92 @@
 {
-  "title": "Verbes en -ir — present tense (set 2: with nous/vous/ils/elles)",
+  "title": {
+    "en": "Verbes en -ir — present tense (set 2: with nous/vous/ils/elles)",
+    "uk": "Дієслова на -ir — теперішній час (набір 2: з nous/vous/ils/elles)"
+  },
   "exercises": [
     {
       "en": "We finish at five o'clock.",
+      "uk": "Ми закінчуємо о п'ятій.",
       "fr": "Nous finissons à cinq heures.",
       "vocab": [
-        { "fr": "finir", "en": "to finish" },
-        { "fr": "cinq heures", "en": "five o'clock" }
+        { "fr": "finir", "en": "to finish", "uk": "закінчувати" },
+        { "fr": "cinq heures", "en": "five o'clock", "uk": "п'ята година" }
       ]
     },
     {
       "en": "You (formal/plural) choose the restaurant.",
+      "uk": "Ви вибираєте ресторан.",
       "fr": "Vous choisissez le restaurant.",
       "vocab": [
-        { "fr": "choisir", "en": "to choose" }
+        { "fr": "choisir", "en": "to choose", "uk": "вибирати" }
       ]
     },
     {
       "en": "They (masc.) pass the exam.",
+      "uk": "Вони (чол.) складають іспит.",
       "fr": "Ils réussissent l'examen.",
       "vocab": [
-        { "fr": "réussir un examen", "en": "to pass an exam" }
+        { "fr": "réussir un examen", "en": "to pass an exam", "uk": "скласти іспит" }
       ]
     },
     {
       "en": "They (fem.) grow up in Montreal.",
+      "uk": "Вони (жін.) ростуть у Монреалі.",
       "fr": "Elles grandissent à Montréal.",
       "vocab": [
-        { "fr": "grandir", "en": "to grow (up)" }
+        { "fr": "grandir", "en": "to grow (up)", "uk": "рости, дорослішати" }
       ]
     },
     {
       "en": "We fill out the form.",
+      "uk": "Ми заповнюємо бланк.",
       "fr": "Nous remplissons le formulaire.",
       "vocab": [
-        { "fr": "remplir", "en": "to fill (out)" },
-        { "fr": "formulaire", "en": "form" }
+        { "fr": "remplir", "en": "to fill (out)", "uk": "заповнювати" },
+        { "fr": "formulaire", "en": "form", "uk": "бланк, анкета" }
       ]
     },
     {
       "en": "You (formal/plural) slow down near the school.",
+      "uk": "Ви сповільнюєтеся біля школи.",
       "fr": "Vous ralentissez près de l'école.",
       "vocab": [
-        { "fr": "ralentir", "en": "to slow down" },
-        { "fr": "près de", "en": "near" }
+        { "fr": "ralentir", "en": "to slow down", "uk": "сповільнюватися, пригальмовувати" },
+        { "fr": "près de", "en": "near", "uk": "біля" }
       ]
     },
     {
       "en": "The students applaud.",
+      "uk": "Студенти аплодують.",
       "fr": "Les étudiants applaudissent.",
       "vocab": [
-        { "fr": "applaudir", "en": "to applaud" },
-        { "fr": "étudiant", "en": "student" }
+        { "fr": "applaudir", "en": "to applaud", "uk": "аплодувати" },
+        { "fr": "étudiant", "en": "student", "uk": "студент" }
       ]
     },
     {
       "en": "We think about the problem.",
+      "uk": "Ми обмірковуємо проблему.",
       "fr": "Nous réfléchissons au problème.",
       "vocab": [
-        { "fr": "réfléchir à", "en": "to think about" },
-        { "fr": "problème", "en": "problem" }
+        { "fr": "réfléchir à", "en": "to think about", "uk": "обмірковувати, думати про" },
+        { "fr": "problème", "en": "problem", "uk": "проблема" }
       ]
     },
     {
       "en": "They (masc.) build a house.",
+      "uk": "Вони (чол.) будують будинок.",
       "fr": "Ils bâtissent une maison.",
       "vocab": [
-        { "fr": "bâtir", "en": "to build" }
+        { "fr": "bâtir", "en": "to build", "uk": "будувати" }
       ]
     },
     {
       "en": "The parents are getting old.",
+      "uk": "Батьки старіють.",
       "fr": "Les parents vieillissent.",
       "vocab": [
-        { "fr": "vieillir", "en": "to get old" }
+        { "fr": "vieillir", "en": "to get old", "uk": "старіти" }
       ]
     }
   ]

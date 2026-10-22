@@ -1,82 +1,95 @@
 {
-  "title": "Partitifs — du/de la/de l' (set 7: mixed review — du/de la/de l' vs. des)",
+  "title": {
+    "en": "Partitifs — du/de la/de l' (set 7: mixed review — du/de la/de l' vs. des)",
+    "uk": "Партитиви — du/de la/de l' (набір 7: повторення — du/de la/de l' проти des)"
+  },
   "exercises": [
     {
       "en": "I have some apples.",
+      "uk": "У мене є яблука.",
       "fr": "J'ai des pommes.",
       "vocab": [
-        { "fr": "pomme", "en": "apple" }
+        { "fr": "pomme", "en": "apple", "uk": "яблуко" }
       ]
     },
     {
       "en": "I have some juice.",
+      "uk": "У мене є сік.",
       "fr": "J'ai du jus.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "jus", "en": "juice" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "jus", "en": "juice", "uk": "сік" }
       ]
     },
     {
       "en": "You (informal) have some bananas.",
+      "uk": "У тебе є банани.",
       "fr": "Tu as des bananes.",
       "vocab": [
-        { "fr": "banane", "en": "banana" }
+        { "fr": "banane", "en": "banana", "uk": "банан" }
       ]
     },
     {
       "en": "You (informal) have some jam.",
+      "uk": "У тебе є варення.",
       "fr": "Tu as de la confiture.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "confiture", "en": "jam" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "confiture", "en": "jam", "uk": "варення, джем" }
       ]
     },
     {
       "en": "He has some eggs.",
+      "uk": "У нього є яйця.",
       "fr": "Il a des œufs.",
       "vocab": [
-        { "fr": "œuf", "en": "egg" }
+        { "fr": "œuf", "en": "egg", "uk": "яйце" }
       ]
     },
     {
       "en": "He has some milk.",
+      "uk": "У нього є молоко.",
       "fr": "Il a du lait.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "lait", "en": "milk" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "lait", "en": "milk", "uk": "молоко" }
       ]
     },
     {
       "en": "We have some vegetables.",
+      "uk": "У нас є овочі.",
       "fr": "Nous avons des légumes.",
       "vocab": [
-        { "fr": "légume", "en": "vegetable" }
+        { "fr": "légume", "en": "vegetable", "uk": "овоч" }
       ]
     },
     {
       "en": "We have some meat.",
+      "uk": "У нас є м'ясо.",
       "fr": "Nous avons de la viande.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "viande", "en": "meat" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "viande", "en": "meat", "uk": "м'ясо" }
       ]
     },
     {
       "en": "They (fem.) have some fruit and some water.",
+      "uk": "У них (жін.) є фрукти й вода.",
       "fr": "Elles ont des fruits et de l'eau.",
       "vocab": [
-        { "fr": "fruit", "en": "fruit" },
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "eau", "en": "water" }
+        { "fr": "fruit", "en": "fruit", "uk": "фрукт" },
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "eau", "en": "water", "uk": "вода" }
       ]
     },
     {
       "en": "You (formal/plural) have some cakes and some coffee.",
+      "uk": "У вас є тістечка й кава.",
       "fr": "Vous avez des gâteaux et du café.",
       "vocab": [
-        { "fr": "gâteau", "en": "cake" },
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "café", "en": "coffee" }
+        { "fr": "gâteau", "en": "cake", "uk": "тістечко, торт" },
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "café", "en": "coffee", "uk": "кава" }
       ]
     }
   ]

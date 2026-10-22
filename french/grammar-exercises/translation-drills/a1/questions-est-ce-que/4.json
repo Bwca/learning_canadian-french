@@ -1,82 +1,95 @@
 {
-  "title": "Questions — est-ce que (set 4: with other -er verbs)",
+  "title": {
+    "en": "Questions — est-ce que (set 4: with other -er verbs)",
+    "uk": "Питання — est-ce que (набір 4: з іншими дієсловами на -er)"
+  },
   "exercises": [
     {
       "en": "Do you (informal) live in Montreal?",
+      "uk": "Ти живеш у Монреалі?",
       "fr": "Est-ce que tu habites à Montréal?",
       "vocab": [
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "Does he speak French?",
+      "uk": "Він говорить французькою?",
       "fr": "Est-ce qu'il parle français?",
       "vocab": [
-        { "fr": "parler", "en": "to speak" },
-        { "fr": "français", "en": "French" }
+        { "fr": "parler", "en": "to speak", "uk": "говорити" },
+        { "fr": "français", "en": "French", "uk": "французька (мова)" }
       ]
     },
     {
       "en": "Does she watch television?",
+      "uk": "Вона дивиться телевізор?",
       "fr": "Est-ce qu'elle regarde la télévision?",
       "vocab": [
-        { "fr": "regarder", "en": "to watch" },
-        { "fr": "télévision", "en": "television" }
+        { "fr": "regarder", "en": "to watch", "uk": "дивитися" },
+        { "fr": "télévision", "en": "television", "uk": "телевізор, телебачення" }
       ]
     },
     {
       "en": "Do we live here?",
+      "uk": "Ми тут живемо?",
       "fr": "Est-ce que nous habitons ici?",
       "vocab": [
-        { "fr": "habiter", "en": "to live" },
-        { "fr": "ici", "en": "here" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" },
+        { "fr": "ici", "en": "here", "uk": "тут" }
       ]
     },
     {
       "en": "Do you (formal) speak English?",
+      "uk": "Ви говорите англійською?",
       "fr": "Est-ce que vous parlez anglais?",
       "vocab": [
-        { "fr": "parler", "en": "to speak" },
-        { "fr": "anglais", "en": "English" }
+        { "fr": "parler", "en": "to speak", "uk": "говорити" },
+        { "fr": "anglais", "en": "English", "uk": "англійська (мова)" }
       ]
     },
     {
       "en": "Do they (masc.) watch movies?",
+      "uk": "Вони (чол.) дивляться фільми?",
       "fr": "Est-ce qu'ils regardent des films?",
       "vocab": [
-        { "fr": "regarder", "en": "to watch" },
-        { "fr": "film", "en": "movie" }
+        { "fr": "regarder", "en": "to watch", "uk": "дивитися" },
+        { "fr": "film", "en": "movie", "uk": "фільм" }
       ]
     },
     {
       "en": "Do you (informal) speak Spanish?",
+      "uk": "Ти говориш іспанською?",
       "fr": "Est-ce que tu parles espagnol?",
       "vocab": [
-        { "fr": "parler", "en": "to speak" },
-        { "fr": "espagnol", "en": "Spanish" }
+        { "fr": "parler", "en": "to speak", "uk": "говорити" },
+        { "fr": "espagnol", "en": "Spanish", "uk": "іспанська (мова)" }
       ]
     },
     {
       "en": "Does she live in Quebec City?",
+      "uk": "Вона живе в місті Квебек?",
       "fr": "Est-ce qu'elle habite à Québec?",
       "vocab": [
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "Do they (fem.) watch the news?",
+      "uk": "Вони (жін.) дивляться новини?",
       "fr": "Est-ce qu'elles regardent les nouvelles?",
       "vocab": [
-        { "fr": "regarder", "en": "to watch" },
-        { "fr": "les nouvelles", "en": "the news" }
+        { "fr": "regarder", "en": "to watch", "uk": "дивитися" },
+        { "fr": "les nouvelles", "en": "the news", "uk": "новини" }
       ]
     },
     {
       "en": "Does he live near here?",
+      "uk": "Він живе неподалік?",
       "fr": "Est-ce qu'il habite près d'ici?",
       "vocab": [
-        { "fr": "habiter", "en": "to live" },
-        { "fr": "près d'ici", "en": "near here" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" },
+        { "fr": "près d'ici", "en": "near here", "uk": "неподалік" }
       ]
     }
   ]

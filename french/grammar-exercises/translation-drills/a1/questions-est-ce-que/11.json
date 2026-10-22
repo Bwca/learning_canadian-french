@@ -1,74 +1,87 @@
 {
-  "title": "Questions — est-ce que (set 11: quand, comment, pourquoi, où est-ce que)",
+  "title": {
+    "en": "Questions — est-ce que (set 11: quand, comment, pourquoi, où est-ce que)",
+    "uk": "Questions — est-ce que (набір 11: quand, comment, pourquoi, où est-ce que)"
+  },
   "exercises": [
     {
       "en": "When do you (informal) eat?",
+      "uk": "Коли ти їси?",
       "fr": "Quand est-ce que tu manges?",
       "vocab": [
-        { "fr": "quand", "en": "when" }
+        { "fr": "quand", "en": "when", "uk": "коли" }
       ]
     },
     {
       "en": "When does the movie start?",
+      "uk": "Коли починається фільм?",
       "fr": "Quand est-ce que le film commence?",
       "vocab": [
-        { "fr": "commencer", "en": "to start" }
+        { "fr": "commencer", "en": "to start", "uk": "починати(ся)" }
       ]
     },
     {
       "en": "How do you (informal) get to work?",
+      "uk": "Як ти добираєшся на роботу?",
       "fr": "Comment est-ce que tu vas au travail?",
       "vocab": [
-        { "fr": "comment", "en": "how" },
-        { "fr": "travail", "en": "work" }
+        { "fr": "comment", "en": "how", "uk": "як" },
+        { "fr": "travail", "en": "work", "uk": "робота" }
       ]
     },
     {
       "en": "How does she make the cake?",
+      "uk": "Як вона пече торт?",
       "fr": "Comment est-ce qu'elle fait le gâteau?",
       "vocab": [
-        { "fr": "faire", "en": "to make" },
-        { "fr": "gâteau", "en": "cake" }
+        { "fr": "faire", "en": "to make", "uk": "робити" },
+        { "fr": "gâteau", "en": "cake", "uk": "торт" }
       ]
     },
     {
       "en": "Why are you tired? (informal, masc.)",
+      "uk": "Чому ти втомлений?",
       "fr": "Pourquoi est-ce que tu es fatigué?",
       "vocab": [
-        { "fr": "pourquoi", "en": "why" },
-        { "fr": "fatigué", "en": "tired" }
+        { "fr": "pourquoi", "en": "why", "uk": "чому" },
+        { "fr": "fatigué", "en": "tired", "uk": "втомлений" }
       ]
     },
     {
       "en": "Why do they (masc.) learn French?",
+      "uk": "Чому вони (чол.) вчать французьку?",
       "fr": "Pourquoi est-ce qu'ils apprennent le français?",
       "vocab": [
-        { "fr": "apprendre", "en": "to learn" }
+        { "fr": "apprendre", "en": "to learn", "uk": "вчити" }
       ]
     },
     {
       "en": "Where do we eat tonight?",
+      "uk": "Де ми сьогодні вечеряємо?",
       "fr": "Où est-ce que nous mangeons ce soir?",
       "vocab": [
-        { "fr": "ce soir", "en": "tonight" }
+        { "fr": "ce soir", "en": "tonight", "uk": "сьогодні ввечері" }
       ]
     },
     {
       "en": "When do you (formal) arrive?",
+      "uk": "Коли ви приїжджаєте?",
       "fr": "Quand est-ce que vous arrivez?",
       "vocab": [
-        { "fr": "arriver", "en": "to arrive" }
+        { "fr": "arriver", "en": "to arrive", "uk": "прибувати, приїжджати" }
       ]
     },
     {
       "en": "Why does he work on Saturdays?",
+      "uk": "Чому він працює по суботах?",
       "fr": "Pourquoi est-ce qu'il travaille le samedi?",
       "vocab": [
-        { "fr": "le samedi", "en": "on Saturdays" }
+        { "fr": "le samedi", "en": "on Saturdays", "uk": "по суботах" }
       ]
     },
     {
       "en": "How do you (formal/plural) learn English?",
+      "uk": "Як ви вчите англійську?",
       "fr": "Comment est-ce que vous apprenez l'anglais?",
       "vocab": []
     }

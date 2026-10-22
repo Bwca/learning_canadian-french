@@ -1,75 +1,88 @@
 {
-  "title": "Avoir — present tense (set 4: idiomatic expressions with avoir)",
+  "title": {
+    "en": "Avoir — present tense (set 4: idiomatic expressions with avoir)",
+    "uk": "Avoir — теперішній час (набір 4: сталі вирази з avoir)"
+  },
   "exercises": [
     {
       "en": "I am hungry.",
+      "uk": "Я голодний.",
       "fr": "J'ai faim.",
       "vocab": [
-        { "fr": "avoir faim", "en": "to be hungry" }
+        { "fr": "avoir faim", "en": "to be hungry", "uk": "бути голодним" }
       ]
     },
     {
       "en": "I am thirsty.",
+      "uk": "Я хочу пити.",
       "fr": "J'ai soif.",
       "vocab": [
-        { "fr": "avoir soif", "en": "to be thirsty" }
+        { "fr": "avoir soif", "en": "to be thirsty", "uk": "хотіти пити" }
       ]
     },
     {
       "en": "He is cold.",
+      "uk": "Йому холодно.",
       "fr": "Il a froid.",
       "vocab": [
-        { "fr": "avoir froid", "en": "to be cold" }
+        { "fr": "avoir froid", "en": "to be cold", "uk": "мерзнути, бути холодно (комусь)" }
       ]
     },
     {
       "en": "She is hot.",
+      "uk": "Їй жарко.",
       "fr": "Elle a chaud.",
       "vocab": [
-        { "fr": "avoir chaud", "en": "to be hot" }
+        { "fr": "avoir chaud", "en": "to be hot", "uk": "бути жарко (комусь)" }
       ]
     },
     {
       "en": "We are afraid.",
+      "uk": "Ми боїмося.",
       "fr": "Nous avons peur.",
       "vocab": [
-        { "fr": "avoir peur", "en": "to be afraid" }
+        { "fr": "avoir peur", "en": "to be afraid", "uk": "боятися" }
       ]
     },
     {
       "en": "You (informal) are right.",
+      "uk": "Ти маєш рацію.",
       "fr": "Tu as raison.",
       "vocab": [
-        { "fr": "avoir raison", "en": "to be right" }
+        { "fr": "avoir raison", "en": "to be right", "uk": "мати рацію" }
       ]
     },
     {
       "en": "He is wrong.",
+      "uk": "Він помиляється.",
       "fr": "Il a tort.",
       "vocab": [
-        { "fr": "avoir tort", "en": "to be wrong" }
+        { "fr": "avoir tort", "en": "to be wrong", "uk": "помилятися" }
       ]
     },
     {
       "en": "I am sleepy.",
+      "uk": "Я хочу спати.",
       "fr": "J'ai sommeil.",
       "vocab": [
-        { "fr": "avoir sommeil", "en": "to be sleepy" }
+        { "fr": "avoir sommeil", "en": "to be sleepy", "uk": "хотіти спати" }
       ]
     },
     {
       "en": "I feel like eating a pizza.",
+      "uk": "Мені хочеться піци.",
       "fr": "J'ai envie de manger une pizza.",
       "vocab": [
-        { "fr": "avoir envie de", "en": "to feel like" },
-        { "fr": "manger", "en": "to eat" }
+        { "fr": "avoir envie de", "en": "to feel like", "uk": "хотіти, мати бажання" },
+        { "fr": "manger", "en": "to eat", "uk": "їсти" }
       ]
     },
     {
       "en": "She needs time.",
+      "uk": "Їй потрібен час.",
       "fr": "Elle a besoin de temps.",
       "vocab": [
-        { "fr": "avoir besoin de", "en": "to need" }
+        { "fr": "avoir besoin de", "en": "to need", "uk": "потребувати" }
       ]
     }
   ]

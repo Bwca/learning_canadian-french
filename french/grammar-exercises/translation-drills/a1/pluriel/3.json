@@ -1,82 +1,95 @@
 {
-  "title": "Pluriel — noun plurals (set 3: plural with adjective agreement)",
+  "title": {
+    "en": "Pluriel — noun plurals (set 3: plural with adjective agreement)",
+    "uk": "Pluriel — множина іменників (набір 3: множина з узгодженням прикметників)"
+  },
   "exercises": [
     {
       "en": "I have a black cat.",
+      "uk": "У мене є чорний кіт.",
       "fr": "J'ai un chat noir.",
       "vocab": [
-        { "fr": "chat", "en": "cat" },
-        { "fr": "noir", "en": "black" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" },
+        { "fr": "noir", "en": "black", "uk": "чорний" }
       ]
     },
     {
       "en": "I have two black cats.",
+      "uk": "У мене два чорні коти.",
       "fr": "J'ai deux chats noirs.",
       "vocab": [
-        { "fr": "chat", "en": "cat" },
-        { "fr": "noir", "en": "black" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" },
+        { "fr": "noir", "en": "black", "uk": "чорний" }
       ]
     },
     {
       "en": "She has a white dress.",
+      "uk": "У неї є біла сукня.",
       "fr": "Elle a une robe blanche.",
       "vocab": [
-        { "fr": "robe", "en": "dress" },
-        { "fr": "blanche", "en": "white (fem.)" }
+        { "fr": "robe", "en": "dress", "uk": "сукня" },
+        { "fr": "blanche", "en": "white (fem.)", "uk": "біла (жін. р.)" }
       ]
     },
     {
       "en": "She has three white dresses.",
+      "uk": "У неї три білі сукні.",
       "fr": "Elle a trois robes blanches.",
       "vocab": [
-        { "fr": "robe", "en": "dress" },
-        { "fr": "blanche", "en": "white (fem.)" }
+        { "fr": "robe", "en": "dress", "uk": "сукня" },
+        { "fr": "blanche", "en": "white (fem.)", "uk": "біла (жін. р.)" }
       ]
     },
     {
       "en": "The boy is tall.",
+      "uk": "Хлопчик високий.",
       "fr": "Le garçon est grand.",
       "vocab": [
-        { "fr": "garçon", "en": "boy" }
+        { "fr": "garçon", "en": "boy", "uk": "хлопчик" }
       ]
     },
     {
       "en": "The boys are tall.",
+      "uk": "Хлопчики високі.",
       "fr": "Les garçons sont grands.",
       "vocab": [
-        { "fr": "garçon", "en": "boy" }
+        { "fr": "garçon", "en": "boy", "uk": "хлопчик" }
       ]
     },
     {
       "en": "The sister is nice.",
+      "uk": "Сестра добра.",
       "fr": "La sœur est gentille.",
       "vocab": [
-        { "fr": "sœur", "en": "sister" },
-        { "fr": "gentille", "en": "nice (fem.)" }
+        { "fr": "sœur", "en": "sister", "uk": "сестра" },
+        { "fr": "gentille", "en": "nice (fem.)", "uk": "добра, мила (жін. р.)" }
       ]
     },
     {
       "en": "The sisters are nice.",
+      "uk": "Сестри добрі.",
       "fr": "Les sœurs sont gentilles.",
       "vocab": [
-        { "fr": "sœur", "en": "sister" },
-        { "fr": "gentille", "en": "nice (fem.)" }
+        { "fr": "sœur", "en": "sister", "uk": "сестра" },
+        { "fr": "gentille", "en": "nice (fem.)", "uk": "добра, мила (жін. р.)" }
       ]
     },
     {
       "en": "The apple is green.",
+      "uk": "Яблуко зелене.",
       "fr": "La pomme est verte.",
       "vocab": [
-        { "fr": "pomme", "en": "apple" },
-        { "fr": "verte", "en": "green (fem.)" }
+        { "fr": "pomme", "en": "apple", "uk": "яблуко" },
+        { "fr": "verte", "en": "green (fem.)", "uk": "зелений (жін. р.)" }
       ]
     },
     {
       "en": "The apples are green.",
+      "uk": "Яблука зелені.",
       "fr": "Les pommes sont vertes.",
       "vocab": [
-        { "fr": "pomme", "en": "apple" },
-        { "fr": "verte", "en": "green (fem.)" }
+        { "fr": "pomme", "en": "apple", "uk": "яблуко" },
+        { "fr": "verte", "en": "green (fem.)", "uk": "зелений (жін. р.)" }
       ]
     }
   ]

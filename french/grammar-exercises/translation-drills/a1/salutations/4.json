@@ -1,71 +1,84 @@
 {
-  "title": "Salutations — greetings & politeness (set 4: goodbyes & good wishes)",
+  "title": {
+    "en": "Salutations — greetings & politeness (set 4: goodbyes & good wishes)",
+    "uk": "Salutations — привітання та ввічливість (набір 4: прощання й побажання)"
+  },
   "exercises": [
     {
       "en": "Goodbye, ma'am.",
+      "uk": "До побачення, пані.",
       "fr": "Au revoir, madame.",
       "vocab": []
     },
     {
       "en": "See you soon!",
+      "uk": "До скорої зустрічі!",
       "fr": "À bientôt!",
       "vocab": [
-        { "fr": "bientôt", "en": "soon" }
+        { "fr": "bientôt", "en": "soon", "uk": "скоро" }
       ]
     },
     {
       "en": "See you tomorrow!",
+      "uk": "До завтра!",
       "fr": "À demain!",
       "vocab": []
     },
     {
       "en": "See you later! (later today)",
+      "uk": "Побачимося пізніше! (сьогодні ж)",
       "fr": "À tout à l'heure!",
       "vocab": [
-        { "fr": "tout à l'heure", "en": "in a little while" }
+        { "fr": "tout à l'heure", "en": "in a little while", "uk": "трохи згодом" }
       ]
     },
     {
       "en": "See you later! (with plus tard)",
+      "uk": "До зустрічі! (з plus tard)",
       "fr": "À plus tard!",
       "vocab": [
-        { "fr": "plus tard", "en": "later" }
+        { "fr": "plus tard", "en": "later", "uk": "пізніше" }
       ]
     },
     {
       "en": "Until next time!",
+      "uk": "До наступного разу!",
       "fr": "À la prochaine!",
       "vocab": [
-        { "fr": "prochaine", "en": "next (one)" }
+        { "fr": "prochaine", "en": "next (one)", "uk": "наступний (наступна)" }
       ]
     },
     {
       "en": "I have to go, have a good day!",
+      "uk": "Мені треба йти, гарного дня!",
       "fr": "Je dois y aller, bonne journée!",
       "vocab": [
-        { "fr": "je dois y aller", "en": "I have to go (there)" },
-        { "fr": "journée", "en": "day" }
+        { "fr": "je dois y aller", "en": "I have to go (there)", "uk": "мені треба йти (туди)" },
+        { "fr": "journée", "en": "day", "uk": "день" }
       ]
     },
     {
       "en": "Have a good evening!",
+      "uk": "Гарного вечора!",
       "fr": "Bonne soirée!",
       "vocab": [
-        { "fr": "soirée", "en": "evening" }
+        { "fr": "soirée", "en": "evening", "uk": "вечір" }
       ]
     },
     {
       "en": "Good night, mom.",
+      "uk": "На добраніч, мамо.",
       "fr": "Bonne nuit, maman.",
       "vocab": [
-        { "fr": "nuit", "en": "night" }
+        { "fr": "nuit", "en": "night", "uk": "ніч" }
       ]
     },
     {
       "en": "Have a good weekend! (Québec)",
+      "uk": "Гарних вихідних! (у Квебеку)",
       "fr": "Bonne fin de semaine!",
       "vocab": [
-        { "fr": "fin de semaine", "en": "weekend (Québec)" }
+        { "fr": "fin de semaine", "en": "weekend (Québec)", "uk": "вихідні (у Квебеку)" }
       ]
     }
   ]

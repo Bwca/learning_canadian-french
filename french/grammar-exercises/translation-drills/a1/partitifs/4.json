@@ -1,104 +1,117 @@
 {
-  "title": "Partitifs — du/de la/de l' (set 4: masculine vs. feminine mass nouns)",
+  "title": {
+    "en": "Partitifs — du/de la/de l' (set 4: masculine vs. feminine mass nouns)",
+    "uk": "Партитиви — du/de la/de l' (набір 4: незлічувані іменники чоловічого й жіночого роду)"
+  },
   "exercises": [
     {
       "en": "I have some cheese and some jam.",
+      "uk": "У мене є сир і варення.",
       "fr": "J'ai du fromage et de la confiture.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "fromage", "en": "cheese" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "confiture", "en": "jam" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "fromage", "en": "cheese", "uk": "сир" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "confiture", "en": "jam", "uk": "варення, джем" }
       ]
     },
     {
       "en": "There is some butter and some mustard.",
+      "uk": "Є масло і гірчиця.",
       "fr": "Il y a du beurre et de la moutarde.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "beurre", "en": "butter" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "moutarde", "en": "mustard" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "beurre", "en": "butter", "uk": "масло (вершкове)" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "moutarde", "en": "mustard", "uk": "гірчиця" }
       ]
     },
     {
       "en": "You (informal) have some rice and some salad.",
+      "uk": "У тебе є рис і салат.",
       "fr": "Tu as du riz et de la salade.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "riz", "en": "rice" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "salade", "en": "salad" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "riz", "en": "rice", "uk": "рис" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "salade", "en": "salad", "uk": "салат" }
       ]
     },
     {
       "en": "She has some fish and some meat.",
+      "uk": "У неї є риба і м'ясо.",
       "fr": "Elle a du poisson et de la viande.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "poisson", "en": "fish" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "viande", "en": "meat" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "poisson", "en": "fish", "uk": "риба" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "viande", "en": "meat", "uk": "м'ясо" }
       ]
     },
     {
       "en": "There is some sugar and some flour.",
+      "uk": "Є цукор і борошно.",
       "fr": "Il y a du sucre et de la farine.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "sucre", "en": "sugar" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "farine", "en": "flour" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "sucre", "en": "sugar", "uk": "цукор" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "farine", "en": "flour", "uk": "борошно" }
       ]
     },
     {
       "en": "We have some coffee and some cream.",
+      "uk": "У нас є кава і вершки.",
       "fr": "Nous avons du café et de la crème.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "café", "en": "coffee" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "crème", "en": "cream" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "café", "en": "coffee", "uk": "кава" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "crème", "en": "cream", "uk": "вершки" }
       ]
     },
     {
       "en": "You (formal/plural) have some tea and some ice cream.",
+      "uk": "У вас є чай і морозиво.",
       "fr": "Vous avez du thé et de la glace.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "thé", "en": "tea" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "glace", "en": "ice cream" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "thé", "en": "tea", "uk": "чай" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "glace", "en": "ice cream", "uk": "морозиво" }
       ]
     },
     {
       "en": "They (masc.) have some bread and some jam.",
+      "uk": "У них (чол.) є хліб і варення.",
       "fr": "Ils ont du pain et de la confiture.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "pain", "en": "bread" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "confiture", "en": "jam" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "pain", "en": "bread", "uk": "хліб" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "confiture", "en": "jam", "uk": "варення, джем" }
       ]
     },
     {
       "en": "They (fem.) have some milk and some flour.",
+      "uk": "У них (жін.) є молоко і борошно.",
       "fr": "Elles ont du lait et de la farine.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "lait", "en": "milk" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "farine", "en": "flour" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "lait", "en": "milk", "uk": "молоко" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "farine", "en": "flour", "uk": "борошно" }
       ]
     },
     {
       "en": "I have some chocolate and some ice cream.",
+      "uk": "У мене є шоколад і морозиво.",
       "fr": "J'ai du chocolat et de la glace.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "chocolat", "en": "chocolate" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "glace", "en": "ice cream" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "chocolat", "en": "chocolate", "uk": "шоколад" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "glace", "en": "ice cream", "uk": "морозиво" }
       ]
     }
   ]

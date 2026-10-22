@@ -1,74 +1,87 @@
 {
-  "title": "Negation — ne...pas (set 2: with avoir and the de rule)",
+  "title": {
+    "en": "Negation — ne...pas (set 2: with avoir and the de rule)",
+    "uk": "Заперечення — ne...pas (набір 2: з avoir і правило de)"
+  },
   "exercises": [
     {
       "en": "I do not have a car.",
+      "uk": "У мене немає машини.",
       "fr": "Je n'ai pas de voiture.",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "He does not have a phone.",
+      "uk": "У нього немає телефону.",
       "fr": "Il n'a pas de téléphone.",
       "vocab": [
-        { "fr": "téléphone", "en": "phone" }
+        { "fr": "téléphone", "en": "phone", "uk": "телефон" }
       ]
     },
     {
       "en": "We do not have children.",
+      "uk": "У нас немає дітей.",
       "fr": "Nous n'avons pas d'enfants.",
       "vocab": [
-        { "fr": "enfant", "en": "child" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" }
       ]
     },
     {
       "en": "You (informal) do not have time.",
+      "uk": "У тебе немає часу.",
       "fr": "Tu n'as pas de temps.",
       "vocab": [
-        { "fr": "temps", "en": "time" }
+        { "fr": "temps", "en": "time", "uk": "час" }
       ]
     },
     {
       "en": "She does not have money.",
+      "uk": "У неї немає грошей.",
       "fr": "Elle n'a pas d'argent.",
       "vocab": [
-        { "fr": "argent", "en": "money" }
+        { "fr": "argent", "en": "money", "uk": "гроші" }
       ]
     },
     {
       "en": "They (masc.) do not have a house.",
+      "uk": "У них (чол.) немає будинку.",
       "fr": "Ils n'ont pas de maison.",
       "vocab": [
-        { "fr": "maison", "en": "house" }
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "I am not hungry.",
+      "uk": "Я не голодний.",
       "fr": "Je n'ai pas faim.",
       "vocab": [
-        { "fr": "avoir faim", "en": "to be hungry" }
+        { "fr": "avoir faim", "en": "to be hungry", "uk": "бути голодним" }
       ]
     },
     {
       "en": "You (formal) do not have a dog.",
+      "uk": "У вас немає собаки.",
       "fr": "Vous n'avez pas de chien.",
       "vocab": [
-        { "fr": "chien", "en": "dog" }
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     },
     {
       "en": "He is not right.",
+      "uk": "Він не має рації.",
       "fr": "Il n'a pas raison.",
       "vocab": [
-        { "fr": "avoir raison", "en": "to be right" }
+        { "fr": "avoir raison", "en": "to be right", "uk": "мати рацію" }
       ]
     },
     {
       "en": "She does not have a brother.",
+      "uk": "У неї немає брата.",
       "fr": "Elle n'a pas de frère.",
       "vocab": [
-        { "fr": "frère", "en": "brother" }
+        { "fr": "frère", "en": "brother", "uk": "брат" }
       ]
     }
   ]

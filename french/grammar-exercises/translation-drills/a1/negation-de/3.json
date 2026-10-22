@@ -1,84 +1,97 @@
 {
-  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 3: il y a with food & drink)",
+  "title": {
+    "en": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 3: il y a with food & drink)",
+    "uk": "Заперечення — pas de (без du/de la/de l'/des/un/une) (набір 3: il y a з їжею та напоями)"
+  },
   "exercises": [
     {
       "en": "There isn't any bread on the table.",
+      "uk": "На столі немає хліба.",
       "fr": "Il n'y a pas de pain sur la table.",
       "vocab": [
-        { "fr": "pain", "en": "bread" },
-        { "fr": "table", "en": "table" }
+        { "fr": "pain", "en": "bread", "uk": "хліб" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "There isn't any milk in the fridge.",
+      "uk": "У холодильнику немає молока.",
       "fr": "Il n'y a pas de lait dans le frigo.",
       "vocab": [
-        { "fr": "lait", "en": "milk" },
-        { "fr": "frigo", "en": "fridge" }
+        { "fr": "lait", "en": "milk", "uk": "молоко" },
+        { "fr": "frigo", "en": "fridge", "uk": "холодильник" }
       ]
     },
     {
       "en": "There isn't any jam in the jar.",
+      "uk": "У банці немає варення.",
       "fr": "Il n'y a pas de confiture dans le pot.",
       "vocab": [
-        { "fr": "confiture", "en": "jam" },
-        { "fr": "pot", "en": "jar" }
+        { "fr": "confiture", "en": "jam", "uk": "варення, джем" },
+        { "fr": "pot", "en": "jar", "uk": "банка" }
       ]
     },
     {
       "en": "There isn't any sugar in the coffee.",
+      "uk": "У каві немає цукру.",
       "fr": "Il n'y a pas de sucre dans le café.",
       "vocab": [
-        { "fr": "sucre", "en": "sugar" },
-        { "fr": "café", "en": "coffee" }
+        { "fr": "sucre", "en": "sugar", "uk": "цукор" },
+        { "fr": "café", "en": "coffee", "uk": "кава" }
       ]
     },
     {
       "en": "There isn't any cheese in the kitchen.",
+      "uk": "На кухні немає сиру.",
       "fr": "Il n'y a pas de fromage dans la cuisine.",
       "vocab": [
-        { "fr": "fromage", "en": "cheese" },
-        { "fr": "cuisine", "en": "kitchen" }
+        { "fr": "fromage", "en": "cheese", "uk": "сир" },
+        { "fr": "cuisine", "en": "kitchen", "uk": "кухня" }
       ]
     },
     {
       "en": "There isn't any water in the bottle.",
+      "uk": "У пляшці немає води.",
       "fr": "Il n'y a pas d'eau dans la bouteille.",
       "vocab": [
-        { "fr": "eau", "en": "water" },
-        { "fr": "bouteille", "en": "bottle" }
+        { "fr": "eau", "en": "water", "uk": "вода" },
+        { "fr": "bouteille", "en": "bottle", "uk": "пляшка" }
       ]
     },
     {
       "en": "There isn't any butter on the bread.",
+      "uk": "На хлібі немає масла.",
       "fr": "Il n'y a pas de beurre sur le pain.",
       "vocab": [
-        { "fr": "beurre", "en": "butter" },
-        { "fr": "pain", "en": "bread" }
+        { "fr": "beurre", "en": "butter", "uk": "масло (вершкове)" },
+        { "fr": "pain", "en": "bread", "uk": "хліб" }
       ]
     },
     {
       "en": "There isn't any soup in the bowl.",
+      "uk": "У мисці немає супу.",
       "fr": "Il n'y a pas de soupe dans le bol.",
       "vocab": [
-        { "fr": "soupe", "en": "soup" },
-        { "fr": "bol", "en": "bowl" }
+        { "fr": "soupe", "en": "soup", "uk": "суп" },
+        { "fr": "bol", "en": "bowl", "uk": "миска" }
       ]
     },
     {
       "en": "There isn't any tea in the cup.",
+      "uk": "У чашці немає чаю.",
       "fr": "Il n'y a pas de thé dans la tasse.",
       "vocab": [
-        { "fr": "thé", "en": "tea" },
-        { "fr": "tasse", "en": "cup" }
+        { "fr": "thé", "en": "tea", "uk": "чай" },
+        { "fr": "tasse", "en": "cup", "uk": "чашка" }
       ]
     },
     {
       "en": "There isn't any meat in the sandwich.",
+      "uk": "У сендвічі немає м'яса.",
       "fr": "Il n'y a pas de viande dans le sandwich.",
       "vocab": [
-        { "fr": "viande", "en": "meat" },
-        { "fr": "sandwich", "en": "sandwich" }
+        { "fr": "viande", "en": "meat", "uk": "м'ясо" },
+        { "fr": "sandwich", "en": "sandwich", "uk": "сендвіч" }
       ]
     }
   ]

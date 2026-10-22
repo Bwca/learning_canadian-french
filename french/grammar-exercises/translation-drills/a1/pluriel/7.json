@@ -1,76 +1,89 @@
 {
-  "title": "Pluriel — noun plurals (set 7: plural with numbers and everyday objects)",
+  "title": {
+    "en": "Pluriel — noun plurals (set 7: plural with numbers and everyday objects)",
+    "uk": "Pluriel — множина іменників (набір 7: множина з числівниками й повсякденними речами)"
+  },
   "exercises": [
     {
       "en": "I have two pens.",
+      "uk": "У мене дві ручки.",
       "fr": "J'ai deux stylos.",
       "vocab": [
-        { "fr": "stylo", "en": "pen" }
+        { "fr": "stylo", "en": "pen", "uk": "ручка" }
       ]
     },
     {
       "en": "She has three notebooks.",
+      "uk": "У неї три зошити.",
       "fr": "Elle a trois cahiers.",
       "vocab": [
-        { "fr": "cahier", "en": "notebook" }
+        { "fr": "cahier", "en": "notebook", "uk": "зошит" }
       ]
     },
     {
       "en": "We have four chairs.",
+      "uk": "У нас чотири стільці.",
       "fr": "Nous avons quatre chaises.",
       "vocab": [
-        { "fr": "chaise", "en": "chair" }
+        { "fr": "chaise", "en": "chair", "uk": "стілець" }
       ]
     },
     {
       "en": "He has five keys.",
+      "uk": "У нього п'ять ключів.",
       "fr": "Il a cinq clés.",
       "vocab": [
-        { "fr": "clé", "en": "key" }
+        { "fr": "clé", "en": "key", "uk": "ключ" }
       ]
     },
     {
       "en": "You (informal) have six books.",
+      "uk": "У тебе шість книжок.",
       "fr": "Tu as six livres.",
       "vocab": [
-        { "fr": "six", "en": "six" }
+        { "fr": "six", "en": "six", "uk": "шість" }
       ]
     },
     {
       "en": "They (masc.) have seven phones.",
+      "uk": "У них (чол.) сім телефонів.",
       "fr": "Ils ont sept téléphones.",
       "vocab": [
-        { "fr": "sept", "en": "seven" },
-        { "fr": "téléphone", "en": "phone" }
+        { "fr": "sept", "en": "seven", "uk": "сім" },
+        { "fr": "téléphone", "en": "phone", "uk": "телефон" }
       ]
     },
     {
       "en": "I have eight apples.",
+      "uk": "У мене вісім яблук.",
       "fr": "J'ai huit pommes.",
       "vocab": [
-        { "fr": "huit", "en": "eight" }
+        { "fr": "huit", "en": "eight", "uk": "вісім" }
       ]
     },
     {
       "en": "We have nine plates.",
+      "uk": "У нас дев'ять тарілок.",
       "fr": "Nous avons neuf assiettes.",
       "vocab": [
-        { "fr": "neuf", "en": "nine" },
-        { "fr": "assiette", "en": "plate" }
+        { "fr": "neuf", "en": "nine", "uk": "дев'ять" },
+        { "fr": "assiette", "en": "plate", "uk": "тарілка" }
       ]
     },
     {
       "en": "She has ten flowers.",
+      "uk": "У неї десять квітів.",
       "fr": "Elle a dix fleurs.",
       "vocab": [
-        { "fr": "fleur", "en": "flower" }
+        { "fr": "fleur", "en": "flower", "uk": "квітка" }
       ]
     },
     {
       "en": "They (fem.) have two bags.",
+      "uk": "У них (жін.) дві сумки.",
       "fr": "Elles ont deux sacs.",
       "vocab": [
-        { "fr": "sac", "en": "bag" }
+        { "fr": "sac", "en": "bag", "uk": "сумка" }
       ]
     }
   ]

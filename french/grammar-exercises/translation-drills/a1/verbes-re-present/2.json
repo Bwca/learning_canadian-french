@@ -1,81 +1,94 @@
 {
-  "title": "Verbes en -re — present tense (set 2: with nous/vous/ils/elles)",
+  "title": {
+    "en": "Verbes en -re — present tense (set 2: with nous/vous/ils/elles)",
+    "uk": "Дієслова на -re — теперішній час (набір 2: з nous/vous/ils/elles)"
+  },
   "exercises": [
     {
       "en": "We sell maple syrup.",
+      "uk": "Ми продаємо кленовий сироп.",
       "fr": "Nous vendons du sirop d'érable.",
       "vocab": [
-        { "fr": "vendre", "en": "to sell" },
-        { "fr": "sirop d'érable", "en": "maple syrup" }
+        { "fr": "vendre", "en": "to sell", "uk": "продавати" },
+        { "fr": "sirop d'érable", "en": "maple syrup", "uk": "кленовий сироп" }
       ]
     },
     {
       "en": "You (formal/plural) are waiting for the train.",
+      "uk": "Ви чекаєте на потяг.",
       "fr": "Vous attendez le train.",
       "vocab": [
-        { "fr": "attendre", "en": "to wait for" }
+        { "fr": "attendre", "en": "to wait for", "uk": "чекати (на когось/щось)" }
       ]
     },
     {
       "en": "They (masc.) lose the game.",
+      "uk": "Вони (чол.) програють матч.",
       "fr": "Ils perdent la partie.",
       "vocab": [
-        { "fr": "perdre", "en": "to lose" },
-        { "fr": "partie", "en": "game (match)" }
+        { "fr": "perdre", "en": "to lose", "uk": "губити, втрачати, програвати" },
+        { "fr": "partie", "en": "game (match)", "uk": "гра, матч" }
       ]
     },
     {
       "en": "They (fem.) answer the phone.",
+      "uk": "Вони (жін.) відповідають на дзвінок.",
       "fr": "Elles répondent au téléphone.",
       "vocab": [
-        { "fr": "répondre à", "en": "to answer" }
+        { "fr": "répondre à", "en": "to answer", "uk": "відповідати (на щось)" }
       ]
     },
     {
       "en": "We hear the birds.",
+      "uk": "Ми чуємо пташок.",
       "fr": "Nous entendons les oiseaux.",
       "vocab": [
-        { "fr": "entendre", "en": "to hear" },
-        { "fr": "oiseau", "en": "bird" }
+        { "fr": "entendre", "en": "to hear", "uk": "чути" },
+        { "fr": "oiseau", "en": "bird", "uk": "птах" }
       ]
     },
     {
       "en": "You (formal/plural) go down to the basement.",
+      "uk": "Ви спускаєтеся в підвал.",
       "fr": "Vous descendez au sous-sol.",
       "vocab": [
-        { "fr": "descendre", "en": "to go down" },
-        { "fr": "sous-sol", "en": "basement" }
+        { "fr": "descendre", "en": "to go down", "uk": "спускатися" },
+        { "fr": "sous-sol", "en": "basement", "uk": "підвал" }
       ]
     },
     {
       "en": "The dogs bite.",
+      "uk": "Собаки кусаються.",
       "fr": "Les chiens mordent.",
       "vocab": [
-        { "fr": "mordre", "en": "to bite" }
+        { "fr": "mordre", "en": "to bite", "uk": "кусати" }
       ]
     },
     {
       "en": "We mow the lawn.",
+      "uk": "Ми косимо газон.",
       "fr": "Nous tondons le gazon.",
       "vocab": [
-        { "fr": "tondre", "en": "to mow" },
-        { "fr": "gazon", "en": "lawn" }
+        { "fr": "tondre", "en": "to mow", "uk": "косити, стригти" },
+        { "fr": "gazon", "en": "lawn", "uk": "газон" }
       ]
     },
     {
       "en": "They (masc.) give back the money.",
+      "uk": "Вони (чол.) повертають гроші.",
       "fr": "Ils rendent l'argent.",
       "vocab": [
-        { "fr": "rendre", "en": "to give back" },
-        { "fr": "argent", "en": "money" }
+        { "fr": "rendre", "en": "to give back", "uk": "повертати, віддавати" },
+        { "fr": "argent", "en": "money", "uk": "гроші" }
       ]
     },
     {
       "en": "The children visit the neighbours.",
+      "uk": "Діти відвідують сусідів.",
       "fr": "Les enfants rendent visite aux voisins.",
       "vocab": [
-        { "fr": "rendre visite à", "en": "to visit (a person)" },
-        { "fr": "voisin", "en": "neighbour" }
+        { "fr": "rendre visite à", "en": "to visit (a person)", "uk": "відвідувати (когось)" },
+        { "fr": "voisin", "en": "neighbour", "uk": "сусід" }
       ]
     }
   ]

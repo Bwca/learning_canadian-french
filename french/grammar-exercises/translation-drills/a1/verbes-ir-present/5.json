@@ -1,80 +1,93 @@
 {
-  "title": "Verbes en -ir — present tense (set 5: the body and health)",
+  "title": {
+    "en": "Verbes en -ir — present tense (set 5: the body and health)",
+    "uk": "Дієслова на -ir — теперішній час (набір 5: тіло й здоров'я)"
+  },
   "exercises": [
     {
       "en": "I gain weight at Christmas.",
+      "uk": "Я гладшаю на Різдво.",
       "fr": "Je grossis à Noël.",
       "vocab": [
-        { "fr": "grossir", "en": "to gain weight" },
-        { "fr": "Noël", "en": "Christmas" }
+        { "fr": "grossir", "en": "to gain weight", "uk": "гладшати, набирати вагу" },
+        { "fr": "Noël", "en": "Christmas", "uk": "Різдво" }
       ]
     },
     {
       "en": "You (informal) are losing weight.",
+      "uk": "Ти худнеш.",
       "fr": "Tu maigris.",
       "vocab": [
-        { "fr": "maigrir", "en": "to lose weight" }
+        { "fr": "maigrir", "en": "to lose weight", "uk": "худнути" }
       ]
     },
     {
       "en": "He heals quickly.",
+      "uk": "Він швидко одужує.",
       "fr": "Il guérit vite.",
       "vocab": [
-        { "fr": "guérir", "en": "to heal / to get better" },
-        { "fr": "vite", "en": "quickly" }
+        { "fr": "guérir", "en": "to heal / to get better", "uk": "одужувати, лікувати" },
+        { "fr": "vite", "en": "quickly", "uk": "швидко" }
       ]
     },
     {
       "en": "She turns pale.",
+      "uk": "Вона блідне.",
       "fr": "Elle pâlit.",
       "vocab": [
-        { "fr": "pâlir", "en": "to turn pale" }
+        { "fr": "pâlir", "en": "to turn pale", "uk": "бліднути" }
       ]
     },
     {
       "en": "We are getting old.",
+      "uk": "Ми старіємо.",
       "fr": "Nous vieillissons.",
       "vocab": [
-        { "fr": "vieillir", "en": "to get old" }
+        { "fr": "vieillir", "en": "to get old", "uk": "старіти" }
       ]
     },
     {
       "en": "You (formal/plural) tan at the beach.",
+      "uk": "Ви засмагаєте на пляжі.",
       "fr": "Vous brunissez à la plage.",
       "vocab": [
-        { "fr": "brunir", "en": "to tan" },
-        { "fr": "plage", "en": "beach" }
+        { "fr": "brunir", "en": "to tan", "uk": "засмагати" },
+        { "fr": "plage", "en": "beach", "uk": "пляж" }
       ]
     },
     {
       "en": "The children grow fast.",
+      "uk": "Діти швидко ростуть.",
       "fr": "Les enfants grandissent vite.",
       "vocab": [
-        { "fr": "grandir", "en": "to grow (up)" },
-        { "fr": "vite", "en": "fast" }
+        { "fr": "grandir", "en": "to grow (up)", "uk": "рости, дорослішати" },
+        { "fr": "vite", "en": "fast", "uk": "швидко" }
       ]
     },
     {
       "en": "They (fem.) blush.",
+      "uk": "Вони (жін.) червоніють.",
       "fr": "Elles rougissent.",
       "vocab": [
-        { "fr": "rougir", "en": "to blush" }
+        { "fr": "rougir", "en": "to blush", "uk": "червоніти" }
       ]
     },
     {
       "en": "The doctor heals the patient.",
+      "uk": "Лікар лікує пацієнта.",
       "fr": "Le médecin guérit le patient.",
       "vocab": [
-        { "fr": "guérir", "en": "to heal / to cure" },
-        { "fr": "médecin", "en": "doctor" }
+        { "fr": "guérir", "en": "to heal / to cure", "uk": "лікувати, виліковувати" },
+        { "fr": "médecin", "en": "doctor", "uk": "лікар" }
       ]
     },
     {
       "en": "Grandpa is getting younger!",
+      "uk": "Дідусь молодшає!",
       "fr": "Grand-papa rajeunit!",
       "vocab": [
-        { "fr": "rajeunir", "en": "to get younger" },
-        { "fr": "grand-papa", "en": "grandpa" }
+        { "fr": "rajeunir", "en": "to get younger", "uk": "молодшати" },
+        { "fr": "grand-papa", "en": "grandpa", "uk": "дідусь" }
       ]
     }
   ]

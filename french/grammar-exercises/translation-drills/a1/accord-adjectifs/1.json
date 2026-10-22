@@ -1,76 +1,89 @@
 {
-  "title": "Accord des adjectifs — gender agreement (set 1: regular -e feminine endings)",
+  "title": {
+    "en": "Accord des adjectifs — gender agreement (set 1: regular -e feminine endings)",
+    "uk": "Accord des adjectifs — узгодження в роді (набір 1: звичайне жіноче закінчення -e)"
+  },
   "exercises": [
     {
       "en": "The bag is big.",
+      "uk": "Сумка велика.",
       "fr": "Le sac est grand.",
       "vocab": [
-        { "fr": "sac", "en": "bag" },
-        { "fr": "grand", "en": "big / tall" }
+        { "fr": "sac", "en": "bag", "uk": "сумка" },
+        { "fr": "grand", "en": "big / tall", "uk": "великий / високий" }
       ]
     },
     {
       "en": "The house is big.",
+      "uk": "Будинок великий.",
       "fr": "La maison est grande.",
       "vocab": [
-        { "fr": "grande", "en": "big / tall (fem.)" }
+        { "fr": "grande", "en": "big / tall (fem.)", "uk": "велика / висока (жін. р.)" }
       ]
     },
     {
       "en": "The boy is small.",
+      "uk": "Хлопчик маленький.",
       "fr": "Le garçon est petit.",
       "vocab": [
-        { "fr": "petit", "en": "small" }
+        { "fr": "petit", "en": "small", "uk": "маленький" }
       ]
     },
     {
       "en": "The girl is small.",
+      "uk": "Дівчинка маленька.",
       "fr": "La fille est petite.",
       "vocab": [
-        { "fr": "petite", "en": "small (fem.)" }
+        { "fr": "petite", "en": "small (fem.)", "uk": "маленька (жін. р.)" }
       ]
     },
     {
       "en": "The garden is pretty.",
+      "uk": "Сад гарний.",
       "fr": "Le jardin est joli.",
       "vocab": [
-        { "fr": "joli", "en": "pretty" }
+        { "fr": "joli", "en": "pretty", "uk": "гарний" }
       ]
     },
     {
       "en": "The flower is pretty.",
+      "uk": "Квітка гарна.",
       "fr": "La fleur est jolie.",
       "vocab": [
-        { "fr": "jolie", "en": "pretty (fem.)" }
+        { "fr": "jolie", "en": "pretty (fem.)", "uk": "гарна (жін. р.)" }
       ]
     },
     {
       "en": "The man is happy.",
+      "uk": "Чоловік задоволений.",
       "fr": "L'homme est content.",
       "vocab": [
-        { "fr": "homme", "en": "man" },
-        { "fr": "content", "en": "happy" }
+        { "fr": "homme", "en": "man", "uk": "чоловік, людина" },
+        { "fr": "content", "en": "happy", "uk": "задоволений, радий" }
       ]
     },
     {
       "en": "The woman is happy.",
+      "uk": "Жінка задоволена.",
       "fr": "La femme est contente.",
       "vocab": [
-        { "fr": "contente", "en": "happy (fem.)" }
+        { "fr": "contente", "en": "happy (fem.)", "uk": "задоволена, рада (жін. р.)" }
       ]
     },
     {
       "en": "The boy is intelligent.",
+      "uk": "Хлопчик розумний.",
       "fr": "Le garçon est intelligent.",
       "vocab": [
-        { "fr": "intelligent", "en": "intelligent / smart" }
+        { "fr": "intelligent", "en": "intelligent / smart", "uk": "розумний" }
       ]
     },
     {
       "en": "The girl is intelligent.",
+      "uk": "Дівчинка розумна.",
       "fr": "La fille est intelligente.",
       "vocab": [
-        { "fr": "intelligente", "en": "intelligent / smart (fem.)" }
+        { "fr": "intelligente", "en": "intelligent / smart (fem.)", "uk": "розумна (жін. р.)" }
       ]
     }
   ]

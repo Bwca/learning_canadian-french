@@ -1,88 +1,101 @@
 {
-  "title": "Partitifs — du/de la/de l' (set 6: weather & nature idioms with il y a)",
+  "title": {
+    "en": "Partitifs — du/de la/de l' (set 6: weather & nature idioms with il y a)",
+    "uk": "Партитиви — du/de la/de l' (набір 6: погода й природа з il y a)"
+  },
   "exercises": [
     {
       "en": "There is some wind.",
+      "uk": "Вітряно.",
       "fr": "Il y a du vent.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "vent", "en": "wind" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "vent", "en": "wind", "uk": "вітер" }
       ]
     },
     {
       "en": "There is some sun.",
+      "uk": "Сонячно.",
       "fr": "Il y a du soleil.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "soleil", "en": "sun" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "soleil", "en": "sun", "uk": "сонце" }
       ]
     },
     {
       "en": "There is some rain.",
+      "uk": "Іде дощ.",
       "fr": "Il y a de la pluie.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "pluie", "en": "rain" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "pluie", "en": "rain", "uk": "дощ" }
       ]
     },
     {
       "en": "There is some snow.",
+      "uk": "Іде сніг.",
       "fr": "Il y a de la neige.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "neige", "en": "snow" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "neige", "en": "snow", "uk": "сніг" }
       ]
     },
     {
       "en": "There is some fog.",
+      "uk": "Туман.",
       "fr": "Il y a du brouillard.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "brouillard", "en": "fog" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "brouillard", "en": "fog", "uk": "туман" }
       ]
     },
     {
       "en": "There is some wind and some rain.",
+      "uk": "Вітер і дощ.",
       "fr": "Il y a du vent et de la pluie.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "vent", "en": "wind" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "pluie", "en": "rain" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "vent", "en": "wind", "uk": "вітер" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "pluie", "en": "rain", "uk": "дощ" }
       ]
     },
     {
       "en": "There is some ice on the road.",
+      "uk": "На дорозі лід.",
       "fr": "Il y a de la glace sur la route.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "glace", "en": "ice" },
-        { "fr": "route", "en": "road" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "glace", "en": "ice", "uk": "лід" },
+        { "fr": "route", "en": "road", "uk": "дорога" }
       ]
     },
     {
       "en": "There is some thunder.",
+      "uk": "Гримить грім.",
       "fr": "Il y a du tonnerre.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "tonnerre", "en": "thunder" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "tonnerre", "en": "thunder", "uk": "грім" }
       ]
     },
     {
       "en": "There is some hail.",
+      "uk": "Іде град.",
       "fr": "Il y a de la grêle.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "grêle", "en": "hail" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "grêle", "en": "hail", "uk": "град" }
       ]
     },
     {
       "en": "There is some sun and some wind.",
+      "uk": "Сонячно й вітряно.",
       "fr": "Il y a du soleil et du vent.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "soleil", "en": "sun" },
-        { "fr": "vent", "en": "wind" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "soleil", "en": "sun", "uk": "сонце" },
+        { "fr": "vent", "en": "wind", "uk": "вітер" }
       ]
     }
   ]

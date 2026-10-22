@@ -1,82 +1,95 @@
 {
-  "title": "Il y a — there is/there are (set 10: mixed review)",
+  "title": {
+    "en": "Il y a — there is/there are (set 10: mixed review)",
+    "uk": "Il y a — є (набір 10: повторення)"
+  },
   "exercises": [
     {
       "en": "There is a cat on the chair.",
+      "uk": "На стільці є кіт.",
       "fr": "Il y a un chat sur la chaise.",
       "vocab": [
-        { "fr": "chat", "en": "cat" },
-        { "fr": "chaise", "en": "chair" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" },
+        { "fr": "chaise", "en": "chair", "uk": "стілець" }
       ]
     },
     {
       "en": "There are three books on the table.",
+      "uk": "На столі три книжки.",
       "fr": "Il y a trois livres sur la table.",
       "vocab": [
-        { "fr": "livre", "en": "book" },
-        { "fr": "table", "en": "table" }
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "There is a bank near the school.",
+      "uk": "Біля школи є банк.",
       "fr": "Il y a une banque près de l'école.",
       "vocab": [
-        { "fr": "banque", "en": "bank" },
-        { "fr": "école", "en": "school" }
+        { "fr": "banque", "en": "bank", "uk": "банк" },
+        { "fr": "école", "en": "school", "uk": "школа" }
       ]
     },
     {
       "en": "There is milk in the fridge.",
+      "uk": "У холодильнику є молоко.",
       "fr": "Il y a du lait dans le frigo.",
       "vocab": [
-        { "fr": "lait", "en": "milk" },
-        { "fr": "frigo", "en": "fridge" }
+        { "fr": "lait", "en": "milk", "uk": "молоко" },
+        { "fr": "frigo", "en": "fridge", "uk": "холодильник" }
       ]
     },
     {
       "en": "There are flowers in the garden.",
+      "uk": "У саду є квіти.",
       "fr": "Il y a des fleurs dans le jardin.",
       "vocab": [
-        { "fr": "fleur", "en": "flower" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "fleur", "en": "flower", "uk": "квітка" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "There is a lot of sun today.",
+      "uk": "Сьогодні багато сонця.",
       "fr": "Il y a beaucoup de soleil aujourd'hui.",
       "vocab": [
-        { "fr": "soleil", "en": "sun" }
+        { "fr": "soleil", "en": "sun", "uk": "сонце" }
       ]
     },
     {
       "en": "There are many people at the market.",
+      "uk": "На ринку багато людей.",
       "fr": "Il y a beaucoup de monde au marché.",
       "vocab": [
-        { "fr": "monde", "en": "people / crowd" }
+        { "fr": "monde", "en": "people / crowd", "uk": "люди, натовп" }
       ]
     },
     {
       "en": "There is a park near the museum.",
+      "uk": "Біля музею є парк.",
       "fr": "Il y a un parc près du musée.",
       "vocab": [
-        { "fr": "parc", "en": "park" },
-        { "fr": "musée", "en": "museum" }
+        { "fr": "parc", "en": "park", "uk": "парк" },
+        { "fr": "musée", "en": "museum", "uk": "музей" }
       ]
     },
     {
       "en": "There are two chairs in the room.",
+      "uk": "У кімнаті два стільці.",
       "fr": "Il y a deux chaises dans la chambre.",
       "vocab": [
-        { "fr": "chaise", "en": "chair" },
-        { "fr": "chambre", "en": "room/bedroom" }
+        { "fr": "chaise", "en": "chair", "uk": "стілець" },
+        { "fr": "chambre", "en": "room/bedroom", "uk": "кімната / спальня" }
       ]
     },
     {
       "en": "There is a dog in the garden.",
+      "uk": "У саду є собака.",
       "fr": "Il y a un chien dans le jardin.",
       "vocab": [
-        { "fr": "chien", "en": "dog" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "chien", "en": "dog", "uk": "собака" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     }
   ]

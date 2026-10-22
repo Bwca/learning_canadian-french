@@ -1,80 +1,93 @@
 {
-  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 10: mixed review)",
+  "title": {
+    "en": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 10: mixed review)",
+    "uk": "Заперечення — pas de (без du/de la/de l'/des/un/une) (набір 10: повторення)"
+  },
   "exercises": [
     {
       "en": "I don't have any bread.",
+      "uk": "У мене немає хліба.",
       "fr": "Je n'ai pas de pain.",
       "vocab": [
-        { "fr": "pain", "en": "bread" }
+        { "fr": "pain", "en": "bread", "uk": "хліб" }
       ]
     },
     {
       "en": "There isn't any snow today.",
+      "uk": "Сьогодні немає снігу.",
       "fr": "Il n'y a pas de neige aujourd'hui.",
       "vocab": [
-        { "fr": "neige", "en": "snow" },
-        { "fr": "aujourd'hui", "en": "today" }
+        { "fr": "neige", "en": "snow", "uk": "сніг" },
+        { "fr": "aujourd'hui", "en": "today", "uk": "сьогодні" }
       ]
     },
     {
       "en": "You (informal) don't eat meat.",
+      "uk": "Ти не їси м'яса.",
       "fr": "Tu ne manges pas de viande.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "viande", "en": "meat" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "viande", "en": "meat", "uk": "м'ясо" }
       ]
     },
     {
       "en": "We don't like coffee.",
+      "uk": "Ми не любимо каву.",
       "fr": "Nous n'aimons pas le café.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "café", "en": "coffee" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "café", "en": "coffee", "uk": "кава" }
       ]
     },
     {
       "en": "She doesn't have a key.",
+      "uk": "У неї немає ключа.",
       "fr": "Elle n'a pas de clé.",
       "vocab": [
-        { "fr": "clé", "en": "key" }
+        { "fr": "clé", "en": "key", "uk": "ключ" }
       ]
     },
     {
       "en": "There isn't a chair in the bedroom.",
+      "uk": "У спальні немає стільця.",
       "fr": "Il n'y a pas de chaise dans la chambre.",
       "vocab": [
-        { "fr": "chaise", "en": "chair" },
-        { "fr": "chambre", "en": "bedroom" }
+        { "fr": "chaise", "en": "chair", "uk": "стілець" },
+        { "fr": "chambre", "en": "bedroom", "uk": "спальня" }
       ]
     },
     {
       "en": "You (formal/plural) don't have a car.",
+      "uk": "У вас немає машини.",
       "fr": "Vous n'avez pas de voiture.",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "They (masc.) don't have a dog.",
+      "uk": "У них (чол.) немає собаки.",
       "fr": "Ils n'ont pas de chien.",
       "vocab": [
-        { "fr": "chien", "en": "dog" }
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     },
     {
       "en": "There isn't any sugar in the tea.",
+      "uk": "У чаї немає цукру.",
       "fr": "Il n'y a pas de sucre dans le thé.",
       "vocab": [
-        { "fr": "sucre", "en": "sugar" },
-        { "fr": "thé", "en": "tea" }
+        { "fr": "sucre", "en": "sugar", "uk": "цукор" },
+        { "fr": "thé", "en": "tea", "uk": "чай" }
       ]
     },
     {
       "en": "I don't eat fish.",
+      "uk": "Я не їм риби.",
       "fr": "Je ne mange pas de poisson.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "poisson", "en": "fish" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "poisson", "en": "fish", "uk": "риба" }
       ]
     }
   ]

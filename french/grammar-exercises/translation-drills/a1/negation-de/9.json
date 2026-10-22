@@ -1,76 +1,89 @@
 {
-  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 9: avoir/il y a with animals & home)",
+  "title": {
+    "en": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 9: avoir/il y a with animals & home)",
+    "uk": "Заперечення — pas de (без du/de la/de l'/des/un/une) (набір 9: avoir/il y a з тваринами й домом)"
+  },
   "exercises": [
     {
       "en": "I don't have a dog.",
+      "uk": "У мене немає собаки.",
       "fr": "Je n'ai pas de chien.",
       "vocab": [
-        { "fr": "chien", "en": "dog" }
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     },
     {
       "en": "You (informal) don't have a cat.",
+      "uk": "У тебе немає кота.",
       "fr": "Tu n'as pas de chat.",
       "vocab": [
-        { "fr": "chat", "en": "cat" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" }
       ]
     },
     {
       "en": "He doesn't have a car.",
+      "uk": "У нього немає машини.",
       "fr": "Il n'a pas de voiture.",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "She doesn't have a house.",
+      "uk": "У неї немає будинку.",
       "fr": "Elle n'a pas de maison.",
       "vocab": [
-        { "fr": "maison", "en": "house" }
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     },
     {
       "en": "We don't have a garden.",
+      "uk": "У нас немає саду.",
       "fr": "Nous n'avons pas de jardin.",
       "vocab": [
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "You (formal/plural) don't have a bike.",
+      "uk": "У вас немає велосипеда.",
       "fr": "Vous n'avez pas de vélo.",
       "vocab": [
-        { "fr": "vélo", "en": "bike" }
+        { "fr": "vélo", "en": "bike", "uk": "велосипед" }
       ]
     },
     {
       "en": "They (masc.) don't have a horse.",
+      "uk": "У них (чол.) немає коня.",
       "fr": "Ils n'ont pas de cheval.",
       "vocab": [
-        { "fr": "cheval", "en": "horse" }
+        { "fr": "cheval", "en": "horse", "uk": "кінь" }
       ]
     },
     {
       "en": "They (fem.) don't have a bird.",
+      "uk": "У них (жін.) немає пташки.",
       "fr": "Elles n'ont pas d'oiseau.",
       "vocab": [
-        { "fr": "oiseau", "en": "bird" }
+        { "fr": "oiseau", "en": "bird", "uk": "птах" }
       ]
     },
     {
       "en": "There isn't a dog in the garden.",
+      "uk": "У саду немає собаки.",
       "fr": "Il n'y a pas de chien dans le jardin.",
       "vocab": [
-        { "fr": "chien", "en": "dog" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "chien", "en": "dog", "uk": "собака" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "There isn't a cat in the house.",
+      "uk": "У будинку немає кота.",
       "fr": "Il n'y a pas de chat dans la maison.",
       "vocab": [
-        { "fr": "chat", "en": "cat" },
-        { "fr": "maison", "en": "house" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" },
+        { "fr": "maison", "en": "house", "uk": "будинок" }
       ]
     }
   ]

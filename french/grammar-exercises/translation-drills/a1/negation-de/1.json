@@ -1,74 +1,87 @@
 {
-  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 1: avoir with food & drink)",
+  "title": {
+    "en": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 1: avoir with food & drink)",
+    "uk": "Заперечення — pas de (без du/de la/de l'/des/un/une) (набір 1: avoir з їжею та напоями)"
+  },
   "exercises": [
     {
       "en": "I don't have any bread.",
+      "uk": "У мене немає хліба.",
       "fr": "Je n'ai pas de pain.",
       "vocab": [
-        { "fr": "pain", "en": "bread" }
+        { "fr": "pain", "en": "bread", "uk": "хліб" }
       ]
     },
     {
       "en": "You (informal) don't have any jam.",
+      "uk": "У тебе немає варення.",
       "fr": "Tu n'as pas de confiture.",
       "vocab": [
-        { "fr": "confiture", "en": "jam" }
+        { "fr": "confiture", "en": "jam", "uk": "варення, джем" }
       ]
     },
     {
       "en": "He doesn't have any milk.",
+      "uk": "У нього немає молока.",
       "fr": "Il n'a pas de lait.",
       "vocab": [
-        { "fr": "lait", "en": "milk" }
+        { "fr": "lait", "en": "milk", "uk": "молоко" }
       ]
     },
     {
       "en": "She doesn't have any soup.",
+      "uk": "У неї немає супу.",
       "fr": "Elle n'a pas de soupe.",
       "vocab": [
-        { "fr": "soupe", "en": "soup" }
+        { "fr": "soupe", "en": "soup", "uk": "суп" }
       ]
     },
     {
       "en": "We don't have any water.",
+      "uk": "У нас немає води.",
       "fr": "Nous n'avons pas d'eau.",
       "vocab": [
-        { "fr": "eau", "en": "water" }
+        { "fr": "eau", "en": "water", "uk": "вода" }
       ]
     },
     {
       "en": "You (formal/plural) don't have any cheese.",
+      "uk": "У вас немає сиру.",
       "fr": "Vous n'avez pas de fromage.",
       "vocab": [
-        { "fr": "fromage", "en": "cheese" }
+        { "fr": "fromage", "en": "cheese", "uk": "сир" }
       ]
     },
     {
       "en": "They (masc.) don't have any butter.",
+      "uk": "У них (чол.) немає масла.",
       "fr": "Ils n'ont pas de beurre.",
       "vocab": [
-        { "fr": "beurre", "en": "butter" }
+        { "fr": "beurre", "en": "butter", "uk": "масло (вершкове)" }
       ]
     },
     {
       "en": "They (fem.) don't have any sugar.",
+      "uk": "У них (жін.) немає цукру.",
       "fr": "Elles n'ont pas de sucre.",
       "vocab": [
-        { "fr": "sucre", "en": "sugar" }
+        { "fr": "sucre", "en": "sugar", "uk": "цукор" }
       ]
     },
     {
       "en": "I don't have any tea.",
+      "uk": "У мене немає чаю.",
       "fr": "Je n'ai pas de thé.",
       "vocab": [
-        { "fr": "thé", "en": "tea" }
+        { "fr": "thé", "en": "tea", "uk": "чай" }
       ]
     },
     {
       "en": "You (informal) don't have any coffee.",
+      "uk": "У тебе немає кави.",
       "fr": "Tu n'as pas de café.",
       "vocab": [
-        { "fr": "café", "en": "coffee" }
+        { "fr": "café", "en": "coffee", "uk": "кава" }
       ]
     }
   ]

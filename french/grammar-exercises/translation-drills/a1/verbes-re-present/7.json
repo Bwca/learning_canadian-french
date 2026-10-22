@@ -1,84 +1,97 @@
 {
-  "title": "Verbes en -re — present tense (set 7: at home and with family)",
+  "title": {
+    "en": "Verbes en -re — present tense (set 7: at home and with family)",
+    "uk": "Дієслова на -re — теперішній час (набір 7: удома й з родиною)"
+  },
   "exercises": [
     {
       "en": "I mow the lawn on Saturdays.",
+      "uk": "Я кошу газон по суботах.",
       "fr": "Je tonds le gazon le samedi.",
       "vocab": [
-        { "fr": "tondre", "en": "to mow" },
-        { "fr": "gazon", "en": "lawn" },
-        { "fr": "le samedi", "en": "on Saturdays" }
+        { "fr": "tondre", "en": "to mow", "uk": "косити, стригти" },
+        { "fr": "gazon", "en": "lawn", "uk": "газон" },
+        { "fr": "le samedi", "en": "on Saturdays", "uk": "по суботах" }
       ]
     },
     {
       "en": "You (informal) hang the laundry.",
+      "uk": "Ти розвішуєш білизну.",
       "fr": "Tu étends le linge.",
       "vocab": [
-        { "fr": "étendre", "en": "to hang (laundry) / to spread" },
-        { "fr": "linge", "en": "laundry" }
+        { "fr": "étendre", "en": "to hang (laundry) / to spread", "uk": "розвішувати (білизну) / розстилати" },
+        { "fr": "linge", "en": "laundry", "uk": "білизна" }
       ]
     },
     {
       "en": "Dad forbids video games.",
+      "uk": "Тато забороняє відеоігри.",
       "fr": "Papa défend les jeux vidéo.",
       "vocab": [
-        { "fr": "défendre", "en": "to forbid / to defend" },
-        { "fr": "jeux vidéo", "en": "video games" }
+        { "fr": "défendre", "en": "to forbid / to defend", "uk": "забороняти / захищати" },
+        { "fr": "jeux vidéo", "en": "video games", "uk": "відеоігри" }
       ]
     },
     {
       "en": "She visits Aunt Julie.",
+      "uk": "Вона відвідує тітку Жулі.",
       "fr": "Elle rend visite à tante Julie.",
       "vocab": [
-        { "fr": "rendre visite à", "en": "to visit (a person)" },
-        { "fr": "tante", "en": "aunt" }
+        { "fr": "rendre visite à", "en": "to visit (a person)", "uk": "відвідувати (когось)" },
+        { "fr": "tante", "en": "aunt", "uk": "тітка" }
       ]
     },
     {
       "en": "We are waiting for Grandma.",
+      "uk": "Ми чекаємо на бабусю.",
       "fr": "Nous attendons grand-maman.",
       "vocab": [
-        { "fr": "attendre", "en": "to wait for" },
-        { "fr": "grand-maman", "en": "grandma" }
+        { "fr": "attendre", "en": "to wait for", "uk": "чекати (на когось/щось)" },
+        { "fr": "grand-maman", "en": "grandma", "uk": "бабуся" }
       ]
     },
     {
       "en": "You (formal/plural) hear the baby.",
+      "uk": "Ви чуєте малюка.",
       "fr": "Vous entendez le bébé.",
       "vocab": [
-        { "fr": "entendre", "en": "to hear" }
+        { "fr": "entendre", "en": "to hear", "uk": "чути" }
       ]
     },
     {
       "en": "The brothers defend the little sister.",
+      "uk": "Брати захищають молодшу сестру.",
       "fr": "Les frères défendent la petite sœur.",
       "vocab": [
-        { "fr": "défendre", "en": "to defend / to forbid" },
-        { "fr": "sœur", "en": "sister" }
+        { "fr": "défendre", "en": "to defend / to forbid", "uk": "захищати / забороняти" },
+        { "fr": "sœur", "en": "sister", "uk": "сестра" }
       ]
     },
     {
       "en": "The ice cream is melting.",
+      "uk": "Морозиво тане.",
       "fr": "La crème glacée fond.",
       "vocab": [
-        { "fr": "fondre", "en": "to melt" },
-        { "fr": "crème glacée", "en": "ice cream (Québec)" }
+        { "fr": "fondre", "en": "to melt", "uk": "танути" },
+        { "fr": "crème glacée", "en": "ice cream (Québec)", "uk": "морозиво (у Квебеку)" }
       ]
     },
     {
       "en": "It depends on the weather.",
+      "uk": "Це залежить від погоди.",
       "fr": "Ça dépend de la météo.",
       "vocab": [
-        { "fr": "dépendre de", "en": "to depend on" },
-        { "fr": "météo", "en": "weather (forecast)" }
+        { "fr": "dépendre de", "en": "to depend on", "uk": "залежати від" },
+        { "fr": "météo", "en": "weather (forecast)", "uk": "погода, прогноз погоди" }
       ]
     },
     {
       "en": "The children give back the toys.",
+      "uk": "Діти повертають іграшки.",
       "fr": "Les enfants rendent les jouets.",
       "vocab": [
-        { "fr": "rendre", "en": "to give back" },
-        { "fr": "jouet", "en": "toy" }
+        { "fr": "rendre", "en": "to give back", "uk": "повертати, віддавати" },
+        { "fr": "jouet", "en": "toy", "uk": "іграшка" }
       ]
     }
   ]

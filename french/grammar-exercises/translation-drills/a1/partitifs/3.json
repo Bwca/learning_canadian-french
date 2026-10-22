@@ -1,94 +1,107 @@
 {
-  "title": "Partitifs — du/de la/de l' (set 3: with manger)",
+  "title": {
+    "en": "Partitifs — du/de la/de l' (set 3: with manger)",
+    "uk": "Партитиви — du/de la/de l' (набір 3: з manger)"
+  },
   "exercises": [
     {
       "en": "I eat some bread.",
+      "uk": "Я їм хліб.",
       "fr": "Je mange du pain.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "pain", "en": "bread" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "pain", "en": "bread", "uk": "хліб" }
       ]
     },
     {
       "en": "You (informal) eat some soup.",
+      "uk": "Ти їси суп.",
       "fr": "Tu manges de la soupe.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "soupe", "en": "soup" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "soupe", "en": "soup", "uk": "суп" }
       ]
     },
     {
       "en": "He eats some cheese.",
+      "uk": "Він їсть сир.",
       "fr": "Il mange du fromage.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "fromage", "en": "cheese" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "fromage", "en": "cheese", "uk": "сир" }
       ]
     },
     {
       "en": "She eats some meat.",
+      "uk": "Вона їсть м'ясо.",
       "fr": "Elle mange de la viande.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "viande", "en": "meat" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "viande", "en": "meat", "uk": "м'ясо" }
       ]
     },
     {
       "en": "We eat some rice.",
+      "uk": "Ми їмо рис.",
       "fr": "Nous mangeons du riz.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "riz", "en": "rice" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "riz", "en": "rice", "uk": "рис" }
       ]
     },
     {
       "en": "You (formal/plural) eat some salad.",
+      "uk": "Ви їсте салат.",
       "fr": "Vous mangez de la salade.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "salade", "en": "salad" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "salade", "en": "salad", "uk": "салат" }
       ]
     },
     {
       "en": "They (masc.) eat some fish.",
+      "uk": "Вони (чол.) їдять рибу.",
       "fr": "Ils mangent du poisson.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "poisson", "en": "fish" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "poisson", "en": "fish", "uk": "риба" }
       ]
     },
     {
       "en": "They (fem.) eat some jam.",
+      "uk": "Вони (жін.) їдять варення.",
       "fr": "Elles mangent de la confiture.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "confiture", "en": "jam" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "confiture", "en": "jam", "uk": "варення, джем" }
       ]
     },
     {
       "en": "I eat some pineapple.",
+      "uk": "Я їм ананас.",
       "fr": "Je mange de l'ananas.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "ananas", "en": "pineapple" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "ananas", "en": "pineapple", "uk": "ананас" }
       ]
     },
     {
       "en": "You (informal) eat some chocolate.",
+      "uk": "Ти їси шоколад.",
       "fr": "Tu manges du chocolat.",
       "vocab": [
-        { "fr": "manger", "en": "to eat" },
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "chocolat", "en": "chocolate" }
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "chocolat", "en": "chocolate", "uk": "шоколад" }
       ]
     }
   ]

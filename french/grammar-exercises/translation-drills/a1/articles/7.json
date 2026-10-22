@@ -1,74 +1,87 @@
 {
-  "title": "Articles — definite & indefinite (set 7: des with plural everyday items)",
+  "title": {
+    "en": "Articles — definite & indefinite (set 7: des with plural everyday items)",
+    "uk": "Articles — означені й неозначені (набір 7: des із побутовими речами в множині)"
+  },
   "exercises": [
     {
       "en": "I have pens.",
+      "uk": "У мене є ручки.",
       "fr": "J'ai des stylos.",
       "vocab": [
-        { "fr": "stylo", "en": "pen" }
+        { "fr": "stylo", "en": "pen", "uk": "ручка" }
       ]
     },
     {
       "en": "She has keys.",
+      "uk": "У неї є ключі.",
       "fr": "Elle a des clés.",
       "vocab": [
-        { "fr": "clé", "en": "key" }
+        { "fr": "clé", "en": "key", "uk": "ключ" }
       ]
     },
     {
       "en": "We have umbrellas.",
+      "uk": "У нас є парасольки.",
       "fr": "Nous avons des parapluies.",
       "vocab": [
-        { "fr": "parapluie", "en": "umbrella" }
+        { "fr": "parapluie", "en": "umbrella", "uk": "парасолька" }
       ]
     },
     {
       "en": "He has notebooks.",
+      "uk": "У нього є зошити.",
       "fr": "Il a des cahiers.",
       "vocab": [
-        { "fr": "cahier", "en": "notebook" }
+        { "fr": "cahier", "en": "notebook", "uk": "зошит" }
       ]
     },
     {
       "en": "They (masc.) have phones.",
+      "uk": "У них (чол.) є телефони.",
       "fr": "Ils ont des téléphones.",
       "vocab": [
-        { "fr": "téléphone", "en": "phone" }
+        { "fr": "téléphone", "en": "phone", "uk": "телефон" }
       ]
     },
     {
       "en": "You (informal) have pencils.",
+      "uk": "У тебе є олівці.",
       "fr": "Tu as des crayons.",
       "vocab": [
-        { "fr": "crayon", "en": "pencil" }
+        { "fr": "crayon", "en": "pencil", "uk": "олівець" }
       ]
     },
     {
       "en": "I have bags.",
+      "uk": "У мене є сумки.",
       "fr": "J'ai des sacs.",
       "vocab": [
-        { "fr": "sac", "en": "bag" }
+        { "fr": "sac", "en": "bag", "uk": "сумка" }
       ]
     },
     {
       "en": "You (formal) have computers.",
+      "uk": "У вас є комп'ютери.",
       "fr": "Vous avez des ordinateurs.",
       "vocab": [
-        { "fr": "ordinateur", "en": "computer" }
+        { "fr": "ordinateur", "en": "computer", "uk": "комп'ютер" }
       ]
     },
     {
       "en": "We have chairs.",
+      "uk": "У нас є стільці.",
       "fr": "Nous avons des chaises.",
       "vocab": [
-        { "fr": "chaise", "en": "chair" }
+        { "fr": "chaise", "en": "chair", "uk": "стілець" }
       ]
     },
     {
       "en": "She has plants.",
+      "uk": "У неї є рослини.",
       "fr": "Elle a des plantes.",
       "vocab": [
-        { "fr": "plante", "en": "plant" }
+        { "fr": "plante", "en": "plant", "uk": "рослина" }
       ]
     }
   ]

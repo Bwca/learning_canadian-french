@@ -1,75 +1,88 @@
 {
-  "title": "Avoir — present tense (set 9: family, continued — extended family)",
+  "title": {
+    "en": "Avoir — present tense (set 9: family, continued — extended family)",
+    "uk": "Avoir — теперішній час (набір 9: родина, продовження — далекі родичі)"
+  },
   "exercises": [
     {
       "en": "I have an uncle.",
+      "uk": "У мене є дядько.",
       "fr": "J'ai un oncle.",
       "vocab": [
-        { "fr": "oncle", "en": "uncle" }
+        { "fr": "oncle", "en": "uncle", "uk": "дядько" }
       ]
     },
     {
       "en": "She has an aunt.",
+      "uk": "У неї є тітка.",
       "fr": "Elle a une tante.",
       "vocab": [
-        { "fr": "tante", "en": "aunt" }
+        { "fr": "tante", "en": "aunt", "uk": "тітка" }
       ]
     },
     {
       "en": "He has a niece.",
+      "uk": "У нього є племінниця.",
       "fr": "Il a une nièce.",
       "vocab": [
-        { "fr": "nièce", "en": "niece" }
+        { "fr": "nièce", "en": "niece", "uk": "племінниця" }
       ]
     },
     {
       "en": "We have grandparents.",
+      "uk": "У нас є дідусь і бабуся.",
       "fr": "Nous avons des grands-parents.",
       "vocab": [
-        { "fr": "grands-parents", "en": "grandparents" }
+        { "fr": "grands-parents", "en": "grandparents", "uk": "дідусь і бабуся" }
       ]
     },
     {
       "en": "You (informal) have a stepfather.",
+      "uk": "У тебе є вітчим.",
       "fr": "Tu as un beau-père.",
       "vocab": [
-        { "fr": "beau-père", "en": "stepfather/father-in-law" }
+        { "fr": "beau-père", "en": "stepfather/father-in-law", "uk": "вітчим / свекор, тесть" }
       ]
     },
     {
       "en": "They (fem.) have a stepmother.",
+      "uk": "У них (жін.) є мачуха.",
       "fr": "Elles ont une belle-mère.",
       "vocab": [
-        { "fr": "belle-mère", "en": "stepmother/mother-in-law" }
+        { "fr": "belle-mère", "en": "stepmother/mother-in-law", "uk": "мачуха / свекруха, теща" }
       ]
     },
     {
       "en": "I have twins.",
+      "uk": "У мене є близнюки.",
       "fr": "J'ai des jumeaux.",
       "vocab": [
-        { "fr": "jumeaux", "en": "twins" }
+        { "fr": "jumeaux", "en": "twins", "uk": "близнюки" }
       ]
     },
     {
       "en": "She has a half-brother.",
+      "uk": "У неї є зведений брат.",
       "fr": "Elle a un demi-frère.",
       "vocab": [
-        { "fr": "demi-frère", "en": "half-brother" }
+        { "fr": "demi-frère", "en": "half-brother", "uk": "зведений брат" }
       ]
     },
     {
       "en": "We have cousins (fem.).",
+      "uk": "У нас є двоюрідні сестри.",
       "fr": "Nous avons des cousines.",
       "vocab": [
-        { "fr": "cousine", "en": "cousin (fem.)" }
+        { "fr": "cousine", "en": "cousin (fem.)", "uk": "двоюрідна сестра" }
       ]
     },
     {
       "en": "He has a big family.",
+      "uk": "У нього велика родина.",
       "fr": "Il a une grande famille.",
       "vocab": [
-        { "fr": "grande", "en": "big (fem.)" },
-        { "fr": "famille", "en": "family" }
+        { "fr": "grande", "en": "big (fem.)", "uk": "велика (жін. р.)" },
+        { "fr": "famille", "en": "family", "uk": "родина" }
       ]
     }
   ]

@@ -1,82 +1,95 @@
 {
-  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 7: contrast — aimer keeps le/la/les)",
+  "title": {
+    "en": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 7: contrast — aimer keeps le/la/les)",
+    "uk": "Заперечення — pas de (без du/de la/de l'/des/un/une) (набір 7: порівняння — aimer зберігає le/la/les)"
+  },
   "exercises": [
     {
       "en": "I don't have any coffee.",
+      "uk": "У мене немає кави.",
       "fr": "Je n'ai pas de café.",
       "vocab": [
-        { "fr": "café", "en": "coffee" }
+        { "fr": "café", "en": "coffee", "uk": "кава" }
       ]
     },
     {
       "en": "I don't like coffee.",
+      "uk": "Я не люблю каву.",
       "fr": "Je n'aime pas le café.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "café", "en": "coffee" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "café", "en": "coffee", "uk": "кава" }
       ]
     },
     {
       "en": "There isn't any tea in the cup.",
+      "uk": "У чашці немає чаю.",
       "fr": "Il n'y a pas de thé dans la tasse.",
       "vocab": [
-        { "fr": "thé", "en": "tea" },
-        { "fr": "tasse", "en": "cup" }
+        { "fr": "thé", "en": "tea", "uk": "чай" },
+        { "fr": "tasse", "en": "cup", "uk": "чашка" }
       ]
     },
     {
       "en": "She doesn't like tea.",
+      "uk": "Вона не любить чай.",
       "fr": "Elle n'aime pas le thé.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "thé", "en": "tea" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "thé", "en": "tea", "uk": "чай" }
       ]
     },
     {
       "en": "We don't have any chocolate.",
+      "uk": "У нас немає шоколаду.",
       "fr": "Nous n'avons pas de chocolat.",
       "vocab": [
-        { "fr": "chocolat", "en": "chocolate" }
+        { "fr": "chocolat", "en": "chocolate", "uk": "шоколад" }
       ]
     },
     {
       "en": "We don't like dark chocolate.",
+      "uk": "Ми не любимо чорний шоколад.",
       "fr": "Nous n'aimons pas le chocolat noir.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "chocolat", "en": "chocolate" },
-        { "fr": "noir", "en": "black / dark" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "chocolat", "en": "chocolate", "uk": "шоколад" },
+        { "fr": "noir", "en": "black / dark", "uk": "чорний" }
       ]
     },
     {
       "en": "There isn't any cheese in the fridge.",
+      "uk": "У холодильнику немає сиру.",
       "fr": "Il n'y a pas de fromage dans le frigo.",
       "vocab": [
-        { "fr": "fromage", "en": "cheese" },
-        { "fr": "frigo", "en": "fridge" }
+        { "fr": "fromage", "en": "cheese", "uk": "сир" },
+        { "fr": "frigo", "en": "fridge", "uk": "холодильник" }
       ]
     },
     {
       "en": "You (formal/plural) don't like cheese.",
+      "uk": "Ви не любите сир.",
       "fr": "Vous n'aimez pas le fromage.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "fromage", "en": "cheese" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "fromage", "en": "cheese", "uk": "сир" }
       ]
     },
     {
       "en": "They (masc.) don't have any meat.",
+      "uk": "У них (чол.) немає м'яса.",
       "fr": "Ils n'ont pas de viande.",
       "vocab": [
-        { "fr": "viande", "en": "meat" }
+        { "fr": "viande", "en": "meat", "uk": "м'ясо" }
       ]
     },
     {
       "en": "They (masc.) don't like meat.",
+      "uk": "Вони (чол.) не люблять м'ясо.",
       "fr": "Ils n'aiment pas la viande.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "viande", "en": "meat" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити" },
+        { "fr": "viande", "en": "meat", "uk": "м'ясо" }
       ]
     }
   ]

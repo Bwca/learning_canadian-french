@@ -1,75 +1,88 @@
 {
-  "title": "Accord des adjectifs — mixed review (set 10: gender & number together)",
+  "title": {
+    "en": "Accord des adjectifs — mixed review (set 10: gender & number together)",
+    "uk": "Accord des adjectifs — повторення (набір 10: рід і число разом)"
+  },
   "exercises": [
     {
       "en": "The garden is beautiful.",
+      "uk": "Сад прекрасний.",
       "fr": "Le jardin est beau.",
       "vocab": [
-        { "fr": "beau", "en": "beautiful" }
+        { "fr": "beau", "en": "beautiful", "uk": "прекрасний, гарний" }
       ]
     },
     {
       "en": "The gardens are beautiful.",
+      "uk": "Сади прекрасні.",
       "fr": "Les jardins sont beaux.",
       "vocab": [
-        { "fr": "beaux", "en": "beautiful (masc. plural)" }
+        { "fr": "beaux", "en": "beautiful (masc. plural)", "uk": "прекрасні (чол. р. мн.)" }
       ]
     },
     {
       "en": "The flower is beautiful.",
+      "uk": "Квітка прекрасна.",
       "fr": "La fleur est belle.",
       "vocab": [
-        { "fr": "belle", "en": "beautiful (fem.)" }
+        { "fr": "belle", "en": "beautiful (fem.)", "uk": "прекрасна, гарна (жін. р.)" }
       ]
     },
     {
       "en": "The flowers are beautiful.",
+      "uk": "Квіти прекрасні.",
       "fr": "Les fleurs sont belles.",
       "vocab": [
-        { "fr": "belles", "en": "beautiful (fem. plural)" }
+        { "fr": "belles", "en": "beautiful (fem. plural)", "uk": "прекрасні (жін. р. мн.)" }
       ]
     },
     {
       "en": "Is the house old?",
+      "uk": "Будинок старий?",
       "fr": "Est-ce que la maison est vieille?",
       "vocab": [
-        { "fr": "vieille", "en": "old (fem.)" }
+        { "fr": "vieille", "en": "old (fem.)", "uk": "стара (жін. р.)" }
       ]
     },
     {
       "en": "Are the houses old?",
+      "uk": "Будинки старі?",
       "fr": "Est-ce que les maisons sont vieilles?",
       "vocab": [
-        { "fr": "vieilles", "en": "old (fem. plural)" }
+        { "fr": "vieilles", "en": "old (fem. plural)", "uk": "старі (жін. р. мн.)" }
       ]
     },
     {
       "en": "I have a good idea.",
+      "uk": "У мене гарна ідея.",
       "fr": "J'ai une bonne idée.",
       "vocab": [
-        { "fr": "bonne", "en": "good (fem.)" }
+        { "fr": "bonne", "en": "good (fem.)", "uk": "добра, хороша (жін. р.)" }
       ]
     },
     {
       "en": "We have good ideas.",
+      "uk": "У нас гарні ідеї.",
       "fr": "Nous avons de bonnes idées.",
       "vocab": [
-        { "fr": "bonnes", "en": "good (fem. plural)" }
+        { "fr": "bonnes", "en": "good (fem. plural)", "uk": "добрі, хороші (жін. р. мн.)" }
       ]
     },
     {
       "en": "The boy is happy and intelligent.",
+      "uk": "Хлопчик щасливий і розумний.",
       "fr": "Le garçon est heureux et intelligent.",
       "vocab": [
-        { "fr": "et", "en": "and" }
+        { "fr": "et", "en": "and", "uk": "і" }
       ]
     },
     {
       "en": "The girls are happy and intelligent.",
+      "uk": "Дівчата щасливі й розумні.",
       "fr": "Les filles sont heureuses et intelligentes.",
       "vocab": [
-        { "fr": "heureuses", "en": "happy (fem. plural)" },
-        { "fr": "intelligentes", "en": "intelligent / smart (fem. plural)" }
+        { "fr": "heureuses", "en": "happy (fem. plural)", "uk": "щасливі (жін. р. мн.)" },
+        { "fr": "intelligentes", "en": "intelligent / smart (fem. plural)", "uk": "розумні (жін. р. мн.)" }
       ]
     }
   ]

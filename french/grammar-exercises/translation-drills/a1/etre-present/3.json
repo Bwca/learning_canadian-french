@@ -1,84 +1,97 @@
 {
-  "title": "Être — present tense (set 3: plural agreement)",
+  "title": {
+    "en": "Être — present tense (set 3: plural agreement)",
+    "uk": "Être — теперішній час (набір 3: узгодження в множині)"
+  },
   "exercises": [
     {
       "en": "The books are new.",
+      "uk": "Книжки нові.",
       "fr": "Les livres sont nouveaux.",
       "vocab": [
-        { "fr": "livre", "en": "book" },
-        { "fr": "nouveau / nouveaux", "en": "new" }
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "nouveau / nouveaux", "en": "new", "uk": "новий / нові (чол. р. мн.)" }
       ]
     },
     {
       "en": "The cars are red.",
+      "uk": "Машини червоні.",
       "fr": "Les voitures sont rouges.",
       "vocab": [
-        { "fr": "voiture", "en": "car" },
-        { "fr": "rouge", "en": "red" }
+        { "fr": "voiture", "en": "car", "uk": "машина" },
+        { "fr": "rouge", "en": "red", "uk": "червоний" }
       ]
     },
     {
       "en": "The shoes are black.",
+      "uk": "Черевики чорні.",
       "fr": "Les chaussures sont noires.",
       "vocab": [
-        { "fr": "chaussure", "en": "shoe" },
-        { "fr": "noir", "en": "black" }
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" },
+        { "fr": "noir", "en": "black", "uk": "чорний" }
       ]
     },
     {
       "en": "The windows are open.",
+      "uk": "Вікна відчинені.",
       "fr": "Les fenêtres sont ouvertes.",
       "vocab": [
-        { "fr": "fenêtre", "en": "window" },
-        { "fr": "ouverte", "en": "open (fem.)" }
+        { "fr": "fenêtre", "en": "window", "uk": "вікно" },
+        { "fr": "ouverte", "en": "open (fem.)", "uk": "відчинений (жін. р.)" }
       ]
     },
     {
       "en": "The friends (masc.) are kind.",
+      "uk": "Друзі добрі.",
       "fr": "Les amis sont gentils.",
       "vocab": [
-        { "fr": "ami", "en": "friend" },
-        { "fr": "gentil", "en": "kind" }
+        { "fr": "ami", "en": "friend", "uk": "друг" },
+        { "fr": "gentil", "en": "kind", "uk": "добрий" }
       ]
     },
     {
       "en": "The friends (fem.) are kind.",
+      "uk": "Подруги добрі.",
       "fr": "Les amies sont gentilles.",
       "vocab": [
-        { "fr": "amie", "en": "friend (fem.)" },
-        { "fr": "gentille", "en": "kind (fem.)" }
+        { "fr": "amie", "en": "friend (fem.)", "uk": "подруга" },
+        { "fr": "gentille", "en": "kind (fem.)", "uk": "добра (жін. р.)" }
       ]
     },
     {
       "en": "The chairs are small.",
+      "uk": "Стільці маленькі.",
       "fr": "Les chaises sont petites.",
       "vocab": [
-        { "fr": "chaise", "en": "chair" },
-        { "fr": "petite", "en": "small (fem.)" }
+        { "fr": "chaise", "en": "chair", "uk": "стілець" },
+        { "fr": "petite", "en": "small (fem.)", "uk": "маленький (жін. р.)" }
       ]
     },
     {
       "en": "The students (masc.) are ready.",
+      "uk": "Студенти готові.",
       "fr": "Les étudiants sont prêts.",
       "vocab": [
-        { "fr": "étudiant", "en": "student" },
-        { "fr": "prêt", "en": "ready" }
+        { "fr": "étudiant", "en": "student", "uk": "студент" },
+        { "fr": "prêt", "en": "ready", "uk": "готовий" }
       ]
     },
     {
       "en": "The apples are green.",
+      "uk": "Яблука зелені.",
       "fr": "Les pommes sont vertes.",
       "vocab": [
-        { "fr": "pomme", "en": "apple" },
-        { "fr": "vert", "en": "green" }
+        { "fr": "pomme", "en": "apple", "uk": "яблуко" },
+        { "fr": "vert", "en": "green", "uk": "зелений" }
       ]
     },
     {
       "en": "The tables are round.",
+      "uk": "Столи круглі.",
       "fr": "Les tables sont rondes.",
       "vocab": [
-        { "fr": "table", "en": "table" },
-        { "fr": "ronde", "en": "round (fem.)" }
+        { "fr": "table", "en": "table", "uk": "стіл" },
+        { "fr": "ronde", "en": "round (fem.)", "uk": "круглий (жін. р.)" }
       ]
     }
   ]

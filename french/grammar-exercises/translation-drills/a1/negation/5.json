@@ -1,74 +1,87 @@
 {
-  "title": "Negation — ne...pas (set 5: with avoir and the de rule, continued)",
+  "title": {
+    "en": "Negation — ne...pas (set 5: with avoir and the de rule, continued)",
+    "uk": "Заперечення — ne...pas (набір 5: з avoir і правило de, продовження)"
+  },
   "exercises": [
     {
       "en": "I do not have a computer.",
+      "uk": "У мене немає комп'ютера.",
       "fr": "Je n'ai pas d'ordinateur.",
       "vocab": [
-        { "fr": "ordinateur", "en": "computer" }
+        { "fr": "ordinateur", "en": "computer", "uk": "комп'ютер" }
       ]
     },
     {
       "en": "He does not have a bike.",
+      "uk": "У нього немає велосипеда.",
       "fr": "Il n'a pas de vélo.",
       "vocab": [
-        { "fr": "vélo", "en": "bike" }
+        { "fr": "vélo", "en": "bike", "uk": "велосипед" }
       ]
     },
     {
       "en": "We do not have a garden.",
+      "uk": "У нас немає саду.",
       "fr": "Nous n'avons pas de jardin.",
       "vocab": [
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "You (informal) do not have a pencil.",
+      "uk": "У тебе немає олівця.",
       "fr": "Tu n'as pas de crayon.",
       "vocab": [
-        { "fr": "crayon", "en": "pencil" }
+        { "fr": "crayon", "en": "pencil", "uk": "олівець" }
       ]
     },
     {
       "en": "She does not have an umbrella.",
+      "uk": "У неї немає парасольки.",
       "fr": "Elle n'a pas de parapluie.",
       "vocab": [
-        { "fr": "parapluie", "en": "umbrella" }
+        { "fr": "parapluie", "en": "umbrella", "uk": "парасолька" }
       ]
     },
     {
       "en": "They (masc.) do not have a key.",
+      "uk": "У них (чол.) немає ключа.",
       "fr": "Ils n'ont pas de clé.",
       "vocab": [
-        { "fr": "clé", "en": "key" }
+        { "fr": "clé", "en": "key", "uk": "ключ" }
       ]
     },
     {
       "en": "I do not have a cat.",
+      "uk": "У мене немає кота.",
       "fr": "Je n'ai pas de chat.",
       "vocab": [
-        { "fr": "chat", "en": "cat" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" }
       ]
     },
     {
       "en": "You (formal) do not have a notebook.",
+      "uk": "У вас немає зошита.",
       "fr": "Vous n'avez pas de cahier.",
       "vocab": [
-        { "fr": "cahier", "en": "notebook" }
+        { "fr": "cahier", "en": "notebook", "uk": "зошит" }
       ]
     },
     {
       "en": "We do not have a car.",
+      "uk": "У нас немає машини.",
       "fr": "Nous n'avons pas de voiture.",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "She does not have a phone.",
+      "uk": "У неї немає телефону.",
       "fr": "Elle n'a pas de téléphone.",
       "vocab": [
-        { "fr": "téléphone", "en": "phone" }
+        { "fr": "téléphone", "en": "phone", "uk": "телефон" }
       ]
     }
   ]

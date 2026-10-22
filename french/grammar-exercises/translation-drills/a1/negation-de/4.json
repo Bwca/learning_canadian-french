@@ -1,84 +1,97 @@
 {
-  "title": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 4: il y a with household objects)",
+  "title": {
+    "en": "Negation — pas de (dropping du/de la/de l'/des/un/une) (set 4: il y a with household objects)",
+    "uk": "Заперечення — pas de (без du/de la/de l'/des/un/une) (набір 4: il y a з речами в домі)"
+  },
   "exercises": [
     {
       "en": "There isn't a table in the bedroom.",
+      "uk": "У спальні немає столу.",
       "fr": "Il n'y a pas de table dans la chambre.",
       "vocab": [
-        { "fr": "table", "en": "table" },
-        { "fr": "chambre", "en": "bedroom" }
+        { "fr": "table", "en": "table", "uk": "стіл" },
+        { "fr": "chambre", "en": "bedroom", "uk": "спальня" }
       ]
     },
     {
       "en": "There isn't a chair in the kitchen.",
+      "uk": "На кухні немає стільця.",
       "fr": "Il n'y a pas de chaise dans la cuisine.",
       "vocab": [
-        { "fr": "chaise", "en": "chair" },
-        { "fr": "cuisine", "en": "kitchen" }
+        { "fr": "chaise", "en": "chair", "uk": "стілець" },
+        { "fr": "cuisine", "en": "kitchen", "uk": "кухня" }
       ]
     },
     {
       "en": "There isn't a bed in the living room.",
+      "uk": "У вітальні немає ліжка.",
       "fr": "Il n'y a pas de lit dans le salon.",
       "vocab": [
-        { "fr": "lit", "en": "bed" },
-        { "fr": "salon", "en": "living room" }
+        { "fr": "lit", "en": "bed", "uk": "ліжко" },
+        { "fr": "salon", "en": "living room", "uk": "вітальня" }
       ]
     },
     {
       "en": "There isn't a window in the bathroom.",
+      "uk": "У ванній кімнаті немає вікна.",
       "fr": "Il n'y a pas de fenêtre dans la salle de bain.",
       "vocab": [
-        { "fr": "fenêtre", "en": "window" },
-        { "fr": "salle de bain", "en": "bathroom" }
+        { "fr": "fenêtre", "en": "window", "uk": "вікно" },
+        { "fr": "salle de bain", "en": "bathroom", "uk": "ванна кімната" }
       ]
     },
     {
       "en": "There isn't a door in the garage.",
+      "uk": "У гаражі немає дверей.",
       "fr": "Il n'y a pas de porte dans le garage.",
       "vocab": [
-        { "fr": "porte", "en": "door" },
-        { "fr": "garage", "en": "garage" }
+        { "fr": "porte", "en": "door", "uk": "двері" },
+        { "fr": "garage", "en": "garage", "uk": "гараж" }
       ]
     },
     {
       "en": "There isn't a mirror in the bedroom.",
+      "uk": "У спальні немає дзеркала.",
       "fr": "Il n'y a pas de miroir dans la chambre.",
       "vocab": [
-        { "fr": "miroir", "en": "mirror" },
-        { "fr": "chambre", "en": "bedroom" }
+        { "fr": "miroir", "en": "mirror", "uk": "дзеркало" },
+        { "fr": "chambre", "en": "bedroom", "uk": "спальня" }
       ]
     },
     {
       "en": "There isn't a lamp on the desk.",
+      "uk": "На письмовому столі немає лампи.",
       "fr": "Il n'y a pas de lampe sur le bureau.",
       "vocab": [
-        { "fr": "lampe", "en": "lamp" },
-        { "fr": "bureau", "en": "desk" }
+        { "fr": "lampe", "en": "lamp", "uk": "лампа" },
+        { "fr": "bureau", "en": "desk", "uk": "письмовий стіл" }
       ]
     },
     {
       "en": "There isn't a cupboard in the hallway.",
+      "uk": "У коридорі немає шафи.",
       "fr": "Il n'y a pas d'armoire dans le couloir.",
       "vocab": [
-        { "fr": "armoire", "en": "cupboard" },
-        { "fr": "couloir", "en": "hallway" }
+        { "fr": "armoire", "en": "cupboard", "uk": "шафа" },
+        { "fr": "couloir", "en": "hallway", "uk": "коридор" }
       ]
     },
     {
       "en": "There isn't a rug in the living room.",
+      "uk": "У вітальні немає килима.",
       "fr": "Il n'y a pas de tapis dans le salon.",
       "vocab": [
-        { "fr": "tapis", "en": "rug" },
-        { "fr": "salon", "en": "living room" }
+        { "fr": "tapis", "en": "rug", "uk": "килим" },
+        { "fr": "salon", "en": "living room", "uk": "вітальня" }
       ]
     },
     {
       "en": "There isn't a clock in the kitchen.",
+      "uk": "На кухні немає годинника.",
       "fr": "Il n'y a pas d'horloge dans la cuisine.",
       "vocab": [
-        { "fr": "horloge", "en": "clock" },
-        { "fr": "cuisine", "en": "kitchen" }
+        { "fr": "horloge", "en": "clock", "uk": "годинник (настінний)" },
+        { "fr": "cuisine", "en": "kitchen", "uk": "кухня" }
       ]
     }
   ]

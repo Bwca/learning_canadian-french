@@ -1,74 +1,87 @@
 {
-  "title": "Accord des adjectifs — gender agreement (set 5: irregular feminine forms)",
+  "title": {
+    "en": "Accord des adjectifs — gender agreement (set 5: irregular feminine forms)",
+    "uk": "Accord des adjectifs — узгодження в роді (набір 5: неправильні форми жіночого роду)"
+  },
   "exercises": [
     {
       "en": "The garden is beautiful.",
+      "uk": "Сад прекрасний.",
       "fr": "Le jardin est beau.",
       "vocab": [
-        { "fr": "beau", "en": "beautiful" }
+        { "fr": "beau", "en": "beautiful", "uk": "прекрасний, гарний" }
       ]
     },
     {
       "en": "The flower is beautiful.",
+      "uk": "Квітка прекрасна.",
       "fr": "La fleur est belle.",
       "vocab": [
-        { "fr": "belle", "en": "beautiful (fem.)" }
+        { "fr": "belle", "en": "beautiful (fem.)", "uk": "прекрасна, гарна (жін. р.)" }
       ]
     },
     {
       "en": "The book is old.",
+      "uk": "Книжка стара.",
       "fr": "Le livre est vieux.",
       "vocab": [
-        { "fr": "vieux", "en": "old" }
+        { "fr": "vieux", "en": "old", "uk": "старий" }
       ]
     },
     {
       "en": "The house is old.",
+      "uk": "Будинок старий.",
       "fr": "La maison est vieille.",
       "vocab": [
-        { "fr": "vieille", "en": "old (fem.)" }
+        { "fr": "vieille", "en": "old (fem.)", "uk": "стара (жін. р.)" }
       ]
     },
     {
       "en": "The cat is white.",
+      "uk": "Кіт білий.",
       "fr": "Le chat est blanc.",
       "vocab": [
-        { "fr": "blanc", "en": "white" }
+        { "fr": "blanc", "en": "white", "uk": "білий" }
       ]
     },
     {
       "en": "The dress is white.",
+      "uk": "Сукня біла.",
       "fr": "La robe est blanche.",
       "vocab": [
-        { "fr": "blanche", "en": "white (fem.)" }
+        { "fr": "blanche", "en": "white (fem.)", "uk": "біла (жін. р.)" }
       ]
     },
     {
       "en": "The bread is soft.",
+      "uk": "Хліб м'який.",
       "fr": "Le pain est doux.",
       "vocab": [
-        { "fr": "doux", "en": "soft / sweet / mild" }
+        { "fr": "doux", "en": "soft / sweet / mild", "uk": "м'який / солодкий / лагідний" }
       ]
     },
     {
       "en": "The water is mild.",
+      "uk": "Вода тепла.",
       "fr": "L'eau est douce.",
       "vocab": [
-        { "fr": "douce", "en": "soft / sweet / mild (fem.)" }
+        { "fr": "douce", "en": "soft / sweet / mild (fem.)", "uk": "м'яка / солодка / лагідна (жін. р.)" }
       ]
     },
     {
       "en": "The day is long.",
+      "uk": "День довгий.",
       "fr": "Le jour est long.",
       "vocab": [
-        { "fr": "long", "en": "long" }
+        { "fr": "long", "en": "long", "uk": "довгий" }
       ]
     },
     {
       "en": "The week is long.",
+      "uk": "Тиждень довгий.",
       "fr": "La semaine est longue.",
       "vocab": [
-        { "fr": "longue", "en": "long (fem.)" }
+        { "fr": "longue", "en": "long (fem.)", "uk": "довга (жін. р.)" }
       ]
     }
   ]

@@ -1,74 +1,87 @@
 {
-  "title": "Negation — ne...pas (set 1: with être)",
+  "title": {
+    "en": "Negation — ne...pas (set 1: with être)",
+    "uk": "Заперечення — ne...pas (набір 1: з être)"
+  },
   "exercises": [
     {
       "en": "I am not tired.",
+      "uk": "Я не втомлений.",
       "fr": "Je ne suis pas fatigué.",
       "vocab": [
-        { "fr": "fatigué", "en": "tired" }
+        { "fr": "fatigué", "en": "tired", "uk": "втомлений" }
       ]
     },
     {
       "en": "You (informal) are not late.",
+      "uk": "Ти не запізнюєшся.",
       "fr": "Tu n'es pas en retard.",
       "vocab": [
-        { "fr": "en retard", "en": "late" }
+        { "fr": "en retard", "en": "late", "uk": "із запізненням" }
       ]
     },
     {
       "en": "He is not a doctor.",
+      "uk": "Він не лікар.",
       "fr": "Il n'est pas médecin.",
       "vocab": [
-        { "fr": "médecin", "en": "doctor" }
+        { "fr": "médecin", "en": "doctor", "uk": "лікар" }
       ]
     },
     {
       "en": "She is not here.",
+      "uk": "Її тут немає.",
       "fr": "Elle n'est pas ici.",
       "vocab": [
-        { "fr": "ici", "en": "here" }
+        { "fr": "ici", "en": "here", "uk": "тут" }
       ]
     },
     {
       "en": "We are not ready.",
+      "uk": "Ми не готові.",
       "fr": "Nous ne sommes pas prêts.",
       "vocab": [
-        { "fr": "prêt", "en": "ready" }
+        { "fr": "prêt", "en": "ready", "uk": "готовий" }
       ]
     },
     {
       "en": "You (formal/plural) are not alone.",
+      "uk": "Ви не самі.",
       "fr": "Vous n'êtes pas seuls.",
       "vocab": [
-        { "fr": "seul", "en": "alone" }
+        { "fr": "seul", "en": "alone", "uk": "сам, самотній" }
       ]
     },
     {
       "en": "They (masc.) are not French.",
+      "uk": "Вони (чол.) не французи.",
       "fr": "Ils ne sont pas français.",
       "vocab": [
-        { "fr": "français", "en": "French" }
+        { "fr": "français", "en": "French", "uk": "француз, французький" }
       ]
     },
     {
       "en": "They (fem.) are not at home.",
+      "uk": "Їх (жін.) немає вдома.",
       "fr": "Elles ne sont pas à la maison.",
       "vocab": [
-        { "fr": "à la maison", "en": "at home" }
+        { "fr": "à la maison", "en": "at home", "uk": "вдома" }
       ]
     },
     {
       "en": "I am not sad.",
+      "uk": "Мені не сумно.",
       "fr": "Je ne suis pas triste.",
       "vocab": [
-        { "fr": "triste", "en": "sad" }
+        { "fr": "triste", "en": "sad", "uk": "сумний" }
       ]
     },
     {
       "en": "We are not neighbours.",
+      "uk": "Ми не сусіди.",
       "fr": "Nous ne sommes pas voisins.",
       "vocab": [
-        { "fr": "voisin", "en": "neighbour" }
+        { "fr": "voisin", "en": "neighbour", "uk": "сусід" }
       ]
     }
   ]

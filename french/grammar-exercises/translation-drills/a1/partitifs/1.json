@@ -1,84 +1,97 @@
 {
-  "title": "Partitifs — du/de la/de l' (set 1: with avoir — basic foods & drinks)",
+  "title": {
+    "en": "Partitifs — du/de la/de l' (set 1: with avoir — basic foods & drinks)",
+    "uk": "Партитиви — du/de la/de l' (набір 1: з avoir — основні продукти й напої)"
+  },
   "exercises": [
     {
       "en": "I have some bread.",
+      "uk": "У мене є хліб.",
       "fr": "J'ai du pain.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "pain", "en": "bread" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "pain", "en": "bread", "uk": "хліб" }
       ]
     },
     {
       "en": "You (informal) have some jam.",
+      "uk": "У тебе є варення.",
       "fr": "Tu as de la confiture.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "confiture", "en": "jam" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "confiture", "en": "jam", "uk": "варення, джем" }
       ]
     },
     {
       "en": "He has some water.",
+      "uk": "У нього є вода.",
       "fr": "Il a de l'eau.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "eau", "en": "water" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "eau", "en": "water", "uk": "вода" }
       ]
     },
     {
       "en": "She has some milk.",
+      "uk": "У неї є молоко.",
       "fr": "Elle a du lait.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "lait", "en": "milk" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "lait", "en": "milk", "uk": "молоко" }
       ]
     },
     {
       "en": "We have some soup.",
+      "uk": "У нас є суп.",
       "fr": "Nous avons de la soupe.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "soupe", "en": "soup" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "soupe", "en": "soup", "uk": "суп" }
       ]
     },
     {
       "en": "You (formal/plural) have some cheese.",
+      "uk": "У вас є сир.",
       "fr": "Vous avez du fromage.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "fromage", "en": "cheese" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "fromage", "en": "cheese", "uk": "сир" }
       ]
     },
     {
       "en": "They (masc.) have some oil.",
+      "uk": "У них (чол.) є олія.",
       "fr": "Ils ont de l'huile.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "huile", "en": "oil" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "huile", "en": "oil", "uk": "олія" }
       ]
     },
     {
       "en": "They (fem.) have some sugar.",
+      "uk": "У них (жін.) є цукор.",
       "fr": "Elles ont du sucre.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "sucre", "en": "sugar" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "sucre", "en": "sugar", "uk": "цукор" }
       ]
     },
     {
       "en": "I have some meat.",
+      "uk": "У мене є м'ясо.",
       "fr": "J'ai de la viande.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "viande", "en": "meat" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "viande", "en": "meat", "uk": "м'ясо" }
       ]
     },
     {
       "en": "You (informal) have some oats.",
+      "uk": "У тебе є вівсянка.",
       "fr": "Tu as de l'avoine.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "avoine", "en": "oats" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "avoine", "en": "oats", "uk": "овес, вівсяні пластівці" }
       ]
     }
   ]

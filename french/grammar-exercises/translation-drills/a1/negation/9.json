@@ -1,84 +1,97 @@
 {
-  "title": "Negation — ne...pas (set 9: mixed subjects and adjectives)",
+  "title": {
+    "en": "Negation — ne...pas (set 9: mixed subjects and adjectives)",
+    "uk": "Заперечення — ne...pas (набір 9: різні підмети й прикметники)"
+  },
   "exercises": [
     {
       "en": "The book is not interesting.",
+      "uk": "Книжка нецікава.",
       "fr": "Le livre n'est pas intéressant.",
       "vocab": [
-        { "fr": "livre", "en": "book" },
-        { "fr": "intéressant", "en": "interesting" }
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "intéressant", "en": "interesting", "uk": "цікавий" }
       ]
     },
     {
       "en": "The car is not new.",
+      "uk": "Машина не нова.",
       "fr": "La voiture n'est pas nouvelle.",
       "vocab": [
-        { "fr": "voiture", "en": "car" },
-        { "fr": "nouveau", "en": "new" }
+        { "fr": "voiture", "en": "car", "uk": "машина" },
+        { "fr": "nouveau", "en": "new", "uk": "новий" }
       ]
     },
     {
       "en": "The children are not happy.",
+      "uk": "Діти незадоволені.",
       "fr": "Les enfants ne sont pas contents.",
       "vocab": [
-        { "fr": "enfant", "en": "child" },
-        { "fr": "content", "en": "happy" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "content", "en": "happy", "uk": "задоволений, радий" }
       ]
     },
     {
       "en": "The friend (masc.) is not nice.",
+      "uk": "Друг недобрий.",
       "fr": "L'ami n'est pas gentil.",
       "vocab": [
-        { "fr": "ami", "en": "friend" },
-        { "fr": "gentil", "en": "nice / kind" }
+        { "fr": "ami", "en": "friend", "uk": "друг" },
+        { "fr": "gentil", "en": "nice / kind", "uk": "добрий, милий" }
       ]
     },
     {
       "en": "The house is not big.",
+      "uk": "Будинок невеликий.",
       "fr": "La maison n'est pas grande.",
       "vocab": [
-        { "fr": "maison", "en": "house" },
-        { "fr": "grand", "en": "big" }
+        { "fr": "maison", "en": "house", "uk": "будинок" },
+        { "fr": "grand", "en": "big", "uk": "великий" }
       ]
     },
     {
       "en": "The shoes are not black.",
+      "uk": "Черевики не чорні.",
       "fr": "Les chaussures ne sont pas noires.",
       "vocab": [
-        { "fr": "chaussure", "en": "shoe" },
-        { "fr": "noir", "en": "black" }
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" },
+        { "fr": "noir", "en": "black", "uk": "чорний" }
       ]
     },
     {
       "en": "The soup is not hot.",
+      "uk": "Суп не гарячий.",
       "fr": "La soupe n'est pas chaude.",
       "vocab": [
-        { "fr": "soupe", "en": "soup" },
-        { "fr": "chaud", "en": "hot" }
+        { "fr": "soupe", "en": "soup", "uk": "суп" },
+        { "fr": "chaud", "en": "hot", "uk": "гарячий" }
       ]
     },
     {
       "en": "The students are not ready.",
+      "uk": "Студенти не готові.",
       "fr": "Les étudiants ne sont pas prêts.",
       "vocab": [
-        { "fr": "étudiant", "en": "student" },
-        { "fr": "prêt", "en": "ready" }
+        { "fr": "étudiant", "en": "student", "uk": "студент" },
+        { "fr": "prêt", "en": "ready", "uk": "готовий" }
       ]
     },
     {
       "en": "The movie is not long.",
+      "uk": "Фільм не довгий.",
       "fr": "Le film n'est pas long.",
       "vocab": [
-        { "fr": "film", "en": "movie" },
-        { "fr": "long", "en": "long" }
+        { "fr": "film", "en": "movie", "uk": "фільм" },
+        { "fr": "long", "en": "long", "uk": "довгий" }
       ]
     },
     {
       "en": "The bread is not fresh.",
+      "uk": "Хліб не свіжий.",
       "fr": "Le pain n'est pas frais.",
       "vocab": [
-        { "fr": "pain", "en": "bread" },
-        { "fr": "frais", "en": "fresh" }
+        { "fr": "pain", "en": "bread", "uk": "хліб" },
+        { "fr": "frais", "en": "fresh", "uk": "свіжий" }
       ]
     }
   ]

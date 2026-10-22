@@ -1,94 +1,107 @@
 {
-  "title": "Partitifs — du/de la/de l' (set 2: with il y a — food & drinks around the kitchen)",
+  "title": {
+    "en": "Partitifs — du/de la/de l' (set 2: with il y a — food & drinks around the kitchen)",
+    "uk": "Партитиви — du/de la/de l' (набір 2: з il y a — продукти й напої на кухні)"
+  },
   "exercises": [
     {
       "en": "There is some bread on the table.",
+      "uk": "На столі є хліб.",
       "fr": "Il y a du pain sur la table.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "pain", "en": "bread" },
-        { "fr": "table", "en": "table" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "pain", "en": "bread", "uk": "хліб" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "There is some jam in the fridge.",
+      "uk": "У холодильнику є варення.",
       "fr": "Il y a de la confiture dans le réfrigérateur.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "confiture", "en": "jam" },
-        { "fr": "réfrigérateur", "en": "fridge" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "confiture", "en": "jam", "uk": "варення, джем" },
+        { "fr": "réfrigérateur", "en": "fridge", "uk": "холодильник" }
       ]
     },
     {
       "en": "There is some water in the bottle.",
+      "uk": "У пляшці є вода.",
       "fr": "Il y a de l'eau dans la bouteille.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "eau", "en": "water" },
-        { "fr": "bouteille", "en": "bottle" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "eau", "en": "water", "uk": "вода" },
+        { "fr": "bouteille", "en": "bottle", "uk": "пляшка" }
       ]
     },
     {
       "en": "There is some milk in the glass.",
+      "uk": "У склянці є молоко.",
       "fr": "Il y a du lait dans le verre.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "lait", "en": "milk" },
-        { "fr": "verre", "en": "glass" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "lait", "en": "milk", "uk": "молоко" },
+        { "fr": "verre", "en": "glass", "uk": "склянка" }
       ]
     },
     {
       "en": "There is some soup in the pot.",
+      "uk": "У каструлі є суп.",
       "fr": "Il y a de la soupe dans la casserole.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "soupe", "en": "soup" },
-        { "fr": "casserole", "en": "pot" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "soupe", "en": "soup", "uk": "суп" },
+        { "fr": "casserole", "en": "pot", "uk": "каструля" }
       ]
     },
     {
       "en": "There is some cheese in the fridge.",
+      "uk": "У холодильнику є сир.",
       "fr": "Il y a du fromage dans le frigo.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "fromage", "en": "cheese" },
-        { "fr": "frigo", "en": "fridge (informal)" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "fromage", "en": "cheese", "uk": "сир" },
+        { "fr": "frigo", "en": "fridge (informal)", "uk": "холодильник (розм.)" }
       ]
     },
     {
       "en": "There is some oil on the table.",
+      "uk": "На столі є олія.",
       "fr": "Il y a de l'huile sur la table.",
       "vocab": [
-        { "fr": "de l'", "en": "some (before vowel/mute h)" },
-        { "fr": "huile", "en": "oil" },
-        { "fr": "table", "en": "table" }
+        { "fr": "de l'", "en": "some (before vowel/mute h)", "uk": "трохи (перед голосною або німим h)" },
+        { "fr": "huile", "en": "oil", "uk": "олія" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "There is some sugar in the bowl.",
+      "uk": "У мисці є цукор.",
       "fr": "Il y a du sucre dans le bol.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "sucre", "en": "sugar" },
-        { "fr": "bol", "en": "bowl" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "sucre", "en": "sugar", "uk": "цукор" },
+        { "fr": "bol", "en": "bowl", "uk": "миска" }
       ]
     },
     {
       "en": "There is some meat on the plate.",
+      "uk": "На тарілці є м'ясо.",
       "fr": "Il y a de la viande dans l'assiette.",
       "vocab": [
-        { "fr": "de la", "en": "some (fem.)" },
-        { "fr": "viande", "en": "meat" },
-        { "fr": "assiette", "en": "plate" }
+        { "fr": "de la", "en": "some (fem.)", "uk": "трохи (жін. р.)" },
+        { "fr": "viande", "en": "meat", "uk": "м'ясо" },
+        { "fr": "assiette", "en": "plate", "uk": "тарілка" }
       ]
     },
     {
       "en": "There is some juice in the pitcher.",
+      "uk": "У глечику є сік.",
       "fr": "Il y a du jus dans le pichet.",
       "vocab": [
-        { "fr": "du", "en": "some (masc.)" },
-        { "fr": "jus", "en": "juice" },
-        { "fr": "pichet", "en": "pitcher" }
+        { "fr": "du", "en": "some (masc.)", "uk": "трохи (чол. р.)" },
+        { "fr": "jus", "en": "juice", "uk": "сік" },
+        { "fr": "pichet", "en": "pitcher", "uk": "глечик" }
       ]
     }
   ]

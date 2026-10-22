@@ -1,64 +1,77 @@
 {
-  "title": "Questions — est-ce que (set 12: without est-ce que — intonation & Québec -tu)",
+  "title": {
+    "en": "Questions — est-ce que (set 12: without est-ce que — intonation & Québec -tu)",
+    "uk": "Questions — est-ce que (набір 12: без est-ce que — інтонація та квебекське -tu)"
+  },
   "exercises": [
     {
       "en": "Do you have a brother? (informal, intonation only)",
+      "uk": "У тебе є брат? (лише інтонація)",
       "fr": "Tu as un frère?",
       "vocab": [
-        { "fr": "frère", "en": "brother" }
+        { "fr": "frère", "en": "brother", "uk": "брат" }
       ]
     },
     {
       "en": "Are you French? (informal, masc., intonation only)",
+      "uk": "Ти француз? (лише інтонація)",
       "fr": "Tu es français?",
       "vocab": []
     },
     {
       "en": "Do you speak English? (informal, with est-ce que)",
+      "uk": "Ти розмовляєш англійською? (з est-ce que)",
       "fr": "Est-ce que tu parles anglais?",
       "vocab": []
     },
     {
       "en": "Do you speak English? (informal, intonation only)",
+      "uk": "Ти розмовляєш англійською? (лише інтонація)",
       "fr": "Tu parles anglais?",
       "vocab": []
     },
     {
       "en": "Are you coming to the movies? (Québec, with -tu)",
+      "uk": "Ти йдеш у кіно? (у Квебеку, з -tu)",
       "fr": "Tu viens-tu au cinéma?",
       "vocab": [
-        { "fr": "-tu", "en": "Québec question marker after the verb" },
-        { "fr": "venir", "en": "to come" }
+        { "fr": "-tu", "en": "Québec question marker after the verb", "uk": "-tu = квебекська частка питання після дієслова" },
+        { "fr": "venir", "en": "to come", "uk": "приходити, іти" }
       ]
     },
     {
       "en": "Do you like apples? (Québec, with -tu)",
+      "uk": "Ти любиш яблука? (у Квебеку, з -tu)",
       "fr": "Tu aimes-tu les pommes?",
       "vocab": [
-        { "fr": "pomme", "en": "apple" }
+        { "fr": "pomme", "en": "apple", "uk": "яблуко" }
       ]
     },
     {
       "en": "Do you want a coffee? (Québec, with -tu)",
+      "uk": "Хочеш кави? (у Квебеку, з -tu)",
       "fr": "Tu veux-tu un café?",
       "vocab": [
-        { "fr": "vouloir", "en": "to want (tu veux)" }
+        { "fr": "vouloir", "en": "to want (tu veux)", "uk": "хотіти (tu veux)" }
       ]
     },
     {
       "en": "Is he coming tonight? (intonation only)",
+      "uk": "Він прийде сьогодні ввечері? (лише інтонація)",
       "fr": "Il vient ce soir?",
       "vocab": []
     },
     {
       "en": "Are you hungry? (Québec, with -tu)",
+      "uk": "Ти голодний? (у Квебеку, з -tu)",
       "fr": "Tu as-tu faim?",
       "vocab": [
-        { "fr": "tu as-tu", "en": "spoken t'as-tu" }
+        { "fr": "tu as-tu", "en": "spoken t'as-tu", "uk": "tu as-tu = у мовленні t'as-tu" }
       ]
     },
     {
       "en": "Are you doing OK? (Québec, with ça and -tu)",
+      "uk": "Ти як, нормально? (у Квебеку, з ça і -tu)",
       "fr": "Ça va-tu?",
       "vocab": []
     }

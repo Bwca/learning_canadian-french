@@ -1,67 +1,80 @@
 {
-  "title": "Il y a — past & future (set 5: mixed review — all tenses & colloquial)",
+  "title": {
+    "en": "Il y a — past & future (set 5: mixed review — all tenses & colloquial)",
+    "uk": "Il y a — минуле й майбутнє (набір 5: повторення — усі часи й розмовне)"
+  },
   "exercises": [
     {
       "en": "What's wrong?",
+      "uk": "Що сталося?",
       "fr": "Qu'est-ce qu'il y a?",
       "vocab": [
-        { "fr": "qu'est-ce qu'il y a?", "en": "what's wrong? / what's the matter?" }
+        { "fr": "qu'est-ce qu'il y a?", "en": "what's wrong? / what's the matter?", "uk": "qu'est-ce qu'il y a? = що сталося? / у чому річ?" }
       ]
     },
     {
       "en": "No problem! (colloquial, il and ne dropped)",
+      "uk": "Нема проблем! (розмовне, без il і ne)",
       "fr": "Y a pas de problème!",
       "vocab": [
-        { "fr": "y a pas de", "en": "colloquial il n'y a pas de" }
+        { "fr": "y a pas de", "en": "colloquial il n'y a pas de", "uk": "y a pas de = розмовне il n'y a pas de" }
       ]
     },
     {
       "en": "It's sunny today.",
+      "uk": "Сьогодні сонячно.",
       "fr": "Il y a du soleil aujourd'hui.",
       "vocab": [
-        { "fr": "soleil", "en": "sun" }
+        { "fr": "soleil", "en": "sun", "uk": "сонце" }
       ]
     },
     {
       "en": "There were always forks on the table.",
+      "uk": "На столі завжди лежали виделки.",
       "fr": "Il y avait toujours des fourchettes sur la table.",
       "vocab": [
-        { "fr": "fourchette", "en": "fork" }
+        { "fr": "fourchette", "en": "fork", "uk": "виделка" }
       ]
     },
     {
       "en": "There was a party at my place yesterday.",
+      "uk": "Учора в мене вдома була вечірка.",
       "fr": "Il y a eu une fête chez moi hier.",
       "vocab": [
-        { "fr": "chez moi", "en": "at my place" }
+        { "fr": "chez moi", "en": "at my place", "uk": "у мене вдома" }
       ]
     },
     {
       "en": "There will be thirty students in the class.",
+      "uk": "У класі буде тридцять учнів.",
       "fr": "Il y aura trente élèves dans la classe.",
       "vocab": []
     },
     {
       "en": "I saw that movie two weeks ago.",
+      "uk": "Я бачив цей фільм два тижні тому.",
       "fr": "J'ai vu ce film il y a deux semaines.",
       "vocab": [
-        { "fr": "voir", "en": "to see (j'ai vu)" }
+        { "fr": "voir", "en": "to see (j'ai vu)", "uk": "бачити (j'ai vu)" }
       ]
     },
     {
       "en": "There wasn't any snow last year.",
+      "uk": "Торік снігу не було.",
       "fr": "Il n'y a pas eu de neige l'année dernière.",
       "vocab": []
     },
     {
       "en": "There was often fog in the morning.",
+      "uk": "Уранці часто бував туман.",
       "fr": "Il y avait souvent du brouillard le matin.",
       "vocab": [
-        { "fr": "souvent", "en": "often" }
+        { "fr": "souvent", "en": "often", "uk": "часто" }
       ]
     },
     {
       "en": "What's wrong? Is there a problem? (with est-ce que)",
+      "uk": "Що сталося? Є якась проблема? (з est-ce que)",
       "fr": "Qu'est-ce qu'il y a? Est-ce qu'il y a un problème?",
       "vocab": []
     }

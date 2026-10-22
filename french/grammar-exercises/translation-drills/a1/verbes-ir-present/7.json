@@ -1,84 +1,97 @@
 {
-  "title": "Verbes en -ir — present tense (set 7: everyday actions)",
+  "title": {
+    "en": "Verbes en -ir — present tense (set 7: everyday actions)",
+    "uk": "Дієслова на -ir — теперішній час (набір 7: повсякденні дії)"
+  },
   "exercises": [
     {
       "en": "I fill the bathtub.",
+      "uk": "Я наповнюю ванну.",
       "fr": "Je remplis le bain.",
       "vocab": [
-        { "fr": "remplir", "en": "to fill" },
-        { "fr": "bain", "en": "bath / bathtub" }
+        { "fr": "remplir", "en": "to fill", "uk": "наповнювати" },
+        { "fr": "bain", "en": "bath / bathtub", "uk": "ванна" }
       ]
     },
     {
       "en": "You (informal) get the floor dirty.",
+      "uk": "Ти бруднуєш підлогу.",
       "fr": "Tu salis le plancher.",
       "vocab": [
-        { "fr": "salir", "en": "to get (something) dirty" },
-        { "fr": "plancher", "en": "floor (Québec)" }
+        { "fr": "salir", "en": "to get (something) dirty", "uk": "бруднити" },
+        { "fr": "plancher", "en": "floor (Québec)", "uk": "підлога (у Квебеку)" }
       ]
     },
     {
       "en": "He feeds the birds.",
+      "uk": "Він годує пташок.",
       "fr": "Il nourrit les oiseaux.",
       "vocab": [
-        { "fr": "nourrir", "en": "to feed" },
-        { "fr": "oiseau", "en": "bird" }
+        { "fr": "nourrir", "en": "to feed", "uk": "годувати" },
+        { "fr": "oiseau", "en": "bird", "uk": "птах" }
       ]
     },
     {
       "en": "She chooses a dress.",
+      "uk": "Вона вибирає сукню.",
       "fr": "Elle choisit une robe.",
       "vocab": [
-        { "fr": "choisir", "en": "to choose" },
-        { "fr": "robe", "en": "dress" }
+        { "fr": "choisir", "en": "to choose", "uk": "вибирати" },
+        { "fr": "robe", "en": "dress", "uk": "сукня" }
       ]
     },
     {
       "en": "We warn the neighbours.",
+      "uk": "Ми попереджаємо сусідів.",
       "fr": "Nous avertissons les voisins.",
       "vocab": [
-        { "fr": "avertir", "en": "to warn" },
-        { "fr": "voisin", "en": "neighbour" }
+        { "fr": "avertir", "en": "to warn", "uk": "попереджати" },
+        { "fr": "voisin", "en": "neighbour", "uk": "сусід" }
       ]
     },
     {
       "en": "You (formal/plural) slow down on the highway.",
+      "uk": "Ви сповільнюєтеся на автомагістралі.",
       "fr": "Vous ralentissez sur l'autoroute.",
       "vocab": [
-        { "fr": "ralentir", "en": "to slow down" },
-        { "fr": "autoroute", "en": "highway" }
+        { "fr": "ralentir", "en": "to slow down", "uk": "сповільнюватися, пригальмовувати" },
+        { "fr": "autoroute", "en": "highway", "uk": "автомагістраль, шосе" }
       ]
     },
     {
       "en": "They (masc.) demolish the old garage.",
+      "uk": "Вони (чол.) зносять старий гараж.",
       "fr": "Ils démolissent le vieux garage.",
       "vocab": [
-        { "fr": "démolir", "en": "to demolish" },
-        { "fr": "vieux", "en": "old" }
+        { "fr": "démolir", "en": "to demolish", "uk": "зносити, руйнувати" },
+        { "fr": "vieux", "en": "old", "uk": "старий" }
       ]
     },
     {
       "en": "They (fem.) finish the puzzle.",
+      "uk": "Вони (жін.) закінчують пазл.",
       "fr": "Elles finissent le casse-tête.",
       "vocab": [
-        { "fr": "finir", "en": "to finish" },
-        { "fr": "casse-tête", "en": "puzzle" }
+        { "fr": "finir", "en": "to finish", "uk": "закінчувати" },
+        { "fr": "casse-tête", "en": "puzzle", "uk": "пазл, головоломка" }
       ]
     },
     {
       "en": "The dog gets the carpet dirty.",
+      "uk": "Собака бруднить килим.",
       "fr": "Le chien salit le tapis.",
       "vocab": [
-        { "fr": "salir", "en": "to get (something) dirty" },
-        { "fr": "tapis", "en": "carpet" }
+        { "fr": "salir", "en": "to get (something) dirty", "uk": "бруднити" },
+        { "fr": "tapis", "en": "carpet", "uk": "килим" }
       ]
     },
     {
       "en": "I finish the dishes.",
+      "uk": "Я домиваю посуд.",
       "fr": "Je finis la vaisselle.",
       "vocab": [
-        { "fr": "finir", "en": "to finish" },
-        { "fr": "vaisselle", "en": "dishes" }
+        { "fr": "finir", "en": "to finish", "uk": "закінчувати" },
+        { "fr": "vaisselle", "en": "dishes", "uk": "посуд" }
       ]
     }
   ]

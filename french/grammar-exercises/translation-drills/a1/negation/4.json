@@ -1,74 +1,87 @@
 {
-  "title": "Negation — ne...pas (set 4: with aimer)",
+  "title": {
+    "en": "Negation — ne...pas (set 4: with aimer)",
+    "uk": "Заперечення — ne...pas (набір 4: з aimer)"
+  },
   "exercises": [
     {
       "en": "I do not like coffee.",
+      "uk": "Я не люблю каву.",
       "fr": "Je n'aime pas le café.",
       "vocab": [
-        { "fr": "café", "en": "coffee" }
+        { "fr": "café", "en": "coffee", "uk": "кава" }
       ]
     },
     {
       "en": "He does not like the rain.",
+      "uk": "Він не любить дощ.",
       "fr": "Il n'aime pas la pluie.",
       "vocab": [
-        { "fr": "pluie", "en": "rain" }
+        { "fr": "pluie", "en": "rain", "uk": "дощ" }
       ]
     },
     {
       "en": "We do not like the cold.",
+      "uk": "Ми не любимо холод.",
       "fr": "Nous n'aimons pas le froid.",
       "vocab": [
-        { "fr": "froid", "en": "cold (noun)" }
+        { "fr": "froid", "en": "cold (noun)", "uk": "холод" }
       ]
     },
     {
       "en": "She does not like snakes.",
+      "uk": "Вона не любить змій.",
       "fr": "Elle n'aime pas les serpents.",
       "vocab": [
-        { "fr": "serpent", "en": "snake" }
+        { "fr": "serpent", "en": "snake", "uk": "змія" }
       ]
     },
     {
       "en": "You (informal) do not like vegetables.",
+      "uk": "Ти не любиш овочі.",
       "fr": "Tu n'aimes pas les légumes.",
       "vocab": [
-        { "fr": "légume", "en": "vegetable" }
+        { "fr": "légume", "en": "vegetable", "uk": "овоч" }
       ]
     },
     {
       "en": "They (masc.) do not like the city.",
+      "uk": "Вони (чол.) не люблять місто.",
       "fr": "Ils n'aiment pas la ville.",
       "vocab": [
-        { "fr": "ville", "en": "city" }
+        { "fr": "ville", "en": "city", "uk": "місто" }
       ]
     },
     {
       "en": "I do not like winter.",
+      "uk": "Я не люблю зиму.",
       "fr": "Je n'aime pas l'hiver.",
       "vocab": [
-        { "fr": "hiver", "en": "winter" }
+        { "fr": "hiver", "en": "winter", "uk": "зима" }
       ]
     },
     {
       "en": "You (formal) do not like noise.",
+      "uk": "Ви не любите шум.",
       "fr": "Vous n'aimez pas le bruit.",
       "vocab": [
-        { "fr": "bruit", "en": "noise" }
+        { "fr": "bruit", "en": "noise", "uk": "шум" }
       ]
     },
     {
       "en": "She does not like spiders.",
+      "uk": "Вона не любить павуків.",
       "fr": "Elle n'aime pas les araignées.",
       "vocab": [
-        { "fr": "araignée", "en": "spider" }
+        { "fr": "araignée", "en": "spider", "uk": "павук" }
       ]
     },
     {
       "en": "We do not like Mondays.",
+      "uk": "Ми не любимо понеділки.",
       "fr": "Nous n'aimons pas les lundis.",
       "vocab": [
-        { "fr": "lundi", "en": "Monday" }
+        { "fr": "lundi", "en": "Monday", "uk": "понеділок" }
       ]
     }
   ]

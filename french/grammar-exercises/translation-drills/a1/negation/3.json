@@ -1,75 +1,88 @@
 {
-  "title": "Negation — ne...pas (set 3: other common verbs)",
+  "title": {
+    "en": "Negation — ne...pas (set 3: other common verbs)",
+    "uk": "Заперечення — ne...pas (набір 3: інші поширені дієслова)"
+  },
   "exercises": [
     {
       "en": "He is not French.",
+      "uk": "Він не француз.",
       "fr": "Il n'est pas français.",
       "vocab": [
-        { "fr": "français", "en": "French" }
+        { "fr": "français", "en": "French", "uk": "француз, французький" }
       ]
     },
     {
       "en": "I am not at home.",
+      "uk": "Мене немає вдома.",
       "fr": "Je ne suis pas à la maison.",
       "vocab": [
-        { "fr": "à la maison", "en": "at home" }
+        { "fr": "à la maison", "en": "at home", "uk": "вдома" }
       ]
     },
     {
       "en": "I do not like tea.",
+      "uk": "Я не люблю чай.",
       "fr": "Je n'aime pas le thé.",
       "vocab": [
-        { "fr": "thé", "en": "tea" }
+        { "fr": "thé", "en": "tea", "uk": "чай" }
       ]
     },
     {
       "en": "We do not like coffee.",
+      "uk": "Ми не любимо каву.",
       "fr": "Nous n'aimons pas le café.",
       "vocab": [
-        { "fr": "café", "en": "coffee" }
+        { "fr": "café", "en": "coffee", "uk": "кава" }
       ]
     },
     {
       "en": "You (informal) are not Canadian.",
+      "uk": "Ти не канадієць.",
       "fr": "Tu n'es pas canadien.",
       "vocab": [
-        { "fr": "canadien", "en": "Canadian" }
+        { "fr": "canadien", "en": "Canadian", "uk": "канадієць, канадський" }
       ]
     },
     {
       "en": "I do not have many friends.",
+      "uk": "У мене небагато друзів.",
       "fr": "Je n'ai pas beaucoup d'amis.",
       "vocab": [
-        { "fr": "beaucoup de", "en": "a lot of" },
-        { "fr": "ami", "en": "friend" }
+        { "fr": "beaucoup de", "en": "a lot of", "uk": "багато" },
+        { "fr": "ami", "en": "friend", "uk": "друг" }
       ]
     },
     {
       "en": "She is not thirsty.",
+      "uk": "Вона не хоче пити.",
       "fr": "Elle n'a pas soif.",
       "vocab": [
-        { "fr": "avoir soif", "en": "to be thirsty" }
+        { "fr": "avoir soif", "en": "to be thirsty", "uk": "хотіти пити" }
       ]
     },
     {
       "en": "They (fem.) do not have a car.",
+      "uk": "У них (жін.) немає машини.",
       "fr": "Elles n'ont pas de voiture.",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "I am not thirty years old.",
+      "uk": "Мені не тридцять років.",
       "fr": "Je n'ai pas trente ans.",
       "vocab": [
-        { "fr": "trente", "en": "thirty" }
+        { "fr": "trente", "en": "thirty", "uk": "тридцять" }
       ]
     },
     {
       "en": "He does not like tea.",
+      "uk": "Він не любить чай.",
       "fr": "Il n'aime pas le thé.",
       "vocab": [
-        { "fr": "thé", "en": "tea" }
+        { "fr": "thé", "en": "tea", "uk": "чай" }
       ]
     }
   ]

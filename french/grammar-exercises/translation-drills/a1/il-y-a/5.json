@@ -1,82 +1,95 @@
 {
-  "title": "Il y a — there is/there are (set 5: at school)",
+  "title": {
+    "en": "Il y a — there is/there are (set 5: at school)",
+    "uk": "Il y a — є (набір 5: у школі)"
+  },
   "exercises": [
     {
       "en": "There is a teacher in the classroom.",
+      "uk": "У класі є вчитель.",
       "fr": "Il y a un professeur dans la salle de classe.",
       "vocab": [
-        { "fr": "professeur", "en": "teacher" },
-        { "fr": "salle de classe", "en": "classroom" }
+        { "fr": "professeur", "en": "teacher", "uk": "вчитель" },
+        { "fr": "salle de classe", "en": "classroom", "uk": "клас (кімната)" }
       ]
     },
     {
       "en": "There are desks in the room.",
+      "uk": "У залі є парти.",
       "fr": "Il y a des bureaux dans la salle.",
       "vocab": [
-        { "fr": "bureau", "en": "desk" }
+        { "fr": "bureau", "en": "desk", "uk": "парта, письмовий стіл" }
       ]
     },
     {
       "en": "There is a board at the front.",
+      "uk": "Попереду є дошка.",
       "fr": "Il y a un tableau devant.",
       "vocab": [
-        { "fr": "tableau", "en": "board" }
+        { "fr": "tableau", "en": "board", "uk": "дошка" }
       ]
     },
     {
       "en": "There are books in the bag.",
+      "uk": "У сумці є книжки.",
       "fr": "Il y a des livres dans le sac.",
       "vocab": [
-        { "fr": "livre", "en": "book" },
-        { "fr": "sac", "en": "bag" }
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "sac", "en": "bag", "uk": "сумка" }
       ]
     },
     {
       "en": "There is a library at the school.",
+      "uk": "У школі є бібліотека.",
       "fr": "Il y a une bibliothèque à l'école.",
       "vocab": [
-        { "fr": "bibliothèque", "en": "library" },
-        { "fr": "école", "en": "school" }
+        { "fr": "bibliothèque", "en": "library", "uk": "бібліотека" },
+        { "fr": "école", "en": "school", "uk": "школа" }
       ]
     },
     {
       "en": "There are many students in the hallway.",
+      "uk": "У коридорі багато студентів.",
       "fr": "Il y a beaucoup d'étudiants dans le couloir.",
       "vocab": [
-        { "fr": "couloir", "en": "hallway" }
+        { "fr": "couloir", "en": "hallway", "uk": "коридор" }
       ]
     },
     {
       "en": "There is a computer in the classroom.",
+      "uk": "У класі є комп'ютер.",
       "fr": "Il y a un ordinateur dans la salle de classe.",
       "vocab": [
-        { "fr": "ordinateur", "en": "computer" },
-        { "fr": "salle de classe", "en": "classroom" }
+        { "fr": "ordinateur", "en": "computer", "uk": "комп'ютер" },
+        { "fr": "salle de classe", "en": "classroom", "uk": "клас (кімната)" }
       ]
     },
     {
       "en": "There are pencils on the desk.",
+      "uk": "На парті є олівці.",
       "fr": "Il y a des crayons sur le bureau.",
       "vocab": [
-        { "fr": "crayon", "en": "pencil" },
-        { "fr": "bureau", "en": "desk" }
+        { "fr": "crayon", "en": "pencil", "uk": "олівець" },
+        { "fr": "bureau", "en": "desk", "uk": "парта, письмовий стіл" }
       ]
     },
     {
       "en": "There is a clock on the wall.",
+      "uk": "На стіні є годинник.",
       "fr": "Il y a une horloge sur le mur.",
       "vocab": [
-        { "fr": "horloge", "en": "clock" },
-        { "fr": "mur", "en": "wall" }
+        { "fr": "horloge", "en": "clock", "uk": "годинник (настінний)" },
+        { "fr": "mur", "en": "wall", "uk": "стіна" }
       ]
     },
     {
       "en": "There are chairs around the table.",
+      "uk": "Навколо столу стоять стільці.",
       "fr": "Il y a des chaises autour de la table.",
       "vocab": [
-        { "fr": "autour de", "en": "around" },
-        { "fr": "chaise", "en": "chair" },
-        { "fr": "table", "en": "table" }
+        { "fr": "autour de", "en": "around", "uk": "навколо" },
+        { "fr": "chaise", "en": "chair", "uk": "стілець" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     }
   ]

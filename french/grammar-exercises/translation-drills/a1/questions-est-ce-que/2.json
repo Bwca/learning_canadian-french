@@ -1,75 +1,88 @@
 {
-  "title": "Questions — est-ce que (set 2: with avoir and other verbs)",
+  "title": {
+    "en": "Questions — est-ce que (set 2: with avoir and other verbs)",
+    "uk": "Питання — est-ce que (набір 2: з avoir та іншими дієсловами)"
+  },
   "exercises": [
     {
       "en": "Are you (informal) hungry?",
+      "uk": "Ти голодний?",
       "fr": "Est-ce que tu as faim?",
       "vocab": [
-        { "fr": "avoir faim", "en": "to be hungry" }
+        { "fr": "avoir faim", "en": "to be hungry", "uk": "бути голодним" }
       ]
     },
     {
       "en": "Is she busy?",
+      "uk": "Вона зайнята?",
       "fr": "Est-ce qu'elle est occupée?",
       "vocab": [
-        { "fr": "occupée", "en": "busy (fem.)" }
+        { "fr": "occupée", "en": "busy (fem.)", "uk": "зайнята (жін. р.)" }
       ]
     },
     {
       "en": "Is the bank near here?",
+      "uk": "Банк неподалік?",
       "fr": "Est-ce que la banque est près d'ici?",
       "vocab": [
-        { "fr": "banque", "en": "bank" },
-        { "fr": "près d'ici", "en": "near here" }
+        { "fr": "banque", "en": "bank", "uk": "банк" },
+        { "fr": "près d'ici", "en": "near here", "uk": "неподалік" }
       ]
     },
     {
       "en": "Are you (informal) American?",
+      "uk": "Ти американець?",
       "fr": "Est-ce que tu es américain?",
       "vocab": [
-        { "fr": "américain", "en": "American" }
+        { "fr": "américain", "en": "American", "uk": "американець, американський" }
       ]
     },
     {
       "en": "Is she Italian?",
+      "uk": "Вона італійка?",
       "fr": "Est-ce qu'elle est italienne?",
       "vocab": [
-        { "fr": "italienne", "en": "Italian (fem.)" }
+        { "fr": "italienne", "en": "Italian (fem.)", "uk": "італійка, італійська (жін. р.)" }
       ]
     },
     {
       "en": "Do you (informal) have a brother?",
+      "uk": "У тебе є брат?",
       "fr": "Est-ce que tu as un frère?",
       "vocab": [
-        { "fr": "frère", "en": "brother" }
+        { "fr": "frère", "en": "brother", "uk": "брат" }
       ]
     },
     {
       "en": "Does he have a car?",
+      "uk": "У нього є машина?",
       "fr": "Est-ce qu'il a une voiture?",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     },
     {
       "en": "Do you (informal) have a sister?",
+      "uk": "У тебе є сестра?",
       "fr": "Est-ce que tu as une sœur?",
       "vocab": [
-        { "fr": "sœur", "en": "sister" }
+        { "fr": "sœur", "en": "sister", "uk": "сестра" }
       ]
     },
     {
       "en": "Do they (masc.) have children?",
+      "uk": "У них (чол.) є діти?",
       "fr": "Est-ce qu'ils ont des enfants?",
       "vocab": [
-        { "fr": "enfant", "en": "child" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" }
       ]
     },
     {
       "en": "Do they (fem.) have a car?",
+      "uk": "У них (жін.) є машина?",
       "fr": "Est-ce qu'elles ont une voiture?",
       "vocab": [
-        { "fr": "voiture", "en": "car" }
+        { "fr": "voiture", "en": "car", "uk": "машина" }
       ]
     }
   ]

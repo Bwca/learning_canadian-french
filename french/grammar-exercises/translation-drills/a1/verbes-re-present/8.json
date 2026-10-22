@@ -1,78 +1,91 @@
 {
-  "title": "Verbes en -re — present tense (set 8: common expressions)",
+  "title": {
+    "en": "Verbes en -re — present tense (set 8: common expressions)",
+    "uk": "Дієслова на -re — теперішній час (набір 8: поширені вирази)"
+  },
   "exercises": [
     {
       "en": "I waste time.",
+      "uk": "Я марную час.",
       "fr": "Je perds du temps.",
       "vocab": [
-        { "fr": "perdre du temps", "en": "to waste time" }
+        { "fr": "perdre du temps", "en": "to waste time", "uk": "марнувати час" }
       ]
     },
     {
       "en": "You (informal) do Paul a favour.",
+      "uk": "Ти робиш Полю послугу.",
       "fr": "Tu rends service à Paul.",
       "vocab": [
-        { "fr": "rendre service à", "en": "to do (someone) a favour" }
+        { "fr": "rendre service à", "en": "to do (someone) a favour", "uk": "зробити (комусь) послугу" }
       ]
     },
     {
       "en": "He hears about the festival.",
+      "uk": "Він чує про фестиваль.",
       "fr": "Il entend parler du festival.",
       "vocab": [
-        { "fr": "entendre parler de", "en": "to hear about" }
+        { "fr": "entendre parler de", "en": "to hear about", "uk": "чути про" }
       ]
     },
     {
       "en": "She waits a long time.",
+      "uk": "Вона довго чекає.",
       "fr": "Elle attend longtemps.",
       "vocab": [
-        { "fr": "attendre", "en": "to wait (for)" },
-        { "fr": "longtemps", "en": "a long time" }
+        { "fr": "attendre", "en": "to wait (for)", "uk": "чекати" },
+        { "fr": "longtemps", "en": "a long time", "uk": "довго" }
       ]
     },
     {
       "en": "It depends.",
+      "uk": "Залежить.",
       "fr": "Ça dépend.",
       "vocab": [
-        { "fr": "dépendre", "en": "to depend" }
+        { "fr": "dépendre", "en": "to depend", "uk": "залежати" }
       ]
     },
     {
       "en": "We visit the grandparents on Sundays.",
+      "uk": "Ми відвідуємо дідуся й бабусю по неділях.",
       "fr": "Nous rendons visite aux grands-parents le dimanche.",
       "vocab": [
-        { "fr": "rendre visite à", "en": "to visit (a person)" },
-        { "fr": "grands-parents", "en": "grandparents" },
-        { "fr": "le dimanche", "en": "on Sundays" }
+        { "fr": "rendre visite à", "en": "to visit (a person)", "uk": "відвідувати (когось)" },
+        { "fr": "grands-parents", "en": "grandparents", "uk": "дідусь і бабуся" },
+        { "fr": "le dimanche", "en": "on Sundays", "uk": "по неділях" }
       ]
     },
     {
       "en": "You (formal/plural) lose patience.",
+      "uk": "Ви втрачаєте терпіння.",
       "fr": "Vous perdez patience.",
       "vocab": [
-        { "fr": "perdre patience", "en": "to lose patience" }
+        { "fr": "perdre patience", "en": "to lose patience", "uk": "втрачати терпіння" }
       ]
     },
     {
       "en": "They (masc.) sell at a high price.",
+      "uk": "Вони (чол.) продають дорого.",
       "fr": "Ils vendent cher.",
       "vocab": [
-        { "fr": "vendre cher", "en": "to sell at a high price" }
+        { "fr": "vendre cher", "en": "to sell at a high price", "uk": "продавати дорого" }
       ]
     },
     {
       "en": "They (fem.) lose weight.",
+      "uk": "Вони (жін.) худнуть.",
       "fr": "Elles perdent du poids.",
       "vocab": [
-        { "fr": "perdre du poids", "en": "to lose weight" }
+        { "fr": "perdre du poids", "en": "to lose weight", "uk": "худнути, втрачати вагу" }
       ]
     },
     {
       "en": "I wait my turn.",
+      "uk": "Я чекаю своєї черги.",
       "fr": "J'attends mon tour.",
       "vocab": [
-        { "fr": "attendre", "en": "to wait (for)" },
-        { "fr": "tour", "en": "turn" }
+        { "fr": "attendre", "en": "to wait (for)", "uk": "чекати" },
+        { "fr": "tour", "en": "turn", "uk": "черга" }
       ]
     }
   ]

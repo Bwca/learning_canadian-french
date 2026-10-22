@@ -1,79 +1,92 @@
 {
-  "title": "Accord des adjectifs — gender agreement (set 4: -er/-ère endings)",
+  "title": {
+    "en": "Accord des adjectifs — gender agreement (set 4: -er/-ère endings)",
+    "uk": "Accord des adjectifs — узгодження в роді (набір 4: закінчення -er/-ère)"
+  },
   "exercises": [
     {
       "en": "The first day.",
+      "uk": "Перший день.",
       "fr": "Le premier jour.",
       "vocab": [
-        { "fr": "premier", "en": "first" },
-        { "fr": "jour", "en": "day" }
+        { "fr": "premier", "en": "first", "uk": "перший" },
+        { "fr": "jour", "en": "day", "uk": "день" }
       ]
     },
     {
       "en": "The first week.",
+      "uk": "Перший тиждень.",
       "fr": "La première semaine.",
       "vocab": [
-        { "fr": "première", "en": "first (fem.)" },
-        { "fr": "semaine", "en": "week" }
+        { "fr": "première", "en": "first (fem.)", "uk": "перша (жін. р.)" },
+        { "fr": "semaine", "en": "week", "uk": "тиждень" }
       ]
     },
     {
       "en": "The last train.",
+      "uk": "Останній потяг.",
       "fr": "Le dernier train.",
       "vocab": [
-        { "fr": "dernier", "en": "last" },
-        { "fr": "train", "en": "train" }
+        { "fr": "dernier", "en": "last", "uk": "останній" },
+        { "fr": "train", "en": "train", "uk": "потяг" }
       ]
     },
     {
       "en": "The last time.",
+      "uk": "Останній раз.",
       "fr": "La dernière fois.",
       "vocab": [
-        { "fr": "dernière", "en": "last (fem.)" },
-        { "fr": "fois", "en": "time (occurrence)" }
+        { "fr": "dernière", "en": "last (fem.)", "uk": "остання (жін. р.)" },
+        { "fr": "fois", "en": "time (occurrence)", "uk": "раз" }
       ]
     },
     {
       "en": "The coffee is expensive.",
+      "uk": "Кава дорога.",
       "fr": "Le café est cher.",
       "vocab": [
-        { "fr": "cher", "en": "expensive / dear" }
+        { "fr": "cher", "en": "expensive / dear", "uk": "дорогий" }
       ]
     },
     {
       "en": "The jacket is expensive.",
+      "uk": "Куртка дорога.",
       "fr": "La veste est chère.",
       "vocab": [
-        { "fr": "chère", "en": "expensive / dear (fem.)" }
+        { "fr": "chère", "en": "expensive / dear (fem.)", "uk": "дорога (жін. р.)" }
       ]
     },
     {
       "en": "The bag is light.",
+      "uk": "Сумка легка.",
       "fr": "Le sac est léger.",
       "vocab": [
-        { "fr": "léger", "en": "light (weight)" }
+        { "fr": "léger", "en": "light (weight)", "uk": "легкий (на вагу)" }
       ]
     },
     {
       "en": "The jacket is light.",
+      "uk": "Куртка легка.",
       "fr": "La veste est légère.",
       "vocab": [
-        { "fr": "légère", "en": "light (weight) (fem.)" }
+        { "fr": "légère", "en": "light (weight) (fem.)", "uk": "легка (на вагу, жін. р.)" }
       ]
     },
     {
       "en": "The man is foreign.",
+      "uk": "Чоловік — іноземець.",
       "fr": "L'homme est étranger.",
       "vocab": [
-        { "fr": "étranger", "en": "foreign" }
+        { "fr": "étranger", "en": "foreign", "uk": "іноземний, чужий" }
       ]
     },
     {
       "en": "The language is foreign.",
+      "uk": "Мова іноземна.",
       "fr": "La langue est étrangère.",
       "vocab": [
-        { "fr": "langue", "en": "language" },
-        { "fr": "étrangère", "en": "foreign (fem.)" }
+        { "fr": "langue", "en": "language", "uk": "мова" },
+        { "fr": "étrangère", "en": "foreign (fem.)", "uk": "іноземна (жін. р.)" }
       ]
     }
   ]

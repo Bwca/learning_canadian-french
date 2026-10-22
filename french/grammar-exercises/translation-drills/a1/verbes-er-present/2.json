@@ -1,82 +1,95 @@
 {
-  "title": "Verbes en -er — present tense (set 2: with nous/vous/ils/elles)",
+  "title": {
+    "en": "Verbes en -er — present tense (set 2: with nous/vous/ils/elles)",
+    "uk": "Дієслова на -er — теперішній час (набір 2: з nous/vous/ils/elles)"
+  },
   "exercises": [
     {
       "en": "We live in Quebec City.",
+      "uk": "Ми живемо в місті Квебек.",
       "fr": "Nous habitons à Québec.",
       "vocab": [
-        { "fr": "habiter", "en": "to live" },
-        { "fr": "Québec", "en": "Quebec City" }
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" },
+        { "fr": "Québec", "en": "Quebec City", "uk": "місто Квебек" }
       ]
     },
     {
       "en": "You (formal/plural) speak English.",
+      "uk": "Ви говорите англійською.",
       "fr": "Vous parlez anglais.",
       "vocab": [
-        { "fr": "parler", "en": "to speak" }
+        { "fr": "parler", "en": "to speak", "uk": "говорити" }
       ]
     },
     {
       "en": "They (masc.) work on Saturdays.",
+      "uk": "Вони (чол.) працюють по суботах.",
       "fr": "Ils travaillent le samedi.",
       "vocab": [
-        { "fr": "travailler", "en": "to work" },
-        { "fr": "le samedi", "en": "on Saturdays" }
+        { "fr": "travailler", "en": "to work", "uk": "працювати" },
+        { "fr": "le samedi", "en": "on Saturdays", "uk": "по суботах" }
       ]
     },
     {
       "en": "They (fem.) sing well.",
+      "uk": "Вони (жін.) гарно співають.",
       "fr": "Elles chantent bien.",
       "vocab": [
-        { "fr": "chanter", "en": "to sing" },
-        { "fr": "bien", "en": "well" }
+        { "fr": "chanter", "en": "to sing", "uk": "співати" },
+        { "fr": "bien", "en": "well", "uk": "добре, гарно" }
       ]
     },
     {
       "en": "We listen to the teacher.",
+      "uk": "Ми слухаємо вчителя.",
       "fr": "Nous écoutons le professeur.",
       "vocab": [
-        { "fr": "écouter", "en": "to listen to" },
-        { "fr": "professeur", "en": "teacher" }
+        { "fr": "écouter", "en": "to listen to", "uk": "слухати" },
+        { "fr": "professeur", "en": "teacher", "uk": "вчитель" }
       ]
     },
     {
       "en": "You (formal/plural) play cards.",
+      "uk": "Ви граєте в карти.",
       "fr": "Vous jouez aux cartes.",
       "vocab": [
-        { "fr": "jouer à", "en": "to play (a sport or game)" },
-        { "fr": "cartes", "en": "cards" }
+        { "fr": "jouer à", "en": "to play (a sport or game)", "uk": "грати в (спорт чи гру)" },
+        { "fr": "cartes", "en": "cards", "uk": "карти" }
       ]
     },
     {
       "en": "They (masc.) watch the game.",
+      "uk": "Вони (чол.) дивляться матч.",
       "fr": "Ils regardent la partie.",
       "vocab": [
-        { "fr": "regarder", "en": "to watch" },
-        { "fr": "partie", "en": "game (match)" }
+        { "fr": "regarder", "en": "to watch", "uk": "дивитися" },
+        { "fr": "partie", "en": "game (match)", "uk": "гра, матч" }
       ]
     },
     {
       "en": "We study French.",
+      "uk": "Ми вивчаємо французьку.",
       "fr": "Nous étudions le français.",
       "vocab": [
-        { "fr": "étudier", "en": "to study" }
+        { "fr": "étudier", "en": "to study", "uk": "навчатися, вивчати" }
       ]
     },
     {
       "en": "They (fem.) dance at the party.",
+      "uk": "Вони (жін.) танцюють на вечірці.",
       "fr": "Elles dansent à la fête.",
       "vocab": [
-        { "fr": "danser", "en": "to dance" },
-        { "fr": "fête", "en": "party" }
+        { "fr": "danser", "en": "to dance", "uk": "танцювати" },
+        { "fr": "fête", "en": "party", "uk": "свято, вечірка" }
       ]
     },
     {
       "en": "We love winter.",
+      "uk": "Ми любимо зиму.",
       "fr": "Nous aimons l'hiver.",
       "vocab": [
-        { "fr": "aimer", "en": "to like / to love" },
-        { "fr": "hiver", "en": "winter" }
+        { "fr": "aimer", "en": "to like / to love", "uk": "любити, подобатися" },
+        { "fr": "hiver", "en": "winter", "uk": "зима" }
       ]
     }
   ]

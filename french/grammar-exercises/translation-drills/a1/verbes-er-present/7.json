@@ -1,81 +1,94 @@
 {
-  "title": "Verbes en -er — present tense (set 7: at school and work)",
+  "title": {
+    "en": "Verbes en -er — present tense (set 7: at school and work)",
+    "uk": "Дієслова на -er — теперішній час (набір 7: на навчанні й роботі)"
+  },
   "exercises": [
     {
       "en": "The teacher explains the lesson.",
+      "uk": "Вчитель пояснює урок.",
       "fr": "Le professeur explique la leçon.",
       "vocab": [
-        { "fr": "expliquer", "en": "to explain" },
-        { "fr": "leçon", "en": "lesson" }
+        { "fr": "expliquer", "en": "to explain", "uk": "пояснювати" },
+        { "fr": "leçon", "en": "lesson", "uk": "урок" }
       ]
     },
     {
       "en": "I ask a question.",
+      "uk": "Я ставлю запитання.",
       "fr": "Je pose une question.",
       "vocab": [
-        { "fr": "poser une question", "en": "to ask a question" }
+        { "fr": "poser une question", "en": "to ask a question", "uk": "ставити запитання" }
       ]
     },
     {
       "en": "You (informal) are looking for a job.",
+      "uk": "Ти шукаєш роботу.",
       "fr": "Tu cherches un emploi.",
       "vocab": [
-        { "fr": "chercher", "en": "to look for" },
-        { "fr": "emploi", "en": "job" }
+        { "fr": "chercher", "en": "to look for", "uk": "шукати" },
+        { "fr": "emploi", "en": "job", "uk": "робота, посада" }
       ]
     },
     {
       "en": "She finds the answer.",
+      "uk": "Вона знаходить відповідь.",
       "fr": "Elle trouve la réponse.",
       "vocab": [
-        { "fr": "trouver", "en": "to find" },
-        { "fr": "réponse", "en": "answer" }
+        { "fr": "trouver", "en": "to find", "uk": "знаходити" },
+        { "fr": "réponse", "en": "answer", "uk": "відповідь" }
       ]
     },
     {
       "en": "We call the client.",
+      "uk": "Ми телефонуємо клієнтові.",
       "fr": "Nous téléphonons au client.",
       "vocab": [
-        { "fr": "téléphoner à", "en": "to call (on the phone)" }
+        { "fr": "téléphoner à", "en": "to call (on the phone)", "uk": "телефонувати (комусь)" }
       ]
     },
     {
       "en": "You (formal/plural) forget the meeting.",
+      "uk": "Ви забуваєте про нараду.",
       "fr": "Vous oubliez la réunion.",
       "vocab": [
-        { "fr": "oublier", "en": "to forget" },
-        { "fr": "réunion", "en": "meeting" }
+        { "fr": "oublier", "en": "to forget", "uk": "забувати" },
+        { "fr": "réunion", "en": "meeting", "uk": "нарада, збори" }
       ]
     },
     {
       "en": "They (masc.) bring sandwiches.",
+      "uk": "Вони (чол.) приносять сендвічі.",
       "fr": "Ils apportent des sandwichs.",
       "vocab": [
-        { "fr": "apporter", "en": "to bring" }
+        { "fr": "apporter", "en": "to bring", "uk": "приносити" }
       ]
     },
     {
       "en": "They (fem.) present the project.",
+      "uk": "Вони (жін.) представляють проєкт.",
       "fr": "Elles présentent le projet.",
       "vocab": [
-        { "fr": "présenter", "en": "to present" },
-        { "fr": "projet", "en": "project" }
+        { "fr": "présenter", "en": "to present", "uk": "представляти" },
+        { "fr": "projet", "en": "project", "uk": "проєкт" }
       ]
     },
     {
       "en": "I don't work on the weekend.",
+      "uk": "Я не працюю на вихідних.",
       "fr": "Je ne travaille pas la fin de semaine.",
       "vocab": [
-        { "fr": "travailler", "en": "to work" },
-        { "fr": "la fin de semaine", "en": "on the weekend (Québec)" }
+        { "fr": "travailler", "en": "to work", "uk": "працювати" },
+        { "fr": "la fin de semaine", "en": "on the weekend (Québec)", "uk": "на вихідних (у Квебеку)" }
       ]
     },
     {
       "en": "The students study the vocabulary.",
+      "uk": "Студенти вчать лексику.",
       "fr": "Les étudiants étudient le vocabulaire.",
       "vocab": [
-        { "fr": "étudier", "en": "to study" },
-        { "fr": "vocabulaire", "en": "vocabulary" }
+        { "fr": "étudier", "en": "to study", "uk": "навчатися, вивчати" },
+        { "fr": "vocabulaire", "en": "vocabulary", "uk": "лексика, словниковий запас" }
       ]
     }
   ]

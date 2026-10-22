@@ -1,84 +1,97 @@
 {
-  "title": "Articles — definite & indefinite (set 9: definite articles with rooms of the house)",
+  "title": {
+    "en": "Articles — definite & indefinite (set 9: definite articles with rooms of the house)",
+    "uk": "Articles — означені й неозначені (набір 9: означені артиклі з кімнатами в домі)"
+  },
   "exercises": [
     {
       "en": "The kitchen is big.",
+      "uk": "Кухня велика.",
       "fr": "La cuisine est grande.",
       "vocab": [
-        { "fr": "cuisine", "en": "kitchen" },
-        { "fr": "grande", "en": "big (fem.)" }
+        { "fr": "cuisine", "en": "kitchen", "uk": "кухня" },
+        { "fr": "grande", "en": "big (fem.)", "uk": "велика (жін. р.)" }
       ]
     },
     {
       "en": "The living room is clean.",
+      "uk": "Вітальня чиста.",
       "fr": "Le salon est propre.",
       "vocab": [
-        { "fr": "salon", "en": "living room" },
-        { "fr": "propre", "en": "clean" }
+        { "fr": "salon", "en": "living room", "uk": "вітальня" },
+        { "fr": "propre", "en": "clean", "uk": "чистий" }
       ]
     },
     {
       "en": "The bedroom is small.",
+      "uk": "Спальня маленька.",
       "fr": "La chambre est petite.",
       "vocab": [
-        { "fr": "chambre", "en": "bedroom" },
-        { "fr": "petite", "en": "small (fem.)" }
+        { "fr": "chambre", "en": "bedroom", "uk": "спальня" },
+        { "fr": "petite", "en": "small (fem.)", "uk": "маленька (жін. р.)" }
       ]
     },
     {
       "en": "The bathroom is new.",
+      "uk": "Ванна кімната нова.",
       "fr": "La salle de bain est nouvelle.",
       "vocab": [
-        { "fr": "salle de bain", "en": "bathroom" },
-        { "fr": "nouvelle", "en": "new (fem.)" }
+        { "fr": "salle de bain", "en": "bathroom", "uk": "ванна кімната" },
+        { "fr": "nouvelle", "en": "new (fem.)", "uk": "нова (жін. р.)" }
       ]
     },
     {
       "en": "The garden is beautiful.",
+      "uk": "Сад гарний.",
       "fr": "Le jardin est beau.",
       "vocab": [
-        { "fr": "jardin", "en": "garden" },
-        { "fr": "beau", "en": "beautiful (masc.)" }
+        { "fr": "jardin", "en": "garden", "uk": "сад" },
+        { "fr": "beau", "en": "beautiful (masc.)", "uk": "гарний (чол. р.)" }
       ]
     },
     {
       "en": "The bedrooms are upstairs.",
+      "uk": "Спальні нагорі.",
       "fr": "Les chambres sont en haut.",
       "vocab": [
-        { "fr": "chambre", "en": "bedroom" },
-        { "fr": "en haut", "en": "upstairs" }
+        { "fr": "chambre", "en": "bedroom", "uk": "спальня" },
+        { "fr": "en haut", "en": "upstairs", "uk": "нагорі" }
       ]
     },
     {
       "en": "The door is open.",
+      "uk": "Двері відчинені.",
       "fr": "La porte est ouverte.",
       "vocab": [
-        { "fr": "porte", "en": "door" },
-        { "fr": "ouverte", "en": "open (fem.)" }
+        { "fr": "porte", "en": "door", "uk": "двері" },
+        { "fr": "ouverte", "en": "open (fem.)", "uk": "відчинена (жін. р.)" }
       ]
     },
     {
       "en": "The window is closed.",
+      "uk": "Вікно зачинене.",
       "fr": "La fenêtre est fermée.",
       "vocab": [
-        { "fr": "fenêtre", "en": "window" },
-        { "fr": "fermée", "en": "closed (fem.)" }
+        { "fr": "fenêtre", "en": "window", "uk": "вікно" },
+        { "fr": "fermée", "en": "closed (fem.)", "uk": "зачинена (жін. р.)" }
       ]
     },
     {
       "en": "The roof is red.",
+      "uk": "Дах червоний.",
       "fr": "Le toit est rouge.",
       "vocab": [
-        { "fr": "toit", "en": "roof" },
-        { "fr": "rouge", "en": "red" }
+        { "fr": "toit", "en": "roof", "uk": "дах" },
+        { "fr": "rouge", "en": "red", "uk": "червоний" }
       ]
     },
     {
       "en": "The staircase is narrow.",
+      "uk": "Сходи вузькі.",
       "fr": "L'escalier est étroit.",
       "vocab": [
-        { "fr": "escalier", "en": "staircase" },
-        { "fr": "étroit", "en": "narrow" }
+        { "fr": "escalier", "en": "staircase", "uk": "сходи" },
+        { "fr": "étroit", "en": "narrow", "uk": "вузький" }
       ]
     }
   ]

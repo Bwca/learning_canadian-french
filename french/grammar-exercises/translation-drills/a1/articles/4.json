@@ -1,85 +1,98 @@
 {
-  "title": "Articles — definite & indefinite (set 4: contractions au/aux/du/des)",
+  "title": {
+    "en": "Articles — definite & indefinite (set 4: contractions au/aux/du/des)",
+    "uk": "Articles — означені й неозначені (набір 4: злиття au/aux/du/des)"
+  },
   "exercises": [
     {
       "en": "We are at the restaurant.",
+      "uk": "Ми в ресторані.",
       "fr": "Nous sommes au restaurant.",
       "vocab": [
-        { "fr": "au", "en": "to/at the (à + le)" },
-        { "fr": "restaurant", "en": "restaurant" }
+        { "fr": "au", "en": "to/at the (à + le)", "uk": "au = у, до (à + le)" },
+        { "fr": "restaurant", "en": "restaurant", "uk": "ресторан" }
       ]
     },
     {
       "en": "He is at the park.",
+      "uk": "Він у парку.",
       "fr": "Il est au parc.",
       "vocab": [
-        { "fr": "au", "en": "to/at the (à + le)" },
-        { "fr": "parc", "en": "park" }
+        { "fr": "au", "en": "to/at the (à + le)", "uk": "au = у, до (à + le)" },
+        { "fr": "parc", "en": "park", "uk": "парк" }
       ]
     },
     {
       "en": "They (masc.) are at the movies.",
+      "uk": "Вони (чол.) в кіно.",
       "fr": "Ils sont au cinéma.",
       "vocab": [
-        { "fr": "cinéma", "en": "movies / cinema" }
+        { "fr": "cinéma", "en": "movies / cinema", "uk": "кіно, кінотеатр" }
       ]
     },
     {
       "en": "The color of the sky is blue.",
+      "uk": "Колір неба синій.",
       "fr": "La couleur du ciel est bleue.",
       "vocab": [
-        { "fr": "couleur", "en": "color" },
-        { "fr": "du", "en": "of the (de + le)" },
-        { "fr": "ciel", "en": "sky" }
+        { "fr": "couleur", "en": "color", "uk": "колір" },
+        { "fr": "du", "en": "of the (de + le)", "uk": "du = (de + le)" },
+        { "fr": "ciel", "en": "sky", "uk": "небо" }
       ]
     },
     {
       "en": "The names of the students are here.",
+      "uk": "Імена студентів тут.",
       "fr": "Les noms des étudiants sont ici.",
       "vocab": [
-        { "fr": "nom", "en": "name" },
-        { "fr": "des", "en": "of the (de + les)" },
-        { "fr": "étudiant", "en": "student" },
-        { "fr": "ici", "en": "here" }
+        { "fr": "nom", "en": "name", "uk": "ім'я" },
+        { "fr": "des", "en": "of the (de + les)", "uk": "des = (de + les)" },
+        { "fr": "étudiant", "en": "student", "uk": "студент" },
+        { "fr": "ici", "en": "here", "uk": "тут" }
       ]
     },
     {
       "en": "I am at the market.",
+      "uk": "Я на ринку.",
       "fr": "Je suis au marché.",
       "vocab": [
-        { "fr": "marché", "en": "market" }
+        { "fr": "marché", "en": "market", "uk": "ринок" }
       ]
     },
     {
       "en": "The keys of the car are on the table.",
+      "uk": "Ключі від машини на столі.",
       "fr": "Les clés de la voiture sont sur la table.",
       "vocab": [
-        { "fr": "clé", "en": "key" },
-        { "fr": "voiture", "en": "car" },
-        { "fr": "table", "en": "table" }
+        { "fr": "clé", "en": "key", "uk": "ключ" },
+        { "fr": "voiture", "en": "car", "uk": "машина" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "We are at the museum.",
+      "uk": "Ми в музеї.",
       "fr": "Nous sommes au musée.",
       "vocab": [
-        { "fr": "musée", "en": "museum" }
+        { "fr": "musée", "en": "museum", "uk": "музей" }
       ]
     },
     {
       "en": "She is at the library.",
+      "uk": "Вона в бібліотеці.",
       "fr": "Elle est à la bibliothèque.",
       "vocab": [
-        { "fr": "bibliothèque", "en": "library" }
+        { "fr": "bibliothèque", "en": "library", "uk": "бібліотека" }
       ]
     },
     {
       "en": "The children are at the bathroom.",
+      "uk": "Діти в туалеті.",
       "fr": "Les enfants sont aux toilettes.",
       "vocab": [
-        { "fr": "aux", "en": "at/to the (à + les)" },
-        { "fr": "enfant", "en": "child" },
-        { "fr": "toilettes", "en": "bathroom/toilet" }
+        { "fr": "aux", "en": "at/to the (à + les)", "uk": "aux = у, до (à + les)" },
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "toilettes", "en": "bathroom/toilet", "uk": "туалет" }
       ]
     }
   ]

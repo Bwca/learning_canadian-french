@@ -1,80 +1,93 @@
 {
-  "title": "Possessifs — agreement with the thing owned (set 11: his or her, mon/ton/son before a vowel)",
+  "title": {
+    "en": "Possessifs — agreement with the thing owned (set 11: his or her, mon/ton/son before a vowel)",
+    "uk": "Присвійні — узгодження з тим, чим володіють (набір 11: його чи її, mon/ton/son перед голосною)"
+  },
   "exercises": [
     {
       "en": "Her brother is a doctor.",
+      "uk": "Її брат лікар.",
       "fr": "Son frère est médecin.",
       "vocab": [
-        { "fr": "frère", "en": "brother (masc.)" },
-        { "fr": "médecin", "en": "doctor" }
+        { "fr": "frère", "en": "brother (masc.)", "uk": "брат (чол. р.)" },
+        { "fr": "médecin", "en": "doctor", "uk": "лікар" }
       ]
     },
     {
       "en": "His sister lives in Laval.",
+      "uk": "Його сестра живе в Лавалі.",
       "fr": "Sa sœur habite à Laval.",
       "vocab": [
-        { "fr": "sœur", "en": "sister (fem.)" },
-        { "fr": "habiter", "en": "to live" }
+        { "fr": "sœur", "en": "sister (fem.)", "uk": "сестра (жін. р.)" },
+        { "fr": "habiter", "en": "to live", "uk": "жити, мешкати" }
       ]
     },
     {
       "en": "My friend (fem.) lives in Sherbrooke.",
+      "uk": "Моя подруга живе в Шербруку.",
       "fr": "Mon amie habite à Sherbrooke.",
       "vocab": [
-        { "fr": "amie", "en": "friend (fem.)" }
+        { "fr": "amie", "en": "friend (fem.)", "uk": "подруга (жін. р.)" }
       ]
     },
     {
       "en": "Your (informal) school is big.",
+      "uk": "Твоя школа велика.",
       "fr": "Ton école est grande.",
       "vocab": [
-        { "fr": "école", "en": "school (fem.)" }
+        { "fr": "école", "en": "school (fem.)", "uk": "школа (жін. р.)" }
       ]
     },
     {
       "en": "Her car is new.",
+      "uk": "Її машина нова.",
       "fr": "Son auto est neuve.",
       "vocab": [
-        { "fr": "auto", "en": "car (fem.)" },
-        { "fr": "neuve", "en": "new (fem.)" }
+        { "fr": "auto", "en": "car (fem.)", "uk": "машина (жін. р.)" },
+        { "fr": "neuve", "en": "new (fem.)", "uk": "нова (жін. р.)" }
       ]
     },
     {
       "en": "His cousins (fem.) are nice.",
+      "uk": "Його двоюрідні сестри милі.",
       "fr": "Ses cousines sont gentilles.",
       "vocab": [
-        { "fr": "cousine", "en": "cousin (fem.)" },
-        { "fr": "gentille", "en": "nice / kind (fem.)" }
+        { "fr": "cousine", "en": "cousin (fem.)", "uk": "двоюрідна сестра (жін. р.)" },
+        { "fr": "gentille", "en": "nice / kind (fem.)", "uk": "мила, добра (жін. р.)" }
       ]
     },
     {
       "en": "Our neighbour (fem.) has a dog.",
+      "uk": "Наша сусідка має собаку.",
       "fr": "Notre voisine a un chien.",
       "vocab": [
-        { "fr": "voisine", "en": "neighbour (fem.)" }
+        { "fr": "voisine", "en": "neighbour (fem.)", "uk": "сусідка (жін. р.)" }
       ]
     },
     {
       "en": "Your (formal/plural) notebooks are on the table.",
+      "uk": "Ваші зошити на столі.",
       "fr": "Vos cahiers sont sur la table.",
       "vocab": [
-        { "fr": "cahier", "en": "notebook (masc.)" }
+        { "fr": "cahier", "en": "notebook (masc.)", "uk": "зошит (чол. р.)" }
       ]
     },
     {
       "en": "Their house is blue.",
+      "uk": "Їхній будинок синій.",
       "fr": "Leur maison est bleue.",
       "vocab": [
-        { "fr": "maison", "en": "house (fem.)" },
-        { "fr": "bleue", "en": "blue (fem.)" }
+        { "fr": "maison", "en": "house (fem.)", "uk": "будинок (жін. р.)" },
+        { "fr": "bleue", "en": "blue (fem.)", "uk": "синя (жін. р.)" }
       ]
     },
     {
       "en": "Their children play hockey.",
+      "uk": "Їхні діти грають у хокей.",
       "fr": "Leurs enfants jouent au hockey.",
       "vocab": [
-        { "fr": "enfant", "en": "child" },
-        { "fr": "jouer à", "en": "to play (a sport or game)" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "jouer à", "en": "to play (a sport or game)", "uk": "грати в (спорт чи гру)" }
       ]
     }
   ]

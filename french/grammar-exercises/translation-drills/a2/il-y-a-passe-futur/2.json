@@ -1,74 +1,87 @@
 {
-  "title": "Il y a — past & future (set 2: il y a eu — there was (an event))",
+  "title": {
+    "en": "Il y a — past & future (set 2: il y a eu — there was (an event))",
+    "uk": "Il y a — минуле й майбутнє (набір 2: il y a eu — щось сталося)"
+  },
   "exercises": [
     {
       "en": "There were many demonstrations last year.",
+      "uk": "Торік відбулося багато демонстрацій.",
       "fr": "Il y a eu de nombreuses manifestations l'année dernière.",
       "vocab": [
-        { "fr": "il y a eu", "en": "there was / there have been (event)" },
-        { "fr": "nombreux / nombreuses", "en": "many" },
-        { "fr": "manifestation", "en": "demonstration" }
+        { "fr": "il y a eu", "en": "there was / there have been (event)", "uk": "il y a eu = був / сталося (подія)" },
+        { "fr": "nombreux / nombreuses", "en": "many", "uk": "численний (численна)" },
+        { "fr": "manifestation", "en": "demonstration", "uk": "демонстрація" }
       ]
     },
     {
       "en": "There was an accident on the highway.",
+      "uk": "На автомагістралі сталася аварія.",
       "fr": "Il y a eu un accident sur l'autoroute.",
       "vocab": [
-        { "fr": "autoroute", "en": "highway" }
+        { "fr": "autoroute", "en": "highway", "uk": "автомагістраль" }
       ]
     },
     {
       "en": "There was a storm last night.",
+      "uk": "Учора ввечері була буря.",
       "fr": "Il y a eu une tempête hier soir.",
       "vocab": [
-        { "fr": "tempête", "en": "storm" },
-        { "fr": "hier soir", "en": "last night" }
+        { "fr": "tempête", "en": "storm", "uk": "буря" },
+        { "fr": "hier soir", "en": "last night", "uk": "учора ввечері" }
       ]
     },
     {
       "en": "There was a problem.",
+      "uk": "Виникла проблема.",
       "fr": "Il y a eu un problème.",
       "vocab": []
     },
     {
       "en": "There was a lot of snow this winter.",
+      "uk": "Цієї зими випало багато снігу.",
       "fr": "Il y a eu beaucoup de neige cet hiver.",
       "vocab": [
-        { "fr": "hiver", "en": "winter" }
+        { "fr": "hiver", "en": "winter", "uk": "зима" }
       ]
     },
     {
       "en": "There was a fire downtown.",
+      "uk": "У центрі міста сталася пожежа.",
       "fr": "Il y a eu un incendie au centre-ville.",
       "vocab": [
-        { "fr": "incendie", "en": "fire (blaze)" },
-        { "fr": "centre-ville", "en": "downtown" }
+        { "fr": "incendie", "en": "fire (blaze)", "uk": "пожежа" },
+        { "fr": "centre-ville", "en": "downtown", "uk": "центр міста" }
       ]
     },
     {
       "en": "Was there a meeting this morning? (with est-ce que)",
+      "uk": "Сьогодні вранці були збори? (з est-ce que)",
       "fr": "Est-ce qu'il y a eu une réunion ce matin?",
       "vocab": [
-        { "fr": "réunion", "en": "meeting" }
+        { "fr": "réunion", "en": "meeting", "uk": "збори, нарада" }
       ]
     },
     {
       "en": "There wasn't any problem.",
+      "uk": "Жодної проблеми не виникло.",
       "fr": "Il n'y a pas eu de problème.",
       "vocab": []
     },
     {
       "en": "There was a power outage yesterday.",
+      "uk": "Учора вимикали світло.",
       "fr": "Il y a eu une panne de courant hier.",
       "vocab": [
-        { "fr": "panne de courant", "en": "power outage" }
+        { "fr": "panne de courant", "en": "power outage", "uk": "відключення електрики" }
       ]
     },
     {
       "en": "There have been a lot of changes.",
+      "uk": "Відбулося багато змін.",
       "fr": "Il y a eu beaucoup de changements.",
       "vocab": [
-        { "fr": "changement", "en": "change" }
+        { "fr": "changement", "en": "change", "uk": "зміна" }
       ]
     }
   ]

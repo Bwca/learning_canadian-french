@@ -1,83 +1,96 @@
 {
-  "title": "Être — present tense (set 6: where things are)",
+  "title": {
+    "en": "Être — present tense (set 6: where things are)",
+    "uk": "Être — теперішній час (набір 6: де що знаходиться)"
+  },
   "exercises": [
     {
       "en": "The book is on the table.",
+      "uk": "Книжка на столі.",
       "fr": "Le livre est sur la table.",
       "vocab": [
-        { "fr": "sur", "en": "on" },
-        { "fr": "table", "en": "table" }
+        { "fr": "sur", "en": "on", "uk": "на" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "The keys are in the bag.",
+      "uk": "Ключі в сумці.",
       "fr": "Les clés sont dans le sac.",
       "vocab": [
-        { "fr": "clé", "en": "key" },
-        { "fr": "dans", "en": "in" },
-        { "fr": "sac", "en": "bag" }
+        { "fr": "clé", "en": "key", "uk": "ключ" },
+        { "fr": "dans", "en": "in", "uk": "в, у" },
+        { "fr": "sac", "en": "bag", "uk": "сумка" }
       ]
     },
     {
       "en": "We are at the restaurant.",
+      "uk": "Ми в ресторані.",
       "fr": "Nous sommes au restaurant.",
       "vocab": [
-        { "fr": "restaurant", "en": "restaurant" }
+        { "fr": "restaurant", "en": "restaurant", "uk": "ресторан" }
       ]
     },
     {
       "en": "She is at school.",
+      "uk": "Вона в школі.",
       "fr": "Elle est à l'école.",
       "vocab": [
-        { "fr": "école", "en": "school" }
+        { "fr": "école", "en": "school", "uk": "школа" }
       ]
     },
     {
       "en": "They (masc.) are at work.",
+      "uk": "Вони (чол.) на роботі.",
       "fr": "Ils sont au travail.",
       "vocab": [
-        { "fr": "travail", "en": "work" }
+        { "fr": "travail", "en": "work", "uk": "робота" }
       ]
     },
     {
       "en": "The cat is under the bed.",
+      "uk": "Кіт під ліжком.",
       "fr": "Le chat est sous le lit.",
       "vocab": [
-        { "fr": "chat", "en": "cat" },
-        { "fr": "sous", "en": "under" },
-        { "fr": "lit", "en": "bed" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" },
+        { "fr": "sous", "en": "under", "uk": "під" },
+        { "fr": "lit", "en": "bed", "uk": "ліжко" }
       ]
     },
     {
       "en": "I am at home.",
+      "uk": "Я вдома.",
       "fr": "Je suis à la maison.",
       "vocab": [
-        { "fr": "à la maison", "en": "at home" }
+        { "fr": "à la maison", "en": "at home", "uk": "вдома" }
       ]
     },
     {
       "en": "The bank is near here.",
+      "uk": "Банк неподалік.",
       "fr": "La banque est près d'ici.",
       "vocab": [
-        { "fr": "banque", "en": "bank" },
-        { "fr": "près d'ici", "en": "near here" }
+        { "fr": "banque", "en": "bank", "uk": "банк" },
+        { "fr": "près d'ici", "en": "near here", "uk": "неподалік" }
       ]
     },
     {
       "en": "The children are in the garden.",
+      "uk": "Діти в саду.",
       "fr": "Les enfants sont dans le jardin.",
       "vocab": [
-        { "fr": "enfant", "en": "child" },
-        { "fr": "dans", "en": "in" },
-        { "fr": "jardin", "en": "garden" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "dans", "en": "in", "uk": "в, у" },
+        { "fr": "jardin", "en": "garden", "uk": "сад" }
       ]
     },
     {
       "en": "The store is far from here.",
+      "uk": "Магазин далеко звідси.",
       "fr": "Le magasin est loin d'ici.",
       "vocab": [
-        { "fr": "magasin", "en": "store" },
-        { "fr": "loin d'ici", "en": "far from here" }
+        { "fr": "magasin", "en": "store", "uk": "магазин" },
+        { "fr": "loin d'ici", "en": "far from here", "uk": "далеко звідси" }
       ]
     }
   ]

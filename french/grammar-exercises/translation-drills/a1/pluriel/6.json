@@ -1,83 +1,96 @@
 {
-  "title": "Pluriel — noun plurals (set 6: mixed review)",
+  "title": {
+    "en": "Pluriel — noun plurals (set 6: mixed review)",
+    "uk": "Pluriel — множина іменників (набір 6: повторення)"
+  },
   "exercises": [
     {
       "en": "I have one brother and two sisters.",
+      "uk": "У мене один брат і дві сестри.",
       "fr": "J'ai un frère et deux sœurs.",
       "vocab": [
-        { "fr": "frère", "en": "brother" },
-        { "fr": "sœur", "en": "sister" }
+        { "fr": "frère", "en": "brother", "uk": "брат" },
+        { "fr": "sœur", "en": "sister", "uk": "сестра" }
       ]
     },
     {
       "en": "The children are happy.",
+      "uk": "Діти задоволені.",
       "fr": "Les enfants sont contents.",
       "vocab": [
-        { "fr": "enfant", "en": "child" },
-        { "fr": "content", "en": "happy" }
+        { "fr": "enfant", "en": "child", "uk": "дитина" },
+        { "fr": "content", "en": "happy", "uk": "задоволений, радий" }
       ]
     },
     {
       "en": "She has beautiful eyes.",
+      "uk": "У неї гарні очі.",
       "fr": "Elle a de beaux yeux.",
       "vocab": [
-        { "fr": "de beaux", "en": "beautiful (des becomes de before a plural adjective + noun)" },
-        { "fr": "œil / yeux", "en": "eye / eyes (irregular plural)" }
+        { "fr": "de beaux", "en": "beautiful (des becomes de before a plural adjective + noun)", "uk": "гарні (des стає de перед прикметником у множині + іменником)" },
+        { "fr": "œil / yeux", "en": "eye / eyes (irregular plural)", "uk": "око / очі (неправильна множина)" }
       ]
     },
     {
       "en": "I have two cats and a dog.",
+      "uk": "У мене два коти й собака.",
       "fr": "J'ai deux chats et un chien.",
       "vocab": [
-        { "fr": "chat", "en": "cat" },
-        { "fr": "chien", "en": "dog" }
+        { "fr": "chat", "en": "cat", "uk": "кіт" },
+        { "fr": "chien", "en": "dog", "uk": "собака" }
       ]
     },
     {
       "en": "The books are on the table.",
+      "uk": "Книжки на столі.",
       "fr": "Les livres sont sur la table.",
       "vocab": [
-        { "fr": "livre", "en": "book" },
-        { "fr": "table", "en": "table" }
+        { "fr": "livre", "en": "book", "uk": "книжка" },
+        { "fr": "table", "en": "table", "uk": "стіл" }
       ]
     },
     {
       "en": "We have many games.",
+      "uk": "У нас багато ігор.",
       "fr": "Nous avons beaucoup de jeux.",
       "vocab": [
-        { "fr": "beaucoup de", "en": "a lot of / many" },
-        { "fr": "jeu", "en": "game" }
+        { "fr": "beaucoup de", "en": "a lot of / many", "uk": "багато" },
+        { "fr": "jeu", "en": "game", "uk": "гра" }
       ]
     },
     {
       "en": "The parents are kind.",
+      "uk": "Батьки добрі.",
       "fr": "Les parents sont gentils.",
       "vocab": [
-        { "fr": "parents", "en": "parents" }
+        { "fr": "parents", "en": "parents", "uk": "батьки" }
       ]
     },
     {
       "en": "He has new shoes.",
+      "uk": "У нього нові черевики.",
       "fr": "Il a des chaussures neuves.",
       "vocab": [
-        { "fr": "chaussure", "en": "shoe" },
-        { "fr": "neuves", "en": "new (fem. pl.)" }
+        { "fr": "chaussure", "en": "shoe", "uk": "черевик, взуття" },
+        { "fr": "neuves", "en": "new (fem. pl.)", "uk": "нові (жін. р. мн.)" }
       ]
     },
     {
       "en": "I have many friends.",
+      "uk": "У мене багато друзів.",
       "fr": "J'ai beaucoup d'amis.",
       "vocab": [
-        { "fr": "beaucoup de", "en": "a lot of / many" },
-        { "fr": "ami", "en": "friend" }
+        { "fr": "beaucoup de", "en": "a lot of / many", "uk": "багато" },
+        { "fr": "ami", "en": "friend", "uk": "друг" }
       ]
     },
     {
       "en": "The flowers are beautiful.",
+      "uk": "Квіти гарні.",
       "fr": "Les fleurs sont belles.",
       "vocab": [
-        { "fr": "fleur", "en": "flower" },
-        { "fr": "belle", "en": "beautiful (fem.)" }
+        { "fr": "fleur", "en": "flower", "uk": "квітка" },
+        { "fr": "belle", "en": "beautiful (fem.)", "uk": "гарна (жін. р.)" }
       ]
     }
   ]

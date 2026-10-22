@@ -1,74 +1,87 @@
 {
-  "title": "Avoir — present tense (set 8: age, continued)",
+  "title": {
+    "en": "Avoir — present tense (set 8: age, continued)",
+    "uk": "Avoir — теперішній час (набір 8: вік, продовження)"
+  },
   "exercises": [
     {
       "en": "The baby is one year old.",
+      "uk": "Малюкові один рік.",
       "fr": "Le bébé a un an.",
       "vocab": [
-        { "fr": "bébé", "en": "baby" }
+        { "fr": "bébé", "en": "baby", "uk": "немовля, малюк" }
       ]
     },
     {
       "en": "The boy is seven years old.",
+      "uk": "Хлопчикові сім років.",
       "fr": "Le garçon a sept ans.",
       "vocab": [
-        { "fr": "garçon", "en": "boy" }
+        { "fr": "garçon", "en": "boy", "uk": "хлопчик" }
       ]
     },
     {
       "en": "The girl is nine years old.",
+      "uk": "Дівчинці дев'ять років.",
       "fr": "La fille a neuf ans.",
       "vocab": [
-        { "fr": "fille", "en": "girl / daughter" }
+        { "fr": "fille", "en": "girl / daughter", "uk": "дівчинка / донька" }
       ]
     },
     {
       "en": "We are twenty-five years old.",
+      "uk": "Нам двадцять п'ять років.",
       "fr": "Nous avons vingt-cinq ans.",
       "vocab": [
-        { "fr": "vingt-cinq", "en": "twenty-five" }
+        { "fr": "vingt-cinq", "en": "twenty-five", "uk": "двадцять п'ять" }
       ]
     },
     {
       "en": "They (fem.) are thirty-two years old.",
+      "uk": "Їм (жін.) тридцять два роки.",
       "fr": "Elles ont trente-deux ans.",
       "vocab": [
-        { "fr": "trente-deux", "en": "thirty-two" }
+        { "fr": "trente-deux", "en": "thirty-two", "uk": "тридцять два" }
       ]
     },
     {
       "en": "You (formal) are sixty years old.",
+      "uk": "Вам шістдесят років.",
       "fr": "Vous avez soixante ans.",
       "vocab": [
-        { "fr": "soixante", "en": "sixty" }
+        { "fr": "soixante", "en": "sixty", "uk": "шістдесят" }
       ]
     },
     {
       "en": "I am twenty-two years old.",
+      "uk": "Мені двадцять два роки.",
       "fr": "J'ai vingt-deux ans.",
       "vocab": [
-        { "fr": "vingt-deux", "en": "twenty-two" }
+        { "fr": "vingt-deux", "en": "twenty-two", "uk": "двадцять два" }
       ]
     },
     {
       "en": "He is fourteen years old.",
+      "uk": "Йому чотирнадцять років.",
       "fr": "Il a quatorze ans.",
       "vocab": [
-        { "fr": "quatorze", "en": "fourteen" }
+        { "fr": "quatorze", "en": "fourteen", "uk": "чотирнадцять" }
       ]
     },
     {
       "en": "She is nineteen years old.",
+      "uk": "Їй дев'ятнадцять років.",
       "fr": "Elle a dix-neuf ans.",
       "vocab": [
-        { "fr": "dix-neuf", "en": "nineteen" }
+        { "fr": "dix-neuf", "en": "nineteen", "uk": "дев'ятнадцять" }
       ]
     },
     {
       "en": "They (masc.) are forty years old.",
+      "uk": "Їм (чол.) сорок років.",
       "fr": "Ils ont quarante ans.",
       "vocab": [
-        { "fr": "quarante", "en": "forty" }
+        { "fr": "quarante", "en": "forty", "uk": "сорок" }
       ]
     }
   ]

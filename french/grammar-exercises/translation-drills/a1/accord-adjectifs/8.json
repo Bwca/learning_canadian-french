@@ -1,74 +1,87 @@
 {
-  "title": "Accord des adjectifs — plural agreement (set 8: regular -s and invariable -s/-x)",
+  "title": {
+    "en": "Accord des adjectifs — plural agreement (set 8: regular -s and invariable -s/-x)",
+    "uk": "Accord des adjectifs — узгодження в числі (набір 8: звичайне -s і незмінні на -s/-x)"
+  },
   "exercises": [
     {
       "en": "The gardens are big.",
+      "uk": "Сади великі.",
       "fr": "Les jardins sont grands.",
       "vocab": [
-        { "fr": "grands", "en": "big / tall (masc. plural)" }
+        { "fr": "grands", "en": "big / tall (masc. plural)", "uk": "великі / високі (чол. р. мн.)" }
       ]
     },
     {
       "en": "The houses are big.",
+      "uk": "Будинки великі.",
       "fr": "Les maisons sont grandes.",
       "vocab": [
-        { "fr": "grandes", "en": "big / tall (fem. plural)" }
+        { "fr": "grandes", "en": "big / tall (fem. plural)", "uk": "великі / високі (жін. р. мн.)" }
       ]
     },
     {
       "en": "The books are interesting.",
+      "uk": "Книжки цікаві.",
       "fr": "Les livres sont intéressants.",
       "vocab": [
-        { "fr": "intéressants", "en": "interesting (masc. plural)" }
+        { "fr": "intéressants", "en": "interesting (masc. plural)", "uk": "цікаві (чол. р. мн.)" }
       ]
     },
     {
       "en": "The stories are interesting.",
+      "uk": "Історії цікаві.",
       "fr": "Les histoires sont intéressantes.",
       "vocab": [
-        { "fr": "intéressantes", "en": "interesting (fem. plural)" }
+        { "fr": "intéressantes", "en": "interesting (fem. plural)", "uk": "цікаві (жін. р. мн.)" }
       ]
     },
     {
       "en": "The cats are fat.",
+      "uk": "Коти товсті.",
       "fr": "Les chats sont gros.",
       "vocab": [
-        { "fr": "gros", "en": "fat / big (already -s, stays the same)" }
+        { "fr": "gros", "en": "fat / big (already -s, stays the same)", "uk": "товсті / великі (уже на -s, не змінюється)" }
       ]
     },
     {
       "en": "The dogs are fat.",
+      "uk": "Собаки товсті.",
       "fr": "Les chiens sont gros.",
       "vocab": [
-        { "fr": "gros", "en": "fat / big (invariable plural)" }
+        { "fr": "gros", "en": "fat / big (invariable plural)", "uk": "товсті / великі (незмінна множина)" }
       ]
     },
     {
       "en": "The boys are fearful.",
+      "uk": "Хлопці боязкі.",
       "fr": "Les garçons sont peureux.",
       "vocab": [
-        { "fr": "peureux", "en": "fearful (already -x, stays the same)" }
+        { "fr": "peureux", "en": "fearful (already -x, stays the same)", "uk": "боязкі (уже на -x, не змінюється)" }
       ]
     },
     {
       "en": "The girls are fearful.",
+      "uk": "Дівчата боязкі.",
       "fr": "Les filles sont peureuses.",
       "vocab": [
-        { "fr": "peureuses", "en": "fearful (fem. plural)" }
+        { "fr": "peureuses", "en": "fearful (fem. plural)", "uk": "боязкі (жін. р. мн.)" }
       ]
     },
     {
       "en": "The men are dangerous.",
+      "uk": "Чоловіки небезпечні.",
       "fr": "Les hommes sont dangereux.",
       "vocab": [
-        { "fr": "dangereux", "en": "dangerous (already -x, stays the same)" }
+        { "fr": "dangereux", "en": "dangerous (already -x, stays the same)", "uk": "небезпечні (уже на -x, не змінюється)" }
       ]
     },
     {
       "en": "The women are dangerous.",
+      "uk": "Жінки небезпечні.",
       "fr": "Les femmes sont dangereuses.",
       "vocab": [
-        { "fr": "dangereuses", "en": "dangerous (fem. plural)" }
+        { "fr": "dangereuses", "en": "dangerous (fem. plural)", "uk": "небезпечні (жін. р. мн.)" }
       ]
     }
   ]

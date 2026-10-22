@@ -1,79 +1,92 @@
 {
-  "title": "Verbes en -re — present tense (set 3: negatives and questions)",
+  "title": {
+    "en": "Verbes en -re — present tense (set 3: negatives and questions)",
+    "uk": "Дієслова на -re — теперішній час (набір 3: заперечення й питання)"
+  },
   "exercises": [
     {
       "en": "I don't hear the phone.",
+      "uk": "Я не чую телефону.",
       "fr": "Je n'entends pas le téléphone.",
       "vocab": [
-        { "fr": "entendre", "en": "to hear" }
+        { "fr": "entendre", "en": "to hear", "uk": "чути" }
       ]
     },
     {
       "en": "Are you (informal) selling your bike?",
+      "uk": "Ти продаєш свій велосипед? (з est-ce que)",
       "fr": "Est-ce que tu vends ton vélo?",
       "vocab": [
-        { "fr": "vendre", "en": "to sell" },
-        { "fr": "vélo", "en": "bike" }
+        { "fr": "vendre", "en": "to sell", "uk": "продавати" },
+        { "fr": "vélo", "en": "bike", "uk": "велосипед" }
       ]
     },
     {
       "en": "He doesn't lose patience.",
+      "uk": "Він не втрачає терпіння.",
       "fr": "Il ne perd pas patience.",
       "vocab": [
-        { "fr": "perdre patience", "en": "to lose patience" }
+        { "fr": "perdre patience", "en": "to lose patience", "uk": "втрачати терпіння" }
       ]
     },
     {
       "en": "Are you (formal/plural) waiting for the taxi?",
+      "uk": "Ви чекаєте на таксі? (з est-ce que)",
       "fr": "Est-ce que vous attendez le taxi?",
       "vocab": [
-        { "fr": "attendre", "en": "to wait for" }
+        { "fr": "attendre", "en": "to wait for", "uk": "чекати (на когось/щось)" }
       ]
     },
     {
       "en": "They (fem.) don't answer the email.",
+      "uk": "Вони (жін.) не відповідають на імейл.",
       "fr": "Elles ne répondent pas au courriel.",
       "vocab": [
-        { "fr": "répondre à", "en": "to answer" },
-        { "fr": "courriel", "en": "email (Québec)" }
+        { "fr": "répondre à", "en": "to answer", "uk": "відповідати (на щось)" },
+        { "fr": "courriel", "en": "email (Québec)", "uk": "електронний лист (у Квебеку)" }
       ]
     },
     {
       "en": "Does the ice melt in April?",
+      "uk": "Лід тане у квітні? (з est-ce que)",
       "fr": "Est-ce que la glace fond en avril?",
       "vocab": [
-        { "fr": "fondre", "en": "to melt" },
-        { "fr": "glace", "en": "ice" }
+        { "fr": "fondre", "en": "to melt", "uk": "танути" },
+        { "fr": "glace", "en": "ice", "uk": "лід" }
       ]
     },
     {
       "en": "We don't interrupt the meeting.",
+      "uk": "Ми не перериваємо нараду.",
       "fr": "Nous n'interrompons pas la réunion.",
       "vocab": [
-        { "fr": "interrompre", "en": "to interrupt" },
-        { "fr": "réunion", "en": "meeting" }
+        { "fr": "interrompre", "en": "to interrupt", "uk": "перебивати, переривати" },
+        { "fr": "réunion", "en": "meeting", "uk": "нарада, збори" }
       ]
     },
     {
       "en": "Does the dog bite?",
+      "uk": "Собака кусається? (з est-ce que)",
       "fr": "Est-ce que le chien mord?",
       "vocab": [
-        { "fr": "mordre", "en": "to bite" }
+        { "fr": "mordre", "en": "to bite", "uk": "кусати" }
       ]
     },
     {
       "en": "I don't go down to the basement.",
+      "uk": "Я не спускаюся в підвал.",
       "fr": "Je ne descends pas au sous-sol.",
       "vocab": [
-        { "fr": "descendre", "en": "to go down" },
-        { "fr": "sous-sol", "en": "basement" }
+        { "fr": "descendre", "en": "to go down", "uk": "спускатися" },
+        { "fr": "sous-sol", "en": "basement", "uk": "підвал" }
       ]
     },
     {
       "en": "Do they (masc.) give back the books?",
+      "uk": "Вони (чол.) повертають книжки? (з est-ce que)",
       "fr": "Est-ce qu'ils rendent les livres?",
       "vocab": [
-        { "fr": "rendre", "en": "to give back" }
+        { "fr": "rendre", "en": "to give back", "uk": "повертати, віддавати" }
       ]
     }
   ]

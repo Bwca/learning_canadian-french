@@ -1,79 +1,92 @@
 {
-  "title": "Verbes en -ir — present tense (set 1: with je/tu/il/elle)",
+  "title": {
+    "en": "Verbes en -ir — present tense (set 1: with je/tu/il/elle)",
+    "uk": "Дієслова на -ir — теперішній час (набір 1: з je/tu/il/elle)"
+  },
   "exercises": [
     {
       "en": "I finish my homework.",
+      "uk": "Я закінчую домашні завдання.",
       "fr": "Je finis mes devoirs.",
       "vocab": [
-        { "fr": "finir", "en": "to finish" },
-        { "fr": "devoirs", "en": "homework" }
+        { "fr": "finir", "en": "to finish", "uk": "закінчувати" },
+        { "fr": "devoirs", "en": "homework", "uk": "домашнє завдання" }
       ]
     },
     {
       "en": "You (informal) choose a gift.",
+      "uk": "Ти вибираєш подарунок.",
       "fr": "Tu choisis un cadeau.",
       "vocab": [
-        { "fr": "choisir", "en": "to choose" },
-        { "fr": "cadeau", "en": "gift" }
+        { "fr": "choisir", "en": "to choose", "uk": "вибирати" },
+        { "fr": "cadeau", "en": "gift", "uk": "подарунок" }
       ]
     },
     {
       "en": "He succeeds at school.",
+      "uk": "Він має успіхи в школі.",
       "fr": "Il réussit à l'école.",
       "vocab": [
-        { "fr": "réussir", "en": "to succeed" }
+        { "fr": "réussir", "en": "to succeed", "uk": "мати успіх, досягати успіху" }
       ]
     },
     {
       "en": "She gains weight in winter.",
+      "uk": "Вона гладшає взимку.",
       "fr": "Elle grossit en hiver.",
       "vocab": [
-        { "fr": "grossir", "en": "to gain weight" },
-        { "fr": "en hiver", "en": "in winter" }
+        { "fr": "grossir", "en": "to gain weight", "uk": "гладшати, набирати вагу" },
+        { "fr": "en hiver", "en": "in winter", "uk": "взимку" }
       ]
     },
     {
       "en": "I am losing weight.",
+      "uk": "Я худну.",
       "fr": "Je maigris.",
       "vocab": [
-        { "fr": "maigrir", "en": "to lose weight" }
+        { "fr": "maigrir", "en": "to lose weight", "uk": "худнути" }
       ]
     },
     {
       "en": "The child grows fast.",
+      "uk": "Дитина швидко росте.",
       "fr": "L'enfant grandit vite.",
       "vocab": [
-        { "fr": "grandir", "en": "to grow (up)" },
-        { "fr": "vite", "en": "fast" }
+        { "fr": "grandir", "en": "to grow (up)", "uk": "рости, дорослішати" },
+        { "fr": "vite", "en": "fast", "uk": "швидко" }
       ]
     },
     {
       "en": "You (informal) blush.",
+      "uk": "Ти червонієш.",
       "fr": "Tu rougis.",
       "vocab": [
-        { "fr": "rougir", "en": "to blush" }
+        { "fr": "rougir", "en": "to blush", "uk": "червоніти" }
       ]
     },
     {
       "en": "He thinks about the question.",
+      "uk": "Він обмірковує запитання.",
       "fr": "Il réfléchit à la question.",
       "vocab": [
-        { "fr": "réfléchir à", "en": "to think about" }
+        { "fr": "réfléchir à", "en": "to think about", "uk": "обмірковувати, думати про" }
       ]
     },
     {
       "en": "She fills the glass.",
+      "uk": "Вона наповнює склянку.",
       "fr": "Elle remplit le verre.",
       "vocab": [
-        { "fr": "remplir", "en": "to fill" },
-        { "fr": "verre", "en": "glass" }
+        { "fr": "remplir", "en": "to fill", "uk": "наповнювати" },
+        { "fr": "verre", "en": "glass", "uk": "склянка" }
       ]
     },
     {
       "en": "I feed the cat.",
+      "uk": "Я годую кота.",
       "fr": "Je nourris le chat.",
       "vocab": [
-        { "fr": "nourrir", "en": "to feed" }
+        { "fr": "nourrir", "en": "to feed", "uk": "годувати" }
       ]
     }
   ]

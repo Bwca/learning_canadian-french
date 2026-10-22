@@ -1,78 +1,91 @@
 {
-  "title": "Il y a — there is/there are (set 9: weather expressions)",
+  "title": {
+    "en": "Il y a — there is/there are (set 9: weather expressions)",
+    "uk": "Il y a — є (набір 9: погода)"
+  },
   "exercises": [
     {
       "en": "It is sunny.",
+      "uk": "Сонячно.",
       "fr": "Il y a du soleil.",
       "vocab": [
-        { "fr": "soleil", "en": "sun" }
+        { "fr": "soleil", "en": "sun", "uk": "сонце" }
       ]
     },
     {
       "en": "It is windy.",
+      "uk": "Вітряно.",
       "fr": "Il y a du vent.",
       "vocab": [
-        { "fr": "vent", "en": "wind" }
+        { "fr": "vent", "en": "wind", "uk": "вітер" }
       ]
     },
     {
       "en": "It is foggy this morning.",
+      "uk": "Сьогодні вранці туман.",
       "fr": "Il y a du brouillard ce matin.",
       "vocab": [
-        { "fr": "brouillard", "en": "fog" }
+        { "fr": "brouillard", "en": "fog", "uk": "туман" }
       ]
     },
     {
       "en": "There are clouds today.",
+      "uk": "Сьогодні хмарно.",
       "fr": "Il y a des nuages aujourd'hui.",
       "vocab": [
-        { "fr": "nuage", "en": "cloud" }
+        { "fr": "nuage", "en": "cloud", "uk": "хмара" }
       ]
     },
     {
       "en": "There is a storm tonight.",
+      "uk": "Сьогодні ввечері гроза.",
       "fr": "Il y a un orage ce soir.",
       "vocab": [
-        { "fr": "orage", "en": "storm" }
+        { "fr": "orage", "en": "storm", "uk": "гроза" }
       ]
     },
     {
       "en": "There is a lot of rain in autumn.",
+      "uk": "Восени багато дощу.",
       "fr": "Il y a beaucoup de pluie en automne.",
       "vocab": [
-        { "fr": "automne", "en": "autumn/fall" },
-        { "fr": "pluie", "en": "rain" }
+        { "fr": "automne", "en": "autumn/fall", "uk": "осінь" },
+        { "fr": "pluie", "en": "rain", "uk": "дощ" }
       ]
     },
     {
       "en": "There is a lot of snow in winter.",
+      "uk": "Взимку багато снігу.",
       "fr": "Il y a beaucoup de neige en hiver.",
       "vocab": [
-        { "fr": "hiver", "en": "winter" },
-        { "fr": "neige", "en": "snow" }
+        { "fr": "hiver", "en": "winter", "uk": "зима" },
+        { "fr": "neige", "en": "snow", "uk": "сніг" }
       ]
     },
     {
       "en": "It is very sunny today.",
+      "uk": "Сьогодні дуже сонячно.",
       "fr": "Il y a beaucoup de soleil aujourd'hui.",
       "vocab": [
-        { "fr": "soleil", "en": "sun" }
+        { "fr": "soleil", "en": "sun", "uk": "сонце" }
       ]
     },
     {
       "en": "There is ice on the road.",
+      "uk": "На дорозі ожеледиця.",
       "fr": "Il y a du verglas sur la route.",
       "vocab": [
-        { "fr": "verglas", "en": "black ice" },
-        { "fr": "route", "en": "road" }
+        { "fr": "verglas", "en": "black ice", "uk": "ожеледиця" },
+        { "fr": "route", "en": "road", "uk": "дорога" }
       ]
     },
     {
       "en": "There is a light wind.",
+      "uk": "Трохи вітряно.",
       "fr": "Il y a un peu de vent.",
       "vocab": [
-        { "fr": "un peu de", "en": "a little" },
-        { "fr": "vent", "en": "wind" }
+        { "fr": "un peu de", "en": "a little", "uk": "трохи" },
+        { "fr": "vent", "en": "wind", "uk": "вітер" }
       ]
     }
   ]

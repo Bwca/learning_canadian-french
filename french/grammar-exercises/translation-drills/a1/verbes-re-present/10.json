@@ -1,80 +1,93 @@
 {
-  "title": "Verbes en -re — present tense (set 10: review: negatives and questions)",
+  "title": {
+    "en": "Verbes en -re — present tense (set 10: review: negatives and questions)",
+    "uk": "Дієслова на -re — теперішній час (набір 10: повторення заперечень і питань)"
+  },
   "exercises": [
     {
       "en": "I don't sell the house.",
+      "uk": "Я не продаю будинок.",
       "fr": "Je ne vends pas la maison.",
       "vocab": [
-        { "fr": "vendre", "en": "to sell" }
+        { "fr": "vendre", "en": "to sell", "uk": "продавати" }
       ]
     },
     {
       "en": "Do you (informal) hear the rain?",
+      "uk": "Ти чуєш дощ? (з est-ce que)",
       "fr": "Est-ce que tu entends la pluie?",
       "vocab": [
-        { "fr": "entendre", "en": "to hear" },
-        { "fr": "pluie", "en": "rain" }
+        { "fr": "entendre", "en": "to hear", "uk": "чути" },
+        { "fr": "pluie", "en": "rain", "uk": "дощ" }
       ]
     },
     {
       "en": "He doesn't answer.",
+      "uk": "Він не відповідає.",
       "fr": "Il ne répond pas.",
       "vocab": [
-        { "fr": "répondre", "en": "to answer" }
+        { "fr": "répondre", "en": "to answer", "uk": "відповідати" }
       ]
     },
     {
       "en": "We don't waste time.",
+      "uk": "Ми не марнуємо часу.",
       "fr": "Nous ne perdons pas de temps.",
       "vocab": [
-        { "fr": "perdre du temps", "en": "to waste time" }
+        { "fr": "perdre du temps", "en": "to waste time", "uk": "марнувати час" }
       ]
     },
     {
       "en": "Are you (formal/plural) waiting for the doctor?",
+      "uk": "Ви чекаєте на лікаря? (з est-ce que)",
       "fr": "Est-ce que vous attendez le médecin?",
       "vocab": [
-        { "fr": "attendre", "en": "to wait for" },
-        { "fr": "médecin", "en": "doctor" }
+        { "fr": "attendre", "en": "to wait for", "uk": "чекати (на когось/щось)" },
+        { "fr": "médecin", "en": "doctor", "uk": "лікар" }
       ]
     },
     {
       "en": "They (masc.) don't go downtown.",
+      "uk": "Вони (чол.) не їдуть у центр міста.",
       "fr": "Ils ne descendent pas en ville.",
       "vocab": [
-        { "fr": "descendre en ville", "en": "to go downtown" }
+        { "fr": "descendre en ville", "en": "to go downtown", "uk": "їхати в центр міста" }
       ]
     },
     {
       "en": "Does the snow melt in March?",
+      "uk": "Сніг тане в березні? (з est-ce que)",
       "fr": "Est-ce que la neige fond en mars?",
       "vocab": [
-        { "fr": "fondre", "en": "to melt" },
-        { "fr": "neige", "en": "snow" }
+        { "fr": "fondre", "en": "to melt", "uk": "танути" },
+        { "fr": "neige", "en": "snow", "uk": "сніг" }
       ]
     },
     {
       "en": "They (fem.) don't lose the game.",
+      "uk": "Вони (жін.) не програють матч.",
       "fr": "Elles ne perdent pas la partie.",
       "vocab": [
-        { "fr": "perdre", "en": "to lose" },
-        { "fr": "partie", "en": "game (match)" }
+        { "fr": "perdre", "en": "to lose", "uk": "губити, втрачати, програвати" },
+        { "fr": "partie", "en": "game (match)", "uk": "гра, матч" }
       ]
     },
     {
       "en": "The cashier doesn't give back the change.",
+      "uk": "Касирка не дає решти.",
       "fr": "La caissière ne rend pas la monnaie.",
       "vocab": [
-        { "fr": "rendre", "en": "to give back" },
-        { "fr": "caissière", "en": "cashier (fem.)" },
-        { "fr": "monnaie", "en": "change (coins)" }
+        { "fr": "rendre", "en": "to give back", "uk": "повертати, віддавати" },
+        { "fr": "caissière", "en": "cashier (fem.)", "uk": "касирка" },
+        { "fr": "monnaie", "en": "change (coins)", "uk": "решта, дрібні гроші" }
       ]
     },
     {
       "en": "Do the dogs bite?",
+      "uk": "Собаки кусаються? (з est-ce que)",
       "fr": "Est-ce que les chiens mordent?",
       "vocab": [
-        { "fr": "mordre", "en": "to bite" }
+        { "fr": "mordre", "en": "to bite", "uk": "кусати" }
       ]
     }
   ]

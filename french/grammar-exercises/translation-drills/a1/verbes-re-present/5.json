@@ -1,86 +1,99 @@
 {
-  "title": "Verbes en -re — present tense (set 5: at the store and market)",
+  "title": {
+    "en": "Verbes en -re — present tense (set 5: at the store and market)",
+    "uk": "Дієслова на -re — теперішній час (набір 5: у крамниці й на ринку)"
+  },
   "exercises": [
     {
       "en": "The farmer sells strawberries.",
+      "uk": "Фермер продає полуницю.",
       "fr": "Le fermier vend des fraises.",
       "vocab": [
-        { "fr": "vendre", "en": "to sell" },
-        { "fr": "fermier", "en": "farmer" },
-        { "fr": "fraise", "en": "strawberry" }
+        { "fr": "vendre", "en": "to sell", "uk": "продавати" },
+        { "fr": "fermier", "en": "farmer", "uk": "фермер" },
+        { "fr": "fraise", "en": "strawberry", "uk": "полуниця" }
       ]
     },
     {
       "en": "I wait for the cashier.",
+      "uk": "Я чекаю на касирку.",
       "fr": "J'attends la caissière.",
       "vocab": [
-        { "fr": "attendre", "en": "to wait for" },
-        { "fr": "caissière", "en": "cashier (fem.)" }
+        { "fr": "attendre", "en": "to wait for", "uk": "чекати (на когось/щось)" },
+        { "fr": "caissière", "en": "cashier (fem.)", "uk": "касирка" }
       ]
     },
     {
       "en": "The cashier gives back the change.",
+      "uk": "Касирка дає решту.",
       "fr": "La caissière rend la monnaie.",
       "vocab": [
-        { "fr": "rendre", "en": "to give back" },
-        { "fr": "monnaie", "en": "change (coins)" }
+        { "fr": "rendre", "en": "to give back", "uk": "повертати, віддавати" },
+        { "fr": "monnaie", "en": "change (coins)", "uk": "решта, дрібні гроші" }
       ]
     },
     {
       "en": "You (informal) lose the receipt.",
+      "uk": "Ти губиш чек.",
       "fr": "Tu perds le reçu.",
       "vocab": [
-        { "fr": "perdre", "en": "to lose" },
-        { "fr": "reçu", "en": "receipt" }
+        { "fr": "perdre", "en": "to lose", "uk": "губити, втрачати" },
+        { "fr": "reçu", "en": "receipt", "uk": "чек, квитанція" }
       ]
     },
     {
       "en": "We sell the old bike.",
+      "uk": "Ми продаємо старий велосипед.",
       "fr": "Nous vendons le vieux vélo.",
       "vocab": [
-        { "fr": "vendre", "en": "to sell" },
-        { "fr": "vieux", "en": "old" },
-        { "fr": "vélo", "en": "bike" }
+        { "fr": "vendre", "en": "to sell", "uk": "продавати" },
+        { "fr": "vieux", "en": "old", "uk": "старий" },
+        { "fr": "vélo", "en": "bike", "uk": "велосипед" }
       ]
     },
     {
       "en": "You (formal/plural) answer the clerk.",
+      "uk": "Ви відповідаєте продавцеві.",
       "fr": "Vous répondez au commis.",
       "vocab": [
-        { "fr": "répondre à", "en": "to answer" },
-        { "fr": "commis", "en": "clerk (store employee)" }
+        { "fr": "répondre à", "en": "to answer", "uk": "відповідати (на щось)" },
+        { "fr": "commis", "en": "clerk (store employee)", "uk": "продавець (працівник крамниці)" }
       ]
     },
     {
       "en": "They (masc.) resell tickets.",
+      "uk": "Вони (чол.) перепродують квитки.",
       "fr": "Ils revendent des billets.",
       "vocab": [
-        { "fr": "revendre", "en": "to resell" },
-        { "fr": "billet", "en": "ticket" }
+        { "fr": "revendre", "en": "to resell", "uk": "перепродувати" },
+        { "fr": "billet", "en": "ticket", "uk": "квиток" }
       ]
     },
     {
       "en": "They (fem.) wait for the sales.",
+      "uk": "Вони (жін.) чекають на розпродаж.",
       "fr": "Elles attendent les soldes.",
       "vocab": [
-        { "fr": "attendre", "en": "to wait for" },
-        { "fr": "soldes", "en": "sales" }
+        { "fr": "attendre", "en": "to wait for", "uk": "чекати (на когось/щось)" },
+        { "fr": "soldes", "en": "sales", "uk": "розпродаж" }
       ]
     },
     {
       "en": "The convenience store sells milk.",
+      "uk": "Депаннер продає молоко.",
       "fr": "Le dépanneur vend du lait.",
       "vocab": [
-        { "fr": "vendre", "en": "to sell" },
-        { "fr": "dépanneur", "en": "convenience store (Québec)" }
+        { "fr": "vendre", "en": "to sell", "uk": "продавати" },
+        { "fr": "dépanneur", "en": "convenience store (Québec)", "uk": "крамниця біля дому, «депаннер» (у Квебеку)" }
       ]
     },
     {
       "en": "I don't hear the price.",
+      "uk": "Я не чую ціни.",
       "fr": "Je n'entends pas le prix.",
       "vocab": [
-        { "fr": "entendre", "en": "to hear" },
-        { "fr": "prix", "en": "price" }
+        { "fr": "entendre", "en": "to hear", "uk": "чути" },
+        { "fr": "prix", "en": "price", "uk": "ціна" }
       ]
     }
   ]

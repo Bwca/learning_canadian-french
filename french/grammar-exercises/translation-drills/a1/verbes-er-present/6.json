@@ -1,82 +1,95 @@
 {
-  "title": "Verbes en -er — present tense (set 6: everyday Québec life)",
+  "title": {
+    "en": "Verbes en -er — present tense (set 6: everyday Québec life)",
+    "uk": "Дієслова на -er — теперішній час (набір 6: повсякдення в Квебеку)"
+  },
   "exercises": [
     {
       "en": "I clear the snow from the driveway.",
+      "uk": "Я розчищаю сніг біля в'їзду.",
       "fr": "Je déneige l'entrée.",
       "vocab": [
-        { "fr": "déneiger", "en": "to clear the snow from" },
-        { "fr": "entrée", "en": "driveway" }
+        { "fr": "déneiger", "en": "to clear the snow from", "uk": "розчищати від снігу" },
+        { "fr": "entrée", "en": "driveway", "uk": "під'їзна доріжка, в'їзд" }
       ]
     },
     {
       "en": "You (informal) text Marie.",
+      "uk": "Ти пишеш Марі повідомлення.",
       "fr": "Tu textes Marie.",
       "vocab": [
-        { "fr": "texter", "en": "to text (Québec)" }
+        { "fr": "texter", "en": "to text (Québec)", "uk": "писати повідомлення (у Квебеку)" }
       ]
     },
     {
       "en": "He parks the car in front of the house.",
+      "uk": "Він паркує машину перед будинком.",
       "fr": "Il stationne l'auto devant la maison.",
       "vocab": [
-        { "fr": "stationner", "en": "to park (Québec)" },
-        { "fr": "auto", "en": "car" },
-        { "fr": "devant", "en": "in front of" }
+        { "fr": "stationner", "en": "to park (Québec)", "uk": "паркувати (у Квебеку)" },
+        { "fr": "auto", "en": "car", "uk": "машина" },
+        { "fr": "devant", "en": "in front of", "uk": "перед" }
       ]
     },
     {
       "en": "She skis in the Laurentians.",
+      "uk": "Вона катається на лижах у Лорентидах.",
       "fr": "Elle skie dans les Laurentides.",
       "vocab": [
-        { "fr": "skier", "en": "to ski" },
-        { "fr": "Laurentides", "en": "the Laurentians" }
+        { "fr": "skier", "en": "to ski", "uk": "кататися на лижах" },
+        { "fr": "Laurentides", "en": "the Laurentians", "uk": "Лорентиди (гори)" }
       ]
     },
     {
       "en": "We have lunch at noon.",
+      "uk": "Ми обідаємо опівдні.",
       "fr": "Nous dînons à midi.",
       "vocab": [
-        { "fr": "dîner", "en": "to have lunch (Québec)" },
-        { "fr": "midi", "en": "noon" }
+        { "fr": "dîner", "en": "to have lunch (Québec)", "uk": "обідати (у Квебеку)" },
+        { "fr": "midi", "en": "noon", "uk": "полудень" }
       ]
     },
     {
       "en": "You (formal/plural) chat on the phone.",
+      "uk": "Ви балакаєте по телефону.",
       "fr": "Vous jasez au téléphone.",
       "vocab": [
-        { "fr": "jaser", "en": "to chat (Québec)" }
+        { "fr": "jaser", "en": "to chat (Québec)", "uk": "балакати, теревенити (у Квебеку)" }
       ]
     },
     {
       "en": "They (masc.) skate at the arena.",
+      "uk": "Вони (чол.) катаються на ковзанах на арені.",
       "fr": "Ils patinent à l'aréna.",
       "vocab": [
-        { "fr": "patiner", "en": "to skate" },
-        { "fr": "aréna", "en": "arena (Québec)" }
+        { "fr": "patiner", "en": "to skate", "uk": "кататися на ковзанах" },
+        { "fr": "aréna", "en": "arena (Québec)", "uk": "арена, льодовий палац (у Квебеку)" }
       ]
     },
     {
       "en": "They (fem.) shop downtown.",
+      "uk": "Вони (жін.) ходять по магазинах у центрі міста.",
       "fr": "Elles magasinent au centre-ville.",
       "vocab": [
-        { "fr": "magasiner", "en": "to shop (Québec)" },
-        { "fr": "centre-ville", "en": "downtown" }
+        { "fr": "magasiner", "en": "to shop (Québec)", "uk": "ходити по магазинах (у Квебеку)" },
+        { "fr": "centre-ville", "en": "downtown", "uk": "центр міста" }
       ]
     },
     {
       "en": "I'm kidding!",
+      "uk": "Я жартую!",
       "fr": "Je niaise!",
       "vocab": [
-        { "fr": "niaiser", "en": "to kid around (Québec, informal)" }
+        { "fr": "niaiser", "en": "to kid around (Québec, informal)", "uk": "жартувати, придурюватися (у Квебеку, розм.)" }
       ]
     },
     {
       "en": "We have supper with the family.",
+      "uk": "Ми вечеряємо всією родиною.",
       "fr": "Nous soupons en famille.",
       "vocab": [
-        { "fr": "souper", "en": "to have supper (Québec)" },
-        { "fr": "en famille", "en": "with the family" }
+        { "fr": "souper", "en": "to have supper (Québec)", "uk": "вечеряти (у Квебеку)" },
+        { "fr": "en famille", "en": "with the family", "uk": "всією родиною" }
       ]
     }
   ]
