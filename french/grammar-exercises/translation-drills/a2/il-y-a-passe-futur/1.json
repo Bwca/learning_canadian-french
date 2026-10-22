@@ -1,0 +1,75 @@
+{
+  "title": "Il y a — past & future (set 1: il y avait — there was/used to be)",
+  "exercises": [
+    {
+      "en": "There were always lots of people at the village fair.",
+      "fr": "Il y avait toujours du monde à la fête du village.",
+      "vocab": [
+        { "fr": "il y avait", "en": "there was / there were (ongoing)" },
+        { "fr": "du monde", "en": "lots of people" },
+        { "fr": "fête du village", "en": "village fair" }
+      ]
+    },
+    {
+      "en": "There used to be a park here.",
+      "fr": "Il y avait un parc ici.",
+      "vocab": []
+    },
+    {
+      "en": "There were a lot of cars on the street.",
+      "fr": "Il y avait beaucoup de voitures dans la rue.",
+      "vocab": [
+        { "fr": "rue", "en": "street" }
+      ]
+    },
+    {
+      "en": "There was snow everywhere.",
+      "fr": "Il y avait de la neige partout.",
+      "vocab": [
+        { "fr": "partout", "en": "everywhere" }
+      ]
+    },
+    {
+      "en": "When I was young, there was no internet.",
+      "fr": "Quand j'étais jeune, il n'y avait pas d'internet.",
+      "vocab": [
+        { "fr": "j'étais", "en": "I was (imparfait of être)" }
+      ]
+    },
+    {
+      "en": "There was a cat in the garden.",
+      "fr": "Il y avait un chat dans le jardin.",
+      "vocab": [
+        { "fr": "jardin", "en": "garden" }
+      ]
+    },
+    {
+      "en": "Was there a lot of traffic? (with est-ce que)",
+      "fr": "Est-ce qu'il y avait beaucoup de trafic?",
+      "vocab": [
+        { "fr": "trafic", "en": "traffic (Québec; France: circulation)" }
+      ]
+    },
+    {
+      "en": "There were no buses at night.",
+      "fr": "Il n'y avait pas d'autobus la nuit.",
+      "vocab": [
+        { "fr": "autobus", "en": "bus" }
+      ]
+    },
+    {
+      "en": "There was a lot of fog this morning.",
+      "fr": "Il y avait beaucoup de brouillard ce matin.",
+      "vocab": [
+        { "fr": "brouillard", "en": "fog" }
+      ]
+    },
+    {
+      "en": "There were thirty students in the class.",
+      "fr": "Il y avait trente élèves dans la classe.",
+      "vocab": [
+        { "fr": "élève", "en": "student (school)" }
+      ]
+    }
+  ]
+}

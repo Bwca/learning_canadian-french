@@ -1,0 +1,75 @@
+{
+  "title": "Il y a — past & future (set 3: il y aura — there will be)",
+  "exercises": [
+    {
+      "en": "It will be windy tomorrow.",
+      "fr": "Il y aura du vent demain.",
+      "vocab": [
+        { "fr": "il y aura", "en": "there will be" },
+        { "fr": "vent", "en": "wind" }
+      ]
+    },
+    {
+      "en": "It won't be windy tomorrow.",
+      "fr": "Il n'y aura pas de vent demain.",
+      "vocab": []
+    },
+    {
+      "en": "There will be a party on Saturday.",
+      "fr": "Il y aura une fête samedi.",
+      "vocab": [
+        { "fr": "fête", "en": "party" }
+      ]
+    },
+    {
+      "en": "It will be sunny this weekend. (Québec)",
+      "fr": "Il y aura du soleil en fin de semaine.",
+      "vocab": [
+        { "fr": "soleil", "en": "sun" },
+        { "fr": "en fin de semaine", "en": "this weekend (Québec)" }
+      ]
+    },
+    {
+      "en": "There will be a lot of people at the concert.",
+      "fr": "Il y aura beaucoup de monde au concert.",
+      "vocab": [
+        { "fr": "beaucoup de monde", "en": "a lot of people" }
+      ]
+    },
+    {
+      "en": "Will there be snow at Christmas? (with est-ce que)",
+      "fr": "Est-ce qu'il y aura de la neige à Noël?",
+      "vocab": [
+        { "fr": "Noël", "en": "Christmas" }
+      ]
+    },
+    {
+      "en": "There will be no school tomorrow.",
+      "fr": "Il n'y aura pas d'école demain.",
+      "vocab": []
+    },
+    {
+      "en": "There will be a test on Friday.",
+      "fr": "Il y aura un examen vendredi.",
+      "vocab": [
+        { "fr": "examen", "en": "test, exam" }
+      ]
+    },
+    {
+      "en": "It will be foggy tonight.",
+      "fr": "Il y aura du brouillard ce soir.",
+      "vocab": [
+        { "fr": "brouillard", "en": "fog" }
+      ]
+    },
+    {
+      "en": "There will be enough food for everyone.",
+      "fr": "Il y aura assez de nourriture pour tout le monde.",
+      "vocab": [
+        { "fr": "assez de", "en": "enough" },
+        { "fr": "nourriture", "en": "food" },
+        { "fr": "tout le monde", "en": "everyone" }
+      ]
+    }
+  ]
+}

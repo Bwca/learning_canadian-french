@@ -1,0 +1,75 @@
+{
+  "title": "Il y a — past & future (set 4: il y a + time — ago)",
+  "exercises": [
+    {
+      "en": "I learned to drive ten years ago.",
+      "fr": "J'ai appris à conduire il y a dix ans.",
+      "vocab": [
+        { "fr": "il y a + time", "en": "… ago" },
+        { "fr": "apprendre à", "en": "to learn to (j'ai appris)" },
+        { "fr": "conduire", "en": "to drive" }
+      ]
+    },
+    {
+      "en": "We met Tom in the park two hours ago.",
+      "fr": "Nous avons rencontré Tom au parc il y a deux heures.",
+      "vocab": [
+        { "fr": "rencontrer", "en": "to meet" }
+      ]
+    },
+    {
+      "en": "She arrived five minutes ago.",
+      "fr": "Elle est arrivée il y a cinq minutes.",
+      "vocab": [
+        { "fr": "arriver", "en": "to arrive (takes être: elle est arrivée)" }
+      ]
+    },
+    {
+      "en": "I ate an hour ago.",
+      "fr": "J'ai mangé il y a une heure.",
+      "vocab": []
+    },
+    {
+      "en": "They (masc.) moved three years ago.",
+      "fr": "Ils ont déménagé il y a trois ans.",
+      "vocab": [
+        { "fr": "déménager", "en": "to move (house)" }
+      ]
+    },
+    {
+      "en": "He called his mother two days ago.",
+      "fr": "Il a appelé sa mère il y a deux jours.",
+      "vocab": [
+        { "fr": "appeler", "en": "to call" }
+      ]
+    },
+    {
+      "en": "I started learning French a month ago.",
+      "fr": "J'ai commencé à apprendre le français il y a un mois.",
+      "vocab": [
+        { "fr": "commencer à", "en": "to start to" }
+      ]
+    },
+    {
+      "en": "We bought this house a long time ago.",
+      "fr": "Nous avons acheté cette maison il y a longtemps.",
+      "vocab": [
+        { "fr": "acheter", "en": "to buy" },
+        { "fr": "longtemps", "en": "a long time" }
+      ]
+    },
+    {
+      "en": "I haven't heard from Sophie in a long time.",
+      "fr": "Il y a longtemps que je n'ai pas eu de nouvelles de Sophie.",
+      "vocab": [
+        { "fr": "il y a longtemps que", "en": "it's been a long time since" },
+        { "fr": "avoir des nouvelles de", "en": "to hear from" }
+      ]
+    },
+    {
+      "en": "The movie started ten minutes ago.",
+      "fr": "Le film a commencé il y a dix minutes.",
+      "vocab": []
+    }
+  ]
+}

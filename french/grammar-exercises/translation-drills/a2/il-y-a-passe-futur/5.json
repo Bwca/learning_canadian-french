@@ -1,0 +1,69 @@
+{
+  "title": "Il y a — past & future (set 5: mixed review — all tenses & colloquial)",
+  "exercises": [
+    {
+      "en": "What's wrong?",
+      "fr": "Qu'est-ce qu'il y a?",
+      "vocab": [
+        { "fr": "qu'est-ce qu'il y a?", "en": "what's wrong? / what's the matter?" }
+      ]
+    },
+    {
+      "en": "No problem! (colloquial, il and ne dropped)",
+      "fr": "Y a pas de problème!",
+      "vocab": [
+        { "fr": "y a pas de", "en": "colloquial il n'y a pas de" }
+      ]
+    },
+    {
+      "en": "It's sunny today.",
+      "fr": "Il y a du soleil aujourd'hui.",
+      "vocab": [
+        { "fr": "soleil", "en": "sun" }
+      ]
+    },
+    {
+      "en": "There were always forks on the table.",
+      "fr": "Il y avait toujours des fourchettes sur la table.",
+      "vocab": [
+        { "fr": "fourchette", "en": "fork" }
+      ]
+    },
+    {
+      "en": "There was a party at my place yesterday.",
+      "fr": "Il y a eu une fête chez moi hier.",
+      "vocab": [
+        { "fr": "chez moi", "en": "at my place" }
+      ]
+    },
+    {
+      "en": "There will be thirty students in the class.",
+      "fr": "Il y aura trente élèves dans la classe.",
+      "vocab": []
+    },
+    {
+      "en": "I saw that movie two weeks ago.",
+      "fr": "J'ai vu ce film il y a deux semaines.",
+      "vocab": [
+        { "fr": "voir", "en": "to see (j'ai vu)" }
+      ]
+    },
+    {
+      "en": "There wasn't any snow last year.",
+      "fr": "Il n'y a pas eu de neige l'année dernière.",
+      "vocab": []
+    },
+    {
+      "en": "There was often fog in the morning.",
+      "fr": "Il y avait souvent du brouillard le matin.",
+      "vocab": [
+        { "fr": "souvent", "en": "often" }
+      ]
+    },
+    {
+      "en": "What's wrong? Is there a problem? (with est-ce que)",
+      "fr": "Qu'est-ce qu'il y a? Est-ce qu'il y a un problème?",
+      "vocab": []
+    }
+  ]
+}

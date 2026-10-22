@@ -1,0 +1,75 @@
+{
+  "title": "Il y a — past & future (set 2: il y a eu — there was (an event))",
+  "exercises": [
+    {
+      "en": "There were many demonstrations last year.",
+      "fr": "Il y a eu de nombreuses manifestations l'année dernière.",
+      "vocab": [
+        { "fr": "il y a eu", "en": "there was / there have been (event)" },
+        { "fr": "nombreux / nombreuses", "en": "many" },
+        { "fr": "manifestation", "en": "demonstration" }
+      ]
+    },
+    {
+      "en": "There was an accident on the highway.",
+      "fr": "Il y a eu un accident sur l'autoroute.",
+      "vocab": [
+        { "fr": "autoroute", "en": "highway" }
+      ]
+    },
+    {
+      "en": "There was a storm last night.",
+      "fr": "Il y a eu une tempête hier soir.",
+      "vocab": [
+        { "fr": "tempête", "en": "storm" },
+        { "fr": "hier soir", "en": "last night" }
+      ]
+    },
+    {
+      "en": "There was a problem.",
+      "fr": "Il y a eu un problème.",
+      "vocab": []
+    },
+    {
+      "en": "There was a lot of snow this winter.",
+      "fr": "Il y a eu beaucoup de neige cet hiver.",
+      "vocab": [
+        { "fr": "hiver", "en": "winter" }
+      ]
+    },
+    {
+      "en": "There was a fire downtown.",
+      "fr": "Il y a eu un incendie au centre-ville.",
+      "vocab": [
+        { "fr": "incendie", "en": "fire (blaze)" },
+        { "fr": "centre-ville", "en": "downtown" }
+      ]
+    },
+    {
+      "en": "Was there a meeting this morning? (with est-ce que)",
+      "fr": "Est-ce qu'il y a eu une réunion ce matin?",
+      "vocab": [
+        { "fr": "réunion", "en": "meeting" }
+      ]
+    },
+    {
+      "en": "There wasn't any problem.",
+      "fr": "Il n'y a pas eu de problème.",
+      "vocab": []
+    },
+    {
+      "en": "There was a power outage yesterday.",
+      "fr": "Il y a eu une panne de courant hier.",
+      "vocab": [
+        { "fr": "panne de courant", "en": "power outage" }
+      ]
+    },
+    {
+      "en": "There have been a lot of changes.",
+      "fr": "Il y a eu beaucoup de changements.",
+      "vocab": [
+        { "fr": "changement", "en": "change" }
+      ]
+    }
+  ]
+}
