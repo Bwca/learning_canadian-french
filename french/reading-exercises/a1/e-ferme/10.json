@@ -1,5 +1,8 @@
 {
-  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 10)",
+  "title": {
+    "en": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 10)",
+    "uk": "Закритий [e] — é, -er, -ez, -ed, et, les/des/mes (набір 10)"
+  },
   "sounds": [
     "é",
     "-er",
@@ -8,53 +11,67 @@
     "et",
     "les / des / mes / tes / ses / ces"
   ],
-  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "focus": {
+    "en": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+    "uk": "Усе це закритий [e]: губи розтягнуті, язик високо, чистий звук між українськими «е» та «і», без «й» наприкінці. Пишеться é; -er, -ez і -ed у кінці слова (parler, chez, pied); слово « et »; і короткі слова les, des, mes, tes, ses, ces. Винятки: у кількох коротких словах -er вимовляється [ɛʁ], з r (mer, fer, hiver, cher, hier), а « est » має відкритий [ɛ]. Квебекці чітко розрізняють é та è навіть у кінці слова (« parlé » і « parlait »)."
+  },
   "sentences": [
     {
       "fr": "Chère mamie, comment all[ez]-vous ?",
-      "en": "Dear Grandma, how are you?"
+      "en": "Dear Grandma, how are you?",
+      "uk": "Люба бабусю, як ви поживаєте?"
     },
     {
       "fr": "Ici, l[es] journ[é]es sont longues [et] ensoleill[é]es.",
-      "en": "Here, the days are long and sunny."
+      "en": "Here, the days are long and sunny.",
+      "uk": "Тут дні довгі й сонячні."
     },
     {
       "fr": "Samedi, nous avons visit[é] un mus[é]e.",
-      "en": "On Saturday, we visited a museum."
+      "en": "On Saturday, we visited a museum.",
+      "uk": "У суботу ми ходили до музею."
     },
     {
       "fr": "Je pense à vous [et] je veux vous parl[er] bientôt.",
-      "en": "I'm thinking of you and I want to talk to you soon."
+      "en": "I'm thinking of you and I want to talk to you soon.",
+      "uk": "Я думаю про вас і хочу скоро з вами поговорити."
     },
     {
       "fr": "Gros bisous [et] à bientôt !",
-      "en": "Big kisses, and see you soon!"
+      "en": "Big kisses, and see you soon!",
+      "uk": "Міцно цілую, до зустрічі!"
     },
     {
       "fr": "Votre petite-fille, Am[é]lie",
-      "en": "Your granddaughter, Amélie"
+      "en": "Your granddaughter, Amélie",
+      "uk": "Ваша онука Амелі"
     }
   ],
   "vocab": [
     {
       "fr": "mamie",
-      "en": "grandma"
+      "en": "grandma",
+      "uk": "бабуся"
     },
     {
       "fr": "la journée",
-      "en": "day"
+      "en": "day",
+      "uk": "день"
     },
     {
       "fr": "ensoleillé",
-      "en": "sunny"
+      "en": "sunny",
+      "uk": "сонячний"
     },
     {
       "fr": "le musée",
-      "en": "museum"
+      "en": "museum",
+      "uk": "музей"
     },
     {
       "fr": "à bientôt",
-      "en": "see you soon"
+      "en": "see you soon",
+      "uk": "до зустрічі"
     }
   ]
 }

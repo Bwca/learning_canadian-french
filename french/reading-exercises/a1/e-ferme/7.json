@@ -1,5 +1,8 @@
 {
-  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 7)",
+  "title": {
+    "en": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 7)",
+    "uk": "Закритий [e] — é, -er, -ez, -ed, et, les/des/mes (набір 7)"
+  },
   "sounds": [
     "é",
     "-er",
@@ -8,49 +11,62 @@
     "et",
     "les / des / mes / tes / ses / ces"
   ],
-  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "focus": {
+    "en": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+    "uk": "Усе це закритий [e]: губи розтягнуті, язик високо, чистий звук між українськими «е» та «і», без «й» наприкінці. Пишеться é; -er, -ez і -ed у кінці слова (parler, chez, pied); слово « et »; і короткі слова les, des, mes, tes, ses, ces. Винятки: у кількох коротких словах -er вимовляється [ɛʁ], з r (mer, fer, hiver, cher, hier), а « est » має відкритий [ɛ]. Квебекці чітко розрізняють é та è навіть у кінці слова (« parlé » і « parlait »)."
+  },
   "sentences": [
     {
       "fr": "Il est tard, [et] il n'y a plus de lait.",
-      "en": "It's late, and there's no more milk."
+      "en": "It's late, and there's no more milk.",
+      "uk": "Уже пізно, а молоко скінчилося."
     },
     {
       "fr": "Je vais au d[é]panneur au coin de la rue.",
-      "en": "I go to the convenience store on the corner."
+      "en": "I go to the convenience store on the corner.",
+      "uk": "Я йду до крамнички на розі."
     },
     {
       "fr": "J'achète du lait, d[es] œufs [et] un journal.",
-      "en": "I buy milk, eggs and a newspaper."
+      "en": "I buy milk, eggs and a newspaper.",
+      "uk": "Я купую молоко, яйця й газету."
     },
     {
       "fr": "Le caissi[er] dit : « Vous pay[ez] comptant ? »",
-      "en": "The cashier says: \"Are you paying cash?\""
+      "en": "The cashier says: \"Are you paying cash?\"",
+      "uk": "Касир питає: «Платите готівкою?»"
     },
     {
       "fr": "« Non, je vais pay[er] avec ma carte. Merci, bonne soir[é]e ! »",
-      "en": "\"No, I'll pay with my card. Thanks, have a good evening!\""
+      "en": "\"No, I'll pay with my card. Thanks, have a good evening!\"",
+      "uk": "«Ні, я заплачу карткою. Дякую, гарного вечора!»"
     }
   ],
   "vocab": [
     {
       "fr": "le dépanneur",
-      "en": "convenience store (Québécois)"
+      "en": "convenience store (Québécois)",
+      "uk": "крамничка біля дому (у Квебеку)"
     },
     {
       "fr": "le journal",
-      "en": "newspaper"
+      "en": "newspaper",
+      "uk": "газета"
     },
     {
       "fr": "le caissier",
-      "en": "cashier"
+      "en": "cashier",
+      "uk": "касир"
     },
     {
       "fr": "payer comptant",
-      "en": "to pay cash"
+      "en": "to pay cash",
+      "uk": "платити готівкою"
     },
     {
       "fr": "bonne soirée",
-      "en": "have a good evening"
+      "en": "have a good evening",
+      "uk": "гарного вечора"
     }
   ]
 }

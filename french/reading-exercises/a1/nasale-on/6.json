@@ -1,52 +1,68 @@
 {
-  "title": "Nasal [ɔ̃] — on, om (set 6)",
+  "title": {
+    "en": "Nasal [ɔ̃] — on, om (set 6)",
+    "uk": "Носовий [ɔ̃] — on, om (набір 6)"
+  },
   "sounds": [
     "on",
     "om"
   ],
-  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ».",
+  "focus": {
+    "en": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ».",
+    "uk": "« on » і « om » дають носовий голосний [ɔ̃], як у « bon ». Його має й кожне дієслівне закінчення -ons (« nous allons »). Голосний або подвоєне n/m після нього скасовує носовість: порівняйте « bon » і « bonne », « nom » і « homme »."
+  },
   "sentences": [
     {
       "fr": "Le soir, ma mère me rac[on]te un c[on]te.",
-      "en": "In the evening, my mother tells me a story."
+      "en": "In the evening, my mother tells me a story.",
+      "uk": "Увечері мама розповідає мені казку."
     },
     {
       "fr": "C'est l'histoire d'un petit coch[on] qui habite dans une mais[on] r[on]de.",
-      "en": "It's the story of a little pig who lives in a round house."
+      "en": "It's the story of a little pig who lives in a round house.",
+      "uk": "Це історія про маленьке порося, яке живе в круглому будиночку."
     },
     {
       "fr": "Un jour, un gros mout[on] frappe à la porte.",
-      "en": "One day, a big sheep knocks on the door."
+      "en": "One day, a big sheep knocks on the door.",
+      "uk": "Одного дня у двері стукає великий баран."
     },
     {
       "fr": "« B[on]jour, petit coch[on] ! T[on] n[om], c'est quoi ? »",
-      "en": "\"Hello, little pig! What's your name?\""
+      "en": "\"Hello, little pig! What's your name?\"",
+      "uk": "«Добрий день, маленьке поросятко! Як тебе звати?»"
     },
     {
       "fr": "À la fin, ils s[on]t amis pour toujours.",
-      "en": "In the end, they're friends forever."
+      "en": "In the end, they're friends forever.",
+      "uk": "Наприкінці вони стають друзями назавжди."
     }
   ],
   "vocab": [
     {
       "fr": "raconter un conte",
-      "en": "to tell a story"
+      "en": "to tell a story",
+      "uk": "розповідати казку"
     },
     {
       "fr": "le cochon",
-      "en": "pig"
+      "en": "pig",
+      "uk": "свиня, порося"
     },
     {
       "fr": "rond, ronde",
-      "en": "round"
+      "en": "round",
+      "uk": "круглий, кругла"
     },
     {
       "fr": "le mouton",
-      "en": "sheep"
+      "en": "sheep",
+      "uk": "баран, вівця"
     },
     {
       "fr": "frapper à la porte",
-      "en": "to knock on the door"
+      "en": "to knock on the door",
+      "uk": "стукати у двері"
     }
   ]
 }

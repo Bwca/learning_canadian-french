@@ -1,52 +1,68 @@
 {
-  "title": "Nasal [ɔ̃] — on, om (set 2)",
+  "title": {
+    "en": "Nasal [ɔ̃] — on, om (set 2)",
+    "uk": "Носовий [ɔ̃] — on, om (набір 2)"
+  },
   "sounds": [
     "on",
     "om"
   ],
-  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « sonne », « homme » and « redonne » have nn/mm, so they aren't nasal.",
+  "focus": {
+    "en": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « sonne », « homme » and « redonne » have nn/mm, so they aren't nasal.",
+    "uk": "« on » і « om » дають носовий голосний [ɔ̃], як у « bon ». Його має й кожне дієслівне закінчення -ons (« nous allons »). Голосний або подвоєне n/m після нього скасовує носовість: порівняйте « bon » і « bonne », « nom » і « homme ». « sonne », « homme » і « redonne » мають nn/mm, тому не носові."
+  },
   "sentences": [
     {
       "fr": "Le petit garç[on] joue avec s[on] ball[on].",
-      "en": "The little boy is playing with his ball."
+      "en": "The little boy is playing with his ball.",
+      "uk": "Маленький хлопчик грається своїм м'ячем."
     },
     {
       "fr": "Le ball[on] t[om]be dans le jardin du voisin.",
-      "en": "The ball falls into the neighbour's garden."
+      "en": "The ball falls into the neighbour's garden.",
+      "uk": "М'яч падає в сусідський сад."
     },
     {
       "fr": "Le garç[on] sonne à la porte.",
-      "en": "The boy rings the doorbell."
+      "en": "The boy rings the doorbell.",
+      "uk": "Хлопчик дзвонить у двері."
     },
     {
       "fr": "Le voisin est un homme très b[on].",
-      "en": "The neighbour is a very kind man."
+      "en": "The neighbour is a very kind man.",
+      "uk": "Сусід — дуже добрий чоловік."
     },
     {
       "fr": "Il lui redonne s[on] ball[on] et un b[on]b[on].",
-      "en": "He gives him back his ball and a candy."
+      "en": "He gives him back his ball and a candy.",
+      "uk": "Він повертає йому м'яч і дає цукерку."
     }
   ],
   "vocab": [
     {
       "fr": "le garçon",
-      "en": "boy"
+      "en": "boy",
+      "uk": "хлопчик"
     },
     {
       "fr": "le ballon",
-      "en": "ball"
+      "en": "ball",
+      "uk": "м'яч"
     },
     {
       "fr": "tomber",
-      "en": "to fall"
+      "en": "to fall",
+      "uk": "падати"
     },
     {
       "fr": "sonner à la porte",
-      "en": "to ring the doorbell"
+      "en": "to ring the doorbell",
+      "uk": "дзвонити у двері"
     },
     {
       "fr": "redonner",
-      "en": "to give back"
+      "en": "to give back",
+      "uk": "повертати, віддавати назад"
     }
   ]
 }

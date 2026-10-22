@@ -1,53 +1,69 @@
 {
-  "title": "Open [ɛ] — ai, aî, ei (set 7)",
+  "title": {
+    "en": "Open [ɛ] — ai, aî, ei (set 7)",
+    "uk": "Відкритий [ɛ] — ai, aî, ei (набір 7)"
+  },
   "sounds": [
     "ai",
     "aî",
     "ei"
   ],
-  "focus": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+  "focus": {
+    "en": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+    "uk": "І ai, і ei дають відкритий [ɛ] — той самий звук, що è в « mère »: рот відкритий ширше, ніж для é, приблизно як українське «е» в «день». Він є в « j'aime », « mais », « lait », « faire », « semaine », « neige » і « treize », і так само звучить aî (« s'il vous plaît »). Обережно: ain + e не носове (у « semaine », « laine » — [ɛ] + n), а ain окремо — носове (« pain », « demain »). Не кожне ai — це [ɛ], тож стежте за непозначеними: « j'ai » ближче до закритого é; ail звучить як « aïe », тобто «ай» (« chandail », « travailler »); а в « nous faisons » ai — це легке « e ». У Квебеку ai та ei перед вимовленим звуком r, z чи j (« faire », « chaise », « neige ») часто довгі й ковзають до « aï », а в кінці слова (« mais », « jamais », « vrai ») лишаються відкритими, ніколи не як é — у невимушеному мовленні вони можуть розкритися майже до « a » (« jamais » ≈ « jama »)."
+  },
   "sentences": [
     {
       "fr": "Mon frère [ai]me f[ai]re du vélo.",
-      "en": "My brother loves to ride his bike."
+      "en": "My brother loves to ride his bike.",
+      "uk": "Мій брат любить кататися на велосипеді."
     },
     {
       "fr": "Le samedi, nous faisons du ski.",
-      "en": "On Saturdays, we go skiing."
+      "en": "On Saturdays, we go skiing.",
+      "uk": "По суботах ми катаємося на лижах."
     },
     {
       "fr": "Je ne suis jam[ai]s fatiguée !",
-      "en": "I'm never tired!"
+      "en": "I'm never tired!",
+      "uk": "Я ніколи не втомлююся!"
     },
     {
       "fr": "Mon père travaille beaucoup.",
-      "en": "My dad works a lot."
+      "en": "My dad works a lot.",
+      "uk": "Мій тато багато працює."
     },
     {
       "fr": "Il n'[ai]me pas le sport, m[ai]s il [ai]me la musique.",
-      "en": "He doesn't like sports, but he loves music."
+      "en": "He doesn't like sports, but he loves music.",
+      "uk": "Він не любить спорт, але любить музику."
     }
   ],
   "vocab": [
     {
       "fr": "faire du vélo",
-      "en": "to ride a bike"
+      "en": "to ride a bike",
+      "uk": "кататися на велосипеді"
     },
     {
       "fr": "faire du ski",
-      "en": "to go skiing"
+      "en": "to go skiing",
+      "uk": "кататися на лижах"
     },
     {
       "fr": "ne… jamais",
-      "en": "never"
+      "en": "never",
+      "uk": "ne… jamais = ніколи"
     },
     {
       "fr": "fatigué / fatiguée",
-      "en": "tired"
+      "en": "tired",
+      "uk": "втомлений / втомлена"
     },
     {
       "fr": "travailler",
-      "en": "to work"
+      "en": "to work",
+      "uk": "працювати"
     }
   ]
 }

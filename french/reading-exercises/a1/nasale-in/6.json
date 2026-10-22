@@ -1,5 +1,8 @@
 {
-  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 6)",
+  "title": {
+    "en": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 6)",
+    "uk": "Носовий [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (набір 6)"
+  },
   "sounds": [
     "in",
     "im",
@@ -10,49 +13,62 @@
     "ein",
     "eim"
   ],
-  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « dessine », « dessiner » and « cuisine » aren't nasal: a vowel follows the n.",
+  "focus": {
+    "en": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « dessine », « dessiner » and « cuisine » aren't nasal: a vowel follows the n.",
+    "uk": "Усі ці написання дають той самий носовий голосний [ɛ̃], як у « vin ». Носовими вони є лише тоді, коли далі не йде голосний або ще одне n/m — порівняйте « pain » і « semaine », « fin » і « fine », « plein » і « pleine ». У Квебеку [ɛ̃] часто трохи закритіший (ближче до носового « é »), а « un » лишається окремим звуком, а не зливається з « in », як у Парижі. « dessine », « dessiner » і « cuisine » не носові: після n іде голосний."
+  },
   "sentences": [
     {
       "fr": "Le petit Al[ain] a c[in]q ans.",
-      "en": "Little Alain is five years old."
+      "en": "Little Alain is five years old.",
+      "uk": "Маленькому Аленові п'ять років."
     },
     {
       "fr": "Il aime le dess[in] et la p[ein]ture.",
-      "en": "He likes drawing and painting."
+      "en": "He likes drawing and painting.",
+      "uk": "Він любить малювати олівцями й фарбами."
     },
     {
       "fr": "Aujourd'hui, il dessine un l[yn]x et un dauph[in].",
-      "en": "Today, he's drawing a lynx and a dolphin."
+      "en": "Today, he's drawing a lynx and a dolphin.",
+      "uk": "Сьогодні він малює рись і дельфіна."
     },
     {
       "fr": "Sa maman met le dess[in] dans la cuisine.",
-      "en": "His mom puts the drawing in the kitchen."
+      "en": "His mom puts the drawing in the kitchen.",
+      "uk": "Мама вішає малюнок на кухні."
     },
     {
       "fr": "Dem[ain], Al[ain] va dessiner un tr[ain].",
-      "en": "Tomorrow, Alain is going to draw a train."
+      "en": "Tomorrow, Alain is going to draw a train.",
+      "uk": "Завтра Ален намалює потяг."
     }
   ],
   "vocab": [
     {
       "fr": "le dessin",
-      "en": "drawing"
+      "en": "drawing",
+      "uk": "малюнок"
     },
     {
       "fr": "dessiner",
-      "en": "to draw"
+      "en": "to draw",
+      "uk": "малювати"
     },
     {
       "fr": "le lynx",
-      "en": "lynx"
+      "en": "lynx",
+      "uk": "рись"
     },
     {
       "fr": "le dauphin",
-      "en": "dolphin"
+      "en": "dolphin",
+      "uk": "дельфін"
     },
     {
       "fr": "la cuisine",
-      "en": "kitchen"
+      "en": "kitchen",
+      "uk": "кухня"
     }
   ]
 }

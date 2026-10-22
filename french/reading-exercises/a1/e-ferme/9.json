@@ -1,5 +1,8 @@
 {
-  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 9)",
+  "title": {
+    "en": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 9)",
+    "uk": "Закритий [e] — é, -er, -ez, -ed, et, les/des/mes (набір 9)"
+  },
   "sounds": [
     "é",
     "-er",
@@ -8,49 +11,62 @@
     "et",
     "les / des / mes / tes / ses / ces"
   ],
-  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »). « hiver » is one of the exceptions: its -er is [ɛʁ] with the r pronounced, so it isn't marked.",
+  "focus": {
+    "en": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »). « hiver » is one of the exceptions: its -er is [ɛʁ] with the r pronounced, so it isn't marked.",
+    "uk": "Усе це закритий [e]: губи розтягнуті, язик високо, чистий звук між українськими «е» та «і», без «й» наприкінці. Пишеться é; -er, -ez і -ed у кінці слова (parler, chez, pied); слово « et »; і короткі слова les, des, mes, tes, ses, ces. Винятки: у кількох коротких словах -er вимовляється [ɛʁ], з r (mer, fer, hiver, cher, hier), а « est » має відкритий [ɛ]. Квебекці чітко розрізняють é та è навіть у кінці слова (« parlé » і « parlait »). « hiver » — один із винятків: його -er вимовляється [ɛʁ], з r, тож його не позначено."
+  },
   "sentences": [
     {
       "fr": "En hiver, nous aimons all[er] dans l[es] Laurentides.",
-      "en": "In winter, we like to go to the Laurentians."
+      "en": "In winter, we like to go to the Laurentians.",
+      "uk": "Узимку ми любимо їздити в Лаврентійські гори."
     },
     {
       "fr": "Nous faisons du ski [et] de la raquette.",
-      "en": "We go skiing and snowshoeing."
+      "en": "We go skiing and snowshoeing.",
+      "uk": "Ми катаємося на лижах і ходимо на снігоступах."
     },
     {
       "fr": "Il fait très froid : il faut port[er] une tuque [et] d[es] mitaines.",
-      "en": "It's very cold: you have to wear a toque and mittens."
+      "en": "It's very cold: you have to wear a toque and mittens.",
+      "uk": "Дуже холодно: треба вдягати шапку й рукавиці."
     },
     {
       "fr": "Le soir, nous jouons aux cartes [et] nous buvons du chocolat chaud.",
-      "en": "In the evening, we play cards and drink hot chocolate."
+      "en": "In the evening, we play cards and drink hot chocolate.",
+      "uk": "Увечері ми граємо в карти й п'ємо гарячий шоколад."
     },
     {
       "fr": "C'est mon moment pr[é]f[é]r[é] de l'ann[é]e !",
-      "en": "It's my favourite time of the year!"
+      "en": "It's my favourite time of the year!",
+      "uk": "Це моя улюблена пора року!"
     }
   ],
   "vocab": [
     {
       "fr": "la raquette",
-      "en": "snowshoeing"
+      "en": "snowshoeing",
+      "uk": "ходьба на снігоступах"
     },
     {
       "fr": "porter",
-      "en": "to wear"
+      "en": "to wear",
+      "uk": "носити, вдягати"
     },
     {
       "fr": "la tuque",
-      "en": "toque, winter hat (Québécois)"
+      "en": "toque, winter hat (Québécois)",
+      "uk": "зимова шапка (у Квебеку)"
     },
     {
       "fr": "les mitaines",
-      "en": "mittens (Québécois)"
+      "en": "mittens (Québécois)",
+      "uk": "рукавиці (у Квебеку)"
     },
     {
       "fr": "le chocolat chaud",
-      "en": "hot chocolate"
+      "en": "hot chocolate",
+      "uk": "гарячий шоколад"
     }
   ]
 }

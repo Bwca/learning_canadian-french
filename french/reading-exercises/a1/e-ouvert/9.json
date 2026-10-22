@@ -1,5 +1,8 @@
 {
-  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 9)",
+  "title": {
+    "en": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 9)",
+    "uk": "Відкритий [ɛ] — è, ê, ë, ei, e + два приголосні (набір 9)"
+  },
   "sounds": [
     "è",
     "ê",
@@ -8,49 +11,62 @@
     "e + two consonants",
     "e + final consonant"
   ],
-  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "focus": {
+    "en": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+    "uk": "Усе це відкритий [ɛ]: рот відкритий ширше, ніж для é, як у « mère » — приблизно українське «е» в «день». Пишеться è, ê або ë; ei (« neige »); e перед двома приголосними (« elle », « merci », « reste »); і e перед вимовленим кінцевим приголосним (« avec », « mer », « Michel ») — зокрема « est » і « c'est ». Написання ai (« mais », « j'aime ») дає той самий звук, але в цьому наборі позначено тільки літеру e. У Квебеку ê та è перед вимовленим приголосним часто довгі й ковзають до « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), а e + r (« vert », « mer ») часто звучить ніби «аер» (« vert » ≈ «ваер»)."
+  },
   "sentences": [
     {
       "fr": "Mon oncle [e]st ch[e]f dans un r[e]staurant.",
-      "en": "My uncle is a chef in a restaurant."
+      "en": "My uncle is a chef in a restaurant.",
+      "uk": "Мій дядько — шеф-кухар у ресторані."
     },
     {
       "fr": "Il se l[è]ve tr[è]s tôt, à cinq heures.",
-      "en": "He gets up very early, at five o'clock."
+      "en": "He gets up very early, at five o'clock.",
+      "uk": "Він встає дуже рано, о п'ятій."
     },
     {
       "fr": "Il ach[è]te des p[ê]ches et des pommes au marché.",
-      "en": "He buys peaches and apples at the market."
+      "en": "He buys peaches and apples at the market.",
+      "uk": "На ринку він купує персики та яблука."
     },
     {
       "fr": "Sa spécialité, c'[e]st la tarte aux p[ê]ches.",
-      "en": "His speciality is peach pie."
+      "en": "His speciality is peach pie.",
+      "uk": "Його фірмова страва — персиковий пиріг."
     },
     {
       "fr": "Les clients disent qu'[e]lle [e]st [e]xc[e]llente.",
-      "en": "The customers say it's excellent."
+      "en": "The customers say it's excellent.",
+      "uk": "Клієнти кажуть, що він чудовий."
     }
   ],
   "vocab": [
     {
       "fr": "le chef",
-      "en": "chef"
+      "en": "chef",
+      "uk": "шеф-кухар"
     },
     {
       "fr": "se lever",
-      "en": "to get up"
+      "en": "to get up",
+      "uk": "вставати"
     },
     {
       "fr": "la pêche",
-      "en": "peach"
+      "en": "peach",
+      "uk": "персик"
     },
     {
       "fr": "la spécialité",
-      "en": "speciality"
+      "en": "speciality",
+      "uk": "фірмова страва"
     },
     {
       "fr": "la tarte",
-      "en": "pie"
+      "en": "pie",
+      "uk": "пиріг"
     }
   ]
 }

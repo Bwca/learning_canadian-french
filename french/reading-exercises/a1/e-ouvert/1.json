@@ -1,5 +1,8 @@
 {
-  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 1)",
+  "title": {
+    "en": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 1)",
+    "uk": "Відкритий [ɛ] — è, ê, ë, ei, e + два приголосні (набір 1)"
+  },
   "sounds": [
     "è",
     "ê",
@@ -8,49 +11,62 @@
     "e + two consonants",
     "e + final consonant"
   ],
-  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ». « et » is the closed [e], so it isn't marked here.",
+  "focus": {
+    "en": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ». « et » is the closed [e], so it isn't marked here.",
+    "uk": "Усе це відкритий [ɛ]: рот відкритий ширше, ніж для é, як у « mère » — приблизно українське «е» в «день». Пишеться è, ê або ë; ei (« neige »); e перед двома приголосними (« elle », « merci », « reste »); і e перед вимовленим кінцевим приголосним (« avec », « mer », « Michel ») — зокрема « est » і « c'est ». Написання ai (« mais », « j'aime ») дає той самий звук, але в цьому наборі позначено тільки літеру e. У Квебеку ê та è перед вимовленим приголосним часто довгі й ковзають до « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), а e + r (« vert », « mer ») часто звучить ніби «аер» (« vert » ≈ «ваер»). « et » — це закритий [e], тож його тут не позначено."
+  },
   "sentences": [
     {
       "fr": "Mon p[è]re s'app[e]lle Mich[e]l.",
-      "en": "My father's name is Michel."
+      "en": "My father's name is Michel.",
+      "uk": "Мого тата звати Мішель."
     },
     {
       "fr": "Ma m[è]re s'app[e]lle Hél[è]ne.",
-      "en": "My mother's name is Hélène."
+      "en": "My mother's name is Hélène.",
+      "uk": "Мою маму звати Елен."
     },
     {
       "fr": "J'ai un fr[è]re, Jo[ë]l, et une sœur, Genevi[è]ve.",
-      "en": "I have a brother, Joël, and a sister, Geneviève."
+      "en": "I have a brother, Joël, and a sister, Geneviève.",
+      "uk": "У мене є брат Жоель і сестра Женев'єва."
     },
     {
       "fr": "[E]lle [e]st tr[è]s b[e]lle et tr[è]s gentille.",
-      "en": "She's very beautiful and very kind."
+      "en": "She's very beautiful and very kind.",
+      "uk": "Вона дуже гарна й дуже мила."
     },
     {
       "fr": "Nous f[ê]tons No[ë]l ensemble chez mes grands-parents.",
-      "en": "We celebrate Christmas together at my grandparents'."
+      "en": "We celebrate Christmas together at my grandparents'.",
+      "uk": "Ми святкуємо Різдво разом у бабусі й дідуся."
     }
   ],
   "vocab": [
     {
       "fr": "le père",
-      "en": "father"
+      "en": "father",
+      "uk": "батько"
     },
     {
       "fr": "la mère",
-      "en": "mother"
+      "en": "mother",
+      "uk": "мати"
     },
     {
       "fr": "le frère",
-      "en": "brother"
+      "en": "brother",
+      "uk": "брат"
     },
     {
       "fr": "fêter",
-      "en": "to celebrate"
+      "en": "to celebrate",
+      "uk": "святкувати"
     },
     {
       "fr": "Noël",
-      "en": "Christmas"
+      "en": "Christmas",
+      "uk": "Різдво"
     }
   ]
 }

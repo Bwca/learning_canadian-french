@@ -1,53 +1,69 @@
 {
-  "title": "Open [ɛ] — ai, aî, ei (set 8)",
+  "title": {
+    "en": "Open [ɛ] — ai, aî, ei (set 8)",
+    "uk": "Відкритий [ɛ] — ai, aî, ei (набір 8)"
+  },
   "sounds": [
     "ai",
     "aî",
     "ei"
   ],
-  "focus": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+  "focus": {
+    "en": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+    "uk": "І ai, і ei дають відкритий [ɛ] — той самий звук, що è в « mère »: рот відкритий ширше, ніж для é, приблизно як українське «е» в «день». Він є в « j'aime », « mais », « lait », « faire », « semaine », « neige » і « treize », і так само звучить aî (« s'il vous plaît »). Обережно: ain + e не носове (у « semaine », « laine » — [ɛ] + n), а ain окремо — носове (« pain », « demain »). Не кожне ai — це [ɛ], тож стежте за непозначеними: « j'ai » ближче до закритого é; ail звучить як « aïe », тобто «ай» (« chandail », « travailler »); а в « nous faisons » ai — це легке « e ». У Квебеку ai та ei перед вимовленим звуком r, z чи j (« faire », « chaise », « neige ») часто довгі й ковзають до « aï », а в кінці слова (« mais », « jamais », « vrai ») лишаються відкритими, ніколи не як é — у невимушеному мовленні вони можуть розкритися майже до « a » (« jamais » ≈ « jama »)."
+  },
   "sentences": [
     {
       "fr": "En m[ai], on visite Tadoussac avec mon oncle.",
-      "en": "In May, we visit Tadoussac with my uncle."
+      "en": "In May, we visit Tadoussac with my uncle.",
+      "uk": "У травні ми їдемо з дядьком до Тадуссака."
     },
     {
       "fr": "Là-bas, on voit des bal[ei]nes dans l'eau !",
-      "en": "Over there, we see whales in the water!"
+      "en": "Over there, we see whales in the water!",
+      "uk": "Там у воді видно китів!"
     },
     {
       "fr": "Une bal[ei]ne est très grande, m[ai]s elle n'est pas méchante.",
-      "en": "A whale is very big, but it isn't mean."
+      "en": "A whale is very big, but it isn't mean.",
+      "uk": "Кит дуже великий, але не злий."
     },
     {
       "fr": "Sur le bateau, l'[ai]r est fr[ai]s.",
-      "en": "On the boat, the air is cool."
+      "en": "On the boat, the air is cool.",
+      "uk": "На кораблі повітря свіже."
     },
     {
       "fr": "J'[ai]me beaucoup les bal[ei]nes !",
-      "en": "I really love whales!"
+      "en": "I really love whales!",
+      "uk": "Я дуже люблю китів!"
     }
   ],
   "vocab": [
     {
       "fr": "une baleine",
-      "en": "a whale"
+      "en": "a whale",
+      "uk": "кит"
     },
     {
       "fr": "là-bas",
-      "en": "over there"
+      "en": "over there",
+      "uk": "там"
     },
     {
       "fr": "méchant / méchante",
-      "en": "mean"
+      "en": "mean",
+      "uk": "злий / зла"
     },
     {
       "fr": "le bateau",
-      "en": "the boat"
+      "en": "the boat",
+      "uk": "корабель, човен"
     },
     {
       "fr": "l'air",
-      "en": "the air"
+      "en": "the air",
+      "uk": "повітря"
     }
   ]
 }

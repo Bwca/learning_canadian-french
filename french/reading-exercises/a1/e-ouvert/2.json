@@ -1,5 +1,8 @@
 {
-  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 2)",
+  "title": {
+    "en": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 2)",
+    "uk": "Відкритий [ɛ] — è, ê, ë, ei, e + два приголосні (набір 2)"
+  },
   "sounds": [
     "è",
     "ê",
@@ -8,49 +11,62 @@
     "e + two consonants",
     "e + final consonant"
   ],
-  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "focus": {
+    "en": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+    "uk": "Усе це відкритий [ɛ]: рот відкритий ширше, ніж для é, як у « mère » — приблизно українське «е» в «день». Пишеться è, ê або ë; ei (« neige »); e перед двома приголосними (« elle », « merci », « reste »); і e перед вимовленим кінцевим приголосним (« avec », « mer », « Michel ») — зокрема « est » і « c'est ». Написання ai (« mais », « j'aime ») дає той самий звук, але в цьому наборі позначено тільки літеру e. У Квебеку ê та è перед вимовленим приголосним часто довгі й ковзають до « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), а e + r (« vert », « mer ») часто звучить ніби «аер» (« vert » ≈ «ваер»)."
+  },
   "sentences": [
     {
       "fr": "Ce matin, il y a une grosse temp[ê]te de n[ei]ge.",
-      "en": "This morning, there's a big snowstorm."
+      "en": "This morning, there's a big snowstorm.",
+      "uk": "Сьогодні вранці велика снігова буря."
     },
     {
       "fr": "L'école [e]st f[e]rmée aujourd'hui !",
-      "en": "School is closed today!"
+      "en": "School is closed today!",
+      "uk": "Школа сьогодні зачинена!"
     },
     {
       "fr": "Mon fr[è]re et moi, nous r[e]stons à l'intérieur.",
-      "en": "My brother and I stay inside."
+      "en": "My brother and I stay inside.",
+      "uk": "Ми з братом сидимо вдома."
     },
     {
       "fr": "Par la fen[ê]tre, on voit la n[ei]ge tomber.",
-      "en": "Through the window, we watch the snow falling."
+      "en": "Through the window, we watch the snow falling.",
+      "uk": "Крізь вікно видно, як падає сніг."
     },
     {
       "fr": "Apr[è]s le dîner, nous m[e]ttons nos v[ê]tements chauds pour sortir.",
-      "en": "After lunch, we put on our warm clothes to go out."
+      "en": "After lunch, we put on our warm clothes to go out.",
+      "uk": "Після обіду ми вдягаємо теплий одяг, щоб вийти надвір."
     }
   ],
   "vocab": [
     {
       "fr": "la tempête de neige",
-      "en": "snowstorm"
+      "en": "snowstorm",
+      "uk": "снігова буря"
     },
     {
       "fr": "fermé",
-      "en": "closed"
+      "en": "closed",
+      "uk": "зачинений"
     },
     {
       "fr": "rester",
-      "en": "to stay"
+      "en": "to stay",
+      "uk": "залишатися"
     },
     {
       "fr": "la fenêtre",
-      "en": "window"
+      "en": "window",
+      "uk": "вікно"
     },
     {
       "fr": "les vêtements",
-      "en": "clothes"
+      "en": "clothes",
+      "uk": "одяг"
     }
   ]
 }

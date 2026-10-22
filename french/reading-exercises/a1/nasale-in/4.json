@@ -1,5 +1,8 @@
 {
-  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 4)",
+  "title": {
+    "en": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 4)",
+    "uk": "Носовий [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (набір 4)"
+  },
   "sounds": [
     "in",
     "im",
@@ -10,53 +13,67 @@
     "ein",
     "eim"
   ],
-  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « voisine » isn't nasal: a vowel follows the n.",
+  "focus": {
+    "en": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « voisine » isn't nasal: a vowel follows the n.",
+    "uk": "Усі ці написання дають той самий носовий голосний [ɛ̃], як у « vin ». Носовими вони є лише тоді, коли далі не йде голосний або ще одне n/m — порівняйте « pain » і « semaine », « fin » і « fine », « plein » і « pleine ». У Квебеку [ɛ̃] часто трохи закритіший (ближче до носового « é »), а « un » лишається окремим звуком, а не зливається з « in », як у Парижі. « voisine » не носове: після n іде голосний."
+  },
   "sentences": [
     {
       "fr": "Ma voisine a un grand jard[in].",
-      "en": "My neighbour has a big garden."
+      "en": "My neighbour has a big garden.",
+      "uk": "У моєї сусідки великий сад."
     },
     {
       "fr": "Dans son jard[in], il y a un sap[in] et des lap[in]s.",
-      "en": "In her garden, there's a fir tree and some rabbits."
+      "en": "In her garden, there's a fir tree and some rabbits.",
+      "uk": "У її саду росте ялиця й живуть кролики."
     },
     {
       "fr": "Elle p[ein]t sa clôture avec de la p[ein]ture bleue.",
-      "en": "She's painting her fence with blue paint."
+      "en": "She's painting her fence with blue paint.",
+      "uk": "Вона фарбує паркан синьою фарбою."
     },
     {
       "fr": "Le jard[in] est pl[ein] de th[ym] et de romar[in].",
-      "en": "The garden is full of thyme and rosemary."
+      "en": "The garden is full of thyme and rosemary.",
+      "uk": "Сад повний чебрецю й розмарину."
     },
     {
       "fr": "C'est s[im]ple, mais c'est très joli.",
-      "en": "It's simple, but it's very pretty."
+      "en": "It's simple, but it's very pretty.",
+      "uk": "Це просто, але дуже гарно."
     }
   ],
   "vocab": [
     {
       "fr": "le sapin",
-      "en": "fir tree"
+      "en": "fir tree",
+      "uk": "ялиця"
     },
     {
       "fr": "le lapin",
-      "en": "rabbit"
+      "en": "rabbit",
+      "uk": "кролик"
     },
     {
       "fr": "la clôture",
-      "en": "fence"
+      "en": "fence",
+      "uk": "паркан"
     },
     {
       "fr": "la peinture",
-      "en": "paint"
+      "en": "paint",
+      "uk": "фарба"
     },
     {
       "fr": "le thym",
-      "en": "thyme"
+      "en": "thyme",
+      "uk": "чебрець"
     },
     {
       "fr": "le romarin",
-      "en": "rosemary"
+      "en": "rosemary",
+      "uk": "розмарин"
     }
   ]
 }

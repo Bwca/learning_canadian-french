@@ -1,58 +1,75 @@
 {
-  "title": "Nasal [ɑ̃] — an, am, en, em (set 3)",
+  "title": {
+    "en": "Nasal [ɑ̃] — an, am, en, em (set 3)",
+    "uk": "Носовий [ɑ̃] — an, am, en, em (набір 3)"
+  },
   "sounds": [
     "an",
     "am",
     "en",
     "em"
   ],
-  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »).",
+  "focus": {
+    "en": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »).",
+    "uk": "Усі ці написання дають носовий голосний [ɑ̃], як у « enfant ». У Квебеку його зазвичай вимовляють ближче до передньої частини рота, ніж у Парижі, тож він може звучати майже як паризьке « in » — прислухайтеся до цього. Обережно: дієслівне закінчення -ent (« ils chantent ») не вимовляється й ніколи не буває носовим, а голосний або подвоєне n/m після нього скасовує носовість (« banane », « Jeanne »)."
+  },
   "sentences": [
     {
       "fr": "Au print[em]ps, il fait doux et il pleut souv[en]t.",
-      "en": "In spring, it's mild and it often rains."
+      "en": "In spring, it's mild and it often rains.",
+      "uk": "Навесні тепло й часто йде дощ."
     },
     {
       "fr": "[En] été, les [en]f[an]ts jouent à la plage.",
-      "en": "In summer, the children play at the beach."
+      "en": "In summer, the children play at the beach.",
+      "uk": "Улітку діти граються на пляжі."
     },
     {
       "fr": "L'automne est très beau d[an]s les Laur[en]tides.",
-      "en": "Autumn is very beautiful in the Laurentians."
+      "en": "Autumn is very beautiful in the Laurentians.",
+      "uk": "Восени в Лаврентійських горах дуже гарно."
     },
     {
       "fr": "[En] hiver, il fait froid et il y a du v[en]t.",
-      "en": "In winter, it's cold and windy."
+      "en": "In winter, it's cold and windy.",
+      "uk": "Узимку холодно й вітряно."
     },
     {
       "fr": "Mam[an] dit : « Mets ta tuque et tes g[an]ts ! »",
-      "en": "Mom says: \"Put on your toque and your gloves!\""
+      "en": "Mom says: \"Put on your toque and your gloves!\"",
+      "uk": "Мама каже: «Вдягни шапку й рукавички!»"
     }
   ],
   "vocab": [
     {
       "fr": "le printemps",
-      "en": "spring"
+      "en": "spring",
+      "uk": "весна"
     },
     {
       "fr": "doux",
-      "en": "mild"
+      "en": "mild",
+      "uk": "м'який, теплий"
     },
     {
       "fr": "les Laurentides",
-      "en": "the Laurentians"
+      "en": "the Laurentians",
+      "uk": "Лаврентійські гори"
     },
     {
       "fr": "le vent",
-      "en": "wind"
+      "en": "wind",
+      "uk": "вітер"
     },
     {
       "fr": "la tuque",
-      "en": "toque, winter hat (Québécois)"
+      "en": "toque, winter hat (Québécois)",
+      "uk": "зимова шапка (у Квебеку)"
     },
     {
       "fr": "les gants",
-      "en": "gloves"
+      "en": "gloves",
+      "uk": "рукавички"
     }
   ]
 }

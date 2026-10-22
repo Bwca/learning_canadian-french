@@ -1,54 +1,70 @@
 {
-  "title": "Nasal [ɑ̃] — an, am, en, em (set 4)",
+  "title": {
+    "en": "Nasal [ɑ̃] — an, am, en, em (set 4)",
+    "uk": "Носовий [ɑ̃] — an, am, en, em (набір 4)"
+  },
   "sounds": [
     "an",
     "am",
     "en",
     "em"
   ],
-  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »). « chemise » isn't nasal: a vowel follows the m.",
+  "focus": {
+    "en": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »). « chemise » isn't nasal: a vowel follows the m.",
+    "uk": "Усі ці написання дають носовий голосний [ɑ̃], як у « enfant ». У Квебеку його зазвичай вимовляють ближче до передньої частини рота, ніж у Парижі, тож він може звучати майже як паризьке « in » — прислухайтеся до цього. Обережно: дієслівне закінчення -ent (« ils chantent ») не вимовляється й ніколи не буває носовим, а голосний або подвоєне n/m після нього скасовує носовість (« banane », « Jeanne »). « chemise » не носове: після m іде голосний."
+  },
   "sentences": [
     {
       "fr": "Samedi, j'aime magasiner avec ma t[an]te.",
-      "en": "On Saturday, I like to go shopping with my aunt."
+      "en": "On Saturday, I like to go shopping with my aunt.",
+      "uk": "У суботу я люблю ходити по крамницях із тіткою."
     },
     {
       "fr": "Nous cherchons un p[an]talon et une chemise bl[an]che.",
-      "en": "We're looking for pants and a white shirt."
+      "en": "We're looking for pants and a white shirt.",
+      "uk": "Ми шукаємо штани й білу сорочку."
     },
     {
       "fr": "Le p[an]talon coûte tr[en]te-cinq dollars.",
-      "en": "The pants cost thirty-five dollars."
+      "en": "The pants cost thirty-five dollars.",
+      "uk": "Штани коштують тридцять п'ять доларів."
     },
     {
       "fr": "Ma t[an]te trouve ça trop cher, alors nous [en]trons d[an]s un autre magasin.",
-      "en": "My aunt thinks it's too expensive, so we go into another store."
+      "en": "My aunt thinks it's too expensive, so we go into another store.",
+      "uk": "Тітка вважає, що це задорого, тож ми заходимо до іншої крамниці."
     },
     {
       "fr": "Là, tout est [en] solde !",
-      "en": "There, everything is on sale!"
+      "en": "There, everything is on sale!",
+      "uk": "Там усе зі знижкою!"
     }
   ],
   "vocab": [
     {
       "fr": "magasiner",
-      "en": "to go shopping (Québécois)"
+      "en": "to go shopping (Québécois)",
+      "uk": "ходити по крамницях (у Квебеку)"
     },
     {
       "fr": "la tante",
-      "en": "aunt"
+      "en": "aunt",
+      "uk": "тітка"
     },
     {
       "fr": "le pantalon",
-      "en": "pants"
+      "en": "pants",
+      "uk": "штани"
     },
     {
       "fr": "la chemise",
-      "en": "shirt"
+      "en": "shirt",
+      "uk": "сорочка"
     },
     {
       "fr": "en solde",
-      "en": "on sale"
+      "en": "on sale",
+      "uk": "зі знижкою"
     }
   ]
 }

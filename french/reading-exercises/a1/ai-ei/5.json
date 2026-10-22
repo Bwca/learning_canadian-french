@@ -1,53 +1,69 @@
 {
-  "title": "Open [ɛ] — ai, aî, ei (set 5)",
+  "title": {
+    "en": "Open [ɛ] — ai, aî, ei (set 5)",
+    "uk": "Відкритий [ɛ] — ai, aî, ei (набір 5)"
+  },
   "sounds": [
     "ai",
     "aî",
     "ei"
   ],
-  "focus": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+  "focus": {
+    "en": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+    "uk": "І ai, і ei дають відкритий [ɛ] — той самий звук, що è в « mère »: рот відкритий ширше, ніж для é, приблизно як українське «е» в «день». Він є в « j'aime », « mais », « lait », « faire », « semaine », « neige » і « treize », і так само звучить aî (« s'il vous plaît »). Обережно: ain + e не носове (у « semaine », « laine » — [ɛ] + n), а ain окремо — носове (« pain », « demain »). Не кожне ai — це [ɛ], тож стежте за непозначеними: « j'ai » ближче до закритого é; ail звучить як « aïe », тобто «ай» (« chandail », « travailler »); а в « nous faisons » ai — це легке « e ». У Квебеку ai та ei перед вимовленим звуком r, z чи j (« faire », « chaise », « neige ») часто довгі й ковзають до « aï », а в кінці слова (« mais », « jamais », « vrai ») лишаються відкритими, ніколи не як é — у невимушеному мовленні вони можуть розкритися майже до « a » (« jamais » ≈ « jama »)."
+  },
   "sentences": [
     {
       "fr": "Aujourd'hui, je porte un pantalon b[ei]ge.",
-      "en": "Today, I'm wearing beige pants."
+      "en": "Today, I'm wearing beige pants.",
+      "uk": "Сьогодні я в бежевих штанах."
     },
     {
       "fr": "J'ai une p[ai]re de bas en l[ai]ne.",
-      "en": "I have a pair of wool socks."
+      "en": "I have a pair of wool socks.",
+      "uk": "У мене є пара вовняних шкарпеток."
     },
     {
       "fr": "Ma mère [ai]me les manteaux ép[ai]s.",
-      "en": "My mom likes thick coats."
+      "en": "My mom likes thick coats.",
+      "uk": "Моя мама любить товсті пальта."
     },
     {
       "fr": "Est-ce que tu [ai]mes ma tuque ?",
-      "en": "Do you like my winter hat?"
+      "en": "Do you like my winter hat?",
+      "uk": "Тобі подобається моя зимова шапка?"
     },
     {
       "fr": "Oui, c'est vr[ai], elle est très belle !",
-      "en": "Yes, really, it's very nice!"
+      "en": "Yes, really, it's very nice!",
+      "uk": "Так, справді, вона дуже гарна!"
     }
   ],
   "vocab": [
     {
       "fr": "un pantalon",
-      "en": "pants"
+      "en": "pants",
+      "uk": "штани"
     },
     {
       "fr": "une paire de bas",
-      "en": "a pair of socks (Québec)"
+      "en": "a pair of socks (Québec)",
+      "uk": "пара шкарпеток (у Квебеку)"
     },
     {
       "fr": "épais",
-      "en": "thick"
+      "en": "thick",
+      "uk": "товстий"
     },
     {
       "fr": "une tuque",
-      "en": "a winter hat (Québec)"
+      "en": "a winter hat (Québec)",
+      "uk": "зимова шапка (у Квебеку)"
     },
     {
       "fr": "c'est vrai",
-      "en": "it's true, really"
+      "en": "it's true, really",
+      "uk": "це правда, справді"
     }
   ]
 }

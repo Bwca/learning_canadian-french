@@ -1,5 +1,8 @@
 {
-  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 8)",
+  "title": {
+    "en": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 8)",
+    "uk": "Відкритий [ɛ] — è, ê, ë, ei, e + два приголосні (набір 8)"
+  },
   "sounds": [
     "è",
     "ê",
@@ -8,49 +11,62 @@
     "e + two consonants",
     "e + final consonant"
   ],
-  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "focus": {
+    "en": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+    "uk": "Усе це відкритий [ɛ]: рот відкритий ширше, ніж для é, як у « mère » — приблизно українське «е» в «день». Пишеться è, ê або ë; ei (« neige »); e перед двома приголосними (« elle », « merci », « reste »); і e перед вимовленим кінцевим приголосним (« avec », « mer », « Michel ») — зокрема « est » і « c'est ». Написання ai (« mais », « j'aime ») дає той самий звук, але в цьому наборі позначено тільки літеру e. У Квебеку ê та è перед вимовленим приголосним часто довгі й ковзають до « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), а e + r (« vert », « mer ») часто звучить ніби «аер» (« vert » ≈ «ваер»)."
+  },
   "sentences": [
     {
       "fr": "Ce matin, ma m[è]re reçoit une l[e]ttre.",
-      "en": "This morning, my mother gets a letter."
+      "en": "This morning, my mother gets a letter.",
+      "uk": "Сьогодні вранці мама отримує листа."
     },
     {
       "fr": "[E]lle vient de sa sœur, qui habite à Québ[e]c.",
-      "en": "It's from her sister, who lives in Québec City."
+      "en": "It's from her sister, who lives in Québec City.",
+      "uk": "Він від її сестри, яка живе в місті Квебек."
     },
     {
       "fr": "Dans la l[e]ttre, il y a une b[e]lle photo.",
-      "en": "In the letter, there's a beautiful photo."
+      "en": "In the letter, there's a beautiful photo.",
+      "uk": "У листі гарна фотографія."
     },
     {
       "fr": "Sur la photo, on voit le fleuve av[e]c la n[ei]ge.",
-      "en": "In the photo, you can see the river with the snow."
+      "en": "In the photo, you can see the river with the snow.",
+      "uk": "На фотографії видно річку зі снігом."
     },
     {
       "fr": "Ma m[è]re [e]st tr[è]s émue : [e]lle veut l'appeler tout de suite.",
-      "en": "My mother is very moved: she wants to call her right away."
+      "en": "My mother is very moved: she wants to call her right away.",
+      "uk": "Мама дуже зворушена: вона хоче негайно їй подзвонити."
     }
   ],
   "vocab": [
     {
       "fr": "recevoir",
-      "en": "to receive"
+      "en": "to receive",
+      "uk": "отримувати"
     },
     {
       "fr": "la lettre",
-      "en": "letter"
+      "en": "letter",
+      "uk": "лист"
     },
     {
       "fr": "le fleuve",
-      "en": "(big) river"
+      "en": "(big) river",
+      "uk": "(велика) річка"
     },
     {
       "fr": "ému",
-      "en": "moved, touched"
+      "en": "moved, touched",
+      "uk": "зворушений"
     },
     {
       "fr": "tout de suite",
-      "en": "right away"
+      "en": "right away",
+      "uk": "негайно"
     }
   ]
 }

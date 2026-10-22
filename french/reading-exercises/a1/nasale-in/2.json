@@ -1,40 +1,89 @@
 {
-  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 2)",
-  "sounds": ["in", "im", "yn", "ym", "ain", "aim", "ein", "eim"],
-  "focus": "Same sound [ɛ̃] as « vin », whatever the spelling. Watch the unmarked words: « voisine » and « Sabine » are not nasal because a vowel follows the n, and « un » is a different nasal sound, which Québécois keeps distinct.",
+  "title": {
+    "en": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 2)",
+    "uk": "Носовий [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (набір 2)"
+  },
+  "sounds": [
+    "in",
+    "im",
+    "yn",
+    "ym",
+    "ain",
+    "aim",
+    "ein",
+    "eim"
+  ],
+  "focus": {
+    "en": "Same sound [ɛ̃] as « vin », whatever the spelling. Watch the unmarked words: « voisine » and « Sabine » are not nasal because a vowel follows the n, and « un » is a different nasal sound, which Québécois keeps distinct.",
+    "uk": "Той самий звук [ɛ̃], що в « vin », хоч як би його писали. Стежте за непозначеними словами: « voisine » і « Sabine » не носові, бо після n іде голосний, а « un » — інший носовий звук, який квебекці вимовляють окремо."
+  },
   "sentences": [
     {
       "fr": "Ce mat[in], mon cous[in] Al[ain] a f[aim].",
-      "en": "This morning, my cousin Alain is hungry."
+      "en": "This morning, my cousin Alain is hungry.",
+      "uk": "Сьогодні вранці мій двоюрідний брат Ален голодний."
     },
     {
       "fr": "Il mange un croissant dans le jard[in].",
-      "en": "He eats a croissant in the garden."
+      "en": "He eats a croissant in the garden.",
+      "uk": "Він їсть круасан у саду."
     },
     {
       "fr": "Sa voisine Sabine est p[ein]tre : elle p[ein]t un tableau pl[ein] de couleurs.",
-      "en": "His neighbour Sabine is a painter: she is painting a picture full of colours."
+      "en": "His neighbour Sabine is a painter: she is painting a picture full of colours.",
+      "uk": "Його сусідка Сабіна — художниця: вона малює картину, повну барв."
     },
     {
       "fr": "Dem[ain], ils vont au concert avec un ami de R[eim]s pour écouter une s[ym]phonie.",
-      "en": "Tomorrow, they're going to a concert with a friend from Reims to hear a symphony."
+      "en": "Tomorrow, they're going to a concert with a friend from Reims to hear a symphony.",
+      "uk": "Завтра вони підуть на концерт із другом із Реймса послухати симфонію."
     },
     {
       "fr": "Le billet coûte v[in]gt-c[in]q dollars, mais c'est s[ym]pa !",
-      "en": "The ticket costs twenty-five dollars, but it's nice!"
+      "en": "The ticket costs twenty-five dollars, but it's nice!",
+      "uk": "Квиток коштує двадцять п'ять доларів, але це класно!"
     },
     {
       "fr": "Sur le chem[in] du retour, ils voient un l[yn]x dans le bois.",
-      "en": "On the way home, they see a lynx in the woods."
+      "en": "On the way home, they see a lynx in the woods.",
+      "uk": "Дорогою додому вони бачать у лісі рись."
     }
   ],
   "vocab": [
-    { "fr": "avoir faim", "en": "to be hungry" },
-    { "fr": "le peintre", "en": "painter" },
-    { "fr": "plein de", "en": "full of" },
-    { "fr": "le billet", "en": "ticket" },
-    { "fr": "sympa", "en": "nice / pleasant" },
-    { "fr": "le chemin du retour", "en": "the way home" },
-    { "fr": "le lynx", "en": "lynx" }
+    {
+      "fr": "avoir faim",
+      "en": "to be hungry",
+      "uk": "бути голодним"
+    },
+    {
+      "fr": "le peintre",
+      "en": "painter",
+      "uk": "художник"
+    },
+    {
+      "fr": "plein de",
+      "en": "full of",
+      "uk": "повний (чогось)"
+    },
+    {
+      "fr": "le billet",
+      "en": "ticket",
+      "uk": "квиток"
+    },
+    {
+      "fr": "sympa",
+      "en": "nice / pleasant",
+      "uk": "приємний, класний"
+    },
+    {
+      "fr": "le chemin du retour",
+      "en": "the way home",
+      "uk": "дорога додому"
+    },
+    {
+      "fr": "le lynx",
+      "en": "lynx",
+      "uk": "рись"
+    }
   ]
 }

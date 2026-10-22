@@ -1,52 +1,68 @@
 {
-  "title": "Nasal [ɔ̃] — on, om (set 10)",
+  "title": {
+    "en": "Nasal [ɔ̃] — on, om (set 10)",
+    "uk": "Носовий [ɔ̃] — on, om (набір 10)"
+  },
   "sounds": [
     "on",
     "om"
   ],
-  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « limonade » isn't nasal: a vowel follows the n.",
+  "focus": {
+    "en": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « limonade » isn't nasal: a vowel follows the n.",
+    "uk": "« on » і « om » дають носовий голосний [ɔ̃], як у « bon ». Його має й кожне дієслівне закінчення -ons (« nous allons »). Голосний або подвоєне n/m після нього скасовує носовість: порівняйте « bon » і « bonne », « nom » і « homme ». « limonade » не носове: після n іде голосний."
+  },
   "sentences": [
     {
       "fr": "Dimanche, [on] fait un pique-nique au parc.",
-      "en": "On Sunday, we're having a picnic in the park."
+      "en": "On Sunday, we're having a picnic in the park.",
+      "uk": "У неділю ми влаштовуємо пікнік у парку."
     },
     {
       "fr": "M[on] père apporte du jamb[on], du fromage et du pain.",
-      "en": "My father brings ham, cheese and bread."
+      "en": "My father brings ham, cheese and bread.",
+      "uk": "Тато приносить шинку, сир і хліб."
     },
     {
       "fr": "Ma mère apporte des tomates, des c[on]c[om]bres et de la limonade.",
-      "en": "My mother brings tomatoes, cucumbers and lemonade."
+      "en": "My mother brings tomatoes, cucumbers and lemonade.",
+      "uk": "Мама приносить помідори, огірки й лимонад."
     },
     {
       "fr": "Les enfants jouent au ball[on] sur le gaz[on].",
-      "en": "The children play ball on the grass."
+      "en": "The children play ball on the grass.",
+      "uk": "Діти грають у м'яча на траві."
     },
     {
       "fr": "Quelle belle journée : [on] est c[on]tents !",
-      "en": "What a beautiful day: we're happy!"
+      "en": "What a beautiful day: we're happy!",
+      "uk": "Який гарний день: ми щасливі!"
     }
   ],
   "vocab": [
     {
       "fr": "le pique-nique",
-      "en": "picnic"
+      "en": "picnic",
+      "uk": "пікнік"
     },
     {
       "fr": "le jambon",
-      "en": "ham"
+      "en": "ham",
+      "uk": "шинка"
     },
     {
       "fr": "le concombre",
-      "en": "cucumber"
+      "en": "cucumber",
+      "uk": "огірок"
     },
     {
       "fr": "le gazon",
-      "en": "lawn, grass"
+      "en": "lawn, grass",
+      "uk": "газон, трава"
     },
     {
       "fr": "la limonade",
-      "en": "lemonade"
+      "en": "lemonade",
+      "uk": "лимонад"
     }
   ]
 }

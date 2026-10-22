@@ -1,54 +1,70 @@
 {
-  "title": "Nasal [ɑ̃] — an, am, en, em (set 9)",
+  "title": {
+    "en": "Nasal [ɑ̃] — an, am, en, em (set 9)",
+    "uk": "Носовий [ɑ̃] — an, am, en, em (набір 9)"
+  },
   "sounds": [
     "an",
     "am",
     "en",
     "em"
   ],
-  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »).",
+  "focus": {
+    "en": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »).",
+    "uk": "Усі ці написання дають носовий голосний [ɑ̃], як у « enfant ». У Квебеку його зазвичай вимовляють ближче до передньої частини рота, ніж у Парижі, тож він може звучати майже як паризьке « in » — прислухайтеся до цього. Обережно: дієслівне закінчення -ent (« ils chantent ») не вимовляється й ніколи не буває носовим, а голосний або подвоєне n/m після нього скасовує носовість (« banane », « Jeanne »)."
+  },
   "sentences": [
     {
       "fr": "Aujourd'hui, j'ai r[en]dez-vous chez le d[en]tiste.",
-      "en": "Today, I have an appointment at the dentist's."
+      "en": "Today, I have an appointment at the dentist's.",
+      "uk": "Сьогодні я записаний до стоматолога."
     },
     {
       "fr": "J'ai mal à une d[en]t depuis dim[an]che.",
-      "en": "I've had a toothache since Sunday."
+      "en": "I've had a toothache since Sunday.",
+      "uk": "У мене з неділі болить зуб."
     },
     {
       "fr": "Le d[en]tiste est très pati[en]t.",
-      "en": "The dentist is very patient."
+      "en": "The dentist is very patient.",
+      "uk": "Стоматолог дуже терплячий."
     },
     {
       "fr": "Il regarde mes d[en]ts avec une petite l[am]pe.",
-      "en": "He looks at my teeth with a little lamp."
+      "en": "He looks at my teeth with a little lamp.",
+      "uk": "Він оглядає мої зуби з маленькою лампою."
     },
     {
       "fr": "« Ce n'est pas grave, mais m[an]ge moins de bonbons ! »",
-      "en": "\"It's not serious, but eat less candy!\""
+      "en": "\"It's not serious, but eat less candy!\"",
+      "uk": "«Нічого страшного, але їж менше цукерок!»"
     }
   ],
   "vocab": [
     {
       "fr": "le rendez-vous",
-      "en": "appointment"
+      "en": "appointment",
+      "uk": "зустріч, запис (до лікаря)"
     },
     {
       "fr": "avoir mal à une dent",
-      "en": "to have a toothache"
+      "en": "to have a toothache",
+      "uk": "боліти (про зуб)"
     },
     {
       "fr": "patient",
-      "en": "patient"
+      "en": "patient",
+      "uk": "терплячий"
     },
     {
       "fr": "grave",
-      "en": "serious"
+      "en": "serious",
+      "uk": "серйозний"
     },
     {
       "fr": "moins de",
-      "en": "less, fewer"
+      "en": "less, fewer",
+      "uk": "менше"
     }
   ]
 }

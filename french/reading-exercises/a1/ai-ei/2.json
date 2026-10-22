@@ -1,53 +1,69 @@
 {
-  "title": "Open [ɛ] — ai, aî, ei (set 2)",
+  "title": {
+    "en": "Open [ɛ] — ai, aî, ei (set 2)",
+    "uk": "Відкритий [ɛ] — ai, aî, ei (набір 2)"
+  },
   "sounds": [
     "ai",
     "aî",
     "ei"
   ],
-  "focus": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+  "focus": {
+    "en": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+    "uk": "І ai, і ei дають відкритий [ɛ] — той самий звук, що è в « mère »: рот відкритий ширше, ніж для é, приблизно як українське «е» в «день». Він є в « j'aime », « mais », « lait », « faire », « semaine », « neige » і « treize », і так само звучить aî (« s'il vous plaît »). Обережно: ain + e не носове (у « semaine », « laine » — [ɛ] + n), а ain окремо — носове (« pain », « demain »). Не кожне ai — це [ɛ], тож стежте за непозначеними: « j'ai » ближче до закритого é; ail звучить як « aïe », тобто «ай» (« chandail », « travailler »); а в « nous faisons » ai — це легке « e ». У Квебеку ai та ei перед вимовленим звуком r, z чи j (« faire », « chaise », « neige ») часто довгі й ковзають до « aï », а в кінці слова (« mais », « jamais », « vrai ») лишаються відкритими, ніколи не як é — у невимушеному мовленні вони можуть розкритися майже до « a » (« jamais » ≈ « jama »)."
+  },
   "sentences": [
     {
       "fr": "En janvier, il f[ai]t très froid à Montréal.",
-      "en": "In January, it's very cold in Montreal."
+      "en": "In January, it's very cold in Montreal.",
+      "uk": "У січні в Монреалі дуже холодно."
     },
     {
       "fr": "Ce matin, il f[ai]t moins s[ei]ze degrés !",
-      "en": "This morning, it's minus sixteen degrees!"
+      "en": "This morning, it's minus sixteen degrees!",
+      "uk": "Сьогодні вранці мінус шістнадцять градусів!"
     },
     {
       "fr": "L'[ai]r est fr[ai]s et la n[ei]ge est blanche.",
-      "en": "The air is cool and the snow is white."
+      "en": "The air is cool and the snow is white.",
+      "uk": "Повітря свіже, а сніг білий."
     },
     {
       "fr": "Je mets mon chandail de l[ai]ne et ma tuque.",
-      "en": "I put on my wool sweater and my winter hat."
+      "en": "I put on my wool sweater and my winter hat.",
+      "uk": "Я вдягаю вовняний светр і зимову шапку."
     },
     {
       "fr": "Mon père n'[ai]me pas l'hiver, m[ai]s moi, j'[ai]me ça !",
-      "en": "My dad doesn't like winter, but I love it!"
+      "en": "My dad doesn't like winter, but I love it!",
+      "uk": "Тато не любить зиму, а мені вона подобається!"
     }
   ],
   "vocab": [
     {
       "fr": "il fait froid",
-      "en": "it's cold (weather)"
+      "en": "it's cold (weather)",
+      "uk": "холодно (про погоду)"
     },
     {
       "fr": "moins seize degrés",
-      "en": "minus sixteen degrees"
+      "en": "minus sixteen degrees",
+      "uk": "мінус шістнадцять градусів"
     },
     {
       "fr": "frais",
-      "en": "cool, fresh"
+      "en": "cool, fresh",
+      "uk": "свіжий, прохолодний"
     },
     {
       "fr": "un chandail de laine",
-      "en": "a wool sweater"
+      "en": "a wool sweater",
+      "uk": "вовняний светр"
     },
     {
       "fr": "une tuque",
-      "en": "a winter hat (Québec)"
+      "en": "a winter hat (Québec)",
+      "uk": "зимова шапка (у Квебеку)"
     }
   ]
 }

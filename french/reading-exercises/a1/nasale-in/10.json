@@ -1,5 +1,8 @@
 {
-  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 10)",
+  "title": {
+    "en": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 10)",
+    "uk": "Носовий [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (набір 10)"
+  },
   "sounds": [
     "in",
     "im",
@@ -10,49 +13,62 @@
     "ein",
     "eim"
   ],
-  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « hymne » isn't nasal: the ym is followed by n.",
+  "focus": {
+    "en": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « hymne » isn't nasal: the ym is followed by n.",
+    "uk": "Усі ці написання дають той самий носовий голосний [ɛ̃], як у « vin ». Носовими вони є лише тоді, коли далі не йде голосний або ще одне n/m — порівняйте « pain » і « semaine », « fin » і « fine », « plein » і « pleine ». У Квебеку [ɛ̃] часто трохи закритіший (ближче до носового « é »), а « un » лишається окремим звуком, а не зливається з « in », як у Парижі. « hymne » не носове: після ym іде n."
+  },
   "sentences": [
     {
       "fr": "Cet été, les jeux ol[ym]piques passent à la télé.",
-      "en": "This summer, the Olympic Games are on TV."
+      "en": "This summer, the Olympic Games are on TV.",
+      "uk": "Цього літа по телевізору показують Олімпійські ігри."
     },
     {
       "fr": "Mon cous[in] et moi, nous regardons le basketball.",
-      "en": "My cousin and I watch basketball."
+      "en": "My cousin and I watch basketball.",
+      "uk": "Ми з двоюрідним братом дивимося баскетбол."
     },
     {
       "fr": "Les athlètes sont [im]pressionnants : ils sont très rapides !",
-      "en": "The athletes are impressive: they're very fast!"
+      "en": "The athletes are impressive: they're very fast!",
+      "uk": "Спортсмени вражають: вони дуже швидкі!"
     },
     {
       "fr": "Une athlète du Québec gagne une médaille d'or : c'est [in]croyable !",
-      "en": "An athlete from Québec wins a gold medal: it's incredible!"
+      "en": "An athlete from Québec wins a gold medal: it's incredible!",
+      "uk": "Спортсменка з Квебеку здобуває золоту медаль: неймовірно!"
     },
     {
       "fr": "À la f[in], tout le monde chante l'hymne national.",
-      "en": "At the end, everyone sings the national anthem."
+      "en": "At the end, everyone sings the national anthem.",
+      "uk": "Наприкінці всі співають національний гімн."
     }
   ],
   "vocab": [
     {
       "fr": "les jeux olympiques",
-      "en": "the Olympic Games"
+      "en": "the Olympic Games",
+      "uk": "Олімпійські ігри"
     },
     {
       "fr": "impressionnant",
-      "en": "impressive"
+      "en": "impressive",
+      "uk": "вражаючий"
     },
     {
       "fr": "une médaille d'or",
-      "en": "a gold medal"
+      "en": "a gold medal",
+      "uk": "золота медаль"
     },
     {
       "fr": "incroyable",
-      "en": "incredible"
+      "en": "incredible",
+      "uk": "неймовірний"
     },
     {
       "fr": "l'hymne national",
-      "en": "the national anthem"
+      "en": "the national anthem",
+      "uk": "національний гімн"
     }
   ]
 }

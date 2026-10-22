@@ -1,50 +1,65 @@
 {
-  "title": "Nasal [ɑ̃] — an, am, en, em (set 10)",
+  "title": {
+    "en": "Nasal [ɑ̃] — an, am, en, em (set 10)",
+    "uk": "Носовий [ɑ̃] — an, am, en, em (набір 10)"
+  },
   "sounds": [
     "an",
     "am",
     "en",
     "em"
   ],
-  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »). « anniversaire » has a double n, so it isn't nasal.",
+  "focus": {
+    "en": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »). « anniversaire » has a double n, so it isn't nasal.",
+    "uk": "Усі ці написання дають носовий голосний [ɑ̃], як у « enfant ». У Квебеку його зазвичай вимовляють ближче до передньої частини рота, ніж у Парижі, тож він може звучати майже як паризьке « in » — прислухайтеся до цього. Обережно: дієслівне закінчення -ent (« ils chantent ») не вимовляється й ніколи не буває носовим, а голосний або подвоєне n/m після нього скасовує носовість (« banane », « Jeanne »). « anniversaire » має подвоєне n, тому не носове."
+  },
   "sentences": [
     {
       "fr": "Demain, c'est l'anniversaire de mon [en]f[an]t.",
-      "en": "Tomorrow is my child's birthday."
+      "en": "Tomorrow is my child's birthday.",
+      "uk": "Завтра день народження моєї дитини."
     },
     {
       "fr": "Il va avoir sept [an]s.",
-      "en": "He's going to be seven."
+      "en": "He's going to be seven.",
+      "uk": "Йому виповниться сім років."
     },
     {
       "fr": "Nous préparons un gâteau à l'or[an]ge.",
-      "en": "We're making an orange cake."
+      "en": "We're making an orange cake.",
+      "uk": "Ми печемо апельсиновий торт."
     },
     {
       "fr": "Ses amis arrivent à quatre heures pour ch[an]ter et d[an]ser.",
-      "en": "His friends arrive at four o'clock to sing and dance."
+      "en": "His friends arrive at four o'clock to sing and dance.",
+      "uk": "Його друзі приходять о четвертій, щоб співати й танцювати."
     },
     {
       "fr": "« Bonne fête ! » : tout le monde ch[an]te [en]s[em]ble.",
-      "en": "\"Happy birthday!\": everyone sings together."
+      "en": "\"Happy birthday!\": everyone sings together.",
+      "uk": "«З днем народження!» — співають усі разом."
     }
   ],
   "vocab": [
     {
       "fr": "l'anniversaire",
-      "en": "birthday"
+      "en": "birthday",
+      "uk": "день народження"
     },
     {
       "fr": "avoir sept ans",
-      "en": "to be seven years old"
+      "en": "to be seven years old",
+      "uk": "мати сім років"
     },
     {
       "fr": "un gâteau à l'orange",
-      "en": "an orange cake"
+      "en": "an orange cake",
+      "uk": "апельсиновий торт"
     },
     {
       "fr": "Bonne fête !",
-      "en": "Happy birthday! (Québécois)"
+      "en": "Happy birthday! (Québécois)",
+      "uk": "З днем народження! (у Квебеку)"
     }
   ]
 }

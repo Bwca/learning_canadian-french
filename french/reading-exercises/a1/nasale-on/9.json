@@ -1,52 +1,68 @@
 {
-  "title": "Nasal [ɔ̃] — on, om (set 9)",
+  "title": {
+    "en": "Nasal [ɔ̃] — on, om (set 9)",
+    "uk": "Носовий [ɔ̃] — on, om (набір 9)"
+  },
   "sounds": [
     "on",
     "om"
   ],
-  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ».",
+  "focus": {
+    "en": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ».",
+    "uk": "« on » і « om » дають носовий голосний [ɔ̃], як у « bon ». Його має й кожне дієслівне закінчення -ons (« nous allons »). Голосний або подвоєне n/m після нього скасовує носовість: порівняйте « bon » і « bonne », « nom » і « homme »."
+  },
   "sentences": [
     {
       "fr": "Sim[on] a un poiss[on] rouge qui s'appelle Bubulle.",
-      "en": "Simon has a goldfish called Bubulle."
+      "en": "Simon has a goldfish called Bubulle.",
+      "uk": "У Сімона є золота рибка на ім'я Бюбюль."
     },
     {
       "fr": "Le poiss[on] nage en r[on]d dans s[on] bocal.",
-      "en": "The fish swims in circles in its bowl."
+      "en": "The fish swims in circles in its bowl.",
+      "uk": "Рибка плаває по колу у своєму акваріумі."
     },
     {
       "fr": "Chaque matin, Sim[on] lui apporte à manger.",
-      "en": "Every morning, Simon brings it food."
+      "en": "Every morning, Simon brings it food.",
+      "uk": "Щоранку Сімон приносить їй їсти."
     },
     {
       "fr": "« Bubulle, tu es mign[on] ! » dit Sim[on].",
-      "en": "\"Bubulle, you're cute!\" says Simon."
+      "en": "\"Bubulle, you're cute!\" says Simon.",
+      "uk": "«Бюбюль, ти такий милий!» — каже Сімон."
     },
     {
       "fr": "Le poiss[on] ne rép[on]d pas, mais il fait des bulles.",
-      "en": "The fish doesn't answer, but it blows bubbles."
+      "en": "The fish doesn't answer, but it blows bubbles.",
+      "uk": "Рибка не відповідає, але пускає бульбашки."
     }
   ],
   "vocab": [
     {
       "fr": "le poisson rouge",
-      "en": "goldfish"
+      "en": "goldfish",
+      "uk": "золота рибка"
     },
     {
       "fr": "nager en rond",
-      "en": "to swim in circles"
+      "en": "to swim in circles",
+      "uk": "плавати по колу"
     },
     {
       "fr": "le bocal",
-      "en": "fishbowl"
+      "en": "fishbowl",
+      "uk": "круглий акваріум"
     },
     {
       "fr": "mignon",
-      "en": "cute"
+      "en": "cute",
+      "uk": "милий"
     },
     {
       "fr": "la bulle",
-      "en": "bubble"
+      "en": "bubble",
+      "uk": "бульбашка"
     }
   ]
 }

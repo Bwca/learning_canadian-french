@@ -1,5 +1,8 @@
 {
-  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 2)",
+  "title": {
+    "en": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 2)",
+    "uk": "Закритий [e] — é, -er, -ez, -ed, et, les/des/mes (набір 2)"
+  },
   "sounds": [
     "é",
     "-er",
@@ -8,49 +11,62 @@
     "et",
     "les / des / mes / tes / ses / ces"
   ],
-  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "focus": {
+    "en": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+    "uk": "Усе це закритий [e]: губи розтягнуті, язик високо, чистий звук між українськими «е» та «і», без «й» наприкінці. Пишеться é; -er, -ez і -ed у кінці слова (parler, chez, pied); слово « et »; і короткі слова les, des, mes, tes, ses, ces. Винятки: у кількох коротких словах -er вимовляється [ɛʁ], з r (mer, fer, hiver, cher, hier), а « est » має відкритий [ɛ]. Квебекці чітко розрізняють é та è навіть у кінці слова (« parlé » і « parlait »)."
+  },
   "sentences": [
     {
       "fr": "Aujourd'hui, c'est mon premi[er] jour au c[é]gep.",
-      "en": "Today is my first day at CEGEP."
+      "en": "Today is my first day at CEGEP.",
+      "uk": "Сьогодні мій перший день у сежепі."
     },
     {
       "fr": "Je dois trouv[er] l[es] classes [et] rencontr[er] l[es] profs.",
-      "en": "I have to find the classrooms and meet the teachers."
+      "en": "I have to find the classrooms and meet the teachers.",
+      "uk": "Мені треба знайти аудиторії й познайомитися з викладачами."
     },
     {
       "fr": "Mon amie H[é]lène m'aide à trouv[er] mon casi[er].",
-      "en": "My friend Hélène helps me find my locker."
+      "en": "My friend Hélène helps me find my locker.",
+      "uk": "Моя подруга Елен допомагає мені знайти мою шафку."
     },
     {
       "fr": "« Ass[ez] parl[é] ! » dit le prof. « Ouvr[ez] vos cahi[er]s ! »",
-      "en": "\"Enough talking!\" says the teacher. \"Open your notebooks!\""
+      "en": "\"Enough talking!\" says the teacher. \"Open your notebooks!\"",
+      "uk": "«Досить балачок! — каже викладач. — Розгорніть зошити!»"
     },
     {
       "fr": "À midi, je vais dîn[er] avec H[é]lène.",
-      "en": "At noon, I'm going to have lunch with Hélène."
+      "en": "At noon, I'm going to have lunch with Hélène.",
+      "uk": "Опівдні я піду обідати з Елен."
     }
   ],
   "vocab": [
     {
       "fr": "le cégep",
-      "en": "CEGEP, Québec junior college"
+      "en": "CEGEP, Québec junior college",
+      "uk": "сежеп, квебекський коледж"
     },
     {
       "fr": "rencontrer",
-      "en": "to meet"
+      "en": "to meet",
+      "uk": "знайомитися, зустрічати"
     },
     {
       "fr": "le casier",
-      "en": "locker"
+      "en": "locker",
+      "uk": "шафка"
     },
     {
       "fr": "assez",
-      "en": "enough"
+      "en": "enough",
+      "uk": "досить"
     },
     {
       "fr": "dîner",
-      "en": "to have lunch (Québécois)"
+      "en": "to have lunch (Québécois)",
+      "uk": "обідати (у Квебеку)"
     }
   ]
 }

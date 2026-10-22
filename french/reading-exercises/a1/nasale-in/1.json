@@ -1,5 +1,8 @@
 {
-  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 1)",
+  "title": {
+    "en": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 1)",
+    "uk": "Носовий [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (набір 1)"
+  },
   "sounds": [
     "in",
     "im",
@@ -10,61 +13,77 @@
     "ein",
     "eim"
   ],
-  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris.",
+  "focus": {
+    "en": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris.",
+    "uk": "Усі ці написання дають той самий носовий голосний [ɛ̃], як у « vin ». Носовими вони є лише тоді, коли далі не йде голосний або ще одне n/m — порівняйте « pain » і « semaine », « fin » і « fine », « plein » і « pleine ». У Квебеку [ɛ̃] часто трохи закритіший (ближче до носового « é »), а « un » лишається окремим звуком, а не зливається з « in », як у Парижі."
+  },
   "sentences": [
     {
       "fr": "Sylv[ain] a c[in]q ans et il a toujours f[aim].",
-      "en": "Sylvain is five years old and he's always hungry."
+      "en": "Sylvain is five years old and he's always hungry.",
+      "uk": "Сильвенові п'ять років, і він завжди голодний."
     },
     {
       "fr": "Le mat[in], il mange du p[ain] avec du beurre et du rais[in].",
-      "en": "In the morning, he eats bread with butter and grapes."
+      "en": "In the morning, he eats bread with butter and grapes.",
+      "uk": "Уранці він їсть хліб із маслом і виноград."
     },
     {
       "fr": "Il a un l[yn]x en peluche qu'il garde toujours dans sa m[ain].",
-      "en": "He has a stuffed lynx that he always keeps in his hand."
+      "en": "He has a stuffed lynx that he always keeps in his hand.",
+      "uk": "У нього є плюшева рись, яку він завжди тримає в руці."
     },
     {
       "fr": "Sa grande sœur p[ein]t un tableau de leur jard[in].",
-      "en": "His big sister is painting a picture of their garden."
+      "en": "His big sister is painting a picture of their garden.",
+      "uk": "Його старша сестра малює картину їхнього саду."
     },
     {
       "fr": "Leur oncle habite à R[eim]s, en France : il envoie souvent des t[im]bres à Sylv[ain].",
-      "en": "Their uncle lives in Reims, in France: he often sends Sylvain stamps."
+      "en": "Their uncle lives in Reims, in France: he often sends Sylvain stamps.",
+      "uk": "Їхній дядько живе в Реймсі, у Франції: він часто надсилає Сильвенові марки."
     },
     {
       "fr": "Sylv[ain] trouve ça très s[ym]pa : il en a déjà v[in]gt !",
-      "en": "Sylvain thinks it's great: he already has twenty!"
+      "en": "Sylvain thinks it's great: he already has twenty!",
+      "uk": "Сильвенові це дуже подобається: у нього їх уже двадцять!"
     }
   ],
   "vocab": [
     {
       "fr": "avoir faim",
-      "en": "to be hungry"
+      "en": "to be hungry",
+      "uk": "бути голодним"
     },
     {
       "fr": "le beurre",
-      "en": "butter"
+      "en": "butter",
+      "uk": "масло"
     },
     {
       "fr": "en peluche",
-      "en": "stuffed (toy)"
+      "en": "stuffed (toy)",
+      "uk": "плюшевий (про іграшку)"
     },
     {
       "fr": "garder",
-      "en": "to keep"
+      "en": "to keep",
+      "uk": "тримати, зберігати"
     },
     {
       "fr": "peindre un tableau",
-      "en": "to paint a picture"
+      "en": "to paint a picture",
+      "uk": "малювати картину"
     },
     {
       "fr": "le timbre",
-      "en": "stamp"
+      "en": "stamp",
+      "uk": "поштова марка"
     },
     {
       "fr": "sympa",
-      "en": "nice, great"
+      "en": "nice, great",
+      "uk": "приємний, класний"
     }
   ]
 }

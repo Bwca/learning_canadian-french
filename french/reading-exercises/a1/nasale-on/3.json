@@ -1,52 +1,68 @@
 {
-  "title": "Nasal [ɔ̃] — on, om (set 3)",
+  "title": {
+    "en": "Nasal [ɔ̃] — on, om (set 3)",
+    "uk": "Носовий [ɔ̃] — on, om (набір 3)"
+  },
   "sounds": [
     "on",
     "om"
   ],
-  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « oignon » is spelled oi but sounds [ɔɲɔ̃].",
+  "focus": {
+    "en": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « oignon » is spelled oi but sounds [ɔɲɔ̃].",
+    "uk": "« on » і « om » дають носовий голосний [ɔ̃], як у « bon ». Його має й кожне дієслівне закінчення -ons (« nous allons »). Голосний або подвоєне n/m після нього скасовує носовість: порівняйте « bon » і « bonne », « nom » і « homme ». « oignon » пишеться з oi, але звучить [ɔɲɔ̃]."
+  },
   "sentences": [
     {
       "fr": "Le samedi, nous all[on]s au marché Jean-Tal[on].",
-      "en": "On Saturdays, we go to the Jean-Talon Market."
+      "en": "On Saturdays, we go to the Jean-Talon Market.",
+      "uk": "По суботах ми ходимо на ринок Жан-Талон."
     },
     {
       "fr": "Nous achet[on]s des citr[on]s, des mel[on]s et des oign[on]s.",
-      "en": "We buy lemons, melons and onions."
+      "en": "We buy lemons, melons and onions.",
+      "uk": "Ми купуємо лимони, дині й цибулю."
     },
     {
       "fr": "Le vendeur nous propose du saum[on] frais.",
-      "en": "The seller offers us fresh salmon."
+      "en": "The seller offers us fresh salmon.",
+      "uk": "Продавець пропонує нам свіжого лосося."
     },
     {
       "fr": "C'est b[on] ? Oui, c'est très b[on] !",
-      "en": "Is it good? Yes, it's very good!"
+      "en": "Is it good? Yes, it's very good!",
+      "uk": "Смачно? Так, дуже смачно!"
     },
     {
       "fr": "[On] rentre à la mais[on] avec un gros panier.",
-      "en": "We go home with a big basket."
+      "en": "We go home with a big basket.",
+      "uk": "Ми повертаємося додому з великим кошиком."
     }
   ],
   "vocab": [
     {
       "fr": "le marché Jean-Talon",
-      "en": "a big public market in Montreal"
+      "en": "a big public market in Montreal",
+      "uk": "ринок Жан-Талон, великий міський ринок у Монреалі"
     },
     {
       "fr": "le citron",
-      "en": "lemon"
+      "en": "lemon",
+      "uk": "лимон"
     },
     {
       "fr": "l'oignon",
-      "en": "onion"
+      "en": "onion",
+      "uk": "цибуля"
     },
     {
       "fr": "le saumon",
-      "en": "salmon"
+      "en": "salmon",
+      "uk": "лосось"
     },
     {
       "fr": "le panier",
-      "en": "basket"
+      "en": "basket",
+      "uk": "кошик"
     }
   ]
 }

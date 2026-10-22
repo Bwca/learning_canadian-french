@@ -1,5 +1,8 @@
 {
-  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 3)",
+  "title": {
+    "en": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 3)",
+    "uk": "Носовий [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (набір 3)"
+  },
   "sounds": [
     "in",
     "im",
@@ -10,49 +13,62 @@
     "ein",
     "eim"
   ],
-  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris.",
+  "focus": {
+    "en": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris.",
+    "uk": "Усі ці написання дають той самий носовий голосний [ɛ̃], як у « vin ». Носовими вони є лише тоді, коли далі не йде голосний або ще одне n/m — порівняйте « pain » і « semaine », « fin » і « fine », « plein » і « pleine ». У Квебеку [ɛ̃] часто трохи закритіший (ближче до носового « é »), а « un » лишається окремим звуком, а не зливається з « in », як у Парижі."
+  },
   "sentences": [
     {
       "fr": "Le mat[in], je vais à la boulangerie avec mon cop[ain].",
-      "en": "In the morning, I go to the bakery with my friend."
+      "en": "In the morning, I go to the bakery with my friend.",
+      "uk": "Уранці я йду з другом до пекарні."
     },
     {
       "fr": "Nous achetons du p[ain] et c[in]q croissants.",
-      "en": "We buy bread and five croissants."
+      "en": "We buy bread and five croissants.",
+      "uk": "Ми купуємо хліб і п'ять круасанів."
     },
     {
       "fr": "La boulangère est s[ym]pa : elle nous donne un biscuit.",
-      "en": "The baker is nice: she gives us a cookie."
+      "en": "The baker is nice: she gives us a cookie.",
+      "uk": "Пекарка дуже приємна: вона дає нам печиво."
     },
     {
       "fr": "Le p[ain] est encore chaud dans nos m[ain]s.",
-      "en": "The bread is still warm in our hands."
+      "en": "The bread is still warm in our hands.",
+      "uk": "Хліб у наших руках ще теплий."
     },
     {
       "fr": "Dem[ain], nous allons prendre un p[ain] aux rais[in]s.",
-      "en": "Tomorrow, we're going to get a raisin pastry."
+      "en": "Tomorrow, we're going to get a raisin pastry.",
+      "uk": "Завтра ми візьмемо булочку з родзинками."
     }
   ],
   "vocab": [
     {
       "fr": "la boulangerie",
-      "en": "bakery"
+      "en": "bakery",
+      "uk": "пекарня"
     },
     {
       "fr": "le biscuit",
-      "en": "cookie"
+      "en": "cookie",
+      "uk": "печиво"
     },
     {
       "fr": "encore",
-      "en": "still"
+      "en": "still",
+      "uk": "ще"
     },
     {
       "fr": "la main",
-      "en": "hand"
+      "en": "hand",
+      "uk": "рука"
     },
     {
       "fr": "le pain aux raisins",
-      "en": "raisin pastry"
+      "en": "raisin pastry",
+      "uk": "булочка з родзинками"
     }
   ]
 }

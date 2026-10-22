@@ -1,5 +1,8 @@
 {
-  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 6)",
+  "title": {
+    "en": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 6)",
+    "uk": "Відкритий [ɛ] — è, ê, ë, ei, e + два приголосні (набір 6)"
+  },
   "sounds": [
     "è",
     "ê",
@@ -8,49 +11,62 @@
     "e + two consonants",
     "e + final consonant"
   ],
-  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "focus": {
+    "en": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+    "uk": "Усе це відкритий [ɛ]: рот відкритий ширше, ніж для é, як у « mère » — приблизно українське «е» в «день». Пишеться è, ê або ë; ei (« neige »); e перед двома приголосними (« elle », « merci », « reste »); і e перед вимовленим кінцевим приголосним (« avec », « mer », « Michel ») — зокрема « est » і « c'est ». Написання ai (« mais », « j'aime ») дає той самий звук, але в цьому наборі позначено тільки літеру e. У Квебеку ê та è перед вимовленим приголосним часто довгі й ковзають до « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), а e + r (« vert », « mer ») часто звучить ніби «аер» (« vert » ≈ «ваер»)."
+  },
   "sentences": [
     {
       "fr": "C[e]t été, nous allons à la m[e]r, en Gaspésie.",
-      "en": "This summer, we're going to the sea, in the Gaspé."
+      "en": "This summer, we're going to the sea, in the Gaspé.",
+      "uk": "Цього літа ми їдемо до моря, на Гаспезі."
     },
     {
       "fr": "L'eau [e]st tr[è]s froide, alors on r[e]ste sur la plage.",
-      "en": "The water is very cold, so we stay on the beach."
+      "en": "The water is very cold, so we stay on the beach.",
+      "uk": "Вода дуже холодна, тож ми залишаємося на пляжі."
     },
     {
       "fr": "Mon fr[è]re ch[e]rche des coquillages.",
-      "en": "My brother looks for seashells."
+      "en": "My brother looks for seashells.",
+      "uk": "Мій брат шукає черепашки."
     },
     {
       "fr": "Ma m[è]re lit un livre sous le grand ci[e]l bleu.",
-      "en": "My mother reads a book under the big blue sky."
+      "en": "My mother reads a book under the big blue sky.",
+      "uk": "Мама читає книжку під великим синім небом."
     },
     {
       "fr": "Le soir, on mange du homard à l'hôt[e]l.",
-      "en": "In the evening, we eat lobster at the hotel."
+      "en": "In the evening, we eat lobster at the hotel.",
+      "uk": "Увечері ми їмо омара в готелі."
     }
   ],
   "vocab": [
     {
       "fr": "la mer",
-      "en": "sea"
+      "en": "sea",
+      "uk": "море"
     },
     {
       "fr": "la Gaspésie",
-      "en": "the Gaspé Peninsula"
+      "en": "the Gaspé Peninsula",
+      "uk": "півострів Гаспе"
     },
     {
       "fr": "le coquillage",
-      "en": "seashell"
+      "en": "seashell",
+      "uk": "черепашка"
     },
     {
       "fr": "le ciel",
-      "en": "sky"
+      "en": "sky",
+      "uk": "небо"
     },
     {
       "fr": "le homard",
-      "en": "lobster"
+      "en": "lobster",
+      "uk": "омар"
     }
   ]
 }

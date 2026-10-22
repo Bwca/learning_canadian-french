@@ -1,5 +1,8 @@
 {
-  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 5)",
+  "title": {
+    "en": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 5)",
+    "uk": "Закритий [e] — é, -er, -ez, -ed, et, les/des/mes (набір 5)"
+  },
   "sounds": [
     "é",
     "-er",
@@ -8,49 +11,62 @@
     "et",
     "les / des / mes / tes / ses / ces"
   ],
-  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "focus": {
+    "en": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+    "uk": "Усе це закритий [e]: губи розтягнуті, язик високо, чистий звук між українськими «е» та «і», без «й» наприкінці. Пишеться é; -er, -ez і -ed у кінці слова (parler, chez, pied); слово « et »; і короткі слова les, des, mes, tes, ses, ces. Винятки: у кількох коротких словах -er вимовляється [ɛʁ], з r (mer, fer, hiver, cher, hier), а « est » має відкритий [ɛ]. Квебекці чітко розрізняють é та è навіть у кінці слова (« parlé » і « parlait »)."
+  },
   "sentences": [
     {
       "fr": "Aujourd'hui, nous allons cuisin[er] d[es] crêpes.",
-      "en": "Today, we're going to make crepes."
+      "en": "Today, we're going to make crepes.",
+      "uk": "Сьогодні ми будемо готувати млинці."
     },
     {
       "fr": "D'abord, il faut m[é]lang[er] la farine, l[es] œufs [et] le lait.",
-      "en": "First, you have to mix the flour, the eggs and the milk."
+      "en": "First, you have to mix the flour, the eggs and the milk.",
+      "uk": "Спочатку треба змішати борошно, яйця й молоко."
     },
     {
       "fr": "Ensuite, vers[ez] un peu de pâte dans la poêle.",
-      "en": "Then pour a little batter into the pan."
+      "en": "Then pour a little batter into the pan.",
+      "uk": "Потім налийте на сковорідку трохи тіста."
     },
     {
       "fr": "Attention : il ne faut pas brûl[er] la crêpe !",
-      "en": "Careful: don't burn the crepe!"
+      "en": "Careful: don't burn the crepe!",
+      "uk": "Обережно: млинець не можна спалити!"
     },
     {
       "fr": "À la fin, on met du sirop d'[é]rable. C'est d[é]licieux !",
-      "en": "At the end, we add maple syrup. It's delicious!"
+      "en": "At the end, we add maple syrup. It's delicious!",
+      "uk": "Наприкінці поливаємо кленовим сиропом. Смакота!"
     }
   ],
   "vocab": [
     {
       "fr": "cuisiner",
-      "en": "to cook"
+      "en": "to cook",
+      "uk": "готувати (їжу)"
     },
     {
       "fr": "mélanger",
-      "en": "to mix"
+      "en": "to mix",
+      "uk": "змішувати"
     },
     {
       "fr": "verser",
-      "en": "to pour"
+      "en": "to pour",
+      "uk": "наливати"
     },
     {
       "fr": "la poêle",
-      "en": "frying pan"
+      "en": "frying pan",
+      "uk": "сковорідка"
     },
     {
       "fr": "le sirop d'érable",
-      "en": "maple syrup"
+      "en": "maple syrup",
+      "uk": "кленовий сироп"
     }
   ]
 }

@@ -1,52 +1,68 @@
 {
-  "title": "Nasal [ɔ̃] — on, om (set 4)",
+  "title": {
+    "en": "Nasal [ɔ̃] — on, om (set 4)",
+    "uk": "Носовий [ɔ̃] — on, om (набір 4)"
+  },
   "sounds": [
     "on",
     "om"
   ],
-  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « sommes » has mm, so it isn't nasal.",
+  "focus": {
+    "en": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « sommes » has mm, so it isn't nasal.",
+    "uk": "« on » і « om » дають носовий голосний [ɔ̃], як у « bon ». Його має й кожне дієслівне закінчення -ons (« nous allons »). Голосний або подвоєне n/m після нього скасовує носовість: порівняйте « bon » і « bonne », « nom » і « homme ». « sommes » має подвоєне m, тому не носове."
+  },
   "sentences": [
     {
       "fr": "Cet été, nous all[on]s à la m[on]tagne.",
-      "en": "This summer, we're going to the mountains."
+      "en": "This summer, we're going to the mountains.",
+      "uk": "Цього літа ми їдемо в гори."
     },
     {
       "fr": "Nous m[on]t[on]s pendant trois heures.",
-      "en": "We climb for three hours."
+      "en": "We climb for three hours.",
+      "uk": "Ми підіймаємося три години."
     },
     {
       "fr": "En haut, [on] voit très loin.",
-      "en": "From the top, we can see very far."
+      "en": "From the top, we can see very far.",
+      "uk": "Згори видно дуже далеко."
     },
     {
       "fr": "M[on] frère prend des photos du p[on]t et du lac.",
-      "en": "My brother takes photos of the bridge and the lake."
+      "en": "My brother takes photos of the bridge and the lake.",
+      "uk": "Мій брат фотографує міст і озеро."
     },
     {
       "fr": "Le soir, nous sommes fatigués mais c[on]tents.",
-      "en": "In the evening, we're tired but happy."
+      "en": "In the evening, we're tired but happy.",
+      "uk": "Увечері ми втомлені, але задоволені."
     }
   ],
   "vocab": [
     {
       "fr": "la montagne",
-      "en": "mountain"
+      "en": "mountain",
+      "uk": "гора"
     },
     {
       "fr": "monter",
-      "en": "to climb"
+      "en": "to climb",
+      "uk": "підійматися"
     },
     {
       "fr": "en haut",
-      "en": "at the top"
+      "en": "at the top",
+      "uk": "нагорі"
     },
     {
       "fr": "le pont",
-      "en": "bridge"
+      "en": "bridge",
+      "uk": "міст"
     },
     {
       "fr": "content",
-      "en": "happy"
+      "en": "happy",
+      "uk": "задоволений, радий"
     }
   ]
 }

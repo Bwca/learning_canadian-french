@@ -1,5 +1,8 @@
 {
-  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 10)",
+  "title": {
+    "en": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 10)",
+    "uk": "Відкритий [ɛ] — è, ê, ë, ei, e + два приголосні (набір 10)"
+  },
   "sounds": [
     "è",
     "ê",
@@ -8,49 +11,62 @@
     "e + two consonants",
     "e + final consonant"
   ],
-  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "focus": {
+    "en": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+    "uk": "Усе це відкритий [ɛ]: рот відкритий ширше, ніж для é, як у « mère » — приблизно українське «е» в «день». Пишеться è, ê або ë; ei (« neige »); e перед двома приголосними (« elle », « merci », « reste »); і e перед вимовленим кінцевим приголосним (« avec », « mer », « Michel ») — зокрема « est » і « c'est ». Написання ai (« mais », « j'aime ») дає той самий звук, але в цьому наборі позначено тільки літеру e. У Квебеку ê та è перед вимовленим приголосним часто довгі й ковзають до « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), а e + r (« vert », « mer ») часто звучить ніби «аер» (« vert » ≈ «ваер»)."
+  },
   "sentences": [
     {
       "fr": "C[e]tte nuit, Hél[è]ne r[ê]ve d'une r[ei]ne.",
-      "en": "Last night, Hélène dreams about a queen."
+      "en": "Last night, Hélène dreams about a queen.",
+      "uk": "Цієї ночі Елен сниться королева."
     },
     {
       "fr": "La r[ei]ne a une couronne sur la t[ê]te.",
-      "en": "The queen has a crown on her head."
+      "en": "The queen has a crown on her head.",
+      "uk": "У королеви на голові корона."
     },
     {
       "fr": "[E]lle habite dans un château, au milieu d'une for[ê]t.",
-      "en": "She lives in a castle, in the middle of a forest."
+      "en": "She lives in a castle, in the middle of a forest.",
+      "uk": "Вона живе в замку посеред лісу."
     },
     {
       "fr": "La r[ei]ne dit : « Bienvenue ! Tu [e]s mon invitée ! »",
-      "en": "The queen says: \"Welcome! You are my guest!\""
+      "en": "The queen says: \"Welcome! You are my guest!\"",
+      "uk": "Королева каже: «Ласкаво просимо! Ти моя гостя!»"
     },
     {
       "fr": "Puis, Hél[è]ne se rév[e]ille dans son lit.",
-      "en": "Then Hélène wakes up in her bed."
+      "en": "Then Hélène wakes up in her bed.",
+      "uk": "Потім Елен прокидається у своєму ліжку."
     }
   ],
   "vocab": [
     {
       "fr": "rêver de",
-      "en": "to dream about"
+      "en": "to dream about",
+      "uk": "мріяти, бачити уві сні"
     },
     {
       "fr": "la reine",
-      "en": "queen"
+      "en": "queen",
+      "uk": "королева"
     },
     {
       "fr": "la couronne",
-      "en": "crown"
+      "en": "crown",
+      "uk": "корона"
     },
     {
       "fr": "l'invitée",
-      "en": "guest"
+      "en": "guest",
+      "uk": "гостя"
     },
     {
       "fr": "se réveiller",
-      "en": "to wake up"
+      "en": "to wake up",
+      "uk": "прокидатися"
     }
   ]
 }

@@ -1,53 +1,69 @@
 {
-  "title": "Open [ɛ] — ai, aî, ei (set 10)",
+  "title": {
+    "en": "Open [ɛ] — ai, aî, ei (set 10)",
+    "uk": "Відкритий [ɛ] — ai, aî, ei (набір 10)"
+  },
   "sounds": [
     "ai",
     "aî",
     "ei"
   ],
-  "focus": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+  "focus": {
+    "en": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+    "uk": "І ai, і ei дають відкритий [ɛ] — той самий звук, що è в « mère »: рот відкритий ширше, ніж для é, приблизно як українське «е» в «день». Він є в « j'aime », « mais », « lait », « faire », « semaine », « neige » і « treize », і так само звучить aî (« s'il vous plaît »). Обережно: ain + e не носове (у « semaine », « laine » — [ɛ] + n), а ain окремо — носове (« pain », « demain »). Не кожне ai — це [ɛ], тож стежте за непозначеними: « j'ai » ближче до закритого é; ail звучить як « aïe », тобто «ай» (« chandail », « travailler »); а в « nous faisons » ai — це легке « e ». У Квебеку ai та ei перед вимовленим звуком r, z чи j (« faire », « chaise », « neige ») часто довгі й ковзають до « aï », а в кінці слова (« mais », « jamais », « vrai ») лишаються відкритими, ніколи не як é — у невимушеному мовленні вони можуть розкритися майже до « a » (« jamais » ≈ « jama »)."
+  },
   "sentences": [
     {
       "fr": "Le samedi, ma mère f[ai]t l'épicerie au marché.",
-      "en": "On Saturdays, my mom does the groceries at the market."
+      "en": "On Saturdays, my mom does the groceries at the market.",
+      "uk": "По суботах мама купує продукти на ринку."
     },
     {
       "fr": "Les légumes sont très fr[ai]s.",
-      "en": "The vegetables are very fresh."
+      "en": "The vegetables are very fresh.",
+      "uk": "Овочі дуже свіжі."
     },
     {
       "fr": "Elle achète une douz[ai]ne d'œufs et du l[ai]t.",
-      "en": "She buys a dozen eggs and some milk."
+      "en": "She buys a dozen eggs and some milk.",
+      "uk": "Вона купує десяток яєць і молоко."
     },
     {
       "fr": "Moi, je choisis les fr[ai]ses et le sirop d'érable.",
-      "en": "I pick the strawberries and the maple syrup."
+      "en": "I pick the strawberries and the maple syrup.",
+      "uk": "А я вибираю полуницю й кленовий сироп."
     },
     {
       "fr": "« Ça f[ai]t tr[ei]ze dollars, s'il vous pl[aî]t. »",
-      "en": "\"That'll be thirteen dollars, please.\""
+      "en": "\"That'll be thirteen dollars, please.\"",
+      "uk": "«З вас тринадцять доларів, будь ласка»."
     }
   ],
   "vocab": [
     {
       "fr": "faire l'épicerie",
-      "en": "to do the groceries (Québec)"
+      "en": "to do the groceries (Québec)",
+      "uk": "купувати продукти (у Квебеку)"
     },
     {
       "fr": "les légumes",
-      "en": "vegetables"
+      "en": "vegetables",
+      "uk": "овочі"
     },
     {
       "fr": "une douzaine d'œufs",
-      "en": "a dozen eggs"
+      "en": "a dozen eggs",
+      "uk": "десяток яєць"
     },
     {
       "fr": "le sirop d'érable",
-      "en": "maple syrup"
+      "en": "maple syrup",
+      "uk": "кленовий сироп"
     },
     {
       "fr": "choisir",
-      "en": "to choose"
+      "en": "to choose",
+      "uk": "вибирати"
     }
   ]
 }

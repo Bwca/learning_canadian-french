@@ -1,5 +1,8 @@
 {
-  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 4)",
+  "title": {
+    "en": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 4)",
+    "uk": "Закритий [e] — é, -er, -ez, -ed, et, les/des/mes (набір 4)"
+  },
   "sounds": [
     "é",
     "-er",
@@ -8,49 +11,62 @@
     "et",
     "les / des / mes / tes / ses / ces"
   ],
-  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "focus": {
+    "en": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+    "uk": "Усе це закритий [e]: губи розтягнуті, язик високо, чистий звук між українськими «е» та «і», без «й» наприкінці. Пишеться é; -er, -ez і -ed у кінці слова (parler, chez, pied); слово « et »; і короткі слова les, des, mes, tes, ses, ces. Винятки: у кількох коротких словах -er вимовляється [ɛʁ], з r (mer, fer, hiver, cher, hier), а « est » має відкритий [ɛ]. Квебекці чітко розрізняють é та è навіть у кінці слова (« parlé » і « parlait »)."
+  },
   "sentences": [
     {
       "fr": "En [é]t[é], nous allons au lac avec m[es] grands-parents.",
-      "en": "In summer, we go to the lake with my grandparents."
+      "en": "In summer, we go to the lake with my grandparents.",
+      "uk": "Улітку ми їздимо на озеро з бабусею й дідусем."
     },
     {
       "fr": "Le matin, on aime nag[er] [et] pêch[er].",
-      "en": "In the morning, we like to swim and fish."
+      "en": "In the morning, we like to swim and fish.",
+      "uk": "Уранці ми любимо поплавати й порибалити."
     },
     {
       "fr": "Mon grand-père pr[é]pare d[es] sandwichs pour le dîn[er].",
-      "en": "My grandfather makes sandwiches for lunch."
+      "en": "My grandfather makes sandwiches for lunch.",
+      "uk": "Дідусь готує бутерброди на обід."
     },
     {
       "fr": "L'après-midi, on regarde l[es] canards [et] l[es] h[é]rons.",
-      "en": "In the afternoon, we watch the ducks and the herons."
+      "en": "In the afternoon, we watch the ducks and the herons.",
+      "uk": "По обіді ми дивимося на качок і чапель."
     },
     {
       "fr": "Le soir, on chante [et] on mange d[es] guimauves grill[é]es.",
-      "en": "In the evening, we sing and eat toasted marshmallows."
+      "en": "In the evening, we sing and eat toasted marshmallows.",
+      "uk": "Увечері ми співаємо й їмо підсмажений маршмелоу."
     }
   ],
   "vocab": [
     {
       "fr": "nager",
-      "en": "to swim"
+      "en": "to swim",
+      "uk": "плавати"
     },
     {
       "fr": "pêcher",
-      "en": "to fish"
+      "en": "to fish",
+      "uk": "рибалити"
     },
     {
       "fr": "le dîner",
-      "en": "lunch (Québécois)"
+      "en": "lunch (Québécois)",
+      "uk": "обід (у Квебеку)"
     },
     {
       "fr": "le canard",
-      "en": "duck"
+      "en": "duck",
+      "uk": "качка"
     },
     {
       "fr": "les guimauves",
-      "en": "marshmallows"
+      "en": "marshmallows",
+      "uk": "маршмелоу"
     }
   ]
 }

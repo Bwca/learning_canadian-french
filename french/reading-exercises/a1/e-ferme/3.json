@@ -1,5 +1,8 @@
 {
-  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 3)",
+  "title": {
+    "en": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 3)",
+    "uk": "Закритий [e] — é, -er, -ez, -ed, et, les/des/mes (набір 3)"
+  },
   "sounds": [
     "é",
     "-er",
@@ -8,49 +11,62 @@
     "et",
     "les / des / mes / tes / ses / ces"
   ],
-  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "focus": {
+    "en": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+    "uk": "Усе це закритий [e]: губи розтягнуті, язик високо, чистий звук між українськими «е» та «і», без «й» наприкінці. Пишеться é; -er, -ez і -ed у кінці слова (parler, chez, pied); слово « et »; і короткі слова les, des, mes, tes, ses, ces. Винятки: у кількох коротких словах -er вимовляється [ɛʁ], з r (mer, fer, hiver, cher, hier), а « est » має відкритий [ɛ]. Квебекці чітко розрізняють é та è навіть у кінці слова (« parlé » і « parlait »)."
+  },
   "sentences": [
     {
       "fr": "Thomas a mal au pi[ed] depuis lundi.",
-      "en": "Thomas has had a sore foot since Monday."
+      "en": "Thomas has had a sore foot since Monday.",
+      "uk": "Із понеділка в Тома болить нога."
     },
     {
       "fr": "Il va ch[ez] le m[é]decin.",
-      "en": "He goes to the doctor's."
+      "en": "He goes to the doctor's.",
+      "uk": "Він іде до лікаря."
     },
     {
       "fr": "Le m[é]decin demande : « Vous pouv[ez] march[er] ? »",
-      "en": "The doctor asks: \"Can you walk?\""
+      "en": "The doctor asks: \"Can you walk?\"",
+      "uk": "Лікар питає: «Ви можете ходити?»"
     },
     {
       "fr": "Thomas r[é]pond : « Oui, mais c'est difficile de mont[er] l[es] escali[er]s. »",
-      "en": "Thomas answers: \"Yes, but it's hard to climb the stairs.\""
+      "en": "Thomas answers: \"Yes, but it's hard to climb the stairs.\"",
+      "uk": "Том відповідає: «Так, але важко підніматися сходами»."
     },
     {
       "fr": "« Il faut vous repos[er] [et] ne pas jou[er] au hockey cette semaine ! »",
-      "en": "\"You need to rest and not play hockey this week!\""
+      "en": "\"You need to rest and not play hockey this week!\"",
+      "uk": "«Вам треба відпочити й цього тижня не грати в хокей!»"
     }
   ],
   "vocab": [
     {
       "fr": "avoir mal au pied",
-      "en": "to have a sore foot"
+      "en": "to have a sore foot",
+      "uk": "боліти (про ногу)"
     },
     {
       "fr": "le médecin",
-      "en": "doctor"
+      "en": "doctor",
+      "uk": "лікар"
     },
     {
       "fr": "marcher",
-      "en": "to walk"
+      "en": "to walk",
+      "uk": "ходити"
     },
     {
       "fr": "l'escalier",
-      "en": "stairs"
+      "en": "stairs",
+      "uk": "сходи"
     },
     {
       "fr": "se reposer",
-      "en": "to rest"
+      "en": "to rest",
+      "uk": "відпочивати"
     }
   ]
 }

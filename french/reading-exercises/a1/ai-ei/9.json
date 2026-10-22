@@ -1,53 +1,69 @@
 {
-  "title": "Open [ɛ] — ai, aî, ei (set 9)",
+  "title": {
+    "en": "Open [ɛ] — ai, aî, ei (set 9)",
+    "uk": "Відкритий [ɛ] — ai, aî, ei (набір 9)"
+  },
   "sounds": [
     "ai",
     "aî",
     "ei"
   ],
-  "focus": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+  "focus": {
+    "en": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+    "uk": "І ai, і ei дають відкритий [ɛ] — той самий звук, що è в « mère »: рот відкритий ширше, ніж для é, приблизно як українське «е» в «день». Він є в « j'aime », « mais », « lait », « faire », « semaine », « neige » і « treize », і так само звучить aî (« s'il vous plaît »). Обережно: ain + e не носове (у « semaine », « laine » — [ɛ] + n), а ain окремо — носове (« pain », « demain »). Не кожне ai — це [ɛ], тож стежте за непозначеними: « j'ai » ближче до закритого é; ail звучить як « aïe », тобто «ай» (« chandail », « travailler »); а в « nous faisons » ai — це легке « e ». У Квебеку ai та ei перед вимовленим звуком r, z чи j (« faire », « chaise », « neige ») часто довгі й ковзають до « aï », а в кінці слова (« mais », « jamais », « vrai ») лишаються відкритими, ніколи не як é — у невимушеному мовленні вони можуть розкритися майже до « a » (« jamais » ≈ « jama »)."
+  },
   "sentences": [
     {
       "fr": "Aujourd'hui, c'est l'annivers[ai]re de Cl[ai]re.",
-      "en": "Today is Claire's birthday."
+      "en": "Today is Claire's birthday.",
+      "uk": "Сьогодні в Клер день народження."
     },
     {
       "fr": "Elle a s[ei]ze ans.",
-      "en": "She's sixteen."
+      "en": "She's sixteen.",
+      "uk": "Їй шістнадцять років."
     },
     {
       "fr": "Sa mère f[ai]t un gâteau aux fr[ai]ses.",
-      "en": "Her mom makes a strawberry cake."
+      "en": "Her mom makes a strawberry cake.",
+      "uk": "Мама пече їй полуничний торт."
     },
     {
       "fr": "Cl[ai]re est contente, m[ai]s elle a de la p[ei]ne : son amie est malade.",
-      "en": "Claire is happy, but she's sad: her friend is sick."
+      "en": "Claire is happy, but she's sad: her friend is sick.",
+      "uk": "Клер рада, але їй сумно: її подруга захворіла."
     },
     {
       "fr": "Demain, elle va voir son amie avec du gâteau.",
-      "en": "Tomorrow, she's going to see her friend with some cake."
+      "en": "Tomorrow, she's going to see her friend with some cake.",
+      "uk": "Завтра вона піде до подруги з тортом."
     }
   ],
   "vocab": [
     {
       "fr": "l'anniversaire",
-      "en": "birthday"
+      "en": "birthday",
+      "uk": "день народження"
     },
     {
       "fr": "un gâteau aux fraises",
-      "en": "a strawberry cake"
+      "en": "a strawberry cake",
+      "uk": "полуничний торт"
     },
     {
       "fr": "content / contente",
-      "en": "happy"
+      "en": "happy",
+      "uk": "радий / рада"
     },
     {
       "fr": "avoir de la peine",
-      "en": "to be sad"
+      "en": "to be sad",
+      "uk": "сумувати, бути сумно"
     },
     {
       "fr": "malade",
-      "en": "sick"
+      "en": "sick",
+      "uk": "хворий"
     }
   ]
 }

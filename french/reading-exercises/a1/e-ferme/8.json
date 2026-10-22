@@ -1,5 +1,8 @@
 {
-  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 8)",
+  "title": {
+    "en": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 8)",
+    "uk": "Закритий [e] — é, -er, -ez, -ed, et, les/des/mes (набір 8)"
+  },
   "sounds": [
     "é",
     "-er",
@@ -8,45 +11,57 @@
     "et",
     "les / des / mes / tes / ses / ces"
   ],
-  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "focus": {
+    "en": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+    "uk": "Усе це закритий [e]: губи розтягнуті, язик високо, чистий звук між українськими «е» та «і», без «й» наприкінці. Пишеться é; -er, -ez і -ed у кінці слова (parler, chez, pied); слово « et »; і короткі слова les, des, mes, tes, ses, ces. Винятки: у кількох коротких словах -er вимовляється [ɛʁ], з r (mer, fer, hiver, cher, hier), а « est » має відкритий [ɛ]. Квебекці чітко розрізняють é та è навіть у кінці слова (« parlé » і « parlait »)."
+  },
   "sentences": [
     {
       "fr": "Cet [é]t[é], nous allons visit[er] la ville de Qu[é]bec.",
-      "en": "This summer, we're going to visit Québec City."
+      "en": "This summer, we're going to visit Québec City.",
+      "uk": "Цього літа ми поїдемо до міста Квебек."
     },
     {
       "fr": "Nous voulons voir l[es] vieilles rues [et] le Château Frontenac.",
-      "en": "We want to see the old streets and the Château Frontenac."
+      "en": "We want to see the old streets and the Château Frontenac.",
+      "uk": "Ми хочемо побачити старі вулички й Шато-Фронтенак."
     },
     {
       "fr": "Ma sœur veut achet[er] d[es] souvenirs.",
-      "en": "My sister wants to buy souvenirs."
+      "en": "My sister wants to buy souvenirs.",
+      "uk": "Моя сестра хоче купити сувеніри."
     },
     {
       "fr": "Mon père veut mang[er] une poutine [et] un pât[é] chinois.",
-      "en": "My father wants to eat poutine and a pâté chinois."
+      "en": "My father wants to eat poutine and a pâté chinois.",
+      "uk": "Тато хоче скуштувати путін і пате шинуа."
     },
     {
       "fr": "[Et] moi ? Je veux me promen[er] sur la terrasse Dufferin.",
-      "en": "And me? I want to stroll on Dufferin Terrace."
+      "en": "And me? I want to stroll on Dufferin Terrace.",
+      "uk": "А я? Я хочу прогулятися терасою Дафферін."
     }
   ],
   "vocab": [
     {
       "fr": "la ville de Québec",
-      "en": "Québec City"
+      "en": "Québec City",
+      "uk": "місто Квебек"
     },
     {
       "fr": "vieux, vieille",
-      "en": "old"
+      "en": "old",
+      "uk": "старий, стара"
     },
     {
       "fr": "le pâté chinois",
-      "en": "Québec-style shepherd's pie"
+      "en": "Québec-style shepherd's pie",
+      "uk": "пате шинуа, квебекська запіканка з м'ясом і картоплею"
     },
     {
       "fr": "se promener",
-      "en": "to stroll"
+      "en": "to stroll",
+      "uk": "гуляти, прогулюватися"
     }
   ]
 }

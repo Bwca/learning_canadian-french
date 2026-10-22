@@ -1,54 +1,70 @@
 {
-  "title": "Nasal [ɑ̃] — an, am, en, em (set 2)",
+  "title": {
+    "en": "Nasal [ɑ̃] — an, am, en, em (set 2)",
+    "uk": "Носовий [ɑ̃] — an, am, en, em (набір 2)"
+  },
   "sounds": [
     "an",
     "am",
     "en",
     "em"
   ],
-  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »). « Jeanne » has a double n, so it isn't nasal.",
+  "focus": {
+    "en": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent ») is silent, never nasal, and a following vowel or doubled n/m cancels the nasal (« banane », « Jeanne »). « Jeanne » has a double n, so it isn't nasal.",
+    "uk": "Усі ці написання дають носовий голосний [ɑ̃], як у « enfant ». У Квебеку його зазвичай вимовляють ближче до передньої частини рота, ніж у Парижі, тож він може звучати майже як паризьке « in » — прислухайтеся до цього. Обережно: дієслівне закінчення -ent (« ils chantent ») не вимовляється й ніколи не буває носовим, а голосний або подвоєне n/m після нього скасовує носовість (« banane », « Jeanne »). « Jeanne » має подвоєне n, тому не носове."
+  },
   "sentences": [
     {
       "fr": "Mes par[en]ts ont trois [en]f[an]ts.",
-      "en": "My parents have three children."
+      "en": "My parents have three children.",
+      "uk": "У моїх батьків троє дітей."
     },
     {
       "fr": "Ma gr[an]de sœur s'appelle Jeanne.",
-      "en": "My big sister is called Jeanne."
+      "en": "My big sister is called Jeanne.",
+      "uk": "Мою старшу сестру звати Жанна."
     },
     {
       "fr": "Mon petit frère pose c[en]t questions par jour !",
-      "en": "My little brother asks a hundred questions a day!"
+      "en": "My little brother asks a hundred questions a day!",
+      "uk": "Мій молодший брат ставить сто запитань на день!"
     },
     {
       "fr": "Le dim[an]che, nous m[an]geons chez ma gr[an]d-mère.",
-      "en": "On Sundays, we eat at my grandmother's."
+      "en": "On Sundays, we eat at my grandmother's.",
+      "uk": "По неділях ми обідаємо в бабусі."
     },
     {
       "fr": "Elle prépare toujours un excell[en]t gâteau.",
-      "en": "She always makes an excellent cake."
+      "en": "She always makes an excellent cake.",
+      "uk": "Вона завжди пече чудовий торт."
     }
   ],
   "vocab": [
     {
       "fr": "les parents",
-      "en": "parents"
+      "en": "parents",
+      "uk": "батьки"
     },
     {
       "fr": "la grande sœur",
-      "en": "big sister"
+      "en": "big sister",
+      "uk": "старша сестра"
     },
     {
       "fr": "poser une question",
-      "en": "to ask a question"
+      "en": "to ask a question",
+      "uk": "ставити запитання"
     },
     {
       "fr": "la grand-mère",
-      "en": "grandmother"
+      "en": "grandmother",
+      "uk": "бабуся"
     },
     {
       "fr": "excellent",
-      "en": "excellent"
+      "en": "excellent",
+      "uk": "чудовий"
     }
   ]
 }

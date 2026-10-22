@@ -1,52 +1,68 @@
 {
-  "title": "Nasal [ɔ̃] — on, om (set 5)",
+  "title": {
+    "en": "Nasal [ɔ̃] — on, om (set 5)",
+    "uk": "Носовий [ɔ̃] — on, om (набір 5)"
+  },
   "sounds": [
     "on",
     "om"
   ],
-  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « comme » has mm, so it isn't nasal.",
+  "focus": {
+    "en": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « comme » has mm, so it isn't nasal.",
+    "uk": "« on » і « om » дають носовий голосний [ɔ̃], як у « bon ». Його має й кожне дієслівне закінчення -ons (« nous allons »). Голосний або подвоєне n/m після нього скасовує носовість: порівняйте « bon » і « bonne », « nom » і « homme ». « comme » має подвоєне m, тому не носове."
+  },
   "sentences": [
     {
       "fr": "M[on] [on]cle Gast[on] est p[om]pier.",
-      "en": "My uncle Gaston is a firefighter."
+      "en": "My uncle Gaston is a firefighter.",
+      "uk": "Мій дядько Гастон — пожежник."
     },
     {
       "fr": "Il travaille à L[on]gueuil, de l'autre côté du p[on]t.",
-      "en": "He works in Longueuil, on the other side of the bridge."
+      "en": "He works in Longueuil, on the other side of the bridge.",
+      "uk": "Він працює в Лонгьоні, на тому боці мосту."
     },
     {
       "fr": "Il c[on]duit un gros cami[on] rouge.",
-      "en": "He drives a big red truck."
+      "en": "He drives a big red truck.",
+      "uk": "Він водить велику червону машину."
     },
     {
       "fr": "Les p[om]piers s[on]t très courageux.",
-      "en": "Firefighters are very brave."
+      "en": "Firefighters are very brave.",
+      "uk": "Пожежники дуже хоробрі."
     },
     {
       "fr": "Plus tard, je veux être p[om]pier comme lui !",
-      "en": "Later, I want to be a firefighter like him!"
+      "en": "Later, I want to be a firefighter like him!",
+      "uk": "Коли виросту, я хочу бути пожежником, як він!"
     }
   ],
   "vocab": [
     {
       "fr": "le pompier",
-      "en": "firefighter"
+      "en": "firefighter",
+      "uk": "пожежник"
     },
     {
       "fr": "de l'autre côté",
-      "en": "on the other side"
+      "en": "on the other side",
+      "uk": "на тому боці"
     },
     {
       "fr": "conduire",
-      "en": "to drive"
+      "en": "to drive",
+      "uk": "водити (машину)"
     },
     {
       "fr": "le camion",
-      "en": "truck"
+      "en": "truck",
+      "uk": "вантажівка"
     },
     {
       "fr": "courageux",
-      "en": "brave"
+      "en": "brave",
+      "uk": "хоробрий"
     }
   ]
 }

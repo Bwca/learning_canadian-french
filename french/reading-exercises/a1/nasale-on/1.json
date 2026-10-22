@@ -1,35 +1,73 @@
 {
-  "title": "Nasal [ɔ̃] — on, om (set 1)",
-  "sounds": ["on", "om"],
-  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». As with the other nasals, a following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme », and notice that « donne » and « homme » below are not marked.",
+  "title": {
+    "en": "Nasal [ɔ̃] — on, om (set 1)",
+    "uk": "Носовий [ɔ̃] — on, om (набір 1)"
+  },
+  "sounds": [
+    "on",
+    "om"
+  ],
+  "focus": {
+    "en": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». As with the other nasals, a following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme », and notice that « donne » and « homme » below are not marked.",
+    "uk": "« on » і « om » дають носовий голосний [ɔ̃], як у « bon ». Як і з іншими носовими, голосний або подвоєне n/m після нього скасовує носовість: порівняйте « bon » і « bonne », « nom » і « homme », і зверніть увагу, що « donne » та « homme » нижче не позначено."
+  },
   "sentences": [
     {
       "fr": "B[on]jour ! Je m'appelle Sim[on] et j'habite à L[on]gueuil, près de M[on]tréal.",
-      "en": "Hello! My name is Simon and I live in Longueuil, near Montreal."
+      "en": "Hello! My name is Simon and I live in Longueuil, near Montreal.",
+      "uk": "Добрий день! Мене звати Сімон, і я живу в Лонгьоні, біля Монреаля."
     },
     {
       "fr": "M[on] [on]cle est un homme b[on] et généreux.",
-      "en": "My uncle is a kind and generous man."
+      "en": "My uncle is a kind and generous man.",
+      "uk": "Мій дядько — добрий і щедрий чоловік."
     },
     {
       "fr": "Il a une grande mais[on] et il nous donne toujours des b[on]b[on]s.",
-      "en": "He has a big house and he always gives us candy."
+      "en": "He has a big house and he always gives us candy.",
+      "uk": "У нього великий будинок, і він завжди дає нам цукерки."
     },
     {
       "fr": "Nous c[om]pt[on]s les jours jusqu'à sa visite.",
-      "en": "We count the days until his visit."
+      "en": "We count the days until his visit.",
+      "uk": "Ми рахуємо дні до його приїзду."
     },
     {
       "fr": "[On] l'aime beaucoup !",
-      "en": "We love him a lot!"
+      "en": "We love him a lot!",
+      "uk": "Ми його дуже любимо!"
     }
   ],
   "vocab": [
-    { "fr": "l'oncle", "en": "uncle" },
-    { "fr": "généreux", "en": "generous" },
-    { "fr": "les bonbons", "en": "candy" },
-    { "fr": "compter", "en": "to count" },
-    { "fr": "jusqu'à", "en": "until" },
-    { "fr": "on", "en": "we (informal) / one" }
+    {
+      "fr": "l'oncle",
+      "en": "uncle",
+      "uk": "дядько"
+    },
+    {
+      "fr": "généreux",
+      "en": "generous",
+      "uk": "щедрий"
+    },
+    {
+      "fr": "les bonbons",
+      "en": "candy",
+      "uk": "цукерки"
+    },
+    {
+      "fr": "compter",
+      "en": "to count",
+      "uk": "рахувати"
+    },
+    {
+      "fr": "jusqu'à",
+      "en": "until",
+      "uk": "до (якогось часу)"
+    },
+    {
+      "fr": "on",
+      "en": "we (informal) / one",
+      "uk": "ми (розмовне) / хтось, люди"
+    }
   ]
 }

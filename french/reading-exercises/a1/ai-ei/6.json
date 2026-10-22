@@ -1,53 +1,69 @@
 {
-  "title": "Open [ɛ] — ai, aî, ei (set 6)",
+  "title": {
+    "en": "Open [ɛ] — ai, aî, ei (set 6)",
+    "uk": "Відкритий [ɛ] — ai, aî, ei (набір 6)"
+  },
   "sounds": [
     "ai",
     "aî",
     "ei"
   ],
-  "focus": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+  "focus": {
+    "en": "Both ai and ei make the open [ɛ], the same sound as è in « mère »: the mouth more open than for é. You'll find it in « j'aime », « mais », « lait », « faire », « semaine », « neige » and « treize », and aî (« s'il vous plaît ») sounds the same. Careful: ain + e is not nasal (« semaine », « laine » have [ɛ] + n), but ain on its own is (« pain », « demain »). Not every ai is [ɛ], so watch the unmarked ones: « j'ai » is closer to the closed é; ail sounds like « aïe » (« chandail », « travailler »); and in « nous faisons » the ai is a soft « e ». In Québec, ai and ei before a pronounced r, z or j sound (« faire », « chaise », « neige ») are often long and slide toward « aï », and at the end of a word (« mais », « jamais », « vrai ») they stay open, never like é — in casual speech they can even open to almost « a » (« jamais » ≈ « jama »).",
+    "uk": "І ai, і ei дають відкритий [ɛ] — той самий звук, що è в « mère »: рот відкритий ширше, ніж для é, приблизно як українське «е» в «день». Він є в « j'aime », « mais », « lait », « faire », « semaine », « neige » і « treize », і так само звучить aî (« s'il vous plaît »). Обережно: ain + e не носове (у « semaine », « laine » — [ɛ] + n), а ain окремо — носове (« pain », « demain »). Не кожне ai — це [ɛ], тож стежте за непозначеними: « j'ai » ближче до закритого é; ail звучить як « aïe », тобто «ай» (« chandail », « travailler »); а в « nous faisons » ai — це легке « e ». У Квебеку ai та ei перед вимовленим звуком r, z чи j (« faire », « chaise », « neige ») часто довгі й ковзають до « aï », а в кінці слова (« mais », « jamais », « vrai ») лишаються відкритими, ніколи не як é — у невимушеному мовленні вони можуть розкритися майже до « a » (« jamais » ≈ « jama »)."
+  },
   "sentences": [
     {
       "fr": "Dans la classe, il y a vingt ch[ai]ses.",
-      "en": "In the classroom, there are twenty chairs."
+      "en": "In the classroom, there are twenty chairs.",
+      "uk": "У класі двадцять стільців."
     },
     {
       "fr": "Le professeur s'appelle Monsieur Lem[ai]re.",
-      "en": "The teacher's name is Mr. Lemaire."
+      "en": "The teacher's name is Mr. Lemaire.",
+      "uk": "Учителя звати пан Лемер."
     },
     {
       "fr": "Il écrit au tableau avec une cr[ai]e.",
-      "en": "He writes on the board with chalk."
+      "en": "He writes on the board with chalk.",
+      "uk": "Він пише на дошці крейдою."
     },
     {
       "fr": "Est-ce que je peux f[ai]re mes devoirs ici, s'il vous pl[aî]t ?",
-      "en": "Can I do my homework here, please?"
+      "en": "Can I do my homework here, please?",
+      "uk": "Можна, я зроблю тут домашнє завдання?"
     },
     {
       "fr": "Oui, m[ai]s en silence !",
-      "en": "Yes, but quietly!"
+      "en": "Yes, but quietly!",
+      "uk": "Так, але тихо!"
     }
   ],
   "vocab": [
     {
       "fr": "une chaise",
-      "en": "a chair"
+      "en": "a chair",
+      "uk": "стілець"
     },
     {
       "fr": "le tableau",
-      "en": "the board"
+      "en": "the board",
+      "uk": "дошка"
     },
     {
       "fr": "une craie",
-      "en": "a piece of chalk"
+      "en": "a piece of chalk",
+      "uk": "шматок крейди"
     },
     {
       "fr": "les devoirs",
-      "en": "homework"
+      "en": "homework",
+      "uk": "домашнє завдання"
     },
     {
       "fr": "en silence",
-      "en": "quietly, in silence"
+      "en": "quietly, in silence",
+      "uk": "тихо, мовчки"
     }
   ]
 }

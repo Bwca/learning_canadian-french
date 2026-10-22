@@ -1,5 +1,8 @@
 {
-  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 1)",
+  "title": {
+    "en": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 1)",
+    "uk": "Закритий [e] — é, -er, -ez, -ed, et, les/des/mes (набір 1)"
+  },
   "sounds": [
     "é",
     "-er",
@@ -8,49 +11,62 @@
     "et",
     "les / des / mes / tes / ses / ces"
   ],
-  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "focus": {
+    "en": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+    "uk": "Усе це закритий [e]: губи розтягнуті, язик високо, чистий звук між українськими «е» та «і», без «й» наприкінці. Пишеться é; -er, -ez і -ed у кінці слова (parler, chez, pied); слово « et »; і короткі слова les, des, mes, tes, ses, ces. Винятки: у кількох коротких словах -er вимовляється [ɛʁ], з r (mer, fer, hiver, cher, hier), а « est » має відкритий [ɛ]. Квебекці чітко розрізняють é та è навіть у кінці слова (« parlé » і « parlait »)."
+  },
   "sentences": [
     {
       "fr": "Le matin, j'aime boire un caf[é] au lait.",
-      "en": "In the morning, I like to drink a café au lait."
+      "en": "In the morning, I like to drink a café au lait.",
+      "uk": "Уранці я люблю випити кави з молоком."
     },
     {
       "fr": "Je vais au caf[é] du quarti[er] avec m[es] amis.",
-      "en": "I go to the neighbourhood café with my friends."
+      "en": "I go to the neighbourhood café with my friends.",
+      "uk": "Я ходжу з друзями до кав'ярні в нашому районі."
     },
     {
       "fr": "Nous aimons parl[er] [et] mang[er] d[es] muffins.",
-      "en": "We like to talk and eat muffins."
+      "en": "We like to talk and eat muffins.",
+      "uk": "Ми любимо поговорити й поїсти мафінів."
     },
     {
       "fr": "La serveuse demande : « Vous d[é]sir[ez] autre chose ? »",
-      "en": "The waitress asks: \"Would you like anything else?\""
+      "en": "The waitress asks: \"Would you like anything else?\"",
+      "uk": "Офіціантка питає: «Бажаєте ще щось?»"
     },
     {
       "fr": "Il est d[é]jà dix heures : il faut travaill[er] !",
-      "en": "It's already ten o'clock: time to work!"
+      "en": "It's already ten o'clock: time to work!",
+      "uk": "Уже десята година: час працювати!"
     }
   ],
   "vocab": [
     {
       "fr": "le quartier",
-      "en": "neighbourhood"
+      "en": "neighbourhood",
+      "uk": "район, квартал"
     },
     {
       "fr": "la serveuse",
-      "en": "waitress"
+      "en": "waitress",
+      "uk": "офіціантка"
     },
     {
       "fr": "désirer",
-      "en": "to want, to wish for"
+      "en": "to want, to wish for",
+      "uk": "бажати, хотіти"
     },
     {
       "fr": "déjà",
-      "en": "already"
+      "en": "already",
+      "uk": "уже"
     },
     {
       "fr": "il faut",
-      "en": "you have to"
+      "en": "you have to",
+      "uk": "треба"
     }
   ]
 }

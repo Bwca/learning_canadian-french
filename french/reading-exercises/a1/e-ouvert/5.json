@@ -1,5 +1,8 @@
 {
-  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 5)",
+  "title": {
+    "en": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 5)",
+    "uk": "Відкритий [ɛ] — è, ê, ë, ei, e + два приголосні (набір 5)"
+  },
   "sounds": [
     "è",
     "ê",
@@ -8,49 +11,62 @@
     "e + two consonants",
     "e + final consonant"
   ],
-  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "focus": {
+    "en": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+    "uk": "Усе це відкритий [ɛ]: рот відкритий ширше, ніж для é, як у « mère » — приблизно українське «е» в «день». Пишеться è, ê або ë; ei (« neige »); e перед двома приголосними (« elle », « merci », « reste »); і e перед вимовленим кінцевим приголосним (« avec », « mer », « Michel ») — зокрема « est » і « c'est ». Написання ai (« mais », « j'aime ») дає той самий звук, але в цьому наборі позначено тільки літеру e. У Квебеку ê та è перед вимовленим приголосним часто довгі й ковзають до « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), а e + r (« vert », « mer ») часто звучить ніби «аер» (« vert » ≈ «ваер»)."
+  },
   "sentences": [
     {
       "fr": "Samedi, c'[e]st la f[ê]te de Rapha[ë]l.",
-      "en": "On Saturday, it's Raphaël's birthday."
+      "en": "On Saturday, it's Raphaël's birthday.",
+      "uk": "У суботу в Рафаеля день народження."
     },
     {
       "fr": "Il a tr[ei]ze ans.",
-      "en": "He's thirteen."
+      "en": "He's thirteen.",
+      "uk": "Йому тринадцять років."
     },
     {
       "fr": "Sa m[è]re prépare un gâteau au chocolat av[e]c de la cr[è]me.",
-      "en": "His mother is making a chocolate cake with cream."
+      "en": "His mother is making a chocolate cake with cream.",
+      "uk": "Мама пече йому шоколадний торт із вершками."
     },
     {
       "fr": "Ses amis lui offrent une v[e]ste v[e]rte.",
-      "en": "His friends give him a green jacket."
+      "en": "His friends give him a green jacket.",
+      "uk": "Друзі дарують йому зелену куртку."
     },
     {
       "fr": "Rapha[ë]l [e]st tr[è]s content : « M[e]rci ! C'[e]st sup[e]r ! »",
-      "en": "Raphaël is very happy: \"Thanks! It's great!\""
+      "en": "Raphaël is very happy: \"Thanks! It's great!\"",
+      "uk": "Рафаель дуже радий: «Дякую! Це супер!»"
     }
   ],
   "vocab": [
     {
       "fr": "la fête",
-      "en": "birthday, party (Québécois)"
+      "en": "birthday, party (Québécois)",
+      "uk": "день народження, свято (у Квебеку)"
     },
     {
       "fr": "treize",
-      "en": "thirteen"
+      "en": "thirteen",
+      "uk": "тринадцять"
     },
     {
       "fr": "offrir",
-      "en": "to give (a gift)"
+      "en": "to give (a gift)",
+      "uk": "дарувати"
     },
     {
       "fr": "la veste",
-      "en": "jacket"
+      "en": "jacket",
+      "uk": "куртка"
     },
     {
       "fr": "super",
-      "en": "great"
+      "en": "great",
+      "uk": "супер, чудово"
     }
   ]
 }

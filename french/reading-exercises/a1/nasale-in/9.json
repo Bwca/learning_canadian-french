@@ -1,5 +1,8 @@
 {
-  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 9)",
+  "title": {
+    "en": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 9)",
+    "uk": "Носовий [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (набір 9)"
+  },
   "sounds": [
     "in",
     "im",
@@ -10,49 +13,62 @@
     "ein",
     "eim"
   ],
-  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « semaine » isn't nasal: a vowel follows the n.",
+  "focus": {
+    "en": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « semaine » isn't nasal: a vowel follows the n.",
+    "uk": "Усі ці написання дають той самий носовий голосний [ɛ̃], як у « vin ». Носовими вони є лише тоді, коли далі не йде голосний або ще одне n/m — порівняйте « pain » і « semaine », « fin » і « fine », « plein » і « pleine ». У Квебеку [ɛ̃] часто трохи закритіший (ближче до носового « é »), а « un » лишається окремим звуком, а не зливається з « in », як у Парижі. « semaine » не носове: після n іде голосний."
+  },
   "sentences": [
     {
       "fr": "J'écris une lettre à mon cop[ain] Germ[ain].",
-      "en": "I'm writing a letter to my friend Germain."
+      "en": "I'm writing a letter to my friend Germain.",
+      "uk": "Я пишу листа своєму другові Жермену."
     },
     {
       "fr": "Il habite à R[eim]s, en France.",
-      "en": "He lives in Reims, in France."
+      "en": "He lives in Reims, in France.",
+      "uk": "Він живе в Реймсі, у Франції."
     },
     {
       "fr": "Je lui raconte mon voyage en tr[ain] et ma f[in] de semaine.",
-      "en": "I tell him about my train trip and my weekend."
+      "en": "I tell him about my train trip and my weekend.",
+      "uk": "Я розповідаю йому про свою подорож потягом і про вихідні."
     },
     {
       "fr": "Je mets un t[im]bre sur l'enveloppe.",
-      "en": "I put a stamp on the envelope."
+      "en": "I put a stamp on the envelope.",
+      "uk": "Я наклеюю марку на конверт."
     },
     {
       "fr": "La lettre va arriver dans qu[in]ze jours.",
-      "en": "The letter will arrive in two weeks."
+      "en": "The letter will arrive in two weeks.",
+      "uk": "Лист дійде за два тижні."
     }
   ],
   "vocab": [
     {
       "fr": "raconter",
-      "en": "to tell (a story)"
+      "en": "to tell (a story)",
+      "uk": "розповідати"
     },
     {
       "fr": "la fin de semaine",
-      "en": "weekend (Québécois)"
+      "en": "weekend (Québécois)",
+      "uk": "вихідні (у Квебеку)"
     },
     {
       "fr": "le timbre",
-      "en": "stamp"
+      "en": "stamp",
+      "uk": "поштова марка"
     },
     {
       "fr": "l'enveloppe",
-      "en": "envelope"
+      "en": "envelope",
+      "uk": "конверт"
     },
     {
       "fr": "quinze jours",
-      "en": "two weeks"
+      "en": "two weeks",
+      "uk": "два тижні"
     }
   ]
 }

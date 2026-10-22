@@ -1,36 +1,80 @@
 {
-  "title": "Nasal [ɑ̃] — an, am, en, em (set 1)",
-  "sounds": ["an", "am", "en", "em"],
-  "focus": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent », « ils aiment ») is silent, never nasal.",
+  "title": {
+    "en": "Nasal [ɑ̃] — an, am, en, em (set 1)",
+    "uk": "Носовий [ɑ̃] — an, am, en, em (набір 1)"
+  },
+  "sounds": [
+    "an",
+    "am",
+    "en",
+    "em"
+  ],
+  "focus": {
+    "en": "These spellings all make the nasal vowel [ɑ̃], as in « enfant ». In Québec it is usually pronounced further forward in the mouth than in Paris, so it can sound close to a Parisian « in » — listen for that. Careful: the verb ending -ent (« ils chantent », « ils aiment ») is silent, never nasal.",
+    "uk": "Усі ці написання дають носовий голосний [ɑ̃], як у « enfant ». У Квебеку його зазвичай вимовляють ближче до передньої частини рота, ніж у Парижі, тож він може звучати майже як паризьке « in » — прислухайтеся до цього. Обережно: дієслівне закінчення -ent (« ils chantent », « ils aiment ») не вимовляється й ніколи не буває носовим."
+  },
   "sentences": [
     {
       "fr": "[En] j[an]vier, il fait très froid à Montréal.",
-      "en": "In January, it's very cold in Montreal."
+      "en": "In January, it's very cold in Montreal.",
+      "uk": "У січні в Монреалі дуже холодно."
     },
     {
       "fr": "Mes [en]f[an]ts aiment ch[an]ter et d[an]ser d[an]s la ch[am]bre.",
-      "en": "My children like to sing and dance in the bedroom."
+      "en": "My children like to sing and dance in the bedroom.",
+      "uk": "Мої діти люблять співати й танцювати в спальні."
     },
     {
       "fr": "Le dim[an]che, nous prenons le t[em]ps de m[an]ger [en]s[em]ble.",
-      "en": "On Sundays, we take the time to eat together."
+      "en": "On Sundays, we take the time to eat together.",
+      "uk": "По неділях ми знаходимо час, щоб поїсти разом."
     },
     {
       "fr": "Les gr[an]ds-par[en]ts ch[an]tent souv[en]t avec eux.",
-      "en": "The grandparents often sing with them."
+      "en": "The grandparents often sing with them.",
+      "uk": "Бабуся й дідусь часто співають разом із ними."
     },
     {
       "fr": "Quelle [am]bi[an]ce ! C'est vraim[en]t le fun !",
-      "en": "What an atmosphere! It's really fun!"
+      "en": "What an atmosphere! It's really fun!",
+      "uk": "Яка атмосфера! Це справді весело!"
     }
   ],
   "vocab": [
-    { "fr": "en janvier", "en": "in January" },
-    { "fr": "la chambre", "en": "bedroom" },
-    { "fr": "prendre le temps de", "en": "to take the time to" },
-    { "fr": "ensemble", "en": "together" },
-    { "fr": "les grands-parents", "en": "grandparents" },
-    { "fr": "l'ambiance", "en": "atmosphere" },
-    { "fr": "c'est le fun", "en": "it's fun (Québécois)" }
+    {
+      "fr": "en janvier",
+      "en": "in January",
+      "uk": "у січні"
+    },
+    {
+      "fr": "la chambre",
+      "en": "bedroom",
+      "uk": "спальня"
+    },
+    {
+      "fr": "prendre le temps de",
+      "en": "to take the time to",
+      "uk": "знаходити час, щоб"
+    },
+    {
+      "fr": "ensemble",
+      "en": "together",
+      "uk": "разом"
+    },
+    {
+      "fr": "les grands-parents",
+      "en": "grandparents",
+      "uk": "бабуся й дідусь"
+    },
+    {
+      "fr": "l'ambiance",
+      "en": "atmosphere",
+      "uk": "атмосфера"
+    },
+    {
+      "fr": "c'est le fun",
+      "en": "it's fun (Québécois)",
+      "uk": "це весело (у Квебеку)"
+    }
   ]
 }

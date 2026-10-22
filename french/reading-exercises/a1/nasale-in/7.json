@@ -1,5 +1,8 @@
 {
-  "title": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 7)",
+  "title": {
+    "en": "Nasal [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (set 7)",
+    "uk": "Носовий [ɛ̃] — in, im, yn, ym, ain, aim, ein, eim (набір 7)"
+  },
   "sounds": [
     "in",
     "im",
@@ -10,49 +13,62 @@
     "ein",
     "eim"
   ],
-  "focus": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « Céline » isn't nasal: a vowel follows the n.",
+  "focus": {
+    "en": "All of these spellings make the same nasal vowel [ɛ̃], as in « vin ». They're only nasal when the next letter is not a vowel or another n/m — compare « pain » vs « semaine », « fin » vs « fine », « plein » vs « pleine ». In Québec, [ɛ̃] is often a little closer (nearer a nasal « é »), and « un » stays a separate sound rather than merging with « in » as it does in Paris. « Céline » isn't nasal: a vowel follows the n.",
+    "uk": "Усі ці написання дають той самий носовий голосний [ɛ̃], як у « vin ». Носовими вони є лише тоді, коли далі не йде голосний або ще одне n/m — порівняйте « pain » і « semaine », « fin » і « fine », « plein » і « pleine ». У Квебеку [ɛ̃] часто трохи закритіший (ближче до носового « é »), а « un » лишається окремим звуком, а не зливається з « in », як у Парижі. « Céline » не носове: після n іде голосний."
+  },
   "sentences": [
     {
       "fr": "Ce soir, Just[in] et Céline vont au restaurant.",
-      "en": "Tonight, Justin and Céline are going to a restaurant."
+      "en": "Tonight, Justin and Céline are going to a restaurant.",
+      "uk": "Сьогодні ввечері Жюстен і Селін ідуть до ресторану."
     },
     {
       "fr": "Le menu est s[im]ple, mais tout est bon.",
-      "en": "The menu is simple, but everything is good."
+      "en": "The menu is simple, but everything is good.",
+      "uk": "Меню просте, але все смачне."
     },
     {
       "fr": "Just[in] prend une soupe et du p[ain].",
-      "en": "Justin has soup and bread."
+      "en": "Justin has soup and bread.",
+      "uk": "Жюстен бере суп і хліб."
     },
     {
       "fr": "Céline prend un poulet au th[ym] et un verre de v[in] blanc.",
-      "en": "Céline has thyme chicken and a glass of white wine."
+      "en": "Céline has thyme chicken and a glass of white wine.",
+      "uk": "Селін бере курку з чебрецем і келих білого вина."
     },
     {
       "fr": "À la f[in], ils partagent un gâteau : c'est s[ym]pa !",
-      "en": "At the end, they share a cake: it's nice!"
+      "en": "At the end, they share a cake: it's nice!",
+      "uk": "Наприкінці вони ділять торт навпіл: це так мило!"
     }
   ],
   "vocab": [
     {
       "fr": "le poulet",
-      "en": "chicken"
+      "en": "chicken",
+      "uk": "курка"
     },
     {
       "fr": "un verre de vin blanc",
-      "en": "a glass of white wine"
+      "en": "a glass of white wine",
+      "uk": "келих білого вина"
     },
     {
       "fr": "à la fin",
-      "en": "at the end"
+      "en": "at the end",
+      "uk": "наприкінці"
     },
     {
       "fr": "partager",
-      "en": "to share"
+      "en": "to share",
+      "uk": "ділити(ся)"
     },
     {
       "fr": "sympa",
-      "en": "nice"
+      "en": "nice",
+      "uk": "приємний, милий"
     }
   ]
 }

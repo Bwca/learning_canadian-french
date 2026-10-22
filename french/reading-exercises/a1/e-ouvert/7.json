@@ -1,5 +1,8 @@
 {
-  "title": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 7)",
+  "title": {
+    "en": "Open [ɛ] — è, ê, ë, ei, e + two consonants (set 7)",
+    "uk": "Відкритий [ɛ] — è, ê, ë, ei, e + два приголосні (набір 7)"
+  },
   "sounds": [
     "è",
     "ê",
@@ -8,49 +11,62 @@
     "e + two consonants",
     "e + final consonant"
   ],
-  "focus": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+  "focus": {
+    "en": "All of these make the open [ɛ]: the mouth more open than for é, as in « mère ». It's spelled è, ê or ë; ei (« neige »); e followed by two consonants (« elle », « merci », « reste »); and e before a pronounced final consonant (« avec », « mer », « Michel »), which includes « est » and « c'est ». The spelling ai (« mais », « j'aime ») makes the same sound, but this set only marks the letter e. In Québec, ê and è before a pronounced consonant are often long and slide toward « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), and e + r (« vert », « mer ») often sounds like English « wire » rather than « where ».",
+    "uk": "Усе це відкритий [ɛ]: рот відкритий ширше, ніж для é, як у « mère » — приблизно українське «е» в «день». Пишеться è, ê або ë; ei (« neige »); e перед двома приголосними (« elle », « merci », « reste »); і e перед вимовленим кінцевим приголосним (« avec », « mer », « Michel ») — зокрема « est » і « c'est ». Написання ai (« mais », « j'aime ») дає той самий звук, але в цьому наборі позначено тільки літеру e. У Квебеку ê та è перед вимовленим приголосним часто довгі й ковзають до « aï » (« fête » ≈ « faïte », « père » ≈ « païre »), а e + r (« vert », « mer ») часто звучить ніби «аер» (« vert » ≈ «ваер»)."
+  },
   "sentences": [
     {
       "fr": "Mon fr[è]re [e]st él[è]ve au coll[è]ge.",
-      "en": "My brother is a student at the collège."
+      "en": "My brother is a student at the collège.",
+      "uk": "Мій брат навчається в коледжі."
     },
     {
       "fr": "Il a un gros [e]xamen m[e]rcredi.",
-      "en": "He has a big exam on Wednesday."
+      "en": "He has a big exam on Wednesday.",
+      "uk": "У середу в нього великий іспит."
     },
     {
       "fr": "Il étudie à la biblioth[è]que av[e]c sa copine Ma[ë]lle.",
-      "en": "He studies at the library with his girlfriend Maëlle."
+      "en": "He studies at the library with his girlfriend Maëlle.",
+      "uk": "Він вчиться в бібліотеці зі своєю дівчиною Маель."
     },
     {
       "fr": "Le probl[è]me, c'[e]st qu'ils parlent beaucoup !",
-      "en": "The problem is that they talk a lot!"
+      "en": "The problem is that they talk a lot!",
+      "uk": "Проблема в тому, що вони багато балакають!"
     },
     {
       "fr": "« [E]st-ce que tu vas réussir ? » demande ma m[è]re.",
-      "en": "\"Are you going to pass?\" asks my mother."
+      "en": "\"Are you going to pass?\" asks my mother.",
+      "uk": "«Ти складеш?» — питає мама."
     }
   ],
   "vocab": [
     {
       "fr": "l'élève",
-      "en": "student, pupil"
+      "en": "student, pupil",
+      "uk": "учень, школяр"
     },
     {
       "fr": "le collège",
-      "en": "private secondary school (Québec)"
+      "en": "private secondary school (Québec)",
+      "uk": "приватна середня школа (у Квебеку)"
     },
     {
       "fr": "l'examen",
-      "en": "exam"
+      "en": "exam",
+      "uk": "іспит"
     },
     {
       "fr": "la bibliothèque",
-      "en": "library"
+      "en": "library",
+      "uk": "бібліотека"
     },
     {
       "fr": "réussir",
-      "en": "to pass, to succeed"
+      "en": "to pass, to succeed",
+      "uk": "скласти (іспит), досягти успіху"
     }
   ]
 }

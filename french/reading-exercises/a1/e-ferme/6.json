@@ -1,5 +1,8 @@
 {
-  "title": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 6)",
+  "title": {
+    "en": "Closed [e] — é, -er, -ez, -ed, et, les/des/mes (set 6)",
+    "uk": "Закритий [e] — é, -er, -ez, -ed, et, les/des/mes (набір 6)"
+  },
   "sounds": [
     "é",
     "-er",
@@ -8,49 +11,62 @@
     "et",
     "les / des / mes / tes / ses / ces"
   ],
-  "focus": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+  "focus": {
+    "en": "All of these make the closed [e]: lips spread, tongue high, a pure « ay » with no glide at the end. It's spelled é; -er, -ez and -ed at the end of a word (parler, chez, pied); the word « et »; and the short words les, des, mes, tes, ses, ces. Exceptions: in a few short words the -er is [ɛʁ] with the r pronounced (mer, fer, hiver, cher, hier), and « est » has the open [ɛ]. Québécois keeps é and è clearly apart, even at the end of a word (« parlé » vs « parlait »).",
+    "uk": "Усе це закритий [e]: губи розтягнуті, язик високо, чистий звук між українськими «е» та «і», без «й» наприкінці. Пишеться é; -er, -ez і -ed у кінці слова (parler, chez, pied); слово « et »; і короткі слова les, des, mes, tes, ses, ces. Винятки: у кількох коротких словах -er вимовляється [ɛʁ], з r (mer, fer, hiver, cher, hier), а « est » має відкритий [ɛ]. Квебекці чітко розрізняють é та è навіть у кінці слова (« parlé » і « parlait »)."
+  },
   "sentences": [
     {
       "fr": "Le samedi soir, m[es] frères regardent le hockey.",
-      "en": "On Saturday nights, my brothers watch hockey."
+      "en": "On Saturday nights, my brothers watch hockey.",
+      "uk": "Суботніми вечорами мої брати дивляться хокей."
     },
     {
       "fr": "Leur [é]quipe pr[é]f[é]r[é]e, c'est le Canadien de Montr[é]al.",
-      "en": "Their favourite team is the Montreal Canadiens."
+      "en": "Their favourite team is the Montreal Canadiens.",
+      "uk": "Їхня улюблена команда — «Монреаль Канадієнс»."
     },
     {
       "fr": "Ils aiment cri[er] devant la t[é]l[é].",
-      "en": "They like to yell in front of the TV."
+      "en": "They like to yell in front of the TV.",
+      "uk": "Вони люблять кричати перед телевізором."
     },
     {
       "fr": "Quand l'[é]quipe marque, ils commencent à saut[er].",
-      "en": "When the team scores, they start jumping."
+      "en": "When the team scores, they start jumping.",
+      "uk": "Коли команда забиває, вони починають підстрибувати."
     },
     {
       "fr": "Moi, je pr[é]fère jou[er] au hockey dans la rue avec m[es] amis.",
-      "en": "Me, I prefer playing hockey in the street with my friends."
+      "en": "Me, I prefer playing hockey in the street with my friends.",
+      "uk": "А я більше люблю грати в хокей на вулиці з друзями."
     }
   ],
   "vocab": [
     {
       "fr": "l'équipe",
-      "en": "team"
+      "en": "team",
+      "uk": "команда"
     },
     {
       "fr": "préféré",
-      "en": "favourite"
+      "en": "favourite",
+      "uk": "улюблений"
     },
     {
       "fr": "crier",
-      "en": "to yell"
+      "en": "to yell",
+      "uk": "кричати"
     },
     {
       "fr": "marquer",
-      "en": "to score"
+      "en": "to score",
+      "uk": "забивати (гол)"
     },
     {
       "fr": "sauter",
-      "en": "to jump"
+      "en": "to jump",
+      "uk": "стрибати"
     }
   ]
 }

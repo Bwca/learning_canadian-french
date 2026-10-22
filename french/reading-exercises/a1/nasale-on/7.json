@@ -1,52 +1,68 @@
 {
-  "title": "Nasal [ɔ̃] — on, om (set 7)",
+  "title": {
+    "en": "Nasal [ɔ̃] — on, om (set 7)",
+    "uk": "Носовий [ɔ̃] — on, om (набір 7)"
+  },
   "sounds": [
     "on",
     "om"
   ],
-  "focus": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « connue » has a double n, so it isn't nasal.",
+  "focus": {
+    "en": "« on » and « om » make the nasal vowel [ɔ̃], as in « bon ». Every -ons verb ending (« nous allons ») has it too. A following vowel or doubled n/m cancels it: compare « bon » with « bonne », « nom » with « homme ». « connue » has a double n, so it isn't nasal.",
+    "uk": "« on » і « om » дають носовий голосний [ɔ̃], як у « bon ». Його має й кожне дієслівне закінчення -ons (« nous allons »). Голосний або подвоєне n/m після нього скасовує носовість: порівняйте « bon » і « bonne », « nom » і « homme ». « connue » має подвоєне n, тому не носове."
+  },
   "sentences": [
     {
       "fr": "Mes cousins habitent en [On]tario.",
-      "en": "My cousins live in Ontario."
+      "en": "My cousins live in Ontario.",
+      "uk": "Мої двоюрідні брати й сестри живуть в Онтаріо."
     },
     {
       "fr": "Ils s[on]t bilingues : ils parlent français et anglais.",
-      "en": "They're bilingual: they speak French and English."
+      "en": "They're bilingual: they speak French and English.",
+      "uk": "Вони двомовні: розмовляють французькою та англійською."
     },
     {
       "fr": "Leur mais[on] est près d'Ottawa.",
-      "en": "Their house is near Ottawa."
+      "en": "Their house is near Ottawa.",
+      "uk": "Їхній будинок біля Оттави."
     },
     {
       "fr": "Cet hiver, nous all[on]s patiner sur le canal Rideau avec eux.",
-      "en": "This winter, we're going skating on the Rideau Canal with them."
+      "en": "This winter, we're going skating on the Rideau Canal with them.",
+      "uk": "Цієї зими ми підемо з ними кататися на ковзанах на канал Рідо."
     },
     {
       "fr": "C'est une patinoire très l[on]gue et très connue.",
-      "en": "It's a very long and very well-known rink."
+      "en": "It's a very long and very well-known rink.",
+      "uk": "Це дуже довга й дуже відома ковзанка."
     }
   ],
   "vocab": [
     {
       "fr": "bilingue",
-      "en": "bilingual"
+      "en": "bilingual",
+      "uk": "двомовний"
     },
     {
       "fr": "patiner",
-      "en": "to skate"
+      "en": "to skate",
+      "uk": "кататися на ковзанах"
     },
     {
       "fr": "la patinoire",
-      "en": "skating rink"
+      "en": "skating rink",
+      "uk": "ковзанка"
     },
     {
       "fr": "long, longue",
-      "en": "long"
+      "en": "long",
+      "uk": "довгий, довга"
     },
     {
       "fr": "connu",
-      "en": "well-known"
+      "en": "well-known",
+      "uk": "відомий"
     }
   ]
 }
