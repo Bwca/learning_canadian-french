@@ -1,0 +1,76 @@
+{
+  "title": "Questions — est-ce que (set 11: quand, comment, pourquoi, où est-ce que)",
+  "exercises": [
+    {
+      "en": "When do you (informal) eat?",
+      "fr": "Quand est-ce que tu manges?",
+      "vocab": [
+        { "fr": "quand", "en": "when" }
+      ]
+    },
+    {
+      "en": "When does the movie start?",
+      "fr": "Quand est-ce que le film commence?",
+      "vocab": [
+        { "fr": "commencer", "en": "to start" }
+      ]
+    },
+    {
+      "en": "How do you (informal) get to work?",
+      "fr": "Comment est-ce que tu vas au travail?",
+      "vocab": [
+        { "fr": "comment", "en": "how" },
+        { "fr": "travail", "en": "work" }
+      ]
+    },
+    {
+      "en": "How does she make the cake?",
+      "fr": "Comment est-ce qu'elle fait le gâteau?",
+      "vocab": [
+        { "fr": "faire", "en": "to make" },
+        { "fr": "gâteau", "en": "cake" }
+      ]
+    },
+    {
+      "en": "Why are you tired? (informal, masc.)",
+      "fr": "Pourquoi est-ce que tu es fatigué?",
+      "vocab": [
+        { "fr": "pourquoi", "en": "why" },
+        { "fr": "fatigué", "en": "tired" }
+      ]
+    },
+    {
+      "en": "Why do they (masc.) learn French?",
+      "fr": "Pourquoi est-ce qu'ils apprennent le français?",
+      "vocab": [
+        { "fr": "apprendre", "en": "to learn" }
+      ]
+    },
+    {
+      "en": "Where do we eat tonight?",
+      "fr": "Où est-ce que nous mangeons ce soir?",
+      "vocab": [
+        { "fr": "ce soir", "en": "tonight" }
+      ]
+    },
+    {
+      "en": "When do you (formal) arrive?",
+      "fr": "Quand est-ce que vous arrivez?",
+      "vocab": [
+        { "fr": "arriver", "en": "to arrive" }
+      ]
+    },
+    {
+      "en": "Why does he work on Saturdays?",
+      "fr": "Pourquoi est-ce qu'il travaille le samedi?",
+      "vocab": [
+        { "fr": "le samedi", "en": "on Saturdays" }
+      ]
+    },
+    {
+      "en": "How do you (formal/plural) learn English?",
+      "fr": "Comment est-ce que vous apprenez l'anglais?",
+      "vocab": []
+    }
+  ]
+}

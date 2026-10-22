@@ -1,0 +1,66 @@
+{
+  "title": "Questions — est-ce que (set 12: without est-ce que — intonation & Québec -tu)",
+  "exercises": [
+    {
+      "en": "Do you have a brother? (informal, intonation only)",
+      "fr": "Tu as un frère?",
+      "vocab": [
+        { "fr": "frère", "en": "brother" }
+      ]
+    },
+    {
+      "en": "Are you French? (informal, masc., intonation only)",
+      "fr": "Tu es français?",
+      "vocab": []
+    },
+    {
+      "en": "Do you speak English? (informal, with est-ce que)",
+      "fr": "Est-ce que tu parles anglais?",
+      "vocab": []
+    },
+    {
+      "en": "Do you speak English? (informal, intonation only)",
+      "fr": "Tu parles anglais?",
+      "vocab": []
+    },
+    {
+      "en": "Are you coming to the movies? (Québec, with -tu)",
+      "fr": "Tu viens-tu au cinéma?",
+      "vocab": [
+        { "fr": "-tu", "en": "Québec question marker after the verb" },
+        { "fr": "venir", "en": "to come" }
+      ]
+    },
+    {
+      "en": "Do you like apples? (Québec, with -tu)",
+      "fr": "Tu aimes-tu les pommes?",
+      "vocab": [
+        { "fr": "pomme", "en": "apple" }
+      ]
+    },
+    {
+      "en": "Do you want a coffee? (Québec, with -tu)",
+      "fr": "Tu veux-tu un café?",
+      "vocab": [
+        { "fr": "vouloir", "en": "to want (tu veux)" }
+      ]
+    },
+    {
+      "en": "Is he coming tonight? (intonation only)",
+      "fr": "Il vient ce soir?",
+      "vocab": []
+    },
+    {
+      "en": "Are you hungry? (Québec, with -tu)",
+      "fr": "Tu as-tu faim?",
+      "vocab": [
+        { "fr": "tu as-tu", "en": "spoken t'as-tu" }
+      ]
+    },
+    {
+      "en": "Are you doing OK? (Québec, with ça and -tu)",
+      "fr": "Ça va-tu?",
+      "vocab": []
+    }
+  ]
+}
