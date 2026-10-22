@@ -1,0 +1,109 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 7: list a1-04, family, why & how)",
+    "uk": "Vocabulaire de base — базова лексика (набір 7: список a1-04, родина, чому і як)"
+  },
+  "exercises": [
+    {
+      "en": "My father gives my mother a call every evening.",
+      "uk": "Мій батько щовечора телефонує моїй мамі.",
+      "fr": "Mon père donne un coup de fil à ma mère chaque soir.",
+      "vocab": [
+        { "fr": "le père", "en": "the father", "uk": "батько" },
+        { "fr": "la mère", "en": "the mother", "uk": "мати" },
+        { "fr": "le coup", "en": "the blow / the hit (un coup de fil = a call)", "uk": "удар (un coup de fil = дзвінок)" },
+        { "fr": "le soir", "en": "the evening", "uk": "вечір" }
+      ]
+    },
+    {
+      "en": "Maybe we're leaving tomorrow.",
+      "uk": "Можливо, ми їдемо завтра.",
+      "fr": "Nous partons peut-être demain.",
+      "vocab": [
+        { "fr": "peut-être", "en": "maybe", "uk": "можливо" },
+        { "fr": "partir", "en": "to leave / to go away", "uk": "йти, від'їжджати" },
+        { "fr": "demain", "en": "tomorrow", "uk": "завтра" }
+      ]
+    },
+    {
+      "en": "Do you know my friend? She's called Julie. (informal)",
+      "uk": "Ти знаєш мою подругу? Її звати Жулі.",
+      "fr": "Est-ce que tu connais mon amie? Elle s'appelle Julie.",
+      "vocab": [
+        { "fr": "connaître", "en": "to know (a person / a place)", "uk": "знати (людину / місце)" },
+        { "fr": "l'ami (m.) / l'amie (f.)", "en": "the friend", "uk": "друг / подруга" },
+        { "fr": "appeler", "en": "to call", "uk": "кликати, телефонувати" },
+        { "fr": "s'appeler", "en": "to be called", "uk": "називатися" }
+      ]
+    },
+    {
+      "en": "Everybody is at my parents' place.",
+      "uk": "Усі в моїх батьків.",
+      "fr": "Tout le monde est chez mes parents.",
+      "vocab": [
+        { "fr": "le monde", "en": "the world / people (tout le monde)", "uk": "світ / люди (tout le monde = всі)" },
+        { "fr": "chez", "en": "at (someone's place)", "uk": "у (когось удома)" },
+        { "fr": "tout le monde", "en": "everybody", "uk": "усі" }
+      ]
+    },
+    {
+      "en": "My daughter is twenty years old.",
+      "uk": "Моїй доньці двадцять років.",
+      "fr": "Ma fille a vingt ans.",
+      "vocab": [
+        { "fr": "la fille", "en": "the girl / the daughter", "uk": "дівчина / донька" },
+        { "fr": "l'an (m.)", "en": "the year (with numbers: j'ai vingt ans)", "uk": "рік (з числами: j'ai vingt ans)" }
+      ]
+    },
+    {
+      "en": "Why are you going out tonight? (informal)",
+      "uk": "Чому ти йдеш кудись сьогодні ввечері?",
+      "fr": "Pourquoi est-ce que tu sors ce soir?",
+      "vocab": [
+        { "fr": "pourquoi", "en": "why", "uk": "чому" },
+        { "fr": "sortir", "en": "to go out", "uk": "виходити" }
+      ]
+    },
+    {
+      "en": "The child doesn't understand how the game works.",
+      "uk": "Дитина не розуміє, як працює гра.",
+      "fr": "L'enfant ne comprend pas comment le jeu marche.",
+      "vocab": [
+        { "fr": "l'enfant (m./f.)", "en": "the child", "uk": "дитина" },
+        { "fr": "comprendre", "en": "to understand", "uk": "розуміти" },
+        { "fr": "comment", "en": "how", "uk": "як" },
+        { "fr": "le jeu", "en": "the game", "uk": "гра" },
+        { "fr": "marcher", "en": "to work (function)", "uk": "працювати (про пристрій)" }
+      ]
+    },
+    {
+      "en": "What? I can't hear you. (informal)",
+      "uk": "Що? Я тебе не чую.",
+      "fr": "Quoi? Je ne t'entends pas.",
+      "vocab": [
+        { "fr": "quoi", "en": "what", "uk": "що" },
+        { "fr": "entendre", "en": "to hear", "uk": "чути" }
+      ]
+    },
+    {
+      "en": "After the movie, I have a headache.",
+      "uk": "Після фільму в мене болить голова.",
+      "fr": "Après le film, j'ai mal à la tête.",
+      "vocab": [
+        { "fr": "après", "en": "after", "uk": "після" },
+        { "fr": "la tête", "en": "the head", "uk": "голова" },
+        { "fr": "avoir mal à", "en": "to have a pain in", "uk": "боліти (у когось болить…)" }
+      ]
+    },
+    {
+      "en": "Are you sure? She's already at home. (informal, to a woman)",
+      "uk": "Ти впевнена? Вона вже вдома.",
+      "fr": "Tu es sûre? Elle est déjà à la maison.",
+      "vocab": [
+        { "fr": "sûr / sûre", "en": "sure", "uk": "певний, впевнений / впевнена" },
+        { "fr": "déjà", "en": "already", "uk": "вже" },
+        { "fr": "la maison", "en": "the house", "uk": "будинок, дім" }
+      ]
+    }
+  ]
+}

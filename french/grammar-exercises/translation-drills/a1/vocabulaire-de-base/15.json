@@ -1,0 +1,111 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 15: list a1-08, roads, letters & the sky)",
+    "uk": "Vocabulaire de base — базова лексика (набір 15: список a1-08, дороги, листи й небо)"
+  },
+  "exercises": [
+    {
+      "en": "The road behind the house goes into the woods.",
+      "uk": "Дорога за будинком веде в ліс.",
+      "fr": "La route derrière la maison va dans le bois.",
+      "vocab": [
+        { "fr": "la route", "en": "the road", "uk": "дорога" },
+        { "fr": "derrière", "en": "behind / at the back", "uk": "позаду / ззаду" },
+        { "fr": "le bois", "en": "the wood / the woods", "uk": "деревина / ліс" }
+      ]
+    },
+    {
+      "en": "Sometimes, I miss my country, especially in winter.",
+      "uk": "Іноді я сумую за своєю країною, особливо взимку.",
+      "fr": "Parfois, mon pays me manque, surtout en hiver.",
+      "vocab": [
+        { "fr": "parfois", "en": "sometimes", "uk": "іноді" },
+        { "fr": "manquer", "en": "to miss / to lack", "uk": "пропускати, сумувати / бракувати" },
+        { "fr": "le pays", "en": "the country", "uk": "країна" },
+        { "fr": "surtout", "en": "especially / above all", "uk": "особливо / передусім" },
+        { "fr": "en hiver", "en": "in winter", "uk": "взимку" }
+      ]
+    },
+    {
+      "en": "I often receive letters from my husband.",
+      "uk": "Я часто отримую листи від свого чоловіка.",
+      "fr": "Je reçois souvent des lettres de mon mari.",
+      "vocab": [
+        { "fr": "recevoir", "en": "to receive", "uk": "отримувати" },
+        { "fr": "souvent", "en": "often", "uk": "часто" },
+        { "fr": "la lettre", "en": "the letter", "uk": "лист / літера" },
+        { "fr": "le mari", "en": "the husband", "uk": "чоловік (у шлюбі)" }
+      ]
+    },
+    {
+      "en": "Thank you, I'm happy to meet you. (formal, said by a woman)",
+      "uk": "Дякую, я рада з вами познайомитися.",
+      "fr": "Merci, je suis heureuse de vous rencontrer.",
+      "vocab": [
+        { "fr": "merci", "en": "thank you", "uk": "дякую" },
+        { "fr": "heureux / heureuse", "en": "happy", "uk": "щасливий / щаслива" },
+        { "fr": "rencontrer", "en": "to meet", "uk": "зустрічати" }
+      ]
+    },
+    {
+      "en": "Are you ready? We're leaving together. (informal, to a man)",
+      "uk": "Ти готовий? Ми йдемо разом.",
+      "fr": "Est-ce que tu es prêt? On part ensemble.",
+      "vocab": [
+        { "fr": "prêt / prête", "en": "ready", "uk": "готовий / готова" },
+        { "fr": "ensemble", "en": "together", "uk": "разом" }
+      ]
+    },
+    {
+      "en": "Close the door, then turn off the light. (informal)",
+      "uk": "Зачини двері, потім вимкни світло.",
+      "fr": "Ferme la porte, puis éteins la lumière.",
+      "vocab": [
+        { "fr": "fermer", "en": "to close", "uk": "зачиняти" },
+        { "fr": "puis", "en": "then", "uk": "потім" },
+        { "fr": "la lumière", "en": "the light", "uk": "світло" },
+        { "fr": "éteindre", "en": "to turn off", "uk": "вимикати" }
+      ]
+    },
+    {
+      "en": "The dog is running around the house.",
+      "uk": "Собака бігає навколо будинку.",
+      "fr": "Le chien court autour de la maison.",
+      "vocab": [
+        { "fr": "le chien / la chienne", "en": "the dog", "uk": "собака / сука" },
+        { "fr": "courir", "en": "to run", "uk": "бігти" },
+        { "fr": "autour", "en": "around", "uk": "навколо" }
+      ]
+    },
+    {
+      "en": "The sky is blue and there's silence everywhere.",
+      "uk": "Небо блакитне, і скрізь тиша.",
+      "fr": "Le ciel est bleu et il y a du silence partout.",
+      "vocab": [
+        { "fr": "le ciel", "en": "the sky", "uk": "небо" },
+        { "fr": "le silence", "en": "the silence", "uk": "тиша" },
+        { "fr": "partout", "en": "everywhere", "uk": "скрізь" }
+      ]
+    },
+    {
+      "en": "I hope it's possible.",
+      "uk": "Сподіваюся, що це можливо.",
+      "fr": "J'espère que c'est possible.",
+      "vocab": [
+        { "fr": "espérer", "en": "to hope", "uk": "сподіватися" },
+        { "fr": "possible", "en": "possible", "uk": "можливий" }
+      ]
+    },
+    {
+      "en": "The bakery is opposite the bank, over there.",
+      "uk": "Пекарня навпроти банку, он там.",
+      "fr": "La boulangerie est en face de la banque, là-bas.",
+      "vocab": [
+        { "fr": "la face", "en": "the face / the side (en face de = opposite)", "uk": "обличчя / бік (en face de = навпроти)" },
+        { "fr": "là-bas", "en": "over there", "uk": "там, он там" },
+        { "fr": "la boulangerie", "en": "the bakery", "uk": "пекарня" },
+        { "fr": "la banque", "en": "the bank", "uk": "банк" }
+      ]
+    }
+  ]
+}

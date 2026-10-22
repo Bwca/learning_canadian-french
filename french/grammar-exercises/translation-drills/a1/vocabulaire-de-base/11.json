@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 11: list a1-06, city, family & work)",
+    "uk": "Vocabulaire de base — базова лексика (набір 11: список a1-06, місто, родина й робота)"
+  },
+  "exercises": [
+    {
+      "en": "Hello, Mom! I'm finally in the city.",
+      "uk": "Привіт, мамо! Я нарешті в місті.",
+      "fr": "Bonjour, maman! Je suis enfin en ville.",
+      "vocab": [
+        { "fr": "bonjour", "en": "hello / good morning", "uk": "добрий день / доброго ранку" },
+        { "fr": "la maman", "en": "mom", "uk": "мама" },
+        { "fr": "enfin", "en": "finally / at last", "uk": "нарешті" },
+        { "fr": "la ville", "en": "the city / the town", "uk": "місто" }
+      ]
+    },
+    {
+      "en": "The teacher asks a question and I answer.",
+      "uk": "Учитель ставить запитання, а я відповідаю.",
+      "fr": "Le professeur pose une question et je réponds.",
+      "vocab": [
+        { "fr": "poser", "en": "to put down / to ask (a question)", "uk": "класти / ставити (запитання)" },
+        { "fr": "la question", "en": "the question", "uk": "питання, запитання" },
+        { "fr": "répondre", "en": "to answer", "uk": "відповідати" },
+        { "fr": "le professeur", "en": "the teacher", "uk": "учитель" }
+      ]
+    },
+    {
+      "en": "Sit down in the car; it's far. (informal)",
+      "uk": "Сідай у машину — це далеко.",
+      "fr": "Assieds-toi dans la voiture, c'est loin.",
+      "vocab": [
+        { "fr": "s'asseoir", "en": "to sit (s'asseoir)", "uk": "сідати" },
+        { "fr": "la voiture", "en": "the car", "uk": "машина, автомобіль" },
+        { "fr": "loin", "en": "far", "uk": "далеко" }
+      ]
+    },
+    {
+      "en": "I'm meeting up with my brother downtown this morning.",
+      "uk": "Сьогодні вранці я зустрічаюся з братом у центрі міста.",
+      "fr": "Je retrouve mon frère au centre-ville ce matin.",
+      "vocab": [
+        { "fr": "retrouver", "en": "to find again / to meet up with", "uk": "знову знайти / зустрітися з" },
+        { "fr": "le frère", "en": "the brother", "uk": "брат" },
+        { "fr": "le matin", "en": "the morning", "uk": "ранок" },
+        { "fr": "le centre-ville", "en": "downtown", "uk": "центр міста" }
+      ]
+    },
+    {
+      "en": "I don't have any money, because I don't work.",
+      "uk": "У мене немає грошей, бо я не працюю.",
+      "fr": "Je n'ai pas d'argent, car je ne travaille pas.",
+      "vocab": [
+        { "fr": "l'argent (m.)", "en": "the money / silver", "uk": "гроші / срібло" },
+        { "fr": "car", "en": "because / for", "uk": "бо, адже" },
+        { "fr": "travailler", "en": "to work", "uk": "працювати" }
+      ]
+    },
+    {
+      "en": "My family sleeps late on Sundays.",
+      "uk": "Моя родина в неділю довго спить.",
+      "fr": "Ma famille dort tard le dimanche.",
+      "vocab": [
+        { "fr": "la famille", "en": "the family", "uk": "родина, сім'я" },
+        { "fr": "dormir", "en": "to sleep", "uk": "спати" },
+        { "fr": "tard", "en": "late", "uk": "пізно" },
+        { "fr": "le dimanche", "en": "on Sundays", "uk": "по неділях" }
+      ]
+    },
+    {
+      "en": "We walk in the street for a long time, and our feet hurt.",
+      "uk": "Ми довго ходимо вулицею, і в нас болять ноги.",
+      "fr": "Nous marchons longtemps dans la rue et nous avons mal aux pieds.",
+      "vocab": [
+        { "fr": "marcher", "en": "to walk / to work (function)", "uk": "ходити / працювати (про пристрій)" },
+        { "fr": "longtemps", "en": "for a long time", "uk": "довго" },
+        { "fr": "la rue", "en": "the street", "uk": "вулиця" },
+        { "fr": "le pied", "en": "the foot", "uk": "нога (стопа)" }
+      ]
+    },
+    {
+      "en": "I go up to my bedroom to read a story.",
+      "uk": "Я піднімаюся до своєї кімнати почитати історію.",
+      "fr": "Je monte dans ma chambre pour lire une histoire.",
+      "vocab": [
+        { "fr": "monter", "en": "to go up / to get on", "uk": "підніматися / сідати (у транспорт)" },
+        { "fr": "la chambre", "en": "the bedroom", "uk": "спальня, кімната" },
+        { "fr": "lire", "en": "to read", "uk": "читати" },
+        { "fr": "l'histoire (f.)", "en": "the story / history", "uk": "історія, розповідь / історія (наука)" }
+      ]
+    },
+    {
+      "en": "This year, I'm learning French and changing jobs.",
+      "uk": "Цього року я вчу французьку й міняю роботу.",
+      "fr": "Cette année, j'apprends le français et je change de travail.",
+      "vocab": [
+        { "fr": "l'année (f.)", "en": "the year", "uk": "рік" },
+        { "fr": "apprendre", "en": "to learn", "uk": "вчити(ся), дізнаватися" },
+        { "fr": "changer", "en": "to change", "uk": "змінювати(ся)" },
+        { "fr": "le travail", "en": "the work / the job", "uk": "робота, праця" },
+        { "fr": "changer de", "en": "to change (one thing for another)", "uk": "міняти (одне на інше)" }
+      ]
+    },
+    {
+      "en": "She only writes with a black pen.",
+      "uk": "Вона пише тільки чорною ручкою.",
+      "fr": "Elle écrit seulement avec un stylo noir.",
+      "vocab": [
+        { "fr": "écrire", "en": "to write", "uk": "писати" },
+        { "fr": "seulement", "en": "only", "uk": "лише, тільки" },
+        { "fr": "noir / noire", "en": "black", "uk": "чорний / чорна" },
+        { "fr": "le stylo", "en": "the pen", "uk": "ручка" }
+      ]
+    }
+  ]
+}

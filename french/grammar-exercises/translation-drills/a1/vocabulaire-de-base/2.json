@@ -1,0 +1,118 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 2: list a1-01, goodbye & numbers)",
+    "uk": "Vocabulaire de base — базова лексика (набір 2: список a1-01, прощання і числа)"
+  },
+  "exercises": [
+    {
+      "en": "Goodbye, I'm leaving because it's late.",
+      "uk": "До побачення, я йду, бо вже пізно.",
+      "fr": "Au revoir, je pars parce qu'il est tard.",
+      "vocab": [
+        { "fr": "au revoir", "en": "goodbye", "uk": "до побачення" },
+        { "fr": "parce que", "en": "because", "uk": "тому що, бо" },
+        { "fr": "partir", "en": "to leave", "uk": "іти, від'їжджати" },
+        { "fr": "tard", "en": "late", "uk": "пізно" }
+      ]
+    },
+    {
+      "en": "My son is the second child and my daughter is the third.",
+      "uk": "Мій син — друга дитина, а моя донька — третя.",
+      "fr": "Mon fils est le deuxième enfant et ma fille est la troisième.",
+      "vocab": [
+        { "fr": "deuxième", "en": "second (2nd)", "uk": "другий (2-й)" },
+        { "fr": "troisième", "en": "third", "uk": "третій" },
+        { "fr": "l'enfant (m./f.)", "en": "the child", "uk": "дитина" }
+      ]
+    },
+    {
+      "en": "We are five, two boys and three girls.",
+      "uk": "Нас п'ятеро — двоє хлопців і три дівчини.",
+      "fr": "Nous sommes cinq, deux garçons et trois filles.",
+      "vocab": [
+        { "fr": "cinq", "en": "five", "uk": "п'ять" },
+        { "fr": "deux", "en": "two", "uk": "два" },
+        { "fr": "trois", "en": "three", "uk": "три" },
+        { "fr": "le garçon", "en": "the boy", "uk": "хлопець" }
+      ]
+    },
+    {
+      "en": "He has four cats, six dogs and a few fish.",
+      "uk": "У нього чотири коти, шість собак і кілька рибок.",
+      "fr": "Il a quatre chats, six chiens et quelques poissons.",
+      "vocab": [
+        { "fr": "quatre", "en": "four", "uk": "чотири" },
+        { "fr": "six", "en": "six", "uk": "шість" },
+        { "fr": "quelques", "en": "a few / some", "uk": "кілька, декілька" },
+        { "fr": "le poisson", "en": "the fish", "uk": "риба" }
+      ]
+    },
+    {
+      "en": "Seven plus eight is fifteen, and nine plus eleven is twenty.",
+      "uk": "Сім плюс вісім — п'ятнадцять, а дев'ять плюс одинадцять — двадцять.",
+      "fr": "Sept plus huit font quinze, et neuf plus onze font vingt.",
+      "vocab": [
+        { "fr": "sept", "en": "seven", "uk": "сім" },
+        { "fr": "huit", "en": "eight", "uk": "вісім" },
+        { "fr": "quinze", "en": "fifteen", "uk": "п'ятнадцять" },
+        { "fr": "neuf", "en": "nine", "uk": "дев'ять" },
+        { "fr": "onze", "en": "eleven", "uk": "одинадцять" },
+        { "fr": "vingt", "en": "twenty", "uk": "двадцять" },
+        { "fr": "font", "en": "make, is (in sums)", "uk": "дорівнює (у додаванні)" }
+      ]
+    },
+    {
+      "en": "My sons are thirteen, fourteen and sixteen.",
+      "uk": "Моїм синам тринадцять, чотирнадцять і шістнадцять років.",
+      "fr": "Mes fils ont treize, quatorze et seize ans.",
+      "vocab": [
+        { "fr": "treize", "en": "thirteen", "uk": "тринадцять" },
+        { "fr": "quatorze", "en": "fourteen", "uk": "чотирнадцять" },
+        { "fr": "seize", "en": "sixteen", "uk": "шістнадцять" }
+      ]
+    },
+    {
+      "en": "The girls are seventeen, eighteen and nineteen years old.",
+      "uk": "Дівчатам сімнадцять, вісімнадцять і дев'ятнадцять років.",
+      "fr": "Les filles ont dix-sept, dix-huit et dix-neuf ans.",
+      "vocab": [
+        { "fr": "dix-sept", "en": "seventeen", "uk": "сімнадцять" },
+        { "fr": "dix-huit", "en": "eighteen", "uk": "вісімнадцять" },
+        { "fr": "dix-neuf", "en": "nineteen", "uk": "дев'ятнадцять" }
+      ]
+    },
+    {
+      "en": "The book costs thirty dollars, the bag sixty and the bike a hundred.",
+      "uk": "Книжка коштує тридцять доларів, сумка — шістдесят, а велосипед — сто.",
+      "fr": "Le livre coûte trente dollars, le sac soixante et le vélo cent.",
+      "vocab": [
+        { "fr": "trente", "en": "thirty", "uk": "тридцять" },
+        { "fr": "soixante", "en": "sixty", "uk": "шістдесят" },
+        { "fr": "cent", "en": "one hundred", "uk": "сто" },
+        { "fr": "coûter", "en": "to cost", "uk": "коштувати" },
+        { "fr": "le vélo", "en": "the bike", "uk": "велосипед" }
+      ]
+    },
+    {
+      "en": "Forty people live on my street and a thousand in my town.",
+      "uk": "На моїй вулиці живе сорок людей, а в моєму місті — тисяча.",
+      "fr": "Quarante personnes habitent dans ma rue et mille dans ma ville.",
+      "vocab": [
+        { "fr": "quarante", "en": "forty", "uk": "сорок" },
+        { "fr": "mille", "en": "one thousand", "uk": "тисяча" },
+        { "fr": "habiter", "en": "to live (somewhere)", "uk": "жити, мешкати" },
+        { "fr": "la rue", "en": "the street", "uk": "вулиця" }
+      ]
+    },
+    {
+      "en": "My grandmother is seventy, my grandfather is eighty and his mother is ninety.",
+      "uk": "Моїй бабусі сімдесят, моєму дідусеві вісімдесят, а його мамі — дев'яносто.",
+      "fr": "Ma grand-mère a soixante-dix ans, mon grand-père a quatre-vingts ans et sa mère a quatre-vingt-dix ans.",
+      "vocab": [
+        { "fr": "soixante-dix", "en": "seventy", "uk": "сімдесят" },
+        { "fr": "quatre-vingts", "en": "eighty", "uk": "вісімдесят" },
+        { "fr": "quatre-vingt-dix", "en": "ninety", "uk": "дев'яносто" }
+      ]
+    }
+  ]
+}

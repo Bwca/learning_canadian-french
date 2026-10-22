@@ -1,0 +1,105 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 19: list a1-10, photos, colours & dreams)",
+    "uk": "Vocabulaire de base — базова лексика (набір 19: список a1-10, фото, кольори й мрії)"
+  },
+  "exercises": [
+    {
+      "en": "Sorry, I'm not free tonight. (said by a woman)",
+      "uk": "Перепрошую, я сьогодні ввечері не вільна.",
+      "fr": "Désolée, je ne suis pas libre ce soir.",
+      "vocab": [
+        { "fr": "désolé / désolée", "en": "sorry", "uk": "перепрошую, мені шкода" },
+        { "fr": "libre", "en": "free (not busy)", "uk": "вільний (не зайнятий)" },
+        { "fr": "ce soir", "en": "tonight", "uk": "сьогодні ввечері" }
+      ]
+    },
+    {
+      "en": "My father drives and, on the way back, I read the newspaper.",
+      "uk": "Мій тато за кермом, а на зворотному шляху я читаю газету.",
+      "fr": "Mon père conduit et, au retour, je lis le journal.",
+      "vocab": [
+        { "fr": "conduire", "en": "to drive / to lead", "uk": "керувати (авто) / вести" },
+        { "fr": "le journal", "en": "the newspaper", "uk": "газета" },
+        { "fr": "le retour", "en": "the return", "uk": "повернення" }
+      ]
+    },
+    {
+      "en": "I prefer the blue bag, in the corner.",
+      "uk": "Мені більше подобається синя сумка, он та, в кутку.",
+      "fr": "Je préfère le sac bleu, dans le coin.",
+      "vocab": [
+        { "fr": "préférer", "en": "to prefer", "uk": "віддавати перевагу" },
+        { "fr": "le sac", "en": "the bag", "uk": "сумка" },
+        { "fr": "bleu / bleue", "en": "blue", "uk": "синій / синя, блакитний" },
+        { "fr": "le coin", "en": "the corner", "uk": "кут, куток" }
+      ]
+    },
+    {
+      "en": "Choose a colour for your room. (informal)",
+      "uk": "Обери колір для своєї кімнати.",
+      "fr": "Choisis une couleur pour ta chambre.",
+      "vocab": [
+        { "fr": "choisir", "en": "to choose", "uk": "вибирати" },
+        { "fr": "la couleur", "en": "the colour", "uk": "колір" },
+        { "fr": "la chambre", "en": "the bedroom", "uk": "спальня" }
+      ]
+    },
+    {
+      "en": "In this photo, she looks like her mother.",
+      "uk": "На цьому фото вона схожа на свою маму.",
+      "fr": "Sur cette photo, elle ressemble à sa mère.",
+      "vocab": [
+        { "fr": "la photo", "en": "the photo", "uk": "фото" },
+        { "fr": "ressembler", "en": "to look like / to resemble", "uk": "бути схожим на" }
+      ]
+    },
+    {
+      "en": "The horse is resting in the shade of a tree.",
+      "uk": "Кінь відпочиває в тіні дерева.",
+      "fr": "Le cheval se repose à l'ombre d'un arbre.",
+      "vocab": [
+        { "fr": "le cheval", "en": "the horse", "uk": "кінь" },
+        { "fr": "l'ombre (f.)", "en": "the shadow / the shade", "uk": "тінь" },
+        { "fr": "l'arbre (m.)", "en": "the tree", "uk": "дерево" },
+        { "fr": "se reposer", "en": "to rest", "uk": "відпочивати" }
+      ]
+    },
+    {
+      "en": "We're going to sing by the sea together.",
+      "uk": "Ми будемо співати разом на березі моря.",
+      "fr": "On va chanter ensemble au bord de la mer.",
+      "vocab": [
+        { "fr": "chanter", "en": "to sing", "uk": "співати" },
+        { "fr": "le bord", "en": "the edge / the side (au bord de la mer = at the seaside)", "uk": "край / берег (au bord de la mer = на березі моря)" }
+      ]
+    },
+    {
+      "en": "My dream is to see my friends again.",
+      "uk": "Моя мрія — знову побачити своїх друзів.",
+      "fr": "Mon rêve, c'est de revoir mes amis.",
+      "vocab": [
+        { "fr": "le rêve", "en": "the dream", "uk": "мрія / сон" },
+        { "fr": "revoir", "en": "to see again", "uk": "знову побачити" }
+      ]
+    },
+    {
+      "en": "Each one is choosing their music.",
+      "uk": "Кожен обирає свою музику.",
+      "fr": "Chacun choisit sa musique.",
+      "vocab": [
+        { "fr": "chacun", "en": "each one / everyone", "uk": "кожен" },
+        { "fr": "la musique", "en": "the music", "uk": "музика" }
+      ]
+    },
+    {
+      "en": "Here, it's for you! Give a kiss to your grandmother. (informal)",
+      "uk": "На, це тобі! Поцілуй бабусю.",
+      "fr": "Tiens, c'est pour toi! Embrasse ta grand-mère.",
+      "vocab": [
+        { "fr": "tiens", "en": "here! / well! (tiens)", "uk": "на! / ну ж! (tiens)" },
+        { "fr": "embrasser", "en": "to kiss / to hug", "uk": "цілувати / обіймати" }
+      ]
+    }
+  ]
+}

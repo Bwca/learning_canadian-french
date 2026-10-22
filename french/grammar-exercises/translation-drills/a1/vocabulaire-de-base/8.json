@@ -1,0 +1,109 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 8: list a1-04, night, between & better)",
+    "uk": "Vocabulaire de base — базова лексика (набір 8: список a1-04, ніч, між і краще)"
+  },
+  "exercises": [
+    {
+      "en": "I'm looking for the cat; it sleeps under the bed at night.",
+      "uk": "Я шукаю кота: уночі він спить під ліжком.",
+      "fr": "Je cherche le chat; il dort sous le lit la nuit.",
+      "vocab": [
+        { "fr": "chercher", "en": "to look for", "uk": "шукати" },
+        { "fr": "sous", "en": "under", "uk": "під" },
+        { "fr": "la nuit", "en": "the night", "uk": "ніч" },
+        { "fr": "le lit", "en": "the bed", "uk": "ліжко" }
+      ]
+    },
+    {
+      "en": "Stop the car now! (informal)",
+      "uk": "Зупини машину зараз же!",
+      "fr": "Arrête la voiture maintenant!",
+      "vocab": [
+        { "fr": "arrêter", "en": "to stop", "uk": "зупиняти, припиняти" },
+        { "fr": "maintenant", "en": "now", "uk": "зараз" }
+      ]
+    },
+    {
+      "en": "The flowers are dying; they need water.",
+      "uk": "Квіти в'януть — їм потрібна вода.",
+      "fr": "Les fleurs meurent, elles ont besoin d'eau.",
+      "vocab": [
+        { "fr": "mourir", "en": "to die", "uk": "помирати" },
+        { "fr": "le besoin", "en": "the need (avoir besoin de = to need)", "uk": "потреба (avoir besoin de = потребувати)" },
+        { "fr": "la fleur", "en": "the flower", "uk": "квітка" }
+      ]
+    },
+    {
+      "en": "My God, the view is beautiful!",
+      "uk": "Боже мій, який гарний краєвид!",
+      "fr": "Mon Dieu, la vue est belle!",
+      "vocab": [
+        { "fr": "le dieu", "en": "God / the god", "uk": "Бог / бог" },
+        { "fr": "beau / belle", "en": "beautiful / handsome", "uk": "гарний / гарна, красивий" },
+        { "fr": "la vue", "en": "the view", "uk": "краєвид, вид" }
+      ]
+    },
+    {
+      "en": "The soup smells good; I really like that.",
+      "uk": "Суп гарно пахне — мені це справді подобається.",
+      "fr": "La soupe sent bon, j'aime vraiment cela.",
+      "vocab": [
+        { "fr": "sentir", "en": "to feel / to smell", "uk": "відчувати / пахнути, нюхати" },
+        { "fr": "vraiment", "en": "really", "uk": "справді" },
+        { "fr": "cela", "en": "that (formal)", "uk": "це, те (книжн.)" }
+      ]
+    },
+    {
+      "en": "Hold my hand between the two cars. (informal)",
+      "uk": "Тримай мене за руку між двома машинами.",
+      "fr": "Tiens ma main entre les deux voitures.",
+      "vocab": [
+        { "fr": "tenir", "en": "to hold", "uk": "тримати" },
+        { "fr": "entre", "en": "between", "uk": "між" }
+      ]
+    },
+    {
+      "en": "I eat less and I sleep better.",
+      "uk": "Я менше їм і краще сплю.",
+      "fr": "Je mange moins et je dors mieux.",
+      "vocab": [
+        { "fr": "moins", "en": "less", "uk": "менше" },
+        { "fr": "mieux", "en": "better", "uk": "краще" },
+        { "fr": "dormir", "en": "to sleep", "uk": "спати" }
+      ]
+    },
+    {
+      "en": "We're coming back around eight o'clock, before nightfall.",
+      "uk": "Ми повертаємося близько восьмої, до ночі.",
+      "fr": "Nous revenons vers huit heures, avant la nuit.",
+      "vocab": [
+        { "fr": "revenir", "en": "to come back", "uk": "повертатися" },
+        { "fr": "vers", "en": "towards", "uk": "до, в бік" },
+        { "fr": "avant", "en": "before / beforehand", "uk": "до, перед / раніше" }
+      ]
+    },
+    {
+      "en": "Oh, the gentleman looks tired.",
+      "uk": "О, пан має втомлений вигляд.",
+      "fr": "Oh, le monsieur a l'air fatigué.",
+      "vocab": [
+        { "fr": "oh", "en": "oh", "uk": "о" },
+        { "fr": "le monsieur", "en": "the gentleman / sir", "uk": "пан / пане" },
+        { "fr": "l'air (m.)", "en": "the air / the look (avoir l'air = to seem)", "uk": "повітря / вигляд (avoir l'air = здаватися)" },
+        { "fr": "fatigué / fatiguée", "en": "tired", "uk": "втомлений / втомлена" }
+      ]
+    },
+    {
+      "en": "At the moment, I have neither coffee nor tea, but a lot of water.",
+      "uk": "Зараз у мене немає ні кави, ні чаю, зате багато води.",
+      "fr": "En ce moment, je n'ai ni café ni thé, mais beaucoup d'eau.",
+      "vocab": [
+        { "fr": "le moment", "en": "the moment", "uk": "мить, момент" },
+        { "fr": "ni", "en": "neither / nor", "uk": "ні… ні" },
+        { "fr": "beaucoup", "en": "a lot / much", "uk": "багато" },
+        { "fr": "en ce moment", "en": "at the moment", "uk": "зараз, тепер" }
+      ]
+    }
+  ]
+}

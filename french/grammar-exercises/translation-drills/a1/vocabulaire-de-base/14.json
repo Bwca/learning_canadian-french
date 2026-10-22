@@ -1,0 +1,110 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 14: list a1-07, luck, turns & laughter)",
+    "uk": "Vocabulaire de base — базова лексика (набір 14: список a1-07, удача, черга й сміх)"
+  },
+  "exercises": [
+    {
+      "en": "Today, I'm going back to the doctor, because I'm in pain.",
+      "uk": "Сьогодні я знову йду до лікаря, бо в мене болить.",
+      "fr": "Aujourd'hui, je retourne chez le médecin, car j'ai mal.",
+      "vocab": [
+        { "fr": "aujourd'hui", "en": "today", "uk": "сьогодні" },
+        { "fr": "retourner", "en": "to go back / to return", "uk": "повертатися / повертати" },
+        { "fr": "le mal", "en": "the harm / the pain (avoir mal = to hurt)", "uk": "зло / біль (avoir mal = боліти)" }
+      ]
+    },
+    {
+      "en": "Excuse me, madam, how much is this book?",
+      "uk": "Перепрошую, пані, скільки коштує ця книжка?",
+      "fr": "Excusez-moi, madame, ce livre coûte combien?",
+      "vocab": [
+        { "fr": "excuser", "en": "to excuse (s'excuser = to apologize)", "uk": "вибачати (s'excuser = вибачатися)" },
+        { "fr": "madame", "en": "madam / Mrs.", "uk": "пані" },
+        { "fr": "combien", "en": "how much / how many", "uk": "скільки" },
+        { "fr": "coûter", "en": "to cost", "uk": "коштувати" }
+      ]
+    },
+    {
+      "en": "Nobody's laughing; that guy is crazy.",
+      "uk": "Ніхто не сміється — той тип божевільний.",
+      "fr": "Personne ne rit, ce type est fou.",
+      "vocab": [
+        { "fr": "la personne", "en": "the person (personne = nobody)", "uk": "людина, особа (personne = ніхто)" },
+        { "fr": "rire", "en": "to laugh", "uk": "сміятися" },
+        { "fr": "le type", "en": "the type / the guy (slang)", "uk": "тип / хлопець (сленг)" },
+        { "fr": "fou / folle", "en": "crazy", "uk": "божевільний / божевільна" }
+      ]
+    },
+    {
+      "en": "In that case, take the bus instead. (informal)",
+      "uk": "Тоді краще їдь автобусом.",
+      "fr": "Dans ce cas, prends plutôt l'autobus.",
+      "vocab": [
+        { "fr": "le cas", "en": "the case", "uk": "випадок" },
+        { "fr": "plutôt", "en": "rather", "uk": "скоріше, радше" },
+        { "fr": "dans ce cas", "en": "in that case", "uk": "у такому разі" }
+      ]
+    },
+    {
+      "en": "Good luck! You can win. (informal)",
+      "uk": "Удачі! Ти можеш виграти.",
+      "fr": "Bonne chance! Tu peux gagner.",
+      "vocab": [
+        { "fr": "la chance", "en": "the luck / the chance", "uk": "удача / шанс" },
+        { "fr": "gagner", "en": "to win / to earn", "uk": "вигравати / заробляти" }
+      ]
+    },
+    {
+      "en": "I feel like a walk in the sun.",
+      "uk": "Мені хочеться прогулятися на сонці.",
+      "fr": "J'ai envie d'une promenade au soleil.",
+      "vocab": [
+        { "fr": "l'envie (f.)", "en": "the desire (avoir envie de = to feel like)", "uk": "бажання (avoir envie de = хотіти)" },
+        { "fr": "le soleil", "en": "the sun", "uk": "сонце" },
+        { "fr": "la promenade", "en": "the walk", "uk": "прогулянка" }
+      ]
+    },
+    {
+      "en": "It's my turn; I'm calling her back.",
+      "uk": "Тепер моя черга — я їй передзвоню.",
+      "fr": "C'est mon tour, je la rappelle.",
+      "vocab": [
+        { "fr": "le tour / la tour", "en": "the turn / the tour (la tour = the tower)", "uk": "оберт, черга / поїздка (la tour = вежа)" },
+        { "fr": "rappeler", "en": "to call back / to remind", "uk": "передзвонювати / нагадувати" }
+      ]
+    },
+    {
+      "en": "It's raining; however, she keeps walking, step by step.",
+      "uk": "Іде дощ, проте вона йде далі, крок за кроком.",
+      "fr": "Il pleut, pourtant elle continue à marcher pas à pas.",
+      "vocab": [
+        { "fr": "pourtant", "en": "yet / however", "uk": "проте, однак" },
+        { "fr": "continuer", "en": "to continue", "uk": "продовжувати" },
+        { "fr": "le pas", "en": "the step (pas = not)", "uk": "крок (pas = не)" },
+        { "fr": "pas à pas", "en": "step by step", "uk": "крок за кроком" }
+      ]
+    },
+    {
+      "en": "She takes care of the house her own way.",
+      "uk": "Вона дбає про дім по-своєму.",
+      "fr": "Elle s'occupe de la maison à sa façon.",
+      "vocab": [
+        { "fr": "occuper", "en": "to occupy (s'occuper de = to take care of)", "uk": "займати (s'occuper de = піклуватися про)" },
+        { "fr": "la façon", "en": "the way / the manner", "uk": "спосіб, манера" },
+        { "fr": "à sa façon", "en": "(in) her / his own way", "uk": "по-своєму" }
+      ]
+    },
+    {
+      "en": "Don't touch my cake; I'm having another piece! (informal)",
+      "uk": "Не чіпай мій торт — я візьму ще шматочок!",
+      "fr": "Ne touche pas à mon gâteau, j'en reprends un morceau!",
+      "vocab": [
+        { "fr": "toucher", "en": "to touch", "uk": "торкатися" },
+        { "fr": "reprendre", "en": "to take back / to resume", "uk": "забирати назад / відновлювати" },
+        { "fr": "le gâteau", "en": "the cake", "uk": "торт" },
+        { "fr": "le morceau", "en": "the piece", "uk": "шматок" }
+      ]
+    }
+  ]
+}

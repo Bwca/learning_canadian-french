@@ -1,0 +1,105 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 16: list a1-08, buying, explaining & hiding)",
+    "uk": "Vocabulaire de base — базова лексика (набір 16: список a1-08, купівля, пояснення й схованки)"
+  },
+  "exercises": [
+    {
+      "en": "I'm buying a new glass, because the old one is broken.",
+      "uk": "Я купую нову склянку, бо стара розбита.",
+      "fr": "J'achète un nouveau verre, parce que le vieux est cassé.",
+      "vocab": [
+        { "fr": "acheter", "en": "to buy", "uk": "купувати" },
+        { "fr": "nouveau / nouvelle", "en": "new", "uk": "новий / нова" },
+        { "fr": "le verre", "en": "the glass", "uk": "склянка / скло" },
+        { "fr": "cassé / cassée", "en": "broken", "uk": "розбитий / розбита" }
+      ]
+    },
+    {
+      "en": "Can you explain the rest to me? (formal)",
+      "uk": "Чи можете ви пояснити мені решту?",
+      "fr": "Est-ce que vous pouvez m'expliquer le reste?",
+      "vocab": [
+        { "fr": "expliquer", "en": "to explain", "uk": "пояснювати" },
+        { "fr": "le reste", "en": "the rest", "uk": "решта" }
+      ]
+    },
+    {
+      "en": "The teacher is giving orders and the children are counting.",
+      "uk": "Учитель дає вказівки, а діти рахують.",
+      "fr": "Le professeur donne des ordres et les enfants comptent.",
+      "vocab": [
+        { "fr": "l'ordre (m.)", "en": "the order", "uk": "порядок / наказ" },
+        { "fr": "compter", "en": "to count", "uk": "рахувати" },
+        { "fr": "le professeur", "en": "the teacher", "uk": "учитель" }
+      ]
+    },
+    {
+      "en": "This room is a good place to work.",
+      "uk": "Ця кімната — гарне місце для роботи.",
+      "fr": "Cette pièce est un bon lieu pour travailler.",
+      "vocab": [
+        { "fr": "la pièce", "en": "the room / the coin / the play (theatre)", "uk": "кімната / монета / п'єса" },
+        { "fr": "le lieu", "en": "the place / the spot", "uk": "місце" }
+      ]
+    },
+    {
+      "en": "She's offering a flower to her mother, with pleasure.",
+      "uk": "Вона із задоволенням дарує квітку своїй мамі.",
+      "fr": "Elle offre une fleur à sa mère avec plaisir.",
+      "vocab": [
+        { "fr": "offrir", "en": "to offer / to give (a gift)", "uk": "пропонувати / дарувати" },
+        { "fr": "le plaisir", "en": "the pleasure (avec plaisir = with pleasure)", "uk": "задоволення (avec plaisir = із задоволенням)" },
+        { "fr": "la fleur", "en": "the flower", "uk": "квітка" }
+      ]
+    },
+    {
+      "en": "Thank you! — You're welcome.",
+      "uk": "Дякую! — Прошу.",
+      "fr": "Merci! — Je vous en prie.",
+      "vocab": [
+        { "fr": "prier", "en": "to pray / to beg (je vous en prie = you're welcome)", "uk": "молитися / просити (je vous en prie = прошу, будь ласка)" }
+      ]
+    },
+    {
+      "en": "We're staying home because of the bad weather.",
+      "uk": "Ми сидимо вдома через погану погоду.",
+      "fr": "On reste à la maison à cause du mauvais temps.",
+      "vocab": [
+        { "fr": "la cause", "en": "the cause (à cause de = because of)", "uk": "причина (à cause de = через)" },
+        { "fr": "mauvais / mauvaise", "en": "bad / wrong", "uk": "поганий / погана, неправильний" },
+        { "fr": "le temps", "en": "the weather / the time", "uk": "погода / час" }
+      ]
+    },
+    {
+      "en": "That guy is hiding behind the wall; he doesn't want to fight.",
+      "uk": "Той хлопець ховається за стіною — він не хоче битися.",
+      "fr": "Ce mec se cache derrière le mur, il ne veut pas se battre.",
+      "vocab": [
+        { "fr": "le mec", "en": "the guy (slang)", "uk": "хлопець, тип (сленг)" },
+        { "fr": "cacher", "en": "to hide", "uk": "ховати" },
+        { "fr": "le mur", "en": "the wall", "uk": "стіна" },
+        { "fr": "battre", "en": "to beat (se battre = to fight)", "uk": "бити (se battre = битися)" }
+      ]
+    },
+    {
+      "en": "Imagine: we're deciding to leave tomorrow! (informal)",
+      "uk": "Уяви: ми вирішуємо поїхати завтра!",
+      "fr": "Imagine: on décide de partir demain!",
+      "vocab": [
+        { "fr": "imaginer", "en": "to imagine", "uk": "уявляти" },
+        { "fr": "décider", "en": "to decide", "uk": "вирішувати" }
+      ]
+    },
+    {
+      "en": "My brother has long hair and he never loses a game.",
+      "uk": "У мого брата довге волосся, і він ніколи не програє партії.",
+      "fr": "Mon frère a les cheveux longs et il ne perd jamais une partie.",
+      "vocab": [
+        { "fr": "les cheveux", "en": "the hair", "uk": "волосся" },
+        { "fr": "la partie", "en": "the part / the game (match)", "uk": "частина / гра, матч" },
+        { "fr": "perdre", "en": "to lose", "uk": "програвати" }
+      ]
+    }
+  ]
+}

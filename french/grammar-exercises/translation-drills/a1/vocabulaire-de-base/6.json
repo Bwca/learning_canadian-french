@@ -1,0 +1,104 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 6: list a1-03, give, put, stay & leave)",
+    "uk": "Vocabulaire de base — базова лексика (набір 6: список a1-03, давати, класти, залишатися й залишати)"
+  },
+  "exercises": [
+    {
+      "en": "Give me your hand. (formal)",
+      "uk": "Дайте мені вашу руку.",
+      "fr": "Donnez-moi votre main.",
+      "vocab": [
+        { "fr": "donner", "en": "to give", "uk": "давати" },
+        { "fr": "votre / vos", "en": "your (formal / plural)", "uk": "ваш / ваші (ввічливо / множина)" },
+        { "fr": "la main", "en": "the hand", "uk": "рука (кисть)" }
+      ]
+    },
+    {
+      "en": "Put your things on the table. (informal)",
+      "uk": "Поклади свої речі на стіл.",
+      "fr": "Mets tes choses sur la table.",
+      "vocab": [
+        { "fr": "mettre", "en": "to put / to put on", "uk": "класти / вдягати" },
+        { "fr": "la chose", "en": "the thing", "uk": "річ" }
+      ]
+    },
+    {
+      "en": "I think she's arriving tonight with you. (informal)",
+      "uk": "Гадаю, вона приїде сьогодні ввечері з тобою.",
+      "fr": "Je crois qu'elle arrive ce soir avec toi.",
+      "vocab": [
+        { "fr": "croire", "en": "to believe", "uk": "вірити, гадати" },
+        { "fr": "arriver", "en": "to arrive / to happen", "uk": "прибувати / траплятися" },
+        { "fr": "toi", "en": "you (stressed, informal)", "uk": "ти, тебе (наголошене, неформально)" }
+      ]
+    },
+    {
+      "en": "Can I ask you something? (formal)",
+      "uk": "Можна вас дещо запитати?",
+      "fr": "Est-ce que je peux vous demander quelque chose?",
+      "vocab": [
+        { "fr": "demander", "en": "to ask", "uk": "питати, просити" },
+        { "fr": "quelque chose", "en": "something", "uk": "щось" }
+      ]
+    },
+    {
+      "en": "He stays alone at home.",
+      "uk": "Він залишається сам удома.",
+      "fr": "Il reste seul à la maison.",
+      "vocab": [
+        { "fr": "rester", "en": "to stay / to remain", "uk": "залишатися" },
+        { "fr": "seul / seule", "en": "alone / only", "uk": "сам / сама, єдиний" }
+      ]
+    },
+    {
+      "en": "We leave our car at home and we take the other one.",
+      "uk": "Ми залишаємо нашу машину вдома і беремо іншу.",
+      "fr": "Nous laissons notre voiture à la maison et nous prenons l'autre.",
+      "vocab": [
+        { "fr": "laisser", "en": "to leave / to let", "uk": "залишати / дозволяти" },
+        { "fr": "notre / nos", "en": "our", "uk": "наш / наші" },
+        { "fr": "autre", "en": "other", "uk": "інший" }
+      ]
+    },
+    {
+      "en": "I spend too much time on my phone.",
+      "uk": "Я проводжу забагато часу в телефоні.",
+      "fr": "Je passe trop de temps sur mon téléphone.",
+      "vocab": [
+        { "fr": "passer", "en": "to pass / to spend (time)", "uk": "проходити / проводити (час)" },
+        { "fr": "trop", "en": "too / too much", "uk": "занадто / забагато" },
+        { "fr": "le temps", "en": "the time / the weather", "uk": "час / погода" }
+      ]
+    },
+    {
+      "en": "My son has blue eyes.",
+      "uk": "У мого сина блакитні очі.",
+      "fr": "Mon fils a les yeux bleus.",
+      "vocab": [
+        { "fr": "l'œil (m.) / les yeux", "en": "the eye / the eyes", "uk": "око / очі" },
+        { "fr": "bleu / bleue", "en": "blue", "uk": "блакитний / синій" }
+      ]
+    },
+    {
+      "en": "I'm still looking for my keys; I can't find them.",
+      "uk": "Я досі шукаю свої ключі — ніяк не знайду їх.",
+      "fr": "Je cherche encore mes clés, je ne les trouve pas.",
+      "vocab": [
+        { "fr": "encore", "en": "again / still", "uk": "знову / ще" },
+        { "fr": "trouver", "en": "to find", "uk": "знаходити" },
+        { "fr": "chercher", "en": "to look for", "uk": "шукати" }
+      ]
+    },
+    {
+      "en": "Everything is ready, but he is all alone.",
+      "uk": "Усе готово, але він зовсім сам.",
+      "fr": "Tout est prêt, mais il est tout seul.",
+      "vocab": [
+        { "fr": "tout (pronom)", "en": "everything / all (pronoun)", "uk": "все, усе (займенник)" },
+        { "fr": "tout (adverbe)", "en": "all / quite (adverb)", "uk": "зовсім, цілком (прислівник)" },
+        { "fr": "prêt / prête", "en": "ready", "uk": "готовий / готова" }
+      ]
+    }
+  ]
+}

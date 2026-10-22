@@ -1,0 +1,110 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 20: list a1-10, the cold, the king & promises)",
+    "uk": "Vocabulaire de base — базова лексика (набір 20: список a1-10, холод, король і обіцянки)"
+  },
+  "exercises": [
+    {
+      "en": "It's cold and the wind is strong; it's important to be careful.",
+      "uk": "Холодно, і вітер сильний — важливо бути обережним.",
+      "fr": "Il fait froid et le vent est fort, c'est important de faire attention.",
+      "vocab": [
+        { "fr": "froid / froide", "en": "cold", "uk": "холодний / холодна" },
+        { "fr": "le vent", "en": "the wind", "uk": "вітер" },
+        { "fr": "important / importante", "en": "important", "uk": "важливий / важлива" },
+        { "fr": "l'attention (f.)", "en": "the attention (faire attention = to be careful)", "uk": "увага (faire attention = бути обережним)" },
+        { "fr": "fort / forte", "en": "strong", "uk": "сильний / сильна" }
+      ]
+    },
+    {
+      "en": "Wake me up at seven, please; then we'll leave. (informal)",
+      "uk": "Розбуди мене о сьомій, будь ласка, а потім поїдемо.",
+      "fr": "Réveille-moi à sept heures, s'il te plaît, ensuite on part.",
+      "vocab": [
+        { "fr": "réveiller", "en": "to wake (someone) up (se réveiller = to wake up)", "uk": "будити (se réveiller = прокидатися)" },
+        { "fr": "ensuite", "en": "then / next", "uk": "потім, далі" }
+      ]
+    },
+    {
+      "en": "I'm introducing my best friend to my parents. (said by a man)",
+      "uk": "Я знайомлю свого найкращого друга з батьками.",
+      "fr": "Je présente mon meilleur ami à mes parents.",
+      "vocab": [
+        { "fr": "présenter", "en": "to present / to introduce", "uk": "представляти / знайомити" },
+        { "fr": "meilleur / meilleure", "en": "better / best", "uk": "кращий / краща, найкращий" }
+      ]
+    },
+    {
+      "en": "They're getting married in the spring.",
+      "uk": "Вони одружуються навесні.",
+      "fr": "Ils se marient au printemps.",
+      "vocab": [
+        { "fr": "marier", "en": "to marry (se marier = to get married)", "uk": "одружувати (se marier = одружуватися)" },
+        { "fr": "au printemps", "en": "in the spring", "uk": "навесні" }
+      ]
+    },
+    {
+      "en": "I promise; don't worry! (informal)",
+      "uk": "Обіцяю, не хвилюйся!",
+      "fr": "Je promets, ne t'inquiète pas!",
+      "vocab": [
+        { "fr": "promettre", "en": "to promise", "uk": "обіцяти" },
+        { "fr": "s'inquiéter", "en": "to worry (s'inquiéter)", "uk": "хвилюватися, турбуватися" }
+      ]
+    },
+    {
+      "en": "He's selling his car, but he's refusing my offer.",
+      "uk": "Він продає свою машину, але відмовляється від моєї пропозиції.",
+      "fr": "Il vend son auto, mais il refuse mon offre.",
+      "vocab": [
+        { "fr": "vendre", "en": "to sell", "uk": "продавати" },
+        { "fr": "refuser", "en": "to refuse", "uk": "відмовлятися" },
+        { "fr": "l'auto (f.)", "en": "the car (Québec)", "uk": "машина (у Квебеку)" },
+        { "fr": "l'offre (f.)", "en": "the offer", "uk": "пропозиція" }
+      ]
+    },
+    {
+      "en": "The king accepts; it's simple and clear.",
+      "uk": "Король погоджується — це просто і ясно.",
+      "fr": "Le roi accepte, c'est simple et clair.",
+      "vocab": [
+        { "fr": "le roi", "en": "the king", "uk": "король" },
+        { "fr": "accepter", "en": "to accept", "uk": "приймати, погоджуватися" },
+        { "fr": "simple", "en": "simple", "uk": "простий" },
+        { "fr": "clair / claire", "en": "clear / light (colour)", "uk": "ясний / ясна, світлий" }
+      ]
+    },
+    {
+      "en": "Repeat after the teacher and move forward slowly. (plural)",
+      "uk": "Повторюйте за вчителем і повільно просувайтеся вперед.",
+      "fr": "Répétez après le maître et avancez lentement.",
+      "vocab": [
+        { "fr": "répéter", "en": "to repeat", "uk": "повторювати" },
+        { "fr": "le maître", "en": "the master / the teacher", "uk": "господар / вчитель" },
+        { "fr": "avancer", "en": "to move forward", "uk": "просуватися вперед" },
+        { "fr": "lentement", "en": "slowly", "uk": "повільно" }
+      ]
+    },
+    {
+      "en": "I'm sure this effect doesn't exist. (said by a man)",
+      "uk": "Я впевнений, що такого ефекту не існує.",
+      "fr": "Je suis certain que cet effet n'existe pas.",
+      "vocab": [
+        { "fr": "certain / certaine", "en": "certain / sure", "uk": "певний / певна, впевнений" },
+        { "fr": "l'effet (m.)", "en": "the effect", "uk": "ефект, вплив" },
+        { "fr": "exister", "en": "to exist", "uk": "існувати" }
+      ]
+    },
+    {
+      "en": "Come closer and cut the bread; my back hurts. (informal)",
+      "uk": "Підійди ближче й поріж хліб — у мене болить спина.",
+      "fr": "Approche-toi et coupe le pain, j'ai mal au dos.",
+      "vocab": [
+        { "fr": "approcher", "en": "to bring closer (s'approcher = to come closer)", "uk": "наближати (s'approcher = наближатися)" },
+        { "fr": "couper", "en": "to cut", "uk": "різати" },
+        { "fr": "le dos", "en": "the back", "uk": "спина" },
+        { "fr": "le pain", "en": "the bread", "uk": "хліб" }
+      ]
+    }
+  ]
+}

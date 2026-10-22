@@ -1,0 +1,115 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 5: list a1-03, when, without & always)",
+    "uk": "Vocabulaire de base — базова лексика (набір 5: список a1-03, коли, без і завжди)"
+  },
+  "exercises": [
+    {
+      "en": "I take the bus when it rains.",
+      "uk": "Я їду автобусом, коли йде дощ.",
+      "fr": "Je prends l'autobus quand il pleut.",
+      "vocab": [
+        { "fr": "prendre", "en": "to take", "uk": "брати" },
+        { "fr": "quand", "en": "when", "uk": "коли" },
+        { "fr": "l'autobus (m.)", "en": "the bus (France: le bus)", "uk": "автобус (у Франції: le bus)" },
+        { "fr": "il pleut", "en": "it's raining", "uk": "іде дощ" }
+      ]
+    },
+    {
+      "en": "She drinks her coffee without sugar.",
+      "uk": "Вона п'є каву без цукру.",
+      "fr": "Elle boit son café sans sucre.",
+      "vocab": [
+        { "fr": "sans", "en": "without", "uk": "без" },
+        { "fr": "boire", "en": "to drink", "uk": "пити" },
+        { "fr": "le sucre", "en": "the sugar", "uk": "цукор" }
+      ]
+    },
+    {
+      "en": "Your keys are there, not here. (informal)",
+      "uk": "Твої ключі там, а не тут.",
+      "fr": "Tes clés sont là, pas ici.",
+      "vocab": [
+        { "fr": "ton / ta / tes", "en": "your (informal)", "uk": "твій / твоя / твої" },
+        { "fr": "là", "en": "there / here", "uk": "там / тут" },
+        { "fr": "ici", "en": "here", "uk": "тут" },
+        { "fr": "la clé", "en": "the key", "uk": "ключ" }
+      ]
+    },
+    {
+      "en": "If you want, we can talk tonight. (informal 'you', casual 'we')",
+      "uk": "Якщо хочеш, ми можемо поговорити сьогодні ввечері.",
+      "fr": "Si tu veux, on peut parler ce soir.",
+      "vocab": [
+        { "fr": "si", "en": "if / so (si grand = so big)", "uk": "якщо / такий, так (si grand = такий великий)" },
+        { "fr": "parler", "en": "to speak / to talk", "uk": "говорити, розмовляти" },
+        { "fr": "on", "en": "we (casual)", "uk": "ми (розм.)" }
+      ]
+    },
+    {
+      "en": "You have to follow the man with the little dog.",
+      "uk": "Треба йти за чоловіком із маленьким собакою.",
+      "fr": "Il faut suivre l'homme avec le petit chien.",
+      "vocab": [
+        { "fr": "falloir", "en": "to be necessary (il faut)", "uk": "бути потрібно (il faut)" },
+        { "fr": "suivre", "en": "to follow", "uk": "слідувати, іти за" },
+        { "fr": "l'homme (m.)", "en": "the man", "uk": "чоловік, людина" },
+        { "fr": "petit / petite", "en": "small / little", "uk": "маленький / маленька" }
+      ]
+    },
+    {
+      "en": "That woman is very tall.",
+      "uk": "Та жінка дуже висока.",
+      "fr": "Cette femme est très grande.",
+      "vocab": [
+        { "fr": "la femme", "en": "the woman / the wife", "uk": "жінка / дружина" },
+        { "fr": "très", "en": "very", "uk": "дуже" },
+        { "fr": "grand / grande", "en": "big / tall", "uk": "великий / велика, високий" }
+      ]
+    },
+    {
+      "en": "I always think about my life in Ukraine.",
+      "uk": "Я завжди думаю про своє життя в Україні.",
+      "fr": "Je pense toujours à ma vie en Ukraine.",
+      "vocab": [
+        { "fr": "toujours", "en": "always / still", "uk": "завжди / досі" },
+        { "fr": "penser", "en": "to think", "uk": "думати" },
+        { "fr": "la vie", "en": "the life", "uk": "життя" },
+        { "fr": "penser à", "en": "to think about", "uk": "думати про" }
+      ]
+    },
+    {
+      "en": "He never watches TV, so he reads a lot.",
+      "uk": "Він ніколи не дивиться телевізор, тож багато читає.",
+      "fr": "Il ne regarde jamais la télé, alors il lit beaucoup.",
+      "vocab": [
+        { "fr": "jamais", "en": "never", "uk": "ніколи" },
+        { "fr": "regarder", "en": "to look at / to watch", "uk": "дивитися" },
+        { "fr": "alors", "en": "so / then", "uk": "отже, тоді" },
+        { "fr": "lire", "en": "to read", "uk": "читати" }
+      ]
+    },
+    {
+      "en": "She likes good food too.",
+      "uk": "Вона теж любить смачну їжу.",
+      "fr": "Elle aime aussi la bonne cuisine.",
+      "vocab": [
+        { "fr": "aimer", "en": "to love / to like", "uk": "кохати / любити, подобатися" },
+        { "fr": "aussi", "en": "also / too", "uk": "також, теж" },
+        { "fr": "bon / bonne", "en": "good", "uk": "добрий / добра, хороший" },
+        { "fr": "la cuisine", "en": "food, cooking", "uk": "кухня, їжа" }
+      ]
+    },
+    {
+      "en": "I wait for the bus every day at the same time.",
+      "uk": "Я щодня чекаю на автобус в один і той самий час.",
+      "fr": "J'attends l'autobus chaque jour à la même heure.",
+      "vocab": [
+        { "fr": "attendre", "en": "to wait (for)", "uk": "чекати (на)" },
+        { "fr": "le jour", "en": "the day", "uk": "день" },
+        { "fr": "même", "en": "even / same", "uk": "навіть / той самий" },
+        { "fr": "l'heure (f.)", "en": "the hour / the time (o'clock)", "uk": "година / час (котра година)" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 12: list a1-06, face, heart & hands up)",
+    "uk": "Vocabulaire de base — базова лексика (набір 12: список a1-06, обличчя, серце й піднята рука)"
+  },
+  "exercises": [
+    {
+      "en": "He carries a big bag in his arms.",
+      "uk": "Він несе в руках велику сумку.",
+      "fr": "Il porte un gros sac dans ses bras.",
+      "vocab": [
+        { "fr": "gros / grosse", "en": "big / fat", "uk": "великий / товстий, товста" },
+        { "fr": "le bras", "en": "the arm", "uk": "рука (від плеча)" }
+      ]
+    },
+    {
+      "en": "It's a long story, and it's almost noon!",
+      "uk": "Це довга історія, а вже майже полудень!",
+      "fr": "C'est une longue histoire, et il est presque midi!",
+      "vocab": [
+        { "fr": "long / longue", "en": "long", "uk": "довгий / довга" },
+        { "fr": "presque", "en": "almost", "uk": "майже" },
+        { "fr": "midi", "en": "noon", "uk": "полудень" }
+      ]
+    },
+    {
+      "en": "I know the song by heart.",
+      "uk": "Я знаю пісню напам'ять.",
+      "fr": "Je connais la chanson par cœur.",
+      "vocab": [
+        { "fr": "le cœur", "en": "the heart", "uk": "серце" },
+        { "fr": "par cœur", "en": "by heart", "uk": "напам'ять" }
+      ]
+    },
+    {
+      "en": "It's not worth it; there's no problem.",
+      "uk": "Не варто, жодних проблем.",
+      "fr": "Ce n'est pas la peine, il n'y a pas de problème.",
+      "vocab": [
+        { "fr": "la peine", "en": "the trouble / the sorrow (ce n'est pas la peine = no need)", "uk": "клопіт / горе (ce n'est pas la peine = не варто)" },
+        { "fr": "le problème", "en": "the problem", "uk": "проблема" }
+      ]
+    },
+    {
+      "en": "She raises her hand because she has an idea.",
+      "uk": "Вона піднімає руку, бо в неї є ідея.",
+      "fr": "Elle lève la main parce qu'elle a une idée.",
+      "vocab": [
+        { "fr": "lever", "en": "to raise / to lift (se lever = to get up)", "uk": "піднімати (se lever = вставати)" },
+        { "fr": "l'idée (f.)", "en": "the idea", "uk": "ідея, думка" }
+      ]
+    },
+    {
+      "en": "The photo shows his face.",
+      "uk": "Фото показує його обличчя.",
+      "fr": "La photo montre son visage.",
+      "vocab": [
+        { "fr": "montrer", "en": "to show", "uk": "показувати" },
+        { "fr": "le visage", "en": "the face", "uk": "обличчя" }
+      ]
+    },
+    {
+      "en": "This glass is for drinking water.",
+      "uk": "Ця склянка — для води.",
+      "fr": "Ce verre sert à boire de l'eau.",
+      "vocab": [
+        { "fr": "servir", "en": "to serve / to be used for", "uk": "служити, подавати / слугувати для" },
+        { "fr": "boire", "en": "to drink", "uk": "пити" },
+        { "fr": "servir à", "en": "to be used for", "uk": "слугувати для" }
+      ]
+    },
+    {
+      "en": "Hello from my mother!",
+      "uk": "Вітання від моєї мами!",
+      "fr": "Bonjour de la part de ma mère!",
+      "vocab": [
+        { "fr": "la part", "en": "the share / the part (de la part de = from)", "uk": "частка, частина (de la part de = від)" },
+        { "fr": "de la part de", "en": "from, on behalf of", "uk": "від, від імені" }
+      ]
+    },
+    {
+      "en": "Take your things; we're leaving. (informal)",
+      "uk": "Бери свої речі — ми йдемо.",
+      "fr": "Prends tes affaires, nous partons.",
+      "vocab": [
+        { "fr": "l'affaire (f.)", "en": "the matter / the business (les affaires = belongings, business)", "uk": "справа / бізнес (les affaires = речі, справи)" }
+      ]
+    },
+    {
+      "en": "That's how I work.",
+      "uk": "Ось так я працюю.",
+      "fr": "C'est ainsi que je travaille.",
+      "vocab": [
+        { "fr": "ainsi", "en": "thus / so", "uk": "так, таким чином" }
+      ]
+    }
+  ]
+}

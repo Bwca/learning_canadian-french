@@ -1,0 +1,123 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 3: list a1-02, I, you, be & have)",
+    "uk": "Vocabulaire de base — базова лексика (набір 3: список a1-02, я, ти, бути й мати)"
+  },
+  "exercises": [
+    {
+      "en": "I'm hungry, but you're not hungry. (informal)",
+      "uk": "Я голодний, а ти — ні.",
+      "fr": "J'ai faim, mais tu n'as pas faim.",
+      "vocab": [
+        { "fr": "je", "en": "I", "uk": "я" },
+        { "fr": "avoir", "en": "to have", "uk": "мати" },
+        { "fr": "tu", "en": "you (informal)", "uk": "ти" },
+        { "fr": "mais", "en": "but", "uk": "але" },
+        { "fr": "ne", "en": "not (ne… pas)", "uk": "не (ne… pas)" },
+        { "fr": "pas", "en": "not", "uk": "не" },
+        { "fr": "avoir faim", "en": "to be hungry", "uk": "бути голодним" }
+      ]
+    },
+    {
+      "en": "He is at the bank with a friend.",
+      "uk": "Він у банку з другом.",
+      "fr": "Il est à la banque avec un ami.",
+      "vocab": [
+        { "fr": "il", "en": "he / it", "uk": "він / воно" },
+        { "fr": "être", "en": "to be", "uk": "бути" },
+        { "fr": "à", "en": "to / at / in", "uk": "до, в, у, на" },
+        { "fr": "le / la / les", "en": "the", "uk": "означений артикль (чол. / жін. / мн.)" },
+        { "fr": "avec", "en": "with", "uk": "з, разом з" },
+        { "fr": "un / une", "en": "a / an", "uk": "неозначений артикль (чол. / жін.)" },
+        { "fr": "la banque", "en": "the bank", "uk": "банк" }
+      ]
+    },
+    {
+      "en": "She is going to France with her mother.",
+      "uk": "Вона їде до Франції зі своєю мамою.",
+      "fr": "Elle va en France avec sa mère.",
+      "vocab": [
+        { "fr": "elle", "en": "she / it", "uk": "вона / воно" },
+        { "fr": "aller", "en": "to go", "uk": "іти, їхати" },
+        { "fr": "en (préposition)", "en": "in / to (a country)", "uk": "в, у, до (країни)" },
+        { "fr": "son / sa / ses", "en": "his / her (masc.)", "uk": "його / її (свій)" }
+      ]
+    },
+    {
+      "en": "What are you doing this evening? (formal)",
+      "uk": "Що ви робите сьогодні ввечері?",
+      "fr": "Qu'est-ce que vous faites ce soir?",
+      "vocab": [
+        { "fr": "vous", "en": "you (formal / plural)", "uk": "ви (ввічливо / множина)" },
+        { "fr": "faire", "en": "to do / to make", "uk": "робити" },
+        { "fr": "que", "en": "that / what / than", "uk": "що, який / ніж" },
+        { "fr": "ce soir", "en": "this evening, tonight", "uk": "сьогодні ввечері" }
+      ]
+    },
+    {
+      "en": "We want to see the sea.",
+      "uk": "Ми хочемо побачити море.",
+      "fr": "Nous voulons voir la mer.",
+      "vocab": [
+        { "fr": "nous", "en": "we / us", "uk": "ми / нас" },
+        { "fr": "vouloir", "en": "to want", "uk": "хотіти" },
+        { "fr": "voir", "en": "to see", "uk": "бачити" },
+        { "fr": "la mer", "en": "the sea", "uk": "море" }
+      ]
+    },
+    {
+      "en": "Who can come with me?",
+      "uk": "Хто може піти зі мною?",
+      "fr": "Qui peut venir avec moi?",
+      "vocab": [
+        { "fr": "qui", "en": "who / which", "uk": "хто, який" },
+        { "fr": "pouvoir", "en": "can / to be able to", "uk": "могти, бути здатним" },
+        { "fr": "venir", "en": "to come", "uk": "приходити" },
+        { "fr": "moi", "en": "me (stressed)", "uk": "я, мене (наголошене)" }
+      ]
+    },
+    {
+      "en": "We know it's for you. (casual 'we', informal 'you')",
+      "uk": "Ми знаємо, що це для тебе.",
+      "fr": "On sait que c'est pour toi.",
+      "vocab": [
+        { "fr": "on", "en": "we (casual) / one", "uk": "ми (розм.) / хтось, люди" },
+        { "fr": "savoir", "en": "to know (a fact)", "uk": "знати (факт), вміти" },
+        { "fr": "ce", "en": "this / that / it (c'est)", "uk": "це, те (c'est)" },
+        { "fr": "pour", "en": "for", "uk": "для" },
+        { "fr": "toi", "en": "you (stressed, informal)", "uk": "ти, тебе (наголошене)" }
+      ]
+    },
+    {
+      "en": "My keys are in my bag or on the table.",
+      "uk": "Мої ключі в сумці або на столі.",
+      "fr": "Mes clés sont dans mon sac ou sur la table.",
+      "vocab": [
+        { "fr": "mon / ma / mes", "en": "my", "uk": "мій / моя / мої" },
+        { "fr": "dans", "en": "in / inside", "uk": "в, у, всередині" },
+        { "fr": "ou", "en": "or", "uk": "або, чи" },
+        { "fr": "sur", "en": "on", "uk": "на" },
+        { "fr": "la clé", "en": "the key", "uk": "ключ" }
+      ]
+    },
+    {
+      "en": "Are you going to Montreal? Yes, I'm going there. (informal)",
+      "uk": "Ти їдеш до Монреаля? Так, я туди їду.",
+      "fr": "Est-ce que tu vas à Montréal? Oui, j'y vais.",
+      "vocab": [
+        { "fr": "y", "en": "there (j'y vais)", "uk": "туди, там (j'y vais)" },
+        { "fr": "est-ce que", "en": "question marker", "uk": "питальний зворот (чи)" }
+      ]
+    },
+    {
+      "en": "I have to say no.",
+      "uk": "Я мушу сказати «ні».",
+      "fr": "Je dois dire non.",
+      "vocab": [
+        { "fr": "devoir", "en": "must / to have to / to owe", "uk": "мусити, бути повинним / бути винним" },
+        { "fr": "dire", "en": "to say / to tell", "uk": "казати, говорити" },
+        { "fr": "non", "en": "no", "uk": "ні" }
+      ]
+    }
+  ]
+}

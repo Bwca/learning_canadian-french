@@ -1,0 +1,107 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 1: list a1-01, politeness, this & which)",
+    "uk": "Vocabulaire de base — базова лексика (набір 1: список a1-01, ввічливість, цей і який)"
+  },
+  "exercises": [
+    {
+      "en": "Yes, OK, I'm coming.",
+      "uk": "Так, гаразд, я йду.",
+      "fr": "Oui, d'accord, je viens.",
+      "vocab": [
+        { "fr": "oui", "en": "yes", "uk": "так" },
+        { "fr": "d'accord", "en": "OK / agreed", "uk": "гаразд / згода" },
+        { "fr": "venir", "en": "to come", "uk": "приходити, іти" }
+      ]
+    },
+    {
+      "en": "Excuse me, where are the restrooms? (formal)",
+      "uk": "Перепрошую, де туалет?",
+      "fr": "Excusez-moi, où sont les toilettes?",
+      "vocab": [
+        { "fr": "excusez-moi", "en": "excuse me", "uk": "перепрошую, вибачте" },
+        { "fr": "les toilettes (f.)", "en": "the restroom / the bathroom (Québec: la salle de bain)", "uk": "туалет / вбиральня (у Квебеку: la salle de bain)" },
+        { "fr": "où", "en": "where", "uk": "де" }
+      ]
+    },
+    {
+      "en": "You're welcome, ma'am.",
+      "uk": "Нема за що, пані.",
+      "fr": "De rien, madame.",
+      "vocab": [
+        { "fr": "de rien", "en": "you're welcome (Québec: bienvenue)", "uk": "нема за що (у Квебеку: bienvenue)" },
+        { "fr": "madame", "en": "ma'am / Mrs.", "uk": "пані" }
+      ]
+    },
+    {
+      "en": "Nice to meet you, Marc! (said by a woman)",
+      "uk": "Приємно познайомитися, Марку! (каже жінка)",
+      "fr": "Enchantée, Marc!",
+      "vocab": [
+        { "fr": "enchanté / enchantée", "en": "nice to meet you", "uk": "приємно познайомитися" }
+      ]
+    },
+    {
+      "en": "Here is Julie's son and there is her daughter.",
+      "uk": "Ось син Жулі, а он її донька.",
+      "fr": "Voici le fils de Julie et voilà sa fille.",
+      "vocab": [
+        { "fr": "voici / voilà", "en": "here is / there is", "uk": "ось / от" },
+        { "fr": "le fils", "en": "the son", "uk": "син" },
+        { "fr": "de", "en": "of / from", "uk": "з, від; (родовий відмінок)" },
+        { "fr": "la fille", "en": "the daughter", "uk": "донька" }
+      ]
+    },
+    {
+      "en": "This month, I eat pasta every Friday.",
+      "uk": "Цього місяця я щоп'ятниці їм макарони.",
+      "fr": "Ce mois-ci, je mange des pâtes chaque vendredi.",
+      "vocab": [
+        { "fr": "ce / cet / cette / ces", "en": "this / that / these / those", "uk": "цей / ця / ці (той / та / ті)" },
+        { "fr": "le mois", "en": "the month", "uk": "місяць" },
+        { "fr": "les pâtes (f.)", "en": "the pasta", "uk": "макарони" },
+        { "fr": "chaque", "en": "each / every", "uk": "кожен / кожна" },
+        { "fr": "vendredi", "en": "Friday", "uk": "п'ятниця" }
+      ]
+    },
+    {
+      "en": "Which car do you want? (informal)",
+      "uk": "Яку машину ти хочеш?",
+      "fr": "Quelle voiture est-ce que tu veux?",
+      "vocab": [
+        { "fr": "quel / quelle / quels / quelles", "en": "which / what", "uk": "який / яка / які" },
+        { "fr": "la voiture", "en": "the car", "uk": "машина" }
+      ]
+    },
+    {
+      "en": "Their son is ten and their daughters are twelve.",
+      "uk": "Їхньому синові десять років, а їхнім донькам — дванадцять.",
+      "fr": "Leur fils a dix ans et leurs filles ont douze ans.",
+      "vocab": [
+        { "fr": "leur / leurs", "en": "their", "uk": "їхній / їхні" },
+        { "fr": "dix", "en": "ten", "uk": "десять" },
+        { "fr": "douze", "en": "twelve", "uk": "дванадцять" },
+        { "fr": "avoir … ans", "en": "to be … years old", "uk": "мати … років" }
+      ]
+    },
+    {
+      "en": "I have nothing in my bag.",
+      "uk": "У моїй сумці нічого немає.",
+      "fr": "Je n'ai rien dans mon sac.",
+      "vocab": [
+        { "fr": "rien (ne… rien)", "en": "nothing", "uk": "ніщо, нічого (ne… rien)" },
+        { "fr": "le sac", "en": "the bag", "uk": "сумка" }
+      ]
+    },
+    {
+      "en": "All the children are here, so we can eat.",
+      "uk": "Усі діти тут, тож ми можемо їсти.",
+      "fr": "Tous les enfants sont ici, donc nous pouvons manger.",
+      "vocab": [
+        { "fr": "tout / toute / tous / toutes", "en": "all / every / whole", "uk": "весь / вся / всі / цілий" },
+        { "fr": "donc", "en": "so / therefore", "uk": "отже, тож" },
+        { "fr": "pouvoir", "en": "can", "uk": "могти" }
+      ]
+    }
+  ]
+}

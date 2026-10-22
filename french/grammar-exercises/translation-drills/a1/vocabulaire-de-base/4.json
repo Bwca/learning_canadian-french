@@ -1,0 +1,105 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 4: list a1-02, small words & pronouns)",
+    "uk": "Vocabulaire de base — базова лексика (набір 4: список a1-02, службові слова й займенники)"
+  },
+  "exercises": [
+    {
+      "en": "She speaks well, like her father.",
+      "uk": "Вона гарно говорить, як її батько.",
+      "fr": "Elle parle bien, comme son père.",
+      "vocab": [
+        { "fr": "bien", "en": "well", "uk": "добре" },
+        { "fr": "comme", "en": "like / as", "uk": "як, наче / як (у ролі)" },
+        { "fr": "parler", "en": "to speak", "uk": "говорити" }
+      ]
+    },
+    {
+      "en": "I see him, but he doesn't see me.",
+      "uk": "Я його бачу, а він мене — ні.",
+      "fr": "Je le vois, mais il ne me voit pas.",
+      "vocab": [
+        { "fr": "le / la / les (pronom)", "en": "him / her / it / them (object)", "uk": "його / її / їх (додаток)" },
+        { "fr": "me", "en": "me / myself", "uk": "мене, мені / себе" }
+      ]
+    },
+    {
+      "en": "Where is the train station?",
+      "uk": "Де вокзал?",
+      "fr": "Où est la gare?",
+      "vocab": [
+        { "fr": "où", "en": "where", "uk": "де" },
+        { "fr": "la gare", "en": "the train station", "uk": "вокзал" }
+      ]
+    },
+    {
+      "en": "I give her the book.",
+      "uk": "Я даю їй книжку.",
+      "fr": "Je lui donne le livre.",
+      "vocab": [
+        { "fr": "lui", "en": "him / her (to him / to her)", "uk": "йому / їй" },
+        { "fr": "donner", "en": "to give", "uk": "давати" },
+        { "fr": "le livre", "en": "the book", "uk": "книжка" }
+      ]
+    },
+    {
+      "en": "Do you want some coffee? Yes, I want some. (informal)",
+      "uk": "Хочеш кави? Так, хочу.",
+      "fr": "Est-ce que tu veux du café? Oui, j'en veux.",
+      "vocab": [
+        { "fr": "en (pronom)", "en": "some / of it (pronoun)", "uk": "його, цього, з цього (займенник)" },
+        { "fr": "du café", "en": "some coffee", "uk": "кави (трохи)" }
+      ]
+    },
+    {
+      "en": "She looks out of the window.",
+      "uk": "Вона дивиться у вікно.",
+      "fr": "Elle regarde par la fenêtre.",
+      "vocab": [
+        { "fr": "par", "en": "by / through", "uk": "через, за допомогою, ким" },
+        { "fr": "regarder", "en": "to look (at)", "uk": "дивитися" },
+        { "fr": "la fenêtre", "en": "the window", "uk": "вікно" }
+      ]
+    },
+    {
+      "en": "He gets up at seven o'clock.",
+      "uk": "Він встає о сьомій.",
+      "fr": "Il se lève à sept heures.",
+      "vocab": [
+        { "fr": "se", "en": "oneself / himself / herself (reflexive)", "uk": "себе, -ся (зворотне)" },
+        { "fr": "se lever", "en": "to get up", "uk": "вставати" }
+      ]
+    },
+    {
+      "en": "I'll call you tomorrow. (informal)",
+      "uk": "Я тобі зателефоную завтра.",
+      "fr": "Je te téléphone demain.",
+      "vocab": [
+        { "fr": "te", "en": "you / yourself (informal object)", "uk": "тебе, тобі / себе (неформально)" },
+        { "fr": "téléphoner à", "en": "to call (on the phone)", "uk": "телефонувати комусь" },
+        { "fr": "demain", "en": "tomorrow", "uk": "завтра" }
+      ]
+    },
+    {
+      "en": "We have more time than you. (plural)",
+      "uk": "У нас більше часу, ніж у вас.",
+      "fr": "Nous avons plus de temps que vous.",
+      "vocab": [
+        { "fr": "plus", "en": "more", "uk": "більше" },
+        { "fr": "que", "en": "that / what / than", "uk": "що, який / ніж" },
+        { "fr": "le temps", "en": "the time", "uk": "час" }
+      ]
+    },
+    {
+      "en": "My sister and I are going to the movies.",
+      "uk": "Ми з сестрою йдемо в кіно.",
+      "fr": "Ma sœur et moi, nous allons au cinéma.",
+      "vocab": [
+        { "fr": "et", "en": "and", "uk": "і, та" },
+        { "fr": "moi", "en": "me (stressed)", "uk": "я, мене (наголошене)" },
+        { "fr": "la sœur", "en": "the sister", "uk": "сестра" },
+        { "fr": "le cinéma", "en": "the movies", "uk": "кіно" }
+      ]
+    }
+  ]
+}

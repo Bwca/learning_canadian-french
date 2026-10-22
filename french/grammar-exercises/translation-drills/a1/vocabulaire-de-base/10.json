@@ -1,0 +1,110 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 10: list a1-05, start, fall & help)",
+    "uk": "Vocabulaire de base — базова лексика (набір 10: список a1-05, починати, падати й допомагати)"
+  },
+  "exercises": [
+    {
+      "en": "The movie starts at eight and finishes at ten; come in quickly! (plural)",
+      "uk": "Фільм починається о восьмій і закінчується о десятій — заходьте швидше!",
+      "fr": "Le film commence à huit heures et finit à dix heures, entrez vite!",
+      "vocab": [
+        { "fr": "commencer", "en": "to start / to begin", "uk": "починати" },
+        { "fr": "finir", "en": "to finish", "uk": "закінчувати" },
+        { "fr": "entrer", "en": "to enter / to come in", "uk": "входити, заходити" },
+        { "fr": "vite", "en": "quickly / fast", "uk": "швидко" }
+      ]
+    },
+    {
+      "en": "Careful, you're going to fall on the other side! (informal)",
+      "uk": "Обережно, ти впадеш на інший бік!",
+      "fr": "Attention, tu vas tomber de l'autre côté!",
+      "vocab": [
+        { "fr": "tomber", "en": "to fall", "uk": "падати" },
+        { "fr": "le côté", "en": "the side", "uk": "бік, сторона" },
+        { "fr": "attention", "en": "careful", "uk": "обережно" }
+      ]
+    },
+    {
+      "en": "You seem tired; do you sleep enough? (informal, to a man)",
+      "uk": "Ти здаєшся втомленим — ти досить спиш?",
+      "fr": "Tu sembles fatigué, est-ce que tu dors assez?",
+      "vocab": [
+        { "fr": "sembler", "en": "to seem", "uk": "здаватися" },
+        { "fr": "assez", "en": "enough", "uk": "досить, достатньо" }
+      ]
+    },
+    {
+      "en": "It's the last word of the book.",
+      "uk": "Це останнє слово в книжці.",
+      "fr": "C'est le dernier mot du livre.",
+      "vocab": [
+        { "fr": "dernier / dernière", "en": "last", "uk": "останній / остання" },
+        { "fr": "le mot", "en": "the word", "uk": "слово" }
+      ]
+    },
+    {
+      "en": "I have so much work and so little time; it's not fair!",
+      "uk": "У мене стільки роботи і так мало часу — це несправедливо!",
+      "fr": "J'ai tant de travail et si peu de temps, ce n'est pas juste!",
+      "vocab": [
+        { "fr": "tant", "en": "so much / so many", "uk": "так багато, стільки" },
+        { "fr": "peu", "en": "little / not much", "uk": "мало, небагато" },
+        { "fr": "juste", "en": "fair / just / right", "uk": "справедливий / саме, якраз / правильний" }
+      ]
+    },
+    {
+      "en": "I feel unwell; can you help me? (informal)",
+      "uk": "Мені погано, ти можеш мені допомогти?",
+      "fr": "Je me sens mal, est-ce que tu peux m'aider?",
+      "vocab": [
+        { "fr": "mal", "en": "badly / bad", "uk": "погано / поганий" },
+        { "fr": "aider", "en": "to help", "uk": "допомагати" },
+        { "fr": "se sentir", "en": "to feel", "uk": "почуватися" }
+      ]
+    },
+    {
+      "en": "Are you with them or against them? (informal)",
+      "uk": "Ти з ними чи проти них?",
+      "fr": "Est-ce que tu es avec eux ou contre eux?",
+      "vocab": [
+        { "fr": "eux", "en": "them (stressed)", "uk": "вони, їх (наголошене)" },
+        { "fr": "contre", "en": "against", "uk": "проти" }
+      ]
+    },
+    {
+      "en": "Listen to her; she's right! (informal)",
+      "uk": "Послухай її — вона має рацію!",
+      "fr": "Écoute-la, elle a raison!",
+      "vocab": [
+        { "fr": "écouter", "en": "to listen (to)", "uk": "слухати" },
+        { "fr": "la raison", "en": "the reason (avoir raison = to be right)", "uk": "причина (avoir raison = мати рацію)" },
+        { "fr": "avoir raison", "en": "to be right", "uk": "мати рацію" }
+      ]
+    },
+    {
+      "en": "The old lady carries a bottle of water and pulls her suitcase.",
+      "uk": "Літня пані несе пляшку води й тягне свою валізу.",
+      "fr": "La vieille dame porte une bouteille d'eau et tire sa valise.",
+      "vocab": [
+        { "fr": "vieux / vieille", "en": "old", "uk": "старий / стара" },
+        { "fr": "porter", "en": "to carry / to wear", "uk": "нести / носити (одяг)" },
+        { "fr": "l'eau (f.)", "en": "the water", "uk": "вода" },
+        { "fr": "tirer", "en": "to pull / to shoot", "uk": "тягнути / стріляти" },
+        { "fr": "la valise", "en": "the suitcase", "uk": "валіза" }
+      ]
+    },
+    {
+      "en": "In fact, there's no room, so we eat on the ground.",
+      "uk": "Насправді місця немає, тож ми їмо на землі.",
+      "fr": "En fait, il n'y a pas de place, alors nous mangeons par terre.",
+      "vocab": [
+        { "fr": "le fait", "en": "the fact", "uk": "факт" },
+        { "fr": "la place", "en": "the place / the seat / the square", "uk": "місце / сидіння / площа" },
+        { "fr": "la terre", "en": "the earth / the ground", "uk": "земля / ґрунт" },
+        { "fr": "en fait", "en": "in fact", "uk": "насправді" },
+        { "fr": "par terre", "en": "on the ground / floor", "uk": "на землі / на підлозі" }
+      ]
+    }
+  ]
+}

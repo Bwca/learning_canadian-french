@@ -1,0 +1,108 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 9: list a1-05, since, people & doors)",
+    "uk": "Vocabulaire de base — базова лексика (набір 9: список a1-05, відколи, люди й двері)"
+  },
+  "exercises": [
+    {
+      "en": "I've been living here for two years, and the people are nice.",
+      "uk": "Я живу тут уже два роки, і люди тут приязні.",
+      "fr": "Je vis ici depuis deux ans et les gens sont gentils.",
+      "vocab": [
+        { "fr": "vivre", "en": "to live", "uk": "жити" },
+        { "fr": "depuis", "en": "since / for (time)", "uk": "з (якогось часу) / протягом" },
+        { "fr": "les gens", "en": "people", "uk": "люди" },
+        { "fr": "gentil / gentille", "en": "nice, kind", "uk": "добрий, приязний" }
+      ]
+    },
+    {
+      "en": "Don't forget to give the book back! (informal)",
+      "uk": "Не забудь повернути книжку!",
+      "fr": "N'oublie pas de rendre le livre!",
+      "vocab": [
+        { "fr": "oublier", "en": "to forget", "uk": "забувати" },
+        { "fr": "rendre", "en": "to give back / to make (rendre heureux)", "uk": "повертати, віддавати / робити (rendre heureux = робити щасливим)" }
+      ]
+    },
+    {
+      "en": "We eat during the break, and we come home at four o'clock.",
+      "uk": "Ми їмо під час перерви, а додому повертаємося о четвертій.",
+      "fr": "Nous mangeons pendant la pause et nous rentrons à quatre heures.",
+      "vocab": [
+        { "fr": "manger", "en": "to eat", "uk": "їсти" },
+        { "fr": "pendant", "en": "during", "uk": "під час" },
+        { "fr": "rentrer", "en": "to come home / to go back in", "uk": "повертатися додому / заходити назад" },
+        { "fr": "la pause", "en": "the break", "uk": "перерва" }
+      ]
+    },
+    {
+      "en": "She is young and wants to become a doctor.",
+      "uk": "Вона молода і хоче стати лікаркою.",
+      "fr": "Elle est jeune et elle veut devenir médecin.",
+      "vocab": [
+        { "fr": "jeune", "en": "young", "uk": "молодий" },
+        { "fr": "devenir", "en": "to become", "uk": "ставати" },
+        { "fr": "le médecin", "en": "the doctor", "uk": "лікар" }
+      ]
+    },
+    {
+      "en": "Try to say my name! (informal)",
+      "uk": "Спробуй вимовити моє ім'я!",
+      "fr": "Essaie de dire mon nom!",
+      "vocab": [
+        { "fr": "essayer", "en": "to try", "uk": "пробувати, намагатися" },
+        { "fr": "le nom", "en": "the name", "uk": "ім'я, назва" },
+        { "fr": "essayer de", "en": "to try to", "uk": "намагатися" }
+      ]
+    },
+    {
+      "en": "Open the door, I can hear a voice! (informal)",
+      "uk": "Відчини двері, я чую голос!",
+      "fr": "Ouvre la porte, j'entends une voix!",
+      "vocab": [
+        { "fr": "ouvrir", "en": "to open", "uk": "відчиняти" },
+        { "fr": "la porte", "en": "the door", "uk": "двері" },
+        { "fr": "la voix", "en": "the voice", "uk": "голос" }
+      ]
+    },
+    {
+      "en": "Someone always loses the keys.",
+      "uk": "Хтось постійно губить ключі.",
+      "fr": "Quelqu'un perd toujours les clés.",
+      "vocab": [
+        { "fr": "quelqu'un", "en": "someone", "uk": "хтось" },
+        { "fr": "perdre", "en": "to lose", "uk": "губити, втрачати" }
+      ]
+    },
+    {
+      "en": "The children play in front of the house.",
+      "uk": "Діти граються перед будинком.",
+      "fr": "Les enfants jouent devant la maison.",
+      "vocab": [
+        { "fr": "jouer", "en": "to play", "uk": "грати" },
+        { "fr": "devant", "en": "in front of", "uk": "перед" }
+      ]
+    },
+    {
+      "en": "Ah, you're afraid of death? (informal)",
+      "uk": "А, ти боїшся смерті?",
+      "fr": "Ah, tu as peur de la mort?",
+      "vocab": [
+        { "fr": "ah", "en": "ah", "uk": "а, ах" },
+        { "fr": "la peur", "en": "the fear (avoir peur = to be afraid)", "uk": "страх (avoir peur = боятися)" },
+        { "fr": "la mort", "en": "the death / (le mort = dead person)", "uk": "смерть / (le mort = мертвий, покійник)" },
+        { "fr": "avoir peur de", "en": "to be afraid of", "uk": "боятися" }
+      ]
+    },
+    {
+      "en": "I like this love song.",
+      "uk": "Мені подобається ця пісня про кохання.",
+      "fr": "Cette chanson d'amour me plaît.",
+      "vocab": [
+        { "fr": "plaire", "en": "to please (ça me plaît = I like it)", "uk": "подобатися (ça me plaît = мені це подобається)" },
+        { "fr": "l'amour (m.)", "en": "the love", "uk": "кохання, любов" },
+        { "fr": "la chanson", "en": "the song", "uk": "пісня" }
+      ]
+    }
+  ]
+}

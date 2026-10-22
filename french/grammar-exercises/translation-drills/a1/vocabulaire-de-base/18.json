@@ -1,0 +1,109 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 18: list a1-09, truth, rights & the police)",
+    "uk": "Vocabulaire de base — базова лексика (набір 18: список a1-09, правда, права й поліція)"
+  },
+  "exercises": [
+    {
+      "en": "The police are looking for the weapon everywhere.",
+      "uk": "Поліція скрізь шукає зброю.",
+      "fr": "La police cherche l'arme partout.",
+      "vocab": [
+        { "fr": "la police", "en": "the police", "uk": "поліція" },
+        { "fr": "l'arme (f.)", "en": "the weapon", "uk": "зброя" },
+        { "fr": "partout", "en": "everywhere", "uk": "скрізь" }
+      ]
+    },
+    {
+      "en": "He's telling the truth, but nobody recognizes him.",
+      "uk": "Він каже правду, але ніхто його не впізнає.",
+      "fr": "Il dit la vérité, mais personne ne le reconnaît.",
+      "vocab": [
+        { "fr": "la vérité", "en": "the truth", "uk": "правда" },
+        { "fr": "reconnaître", "en": "to recognize", "uk": "впізнавати / визнавати" }
+      ]
+    },
+    {
+      "en": "You have the right to cry. (informal)",
+      "uk": "Ти маєш право плакати.",
+      "fr": "Tu as le droit de pleurer.",
+      "vocab": [
+        { "fr": "le droit", "en": "the right / the law", "uk": "право / закон" },
+        { "fr": "pleurer", "en": "to cry", "uk": "плакати" }
+      ]
+    },
+    {
+      "en": "My parents allow me to go to the movies.",
+      "uk": "Батьки дозволяють мені піти в кіно.",
+      "fr": "Mes parents me permettent d'aller au cinéma.",
+      "vocab": [
+        { "fr": "permettre", "en": "to allow", "uk": "дозволяти" },
+        { "fr": "le cinéma", "en": "the movies, the cinema", "uk": "кіно" }
+      ]
+    },
+    {
+      "en": "Somebody's knocking at the door and shouting.",
+      "uk": "Хтось стукає у двері й кричить.",
+      "fr": "Quelqu'un frappe à la porte et crie.",
+      "vocab": [
+        { "fr": "frapper", "en": "to hit / to knock", "uk": "бити / стукати" },
+        { "fr": "crier", "en": "to shout", "uk": "кричати" }
+      ]
+    },
+    {
+      "en": "The bird is flying over the path.",
+      "uk": "Пташка летить над стежкою.",
+      "fr": "L'oiseau vole au-dessus du chemin.",
+      "vocab": [
+        { "fr": "voler", "en": "to fly / to steal", "uk": "літати / красти" },
+        { "fr": "le chemin", "en": "the path / the way", "uk": "шлях, дорога" },
+        { "fr": "l'oiseau (m.)", "en": "the bird", "uk": "пташка" },
+        { "fr": "au-dessus de", "en": "over, above", "uk": "над" }
+      ]
+    },
+    {
+      "en": "At your age, you need to prepare your own lunch. (informal)",
+      "uk": "У твоєму віці треба самому готувати собі обід.",
+      "fr": "À ton âge, tu dois préparer ton propre dîner.",
+      "vocab": [
+        { "fr": "l'âge (m.)", "en": "the age", "uk": "вік" },
+        { "fr": "préparer", "en": "to prepare", "uk": "готувати" },
+        { "fr": "propre", "en": "clean / own (ma propre voiture = my own car)", "uk": "чистий / власний (ma propre voiture = моя власна машина)" },
+        { "fr": "le dîner", "en": "lunch (Québec)", "uk": "обід (у Квебеку)" }
+      ]
+    },
+    {
+      "en": "Can you do me a favour and bring the game? (informal)",
+      "uk": "Можеш зробити мені послугу й принести гру?",
+      "fr": "Est-ce que tu peux me rendre un service et apporter le jeu?",
+      "vocab": [
+        { "fr": "le service", "en": "the service / the favour", "uk": "послуга, обслуговування / ласка" },
+        { "fr": "apporter", "en": "to bring", "uk": "приносити" },
+        { "fr": "le jeu", "en": "the game", "uk": "гра" },
+        { "fr": "rendre un service", "en": "to do a favour", "uk": "зробити послугу" }
+      ]
+    },
+    {
+      "en": "In the middle of the film, the hero disappears.",
+      "uk": "Посеред фільму герой зникає.",
+      "fr": "Au milieu du film, le héros disparaît.",
+      "vocab": [
+        { "fr": "le milieu", "en": "the middle", "uk": "середина" },
+        { "fr": "le film", "en": "the film / the movie", "uk": "фільм" },
+        { "fr": "disparaître", "en": "to disappear", "uk": "зникати" },
+        { "fr": "le héros", "en": "the hero", "uk": "герой" }
+      ]
+    },
+    {
+      "en": "The doctor discovers that my leg is broken, but he's going to save it.",
+      "uk": "Лікар виявляє, що в мене зламана нога, але він її врятує.",
+      "fr": "Le médecin découvre que ma jambe est cassée, mais il va la sauver.",
+      "vocab": [
+        { "fr": "découvrir", "en": "to discover", "uk": "відкривати, виявляти" },
+        { "fr": "la jambe", "en": "the leg", "uk": "нога" },
+        { "fr": "sauver", "en": "to save / to rescue", "uk": "рятувати" },
+        { "fr": "cassé / cassée", "en": "broken", "uk": "зламаний / зламана" }
+      ]
+    }
+  ]
+}

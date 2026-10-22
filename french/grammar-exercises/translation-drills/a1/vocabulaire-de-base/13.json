@@ -1,0 +1,108 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 13: list a1-07, trains, weeks & stories)",
+    "uk": "Vocabulaire de base — базова лексика (набір 13: список a1-07, потяги, тижні й історії)"
+  },
+  "exercises": [
+    {
+      "en": "Tomorrow, I'm taking the train and getting off in Quebec City.",
+      "uk": "Завтра я їду потягом і виходжу в Квебеку.",
+      "fr": "Demain, je prends le train et je descends à Québec.",
+      "vocab": [
+        { "fr": "demain", "en": "tomorrow", "uk": "завтра" },
+        { "fr": "le train", "en": "the train", "uk": "потяг" },
+        { "fr": "descendre", "en": "to go down / to get off", "uk": "спускатися / виходити (з транспорту)" },
+        { "fr": "Québec", "en": "Quebec City", "uk": "місто Квебек" }
+      ]
+    },
+    {
+      "en": "Keep the white shirt; I'm taking this one. (informal)",
+      "uk": "Залиш собі білу сорочку, а я беру цю.",
+      "fr": "Garde la chemise blanche, je prends celle-ci.",
+      "vocab": [
+        { "fr": "garder", "en": "to keep", "uk": "зберігати, тримати" },
+        { "fr": "blanc / blanche", "en": "white", "uk": "білий / біла" },
+        { "fr": "celui / celle", "en": "the one (celui-ci = this one)", "uk": "той / та (celui-ci = цей)" },
+        { "fr": "la chemise", "en": "the shirt", "uk": "сорочка" }
+      ]
+    },
+    {
+      "en": "He's leaving his job at the end of the week.",
+      "uk": "Наприкінці тижня він іде з роботи.",
+      "fr": "Il quitte son travail à la fin de la semaine.",
+      "vocab": [
+        { "fr": "quitter", "en": "to leave (a place / a person)", "uk": "залишати, покидати (місце / людину)" },
+        { "fr": "la fin", "en": "the end", "uk": "кінець" },
+        { "fr": "la semaine", "en": "the week", "uk": "тиждень" }
+      ]
+    },
+    {
+      "en": "Turn right at the traffic light! (informal)",
+      "uk": "Поверни праворуч на світлофорі!",
+      "fr": "Tourne à droite au feu!",
+      "vocab": [
+        { "fr": "tourner", "en": "to turn", "uk": "повертати, крутити" },
+        { "fr": "le feu", "en": "the fire / the traffic light", "uk": "вогонь / світлофор" },
+        { "fr": "à droite", "en": "to the right", "uk": "праворуч" }
+      ]
+    },
+    {
+      "en": "The table is full of books.",
+      "uk": "Стіл завалений книжками.",
+      "fr": "La table est pleine de livres.",
+      "vocab": [
+        { "fr": "plein / pleine", "en": "full", "uk": "повний / повна" },
+        { "fr": "la table", "en": "the table", "uk": "стіл" },
+        { "fr": "le livre", "en": "the book (la livre = pound)", "uk": "книжка (la livre = фунт)" }
+      ]
+    },
+    {
+      "en": "My grandfather tells stories about the war.",
+      "uk": "Мій дідусь розповідає історії про війну.",
+      "fr": "Mon grand-père raconte des histoires de la guerre.",
+      "vocab": [
+        { "fr": "raconter", "en": "to tell (a story)", "uk": "розповідати" },
+        { "fr": "la guerre", "en": "the war", "uk": "війна" }
+      ]
+    },
+    {
+      "en": "Hey, come right away; I'm at the end of the street! (informal)",
+      "uk": "Гей, іди сюди негайно, я в кінці вулиці!",
+      "fr": "Eh, viens tout de suite, je suis au bout de la rue!",
+      "vocab": [
+        { "fr": "eh", "en": "hey", "uk": "гей" },
+        { "fr": "la suite", "en": "the rest / the sequel (tout de suite = right away)", "uk": "решта / продовження (tout de suite = негайно)" },
+        { "fr": "le bout", "en": "the end / the tip / the bit", "uk": "кінець / кінчик / шматочок" },
+        { "fr": "tout de suite", "en": "right away", "uk": "негайно" }
+      ]
+    },
+    {
+      "en": "I'm sending you a message in a minute. (informal)",
+      "uk": "За хвилину надішлю тобі повідомлення.",
+      "fr": "Je t'envoie un message dans une minute.",
+      "vocab": [
+        { "fr": "envoyer", "en": "to send", "uk": "надсилати" },
+        { "fr": "la minute", "en": "the minute", "uk": "хвилина" }
+      ]
+    },
+    {
+      "en": "Do you remember that boy? (informal)",
+      "uk": "Ти пам'ятаєш того хлопця?",
+      "fr": "Est-ce que tu te souviens de ce garçon?",
+      "vocab": [
+        { "fr": "se souvenir (de)", "en": "to remember", "uk": "пам'ятати, згадувати" },
+        { "fr": "le garçon", "en": "the boy", "uk": "хлопчик" }
+      ]
+    },
+    {
+      "en": "Don't throw your things on the bed! (informal)",
+      "uk": "Не кидай свої речі на ліжко!",
+      "fr": "Ne jette pas tes affaires sur le lit!",
+      "vocab": [
+        { "fr": "jeter", "en": "to throw (away)", "uk": "кидати / викидати" },
+        { "fr": "le lit", "en": "the bed", "uk": "ліжко" },
+        { "fr": "les affaires (f.)", "en": "things, belongings", "uk": "речі" }
+      ]
+    }
+  ]
+}

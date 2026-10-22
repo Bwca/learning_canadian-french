@@ -1,0 +1,109 @@
+{
+  "title": {
+    "en": "Vocabulaire de base — core words (set 17: list a1-09, school, the sea & a pretty day)",
+    "uk": "Vocabulaire de base — базова лексика (набір 17: список a1-09, школа, море й гарний день)"
+  },
+  "exercises": [
+    {
+      "en": "First, I'm taking my sister to school.",
+      "uk": "Спершу я відвожу сестру до школи.",
+      "fr": "D'abord, j'emmène ma sœur à l'école.",
+      "vocab": [
+        { "fr": "d'abord", "en": "first (of all)", "uk": "спершу, насамперед" },
+        { "fr": "emmener", "en": "to take (someone somewhere)", "uk": "забирати, везти (когось кудись)" },
+        { "fr": "la sœur", "en": "the sister", "uk": "сестра" },
+        { "fr": "l'école (f.)", "en": "the school", "uk": "школа" }
+      ]
+    },
+    {
+      "en": "Dad is putting the children to bed, then he's going to bed.",
+      "uk": "Тато вкладає дітей спати, а потім лягає сам.",
+      "fr": "Papa couche les enfants, puis il se couche.",
+      "vocab": [
+        { "fr": "le papa", "en": "dad", "uk": "тато" },
+        { "fr": "coucher", "en": "to put to bed (se coucher = to go to bed)", "uk": "вкладати спати (se coucher = лягати спати)" }
+      ]
+    },
+    {
+      "en": "Open the window; there's too much noise in the room! (informal)",
+      "uk": "Відчини вікно — у залі надто шумно!",
+      "fr": "Ouvre la fenêtre, il y a trop de bruit dans la salle!",
+      "vocab": [
+        { "fr": "la fenêtre", "en": "the window", "uk": "вікно" },
+        { "fr": "le bruit", "en": "the noise", "uk": "шум" },
+        { "fr": "la salle", "en": "the room / the hall", "uk": "зала, кімната" },
+        { "fr": "ouvrir", "en": "to open", "uk": "відчиняти" }
+      ]
+    },
+    {
+      "en": "Soon, we're going to the sea for the day.",
+      "uk": "Незабаром ми їдемо на море на цілий день.",
+      "fr": "Bientôt, on va à la mer pour la journée.",
+      "vocab": [
+        { "fr": "bientôt", "en": "soon", "uk": "незабаром" },
+        { "fr": "la mer", "en": "the sea", "uk": "море" },
+        { "fr": "la journée", "en": "the day (daytime)", "uk": "день (світла частина доби)" }
+      ]
+    },
+    {
+      "en": "Yesterday's bread is hard.",
+      "uk": "Учорашній хліб черствий.",
+      "fr": "Le pain d'hier est dur.",
+      "vocab": [
+        { "fr": "hier", "en": "yesterday", "uk": "вчора" },
+        { "fr": "dur / dure", "en": "hard", "uk": "твердий / тверда, важкий" },
+        { "fr": "le pain", "en": "the bread", "uk": "хліб" }
+      ]
+    },
+    {
+      "en": "Her red dress is so pretty!",
+      "uk": "Її червона сукня така гарна!",
+      "fr": "Sa robe rouge est tellement jolie!",
+      "vocab": [
+        { "fr": "rouge", "en": "red", "uk": "червоний" },
+        { "fr": "tellement", "en": "so / so much", "uk": "так / настільки" },
+        { "fr": "joli / jolie", "en": "pretty", "uk": "гарний / гарна, симпатичний" },
+        { "fr": "la robe", "en": "the dress", "uk": "сукня" }
+      ]
+    },
+    {
+      "en": "The coffee is expensive in this café, but it's a nice place.",
+      "uk": "Кава в цій кав'ярні дорога, але це гарне місце.",
+      "fr": "Le café est cher dans ce café, mais c'est un bel endroit.",
+      "vocab": [
+        { "fr": "le café", "en": "the coffee / the café", "uk": "кава / кав'ярня" },
+        { "fr": "cher / chère", "en": "expensive / dear", "uk": "дорогий / дорога" },
+        { "fr": "l'endroit (m.)", "en": "the place / the spot", "uk": "місце" },
+        { "fr": "beau / bel / belle", "en": "beautiful, nice", "uk": "гарний / гарна" }
+      ]
+    },
+    {
+      "en": "Hi! Are you French? (informal, to a woman)",
+      "uk": "Привіт! Ти француженка?",
+      "fr": "Salut! Est-ce que tu es française?",
+      "vocab": [
+        { "fr": "salut", "en": "hi / bye (informal)", "uk": "привіт / бувай (неформально)" },
+        { "fr": "français / française", "en": "French", "uk": "французький / французька, француз" }
+      ]
+    },
+    {
+      "en": "The old man smiles at the children in the park.",
+      "uk": "Старий усміхається дітям у парку.",
+      "fr": "Le vieux sourit aux enfants dans le parc.",
+      "vocab": [
+        { "fr": "le vieux / la vieille", "en": "the old man / the old woman", "uk": "старий / стара (людина)" },
+        { "fr": "sourire", "en": "to smile", "uk": "усміхатися" },
+        { "fr": "le parc", "en": "the park", "uk": "парк" }
+      ]
+    },
+    {
+      "en": "I'm the first one to arrive at the office.",
+      "uk": "Я першим приходжу в офіс.",
+      "fr": "Je suis le premier à arriver au bureau.",
+      "vocab": [
+        { "fr": "le premier / la première", "en": "the first (one)", "uk": "перший / перша" },
+        { "fr": "le bureau", "en": "the office / the desk", "uk": "офіс, кабінет / письмовий стіл" }
+      ]
+    }
+  ]
+}
