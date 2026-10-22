@@ -1,0 +1,70 @@
+{
+  "title": "Avoir — expressions with avoir (set 2: right, wrong & lucky)",
+  "exercises": [
+    {
+      "en": "You're right. (informal)",
+      "fr": "Tu as raison.",
+      "vocab": [
+        { "fr": "avoir raison", "en": "to be right" }
+      ]
+    },
+    {
+      "en": "He is wrong.",
+      "fr": "Il a tort.",
+      "vocab": [
+        { "fr": "avoir tort", "en": "to be wrong" }
+      ]
+    },
+    {
+      "en": "We are lucky.",
+      "fr": "Nous avons de la chance.",
+      "vocab": [
+        { "fr": "avoir de la chance", "en": "to be lucky" }
+      ]
+    },
+    {
+      "en": "I'm lucky to meet you. (informal)",
+      "fr": "J'ai la chance de te rencontrer.",
+      "vocab": [
+        { "fr": "avoir la chance de", "en": "to be lucky to" },
+        { "fr": "rencontrer", "en": "to meet" }
+      ]
+    },
+    {
+      "en": "You are wrong. (formal)",
+      "fr": "Vous avez tort.",
+      "vocab": []
+    },
+    {
+      "en": "My mother is always right.",
+      "fr": "Ma mère a toujours raison.",
+      "vocab": [
+        { "fr": "toujours", "en": "always" }
+      ]
+    },
+    {
+      "en": "They (masc.) are not lucky.",
+      "fr": "Ils n'ont pas de chance.",
+      "vocab": [
+        { "fr": "pas de chance", "en": "no luck (de la → de after pas)" }
+      ]
+    },
+    {
+      "en": "She is lucky to live in Québec.",
+      "fr": "Elle a la chance d'habiter au Québec.",
+      "vocab": [
+        { "fr": "habiter", "en": "to live" }
+      ]
+    },
+    {
+      "en": "Am I right?",
+      "fr": "Est-ce que j'ai raison?",
+      "vocab": []
+    },
+    {
+      "en": "You're not wrong. (informal)",
+      "fr": "Tu n'as pas tort.",
+      "vocab": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Avoir — expressions with avoir (set 4: aches & things that are hard)",
+  "exercises": [
+    {
+      "en": "I have a headache.",
+      "fr": "J'ai mal à la tête.",
+      "vocab": [
+        { "fr": "avoir mal à", "en": "to have a pain in" },
+        { "fr": "tête", "en": "head" }
+      ]
+    },
+    {
+      "en": "He has a toothache.",
+      "fr": "Il a mal aux dents.",
+      "vocab": [
+        { "fr": "dent", "en": "tooth" }
+      ]
+    },
+    {
+      "en": "She has a sore back.",
+      "fr": "Elle a mal au dos.",
+      "vocab": [
+        { "fr": "dos", "en": "back" }
+      ]
+    },
+    {
+      "en": "Where does it hurt? (informal)",
+      "fr": "Où est-ce que tu as mal?",
+      "vocab": []
+    },
+    {
+      "en": "I'm seasick.",
+      "fr": "J'ai le mal de mer.",
+      "vocab": [
+        { "fr": "avoir le mal de mer", "en": "to be seasick" }
+      ]
+    },
+    {
+      "en": "I find it hard to learn French.",
+      "fr": "J'ai du mal à apprendre le français.",
+      "vocab": [
+        { "fr": "avoir du mal à", "en": "to find it hard to" },
+        { "fr": "apprendre", "en": "to learn" }
+      ]
+    },
+    {
+      "en": "We find it hard to sleep.",
+      "fr": "Nous avons du mal à dormir.",
+      "vocab": [
+        { "fr": "dormir", "en": "to sleep" }
+      ]
+    },
+    {
+      "en": "He has a hard time understanding. (Québec)",
+      "fr": "Il a de la misère à comprendre.",
+      "vocab": [
+        { "fr": "avoir de la misère à", "en": "to have a hard time (Québec)" },
+        { "fr": "comprendre", "en": "to understand" }
+      ]
+    },
+    {
+      "en": "My feet hurt.",
+      "fr": "J'ai mal aux pieds.",
+      "vocab": [
+        { "fr": "pied", "en": "foot" }
+      ]
+    },
+    {
+      "en": "Do you have a stomach ache? (formal)",
+      "fr": "Est-ce que vous avez mal au ventre?",
+      "vocab": [
+        { "fr": "ventre", "en": "stomach" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Avoir — expressions with avoir (set 5: habits, trust, shame & hate)",
+  "exercises": [
+    {
+      "en": "I'm used to watching TV.",
+      "fr": "J'ai l'habitude de regarder la télé.",
+      "vocab": [
+        { "fr": "avoir l'habitude de", "en": "to be used to" },
+        { "fr": "télé", "en": "TV" }
+      ]
+    },
+    {
+      "en": "We're used to the cold.",
+      "fr": "Nous avons l'habitude du froid.",
+      "vocab": [
+        { "fr": "du", "en": "de + le" }
+      ]
+    },
+    {
+      "en": "I trust you. (informal)",
+      "fr": "J'ai confiance en toi.",
+      "vocab": [
+        { "fr": "avoir confiance en", "en": "to trust" }
+      ]
+    },
+    {
+      "en": "She trusts her brother.",
+      "fr": "Elle a confiance en son frère.",
+      "vocab": []
+    },
+    {
+      "en": "He is ashamed.",
+      "fr": "Il a honte.",
+      "vocab": [
+        { "fr": "avoir honte", "en": "to be ashamed" }
+      ]
+    },
+    {
+      "en": "I'm ashamed of you. (informal)",
+      "fr": "J'ai honte de toi.",
+      "vocab": []
+    },
+    {
+      "en": "I hate horror movies.",
+      "fr": "J'ai horreur des films d'horreur.",
+      "vocab": [
+        { "fr": "avoir horreur de", "en": "to hate, to loathe" },
+        { "fr": "film d'horreur", "en": "horror movie" }
+      ]
+    },
+    {
+      "en": "They (masc.) hate the snow.",
+      "fr": "Ils ont horreur de la neige.",
+      "vocab": [
+        { "fr": "neige", "en": "snow" }
+      ]
+    },
+    {
+      "en": "I'm twenty years old.",
+      "fr": "J'ai vingt ans.",
+      "vocab": [
+        { "fr": "avoir … ans", "en": "to be … years old" }
+      ]
+    },
+    {
+      "en": "Do you trust me? (formal)",
+      "fr": "Est-ce que vous avez confiance en moi?",
+      "vocab": []
+    }
+  ]
+}

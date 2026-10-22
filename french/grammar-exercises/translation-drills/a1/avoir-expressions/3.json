@@ -1,0 +1,77 @@
+{
+  "title": "Avoir — expressions with avoir (set 3: needing, wanting & looking forward)",
+  "exercises": [
+    {
+      "en": "I need help.",
+      "fr": "J'ai besoin d'aide.",
+      "vocab": [
+        { "fr": "avoir besoin de", "en": "to need" },
+        { "fr": "aide", "en": "help" }
+      ]
+    },
+    {
+      "en": "We need a car.",
+      "fr": "Nous avons besoin d'une voiture.",
+      "vocab": [
+        { "fr": "voiture", "en": "car" }
+      ]
+    },
+    {
+      "en": "I feel like eating an ice cream.",
+      "fr": "J'ai envie de manger une crème glacée.",
+      "vocab": [
+        { "fr": "avoir envie de", "en": "to feel like" },
+        { "fr": "crème glacée", "en": "ice cream (France: glace)" }
+      ]
+    },
+    {
+      "en": "She feels like dancing.",
+      "fr": "Elle a envie de danser.",
+      "vocab": [
+        { "fr": "danser", "en": "to dance" }
+      ]
+    },
+    {
+      "en": "I can't wait!",
+      "fr": "J'ai hâte!",
+      "vocab": [
+        { "fr": "avoir hâte", "en": "can't wait / to look forward" }
+      ]
+    },
+    {
+      "en": "We can't wait to see you. (informal)",
+      "fr": "Nous avons hâte de te voir.",
+      "vocab": [
+        { "fr": "voir", "en": "to see" }
+      ]
+    },
+    {
+      "en": "Do you feel like going to the movies? (informal, Québec, with goût)",
+      "fr": "Est-ce que tu as le goût d'aller au cinéma?",
+      "vocab": [
+        { "fr": "avoir le goût de", "en": "to feel like (Québec)" },
+        { "fr": "cinéma", "en": "movies" }
+      ]
+    },
+    {
+      "en": "He needs to sleep.",
+      "fr": "Il a besoin de dormir.",
+      "vocab": [
+        { "fr": "dormir", "en": "to sleep" }
+      ]
+    },
+    {
+      "en": "I don't feel like working today.",
+      "fr": "Je n'ai pas envie de travailler aujourd'hui.",
+      "vocab": []
+    },
+    {
+      "en": "The children can't wait to play outside.",
+      "fr": "Les enfants ont hâte de jouer dehors.",
+      "vocab": [
+        { "fr": "jouer", "en": "to play" },
+        { "fr": "dehors", "en": "outside" }
+      ]
+    }
+  ]
+}

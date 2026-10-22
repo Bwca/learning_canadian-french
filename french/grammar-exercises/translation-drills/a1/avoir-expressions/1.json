@@ -1,0 +1,67 @@
+{
+  "title": "Avoir — expressions with avoir (set 1: hungry, thirsty, hot, cold, sleepy, scared)",
+  "exercises": [
+    {
+      "en": "I'm hungry.",
+      "fr": "J'ai faim.",
+      "vocab": [
+        { "fr": "avoir faim", "en": "to be hungry" }
+      ]
+    },
+    {
+      "en": "Are you thirsty? (informal)",
+      "fr": "Est-ce que tu as soif?",
+      "vocab": [
+        { "fr": "avoir soif", "en": "to be thirsty" }
+      ]
+    },
+    {
+      "en": "We are cold.",
+      "fr": "Nous avons froid.",
+      "vocab": [
+        { "fr": "avoir froid", "en": "to be (feel) cold" }
+      ]
+    },
+    {
+      "en": "She is hot.",
+      "fr": "Elle a chaud.",
+      "vocab": [
+        { "fr": "avoir chaud", "en": "to be (feel) hot" }
+      ]
+    },
+    {
+      "en": "The children are sleepy.",
+      "fr": "Les enfants ont sommeil.",
+      "vocab": [
+        { "fr": "avoir sommeil", "en": "to be sleepy" }
+      ]
+    },
+    {
+      "en": "He is scared of dogs.",
+      "fr": "Il a peur des chiens.",
+      "vocab": [
+        { "fr": "avoir peur de", "en": "to be scared of" }
+      ]
+    },
+    {
+      "en": "I'm not hungry.",
+      "fr": "Je n'ai pas faim.",
+      "vocab": []
+    },
+    {
+      "en": "Are you cold? (formal)",
+      "fr": "Est-ce que vous avez froid?",
+      "vocab": []
+    },
+    {
+      "en": "They (fem.) are thirsty.",
+      "fr": "Elles ont soif.",
+      "vocab": []
+    },
+    {
+      "en": "I'm not scared.",
+      "fr": "Je n'ai pas peur.",
+      "vocab": []
+    }
+  ]
+}
