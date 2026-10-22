@@ -1,15 +1,15 @@
-est-ce que… ?	is it that…? (turns a statement into a yes/no question)	[sound:is-it-that-turns-a-statement-into-a-yes-no-question.webm]	/ɛs kə/
-est-ce que tu es français ?	are you French?	[sound:are-you-french.webm]	/ɛs kə ty ɛ fʁɑ̃sɛ/
-est-ce que tu viens au cinéma avec nous ce soir ?	are you coming to the movies with us tonight?	[sound:are-you-coming-to-the-movies-with-us-tonight.webm]	/ɛs kə ty vjɛ̃ o sinema avɛk nu sə swaʁ/
-est-ce que vous mangez au restaurant aujourd'hui ?	are you eating at the restaurant today?	[sound:are-you-eating-at-the-restaurant-today.webm]	/ɛs kə vu mɑ̃ʒe o ʁɛstɔʁɑ̃ oʒuʁdɥi/
-est-ce que les enfants sont allés à la piscine hier ?	did the children go to the swimming pool yesterday?	[sound:did-the-children-go-to-the-swimming-pool-yesterday.webm]	/ɛs kə lez ɑ̃fɑ̃ sɔ̃t ale a la pisin jɛʁ/
-est-ce qu'elles ont fini leurs devoirs ?	have they finished their homework?	[sound:have-they-finished-their-homework.webm]	/ɛs kɛlz ɔ̃ fini lœʁ dəvwaʁ/
-est-ce que tu aimes les pommes ?	do you like apples?	[sound:do-you-like-apples.webm]	/ɛs kə ty ɛm le pɔm/
-est-ce que tu as un frère ?	do you have a brother?	[sound:do-you-have-a-brother.webm]	/ɛs kə ty a œ̃ fʁɛʁ/
-est-ce que tu as mangé tes légumes ?	have you eaten your vegetables?	[sound:have-you-eaten-your-vegetables.webm]	/ɛs kə ty a mɑ̃ʒe te leɡym/
-tu as un frère ?	do you have a brother? (rising intonation, no est-ce que)	[sound:do-you-have-a-brother-rising-intonation-no-est-ce-que.webm]	/ty a œ̃ fʁɛʁ/
-tu viens-tu au cinéma ?	are you coming to the movies? (Québec, informal: -tu marks the question)	[sound:are-you-coming-to-the-movies-quebec-informal-tu-marks-the-qu.webm]	/ty vjɛ̃ ty o sinema/
-quand est-ce que… ?	when…?	[sound:when.webm]	/kɑ̃t ɛs kə/
-comment est-ce que… ?	how…?	[sound:how.webm]	/kɔmɑ̃ ɛs kə/
-pourquoi est-ce que… ?	why…?	[sound:why.webm]	/puʁkwa ɛs kə/
-où est-ce que… ?	where…?	[sound:where.webm]	/u ɛs kə/
+est-ce que… ?	is it that…? (turns a statement into a yes/no question)	[sound:is-it-that-turns-a-statement-into-a-yes-no-question.webm]	/ɛs kə/	чи…? (робить із твердження загальне питання)
+est-ce que tu es français ?	are you French?	[sound:are-you-french.webm]	/ɛs kə ty ɛ fʁɑ̃sɛ/	ти француз?
+est-ce que tu viens au cinéma avec nous ce soir ?	are you coming to the movies with us tonight?	[sound:are-you-coming-to-the-movies-with-us-tonight.webm]	/ɛs kə ty vjɛ̃ o sinema avɛk nu sə swaʁ/	ти підеш із нами сьогодні ввечері в кіно?
+est-ce que vous mangez au restaurant aujourd'hui ?	are you eating at the restaurant today?	[sound:are-you-eating-at-the-restaurant-today.webm]	/ɛs kə vu mɑ̃ʒe o ʁɛstɔʁɑ̃ oʒuʁdɥi/	ви сьогодні обідаєте в ресторані?
+est-ce que les enfants sont allés à la piscine hier ?	did the children go to the swimming pool yesterday?	[sound:did-the-children-go-to-the-swimming-pool-yesterday.webm]	/ɛs kə lez ɑ̃fɑ̃ sɔ̃t ale a la pisin jɛʁ/	діти ходили вчора в басейн?
+est-ce qu'elles ont fini leurs devoirs ?	have they finished their homework?	[sound:have-they-finished-their-homework.webm]	/ɛs kɛlz ɔ̃ fini lœʁ dəvwaʁ/	вони (жін.) зробили домашнє завдання?
+est-ce que tu aimes les pommes ?	do you like apples?	[sound:do-you-like-apples.webm]	/ɛs kə ty ɛm le pɔm/	ти любиш яблука?
+est-ce que tu as un frère ?	do you have a brother?	[sound:do-you-have-a-brother.webm]	/ɛs kə ty a œ̃ fʁɛʁ/	у тебе є брат?
+est-ce que tu as mangé tes légumes ?	have you eaten your vegetables?	[sound:have-you-eaten-your-vegetables.webm]	/ɛs kə ty a mɑ̃ʒe te leɡym/	ти з'їв свої овочі?
+tu as un frère ?	do you have a brother? (rising intonation, no est-ce que)	[sound:do-you-have-a-brother-rising-intonation-no-est-ce-que.webm]	/ty a œ̃ fʁɛʁ/	у тебе є брат? (висхідна інтонація, без est-ce que)
+tu viens-tu au cinéma ?	are you coming to the movies? (Québec, informal: -tu marks the question)	[sound:are-you-coming-to-the-movies-quebec-informal-tu-marks-the-qu.webm]	/ty vjɛ̃ ty o sinema/	ти йдеш у кіно? (у Квебеку, неформально: -tu позначає питання)
+quand est-ce que… ?	when…?	[sound:when.webm]	/kɑ̃t ɛs kə/	коли…?
+comment est-ce que… ?	how…?	[sound:how.webm]	/kɔmɑ̃ ɛs kə/	як…?
+pourquoi est-ce que… ?	why…?	[sound:why.webm]	/puʁkwa ɛs kə/	чому…?
+où est-ce que… ?	where…?	[sound:where.webm]	/u ɛs kə/	де…?
