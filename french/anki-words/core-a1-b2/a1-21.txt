@@ -1,50 +1,50 @@
-voisin / voisine	neighbouring / nearby	[sound:neighbouring-nearby.webm]	/vwazɛ̃, vwazin/
-le vélo	the bike	[sound:the-bike.webm]	/lə velo/
-facilement	easily	[sound:easily.webm]	/fasiləmɑ̃/
-le texte	the text	[sound:the-text.webm]	/lə tɛkst/
-gras / grasse	fatty / greasy	[sound:fatty-greasy.webm]	/ɡʁa, ɡʁas/
-l'assurance (f.)	the insurance / the confidence	[sound:the-insurance-the-confidence.webm]	/lasyʁɑ̃s/
-italien / italienne	Italian	[sound:italian.webm]	/italjɛ̃, italjɛn/
-l'activité (f.)	the activity	[sound:the-activity.webm]	/laktivite/
-le ménage	the housework (faire le ménage = to clean)	[sound:the-housework-faire-le-menage-to-clean.webm]	/lə menaʒ/
-le champagne	the champagne	[sound:the-champagne.webm]	/lə ʃɑ̃paɲ/
-août (m.)	August	[sound:august.webm]	/ut/
-le / la peintre	the painter	[sound:the-painter-le-la-peintre.webm]	/lə, la pɛ̃tʁ/
-l'atelier (m.)	the workshop / the studio	[sound:the-workshop-the-studio.webm]	/latəlje/
-le concert	the concert	[sound:the-concert.webm]	/lə kɔ̃sɛʁ/
-composer	to compose / to dial (a number)	[sound:to-compose-to-dial-a-number.webm]	/kɔ̃poze/
-lundi (m.)	Monday	[sound:monday.webm]	/lœ̃di/
-le paradis	the paradise	[sound:the-paradise.webm]	/lə paʁadi/
-le bus	the bus	[sound:the-bus.webm]	/lə bys/
-l'huile (f.)	the oil	[sound:the-oil.webm]	/lɥil/
-l'automne (m.)	the autumn / the fall	[sound:the-autumn-the-fall.webm]	/lotɔn/
-le séjour	the stay / the living room	[sound:the-stay-the-living-room.webm]	/lə seʒuʁ/
-l'accent (m.)	the accent	[sound:the-accent.webm]	/laksɑ̃/
-l'organisation (f.)	the organization	[sound:the-organization.webm]	/lɔʁɡanizasjɔ̃/
-la fonction	the function / the position	[sound:the-function-the-position.webm]	/la fɔ̃ksjɔ̃/
-septembre (m.)	September	[sound:september-septembre-m.webm]	/sɛptɑ̃bʁ/
-futur / future	future	[sound:future.webm]	/fytyʁ/
-juillet (m.)	July	[sound:july.webm]	/ʒɥijɛ/
-le métro	the subway / the metro	[sound:the-subway-the-metro.webm]	/lə metʁo/
-informer	to inform	[sound:to-inform.webm]	/ɛ̃fɔʁme/
-l'identité (f.)	the identity	[sound:the-identity.webm]	/lidɑ̃tite/
-le week-end	the weekend (Québec: la fin de semaine)	[sound:the-weekend-quebec-la-fin-de-semaine.webm]	/lə wikɛnd/
-la génération	the generation	[sound:the-generation.webm]	/la ʒeneʁasjɔ̃/
-le / la prof	the teacher (informal)	[sound:the-teacher-informal.webm]	/lə, la pʁɔf/
-délicieux / délicieuse	delicious	[sound:delicious-delicieux-delicieuse.webm]	/delisjø, delisjøz/
-bravo	well done! / bravo	[sound:well-done-bravo.webm]	/bʁavo/
-la plante	the plant	[sound:the-plant.webm]	/la plɑ̃t/
-bas	low / quietly (parler bas)	[sound:low-quietly-parler-bas.webm]	/ba/
-l'avenue (f.)	the avenue	[sound:the-avenue.webm]	/lavəny/
-le prénom	the first name	[sound:the-first-name.webm]	/lə pʁenɔ̃/
-moderne	modern	[sound:modern.webm]	/mɔdɛʁn/
-l'université (f.)	the university	[sound:the-university.webm]	/lynivɛʁsite/
-la cheminée	the fireplace / the chimney	[sound:the-fireplace-the-chimney.webm]	/la ʃəmine/
-publier	to publish	[sound:to-publish.webm]	/pyblije/
-cher	a lot (cost) (coûter cher = to be expensive)	[sound:a-lot-cost-couter-cher-to-be-expensive.webm]	/ʃɛʁ/
-la planche	the board / the plank	[sound:the-board-the-plank.webm]	/la plɑ̃ʃ/
-la tradition	the tradition	[sound:the-tradition.webm]	/la tʁadisjɔ̃/
-officiel / officielle	official	[sound:official.webm]	/ɔfisjɛl/
-le fromage	the cheese	[sound:the-cheese.webm]	/lə fʁɔmaʒ/
-la messe	the mass (church)	[sound:the-mass-church.webm]	/la mɛs/
-la station	the station (metro / radio)	[sound:the-station-metro-radio.webm]	/la stasjɔ̃/
+voisin / voisine	neighbouring / nearby	[sound:neighbouring-nearby.webm]	/vwazɛ̃, vwazin/	сусідній / сусідня, близький
+le vélo	the bike	[sound:the-bike.webm]	/lə velo/	велосипед
+facilement	easily	[sound:easily.webm]	/fasiləmɑ̃/	легко
+le texte	the text	[sound:the-text.webm]	/lə tɛkst/	текст
+gras / grasse	fatty / greasy	[sound:fatty-greasy.webm]	/ɡʁa, ɡʁas/	жирний / жирна
+l'assurance (f.)	the insurance / the confidence	[sound:the-insurance-the-confidence.webm]	/lasyʁɑ̃s/	страхування / впевненість
+italien / italienne	Italian	[sound:italian.webm]	/italjɛ̃, italjɛn/	італійський / італійська, італієць
+l'activité (f.)	the activity	[sound:the-activity.webm]	/laktivite/	діяльність, заняття
+le ménage	the housework (faire le ménage = to clean)	[sound:the-housework-faire-le-menage-to-clean.webm]	/lə menaʒ/	хатня робота (faire le ménage = прибирати)
+le champagne	the champagne	[sound:the-champagne.webm]	/lə ʃɑ̃paɲ/	шампанське
+août (m.)	August	[sound:august.webm]	/ut/	серпень
+le / la peintre	the painter	[sound:the-painter-le-la-peintre.webm]	/lə, la pɛ̃tʁ/	художник / художниця
+l'atelier (m.)	the workshop / the studio	[sound:the-workshop-the-studio.webm]	/latəlje/	майстерня / студія
+le concert	the concert	[sound:the-concert.webm]	/lə kɔ̃sɛʁ/	концерт
+composer	to compose / to dial (a number)	[sound:to-compose-to-dial-a-number.webm]	/kɔ̃poze/	складати, творити / набирати (номер)
+lundi (m.)	Monday	[sound:monday.webm]	/lœ̃di/	понеділок
+le paradis	the paradise	[sound:the-paradise.webm]	/lə paʁadi/	рай
+le bus	the bus	[sound:the-bus.webm]	/lə bys/	автобус
+l'huile (f.)	the oil	[sound:the-oil.webm]	/lɥil/	олія
+l'automne (m.)	the autumn / the fall	[sound:the-autumn-the-fall.webm]	/lotɔn/	осінь
+le séjour	the stay / the living room	[sound:the-stay-the-living-room.webm]	/lə seʒuʁ/	перебування / вітальня
+l'accent (m.)	the accent	[sound:the-accent.webm]	/laksɑ̃/	акцент
+l'organisation (f.)	the organization	[sound:the-organization.webm]	/lɔʁɡanizasjɔ̃/	організація
+la fonction	the function / the position	[sound:the-function-the-position.webm]	/la fɔ̃ksjɔ̃/	функція / посада
+septembre (m.)	September	[sound:september-septembre-m.webm]	/sɛptɑ̃bʁ/	вересень
+futur / future	future	[sound:future.webm]	/fytyʁ/	майбутній / майбутня
+juillet (m.)	July	[sound:july.webm]	/ʒɥijɛ/	липень
+le métro	the subway / the metro	[sound:the-subway-the-metro.webm]	/lə metʁo/	метро
+informer	to inform	[sound:to-inform.webm]	/ɛ̃fɔʁme/	інформувати
+l'identité (f.)	the identity	[sound:the-identity.webm]	/lidɑ̃tite/	особа, ідентичність
+le week-end	the weekend (Québec: la fin de semaine)	[sound:the-weekend-quebec-la-fin-de-semaine.webm]	/lə wikɛnd/	вихідні (у Квебеку: la fin de semaine)
+la génération	the generation	[sound:the-generation.webm]	/la ʒeneʁasjɔ̃/	покоління
+le / la prof	the teacher (informal)	[sound:the-teacher-informal.webm]	/lə, la pʁɔf/	вчитель / вчителька (розм.)
+délicieux / délicieuse	delicious	[sound:delicious-delicieux-delicieuse.webm]	/delisjø, delisjøz/	смачний / смачна
+bravo	well done! / bravo	[sound:well-done-bravo.webm]	/bʁavo/	браво! / молодець
+la plante	the plant	[sound:the-plant.webm]	/la plɑ̃t/	рослина
+bas	low / quietly (parler bas)	[sound:low-quietly-parler-bas.webm]	/ba/	низько / тихо (parler bas)
+l'avenue (f.)	the avenue	[sound:the-avenue.webm]	/lavəny/	проспект, авеню
+le prénom	the first name	[sound:the-first-name.webm]	/lə pʁenɔ̃/	ім'я
+moderne	modern	[sound:modern.webm]	/mɔdɛʁn/	сучасний
+l'université (f.)	the university	[sound:the-university.webm]	/lynivɛʁsite/	університет
+la cheminée	the fireplace / the chimney	[sound:the-fireplace-the-chimney.webm]	/la ʃəmine/	камін / димар
+publier	to publish	[sound:to-publish.webm]	/pyblije/	публікувати
+cher	a lot (cost) (coûter cher = to be expensive)	[sound:a-lot-cost-couter-cher-to-be-expensive.webm]	/ʃɛʁ/	дорого (coûter cher = бути дорогим)
+la planche	the board / the plank	[sound:the-board-the-plank.webm]	/la plɑ̃ʃ/	дошка
+la tradition	the tradition	[sound:the-tradition.webm]	/la tʁadisjɔ̃/	традиція
+officiel / officielle	official	[sound:official.webm]	/ɔfisjɛl/	офіційний / офіційна
+le fromage	the cheese	[sound:the-cheese.webm]	/lə fʁɔmaʒ/	сир
+la messe	the mass (church)	[sound:the-mass-church.webm]	/la mɛs/	меса (церковна)
+la station	the station (metro / radio)	[sound:the-station-metro-radio.webm]	/la stasjɔ̃/	станція (метро / радіо)

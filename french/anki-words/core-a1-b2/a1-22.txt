@@ -1,50 +1,50 @@
-le serpent	the snake	[sound:the-snake.webm]	/lə sɛʁpɑ̃/
-fêter	to celebrate	[sound:to-celebrate-feter.webm]	/fete/
-le produit	the product	[sound:the-product.webm]	/lə pʁɔdɥi/
-jusque / jusqu'à	until / up to (jusqu'à)	[sound:until-up-to-jusqu-a.webm]	/ʒysk, ʒyska/
-le sud	the south	[sound:the-south.webm]	/lə syd/
-le chevalier	the knight	[sound:the-knight.webm]	/lə ʃəvalje/
-le tiroir	the drawer	[sound:the-drawer.webm]	/lə tiʁwaʁ/
-vendredi (m.)	Friday	[sound:friday.webm]	/vɑ̃dʁədi/
-l'italien (m.)	Italian (the language / the person)	[sound:italian-the-language-the-person.webm]	/litaljɛ̃/
-l'ascenseur (m.)	the elevator	[sound:the-elevator.webm]	/lasɑ̃sœʁ/
-la culture	the culture	[sound:the-culture.webm]	/la kyltyʁ/
-l'adulte (m./f.)	the adult	[sound:the-adult.webm]	/ladylt/
-le sport	the sport	[sound:the-sport.webm]	/lə spɔʁ/
-la télévision	the television	[sound:the-television.webm]	/la televizjɔ̃/
-âgé / âgée	elderly / old	[sound:elderly-old.webm]	/aʒe/
-l'exercice (m.)	the exercise	[sound:the-exercise.webm]	/lɛɡzɛʁsis/
-le studio	the studio	[sound:the-studio.webm]	/lə stydjo/
-la demi-heure	the half-hour	[sound:the-half-hour.webm]	/la dəmiœʁ/
-jeudi (m.)	Thursday	[sound:thursday.webm]	/ʒødi/
-le commerce	the trade / the business / the shop	[sound:the-trade-the-business-the-shop.webm]	/lə kɔmɛʁs/
-la population	the population	[sound:the-population.webm]	/la pɔpylasjɔ̃/
-la vallée	the valley	[sound:the-valley.webm]	/la vale/
-le musée	the museum	[sound:the-museum-le-musee.webm]	/lə myze/
-direct / directe	direct	[sound:direct.webm]	/diʁɛkt/
-situer	to locate (se situer = to be located)	[sound:to-locate-se-situer-to-be-located.webm]	/sitɥe/
-amusant / amusante	funny / fun	[sound:funny-fun.webm]	/amyzɑ̃, amyzɑ̃t/
-octobre (m.)	October	[sound:october.webm]	/ɔktɔbʁ/
-la légende	the legend / the caption	[sound:the-legend-the-caption.webm]	/la leʒɑ̃d/
-généreux / généreuse	generous	[sound:generous.webm]	/ʒeneʁø, ʒeneʁøz/
-l'écran (m.)	the screen	[sound:the-screen.webm]	/lekʁɑ̃/
-le kilo	the kilo	[sound:the-kilo.webm]	/lə kilo/
-chinois / chinoise	Chinese	[sound:chinese.webm]	/ʃinwa, ʃinwaz/
-l'habitant (m.) / l'habitante (f.)	the inhabitant / the resident	[sound:the-inhabitant-the-resident.webm]	/labitɑ̃, labitɑ̃t/
-la salade	the salad / the lettuce	[sound:the-salad-the-lettuce.webm]	/la salad/
-espagnol / espagnole	Spanish	[sound:spanish.webm]	/ɛspaɲɔl/
-le jus	the juice	[sound:the-juice.webm]	/lə ʒy/
-la littérature	the literature	[sound:the-literature.webm]	/la liteʁatyʁ/
-l'ouverture (f.)	the opening	[sound:the-opening.webm]	/luvɛʁtyʁ/
-la communication	the communication	[sound:the-communication.webm]	/la kɔmynikasjɔ̃/
-avril (m.)	April	[sound:april.webm]	/avʁil/
-le beurre	the butter	[sound:the-butter.webm]	/lə bœʁ/
-la tente	the tent	[sound:the-tent.webm]	/la tɑ̃t/
-la province	the province	[sound:the-province.webm]	/la pʁɔvɛ̃s/
-la collection	the collection	[sound:the-collection.webm]	/la kɔlɛksjɔ̃/
-la proposition	the proposal / the suggestion	[sound:the-proposal-the-suggestion.webm]	/la pʁɔpozisjɔ̃/
-l'aéroport (m.)	the airport	[sound:the-airport.webm]	/laeʁɔpɔʁ/
-le rock	rock (music)	[sound:rock-music.webm]	/lə ʁɔk/
-la découverte	the discovery	[sound:the-discovery.webm]	/la dekuvɛʁt/
-le chèque	the cheque	[sound:the-cheque.webm]	/lə ʃɛk/
-novembre (m.)	November	[sound:november.webm]	/nɔvɑ̃bʁ/
+le serpent	the snake	[sound:the-snake.webm]	/lə sɛʁpɑ̃/	змія
+fêter	to celebrate	[sound:to-celebrate-feter.webm]	/fete/	святкувати
+le produit	the product	[sound:the-product.webm]	/lə pʁɔdɥi/	продукт
+jusque / jusqu'à	until / up to (jusqu'à)	[sound:until-up-to-jusqu-a.webm]	/ʒysk, ʒyska/	до (jusqu'à)
+le sud	the south	[sound:the-south.webm]	/lə syd/	південь (сторона світу)
+le chevalier	the knight	[sound:the-knight.webm]	/lə ʃəvalje/	лицар
+le tiroir	the drawer	[sound:the-drawer.webm]	/lə tiʁwaʁ/	шухляда
+vendredi (m.)	Friday	[sound:friday.webm]	/vɑ̃dʁədi/	п'ятниця
+l'italien (m.)	Italian (the language / the person)	[sound:italian-the-language-the-person.webm]	/litaljɛ̃/	італійська (мова) / італієць
+l'ascenseur (m.)	the elevator	[sound:the-elevator.webm]	/lasɑ̃sœʁ/	ліфт
+la culture	the culture	[sound:the-culture.webm]	/la kyltyʁ/	культура
+l'adulte (m./f.)	the adult	[sound:the-adult.webm]	/ladylt/	дорослий / доросла
+le sport	the sport	[sound:the-sport.webm]	/lə spɔʁ/	спорт
+la télévision	the television	[sound:the-television.webm]	/la televizjɔ̃/	телебачення
+âgé / âgée	elderly / old	[sound:elderly-old.webm]	/aʒe/	літній / літня, старий
+l'exercice (m.)	the exercise	[sound:the-exercise.webm]	/lɛɡzɛʁsis/	вправа
+le studio	the studio	[sound:the-studio.webm]	/lə stydjo/	студія
+la demi-heure	the half-hour	[sound:the-half-hour.webm]	/la dəmiœʁ/	півгодини
+jeudi (m.)	Thursday	[sound:thursday.webm]	/ʒødi/	четвер
+le commerce	the trade / the business / the shop	[sound:the-trade-the-business-the-shop.webm]	/lə kɔmɛʁs/	торгівля / бізнес / крамниця
+la population	the population	[sound:the-population.webm]	/la pɔpylasjɔ̃/	населення
+la vallée	the valley	[sound:the-valley.webm]	/la vale/	долина
+le musée	the museum	[sound:the-museum-le-musee.webm]	/lə myze/	музей
+direct / directe	direct	[sound:direct.webm]	/diʁɛkt/	прямий / пряма
+situer	to locate (se situer = to be located)	[sound:to-locate-se-situer-to-be-located.webm]	/sitɥe/	розташовувати (se situer = розташовуватися)
+amusant / amusante	funny / fun	[sound:funny-fun.webm]	/amyzɑ̃, amyzɑ̃t/	кумедний / кумедна, веселий
+octobre (m.)	October	[sound:october.webm]	/ɔktɔbʁ/	жовтень
+la légende	the legend / the caption	[sound:the-legend-the-caption.webm]	/la leʒɑ̃d/	легенда / підпис (до малюнка)
+généreux / généreuse	generous	[sound:generous.webm]	/ʒeneʁø, ʒeneʁøz/	щедрий / щедра
+l'écran (m.)	the screen	[sound:the-screen.webm]	/lekʁɑ̃/	екран
+le kilo	the kilo	[sound:the-kilo.webm]	/lə kilo/	кілограм
+chinois / chinoise	Chinese	[sound:chinese.webm]	/ʃinwa, ʃinwaz/	китайський / китайська, китаєць
+l'habitant (m.) / l'habitante (f.)	the inhabitant / the resident	[sound:the-inhabitant-the-resident.webm]	/labitɑ̃, labitɑ̃t/	мешканець / мешканка
+la salade	the salad / the lettuce	[sound:the-salad-the-lettuce.webm]	/la salad/	салат
+espagnol / espagnole	Spanish	[sound:spanish.webm]	/ɛspaɲɔl/	іспанський / іспанська, іспанець
+le jus	the juice	[sound:the-juice.webm]	/lə ʒy/	сік
+la littérature	the literature	[sound:the-literature.webm]	/la liteʁatyʁ/	література
+l'ouverture (f.)	the opening	[sound:the-opening.webm]	/luvɛʁtyʁ/	відкриття (дверей, магазину)
+la communication	the communication	[sound:the-communication.webm]	/la kɔmynikasjɔ̃/	спілкування, комунікація
+avril (m.)	April	[sound:april.webm]	/avʁil/	квітень
+le beurre	the butter	[sound:the-butter.webm]	/lə bœʁ/	масло (вершкове)
+la tente	the tent	[sound:the-tent.webm]	/la tɑ̃t/	намет
+la province	the province	[sound:the-province.webm]	/la pʁɔvɛ̃s/	провінція
+la collection	the collection	[sound:the-collection.webm]	/la kɔlɛksjɔ̃/	колекція
+la proposition	the proposal / the suggestion	[sound:the-proposal-the-suggestion.webm]	/la pʁɔpozisjɔ̃/	пропозиція
+l'aéroport (m.)	the airport	[sound:the-airport.webm]	/laeʁɔpɔʁ/	аеропорт
+le rock	rock (music)	[sound:rock-music.webm]	/lə ʁɔk/	рок (музика)
+la découverte	the discovery	[sound:the-discovery.webm]	/la dekuvɛʁt/	відкриття (наукове)
+le chèque	the cheque	[sound:the-cheque.webm]	/lə ʃɛk/	чек
+novembre (m.)	November	[sound:november.webm]	/nɔvɑ̃bʁ/	листопад

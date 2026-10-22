@@ -1,50 +1,50 @@
-plante	plant
-pleine	full (fem.)
-pluie	rain
-plusieurs	several
-poisson	fish
-pomme	apple
-pont	bridge
-porte	door
-poser une question	to ask a question
-pot	jar
-poule	chicken/hen
-premier	first
-première	first (fem.)
-prix	price (same spelling in plural)
-problème	problem
-prochain arrêt	next stop
-professeur	teacher
-professeure	teacher (fem.)
-projet	project
-propre	clean
-près d'ici	near here
-près de	near
-préparer	to prepare
-présenter	to present
-prêt	ready
-pâlir	to turn pale
-père	father
-quarante	forty
-quarante-cinq	forty-five
-quatorze	fourteen
-quatre heures	four o'clock
-quatre-vingts	eighty
-quel âge	how old
-quelques	a few / some
-qui	who
-québécois	Québécois
-québécois / québécoise	from Quebec
-raccourcir	to get shorter
-rajeunir	to get younger
-ralentir	to slow down
-rapide	fast
-rapport	report
-refroidir	to cool down
-regarder	to watch
-remplir	to fill (out)
-rendre	to give back / to return
-rendre service à	to do (someone) a favour
-rendre visite à	to visit (a person)
-rentrer	to come home
-repas	meal (same spelling in plural)
+plante	plant			рослина
+pleine	full (fem.)			повна
+pluie	rain			дощ
+plusieurs	several			кілька, декілька
+poisson	fish			риба
+pomme	apple			яблуко
+pont	bridge			міст
+porte	door			двері
+poser une question	to ask a question			ставити запитання
+pot	jar			банка, баночка
+poule	chicken/hen			курка
+premier	first			перший
+première	first (fem.)			перша
+prix	price (same spelling in plural)			ціна (у мн. так само)
+problème	problem			проблема
+prochain arrêt	next stop			наступна зупинка
+professeur	teacher			вчитель
+professeure	teacher (fem.)			вчителька
+projet	project			проєкт
+propre	clean			чистий
+près d'ici	near here			недалеко звідси
+près de	near			біля, поблизу
+préparer	to prepare			готувати
+présenter	to present			представляти, знайомити
+prêt	ready			готовий
+pâlir	to turn pale			бліднути
+père	father			батько
+quarante	forty			сорок
+quarante-cinq	forty-five			сорок п'ять
+quatorze	fourteen			чотирнадцять
+quatre heures	four o'clock			четверта година
+quatre-vingts	eighty			вісімдесят
+quel âge	how old			скільки років
+quelques	a few / some			кілька, декілька
+qui	who			хто
+québécois	Québécois			квебекський, квебекець
+québécois / québécoise	from Quebec			з Квебеку (квебекець / квебечка)
+raccourcir	to get shorter			коротшати
+rajeunir	to get younger			молодшати
+ralentir	to slow down			сповільнюватися
+rapide	fast			швидкий
+rapport	report			звіт
+refroidir	to cool down			охолоджуватися
+regarder	to watch			дивитися
+remplir	to fill (out)			заповнювати
+rendre	to give back / to return			повертати, віддавати
+rendre service à	to do (someone) a favour			зробити (комусь) послугу
+rendre visite à	to visit (a person)			відвідати (когось)
+rentrer	to come home			повертатися додому
+repas	meal (same spelling in plural)			їжа, прийом їжі (у мн. так само)

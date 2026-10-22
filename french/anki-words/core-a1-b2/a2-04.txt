@@ -1,50 +1,50 @@
-le contraire	the opposite (au contraire = on the contrary)	[sound:the-opposite-au-contraire-on-the-contrary.webm]	/lə kɔ̃tʁɛʁ/
-la honte	the shame (avoir honte = to be ashamed)	[sound:the-shame-avoir-honte-to-be-ashamed.webm]	/la ɔ̃t/
-ceci	this (formal)	[sound:this-formal.webm]	/səsi/
-complètement	completely	[sound:completely.webm]	/kɔ̃plɛtəmɑ̃/
-l'avenir (m.)	the future	[sound:the-future.webm]	/lavəniʁ/
-deviner	to guess	[sound:to-guess.webm]	/dəvine/
-la bête	the animal / the beast (bête = stupid)	[sound:the-animal-the-beast-bete-stupid.webm]	/la bɛt/
-pardonner	to forgive	[sound:to-forgive.webm]	/paʁdɔne/
-supposer	to suppose	[sound:to-suppose.webm]	/sypoze/
-la loi	the law	[sound:the-law.webm]	/la lwa/
-l'escalier (m.)	the stairs	[sound:the-stairs.webm]	/lɛskalje/
-la présence	the presence	[sound:the-presence.webm]	/la pʁezɑ̃s/
-la cigarette	the cigarette	[sound:the-cigarette.webm]	/la siɡaʁɛt/
-moindre	least / slightest (le moindre)	[sound:least-slightest-le-moindre.webm]	/mwɛ̃dʁ/
-l'effort (m.)	the effort	[sound:the-effort.webm]	/lefɔʁ/
-la larme / les larmes	the tears	[sound:the-tears.webm]	/la laʁm, le laʁm/
-parvenir	to manage to / to reach	[sound:to-manage-to-to-reach.webm]	/paʁvəniʁ/
-baisser	to lower	[sound:to-lower.webm]	/bese/
-respirer	to breathe	[sound:to-breathe.webm]	/ʁɛspiʁe/
-l'intérêt (m.)	the interest	[sound:the-interest.webm]	/lɛ̃teʁɛ/
-détruire	to destroy	[sound:to-destroy.webm]	/detʁɥiʁ/
-le bien	the good / the property (les biens = goods)	[sound:the-good-the-property-les-biens-goods.webm]	/lə bjɛ̃/
-le / la camarade	the comrade / the friend	[sound:the-comrade-the-friend.webm]	/lə, la kamaʁad/
-séparer	to separate	[sound:to-separate.webm]	/sepaʁe/
-lourd / lourde	heavy	[sound:heavy.webm]	/luʁ, luʁd/
-éloigner	to move away (s'éloigner)	[sound:to-move-away-s-eloigner.webm]	/elwaɲe/
-traiter	to treat / to deal with	[sound:to-treat-to-deal-with.webm]	/tʁete/
-fixer	to fix / to set / to stare at	[sound:to-fix-to-set-to-stare-at.webm]	/fikse/
-l'appel (m.)	the call	[sound:the-call.webm]	/lapɛl/
-le bon	the voucher / the coupon	[sound:the-voucher-the-coupon.webm]	/lə bɔ̃/
-appartenir	to belong	[sound:to-belong.webm]	/apaʁtəniʁ/
-la preuve	the proof / the evidence	[sound:the-proof-the-evidence.webm]	/la pʁœv/
-pencher	to lean	[sound:to-lean.webm]	/pɑ̃ʃe/
-saisir	to seize / to grab	[sound:to-seize-to-grab.webm]	/seziʁ/
-ouvert / ouverte	open	[sound:open.webm]	/uvɛʁ, uvɛʁt/
-le hasard	the chance (par hasard = by chance)	[sound:the-chance-par-hasard-by-chance.webm]	/lə azaʁ/
-la mémoire	the memory (le mémoire = the thesis)	[sound:the-memory-le-memoire-the-thesis.webm]	/la memwaʁ/
-le / la gosse	the kid (informal)	[sound:the-kid-informal.webm]	/lə, la ɡɔs/
-poursuivre	to pursue / to continue	[sound:to-pursue-to-continue.webm]	/puʁsɥivʁ/
-étonner	to surprise / to astonish	[sound:to-surprise-to-astonish.webm]	/etɔne/
-attaquer	to attack	[sound:to-attack.webm]	/atake/
-obtenir	to get / to obtain	[sound:to-get-to-obtain.webm]	/ɔptəniʁ/
-dessus	on top / on it	[sound:on-top-on-it.webm]	/dəsy/
-couler	to flow / to sink	[sound:to-flow-to-sink.webm]	/kule/
-attraper	to catch	[sound:to-catch.webm]	/atʁape/
-la douleur	the pain	[sound:the-pain.webm]	/la dulœʁ/
-l'occasion (f.)	the opportunity (d'occasion = second-hand)	[sound:the-opportunity-d-occasion-second-hand.webm]	/lɔkazjɔ̃/
-arracher	to pull out / to tear off	[sound:to-pull-out-to-tear-off.webm]	/aʁaʃe/
-supporter	to bear / to stand	[sound:to-bear-to-stand.webm]	/sypɔʁte/
-appuyer	to press / to lean on	[sound:to-press-to-lean-on.webm]	/apɥije/
+le contraire	the opposite (au contraire = on the contrary)	[sound:the-opposite-au-contraire-on-the-contrary.webm]	/lə kɔ̃tʁɛʁ/	протилежність (au contraire = навпаки)
+la honte	the shame (avoir honte = to be ashamed)	[sound:the-shame-avoir-honte-to-be-ashamed.webm]	/la ɔ̃t/	сором (avoir honte = соромитися)
+ceci	this (formal)	[sound:this-formal.webm]	/səsi/	це (книжн.)
+complètement	completely	[sound:completely.webm]	/kɔ̃plɛtəmɑ̃/	повністю, зовсім
+l'avenir (m.)	the future	[sound:the-future.webm]	/lavəniʁ/	майбутнє
+deviner	to guess	[sound:to-guess.webm]	/dəvine/	вгадувати
+la bête	the animal / the beast (bête = stupid)	[sound:the-animal-the-beast-bete-stupid.webm]	/la bɛt/	тварина / звір (bête = дурний)
+pardonner	to forgive	[sound:to-forgive.webm]	/paʁdɔne/	пробачати
+supposer	to suppose	[sound:to-suppose.webm]	/sypoze/	припускати
+la loi	the law	[sound:the-law.webm]	/la lwa/	закон
+l'escalier (m.)	the stairs	[sound:the-stairs.webm]	/lɛskalje/	сходи
+la présence	the presence	[sound:the-presence.webm]	/la pʁezɑ̃s/	присутність
+la cigarette	the cigarette	[sound:the-cigarette.webm]	/la siɡaʁɛt/	цигарка
+moindre	least / slightest (le moindre)	[sound:least-slightest-le-moindre.webm]	/mwɛ̃dʁ/	найменший (le moindre = найменший)
+l'effort (m.)	the effort	[sound:the-effort.webm]	/lefɔʁ/	зусилля
+la larme / les larmes	the tears	[sound:the-tears.webm]	/la laʁm, le laʁm/	сльоза / сльози
+parvenir	to manage to / to reach	[sound:to-manage-to-to-reach.webm]	/paʁvəniʁ/	вдаватися / досягати
+baisser	to lower	[sound:to-lower.webm]	/bese/	опускати / знижувати
+respirer	to breathe	[sound:to-breathe.webm]	/ʁɛspiʁe/	дихати
+l'intérêt (m.)	the interest	[sound:the-interest.webm]	/lɛ̃teʁɛ/	інтерес / вигода
+détruire	to destroy	[sound:to-destroy.webm]	/detʁɥiʁ/	руйнувати
+le bien	the good / the property (les biens = goods)	[sound:the-good-the-property-les-biens-goods.webm]	/lə bjɛ̃/	добро / майно (les biens = товари)
+le / la camarade	the comrade / the friend	[sound:the-comrade-the-friend.webm]	/lə, la kamaʁad/	товариш / товаришка, друг
+séparer	to separate	[sound:to-separate.webm]	/sepaʁe/	розділяти
+lourd / lourde	heavy	[sound:heavy.webm]	/luʁ, luʁd/	важкий / важка
+éloigner	to move away (s'éloigner)	[sound:to-move-away-s-eloigner.webm]	/elwaɲe/	віддаляти (s'éloigner = віддалятися)
+traiter	to treat / to deal with	[sound:to-treat-to-deal-with.webm]	/tʁete/	поводитися з / мати справу з
+fixer	to fix / to set / to stare at	[sound:to-fix-to-set-to-stare-at.webm]	/fikse/	закріплювати / встановлювати / пильно дивитися на
+l'appel (m.)	the call	[sound:the-call.webm]	/lapɛl/	дзвінок / заклик
+le bon	the voucher / the coupon	[sound:the-voucher-the-coupon.webm]	/lə bɔ̃/	талон / купон
+appartenir	to belong	[sound:to-belong.webm]	/apaʁtəniʁ/	належати
+la preuve	the proof / the evidence	[sound:the-proof-the-evidence.webm]	/la pʁœv/	доказ
+pencher	to lean	[sound:to-lean.webm]	/pɑ̃ʃe/	нахилятися
+saisir	to seize / to grab	[sound:to-seize-to-grab.webm]	/seziʁ/	хапати / схоплювати
+ouvert / ouverte	open	[sound:open.webm]	/uvɛʁ, uvɛʁt/	відкритий / відкрита
+le hasard	the chance (par hasard = by chance)	[sound:the-chance-par-hasard-by-chance.webm]	/lə azaʁ/	випадок (par hasard = випадково)
+la mémoire	the memory (le mémoire = the thesis)	[sound:the-memory-le-memoire-the-thesis.webm]	/la memwaʁ/	пам'ять (le mémoire = дипломна робота)
+le / la gosse	the kid (informal)	[sound:the-kid-informal.webm]	/lə, la ɡɔs/	дитина, малий (розм.)
+poursuivre	to pursue / to continue	[sound:to-pursue-to-continue.webm]	/puʁsɥivʁ/	переслідувати / продовжувати
+étonner	to surprise / to astonish	[sound:to-surprise-to-astonish.webm]	/etɔne/	дивувати
+attaquer	to attack	[sound:to-attack.webm]	/atake/	нападати
+obtenir	to get / to obtain	[sound:to-get-to-obtain.webm]	/ɔptəniʁ/	отримувати
+dessus	on top / on it	[sound:on-top-on-it.webm]	/dəsy/	зверху / на ньому
+couler	to flow / to sink	[sound:to-flow-to-sink.webm]	/kule/	текти / тонути
+attraper	to catch	[sound:to-catch.webm]	/atʁape/	ловити
+la douleur	the pain	[sound:the-pain.webm]	/la dulœʁ/	біль
+l'occasion (f.)	the opportunity (d'occasion = second-hand)	[sound:the-opportunity-d-occasion-second-hand.webm]	/lɔkazjɔ̃/	нагода (d'occasion = вживаний)
+arracher	to pull out / to tear off	[sound:to-pull-out-to-tear-off.webm]	/aʁaʃe/	виривати / зривати
+supporter	to bear / to stand	[sound:to-bear-to-stand.webm]	/sypɔʁte/	терпіти, витримувати
+appuyer	to press / to lean on	[sound:to-press-to-lean-on.webm]	/apɥije/	натискати / спиратися на

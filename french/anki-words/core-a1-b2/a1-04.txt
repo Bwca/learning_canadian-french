@@ -1,50 +1,50 @@
-appeler	to call	[sound:to-call.webm]	/apəle/
-le père	the father	[sound:the-father-le-pere.webm]	/lə pɛʁ/
-peut-être	maybe	[sound:maybe.webm]	/pøtɛtʁ/
-partir	to leave / to go away	[sound:to-leave-to-go-away.webm]	/paʁtiʁ/
-connaître	to know (a person / a place)	[sound:to-know-a-person-a-place.webm]	/kɔnɛtʁ/
-le monde	the world / people (tout le monde)	[sound:the-world-people-tout-le-monde.webm]	/lə mɔ̃d/
-l'an (m.)	the year (with numbers: j'ai vingt ans)	[sound:the-year-with-numbers-j-ai-vingt-ans.webm]	/lɑ̃/
-pourquoi	why	[sound:why.webm]	/puʁkwa/
-maintenant	now	[sound:now.webm]	/mɛ̃tənɑ̃/
-chez	at (someone's place)	[sound:at-someone-s-place-chez.webm]	/ʃe/
-sortir	to go out	[sound:to-go-out.webm]	/sɔʁtiʁ/
-comprendre	to understand	[sound:to-understand.webm]	/kɔ̃pʁɑ̃dʁ/
-l'enfant (m./f.)	the child	[sound:the-child-l-enfant-m-f.webm]	/lɑ̃fɑ̃/
-arrêter	to stop	[sound:to-stop.webm]	/aʁete/
-la mère	the mother	[sound:the-mother-la-mere.webm]	/la mɛʁ/
-entendre	to hear	[sound:to-hear.webm]	/ɑ̃tɑ̃dʁ/
-la fille	the girl / the daughter	[sound:the-girl-the-daughter.webm]	/la fij/
-après	after	[sound:after-apres.webm]	/apʁɛ/
-la tête	the head	[sound:the-head-la-tete.webm]	/la tɛt/
-déjà	already	[sound:already-deja.webm]	/deʒa/
-sûr / sûre	sure	[sound:sure.webm]	/syʁ/
-sous	under	[sound:under.webm]	/su/
-la nuit	the night	[sound:the-night.webm]	/la nɥi/
-le coup	the blow / the hit (un coup de fil = a call)	[sound:the-blow-the-hit-un-coup-de-fil-a-call.webm]	/lə ku/
-mourir	to die	[sound:to-die.webm]	/muʁiʁ/
-quoi	what	[sound:what.webm]	/kwa/
-le dieu	God / the god	[sound:god-the-god.webm]	/lə djø/
-beau / belle	beautiful / handsome	[sound:beautiful-handsome-beau-belle.webm]	/bo, bɛl/
-sentir	to feel / to smell	[sound:to-feel-to-smell.webm]	/sɑ̃tiʁ/
-tenir	to hold	[sound:to-hold.webm]	/təniʁ/
-vraiment	really	[sound:really-vraiment.webm]	/vʁɛmɑ̃/
-cela	that (formal)	[sound:that-formal.webm]	/səla/
-entre	between	[sound:between.webm]	/ɑ̃tʁ/
-moins	less	[sound:less.webm]	/mwɛ̃/
-vers	towards	[sound:towards.webm]	/vɛʁ/
-la maison	the house	[sound:the-house-la-maison.webm]	/la mɛzɔ̃/
-l'air (m.)	the air / the look (avoir l'air = to seem)	[sound:the-air-the-look-avoir-l-air-to-seem.webm]	/lɛʁ/
-chercher	to look for	[sound:to-look-for-chercher.webm]	/ʃɛʁʃe/
-le soir	the evening	[sound:the-evening-le-soir.webm]	/lə swaʁ/
-le moment	the moment	[sound:the-moment-le-moment.webm]	/lə mɔmɑ̃/
-revenir	to come back	[sound:to-come-back.webm]	/ʁəvəniʁ/
-avant	before / beforehand	[sound:before-beforehand.webm]	/avɑ̃/
-l'ami (m.) / l'amie (f.)	the friend	[sound:the-friend.webm]	/lami, lami/
-oh	oh	[sound:oh.webm]	/o/
-comment	how	[sound:how.webm]	/kɔmɑ̃/
-beaucoup	a lot / much	[sound:a-lot-much.webm]	/boku/
-le monsieur	the gentleman / sir	[sound:the-gentleman-sir.webm]	/lə məsjø/
-mieux	better	[sound:better.webm]	/mjø/
-ni	neither / nor	[sound:neither-nor.webm]	/ni/
-le besoin	the need (avoir besoin de = to need)	[sound:the-need-avoir-besoin-de-to-need.webm]	/lə bəzwɛ̃/
+appeler	to call	[sound:to-call.webm]	/apəle/	кликати, телефонувати
+le père	the father	[sound:the-father-le-pere.webm]	/lə pɛʁ/	батько
+peut-être	maybe	[sound:maybe.webm]	/pøtɛtʁ/	можливо
+partir	to leave / to go away	[sound:to-leave-to-go-away.webm]	/paʁtiʁ/	йти, від'їжджати
+connaître	to know (a person / a place)	[sound:to-know-a-person-a-place.webm]	/kɔnɛtʁ/	знати (людину / місце)
+le monde	the world / people (tout le monde)	[sound:the-world-people-tout-le-monde.webm]	/lə mɔ̃d/	світ / люди (tout le monde = всі)
+l'an (m.)	the year (with numbers: j'ai vingt ans)	[sound:the-year-with-numbers-j-ai-vingt-ans.webm]	/lɑ̃/	рік (з числами: j'ai vingt ans)
+pourquoi	why	[sound:why.webm]	/puʁkwa/	чому
+maintenant	now	[sound:now.webm]	/mɛ̃tənɑ̃/	зараз
+chez	at (someone's place)	[sound:at-someone-s-place-chez.webm]	/ʃe/	у (когось удома)
+sortir	to go out	[sound:to-go-out.webm]	/sɔʁtiʁ/	виходити
+comprendre	to understand	[sound:to-understand.webm]	/kɔ̃pʁɑ̃dʁ/	розуміти
+l'enfant (m./f.)	the child	[sound:the-child-l-enfant-m-f.webm]	/lɑ̃fɑ̃/	дитина
+arrêter	to stop	[sound:to-stop.webm]	/aʁete/	зупиняти, припиняти
+la mère	the mother	[sound:the-mother-la-mere.webm]	/la mɛʁ/	мати
+entendre	to hear	[sound:to-hear.webm]	/ɑ̃tɑ̃dʁ/	чути
+la fille	the girl / the daughter	[sound:the-girl-the-daughter.webm]	/la fij/	дівчина / донька
+après	after	[sound:after-apres.webm]	/apʁɛ/	після
+la tête	the head	[sound:the-head-la-tete.webm]	/la tɛt/	голова
+déjà	already	[sound:already-deja.webm]	/deʒa/	вже
+sûr / sûre	sure	[sound:sure.webm]	/syʁ/	певний, впевнений / впевнена
+sous	under	[sound:under.webm]	/su/	під
+la nuit	the night	[sound:the-night.webm]	/la nɥi/	ніч
+le coup	the blow / the hit (un coup de fil = a call)	[sound:the-blow-the-hit-un-coup-de-fil-a-call.webm]	/lə ku/	удар (un coup de fil = дзвінок)
+mourir	to die	[sound:to-die.webm]	/muʁiʁ/	помирати
+quoi	what	[sound:what.webm]	/kwa/	що
+le dieu	God / the god	[sound:god-the-god.webm]	/lə djø/	Бог / бог
+beau / belle	beautiful / handsome	[sound:beautiful-handsome-beau-belle.webm]	/bo, bɛl/	гарний / гарна, красивий
+sentir	to feel / to smell	[sound:to-feel-to-smell.webm]	/sɑ̃tiʁ/	відчувати / пахнути, нюхати
+tenir	to hold	[sound:to-hold.webm]	/təniʁ/	тримати
+vraiment	really	[sound:really-vraiment.webm]	/vʁɛmɑ̃/	справді
+cela	that (formal)	[sound:that-formal.webm]	/səla/	це, те (книжн.)
+entre	between	[sound:between.webm]	/ɑ̃tʁ/	між
+moins	less	[sound:less.webm]	/mwɛ̃/	менше
+vers	towards	[sound:towards.webm]	/vɛʁ/	до, в бік
+la maison	the house	[sound:the-house-la-maison.webm]	/la mɛzɔ̃/	будинок, дім
+l'air (m.)	the air / the look (avoir l'air = to seem)	[sound:the-air-the-look-avoir-l-air-to-seem.webm]	/lɛʁ/	повітря / вигляд (avoir l'air = здаватися)
+chercher	to look for	[sound:to-look-for-chercher.webm]	/ʃɛʁʃe/	шукати
+le soir	the evening	[sound:the-evening-le-soir.webm]	/lə swaʁ/	вечір
+le moment	the moment	[sound:the-moment-le-moment.webm]	/lə mɔmɑ̃/	мить, момент
+revenir	to come back	[sound:to-come-back.webm]	/ʁəvəniʁ/	повертатися
+avant	before / beforehand	[sound:before-beforehand.webm]	/avɑ̃/	до, перед / раніше
+l'ami (m.) / l'amie (f.)	the friend	[sound:the-friend.webm]	/lami, lami/	друг / подруга
+oh	oh	[sound:oh.webm]	/o/	о
+comment	how	[sound:how.webm]	/kɔmɑ̃/	як
+beaucoup	a lot / much	[sound:a-lot-much.webm]	/boku/	багато
+le monsieur	the gentleman / sir	[sound:the-gentleman-sir.webm]	/lə məsjø/	пан / пане
+mieux	better	[sound:better.webm]	/mjø/	краще
+ni	neither / nor	[sound:neither-nor.webm]	/ni/	ні… ні
+le besoin	the need (avoir besoin de = to need)	[sound:the-need-avoir-besoin-de-to-need.webm]	/lə bəzwɛ̃/	потреба (avoir besoin de = потребувати)

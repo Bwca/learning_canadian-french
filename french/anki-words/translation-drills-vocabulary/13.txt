@@ -1,50 +1,50 @@
-soldes	sales
-soleil	sun
-son	his/her (masc. singular)
-soupe	soup
-souper	to have supper (Québec)
-sous	under
-sous la douche	in the shower
-sous-sol	basement
-souvent	often
-spécial	special
-spéciaux	special (masc. plural)
-stationner	to park (Québec)
-strict	strict
-stylo	pen
-sucre	sugar
-sur	on
-sympathique	friendly
-sœur	sister
-ta	your (fem. singular, informal)
-table	table
-tableau	board
-tante	aunt
-tapis	rug / carpet
-tard	late
-tarte	pie
-tasse	cup
-temps	time / weather
-tempête	storm
-tes	your (plural, informal)
-texter	to text (Québec)
-thé	tea
-toilettes	bathroom/toilet
-toit	roof
-ton	your (masc. singular, informal)
-ton amie	your friend (fem.) — ton, not ta, before a vowel sound
-tondre	to mow
-tonnerre	thunder
-tortue	turtle
-tour	turn
-touriste	tourist
-train	train
-travail	work
-travailler	to work
-trente	thirty
-trente-deux	thirty-two
-triste	sad
-trop de	too much / too many
-trouver	to find
-téléphone	phone
-téléphoner à	to call (on the phone)
+soldes	sales			розпродаж
+soleil	sun			сонце
+son	his/her (masc. singular)			його / її (чол. р. одн.)
+soupe	soup			суп
+souper	to have supper (Québec)			вечеряти (у Квебеку)
+sous	under			під
+sous la douche	in the shower			у душі
+sous-sol	basement			підвал
+souvent	often			часто
+spécial	special			особливий
+spéciaux	special (masc. plural)			особливі (чол. р.)
+stationner	to park (Québec)			паркувати(ся) (у Квебеку)
+strict	strict			суворий
+stylo	pen			ручка
+sucre	sugar			цукор
+sur	on			на
+sympathique	friendly			приязний, симпатичний
+sœur	sister			сестра
+ta	your (fem. singular, informal)			твоя
+table	table			стіл
+tableau	board			дошка
+tante	aunt			тітка
+tapis	rug / carpet			килим
+tard	late			пізно
+tarte	pie			пиріг
+tasse	cup			чашка
+temps	time / weather			час / погода
+tempête	storm			буря
+tes	your (plural, informal)			твої
+texter	to text (Québec)			надсилати повідомлення (у Квебеку)
+thé	tea			чай
+toilettes	bathroom/toilet			туалет
+toit	roof			дах
+ton	your (masc. singular, informal)			твій
+ton amie	your friend (fem.) — ton, not ta, before a vowel sound			твоя подруга — ton, а не ta, перед голосним звуком
+tondre	to mow			косити (траву)
+tonnerre	thunder			грім
+tortue	turtle			черепаха
+tour	turn			черга / оберт
+touriste	tourist			турист / туристка
+train	train			потяг
+travail	work			робота
+travailler	to work			працювати
+trente	thirty			тридцять
+trente-deux	thirty-two			тридцять два
+triste	sad			сумний
+trop de	too much / too many			забагато (чогось)
+trouver	to find			знаходити
+téléphone	phone			телефон
+téléphoner à	to call (on the phone)			телефонувати (комусь)

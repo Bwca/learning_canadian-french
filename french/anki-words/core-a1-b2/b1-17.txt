@@ -1,50 +1,50 @@
-la barque	the small boat	[sound:the-small-boat.webm]	/la baʁk/
-le chapitre	the chapter	[sound:the-chapter.webm]	/lə ʃapitʁ/
-absolu / absolue	absolute	[sound:absolute.webm]	/apsɔly/
-justifier	to justify	[sound:to-justify.webm]	/ʒystifje/
-chauffer	to heat / to warm up	[sound:to-heat-to-warm-up.webm]	/ʃofe/
-divin / divine	divine	[sound:divine.webm]	/divɛ̃, divin/
-le matériel	the equipment / the hardware	[sound:the-equipment-the-hardware.webm]	/lə mateʁjɛl/
-approuver	to approve (of)	[sound:to-approve-of.webm]	/apʁuve/
-l'évidence (f.)	the obvious (de toute évidence = obviously)	[sound:the-obvious-de-toute-evidence-obviously.webm]	/levidɑ̃s/
-la façade	the front (of a building) / the façade	[sound:the-front-of-a-building-the-facade.webm]	/la fasad/
-la lame	the blade	[sound:the-blade.webm]	/la lam/
-rougir	to blush / to turn red	[sound:to-blush-to-turn-red.webm]	/ʁuʒiʁ/
-le zéro	zero	[sound:zero.webm]	/lə zeʁo/
-la tempête	the storm	[sound:the-storm-la-tempete.webm]	/la tɑ̃pɛt/
-guider	to guide	[sound:to-guide.webm]	/ɡide/
-moral / morale	moral (le moral = morale, spirits)	[sound:moral-le-moral-morale-spirits.webm]	/mɔʁal/
-dérouler	to unroll (se dérouler = to take place)	[sound:to-unroll-se-derouler-to-take-place.webm]	/deʁule/
-augmenter	to increase / to raise	[sound:to-increase-to-raise.webm]	/oɡmɑ̃te/
-totalement	totally	[sound:totally.webm]	/tɔtaləmɑ̃/
-le jugement	the judgment / the ruling	[sound:the-judgment-the-ruling.webm]	/lə ʒyʒəmɑ̃/
-soulager	to relieve	[sound:to-relieve.webm]	/sulaʒe/
-fixe	fixed / steady	[sound:fixed-steady.webm]	/fiks/
-gratter	to scratch	[sound:to-scratch.webm]	/ɡʁate/
-l'atmosphère (f.)	the atmosphere	[sound:the-atmosphere-l-atmosphere-f.webm]	/latmɔsfɛʁ/
-le rond	the circle / the ring	[sound:the-circle-the-ring.webm]	/lə ʁɔ̃/
-l'élan (m.)	the momentum / the impulse / the moose (Québec: l'orignal)	[sound:the-momentum-the-impulse-the-moose-quebec-l-orignal.webm]	/lelɑ̃/
-le tissu	the fabric / the cloth	[sound:the-fabric-the-cloth.webm]	/lə tisy/
-la villa	the villa	[sound:the-villa.webm]	/la villa/
-la permission	the permission	[sound:the-permission.webm]	/la pɛʁmisjɔ̃/
-l'incident (m.)	the incident	[sound:the-incident.webm]	/lɛ̃sidɑ̃/
-la commande	the order (purchase)	[sound:the-order-purchase.webm]	/la kɔmɑ̃d/
-l'écriture (f.)	the writing / the handwriting	[sound:the-writing-the-handwriting.webm]	/lekʁityʁ/
-témoigner	to testify / to show	[sound:to-testify-to-show.webm]	/temwaɲe/
-l'extérieur (m.)	the outside (à l'extérieur = outside)	[sound:the-outside-a-l-exterieur-outside.webm]	/lɛksteʁjœʁ/
-étonnant / étonnante	surprising / amazing	[sound:surprising-amazing.webm]	/etɔnɑ̃, etɔnɑ̃t/
-l'éternité (f.)	the eternity	[sound:the-eternity.webm]	/letɛʁnite/
-fréquenter	to go to (a place regularly) / to hang out with	[sound:to-go-to-a-place-regularly-to-hang-out-with.webm]	/fʁekɑ̃te/
-la méthode	the method	[sound:the-method.webm]	/la metɔd/
-traduire	to translate	[sound:to-translate.webm]	/tʁadɥiʁ/
-régulier / régulière	regular	[sound:regular.webm]	/ʁeɡylje, ʁeɡyljɛʁ/
-transmettre	to pass on / to transmit	[sound:to-pass-on-to-transmit.webm]	/tʁɑ̃smɛtʁ/
-le sien / la sienne	his / hers (le sien / la sienne)	[sound:his-hers-le-sien-la-sienne.webm]	/lə sjɛ̃, la sjɛn/
-la photographie	the photography / the photograph	[sound:the-photography-the-photograph.webm]	/la fɔtɔɡʁafi/
-l'écart (m.)	the gap / the difference (à l'écart = apart)	[sound:the-gap-the-difference-a-l-ecart-apart.webm]	/lekaʁ/
-déshabiller	to undress (se déshabiller)	[sound:to-undress-se-deshabiller.webm]	/dezabije/
-la star	the star (celebrity)	[sound:the-star-celebrity.webm]	/la staʁ/
-s'écrier	to exclaim / to cry out (s'écrier)	[sound:to-exclaim-to-cry-out-s-ecrier.webm]	/sekʁije/
-civil / civile	civil / civilian	[sound:civil-civilian.webm]	/sivil/
-le panier	the basket	[sound:the-basket.webm]	/lə panje/
-impliquer	to involve / to imply	[sound:to-involve-to-imply.webm]	/ɛ̃plike/
+la barque	the small boat	[sound:the-small-boat.webm]	/la baʁk/	човен
+le chapitre	the chapter	[sound:the-chapter.webm]	/lə ʃapitʁ/	розділ
+absolu / absolue	absolute	[sound:absolute.webm]	/apsɔly/	абсолютний / абсолютна
+justifier	to justify	[sound:to-justify.webm]	/ʒystifje/	виправдовувати / обґрунтовувати
+chauffer	to heat / to warm up	[sound:to-heat-to-warm-up.webm]	/ʃofe/	гріти / розігрівати
+divin / divine	divine	[sound:divine.webm]	/divɛ̃, divin/	божественний / божественна
+le matériel	the equipment / the hardware	[sound:the-equipment-the-hardware.webm]	/lə mateʁjɛl/	обладнання / апаратне забезпечення
+approuver	to approve (of)	[sound:to-approve-of.webm]	/apʁuve/	схвалювати
+l'évidence (f.)	the obvious (de toute évidence = obviously)	[sound:the-obvious-de-toute-evidence-obviously.webm]	/levidɑ̃s/	очевидність (de toute évidence = очевидно)
+la façade	the front (of a building) / the façade	[sound:the-front-of-a-building-the-facade.webm]	/la fasad/	фасад
+la lame	the blade	[sound:the-blade.webm]	/la lam/	лезо
+rougir	to blush / to turn red	[sound:to-blush-to-turn-red.webm]	/ʁuʒiʁ/	червоніти
+le zéro	zero	[sound:zero.webm]	/lə zeʁo/	нуль
+la tempête	the storm	[sound:the-storm-la-tempete.webm]	/la tɑ̃pɛt/	буря
+guider	to guide	[sound:to-guide.webm]	/ɡide/	вести, бути провідником
+moral / morale	moral (le moral = morale, spirits)	[sound:moral-le-moral-morale-spirits.webm]	/mɔʁal/	моральний / моральна (le moral = настрій, дух)
+dérouler	to unroll (se dérouler = to take place)	[sound:to-unroll-se-derouler-to-take-place.webm]	/deʁule/	розгортати (se dérouler = відбуватися)
+augmenter	to increase / to raise	[sound:to-increase-to-raise.webm]	/oɡmɑ̃te/	збільшувати / підвищувати
+totalement	totally	[sound:totally.webm]	/tɔtaləmɑ̃/	цілком, повністю
+le jugement	the judgment / the ruling	[sound:the-judgment-the-ruling.webm]	/lə ʒyʒəmɑ̃/	судження / рішення суду
+soulager	to relieve	[sound:to-relieve.webm]	/sulaʒe/	полегшувати
+fixe	fixed / steady	[sound:fixed-steady.webm]	/fiks/	нерухомий / сталий
+gratter	to scratch	[sound:to-scratch.webm]	/ɡʁate/	шкрябати / чухати
+l'atmosphère (f.)	the atmosphere	[sound:the-atmosphere-l-atmosphere-f.webm]	/latmɔsfɛʁ/	атмосфера
+le rond	the circle / the ring	[sound:the-circle-the-ring.webm]	/lə ʁɔ̃/	коло / кільце
+l'élan (m.)	the momentum / the impulse / the moose (Québec: l'orignal)	[sound:the-momentum-the-impulse-the-moose-quebec-l-orignal.webm]	/lelɑ̃/	розгін / порив / лось (у Квебеку: l'orignal)
+le tissu	the fabric / the cloth	[sound:the-fabric-the-cloth.webm]	/lə tisy/	тканина
+la villa	the villa	[sound:the-villa.webm]	/la villa/	вілла
+la permission	the permission	[sound:the-permission.webm]	/la pɛʁmisjɔ̃/	дозвіл
+l'incident (m.)	the incident	[sound:the-incident.webm]	/lɛ̃sidɑ̃/	інцидент
+la commande	the order (purchase)	[sound:the-order-purchase.webm]	/la kɔmɑ̃d/	замовлення
+l'écriture (f.)	the writing / the handwriting	[sound:the-writing-the-handwriting.webm]	/lekʁityʁ/	письмо / почерк
+témoigner	to testify / to show	[sound:to-testify-to-show.webm]	/temwaɲe/	свідчити / виявляти
+l'extérieur (m.)	the outside (à l'extérieur = outside)	[sound:the-outside-a-l-exterieur-outside.webm]	/lɛksteʁjœʁ/	зовнішність, зовні (à l'extérieur = надворі, зовні)
+étonnant / étonnante	surprising / amazing	[sound:surprising-amazing.webm]	/etɔnɑ̃, etɔnɑ̃t/	дивовижний / дивовижна
+l'éternité (f.)	the eternity	[sound:the-eternity.webm]	/letɛʁnite/	вічність
+fréquenter	to go to (a place regularly) / to hang out with	[sound:to-go-to-a-place-regularly-to-hang-out-with.webm]	/fʁekɑ̃te/	відвідувати (регулярно) / водитися з
+la méthode	the method	[sound:the-method.webm]	/la metɔd/	метод
+traduire	to translate	[sound:to-translate.webm]	/tʁadɥiʁ/	перекладати
+régulier / régulière	regular	[sound:regular.webm]	/ʁeɡylje, ʁeɡyljɛʁ/	регулярний / регулярна
+transmettre	to pass on / to transmit	[sound:to-pass-on-to-transmit.webm]	/tʁɑ̃smɛtʁ/	передавати
+le sien / la sienne	his / hers (le sien / la sienne)	[sound:his-hers-le-sien-la-sienne.webm]	/lə sjɛ̃, la sjɛn/	його / її (le sien / la sienne)
+la photographie	the photography / the photograph	[sound:the-photography-the-photograph.webm]	/la fɔtɔɡʁafi/	фотографія
+l'écart (m.)	the gap / the difference (à l'écart = apart)	[sound:the-gap-the-difference-a-l-ecart-apart.webm]	/lekaʁ/	розрив / різниця (à l'écart = осторонь)
+déshabiller	to undress (se déshabiller)	[sound:to-undress-se-deshabiller.webm]	/dezabije/	роздягати (se déshabiller = роздягатися)
+la star	the star (celebrity)	[sound:the-star-celebrity.webm]	/la staʁ/	зірка (знаменитість)
+s'écrier	to exclaim / to cry out (s'écrier)	[sound:to-exclaim-to-cry-out-s-ecrier.webm]	/sekʁije/	вигукувати
+civil / civile	civil / civilian	[sound:civil-civilian.webm]	/sivil/	цивільний / громадянський
+le panier	the basket	[sound:the-basket.webm]	/lə panje/	кошик
+impliquer	to involve / to imply	[sound:to-involve-to-imply.webm]	/ɛ̃plike/	залучати / означати, передбачати

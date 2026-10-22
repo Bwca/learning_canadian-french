@@ -1,50 +1,50 @@
-la souffrance	the suffering	[sound:the-suffering.webm]	/la sufʁɑ̃s/
-aveugle	blind	[sound:blind.webm]	/avœɡl/
-britannique	British	[sound:british.webm]	/bʁitanik/
-le bouton	the button / the pimple	[sound:the-button-the-pimple.webm]	/lə butɔ̃/
-désigner	to point out / to appoint	[sound:to-point-out-to-appoint.webm]	/deziɲe/
-flotter	to float	[sound:to-float.webm]	/flɔte/
-le tueur	the killer	[sound:the-killer.webm]	/lə tɥœʁ/
-le chasseur	the hunter	[sound:the-hunter.webm]	/lə ʃasœʁ/
-l'allure (f.)	the look / the pace (à toute allure = at full speed)	[sound:the-look-the-pace-a-toute-allure-at-full-speed.webm]	/lalyʁ/
-plat / plate	flat	[sound:flat.webm]	/pla, plat/
-éternel / éternelle	eternal	[sound:eternal.webm]	/etɛʁnɛl/
-sourd / sourde	deaf	[sound:deaf.webm]	/suʁ, suʁd/
-l'imagination (f.)	the imagination	[sound:the-imagination.webm]	/limaʒinasjɔ̃/
-l'urgence (f.)	the emergency (les urgences = the ER)	[sound:the-emergency-les-urgences-the-er.webm]	/lyʁʒɑ̃s/
-la série	the series	[sound:the-series.webm]	/la seʁi/
-le cercle	the circle	[sound:the-circle.webm]	/lə sɛʁkl/
-vague	vague	[sound:vague.webm]	/vaɡ/
-bouffer	to eat (slang)	[sound:to-eat-slang.webm]	/bufe/
-le russe	Russian (the language)	[sound:russian-the-language.webm]	/lə ʁys/
-l'assassin (m.)	the murderer	[sound:the-murderer.webm]	/lasasɛ̃/
-le choc	the shock	[sound:the-shock.webm]	/lə ʃɔk/
-la tâche	the task	[sound:the-task.webm]	/la taʃ/
-maigre	thin / skinny	[sound:thin-skinny.webm]	/mɛɡʁ/
-soupirer	to sigh	[sound:to-sigh.webm]	/supiʁe/
-l'horizon (m.)	the horizon	[sound:the-horizon.webm]	/lɔʁizɔ̃/
-envahir	to invade	[sound:to-invade.webm]	/ɑ̃vaiʁ/
-la frontière	the border	[sound:the-border.webm]	/la fʁɔ̃tjɛʁ/
-guérir	to cure / to heal / to recover	[sound:to-cure-to-heal-to-recover.webm]	/ɡeʁiʁ/
-l'égard (m.)	the regard (à l'égard de = towards, regarding)	[sound:the-regard-a-l-egard-de-towards-regarding.webm]	/leɡaʁ/
-la barbe	the beard	[sound:the-beard.webm]	/la baʁb/
-au-delà	beyond	[sound:beyond.webm]	/odəla/
-le fiancé / la fiancée	the fiancé / the fiancée	[sound:the-fiance-the-fiancee.webm]	/lə fjɑ̃se, la fjɑ̃se/
-l'allée (f.)	the path / the driveway / the aisle	[sound:the-path-the-driveway-the-aisle.webm]	/lale/
-la menace	the threat	[sound:the-threat.webm]	/la mənas/
-affreux / affreuse	awful / horrible	[sound:awful-horrible.webm]	/afʁø, afʁøz/
-coupable	guilty	[sound:guilty.webm]	/kupabl/
-le lien	the link / the bond	[sound:the-link-the-bond.webm]	/lə ljɛ̃/
-lutter	to fight / to struggle	[sound:to-fight-to-struggle.webm]	/lyte/
-la charge	the load / the charge (les charges = utility costs)	[sound:the-load-the-charge-les-charges-utility-costs.webm]	/la ʃaʁʒ/
-le changement	the change	[sound:the-change.webm]	/lə ʃɑ̃ʒəmɑ̃/
-un imbécile / une imbécile	the idiot / the imbecile	[sound:the-idiot-the-imbecile.webm]	/œ̃n ɛ̃besil, yn ɛ̃besil/
-la perte	the loss	[sound:the-loss.webm]	/la pɛʁt/
-le principe	the principle (en principe = in theory)	[sound:the-principle-en-principe-in-theory.webm]	/lə pʁɛ̃sip/
-cracher	to spit	[sound:to-spit.webm]	/kʁaʃe/
-la manche	the sleeve (le manche = the handle)	[sound:the-sleeve-le-manche-the-handle.webm]	/la mɑ̃ʃ/
-le match	the match / the game	[sound:the-match-the-game.webm]	/lə matʃ/
-le meuble	the piece of furniture (les meubles = the furniture)	[sound:the-piece-of-furniture-les-meubles-the-furniture.webm]	/lə mœbl/
-redresser	to straighten / to put right	[sound:to-straighten-to-put-right.webm]	/ʁədʁese/
-contempler	to contemplate / to gaze at	[sound:to-contemplate-to-gaze-at.webm]	/kɔ̃tɑ̃ple/
-apparemment	apparently	[sound:apparently.webm]	/apaʁamɑ̃/
+la souffrance	the suffering	[sound:the-suffering.webm]	/la sufʁɑ̃s/	страждання
+aveugle	blind	[sound:blind.webm]	/avœɡl/	сліпий
+britannique	British	[sound:british.webm]	/bʁitanik/	британський
+le bouton	the button / the pimple	[sound:the-button-the-pimple.webm]	/lə butɔ̃/	ґудзик, кнопка / прищ
+désigner	to point out / to appoint	[sound:to-point-out-to-appoint.webm]	/deziɲe/	вказувати / призначати
+flotter	to float	[sound:to-float.webm]	/flɔte/	плавати (на поверхні)
+le tueur	the killer	[sound:the-killer.webm]	/lə tɥœʁ/	вбивця
+le chasseur	the hunter	[sound:the-hunter.webm]	/lə ʃasœʁ/	мисливець
+l'allure (f.)	the look / the pace (à toute allure = at full speed)	[sound:the-look-the-pace-a-toute-allure-at-full-speed.webm]	/lalyʁ/	вигляд / хода, темп (à toute allure = на повній швидкості)
+plat / plate	flat	[sound:flat.webm]	/pla, plat/	плаский / пласка
+éternel / éternelle	eternal	[sound:eternal.webm]	/etɛʁnɛl/	вічний / вічна
+sourd / sourde	deaf	[sound:deaf.webm]	/suʁ, suʁd/	глухий / глуха
+l'imagination (f.)	the imagination	[sound:the-imagination.webm]	/limaʒinasjɔ̃/	уява
+l'urgence (f.)	the emergency (les urgences = the ER)	[sound:the-emergency-les-urgences-the-er.webm]	/lyʁʒɑ̃s/	надзвичайна ситуація (les urgences = відділення невідкладної допомоги)
+la série	the series	[sound:the-series.webm]	/la seʁi/	серія / серіал
+le cercle	the circle	[sound:the-circle.webm]	/lə sɛʁkl/	коло
+vague	vague	[sound:vague.webm]	/vaɡ/	невиразний, розпливчастий
+bouffer	to eat (slang)	[sound:to-eat-slang.webm]	/bufe/	жерти, їсти (сленг)
+le russe	Russian (the language)	[sound:russian-the-language.webm]	/lə ʁys/	російська (мова)
+l'assassin (m.)	the murderer	[sound:the-murderer.webm]	/lasasɛ̃/	вбивця
+le choc	the shock	[sound:the-shock.webm]	/lə ʃɔk/	шок, удар
+la tâche	the task	[sound:the-task.webm]	/la taʃ/	завдання
+maigre	thin / skinny	[sound:thin-skinny.webm]	/mɛɡʁ/	худий
+soupirer	to sigh	[sound:to-sigh.webm]	/supiʁe/	зітхати
+l'horizon (m.)	the horizon	[sound:the-horizon.webm]	/lɔʁizɔ̃/	горизонт
+envahir	to invade	[sound:to-invade.webm]	/ɑ̃vaiʁ/	вторгатися / заполоняти
+la frontière	the border	[sound:the-border.webm]	/la fʁɔ̃tjɛʁ/	кордон
+guérir	to cure / to heal / to recover	[sound:to-cure-to-heal-to-recover.webm]	/ɡeʁiʁ/	лікувати / зцілювати / одужувати
+l'égard (m.)	the regard (à l'égard de = towards, regarding)	[sound:the-regard-a-l-egard-de-towards-regarding.webm]	/leɡaʁ/	повага, зважання (à l'égard de = щодо, стосовно)
+la barbe	the beard	[sound:the-beard.webm]	/la baʁb/	борода
+au-delà	beyond	[sound:beyond.webm]	/odəla/	по той бік, понад
+le fiancé / la fiancée	the fiancé / the fiancée	[sound:the-fiance-the-fiancee.webm]	/lə fjɑ̃se, la fjɑ̃se/	наречений / наречена
+l'allée (f.)	the path / the driveway / the aisle	[sound:the-path-the-driveway-the-aisle.webm]	/lale/	алея / під'їзна доріжка / прохід
+la menace	the threat	[sound:the-threat.webm]	/la mənas/	загроза
+affreux / affreuse	awful / horrible	[sound:awful-horrible.webm]	/afʁø, afʁøz/	жахливий / жахлива
+coupable	guilty	[sound:guilty.webm]	/kupabl/	винний
+le lien	the link / the bond	[sound:the-link-the-bond.webm]	/lə ljɛ̃/	зв'язок
+lutter	to fight / to struggle	[sound:to-fight-to-struggle.webm]	/lyte/	боротися
+la charge	the load / the charge (les charges = utility costs)	[sound:the-load-the-charge-les-charges-utility-costs.webm]	/la ʃaʁʒ/	вантаж / обов'язок (les charges = комунальні платежі)
+le changement	the change	[sound:the-change.webm]	/lə ʃɑ̃ʒəmɑ̃/	зміна
+un imbécile / une imbécile	the idiot / the imbecile	[sound:the-idiot-the-imbecile.webm]	/œ̃n ɛ̃besil, yn ɛ̃besil/	дурень / дурепа
+la perte	the loss	[sound:the-loss.webm]	/la pɛʁt/	втрата
+le principe	the principle (en principe = in theory)	[sound:the-principle-en-principe-in-theory.webm]	/lə pʁɛ̃sip/	принцип (en principe = теоретично)
+cracher	to spit	[sound:to-spit.webm]	/kʁaʃe/	плювати
+la manche	the sleeve (le manche = the handle)	[sound:the-sleeve-le-manche-the-handle.webm]	/la mɑ̃ʃ/	рукав (le manche = ручка, держак)
+le match	the match / the game	[sound:the-match-the-game.webm]	/lə matʃ/	матч, гра
+le meuble	the piece of furniture (les meubles = the furniture)	[sound:the-piece-of-furniture-les-meubles-the-furniture.webm]	/lə mœbl/	предмет меблів (les meubles = меблі)
+redresser	to straighten / to put right	[sound:to-straighten-to-put-right.webm]	/ʁədʁese/	випрямляти / виправляти
+contempler	to contemplate / to gaze at	[sound:to-contemplate-to-gaze-at.webm]	/kɔ̃tɑ̃ple/	споглядати / милуватися
+apparemment	apparently	[sound:apparently.webm]	/apaʁamɑ̃/	схоже, очевидно

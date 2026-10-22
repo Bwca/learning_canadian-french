@@ -1,50 +1,50 @@
-camper	to camp	[sound:to-camp.webm]	/kɑ̃pe/
-artistique	artistic	[sound:artistic.webm]	/aʁtistik/
-dramatique	dramatic	[sound:dramatic.webm]	/dʁamatik/
-fortement	strongly / heavily	[sound:strongly-heavily.webm]	/fɔʁtəmɑ̃/
-le fût	the barrel / the cask	[sound:the-barrel-the-cask.webm]	/lə fy/
-la démonstration	the demonstration (showing how)	[sound:the-demonstration-showing-how.webm]	/la demɔ̃stʁasjɔ̃/
-la notion	the notion / the concept	[sound:the-notion-the-concept.webm]	/la nɔsjɔ̃/
-le circuit	the circuit / the tour	[sound:the-circuit-the-tour.webm]	/lə siʁkɥi/
-critique	critical	[sound:critical.webm]	/kʁitik/
-marin / marine	marine / sea (adj.)	[sound:marine-sea-adj.webm]	/maʁɛ̃, maʁin/
-la case	the box (form) / the square (board game)	[sound:the-box-form-the-square-board-game.webm]	/la kaz/
-convertir	to convert	[sound:to-convert.webm]	/kɔ̃vɛʁtiʁ/
-successif / successive	successive / consecutive	[sound:successive-consecutive.webm]	/syksesif, syksesiv/
-la préférence	the preference (de préférence = preferably)	[sound:the-preference-de-preference-preferably.webm]	/la pʁefeʁɑ̃s/
-librement	freely	[sound:freely.webm]	/libʁəmɑ̃/
-natal / natale	native / birth (la ville natale = hometown)	[sound:native-birth-la-ville-natale-hometown.webm]	/natal/
-l'emplacement (m.)	the location / the site	[sound:the-location-the-site.webm]	/lɑ̃plasəmɑ̃/
-la vingtaine	about twenty (une vingtaine de)	[sound:about-twenty-une-vingtaine-de.webm]	/la vɛ̃tɛn/
-le cliché	the cliché / the snapshot	[sound:the-cliche-the-snapshot.webm]	/lə kliʃe/
-la catégorie	the category	[sound:the-category.webm]	/la kateɡɔʁi/
-le vote	the vote	[sound:the-vote.webm]	/lə vɔt/
-enrichir	to enrich	[sound:to-enrich.webm]	/ɑ̃ʁiʃiʁ/
-révolutionnaire	revolutionary	[sound:revolutionary.webm]	/ʁevɔlysjɔnɛʁ/
-le rez-de-chaussée	the ground floor (Québec: le rez-de-chaussée / le premier étage)	[sound:the-ground-floor-quebec-le-rez-de-chaussee-le-premier-etage.webm]	/lə ʁedəʃose/
-régaler	to treat (someone to a meal) (se régaler = to enjoy food)	[sound:to-treat-someone-to-a-meal-se-regaler-to-enjoy-food.webm]	/ʁeɡale/
-la description	the description	[sound:the-description.webm]	/la deskʁipsjɔ̃/
-le record	the record (best)	[sound:the-record-best.webm]	/lə ʁəkɔʁ/
-artificiel / artificielle	artificial	[sound:artificial.webm]	/aʁtifisjɛl/
-aboyer	to bark	[sound:to-bark.webm]	/abwaje/
-la rentrée	back to school / the return (September)	[sound:back-to-school-the-return-september.webm]	/la ʁɑ̃tʁe/
-contrairement	contrary to / unlike	[sound:contrary-to-unlike.webm]	/kɔ̃tʁɛʁəmɑ̃/
-économiser	to save (money)	[sound:to-save-money.webm]	/ekɔnɔmize/
-le souhait	the wish	[sound:the-wish.webm]	/lə swɛ/
-formuler	to formulate / to express	[sound:to-formulate-to-express.webm]	/fɔʁmyle/
-la comparaison	the comparison	[sound:the-comparison.webm]	/la kɔ̃paʁɛzɔ̃/
-bizarrement	strangely / oddly	[sound:strangely-oddly.webm]	/bizaʁəmɑ̃/
-le minimum	the minimum	[sound:the-minimum.webm]	/lə minimɔm/
-conséquent / conséquente	substantial / consistent (par conséquent = therefore)	[sound:substantial-consistent-par-consequent-therefore.webm]	/kɔ̃sekɑ̃, kɔ̃sekɑ̃t/
-le renard	the fox	[sound:the-fox.webm]	/lə ʁənaʁ/
-le producteur / la productrice	the producer	[sound:the-producer.webm]	/lə pʁɔdyktœʁ, la pʁɔdyktʁis/
-déçu / déçue	disappointed	[sound:disappointed.webm]	/desy/
-patienter	to wait (patiently)	[sound:to-wait-patiently.webm]	/pasjɑ̃te/
-récompenser	to reward	[sound:to-reward.webm]	/ʁekɔ̃pɑ̃se/
-loyal / loyale	loyal	[sound:loyal.webm]	/lwajal/
-le reportage	the report (TV) / the documentary	[sound:the-report-tv-the-documentary.webm]	/lə ʁəpɔʁtaʒ/
-silencieusement	silently	[sound:silently.webm]	/silɑ̃sjøzəmɑ̃/
-la communion	the communion	[sound:the-communion.webm]	/la kɔmynjɔ̃/
-la négociation	the negotiation	[sound:the-negotiation.webm]	/la neɡɔsjasjɔ̃/
-l'enregistrement (m.)	the recording / the registration / the check-in	[sound:the-recording-the-registration-the-check-in.webm]	/lɑ̃ʁəʒistʁəmɑ̃/
-le budget	the budget	[sound:the-budget.webm]	/lə bydʒɛ/
+camper	to camp	[sound:to-camp.webm]	/kɑ̃pe/	кемпінгувати, ночувати в наметі
+artistique	artistic	[sound:artistic.webm]	/aʁtistik/	мистецький
+dramatique	dramatic	[sound:dramatic.webm]	/dʁamatik/	драматичний
+fortement	strongly / heavily	[sound:strongly-heavily.webm]	/fɔʁtəmɑ̃/	сильно / значно
+le fût	the barrel / the cask	[sound:the-barrel-the-cask.webm]	/lə fy/	бочка
+la démonstration	the demonstration (showing how)	[sound:the-demonstration-showing-how.webm]	/la demɔ̃stʁasjɔ̃/	демонстрація (показ)
+la notion	the notion / the concept	[sound:the-notion-the-concept.webm]	/la nɔsjɔ̃/	поняття / концепція
+le circuit	the circuit / the tour	[sound:the-circuit-the-tour.webm]	/lə siʁkɥi/	маршрут / контур, схема
+critique	critical	[sound:critical.webm]	/kʁitik/	критичний
+marin / marine	marine / sea (adj.)	[sound:marine-sea-adj.webm]	/maʁɛ̃, maʁin/	морський / морська
+la case	the box (form) / the square (board game)	[sound:the-box-form-the-square-board-game.webm]	/la kaz/	клітинка (у формі) / клітинка (на дошці)
+convertir	to convert	[sound:to-convert.webm]	/kɔ̃vɛʁtiʁ/	перетворювати / конвертувати
+successif / successive	successive / consecutive	[sound:successive-consecutive.webm]	/syksesif, syksesiv/	послідовний / наступні один за одним
+la préférence	the preference (de préférence = preferably)	[sound:the-preference-de-preference-preferably.webm]	/la pʁefeʁɑ̃s/	перевага (de préférence = бажано)
+librement	freely	[sound:freely.webm]	/libʁəmɑ̃/	вільно
+natal / natale	native / birth (la ville natale = hometown)	[sound:native-birth-la-ville-natale-hometown.webm]	/natal/	рідний (la ville natale = рідне місто)
+l'emplacement (m.)	the location / the site	[sound:the-location-the-site.webm]	/lɑ̃plasəmɑ̃/	розташування / місце
+la vingtaine	about twenty (une vingtaine de)	[sound:about-twenty-une-vingtaine-de.webm]	/la vɛ̃tɛn/	близько двадцяти (une vingtaine de)
+le cliché	the cliché / the snapshot	[sound:the-cliche-the-snapshot.webm]	/lə kliʃe/	кліше / знімок
+la catégorie	the category	[sound:the-category.webm]	/la kateɡɔʁi/	категорія
+le vote	the vote	[sound:the-vote.webm]	/lə vɔt/	голосування / голос
+enrichir	to enrich	[sound:to-enrich.webm]	/ɑ̃ʁiʃiʁ/	збагачувати
+révolutionnaire	revolutionary	[sound:revolutionary.webm]	/ʁevɔlysjɔnɛʁ/	революційний
+le rez-de-chaussée	the ground floor (Québec: le rez-de-chaussée / le premier étage)	[sound:the-ground-floor-quebec-le-rez-de-chaussee-le-premier-etage.webm]	/lə ʁedəʃose/	перший поверх (у Квебеку: le rez-de-chaussée / le premier étage)
+régaler	to treat (someone to a meal) (se régaler = to enjoy food)	[sound:to-treat-someone-to-a-meal-se-regaler-to-enjoy-food.webm]	/ʁeɡale/	частувати (se régaler = смакувати, ласувати)
+la description	the description	[sound:the-description.webm]	/la deskʁipsjɔ̃/	опис
+le record	the record (best)	[sound:the-record-best.webm]	/lə ʁəkɔʁ/	рекорд
+artificiel / artificielle	artificial	[sound:artificial.webm]	/aʁtifisjɛl/	штучний / штучна
+aboyer	to bark	[sound:to-bark.webm]	/abwaje/	гавкати
+la rentrée	back to school / the return (September)	[sound:back-to-school-the-return-september.webm]	/la ʁɑ̃tʁe/	початок навчального року / повернення (у вересні)
+contrairement	contrary to / unlike	[sound:contrary-to-unlike.webm]	/kɔ̃tʁɛʁəmɑ̃/	на відміну від / всупереч
+économiser	to save (money)	[sound:to-save-money.webm]	/ekɔnɔmize/	заощаджувати
+le souhait	the wish	[sound:the-wish.webm]	/lə swɛ/	бажання, побажання
+formuler	to formulate / to express	[sound:to-formulate-to-express.webm]	/fɔʁmyle/	формулювати / висловлювати
+la comparaison	the comparison	[sound:the-comparison.webm]	/la kɔ̃paʁɛzɔ̃/	порівняння
+bizarrement	strangely / oddly	[sound:strangely-oddly.webm]	/bizaʁəmɑ̃/	дивно, чомусь
+le minimum	the minimum	[sound:the-minimum.webm]	/lə minimɔm/	мінімум
+conséquent / conséquente	substantial / consistent (par conséquent = therefore)	[sound:substantial-consistent-par-consequent-therefore.webm]	/kɔ̃sekɑ̃, kɔ̃sekɑ̃t/	значний / послідовний (par conséquent = отже)
+le renard	the fox	[sound:the-fox.webm]	/lə ʁənaʁ/	лис
+le producteur / la productrice	the producer	[sound:the-producer.webm]	/lə pʁɔdyktœʁ, la pʁɔdyktʁis/	продюсер / продюсерка, виробник
+déçu / déçue	disappointed	[sound:disappointed.webm]	/desy/	розчарований / розчарована
+patienter	to wait (patiently)	[sound:to-wait-patiently.webm]	/pasjɑ̃te/	чекати (терпляче)
+récompenser	to reward	[sound:to-reward.webm]	/ʁekɔ̃pɑ̃se/	винагороджувати
+loyal / loyale	loyal	[sound:loyal.webm]	/lwajal/	вірний / вірна
+le reportage	the report (TV) / the documentary	[sound:the-report-tv-the-documentary.webm]	/lə ʁəpɔʁtaʒ/	репортаж / документальний фільм
+silencieusement	silently	[sound:silently.webm]	/silɑ̃sjøzəmɑ̃/	мовчки, тихо
+la communion	the communion	[sound:the-communion.webm]	/la kɔmynjɔ̃/	причастя
+la négociation	the negotiation	[sound:the-negotiation.webm]	/la neɡɔsjasjɔ̃/	переговори
+l'enregistrement (m.)	the recording / the registration / the check-in	[sound:the-recording-the-registration-the-check-in.webm]	/lɑ̃ʁəʒistʁəmɑ̃/	запис / реєстрація
+le budget	the budget	[sound:the-budget.webm]	/lə bydʒɛ/	бюджет

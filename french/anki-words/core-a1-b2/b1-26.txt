@@ -1,50 +1,50 @@
-diminuer	to decrease / to reduce	[sound:to-decrease-to-reduce.webm]	/diminɥe/
-le taureau	the bull	[sound:the-bull.webm]	/lə toʁo/
-nord	north (adj., invariable)	[sound:north-adj-invariable.webm]	/nɔʁ/
-renouveler	to renew	[sound:to-renew.webm]	/ʁənuvəle/
-le jury	the jury / the panel	[sound:the-jury-the-panel.webm]	/lə ʒyʁi/
-le champignon	the mushroom	[sound:the-mushroom.webm]	/lə ʃɑ̃piɲɔ̃/
-la majorité	the majority / the age of majority	[sound:the-majority-the-age-of-majority.webm]	/la maʒɔʁite/
-photographier	to photograph / to take a picture of	[sound:to-photograph-to-take-a-picture-of.webm]	/fɔtɔɡʁafje/
-tremblant / tremblante	trembling / shaky	[sound:trembling-shaky.webm]	/tʁɑ̃blɑ̃, tʁɑ̃blɑ̃t/
-considérable	considerable	[sound:considerable.webm]	/kɔ̃sideʁabl/
-la hache	the axe	[sound:the-axe.webm]	/la aʃ/
-la fantaisie	the fantasy / the imagination	[sound:the-fantasy-the-imagination.webm]	/la fɑ̃tezi/
-constamment	constantly	[sound:constantly.webm]	/kɔ̃stamɑ̃/
-uni / unie	united / plain (colour)	[sound:united-plain-colour.webm]	/yni/
-le tigre / la tigresse	the tiger / the tigress	[sound:the-tiger-the-tigress.webm]	/lə tiɡʁ, la tiɡʁɛs/
-l'épingle (f.)	the pin	[sound:the-pin.webm]	/lepɛ̃ɡl/
-le tournant	the turning point / the bend	[sound:the-turning-point-the-bend.webm]	/lə tuʁnɑ̃/
-contribuer	to contribute	[sound:to-contribute.webm]	/kɔ̃tʁibɥe/
-violemment	violently	[sound:violently.webm]	/vjɔlamɑ̃/
-le loyer	the rent	[sound:the-rent.webm]	/lə lwaje/
-la lenteur	the slowness	[sound:the-slowness.webm]	/la lɑ̃tœʁ/
-éblouir	to dazzle	[sound:to-dazzle.webm]	/ebluiʁ/
-habile	skilful / clever	[sound:skilful-clever.webm]	/abil/
-le frein	the brake	[sound:the-brake.webm]	/lə fʁɛ̃/
-agrandir	to enlarge / to expand	[sound:to-enlarge-to-expand.webm]	/aɡʁɑ̃diʁ/
-l'automobile (f.)	the car (formal)	[sound:the-car-formal.webm]	/lotɔmɔbil/
-le contenu	the content	[sound:the-content.webm]	/lə kɔ̃təny/
-l'étiquette (f.)	the label / the etiquette	[sound:the-label-the-etiquette.webm]	/letikɛt/
-la prairie	the meadow / the prairie	[sound:the-meadow-the-prairie.webm]	/la pʁeʁi/
-tester	to test	[sound:to-test.webm]	/tɛste/
-le pompier / la pompière	the firefighter	[sound:the-firefighter-le-pompier-la-pompiere.webm]	/lə pɔ̃pje, la pɔ̃pjɛʁ/
-le confort	the comfort	[sound:the-comfort.webm]	/lə kɔ̃fɔʁ/
-la légion	the legion	[sound:the-legion.webm]	/la leʒjɔ̃/
-isolé / isolée	isolated / lonely	[sound:isolated-lonely.webm]	/izɔle/
-le commencement	the beginning	[sound:the-beginning-le-commencement.webm]	/lə kɔmɑ̃səmɑ̃/
-le physique / la physique	the physique / physics (la physique)	[sound:the-physique-physics-la-physique.webm]	/lə fizik, la fizik/
-bruyant / bruyante	noisy	[sound:noisy.webm]	/bʁɥijɑ̃, bʁɥijɑ̃t/
-le jambon	the ham	[sound:the-ham-le-jambon.webm]	/lə ʒɑ̃bɔ̃/
-la clientèle	the clientele / the customers	[sound:the-clientele-the-customers.webm]	/la klijɑ̃tɛl/
-la poire	the pear	[sound:the-pear.webm]	/la pwaʁ/
-le bronze	the bronze	[sound:the-bronze.webm]	/lə bʁɔ̃z/
-la punition	the punishment	[sound:the-punishment.webm]	/la pynisjɔ̃/
-le square	the small public garden / the square	[sound:the-small-public-garden-the-square.webm]	/lə skwaʁ/
-frissonner	to shiver	[sound:to-shiver.webm]	/fʁisɔne/
-la promotion	the promotion / the special offer (en promotion = on sale)	[sound:the-promotion-the-special-offer-en-promotion-on-sale.webm]	/la pʁɔmɔsjɔ̃/
-matériel / matérielle	material	[sound:material.webm]	/mateʁjɛl/
-la conquête	the conquest	[sound:the-conquest.webm]	/la kɔ̃kɛt/
-la déesse	the goddess	[sound:the-goddess.webm]	/la deɛs/
-émerveiller	to amaze / to fill with wonder	[sound:to-amaze-to-fill-with-wonder.webm]	/emɛʁveje/
-interpréter	to interpret / to perform (a role)	[sound:to-interpret-to-perform-a-role.webm]	/ɛ̃tɛʁpʁete/
+diminuer	to decrease / to reduce	[sound:to-decrease-to-reduce.webm]	/diminɥe/	зменшувати(ся)
+le taureau	the bull	[sound:the-bull.webm]	/lə toʁo/	бик
+nord	north (adj., invariable)	[sound:north-adj-invariable.webm]	/nɔʁ/	північний (незмінне)
+renouveler	to renew	[sound:to-renew.webm]	/ʁənuvəle/	поновлювати
+le jury	the jury / the panel	[sound:the-jury-the-panel.webm]	/lə ʒyʁi/	журі / комісія
+le champignon	the mushroom	[sound:the-mushroom.webm]	/lə ʃɑ̃piɲɔ̃/	гриб
+la majorité	the majority / the age of majority	[sound:the-majority-the-age-of-majority.webm]	/la maʒɔʁite/	більшість / повноліття
+photographier	to photograph / to take a picture of	[sound:to-photograph-to-take-a-picture-of.webm]	/fɔtɔɡʁafje/	фотографувати
+tremblant / tremblante	trembling / shaky	[sound:trembling-shaky.webm]	/tʁɑ̃blɑ̃, tʁɑ̃blɑ̃t/	тремтячий / тремтяча
+considérable	considerable	[sound:considerable.webm]	/kɔ̃sideʁabl/	значний
+la hache	the axe	[sound:the-axe.webm]	/la aʃ/	сокира
+la fantaisie	the fantasy / the imagination	[sound:the-fantasy-the-imagination.webm]	/la fɑ̃tezi/	фантазія / уява
+constamment	constantly	[sound:constantly.webm]	/kɔ̃stamɑ̃/	постійно
+uni / unie	united / plain (colour)	[sound:united-plain-colour.webm]	/yni/	об'єднаний / однотонний (колір)
+le tigre / la tigresse	the tiger / the tigress	[sound:the-tiger-the-tigress.webm]	/lə tiɡʁ, la tiɡʁɛs/	тигр / тигриця
+l'épingle (f.)	the pin	[sound:the-pin.webm]	/lepɛ̃ɡl/	шпилька
+le tournant	the turning point / the bend	[sound:the-turning-point-the-bend.webm]	/lə tuʁnɑ̃/	поворотний момент / поворот (дороги)
+contribuer	to contribute	[sound:to-contribute.webm]	/kɔ̃tʁibɥe/	сприяти / робити внесок
+violemment	violently	[sound:violently.webm]	/vjɔlamɑ̃/	жорстоко, різко
+le loyer	the rent	[sound:the-rent.webm]	/lə lwaje/	орендна плата
+la lenteur	the slowness	[sound:the-slowness.webm]	/la lɑ̃tœʁ/	повільність
+éblouir	to dazzle	[sound:to-dazzle.webm]	/ebluiʁ/	засліплювати
+habile	skilful / clever	[sound:skilful-clever.webm]	/abil/	вправний / спритний
+le frein	the brake	[sound:the-brake.webm]	/lə fʁɛ̃/	гальмо
+agrandir	to enlarge / to expand	[sound:to-enlarge-to-expand.webm]	/aɡʁɑ̃diʁ/	збільшувати / розширювати
+l'automobile (f.)	the car (formal)	[sound:the-car-formal.webm]	/lotɔmɔbil/	автомобіль (офіц.)
+le contenu	the content	[sound:the-content.webm]	/lə kɔ̃təny/	зміст
+l'étiquette (f.)	the label / the etiquette	[sound:the-label-the-etiquette.webm]	/letikɛt/	етикетка / етикет
+la prairie	the meadow / the prairie	[sound:the-meadow-the-prairie.webm]	/la pʁeʁi/	луг / прерія
+tester	to test	[sound:to-test.webm]	/tɛste/	тестувати
+le pompier / la pompière	the firefighter	[sound:the-firefighter-le-pompier-la-pompiere.webm]	/lə pɔ̃pje, la pɔ̃pjɛʁ/	пожежник / пожежниця
+le confort	the comfort	[sound:the-comfort.webm]	/lə kɔ̃fɔʁ/	комфорт
+la légion	the legion	[sound:the-legion.webm]	/la leʒjɔ̃/	легіон
+isolé / isolée	isolated / lonely	[sound:isolated-lonely.webm]	/izɔle/	ізольований / самотній
+le commencement	the beginning	[sound:the-beginning-le-commencement.webm]	/lə kɔmɑ̃səmɑ̃/	початок
+le physique / la physique	the physique / physics (la physique)	[sound:the-physique-physics-la-physique.webm]	/lə fizik, la fizik/	статура / фізика (la physique)
+bruyant / bruyante	noisy	[sound:noisy.webm]	/bʁɥijɑ̃, bʁɥijɑ̃t/	галасливий / галаслива
+le jambon	the ham	[sound:the-ham-le-jambon.webm]	/lə ʒɑ̃bɔ̃/	шинка
+la clientèle	the clientele / the customers	[sound:the-clientele-the-customers.webm]	/la klijɑ̃tɛl/	клієнтура, клієнти
+la poire	the pear	[sound:the-pear.webm]	/la pwaʁ/	груша
+le bronze	the bronze	[sound:the-bronze.webm]	/lə bʁɔ̃z/	бронза
+la punition	the punishment	[sound:the-punishment.webm]	/la pynisjɔ̃/	покарання
+le square	the small public garden / the square	[sound:the-small-public-garden-the-square.webm]	/lə skwaʁ/	сквер
+frissonner	to shiver	[sound:to-shiver.webm]	/fʁisɔne/	тремтіти (від холоду)
+la promotion	the promotion / the special offer (en promotion = on sale)	[sound:the-promotion-the-special-offer-en-promotion-on-sale.webm]	/la pʁɔmɔsjɔ̃/	підвищення (на посаді) / акція (en promotion = за знижкою)
+matériel / matérielle	material	[sound:material.webm]	/mateʁjɛl/	матеріальний / матеріальна
+la conquête	the conquest	[sound:the-conquest.webm]	/la kɔ̃kɛt/	завоювання
+la déesse	the goddess	[sound:the-goddess.webm]	/la deɛs/	богиня
+émerveiller	to amaze / to fill with wonder	[sound:to-amaze-to-fill-with-wonder.webm]	/emɛʁveje/	захоплювати, вражати
+interpréter	to interpret / to perform (a role)	[sound:to-interpret-to-perform-a-role.webm]	/ɛ̃tɛʁpʁete/	тлумачити / виконувати (роль)

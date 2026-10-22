@@ -1,50 +1,50 @@
-le palmier	the palm tree	[sound:the-palm-tree.webm]	/lə palmje/
-la récolte	the harvest	[sound:the-harvest.webm]	/la ʁekɔlt/
-le torrent	the torrent	[sound:the-torrent.webm]	/lə tɔʁɑ̃/
-redire	to say again / to repeat	[sound:to-say-again-to-repeat.webm]	/ʁədiʁ/
-la dépression	the depression	[sound:the-depression.webm]	/la depʁesjɔ̃/
-flamber	to burn / to flambé / to soar (prices)	[sound:to-burn-to-flambe-to-soar-prices.webm]	/flɑ̃be/
-la noblesse	the nobility	[sound:the-nobility.webm]	/la nɔblɛs/
-l'application (f.)	the application / the app	[sound:the-application-the-app.webm]	/laplikasjɔ̃/
-la marine	the navy	[sound:the-navy.webm]	/la maʁin/
-le mendiant / la mendiante	the beggar	[sound:the-beggar.webm]	/lə mɑ̃djɑ̃, la mɑ̃djɑ̃t/
-le sifflement	the whistling / the hiss	[sound:the-whistling-the-hiss.webm]	/lə sifləmɑ̃/
-le retrait	the withdrawal	[sound:the-withdrawal.webm]	/lə ʁətʁɛ/
-poussiéreux / poussiéreuse	dusty	[sound:dusty.webm]	/pusjeʁø, pusjeʁøz/
-grotesque	grotesque / ridiculous	[sound:grotesque-ridiculous.webm]	/ɡʁɔtɛsk/
-après-demain	the day after tomorrow	[sound:the-day-after-tomorrow.webm]	/apʁɛdəmɛ̃/
-la balance	the scales / the balance	[sound:the-scales-the-balance.webm]	/la balɑ̃s/
-masser	to massage	[sound:to-massage.webm]	/mase/
-veuf / veuve	widowed (le veuf / la veuve = widower / widow)	[sound:widowed-le-veuf-la-veuve-widower-widow.webm]	/vœf, vœv/
-la permanence	the office hours / the duty office / the permanence (en permanence = constantly)	[sound:the-office-hours-the-duty-office-the-permanence-en.webm]	/la pɛʁmanɑ̃s/
-savourer	to savour	[sound:to-savour.webm]	/savuʁe/
-oriental / orientale	eastern / oriental	[sound:eastern-oriental.webm]	/ɔʁjɑ̃tal/
-l'oie (f.)	the goose	[sound:the-goose.webm]	/lwa/
-maudire	to curse	[sound:to-curse.webm]	/modiʁ/
-le squelette	the skeleton	[sound:the-skeleton.webm]	/lə skəlɛt/
-volant / volante	flying (la soucoupe volante = flying saucer)	[sound:flying-la-soucoupe-volante-flying-saucer.webm]	/vɔlɑ̃, vɔlɑ̃t/
-l'oxygène (m.)	the oxygen	[sound:the-oxygen.webm]	/lɔksiʒɛn/
-le / la faible	the weak person	[sound:the-weak-person.webm]	/lə, la fɛbl/
-l'invasion (f.)	the invasion	[sound:the-invasion.webm]	/lɛ̃vazjɔ̃/
-manipuler	to manipulate / to handle	[sound:to-manipulate-to-handle.webm]	/manipyle/
-obligé / obligée	obliged / forced (être obligé de = to have to)	[sound:obliged-forced-etre-oblige-de-to-have-to.webm]	/ɔbliʒe/
-mauve	mauve / purple	[sound:mauve-purple.webm]	/mov/
-baser	to base (basé sur = based on)	[sound:to-base-base-sur-based-on.webm]	/baze/
-la sensibilité	the sensitivity	[sound:the-sensitivity.webm]	/la sɑ̃sibilite/
-le biais	the angle / the means (par le biais de = by means of)	[sound:the-angle-the-means-par-le-biais-de-by-means-of.webm]	/lə bjɛ/
-masculin / masculine	masculine / male / men's	[sound:masculine-male-men-s.webm]	/maskylɛ̃, maskylin/
-la montée	the rise / the climb	[sound:the-rise-the-climb.webm]	/la mɔ̃te/
-l'aigle (m.)	the eagle	[sound:the-eagle.webm]	/lɛɡl/
-le surcroît	the extra (de surcroît = moreover)	[sound:the-extra-de-surcroit-moreover.webm]	/lə syʁkʁwa/
-le coucou	the cuckoo / hello! (informal: coucou !)	[sound:the-cuckoo-hello-informal-coucou.webm]	/lə kuku/
-le gibier	the game (hunting)	[sound:the-game-hunting.webm]	/lə ʒibje/
-l'énigme (f.)	the enigma / the riddle	[sound:the-enigma-the-riddle.webm]	/leniɡm/
-aggraver	to worsen / to aggravate	[sound:to-worsen-to-aggravate.webm]	/aɡʁave/
-forcé / forcée	forced	[sound:forced.webm]	/fɔʁse/
-le vestiaire	the locker room / the cloakroom	[sound:the-locker-room-the-cloakroom.webm]	/lə vɛstjɛʁ/
-éventuel / éventuelle	possible / potential (not "eventual")	[sound:possible-potential-not-eventual.webm]	/evɑ̃tɥɛl/
-la ferraille	the scrap metal	[sound:the-scrap-metal.webm]	/la fɛʁaj/
-suivant	according to / following	[sound:according-to-following.webm]	/sɥivɑ̃/
-le colis	the parcel / the package	[sound:the-parcel-the-package.webm]	/lə kɔli/
-la distraction	the entertainment / the absent-mindedness	[sound:the-entertainment-the-absent-mindedness.webm]	/la distʁaksjɔ̃/
-récolter	to harvest / to gather	[sound:to-harvest-to-gather.webm]	/ʁekɔlte/
+le palmier	the palm tree	[sound:the-palm-tree.webm]	/lə palmje/	пальма
+la récolte	the harvest	[sound:the-harvest.webm]	/la ʁekɔlt/	урожай
+le torrent	the torrent	[sound:the-torrent.webm]	/lə tɔʁɑ̃/	бурхливий потік
+redire	to say again / to repeat	[sound:to-say-again-to-repeat.webm]	/ʁədiʁ/	повторювати, казати знову
+la dépression	the depression	[sound:the-depression.webm]	/la depʁesjɔ̃/	депресія / западина
+flamber	to burn / to flambé / to soar (prices)	[sound:to-burn-to-flambe-to-soar-prices.webm]	/flɑ̃be/	палати / фламбувати / злітати (про ціни)
+la noblesse	the nobility	[sound:the-nobility.webm]	/la nɔblɛs/	шляхта, знать
+l'application (f.)	the application / the app	[sound:the-application-the-app.webm]	/laplikasjɔ̃/	застосування / застосунок
+la marine	the navy	[sound:the-navy.webm]	/la maʁin/	військово-морський флот
+le mendiant / la mendiante	the beggar	[sound:the-beggar.webm]	/lə mɑ̃djɑ̃, la mɑ̃djɑ̃t/	жебрак / жебрачка
+le sifflement	the whistling / the hiss	[sound:the-whistling-the-hiss.webm]	/lə sifləmɑ̃/	свист / шипіння
+le retrait	the withdrawal	[sound:the-withdrawal.webm]	/lə ʁətʁɛ/	зняття (коштів) / відступ
+poussiéreux / poussiéreuse	dusty	[sound:dusty.webm]	/pusjeʁø, pusjeʁøz/	запилений / запилена
+grotesque	grotesque / ridiculous	[sound:grotesque-ridiculous.webm]	/ɡʁɔtɛsk/	гротескний / безглуздий
+après-demain	the day after tomorrow	[sound:the-day-after-tomorrow.webm]	/apʁɛdəmɛ̃/	післязавтра
+la balance	the scales / the balance	[sound:the-scales-the-balance.webm]	/la balɑ̃s/	ваги / баланс
+masser	to massage	[sound:to-massage.webm]	/mase/	масажувати
+veuf / veuve	widowed (le veuf / la veuve = widower / widow)	[sound:widowed-le-veuf-la-veuve-widower-widow.webm]	/vœf, vœv/	овдовілий (le veuf / la veuve = вдівець / вдова)
+la permanence	the office hours / the duty office / the permanence (en permanence = constantly)	[sound:the-office-hours-the-duty-office-the-permanence-en.webm]	/la pɛʁmanɑ̃s/	чергування / приймальні години / постійність (en permanence = постійно)
+savourer	to savour	[sound:to-savour.webm]	/savuʁe/	смакувати
+oriental / orientale	eastern / oriental	[sound:eastern-oriental.webm]	/ɔʁjɑ̃tal/	східний / східна
+l'oie (f.)	the goose	[sound:the-goose.webm]	/lwa/	гуска
+maudire	to curse	[sound:to-curse.webm]	/modiʁ/	проклинати
+le squelette	the skeleton	[sound:the-skeleton.webm]	/lə skəlɛt/	скелет
+volant / volante	flying (la soucoupe volante = flying saucer)	[sound:flying-la-soucoupe-volante-flying-saucer.webm]	/vɔlɑ̃, vɔlɑ̃t/	літаючий (la soucoupe volante = літаюча тарілка)
+l'oxygène (m.)	the oxygen	[sound:the-oxygen.webm]	/lɔksiʒɛn/	кисень
+le / la faible	the weak person	[sound:the-weak-person.webm]	/lə, la fɛbl/	слабка людина
+l'invasion (f.)	the invasion	[sound:the-invasion.webm]	/lɛ̃vazjɔ̃/	вторгнення
+manipuler	to manipulate / to handle	[sound:to-manipulate-to-handle.webm]	/manipyle/	маніпулювати / поводитися з
+obligé / obligée	obliged / forced (être obligé de = to have to)	[sound:obliged-forced-etre-oblige-de-to-have-to.webm]	/ɔbliʒe/	змушений / змушена (être obligé de = мусити)
+mauve	mauve / purple	[sound:mauve-purple.webm]	/mov/	бузковий / ліловий
+baser	to base (basé sur = based on)	[sound:to-base-base-sur-based-on.webm]	/baze/	базувати (basé sur = заснований на)
+la sensibilité	the sensitivity	[sound:the-sensitivity.webm]	/la sɑ̃sibilite/	чутливість
+le biais	the angle / the means (par le biais de = by means of)	[sound:the-angle-the-means-par-le-biais-de-by-means-of.webm]	/lə bjɛ/	кут / засіб (par le biais de = за допомогою)
+masculin / masculine	masculine / male / men's	[sound:masculine-male-men-s.webm]	/maskylɛ̃, maskylin/	чоловічий / чоловіча
+la montée	the rise / the climb	[sound:the-rise-the-climb.webm]	/la mɔ̃te/	підйом / зростання
+l'aigle (m.)	the eagle	[sound:the-eagle.webm]	/lɛɡl/	орел
+le surcroît	the extra (de surcroît = moreover)	[sound:the-extra-de-surcroit-moreover.webm]	/lə syʁkʁwa/	надлишок (de surcroît = до того ж)
+le coucou	the cuckoo / hello! (informal: coucou !)	[sound:the-cuckoo-hello-informal-coucou.webm]	/lə kuku/	зозуля / привіт! (розм.: coucou !)
+le gibier	the game (hunting)	[sound:the-game-hunting.webm]	/lə ʒibje/	дичина
+l'énigme (f.)	the enigma / the riddle	[sound:the-enigma-the-riddle.webm]	/leniɡm/	загадка
+aggraver	to worsen / to aggravate	[sound:to-worsen-to-aggravate.webm]	/aɡʁave/	погіршувати / обтяжувати
+forcé / forcée	forced	[sound:forced.webm]	/fɔʁse/	вимушений / вимушена
+le vestiaire	the locker room / the cloakroom	[sound:the-locker-room-the-cloakroom.webm]	/lə vɛstjɛʁ/	роздягальня / гардероб
+éventuel / éventuelle	possible / potential (not "eventual")	[sound:possible-potential-not-eventual.webm]	/evɑ̃tɥɛl/	можливий / потенційний (не «кінцевий»)
+la ferraille	the scrap metal	[sound:the-scrap-metal.webm]	/la fɛʁaj/	металобрухт
+suivant	according to / following	[sound:according-to-following.webm]	/sɥivɑ̃/	згідно з / за
+le colis	the parcel / the package	[sound:the-parcel-the-package.webm]	/lə kɔli/	посилка
+la distraction	the entertainment / the absent-mindedness	[sound:the-entertainment-the-absent-mindedness.webm]	/la distʁaksjɔ̃/	розвага / неуважність
+récolter	to harvest / to gather	[sound:to-harvest-to-gather.webm]	/ʁekɔlte/	збирати урожай / збирати

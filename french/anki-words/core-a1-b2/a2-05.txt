@@ -1,50 +1,50 @@
-mêler	to mix (se mêler de = to meddle in)	[sound:to-mix-se-meler-de-to-meddle-in.webm]	/mele/
-l'espoir (m.)	the hope	[sound:the-hope.webm]	/lɛspwaʁ/
-douter	to doubt (se douter de = to suspect)	[sound:to-doubt-se-douter-de-to-suspect.webm]	/dute/
-la beauté	the beauty	[sound:the-beauty.webm]	/la bote/
-la mesure	the measure / the measurement (au fur et à mesure = as you go)	[sound:the-measure-the-measurement-au-fur-et-a-mesure-as-you-go.webm]	/la məzyʁ/
-le fil	the thread / the wire (au fil de = over the course of)	[sound:the-thread-the-wire-au-fil-de-over-the-course-of.webm]	/lə fil/
-relever	to raise / to pick up / to note	[sound:to-raise-to-pick-up-to-note.webm]	/ʁələve/
-hors	outside / except (hors de = out of)	[sound:outside-except-hors-de-out-of.webm]	/ɔʁ/
-l'équipe (f.)	the team	[sound:the-team-l-equipe-f.webm]	/lekip/
-le champ	the field	[sound:the-field-le-champ.webm]	/lə ʃɑ̃/
-capable	capable / able	[sound:capable-able.webm]	/kapabl/
-engager	to hire / to commit (s'engager = to commit oneself)	[sound:to-hire-to-commit-s-engager-to-commit-oneself.webm]	/ɑ̃ɡaʒe/
-la phrase	the sentence	[sound:the-sentence.webm]	/la fʁaz/
-le désir	the desire / the wish	[sound:the-desire-the-wish.webm]	/lə deziʁ/
-dégager	to clear / to free	[sound:to-clear-to-free.webm]	/deɡaʒe/
-cependant	however	[sound:however.webm]	/səpɑ̃dɑ̃/
-le cou	the neck	[sound:the-neck.webm]	/lə ku/
-le sommeil	the sleep (avoir sommeil = to be sleepy)	[sound:the-sleep-avoir-sommeil-to-be-sleepy.webm]	/lə sɔmɛj/
-coller	to stick / to glue	[sound:to-stick-to-glue.webm]	/kɔle/
-le calme	the calm	[sound:the-calm.webm]	/lə kalm/
-la chaise	the chair	[sound:the-chair-la-chaise.webm]	/la ʃɛz/
-avouer	to confess / to admit	[sound:to-confess-to-admit.webm]	/avwe/
-la conversation	the conversation	[sound:the-conversation.webm]	/la kɔ̃vɛʁsasjɔ̃/
-placer	to place / to put / to seat	[sound:to-place-to-put-to-seat.webm]	/plase/
-la moitié	the half	[sound:the-half.webm]	/la mwatje/
-hésiter	to hesitate	[sound:to-hesitate.webm]	/ezite/
-la sécurité	the safety / the security	[sound:the-safety-the-security.webm]	/la sekyʁite/
-entraîner	to train / to lead to (s'entraîner = to practise)	[sound:to-train-to-lead-to-s-entrainer-to-practise.webm]	/ɑ̃tʁene/
-le fer	the iron	[sound:the-iron.webm]	/lə fɛʁ/
-vérifier	to check / to verify	[sound:to-check-to-verify.webm]	/veʁifje/
-le diable	the devil	[sound:the-devil.webm]	/lə djabl/
-le chapeau	the hat	[sound:the-hat.webm]	/lə ʃapo/
-remplir	to fill (in)	[sound:to-fill-in.webm]	/ʁɑ̃pliʁ/
-prouver	to prove	[sound:to-prove.webm]	/pʁuve/
-l'allemand (m.)	German (the language)	[sound:german-the-language.webm]	/lalmɑ̃/
-surveiller	to watch over / to keep an eye on	[sound:to-watch-over-to-keep-an-eye-on.webm]	/syʁveje/
-américain / américaine	American	[sound:american.webm]	/ameʁikɛ̃, ameʁikɛn/
-la condition	the condition (à condition de = provided that)	[sound:the-condition-a-condition-de-provided-that.webm]	/la kɔ̃disjɔ̃/
-proche	close / near	[sound:close-near.webm]	/pʁɔʃ/
-le combat	the fight / the combat	[sound:the-fight-the-combat.webm]	/lə kɔ̃ba/
-le contact	the contact	[sound:the-contact.webm]	/lə kɔ̃takt/
-présent / présente	present (here)	[sound:present-here.webm]	/pʁezɑ̃, pʁezɑ̃t/
-la radio	the radio	[sound:the-radio.webm]	/la ʁadjo/
-le gamin / la gamine	the kid	[sound:the-kid.webm]	/lə ɡamɛ̃, la ɡamin/
-allonger	to lengthen (s'allonger = to lie down)	[sound:to-lengthen-s-allonger-to-lie-down.webm]	/alɔ̃ʒe/
-enfermer	to lock up / to shut in	[sound:to-lock-up-to-shut-in.webm]	/ɑ̃fɛʁme/
-immense	huge / immense	[sound:huge-immense.webm]	/imɑ̃s/
-la lune	the moon	[sound:the-moon.webm]	/la lyn/
-la relation	the relationship	[sound:the-relationship.webm]	/la ʁəlasjɔ̃/
-le terrain	the land / the ground / the field (sports)	[sound:the-land-the-ground-the-field-sports.webm]	/lə tɛʁɛ̃/
+mêler	to mix (se mêler de = to meddle in)	[sound:to-mix-se-meler-de-to-meddle-in.webm]	/mele/	змішувати (se mêler de = втручатися в)
+l'espoir (m.)	the hope	[sound:the-hope.webm]	/lɛspwaʁ/	надія
+douter	to doubt (se douter de = to suspect)	[sound:to-doubt-se-douter-de-to-suspect.webm]	/dute/	сумніватися (se douter de = підозрювати)
+la beauté	the beauty	[sound:the-beauty.webm]	/la bote/	краса
+la mesure	the measure / the measurement (au fur et à mesure = as you go)	[sound:the-measure-the-measurement-au-fur-et-a-mesure-as-you-go.webm]	/la məzyʁ/	міра / вимірювання (au fur et à mesure = поступово, у міру того як)
+le fil	the thread / the wire (au fil de = over the course of)	[sound:the-thread-the-wire-au-fil-de-over-the-course-of.webm]	/lə fil/	нитка / дріт (au fil de = протягом)
+relever	to raise / to pick up / to note	[sound:to-raise-to-pick-up-to-note.webm]	/ʁələve/	піднімати / підбирати / зазначати
+hors	outside / except (hors de = out of)	[sound:outside-except-hors-de-out-of.webm]	/ɔʁ/	поза / крім (hors de = поза межами)
+l'équipe (f.)	the team	[sound:the-team-l-equipe-f.webm]	/lekip/	команда
+le champ	the field	[sound:the-field-le-champ.webm]	/lə ʃɑ̃/	поле
+capable	capable / able	[sound:capable-able.webm]	/kapabl/	здатний
+engager	to hire / to commit (s'engager = to commit oneself)	[sound:to-hire-to-commit-s-engager-to-commit-oneself.webm]	/ɑ̃ɡaʒe/	наймати / зобов'язувати (s'engager = зобов'язуватися)
+la phrase	the sentence	[sound:the-sentence.webm]	/la fʁaz/	речення
+le désir	the desire / the wish	[sound:the-desire-the-wish.webm]	/lə deziʁ/	бажання
+dégager	to clear / to free	[sound:to-clear-to-free.webm]	/deɡaʒe/	звільняти / розчищати
+cependant	however	[sound:however.webm]	/səpɑ̃dɑ̃/	однак, проте
+le cou	the neck	[sound:the-neck.webm]	/lə ku/	шия
+le sommeil	the sleep (avoir sommeil = to be sleepy)	[sound:the-sleep-avoir-sommeil-to-be-sleepy.webm]	/lə sɔmɛj/	сон (avoir sommeil = хотіти спати)
+coller	to stick / to glue	[sound:to-stick-to-glue.webm]	/kɔle/	клеїти / приклеювати
+le calme	the calm	[sound:the-calm.webm]	/lə kalm/	спокій
+la chaise	the chair	[sound:the-chair-la-chaise.webm]	/la ʃɛz/	стілець
+avouer	to confess / to admit	[sound:to-confess-to-admit.webm]	/avwe/	зізнаватися / визнавати
+la conversation	the conversation	[sound:the-conversation.webm]	/la kɔ̃vɛʁsasjɔ̃/	розмова
+placer	to place / to put / to seat	[sound:to-place-to-put-to-seat.webm]	/plase/	розміщувати / класти / садовити
+la moitié	the half	[sound:the-half.webm]	/la mwatje/	половина
+hésiter	to hesitate	[sound:to-hesitate.webm]	/ezite/	вагатися
+la sécurité	the safety / the security	[sound:the-safety-the-security.webm]	/la sekyʁite/	безпека
+entraîner	to train / to lead to (s'entraîner = to practise)	[sound:to-train-to-lead-to-s-entrainer-to-practise.webm]	/ɑ̃tʁene/	тренувати / спричиняти (s'entraîner = тренуватися)
+le fer	the iron	[sound:the-iron.webm]	/lə fɛʁ/	залізо / праска
+vérifier	to check / to verify	[sound:to-check-to-verify.webm]	/veʁifje/	перевіряти
+le diable	the devil	[sound:the-devil.webm]	/lə djabl/	диявол
+le chapeau	the hat	[sound:the-hat.webm]	/lə ʃapo/	капелюх
+remplir	to fill (in)	[sound:to-fill-in.webm]	/ʁɑ̃pliʁ/	наповнювати / заповнювати
+prouver	to prove	[sound:to-prove.webm]	/pʁuve/	доводити
+l'allemand (m.)	German (the language)	[sound:german-the-language.webm]	/lalmɑ̃/	німецька (мова)
+surveiller	to watch over / to keep an eye on	[sound:to-watch-over-to-keep-an-eye-on.webm]	/syʁveje/	наглядати / стежити за
+américain / américaine	American	[sound:american.webm]	/ameʁikɛ̃, ameʁikɛn/	американський / американська, американець
+la condition	the condition (à condition de = provided that)	[sound:the-condition-a-condition-de-provided-that.webm]	/la kɔ̃disjɔ̃/	умова (à condition de = за умови що)
+proche	close / near	[sound:close-near.webm]	/pʁɔʃ/	близький / поруч
+le combat	the fight / the combat	[sound:the-fight-the-combat.webm]	/lə kɔ̃ba/	бій / боротьба
+le contact	the contact	[sound:the-contact.webm]	/lə kɔ̃takt/	контакт
+présent / présente	present (here)	[sound:present-here.webm]	/pʁezɑ̃, pʁezɑ̃t/	присутній / присутня
+la radio	the radio	[sound:the-radio.webm]	/la ʁadjo/	радіо
+le gamin / la gamine	the kid	[sound:the-kid.webm]	/lə ɡamɛ̃, la ɡamin/	малий / мала, дитина
+allonger	to lengthen (s'allonger = to lie down)	[sound:to-lengthen-s-allonger-to-lie-down.webm]	/alɔ̃ʒe/	подовжувати (s'allonger = лягати)
+enfermer	to lock up / to shut in	[sound:to-lock-up-to-shut-in.webm]	/ɑ̃fɛʁme/	замикати
+immense	huge / immense	[sound:huge-immense.webm]	/imɑ̃s/	величезний
+la lune	the moon	[sound:the-moon.webm]	/la lyn/	місяць (на небі)
+la relation	the relationship	[sound:the-relationship.webm]	/la ʁəlasjɔ̃/	стосунки, зв'язок
+le terrain	the land / the ground / the field (sports)	[sound:the-land-the-ground-the-field-sports.webm]	/lə tɛʁɛ̃/	ділянка / земля / поле (спортивне)

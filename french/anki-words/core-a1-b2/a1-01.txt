@@ -1,50 +1,50 @@
-oui	yes	[sound:yes.webm]	/wi/
-d'accord	OK / agreed	[sound:ok-agreed.webm]	/dakɔʁ/
-au revoir	goodbye	[sound:goodbye.webm]	/o ʁəvwaʁ/
-excusez-moi	excuse me	[sound:excuse-me.webm]	/ɛkskyze mwa/
-de rien	you're welcome (Québec: bienvenue)	[sound:you-re-welcome-quebec-bienvenue.webm]	/də ʁjɛ̃/
-enchanté / enchantée	nice to meet you	[sound:nice-to-meet-you.webm]	/ɑ̃ʃɑ̃te/
-voici / voilà	here is / there is	[sound:here-is-there-is.webm]	/vwasi, vwala/
-ce / cet / cette / ces	this / that / these / those	[sound:this-that-these-those.webm]	/sə, sɛt, sɛt, se/
-quel / quelle / quels / quelles	which / what	[sound:which-what.webm]	/kɛl/
-leur / leurs	their	[sound:their.webm]	/lœʁ/
-rien (ne… rien)	nothing	[sound:nothing.webm]	/ʁjɛ̃/
-chaque	each / every	[sound:each-every.webm]	/ʃak/
-quelques	a few / some	[sound:a-few-some.webm]	/kɛlk/
-tout / toute / tous / toutes	all / every / whole	[sound:all-every-whole.webm]	/tu, tut, tu, tut/
-donc	so / therefore	[sound:so-therefore.webm]	/dɔ̃k/
-parce que	because	[sound:because.webm]	/paʁskə/
-deux	two	[sound:two.webm]	/dø/
-trois	three	[sound:three.webm]	/tʁwa/
-quatre	four	[sound:four.webm]	/katʁ/
-cinq	five	[sound:five-cinq.webm]	/sɛ̃k/
-six	six	[sound:six.webm]	/sis/
-sept	seven	[sound:seven.webm]	/sɛt/
-huit	eight	[sound:eight.webm]	/ɥit/
-neuf	nine	[sound:nine.webm]	/nœf/
-dix	ten	[sound:ten.webm]	/dis/
-onze	eleven	[sound:eleven-onze.webm]	/ɔ̃z/
-douze	twelve	[sound:twelve.webm]	/duz/
-treize	thirteen	[sound:thirteen-treize.webm]	/tʁɛz/
-quatorze	fourteen	[sound:fourteen.webm]	/katɔʁz/
-quinze	fifteen	[sound:fifteen-quinze.webm]	/kɛ̃z/
-seize	sixteen	[sound:sixteen-seize.webm]	/sɛz/
-dix-sept	seventeen	[sound:seventeen.webm]	/disɛt/
-dix-huit	eighteen	[sound:eighteen.webm]	/dizɥit/
-dix-neuf	nineteen	[sound:nineteen.webm]	/diznœf/
-vingt	twenty	[sound:twenty-vingt.webm]	/vɛ̃/
-trente	thirty	[sound:thirty.webm]	/tʁɑ̃t/
-quarante	forty	[sound:forty.webm]	/kaʁɑ̃t/
-soixante	sixty	[sound:sixty.webm]	/swasɑ̃t/
-soixante-dix	seventy	[sound:seventy.webm]	/swasɑ̃tdis/
-quatre-vingts	eighty	[sound:eighty.webm]	/katʁəvɛ̃/
-quatre-vingt-dix	ninety	[sound:ninety.webm]	/katʁəvɛ̃dis/
-cent	one hundred	[sound:one-hundred-cent.webm]	/sɑ̃/
-mille	one thousand	[sound:one-thousand.webm]	/mil/
-deuxième	second (2nd)	[sound:second-2nd.webm]	/døzjɛm/
-troisième	third	[sound:third.webm]	/tʁwazjɛm/
-le fils	the son	[sound:the-son.webm]	/lə fis/
-le mois	the month	[sound:the-month.webm]	/lə mwa/
-les pâtes (f.)	the pasta	[sound:the-pasta.webm]	/le pɑt/
-les toilettes (f.)	the restroom / the bathroom (Québec: la salle de bain)	[sound:the-restroom-the-bathroom-quebec-la-salle-de-bain.webm]	/le twalɛt/
-de	of / from	[sound:of-from.webm]	/də/
+oui	yes	[sound:yes.webm]	/wi/	так
+d'accord	OK / agreed	[sound:ok-agreed.webm]	/dakɔʁ/	гаразд / згода
+au revoir	goodbye	[sound:goodbye.webm]	/o ʁəvwaʁ/	до побачення
+excusez-moi	excuse me	[sound:excuse-me.webm]	/ɛkskyze mwa/	перепрошую, вибачте
+de rien	you're welcome (Québec: bienvenue)	[sound:you-re-welcome-quebec-bienvenue.webm]	/də ʁjɛ̃/	нема за що (у Квебеку: bienvenue)
+enchanté / enchantée	nice to meet you	[sound:nice-to-meet-you.webm]	/ɑ̃ʃɑ̃te/	приємно познайомитися
+voici / voilà	here is / there is	[sound:here-is-there-is.webm]	/vwasi, vwala/	ось / от
+ce / cet / cette / ces	this / that / these / those	[sound:this-that-these-those.webm]	/sə, sɛt, sɛt, se/	цей / ця / ці (той / та / ті)
+quel / quelle / quels / quelles	which / what	[sound:which-what.webm]	/kɛl/	який / яка / які
+leur / leurs	their	[sound:their.webm]	/lœʁ/	їхній / їхні
+rien (ne… rien)	nothing	[sound:nothing.webm]	/ʁjɛ̃/	ніщо, нічого (ne… rien)
+chaque	each / every	[sound:each-every.webm]	/ʃak/	кожен / кожна
+quelques	a few / some	[sound:a-few-some.webm]	/kɛlk/	кілька, декілька
+tout / toute / tous / toutes	all / every / whole	[sound:all-every-whole.webm]	/tu, tut, tu, tut/	весь / вся / всі / цілий
+donc	so / therefore	[sound:so-therefore.webm]	/dɔ̃k/	отже, тож
+parce que	because	[sound:because.webm]	/paʁskə/	тому що, бо
+deux	two	[sound:two.webm]	/dø/	два
+trois	three	[sound:three.webm]	/tʁwa/	три
+quatre	four	[sound:four.webm]	/katʁ/	чотири
+cinq	five	[sound:five-cinq.webm]	/sɛ̃k/	п'ять
+six	six	[sound:six.webm]	/sis/	шість
+sept	seven	[sound:seven.webm]	/sɛt/	сім
+huit	eight	[sound:eight.webm]	/ɥit/	вісім
+neuf	nine	[sound:nine.webm]	/nœf/	дев'ять
+dix	ten	[sound:ten.webm]	/dis/	десять
+onze	eleven	[sound:eleven-onze.webm]	/ɔ̃z/	одинадцять
+douze	twelve	[sound:twelve.webm]	/duz/	дванадцять
+treize	thirteen	[sound:thirteen-treize.webm]	/tʁɛz/	тринадцять
+quatorze	fourteen	[sound:fourteen.webm]	/katɔʁz/	чотирнадцять
+quinze	fifteen	[sound:fifteen-quinze.webm]	/kɛ̃z/	п'ятнадцять
+seize	sixteen	[sound:sixteen-seize.webm]	/sɛz/	шістнадцять
+dix-sept	seventeen	[sound:seventeen.webm]	/disɛt/	сімнадцять
+dix-huit	eighteen	[sound:eighteen.webm]	/dizɥit/	вісімнадцять
+dix-neuf	nineteen	[sound:nineteen.webm]	/diznœf/	дев'ятнадцять
+vingt	twenty	[sound:twenty-vingt.webm]	/vɛ̃/	двадцять
+trente	thirty	[sound:thirty.webm]	/tʁɑ̃t/	тридцять
+quarante	forty	[sound:forty.webm]	/kaʁɑ̃t/	сорок
+soixante	sixty	[sound:sixty.webm]	/swasɑ̃t/	шістдесят
+soixante-dix	seventy	[sound:seventy.webm]	/swasɑ̃tdis/	сімдесят
+quatre-vingts	eighty	[sound:eighty.webm]	/katʁəvɛ̃/	вісімдесят
+quatre-vingt-dix	ninety	[sound:ninety.webm]	/katʁəvɛ̃dis/	дев'яносто
+cent	one hundred	[sound:one-hundred-cent.webm]	/sɑ̃/	сто
+mille	one thousand	[sound:one-thousand.webm]	/mil/	тисяча
+deuxième	second (2nd)	[sound:second-2nd.webm]	/døzjɛm/	другий (2-й)
+troisième	third	[sound:third.webm]	/tʁwazjɛm/	третій
+le fils	the son	[sound:the-son.webm]	/lə fis/	син
+le mois	the month	[sound:the-month.webm]	/lə mwa/	місяць
+les pâtes (f.)	the pasta	[sound:the-pasta.webm]	/le pɑt/	макарони
+les toilettes (f.)	the restroom / the bathroom (Québec: la salle de bain)	[sound:the-restroom-the-bathroom-quebec-la-salle-de-bain.webm]	/le twalɛt/	туалет / вбиральня (у Квебеку: la salle de bain)
+de	of / from	[sound:of-from.webm]	/də/	з, від; (родовий відмінок)

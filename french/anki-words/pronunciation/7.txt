@@ -1,12 +1,12 @@
-l'oncle (m.)	the uncle	[sound:the-uncle.webm]	/lɔ̃kl/
-l'Ontario (m.)	Ontario	[sound:ontario.webm]	/lɔ̃taʁjo/
-onze	eleven	[sound:eleven.webm]	/ɔ̃z/
-le pompier / la pompière	the firefighter	[sound:the-firefighter.webm]	/lə pɔ̃pje, la pɔ̃pjɛʁ/
-le pont	the bridge	[sound:the-bridge.webm]	/lə pɔ̃/
-raconter	to tell (a story)	[sound:to-tell-a-story.webm]	/ʁakɔ̃te/
-rond / ronde	round	[sound:round.webm]	/ʁɔ̃, ʁɔ̃d/
-le saumon	the salmon	[sound:the-salmon.webm]	/lə somɔ̃/
-son	his / her (masc.)	[sound:his-her-masc.webm]	/sɔ̃/
-ils sont	they are	[sound:they-are.webm]	/il sɔ̃/
-tomber	to fall	[sound:to-fall.webm]	/tɔ̃be/
-ton	your (masc., informal)	[sound:your-masc-informal.webm]	/tɔ̃/
+l'oncle (m.)	the uncle	[sound:the-uncle.webm]	/lɔ̃kl/	дядько
+l'Ontario (m.)	Ontario	[sound:ontario.webm]	/lɔ̃taʁjo/	Онтаріо
+onze	eleven	[sound:eleven.webm]	/ɔ̃z/	одинадцять
+le pompier / la pompière	the firefighter	[sound:the-firefighter.webm]	/lə pɔ̃pje, la pɔ̃pjɛʁ/	пожежник / пожежниця
+le pont	the bridge	[sound:the-bridge.webm]	/lə pɔ̃/	міст
+raconter	to tell (a story)	[sound:to-tell-a-story.webm]	/ʁakɔ̃te/	розповідати
+rond / ronde	round	[sound:round.webm]	/ʁɔ̃, ʁɔ̃d/	круглий / кругла
+le saumon	the salmon	[sound:the-salmon.webm]	/lə somɔ̃/	лосось
+son	his / her (masc.)	[sound:his-her-masc.webm]	/sɔ̃/	його / її (чол. р.)
+ils sont	they are	[sound:they-are.webm]	/il sɔ̃/	вони є
+tomber	to fall	[sound:to-fall.webm]	/tɔ̃be/	падати
+ton	your (masc., informal)	[sound:your-masc-informal.webm]	/tɔ̃/	твій (чол. р.)

@@ -1,50 +1,50 @@
-ma	my (fem. singular)
-magasin	store / shop
-magasiner	to shop (Québec)
-maigrir	to lose weight
-maison	house
-malade	sick
-manger	to eat
-manuel	textbook
-marcher	to walk
-marché	market
-mari	husband
-marqueur	marker
-marron	brown (never changes form)
-mauvais	bad
-mauvaise	bad (fem.)
-mer	sea
-mes	my (plural)
-mexicain	Mexican
-mexicaine	Mexican (fem.)
-midi	noon
-minuit	midnight
-miroir	mirror
-mon	my (masc. singular)
-monde	people / crowd
-monnaie	change (coins)
-montagne	mountain
-montre	watch
-moqueur	mocking
-moqueuse	mocking (fem.)
-mordre	to bite
-moutarde	mustard
-mur	wall
-musique	music
-musée	museum
-mère	mother
-médecin	doctor
-métro	subway
-météo	weather (forecast)
-mûrir	to ripen
-neige	snow
-nerveuse	nervous (fem.)
-nerveux	nervous
-neuf	nine
-neuve	new (fem.)
-neuves	new (fem. pl.)
-neveu	nephew
-niaiser	to kid around (Québec, informal)
-nièce	niece
-noir	black / dark
-noire	black (fem.)
+ma	my (fem. singular)			моя
+magasin	store / shop			магазин, крамниця
+magasiner	to shop (Québec)			ходити по магазинах (у Квебеку)
+maigrir	to lose weight			худнути
+maison	house			будинок, дім
+malade	sick			хворий
+manger	to eat			їсти
+manuel	textbook			підручник
+marcher	to walk			ходити пішки
+marché	market			ринок
+mari	husband			чоловік (у шлюбі)
+marqueur	marker			маркер
+marron	brown (never changes form)			коричневий (форма не змінюється)
+mauvais	bad			поганий
+mauvaise	bad (fem.)			погана
+mer	sea			море
+mes	my (plural)			мої
+mexicain	Mexican			мексиканський, мексиканець
+mexicaine	Mexican (fem.)			мексиканська, мексиканка
+midi	noon			полудень
+minuit	midnight			північ (опівночі)
+miroir	mirror			дзеркало
+mon	my (masc. singular)			мій
+monde	people / crowd			люди / натовп
+monnaie	change (coins)			дрібні гроші, решта
+montagne	mountain			гора
+montre	watch			наручний годинник
+moqueur	mocking			насмішкуватий
+moqueuse	mocking (fem.)			насмішкувата
+mordre	to bite			кусати
+moutarde	mustard			гірчиця
+mur	wall			стіна
+musique	music			музика
+musée	museum			музей
+mère	mother			мати, мама
+médecin	doctor			лікар
+métro	subway			метро
+météo	weather (forecast)			прогноз погоди
+mûrir	to ripen			дозрівати
+neige	snow			сніг
+nerveuse	nervous (fem.)			нервова
+nerveux	nervous			нервовий
+neuf	nine			дев'ять
+neuve	new (fem.)			нова
+neuves	new (fem. pl.)			нові (жін. р.)
+neveu	nephew			племінник
+niaiser	to kid around (Québec, informal)			жартувати, клеїти дурня (у Квебеку, розм.)
+nièce	niece			племінниця
+noir	black / dark			чорний / темний
+noire	black (fem.)			чорна

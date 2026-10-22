@@ -1,50 +1,50 @@
-la seconde	the second (time)	[sound:the-second-time.webm]	/la səɡɔ̃d/
-dont	of which / whose	[sound:of-which-whose.webm]	/dɔ̃/
-tuer	to kill	[sound:to-kill.webm]	/tɥe/
-l'accord (m.)	the agreement (d'accord = OK)	[sound:the-agreement-d-accord-ok.webm]	/lakɔʁ/
-le corps	the body	[sound:the-body.webm]	/lə kɔʁ/
-paraître	to seem / to appear / to be published	[sound:to-seem-to-appear-to-be-published.webm]	/paʁɛtʁ/
-payer	to pay	[sound:to-pay-payer.webm]	/peje/
-le point	the point / the dot (à point = medium cooked)	[sound:the-point-the-dot-a-point-medium-cooked.webm]	/lə pwɛ̃/
-l'instant (m.)	the moment / the instant	[sound:the-moment-the-instant.webm]	/lɛ̃stɑ̃/
-hein	eh? / right? (Québec: hein)	[sound:eh-right-quebec-hein.webm]	/ɛ̃/
-la nouvelle	the newcomer / the news (une nouvelle = a piece of news)	[sound:the-newcomer-the-news-une-nouvelle-a-piece-of-news.webm]	/la nuvɛl/
-le sang	the blood	[sound:the-blood.webm]	/lə sɑ̃/
-la force	the strength / the force	[sound:the-strength-the-force.webm]	/la fɔʁs/
-le fond	the bottom / the background (au fond = basically)	[sound:the-bottom-the-background-au-fond-basically.webm]	/lə fɔ̃/
-le regard	the look / the gaze	[sound:the-look-the-gaze.webm]	/lə ʁəɡaʁ/
-ailleurs	elsewhere (d'ailleurs = besides)	[sound:elsewhere-d-ailleurs-besides.webm]	/ajœʁ/
-le truc	the thing / the trick (informal)	[sound:the-thing-the-trick-informal.webm]	/lə tʁyk/
-le doute	the doubt	[sound:the-doubt.webm]	/lə dut/
-importer	to import / to matter (n'importe quoi = anything / nonsense)	[sound:to-import-to-matter-n-importe-quoi-anything-nonsense.webm]	/ɛ̃pɔʁte/
-la sorte	the kind / the sort	[sound:the-kind-the-sort.webm]	/la sɔʁt/
-dès	from / as soon as (dès que)	[sound:from-as-soon-as-des-que.webm]	/dɛ/
-agir	to act (il s'agit de = it's about)	[sound:to-act-il-s-agit-de-it-s-about.webm]	/aʒiʁ/
-pousser	to push / to grow	[sound:to-push-to-grow.webm]	/puse/
-valoir	to be worth (il vaut mieux = it's better to)	[sound:to-be-worth-il-vaut-mieux-it-s-better-to.webm]	/valwaʁ/
-le chef / la cheffe	the boss / the chef	[sound:the-boss-the-chef.webm]	/lə ʃɛf, la ʃɛf/
-autant	as much / as many	[sound:as-much-as-many.webm]	/otɑ̃/
-suffire	to be enough (ça suffit = that's enough)	[sound:to-be-enough-ca-suffit-that-s-enough.webm]	/syfiʁ/
-le petit / la petite	the little one / the kid	[sound:the-little-one-the-kid.webm]	/lə pəti, la pətit/
-fort	hard / loudly / very	[sound:hard-loudly-very.webm]	/fɔʁ/
-le genre	the type / the kind / the gender	[sound:the-type-the-kind-the-gender.webm]	/lə ʒɑ̃ʁ/
-la bouche	the mouth	[sound:the-mouth.webm]	/la buʃ/
-l'esprit (m.)	the mind / the spirit	[sound:the-mind-the-spirit.webm]	/lɛspʁi/
-le compte	the account / the count	[sound:the-account-the-count.webm]	/lə kɔ̃t/
-bouger	to move	[sound:to-move.webm]	/buʒe/
-pauvre	poor	[sound:poor.webm]	/povʁ/
-l'état (m.)	the state / the condition	[sound:the-state-the-condition.webm]	/leta/
-le général	the general (army)	[sound:the-general-army.webm]	/lə ʒeneʁal/
-le gars	the guy (Québec: un gars)	[sound:the-guy-quebec-un-gars.webm]	/lə ɡa/
-remettre	to put back / to hand in / to postpone	[sound:to-put-back-to-hand-in-to-postpone.webm]	/ʁəmɛtʁ/
-le doigt	the finger	[sound:the-finger.webm]	/lə dwa/
-les parents	the parents / the relatives	[sound:the-parents-the-relatives.webm]	/le paʁɑ̃/
-le papier	the paper	[sound:the-paper-le-papier.webm]	/lə papje/
-le docteur	the doctor	[sound:the-doctor-le-docteur.webm]	/lə dɔktœʁ/
-l'épaule (f.)	the shoulder	[sound:the-shoulder.webm]	/lepol/
-hé	hey!	[sound:hey-he.webm]	/e/
-le travers	the width (à travers = through, de travers = crooked)	[sound:the-width-a-travers-through-de-travers-crooked.webm]	/lə tʁavɛʁ/
-le geste	the gesture	[sound:the-gesture.webm]	/lə ʒɛst/
-se taire	to keep quiet (se taire)	[sound:to-keep-quiet-se-taire.webm]	/sə tɛʁ/
-l'âme (f.)	the soul	[sound:the-soul.webm]	/lam/
-empêcher	to prevent	[sound:to-prevent.webm]	/ɑ̃peʃe/
+la seconde	the second (time)	[sound:the-second-time.webm]	/la səɡɔ̃d/	секунда
+dont	of which / whose	[sound:of-which-whose.webm]	/dɔ̃/	який / чий, про який
+tuer	to kill	[sound:to-kill.webm]	/tɥe/	вбивати
+l'accord (m.)	the agreement (d'accord = OK)	[sound:the-agreement-d-accord-ok.webm]	/lakɔʁ/	згода (d'accord = гаразд)
+le corps	the body	[sound:the-body.webm]	/lə kɔʁ/	тіло
+paraître	to seem / to appear / to be published	[sound:to-seem-to-appear-to-be-published.webm]	/paʁɛtʁ/	здаватися / з'являтися / виходити друком
+payer	to pay	[sound:to-pay-payer.webm]	/peje/	платити
+le point	the point / the dot (à point = medium cooked)	[sound:the-point-the-dot-a-point-medium-cooked.webm]	/lə pwɛ̃/	крапка / пункт (à point = середнього просмаження)
+l'instant (m.)	the moment / the instant	[sound:the-moment-the-instant.webm]	/lɛ̃stɑ̃/	мить, момент
+hein	eh? / right? (Québec: hein)	[sound:eh-right-quebec-hein.webm]	/ɛ̃/	га? / так? (у Квебеку: hein)
+la nouvelle	the newcomer / the news (une nouvelle = a piece of news)	[sound:the-newcomer-the-news-une-nouvelle-a-piece-of-news.webm]	/la nuvɛl/	новенька / новина (une nouvelle = новина)
+le sang	the blood	[sound:the-blood.webm]	/lə sɑ̃/	кров
+la force	the strength / the force	[sound:the-strength-the-force.webm]	/la fɔʁs/	сила
+le fond	the bottom / the background (au fond = basically)	[sound:the-bottom-the-background-au-fond-basically.webm]	/lə fɔ̃/	дно / фон (au fond = по суті)
+le regard	the look / the gaze	[sound:the-look-the-gaze.webm]	/lə ʁəɡaʁ/	погляд
+ailleurs	elsewhere (d'ailleurs = besides)	[sound:elsewhere-d-ailleurs-besides.webm]	/ajœʁ/	деінде (d'ailleurs = до речі, утім)
+le truc	the thing / the trick (informal)	[sound:the-thing-the-trick-informal.webm]	/lə tʁyk/	штука / хитрість (розм.)
+le doute	the doubt	[sound:the-doubt.webm]	/lə dut/	сумнів
+importer	to import / to matter (n'importe quoi = anything / nonsense)	[sound:to-import-to-matter-n-importe-quoi-anything-nonsense.webm]	/ɛ̃pɔʁte/	імпортувати / мати значення (n'importe quoi = будь-що / нісенітниця)
+la sorte	the kind / the sort	[sound:the-kind-the-sort.webm]	/la sɔʁt/	вид, сорт
+dès	from / as soon as (dès que)	[sound:from-as-soon-as-des-que.webm]	/dɛ/	від / щойно (dès que = щойно, як тільки)
+agir	to act (il s'agit de = it's about)	[sound:to-act-il-s-agit-de-it-s-about.webm]	/aʒiʁ/	діяти (il s'agit de = йдеться про)
+pousser	to push / to grow	[sound:to-push-to-grow.webm]	/puse/	штовхати / рости
+valoir	to be worth (il vaut mieux = it's better to)	[sound:to-be-worth-il-vaut-mieux-it-s-better-to.webm]	/valwaʁ/	коштувати, бути вартим (il vaut mieux = краще)
+le chef / la cheffe	the boss / the chef	[sound:the-boss-the-chef.webm]	/lə ʃɛf, la ʃɛf/	начальник / начальниця, шеф-кухар
+autant	as much / as many	[sound:as-much-as-many.webm]	/otɑ̃/	стільки ж, так само багато
+suffire	to be enough (ça suffit = that's enough)	[sound:to-be-enough-ca-suffit-that-s-enough.webm]	/syfiʁ/	вистачати (ça suffit = досить)
+le petit / la petite	the little one / the kid	[sound:the-little-one-the-kid.webm]	/lə pəti, la pətit/	малий / мала, дитина
+fort	hard / loudly / very	[sound:hard-loudly-very.webm]	/fɔʁ/	сильно / голосно / дуже
+le genre	the type / the kind / the gender	[sound:the-type-the-kind-the-gender.webm]	/lə ʒɑ̃ʁ/	тип, рід / рід (граматичний)
+la bouche	the mouth	[sound:the-mouth.webm]	/la buʃ/	рот
+l'esprit (m.)	the mind / the spirit	[sound:the-mind-the-spirit.webm]	/lɛspʁi/	розум / дух
+le compte	the account / the count	[sound:the-account-the-count.webm]	/lə kɔ̃t/	рахунок / підрахунок
+bouger	to move	[sound:to-move.webm]	/buʒe/	рухатися
+pauvre	poor	[sound:poor.webm]	/povʁ/	бідний
+l'état (m.)	the state / the condition	[sound:the-state-the-condition.webm]	/leta/	стан / держава
+le général	the general (army)	[sound:the-general-army.webm]	/lə ʒeneʁal/	генерал
+le gars	the guy (Québec: un gars)	[sound:the-guy-quebec-un-gars.webm]	/lə ɡa/	хлопець (у Квебеку: un gars)
+remettre	to put back / to hand in / to postpone	[sound:to-put-back-to-hand-in-to-postpone.webm]	/ʁəmɛtʁ/	повертати на місце / здавати / відкладати
+le doigt	the finger	[sound:the-finger.webm]	/lə dwa/	палець
+les parents	the parents / the relatives	[sound:the-parents-the-relatives.webm]	/le paʁɑ̃/	батьки / родичі
+le papier	the paper	[sound:the-paper-le-papier.webm]	/lə papje/	папір
+le docteur	the doctor	[sound:the-doctor-le-docteur.webm]	/lə dɔktœʁ/	лікар
+l'épaule (f.)	the shoulder	[sound:the-shoulder.webm]	/lepol/	плече
+hé	hey!	[sound:hey-he.webm]	/e/	гей!
+le travers	the width (à travers = through, de travers = crooked)	[sound:the-width-a-travers-through-de-travers-crooked.webm]	/lə tʁavɛʁ/	ширина (à travers = крізь, de travers = криво)
+le geste	the gesture	[sound:the-gesture.webm]	/lə ʒɛst/	жест
+se taire	to keep quiet (se taire)	[sound:to-keep-quiet-se-taire.webm]	/sə tɛʁ/	мовчати, замовкнути
+l'âme (f.)	the soul	[sound:the-soul.webm]	/lam/	душа
+empêcher	to prevent	[sound:to-prevent.webm]	/ɑ̃peʃe/	заважати, не давати

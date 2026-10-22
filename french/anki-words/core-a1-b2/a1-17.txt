@@ -1,50 +1,50 @@
-la sortie	the exit / the outing	[sound:the-exit-the-outing.webm]	/la sɔʁti/
-le nord	the north	[sound:the-north.webm]	/lə nɔʁ/
-le lait	the milk	[sound:the-milk-le-lait.webm]	/lə lɛ/
-le / la pauvre	the poor (person)	[sound:the-poor-person.webm]	/lə, la povʁ/
-ennuyer	to bore / to annoy (s'ennuyer = to be bored)	[sound:to-bore-to-annoy-s-ennuyer-to-be-bored.webm]	/ɑ̃nɥije/
-la passion	the passion	[sound:the-passion.webm]	/la pasjɔ̃/
-endormir	to put to sleep (s'endormir = to fall asleep)	[sound:to-put-to-sleep-s-endormir-to-fall-asleep.webm]	/ɑ̃dɔʁmiʁ/
-rapide	fast / quick	[sound:fast-quick.webm]	/ʁapid/
-construire	to build	[sound:to-build.webm]	/kɔ̃stʁɥiʁ/
-la neige	the snow	[sound:the-snow-la-neige.webm]	/la nɛʒ/
-la bière	the beer	[sound:the-beer.webm]	/la bjɛʁ/
-la taille	the size / the height / the waist	[sound:the-size-the-height-the-waist.webm]	/la taj/
-merveilleux / merveilleuse	wonderful	[sound:wonderful.webm]	/mɛʁvɛjø, mɛʁvɛjøz/
-le devoir	the duty / the homework (les devoirs)	[sound:the-duty-the-homework-les-devoirs.webm]	/lə dəvwaʁ/
-la lampe	the lamp	[sound:the-lamp-la-lampe.webm]	/la lɑ̃p/
-produire	to produce	[sound:to-produce.webm]	/pʁɔdɥiʁ/
-le personnage	the character (in a story)	[sound:the-character-in-a-story.webm]	/lə pɛʁsɔnaʒ/
-le nombre	the number (amount)	[sound:the-number-amount.webm]	/lə nɔ̃bʁ/
-interdire	to forbid	[sound:to-forbid.webm]	/ɛ̃tɛʁdiʁ/
-le château	the castle	[sound:the-castle.webm]	/lə ʃato/
-la rencontre	the meeting / the encounter	[sound:the-meeting-the-encounter.webm]	/la ʁɑ̃kɔ̃tʁ/
-attacher	to tie / to attach / to fasten	[sound:to-tie-to-attach-to-fasten.webm]	/ataʃe/
-interroger	to question / to interrogate	[sound:to-question-to-interrogate.webm]	/ɛ̃tɛʁɔʒe/
-évidemment	of course / obviously	[sound:of-course-obviously.webm]	/evidamɑ̃/
-magnifique	magnificent / beautiful	[sound:magnificent-beautiful.webm]	/maɲifik/
-l'horreur (f.)	the horror	[sound:the-horror.webm]	/lɔʁœʁ/
-ranger	to tidy up / to put away	[sound:to-tidy-up-to-put-away.webm]	/ʁɑ̃ʒe/
-le son	the sound	[sound:the-sound.webm]	/lə sɔ̃/
-certainement	certainly	[sound:certainly.webm]	/sɛʁtɛnəmɑ̃/
-spécial / spéciale	special	[sound:special.webm]	/spesjal/
-l'aventure (f.)	the adventure	[sound:the-adventure.webm]	/lavɑ̃tyʁ/
-pleuvoir	to rain (il pleut = it's raining)	[sound:to-rain-il-pleut-it-s-raining.webm]	/pløvwaʁ/
-le thé	the tea	[sound:the-tea.webm]	/lə te/
-la jeunesse	the youth	[sound:the-youth.webm]	/la ʒœnɛs/
-le couple	the couple	[sound:the-couple.webm]	/lə kupl/
-remplacer	to replace	[sound:to-replace.webm]	/ʁɑ̃plase/
-saluer	to greet / to say hello	[sound:to-greet-to-say-hello.webm]	/salɥe/
-souffler	to blow	[sound:to-blow.webm]	/sufle/
-le déjeuner	lunch (France) / breakfast (Québec)	[sound:lunch-france-breakfast-quebec.webm]	/lə deʒœne/
-le taxi	the taxi	[sound:the-taxi.webm]	/lə taksi/
-la connaissance	the knowledge / the acquaintance (faire la connaissance de = to meet)	[sound:the-knowledge-the-acquaintance-faire-la-connaissance-de-to.webm]	/la kɔnɛsɑ̃s/
-excellent / excellente	excellent	[sound:excellent-excellent-excellente.webm]	/ɛksɛlɑ̃, ɛksɛlɑ̃t/
-la banque	the bank	[sound:the-bank.webm]	/la bɑ̃k/
-briller	to shine	[sound:to-shine.webm]	/bʁije/
-le théâtre	the theatre	[sound:the-theatre.webm]	/lə teatʁ/
-dessiner	to draw	[sound:to-draw.webm]	/desine/
-le pantalon	the pants / the trousers	[sound:the-pants-the-trousers.webm]	/lə pɑ̃talɔ̃/
-politique	political	[sound:political.webm]	/pɔlitik/
-la toilette	the toilet (les toilettes = the restroom)	[sound:the-toilet-les-toilettes-the-restroom.webm]	/la twalɛt/
-le port	the port / the harbour	[sound:the-port-the-harbour.webm]	/lə pɔʁ/
+la sortie	the exit / the outing	[sound:the-exit-the-outing.webm]	/la sɔʁti/	вихід / прогулянка, вихід у світ
+le nord	the north	[sound:the-north.webm]	/lə nɔʁ/	північ (сторона світу)
+le lait	the milk	[sound:the-milk-le-lait.webm]	/lə lɛ/	молоко
+le / la pauvre	the poor (person)	[sound:the-poor-person.webm]	/lə, la povʁ/	бідний / бідна (людина)
+ennuyer	to bore / to annoy (s'ennuyer = to be bored)	[sound:to-bore-to-annoy-s-ennuyer-to-be-bored.webm]	/ɑ̃nɥije/	набридати / дратувати (s'ennuyer = нудьгувати)
+la passion	the passion	[sound:the-passion.webm]	/la pasjɔ̃/	пристрасть
+endormir	to put to sleep (s'endormir = to fall asleep)	[sound:to-put-to-sleep-s-endormir-to-fall-asleep.webm]	/ɑ̃dɔʁmiʁ/	приспати (s'endormir = засинати)
+rapide	fast / quick	[sound:fast-quick.webm]	/ʁapid/	швидкий
+construire	to build	[sound:to-build.webm]	/kɔ̃stʁɥiʁ/	будувати
+la neige	the snow	[sound:the-snow-la-neige.webm]	/la nɛʒ/	сніг
+la bière	the beer	[sound:the-beer.webm]	/la bjɛʁ/	пиво
+la taille	the size / the height / the waist	[sound:the-size-the-height-the-waist.webm]	/la taj/	розмір / зріст / талія
+merveilleux / merveilleuse	wonderful	[sound:wonderful.webm]	/mɛʁvɛjø, mɛʁvɛjøz/	чудовий / чудова
+le devoir	the duty / the homework (les devoirs)	[sound:the-duty-the-homework-les-devoirs.webm]	/lə dəvwaʁ/	обов'язок / домашнє завдання (les devoirs)
+la lampe	the lamp	[sound:the-lamp-la-lampe.webm]	/la lɑ̃p/	лампа
+produire	to produce	[sound:to-produce.webm]	/pʁɔdɥiʁ/	виробляти
+le personnage	the character (in a story)	[sound:the-character-in-a-story.webm]	/lə pɛʁsɔnaʒ/	персонаж
+le nombre	the number (amount)	[sound:the-number-amount.webm]	/lə nɔ̃bʁ/	число, кількість
+interdire	to forbid	[sound:to-forbid.webm]	/ɛ̃tɛʁdiʁ/	забороняти
+le château	the castle	[sound:the-castle.webm]	/lə ʃato/	замок
+la rencontre	the meeting / the encounter	[sound:the-meeting-the-encounter.webm]	/la ʁɑ̃kɔ̃tʁ/	зустріч
+attacher	to tie / to attach / to fasten	[sound:to-tie-to-attach-to-fasten.webm]	/ataʃe/	зав'язувати / прикріплювати / застібати
+interroger	to question / to interrogate	[sound:to-question-to-interrogate.webm]	/ɛ̃tɛʁɔʒe/	опитувати / допитувати
+évidemment	of course / obviously	[sound:of-course-obviously.webm]	/evidamɑ̃/	звісно / очевидно
+magnifique	magnificent / beautiful	[sound:magnificent-beautiful.webm]	/maɲifik/	чудовий, прекрасний
+l'horreur (f.)	the horror	[sound:the-horror.webm]	/lɔʁœʁ/	жах
+ranger	to tidy up / to put away	[sound:to-tidy-up-to-put-away.webm]	/ʁɑ̃ʒe/	прибирати / складати на місце
+le son	the sound	[sound:the-sound.webm]	/lə sɔ̃/	звук
+certainement	certainly	[sound:certainly.webm]	/sɛʁtɛnəmɑ̃/	безумовно, звісно
+spécial / spéciale	special	[sound:special.webm]	/spesjal/	особливий / особлива
+l'aventure (f.)	the adventure	[sound:the-adventure.webm]	/lavɑ̃tyʁ/	пригода
+pleuvoir	to rain (il pleut = it's raining)	[sound:to-rain-il-pleut-it-s-raining.webm]	/pløvwaʁ/	іти (про дощ) (il pleut = іде дощ)
+le thé	the tea	[sound:the-tea.webm]	/lə te/	чай
+la jeunesse	the youth	[sound:the-youth.webm]	/la ʒœnɛs/	молодість
+le couple	the couple	[sound:the-couple.webm]	/lə kupl/	пара
+remplacer	to replace	[sound:to-replace.webm]	/ʁɑ̃plase/	замінювати
+saluer	to greet / to say hello	[sound:to-greet-to-say-hello.webm]	/salɥe/	вітати(ся)
+souffler	to blow	[sound:to-blow.webm]	/sufle/	дути
+le déjeuner	lunch (France) / breakfast (Québec)	[sound:lunch-france-breakfast-quebec.webm]	/lə deʒœne/	обід (у Франції) / сніданок (у Квебеку)
+le taxi	the taxi	[sound:the-taxi.webm]	/lə taksi/	таксі
+la connaissance	the knowledge / the acquaintance (faire la connaissance de = to meet)	[sound:the-knowledge-the-acquaintance-faire-la-connaissance-de-to.webm]	/la kɔnɛsɑ̃s/	знання / знайомий (faire la connaissance de = познайомитися з)
+excellent / excellente	excellent	[sound:excellent-excellent-excellente.webm]	/ɛksɛlɑ̃, ɛksɛlɑ̃t/	чудовий / чудова, відмінний
+la banque	the bank	[sound:the-bank.webm]	/la bɑ̃k/	банк
+briller	to shine	[sound:to-shine.webm]	/bʁije/	сяяти, блищати
+le théâtre	the theatre	[sound:the-theatre.webm]	/lə teatʁ/	театр
+dessiner	to draw	[sound:to-draw.webm]	/desine/	малювати
+le pantalon	the pants / the trousers	[sound:the-pants-the-trousers.webm]	/lə pɑ̃talɔ̃/	штани
+politique	political	[sound:political.webm]	/pɔlitik/	політичний
+la toilette	the toilet (les toilettes = the restroom)	[sound:the-toilet-les-toilettes-the-restroom.webm]	/la twalɛt/	туалет (les toilettes = вбиральня)
+le port	the port / the harbour	[sound:the-port-the-harbour.webm]	/lə pɔʁ/	порт / гавань

@@ -1,50 +1,50 @@
-la pollution	the pollution	[sound:the-pollution.webm]	/la pɔlysjɔ̃/
-polluer	to pollute	[sound:to-pollute.webm]	/pɔlɥe/
-recycler	to recycle	[sound:to-recycle.webm]	/ʁəsikle/
-le recyclage	the recycling	[sound:the-recycling.webm]	/lə ʁəsiklaʒ/
-l'immigration (f.)	the immigration	[sound:the-immigration.webm]	/limiɡʁasjɔ̃/
-l'immigrant (m.) / l'immigrante (f.)	the immigrant	[sound:the-immigrant.webm]	/limiɡʁɑ̃, limiɡʁɑ̃t/
-immigrer	to immigrate	[sound:to-immigrate.webm]	/imiɡʁe/
-la citoyenneté	the citizenship	[sound:the-citizenship.webm]	/la sitwajɛnte/
-la candidature	the (job) application	[sound:the-job-application.webm]	/la kɑ̃didatyʁ/
-le CV	the résumé / the CV	[sound:the-resume-the-cv.webm]	/lə seve/
-l'employeur (m.) / l'employeuse (f.)	the employer	[sound:the-employer.webm]	/lɑ̃plwajœʁ, lɑ̃plwajøz/
-le bail	the lease	[sound:the-lease.webm]	/lə baj/
-télécharger	to download	[sound:to-download.webm]	/teleʃaʁʒe/
-la décennie	the decade	[sound:the-decade.webm]	/la deseni/
-sombre	dark / gloomy	[sound:dark-gloomy.webm]	/sɔ̃bʁ/
-l'agent (m.)	the agent / the officer	[sound:the-agent-the-officer.webm]	/laʒɑ̃/
-l'action (f.)	the action / the share (stock)	[sound:the-action-the-share-stock.webm]	/laksjɔ̃/
-élever	to raise / to bring up (children)	[sound:to-raise-to-bring-up-children.webm]	/elve/
-la chaleur	the heat	[sound:the-heat.webm]	/la ʃalœʁ/
-la joue	the cheek	[sound:the-cheek.webm]	/la ʒu/
-signer	to sign	[sound:to-sign.webm]	/siɲe/
-absolument	absolutely	[sound:absolutely.webm]	/apsɔlymɑ̃/
-fuir	to flee / to leak	[sound:to-flee-to-leak.webm]	/fɥiʁ/
-juger	to judge	[sound:to-judge.webm]	/ʒyʒe/
-la machine	the machine	[sound:the-machine.webm]	/la maʃin/
-la victime	the victim	[sound:the-victim.webm]	/la viktim/
-mériter	to deserve	[sound:to-deserve.webm]	/meʁite/
-l'avance (f.)	the advance (en avance = early, à l'avance = in advance)	[sound:the-advance-en-avance-early-a-l-avance-in-advance.webm]	/lavɑ̃s/
-accrocher	to hang (up) / to hook	[sound:to-hang-up-to-hook.webm]	/akʁɔʃe/
-le dollar	the dollar	[sound:the-dollar.webm]	/lə dɔlaʁ/
-le colonel	the colonel	[sound:the-colonel.webm]	/lə kɔlɔnɛl/
-éprouver	to feel / to experience	[sound:to-feel-to-experience.webm]	/epʁuve/
-l'avocat (m.) / l'avocate (f.)	the lawyer / the avocado (l'avocat)	[sound:the-lawyer-the-avocado-l-avocat.webm]	/lavɔka, lavɔkat/
-le malheur	the misfortune	[sound:the-misfortune.webm]	/lə malœʁ/
-le crime	the crime	[sound:the-crime.webm]	/lə kʁim/
-le tas	the pile / the heap (un tas de = loads of)	[sound:the-pile-the-heap-un-tas-de-loads-of.webm]	/lə ta/
-ressentir	to feel	[sound:to-feel.webm]	/ʁəsɑ̃tiʁ/
-pur / pure	pure	[sound:pure.webm]	/pyʁ/
-profond / profonde	deep	[sound:deep.webm]	/pʁɔfɔ̃, pʁɔfɔ̃d/
-l'arrière (m.)	the back / the rear (en arrière = backwards)	[sound:the-back-the-rear-en-arriere-backwards.webm]	/laʁjɛʁ/
-blesser	to hurt / to injure	[sound:to-hurt-to-injure.webm]	/blese/
-crever	to burst / to puncture / to die (slang)	[sound:to-burst-to-puncture-to-die-slang.webm]	/kʁəve/
-secret / secrète	secret	[sound:secret.webm]	/səkʁɛ, səkʁɛt/
-écraser	to crush / to run over	[sound:to-crush-to-run-over.webm]	/ekʁaze/
-inutile	useless	[sound:useless.webm]	/inytil/
-demeurer	to remain / to live	[sound:to-remain-to-live.webm]	/dəmœʁe/
-éclater	to burst / to explode / to break out	[sound:to-burst-to-explode-to-break-out.webm]	/eklate/
-livrer	to deliver	[sound:to-deliver.webm]	/livʁe/
-la trace	the trace / the mark	[sound:the-trace-the-mark.webm]	/la tʁas/
-le soin	the care (prendre soin de = to take care of)	[sound:the-care-prendre-soin-de-to-take-care-of.webm]	/lə swɛ̃/
+la pollution	the pollution	[sound:the-pollution.webm]	/la pɔlysjɔ̃/	забруднення
+polluer	to pollute	[sound:to-pollute.webm]	/pɔlɥe/	забруднювати
+recycler	to recycle	[sound:to-recycle.webm]	/ʁəsikle/	переробляти (відходи)
+le recyclage	the recycling	[sound:the-recycling.webm]	/lə ʁəsiklaʒ/	переробка (відходів)
+l'immigration (f.)	the immigration	[sound:the-immigration.webm]	/limiɡʁasjɔ̃/	імміграція
+l'immigrant (m.) / l'immigrante (f.)	the immigrant	[sound:the-immigrant.webm]	/limiɡʁɑ̃, limiɡʁɑ̃t/	іммігрант / іммігрантка
+immigrer	to immigrate	[sound:to-immigrate.webm]	/imiɡʁe/	іммігрувати
+la citoyenneté	the citizenship	[sound:the-citizenship.webm]	/la sitwajɛnte/	громадянство
+la candidature	the (job) application	[sound:the-job-application.webm]	/la kɑ̃didatyʁ/	кандидатура / заява (на роботу)
+le CV	the résumé / the CV	[sound:the-resume-the-cv.webm]	/lə seve/	резюме
+l'employeur (m.) / l'employeuse (f.)	the employer	[sound:the-employer.webm]	/lɑ̃plwajœʁ, lɑ̃plwajøz/	роботодавець / роботодавиця
+le bail	the lease	[sound:the-lease.webm]	/lə baj/	договір оренди
+télécharger	to download	[sound:to-download.webm]	/teleʃaʁʒe/	завантажувати
+la décennie	the decade	[sound:the-decade.webm]	/la deseni/	десятиліття
+sombre	dark / gloomy	[sound:dark-gloomy.webm]	/sɔ̃bʁ/	темний / похмурий
+l'agent (m.)	the agent / the officer	[sound:the-agent-the-officer.webm]	/laʒɑ̃/	агент / службовець
+l'action (f.)	the action / the share (stock)	[sound:the-action-the-share-stock.webm]	/laksjɔ̃/	дія / акція (цінний папір)
+élever	to raise / to bring up (children)	[sound:to-raise-to-bring-up-children.webm]	/elve/	виховувати / вирощувати (дітей)
+la chaleur	the heat	[sound:the-heat.webm]	/la ʃalœʁ/	спека, тепло
+la joue	the cheek	[sound:the-cheek.webm]	/la ʒu/	щока
+signer	to sign	[sound:to-sign.webm]	/siɲe/	підписувати
+absolument	absolutely	[sound:absolutely.webm]	/apsɔlymɑ̃/	абсолютно, неодмінно
+fuir	to flee / to leak	[sound:to-flee-to-leak.webm]	/fɥiʁ/	тікати / протікати
+juger	to judge	[sound:to-judge.webm]	/ʒyʒe/	судити, оцінювати
+la machine	the machine	[sound:the-machine.webm]	/la maʃin/	машина, механізм
+la victime	the victim	[sound:the-victim.webm]	/la viktim/	жертва
+mériter	to deserve	[sound:to-deserve.webm]	/meʁite/	заслуговувати
+l'avance (f.)	the advance (en avance = early, à l'avance = in advance)	[sound:the-advance-en-avance-early-a-l-avance-in-advance.webm]	/lavɑ̃s/	аванс (en avance = заздалегідь, рано; à l'avance = наперед)
+accrocher	to hang (up) / to hook	[sound:to-hang-up-to-hook.webm]	/akʁɔʃe/	вішати / зачіпляти
+le dollar	the dollar	[sound:the-dollar.webm]	/lə dɔlaʁ/	долар
+le colonel	the colonel	[sound:the-colonel.webm]	/lə kɔlɔnɛl/	полковник
+éprouver	to feel / to experience	[sound:to-feel-to-experience.webm]	/epʁuve/	відчувати / переживати
+l'avocat (m.) / l'avocate (f.)	the lawyer / the avocado (l'avocat)	[sound:the-lawyer-the-avocado-l-avocat.webm]	/lavɔka, lavɔkat/	адвокат / адвокатка / авокадо (l'avocat)
+le malheur	the misfortune	[sound:the-misfortune.webm]	/lə malœʁ/	нещастя
+le crime	the crime	[sound:the-crime.webm]	/lə kʁim/	злочин
+le tas	the pile / the heap (un tas de = loads of)	[sound:the-pile-the-heap-un-tas-de-loads-of.webm]	/lə ta/	купа (un tas de = купа, безліч)
+ressentir	to feel	[sound:to-feel.webm]	/ʁəsɑ̃tiʁ/	відчувати
+pur / pure	pure	[sound:pure.webm]	/pyʁ/	чистий / чиста
+profond / profonde	deep	[sound:deep.webm]	/pʁɔfɔ̃, pʁɔfɔ̃d/	глибокий / глибока
+l'arrière (m.)	the back / the rear (en arrière = backwards)	[sound:the-back-the-rear-en-arriere-backwards.webm]	/laʁjɛʁ/	задня частина, тил (en arrière = назад)
+blesser	to hurt / to injure	[sound:to-hurt-to-injure.webm]	/blese/	ранити / кривдити
+crever	to burst / to puncture / to die (slang)	[sound:to-burst-to-puncture-to-die-slang.webm]	/kʁəve/	лопатися / проколювати / здохнути (сленг)
+secret / secrète	secret	[sound:secret.webm]	/səkʁɛ, səkʁɛt/	таємний / таємна
+écraser	to crush / to run over	[sound:to-crush-to-run-over.webm]	/ekʁaze/	розчавлювати / збивати (машиною)
+inutile	useless	[sound:useless.webm]	/inytil/	марний, непотрібний
+demeurer	to remain / to live	[sound:to-remain-to-live.webm]	/dəmœʁe/	залишатися / жити, мешкати
+éclater	to burst / to explode / to break out	[sound:to-burst-to-explode-to-break-out.webm]	/eklate/	лопатися / вибухати / спалахувати
+livrer	to deliver	[sound:to-deliver.webm]	/livʁe/	доставляти
+la trace	the trace / the mark	[sound:the-trace-the-mark.webm]	/la tʁas/	слід
+le soin	the care (prendre soin de = to take care of)	[sound:the-care-prendre-soin-de-to-take-care-of.webm]	/lə swɛ̃/	турбота (prendre soin de = піклуватися про)

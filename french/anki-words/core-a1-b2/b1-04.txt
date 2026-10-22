@@ -1,50 +1,50 @@
-l'idiot (m.) / l'idiote (f.)	the idiot	[sound:the-idiot.webm]	/lidjo, lidjɔt/
-bon	well / OK (ah bon ? = really?)	[sound:well-ok-ah-bon-really.webm]	/bɔ̃/
-l'époux (m.) / l'épouse (f.)	the spouse / the husband / the wife	[sound:the-spouse-the-husband-the-wife.webm]	/lepu, lepuz/
-soi	oneself (chez soi = at home)	[sound:oneself-chez-soi-at-home.webm]	/swa/
-l'ange (m.)	the angel	[sound:the-angel.webm]	/lɑ̃ʒ/
-prononcer	to pronounce	[sound:to-pronounce.webm]	/pʁɔnɔ̃se/
-confier	to entrust / to confide	[sound:to-entrust-to-confide.webm]	/kɔ̃fje/
-le secours	the help / the rescue (au secours ! = help!)	[sound:the-help-the-rescue-au-secours-help.webm]	/lə səkuʁ/
-le couteau	the knife	[sound:the-knife.webm]	/lə kuto/
-débarrasser	to clear / to get rid of (se débarrasser de)	[sound:to-clear-to-get-rid-of-se-debarrasser-de.webm]	/debaʁase/
-le souci	the worry (pas de souci = no problem)	[sound:the-worry-pas-de-souci-no-problem.webm]	/lə susi/
-grandir	to grow (up)	[sound:to-grow-up.webm]	/ɡʁɑ̃diʁ/
-là-haut	up there	[sound:up-there.webm]	/lao/
-public / publique	public	[sound:public.webm]	/pyblik/
-l'autorité (f.)	the authority	[sound:the-authority.webm]	/lotɔʁite/
-la bataille	the battle	[sound:the-battle.webm]	/la bataj/
-admettre	to admit	[sound:to-admit.webm]	/admɛtʁ/
-la politique	the politics / the policy	[sound:the-politics-the-policy.webm]	/la pɔlitik/
-le manteau	the coat	[sound:the-coat.webm]	/lə mɑ̃to/
-nommer	to name / to appoint	[sound:to-name-to-appoint.webm]	/nɔme/
-balancer	to swing / to throw (informal)	[sound:to-swing-to-throw-informal.webm]	/balɑ̃se/
-récupérer	to get back / to recover / to pick up	[sound:to-get-back-to-recover-to-pick-up.webm]	/ʁekypeʁe/
-la chasse	the hunting / the hunt	[sound:the-hunting-the-hunt.webm]	/la ʃas/
-le costume	the suit / the costume	[sound:the-suit-the-costume.webm]	/lə kɔstym/
-idiot / idiote	stupid / silly	[sound:stupid-silly.webm]	/idjo, idjɔt/
-ridicule	ridiculous	[sound:ridiculous.webm]	/ʁidikyl/
-probablement	probably	[sound:probably.webm]	/pʁɔbabləmɑ̃/
-le baiser	the kiss	[sound:the-kiss.webm]	/lə beze/
-pénétrer	to enter / to penetrate	[sound:to-enter-to-penetrate.webm]	/penetʁe/
-la veille	the day before / the eve	[sound:the-day-before-the-eve.webm]	/la vɛj/
-renoncer	to give up	[sound:to-give-up.webm]	/ʁənɔ̃se/
-lors de	at the time of (lors de = during)	[sound:at-the-time-of-lors-de-during.webm]	/lɔʁ də/
-croiser	to cross / to run into (someone)	[sound:to-cross-to-run-into-someone.webm]	/kʁwaze/
-le commandant	the commander / the commanding officer	[sound:the-commander-the-commanding-officer.webm]	/lə kɔmɑ̃dɑ̃/
-l'arrêt (m.)	the stop (l'arrêt d'autobus = bus stop)	[sound:the-stop-l-arret-d-autobus-bus-stop.webm]	/laʁɛ/
-le sexe	the sex	[sound:the-sex.webm]	/lə sɛks/
-l'amant (m.) / l'amante (f.)	the lover	[sound:the-lover.webm]	/lamɑ̃, lamɑ̃t/
-achever	to finish / to complete	[sound:to-finish-to-complete.webm]	/aʃəve/
-le fusil	the rifle / the gun	[sound:the-rifle-the-gun.webm]	/lə fyzi/
-disposer	to arrange / to have available (disposer de)	[sound:to-arrange-to-have-available-disposer-de.webm]	/dispoze/
-éclairer	to light up / to enlighten	[sound:to-light-up-to-enlighten.webm]	/ekleʁe/
-agiter	to shake / to wave	[sound:to-shake-to-wave.webm]	/aʒite/
-refermer	to close again	[sound:to-close-again.webm]	/ʁəfɛʁme/
-la branche	the branch	[sound:the-branch.webm]	/la bʁɑ̃ʃ/
-le rideau	the curtain	[sound:the-curtain.webm]	/lə ʁido/
-la défense	the defence (défense de fumer = no smoking)	[sound:the-defence-defense-de-fumer-no-smoking.webm]	/la defɑ̃s/
-le saint / la sainte	the saint	[sound:the-saint.webm]	/lə sɛ̃, la sɛ̃t/
-rater	to miss / to fail	[sound:to-miss-to-fail.webm]	/ʁate/
-prétendre	to claim	[sound:to-claim.webm]	/pʁetɑ̃dʁ/
-autrement	otherwise / differently	[sound:otherwise-differently.webm]	/otʁəmɑ̃/
+l'idiot (m.) / l'idiote (f.)	the idiot	[sound:the-idiot.webm]	/lidjo, lidjɔt/	ідіот / ідіотка
+bon	well / OK (ah bon ? = really?)	[sound:well-ok-ah-bon-really.webm]	/bɔ̃/	ну / гаразд (ah bon ? = справді?)
+l'époux (m.) / l'épouse (f.)	the spouse / the husband / the wife	[sound:the-spouse-the-husband-the-wife.webm]	/lepu, lepuz/	чоловік / дружина, подружжя
+soi	oneself (chez soi = at home)	[sound:oneself-chez-soi-at-home.webm]	/swa/	себе (chez soi = вдома)
+l'ange (m.)	the angel	[sound:the-angel.webm]	/lɑ̃ʒ/	ангел
+prononcer	to pronounce	[sound:to-pronounce.webm]	/pʁɔnɔ̃se/	вимовляти
+confier	to entrust / to confide	[sound:to-entrust-to-confide.webm]	/kɔ̃fje/	довіряти / звіряти (таємницю)
+le secours	the help / the rescue (au secours ! = help!)	[sound:the-help-the-rescue-au-secours-help.webm]	/lə səkuʁ/	допомога / порятунок (au secours ! = рятуйте!)
+le couteau	the knife	[sound:the-knife.webm]	/lə kuto/	ніж
+débarrasser	to clear / to get rid of (se débarrasser de)	[sound:to-clear-to-get-rid-of-se-debarrasser-de.webm]	/debaʁase/	прибирати / звільнятися від (se débarrasser de)
+le souci	the worry (pas de souci = no problem)	[sound:the-worry-pas-de-souci-no-problem.webm]	/lə susi/	турбота, клопіт (pas de souci = без проблем)
+grandir	to grow (up)	[sound:to-grow-up.webm]	/ɡʁɑ̃diʁ/	рости, дорослішати
+là-haut	up there	[sound:up-there.webm]	/lao/	там, нагорі
+public / publique	public	[sound:public.webm]	/pyblik/	публічний / державний
+l'autorité (f.)	the authority	[sound:the-authority.webm]	/lotɔʁite/	влада / авторитет
+la bataille	the battle	[sound:the-battle.webm]	/la bataj/	битва
+admettre	to admit	[sound:to-admit.webm]	/admɛtʁ/	визнавати / допускати
+la politique	the politics / the policy	[sound:the-politics-the-policy.webm]	/la pɔlitik/	політика
+le manteau	the coat	[sound:the-coat.webm]	/lə mɑ̃to/	пальто
+nommer	to name / to appoint	[sound:to-name-to-appoint.webm]	/nɔme/	називати / призначати
+balancer	to swing / to throw (informal)	[sound:to-swing-to-throw-informal.webm]	/balɑ̃se/	гойдати / жбурляти (розм.)
+récupérer	to get back / to recover / to pick up	[sound:to-get-back-to-recover-to-pick-up.webm]	/ʁekypeʁe/	повертати собі / відновлювати / забирати
+la chasse	the hunting / the hunt	[sound:the-hunting-the-hunt.webm]	/la ʃas/	полювання
+le costume	the suit / the costume	[sound:the-suit-the-costume.webm]	/lə kɔstym/	костюм
+idiot / idiote	stupid / silly	[sound:stupid-silly.webm]	/idjo, idjɔt/	дурний / безглуздий
+ridicule	ridiculous	[sound:ridiculous.webm]	/ʁidikyl/	смішний, безглуздий
+probablement	probably	[sound:probably.webm]	/pʁɔbabləmɑ̃/	мабуть, імовірно
+le baiser	the kiss	[sound:the-kiss.webm]	/lə beze/	поцілунок
+pénétrer	to enter / to penetrate	[sound:to-enter-to-penetrate.webm]	/penetʁe/	проникати / заходити
+la veille	the day before / the eve	[sound:the-day-before-the-eve.webm]	/la vɛj/	переддень / напередодні
+renoncer	to give up	[sound:to-give-up.webm]	/ʁənɔ̃se/	відмовлятися
+lors de	at the time of (lors de = during)	[sound:at-the-time-of-lors-de-during.webm]	/lɔʁ də/	під час (lors de)
+croiser	to cross / to run into (someone)	[sound:to-cross-to-run-into-someone.webm]	/kʁwaze/	перетинати / зустрічати (когось)
+le commandant	the commander / the commanding officer	[sound:the-commander-the-commanding-officer.webm]	/lə kɔmɑ̃dɑ̃/	командир
+l'arrêt (m.)	the stop (l'arrêt d'autobus = bus stop)	[sound:the-stop-l-arret-d-autobus-bus-stop.webm]	/laʁɛ/	зупинка (l'arrêt d'autobus = автобусна зупинка)
+le sexe	the sex	[sound:the-sex.webm]	/lə sɛks/	стать / секс
+l'amant (m.) / l'amante (f.)	the lover	[sound:the-lover.webm]	/lamɑ̃, lamɑ̃t/	коханець / коханка
+achever	to finish / to complete	[sound:to-finish-to-complete.webm]	/aʃəve/	закінчувати / завершувати
+le fusil	the rifle / the gun	[sound:the-rifle-the-gun.webm]	/lə fyzi/	рушниця
+disposer	to arrange / to have available (disposer de)	[sound:to-arrange-to-have-available-disposer-de.webm]	/dispoze/	розташовувати / мати в розпорядженні (disposer de)
+éclairer	to light up / to enlighten	[sound:to-light-up-to-enlighten.webm]	/ekleʁe/	освітлювати / просвіщати
+agiter	to shake / to wave	[sound:to-shake-to-wave.webm]	/aʒite/	трясти / махати
+refermer	to close again	[sound:to-close-again.webm]	/ʁəfɛʁme/	знову закривати
+la branche	the branch	[sound:the-branch.webm]	/la bʁɑ̃ʃ/	гілка
+le rideau	the curtain	[sound:the-curtain.webm]	/lə ʁido/	завіса, штора
+la défense	the defence (défense de fumer = no smoking)	[sound:the-defence-defense-de-fumer-no-smoking.webm]	/la defɑ̃s/	захист (défense de fumer = палити заборонено)
+le saint / la sainte	the saint	[sound:the-saint.webm]	/lə sɛ̃, la sɛ̃t/	святий / свята
+rater	to miss / to fail	[sound:to-miss-to-fail.webm]	/ʁate/	пропускати / провалювати
+prétendre	to claim	[sound:to-claim.webm]	/pʁetɑ̃dʁ/	стверджувати
+autrement	otherwise / differently	[sound:otherwise-differently.webm]	/otʁəmɑ̃/	інакше

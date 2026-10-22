@@ -1,50 +1,50 @@
-le réchauffement climatique	global warming	[sound:global-warming.webm]	/lə ʁeʃofmɑ̃ klimatik/
-l'intégration (f.)	the integration	[sound:the-integration.webm]	/lɛ̃teɡʁasjɔ̃/
-licencier	to lay off / to dismiss	[sound:to-lay-off-to-dismiss.webm]	/lisɑ̃sje/
-le stop	the hitchhiking / the stop sign (Québec: l'arrêt)	[sound:the-hitchhiking-the-stop-sign-quebec-l-arret.webm]	/lə stɔp/
-échouer	to fail	[sound:to-fail.webm]	/eʃwe/
-le pouce	the thumb / the inch	[sound:the-thumb-the-inch.webm]	/lə pus/
-le tir	the shooting / the shot	[sound:the-shooting-the-shot.webm]	/lə tiʁ/
-le balcon	the balcony	[sound:the-balcony.webm]	/lə balkɔ̃/
-tailler	to cut / to trim / to prune	[sound:to-cut-to-trim-to-prune.webm]	/taje/
-tordre	to twist	[sound:to-twist.webm]	/tɔʁdʁ/
-la conviction	the conviction / the belief	[sound:the-conviction-the-belief.webm]	/la kɔ̃viksjɔ̃/
-intime	intimate / private	[sound:intimate-private.webm]	/ɛ̃tim/
-l'équilibre (m.)	the balance	[sound:the-balance.webm]	/lekilibʁ/
-le marbre	the marble	[sound:the-marble.webm]	/lə maʁbʁ/
-le grain	the grain / the speck	[sound:the-grain-the-speck.webm]	/lə ɡʁɛ̃/
-le comptoir	the counter	[sound:the-counter.webm]	/lə kɔ̃twaʁ/
-parer	to ward off / to adorn	[sound:to-ward-off-to-adorn.webm]	/paʁe/
-le muscle	the muscle	[sound:the-muscle.webm]	/lə myskl/
-s'écrouler	to collapse (s'écrouler)	[sound:to-collapse-s-ecrouler.webm]	/sekʁule/
-le dépit	the spite (en dépit de = in spite of)	[sound:the-spite-en-depit-de-in-spite-of.webm]	/lə depi/
-balayer	to sweep	[sound:to-sweep.webm]	/baleje/
-embêter	to bother / to annoy (informal)	[sound:to-bother-to-annoy-informal.webm]	/ɑ̃bete/
-bourrer	to stuff / to cram	[sound:to-stuff-to-cram.webm]	/buʁe/
-la vierge	the virgin	[sound:the-virgin.webm]	/la vjɛʁʒ/
-impressionner	to impress	[sound:to-impress.webm]	/ɛ̃pʁesjɔne/
-la pipe	the pipe (smoking)	[sound:the-pipe-smoking.webm]	/la pip/
-le sacrifice	the sacrifice	[sound:the-sacrifice.webm]	/lə sakʁifis/
-se soucier de	to care about / to worry about (se soucier de)	[sound:to-care-about-to-worry-about-se-soucier-de.webm]	/sə susje də/
-le baron / la baronne	the baron / the baroness	[sound:the-baron-the-baroness.webm]	/lə baʁɔ̃, la baʁɔn/
-envisager	to consider / to plan	[sound:to-consider-to-plan.webm]	/ɑ̃vizaʒe/
-heurter	to hit / to bump into / to offend	[sound:to-hit-to-bump-into-to-offend.webm]	/œʁte/
-protester	to protest	[sound:to-protest.webm]	/pʁɔtɛste/
-se marrer	to have a laugh (se marrer, informal)	[sound:to-have-a-laugh-se-marrer-informal.webm]	/sə maʁe/
-tiède	lukewarm	[sound:lukewarm.webm]	/tjɛd/
-ordinaire	ordinary / usual	[sound:ordinary-usual.webm]	/ɔʁdinɛʁ/
-urgent / urgente	urgent	[sound:urgent.webm]	/yʁʒɑ̃, yʁʒɑ̃t/
-le crédit	the credit / the loan	[sound:the-credit-the-loan.webm]	/lə kʁedi/
-nier	to deny	[sound:to-deny.webm]	/nje/
-percevoir	to perceive / to collect (money)	[sound:to-perceive-to-collect-money.webm]	/pɛʁsəvwaʁ/
-ralentir	to slow down	[sound:to-slow-down.webm]	/ʁalɑ̃tiʁ/
-manifester	to show / to demonstrate (protest)	[sound:to-show-to-demonstrate-protest.webm]	/manifɛste/
-la casquette	the cap (baseball)	[sound:the-cap-baseball.webm]	/la kaskɛt/
-confus / confuse	confused / embarrassed	[sound:confused-embarrassed.webm]	/kɔ̃fy, kɔ̃fyz/
-la barre	the bar / the rod	[sound:the-bar-the-rod.webm]	/la baʁ/
-boucler	to buckle / to fasten / to finish	[sound:to-buckle-to-fasten-to-finish.webm]	/bukle/
-tremper	to soak / to dip	[sound:to-soak-to-dip.webm]	/tʁɑ̃pe/
-le rein	the kidney	[sound:the-kidney.webm]	/lə ʁɛ̃/
-compliqué / compliquée	complicated	[sound:complicated.webm]	/kɔ̃plike/
-l'appétit (m.)	the appetite (bon appétit !)	[sound:the-appetite-bon-appetit.webm]	/lapeti/
-la théorie	the theory	[sound:the-theory.webm]	/la teɔʁi/
+le réchauffement climatique	global warming	[sound:global-warming.webm]	/lə ʁeʃofmɑ̃ klimatik/	глобальне потепління
+l'intégration (f.)	the integration	[sound:the-integration.webm]	/lɛ̃teɡʁasjɔ̃/	інтеграція
+licencier	to lay off / to dismiss	[sound:to-lay-off-to-dismiss.webm]	/lisɑ̃sje/	звільняти (з роботи)
+le stop	the hitchhiking / the stop sign (Québec: l'arrêt)	[sound:the-hitchhiking-the-stop-sign-quebec-l-arret.webm]	/lə stɔp/	автостоп / знак «стоп» (у Квебеку: l'arrêt)
+échouer	to fail	[sound:to-fail.webm]	/eʃwe/	зазнавати невдачі, провалюватися
+le pouce	the thumb / the inch	[sound:the-thumb-the-inch.webm]	/lə pus/	великий палець / дюйм
+le tir	the shooting / the shot	[sound:the-shooting-the-shot.webm]	/lə tiʁ/	стрільба / постріл
+le balcon	the balcony	[sound:the-balcony.webm]	/lə balkɔ̃/	балкон
+tailler	to cut / to trim / to prune	[sound:to-cut-to-trim-to-prune.webm]	/taje/	різати / підстригати / обрізати
+tordre	to twist	[sound:to-twist.webm]	/tɔʁdʁ/	скручувати
+la conviction	the conviction / the belief	[sound:the-conviction-the-belief.webm]	/la kɔ̃viksjɔ̃/	переконання
+intime	intimate / private	[sound:intimate-private.webm]	/ɛ̃tim/	інтимний / особистий
+l'équilibre (m.)	the balance	[sound:the-balance.webm]	/lekilibʁ/	рівновага
+le marbre	the marble	[sound:the-marble.webm]	/lə maʁbʁ/	мармур
+le grain	the grain / the speck	[sound:the-grain-the-speck.webm]	/lə ɡʁɛ̃/	зерно / крупинка
+le comptoir	the counter	[sound:the-counter.webm]	/lə kɔ̃twaʁ/	прилавок / стійка
+parer	to ward off / to adorn	[sound:to-ward-off-to-adorn.webm]	/paʁe/	відбивати / прикрашати
+le muscle	the muscle	[sound:the-muscle.webm]	/lə myskl/	м'яз
+s'écrouler	to collapse (s'écrouler)	[sound:to-collapse-s-ecrouler.webm]	/sekʁule/	обвалюватися
+le dépit	the spite (en dépit de = in spite of)	[sound:the-spite-en-depit-de-in-spite-of.webm]	/lə depi/	досада (en dépit de = попри)
+balayer	to sweep	[sound:to-sweep.webm]	/baleje/	мести, підмітати
+embêter	to bother / to annoy (informal)	[sound:to-bother-to-annoy-informal.webm]	/ɑ̃bete/	набридати / дратувати (розм.)
+bourrer	to stuff / to cram	[sound:to-stuff-to-cram.webm]	/buʁe/	напихати / набивати
+la vierge	the virgin	[sound:the-virgin.webm]	/la vjɛʁʒ/	діва
+impressionner	to impress	[sound:to-impress.webm]	/ɛ̃pʁesjɔne/	вражати
+la pipe	the pipe (smoking)	[sound:the-pipe-smoking.webm]	/la pip/	люлька
+le sacrifice	the sacrifice	[sound:the-sacrifice.webm]	/lə sakʁifis/	жертва, пожертва
+se soucier de	to care about / to worry about (se soucier de)	[sound:to-care-about-to-worry-about-se-soucier-de.webm]	/sə susje də/	дбати про / турбуватися про
+le baron / la baronne	the baron / the baroness	[sound:the-baron-the-baroness.webm]	/lə baʁɔ̃, la baʁɔn/	барон / баронеса
+envisager	to consider / to plan	[sound:to-consider-to-plan.webm]	/ɑ̃vizaʒe/	розглядати / планувати
+heurter	to hit / to bump into / to offend	[sound:to-hit-to-bump-into-to-offend.webm]	/œʁte/	вдаряти / наштовхуватися / ображати
+protester	to protest	[sound:to-protest.webm]	/pʁɔtɛste/	протестувати
+se marrer	to have a laugh (se marrer, informal)	[sound:to-have-a-laugh-se-marrer-informal.webm]	/sə maʁe/	реготати, веселитися (розм.)
+tiède	lukewarm	[sound:lukewarm.webm]	/tjɛd/	теплий, літеплий
+ordinaire	ordinary / usual	[sound:ordinary-usual.webm]	/ɔʁdinɛʁ/	звичайний / звичний
+urgent / urgente	urgent	[sound:urgent.webm]	/yʁʒɑ̃, yʁʒɑ̃t/	терміновий / термінова
+le crédit	the credit / the loan	[sound:the-credit-the-loan.webm]	/lə kʁedi/	кредит / позика
+nier	to deny	[sound:to-deny.webm]	/nje/	заперечувати
+percevoir	to perceive / to collect (money)	[sound:to-perceive-to-collect-money.webm]	/pɛʁsəvwaʁ/	сприймати / стягувати (гроші)
+ralentir	to slow down	[sound:to-slow-down.webm]	/ʁalɑ̃tiʁ/	сповільнюватися
+manifester	to show / to demonstrate (protest)	[sound:to-show-to-demonstrate-protest.webm]	/manifɛste/	виявляти / демонструвати (протест)
+la casquette	the cap (baseball)	[sound:the-cap-baseball.webm]	/la kaskɛt/	кепка
+confus / confuse	confused / embarrassed	[sound:confused-embarrassed.webm]	/kɔ̃fy, kɔ̃fyz/	збентежений / збентежена, заплутаний
+la barre	the bar / the rod	[sound:the-bar-the-rod.webm]	/la baʁ/	брусок / стрижень, планка
+boucler	to buckle / to fasten / to finish	[sound:to-buckle-to-fasten-to-finish.webm]	/bukle/	застібати / пристібати / завершувати
+tremper	to soak / to dip	[sound:to-soak-to-dip.webm]	/tʁɑ̃pe/	мочити / вмочати
+le rein	the kidney	[sound:the-kidney.webm]	/lə ʁɛ̃/	нирка
+compliqué / compliquée	complicated	[sound:complicated.webm]	/kɔ̃plike/	складний / складна
+l'appétit (m.)	the appetite (bon appétit !)	[sound:the-appetite-bon-appetit.webm]	/lapeti/	апетит (bon appétit ! = смачного!)
+la théorie	the theory	[sound:the-theory.webm]	/la teɔʁi/	теорія

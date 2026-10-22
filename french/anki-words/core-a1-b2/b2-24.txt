@@ -1,50 +1,50 @@
-promis / promise	promised	[sound:promised.webm]	/pʁɔmi, pʁɔmiz/
-la finance	the finance (les finances = finances)	[sound:the-finance-les-finances-finances.webm]	/la finɑ̃s/
-honnêtement	honestly	[sound:honestly.webm]	/ɔnɛtəmɑ̃/
-inciter	to encourage / to urge	[sound:to-encourage-to-urge.webm]	/ɛ̃site/
-chauve	bald	[sound:bald.webm]	/ʃov/
-emprisonner	to imprison	[sound:to-imprison.webm]	/ɑ̃pʁizɔne/
-secondaire	secondary (l'école secondaire = high school, Québec)	[sound:secondary-l-ecole-secondaire-high-school-quebec.webm]	/səɡɔ̃dɛʁ/
-la préparation	the preparation	[sound:the-preparation.webm]	/la pʁepaʁasjɔ̃/
-l'adolescence (f.)	the adolescence / the teenage years	[sound:the-adolescence-the-teenage-years.webm]	/ladɔlesɑ̃s/
-le châtiment	the punishment	[sound:the-punishment-le-chatiment.webm]	/lə ʃatimɑ̃/
-néanmoins	nevertheless / nonetheless	[sound:nevertheless-nonetheless.webm]	/neɑ̃mwɛ̃/
-sculpter	to sculpt / to carve	[sound:to-sculpt-to-carve.webm]	/skylte/
-le puzzle	the jigsaw puzzle	[sound:the-jigsaw-puzzle.webm]	/lə pœzl/
-charrier	to carry along / (informal) to tease	[sound:to-carry-along-informal-to-tease.webm]	/ʃaʁje/
-la pendule	the clock (la pendule) / the pendulum (le pendule)	[sound:the-clock-la-pendule-the-pendulum-le-pendule.webm]	/la pɑ̃dyl/
-munir	to equip / to provide (muni de = equipped with)	[sound:to-equip-to-provide-muni-de-equipped-with.webm]	/myniʁ/
-la protestation	the protest	[sound:the-protest.webm]	/la pʁɔtɛstasjɔ̃/
-arrondir	to round off / to round up	[sound:to-round-off-to-round-up.webm]	/aʁɔ̃diʁ/
-le béret	the beret	[sound:the-beret.webm]	/lə beʁɛ/
-le galop	the gallop	[sound:the-gallop.webm]	/lə ɡalo/
-matinal / matinale	early-rising / morning (adj.)	[sound:early-rising-morning-adj.webm]	/matinal/
-le dauphin	the dolphin	[sound:the-dolphin-le-dauphin.webm]	/lə dofɛ̃/
-copier	to copy	[sound:to-copy.webm]	/kɔpje/
-la nausée	the nausea	[sound:the-nausea.webm]	/la noze/
-correctement	correctly	[sound:correctly.webm]	/kɔʁɛktəmɑ̃/
-reparaître	to reappear	[sound:to-reappear-reparaitre.webm]	/ʁəpaʁɛtʁ/
-dédier	to dedicate	[sound:to-dedicate.webm]	/dedje/
-galoper	to gallop	[sound:to-gallop.webm]	/ɡalɔpe/
-accommoder	to accommodate / to prepare (food) (s'accommoder de = to put up with)	[sound:to-accommodate-to-prepare-food-s-accommoder-de-to-put-up.webm]	/akɔmɔde/
-chevaucher	to ride / to overlap	[sound:to-ride-to-overlap.webm]	/ʃəvoʃe/
-la carcasse	the carcass / the frame	[sound:the-carcass-the-frame.webm]	/la kaʁkas/
-le capital	the capital (money)	[sound:the-capital-money.webm]	/lə kapital/
-grouper	to group	[sound:to-group.webm]	/ɡʁupe/
-judiciaire	judicial / legal	[sound:judicial-legal.webm]	/ʒydisjɛʁ/
-froncer	to frown (froncer les sourcils)	[sound:to-frown-froncer-les-sourcils.webm]	/fʁɔ̃se/
-la traduction	the translation	[sound:the-translation.webm]	/la tʁadyksjɔ̃/
-gouverner	to govern	[sound:to-govern.webm]	/ɡuvɛʁne/
-l'intensité (f.)	the intensity	[sound:the-intensity.webm]	/lɛ̃tɑ̃site/
-pâlir	to turn pale	[sound:to-turn-pale.webm]	/paliʁ/
-le processus	the process	[sound:the-process.webm]	/lə pʁɔsesys/
-la parade	the parade / the display / the parry	[sound:the-parade-the-display-the-parry.webm]	/la paʁad/
-les applaudissements (m.)	the applause	[sound:the-applause.webm]	/lez aplodismɑ̃/
-la fouille	the search	[sound:the-search.webm]	/la fuj/
-rituel / rituelle	ritual	[sound:ritual.webm]	/ʁitɥɛl/
-solliciter	to request / to apply for	[sound:to-request-to-apply-for.webm]	/sɔlisite/
-la délégation	the delegation	[sound:the-delegation.webm]	/la deleɡasjɔ̃/
-dissoudre	to dissolve	[sound:to-dissolve.webm]	/disudʁ/
-durement	harshly / hard	[sound:harshly-hard.webm]	/dyʁəmɑ̃/
-froisser	to crease / to offend	[sound:to-crease-to-offend.webm]	/fʁwase/
-le cadet / la cadette	the younger (child) / the youngest	[sound:the-younger-child-the-youngest.webm]	/lə kadɛ, la kadɛt/
+promis / promise	promised	[sound:promised.webm]	/pʁɔmi, pʁɔmiz/	обіцяний / обіцяна
+la finance	the finance (les finances = finances)	[sound:the-finance-les-finances-finances.webm]	/la finɑ̃s/	фінанси (les finances = фінанси)
+honnêtement	honestly	[sound:honestly.webm]	/ɔnɛtəmɑ̃/	чесно
+inciter	to encourage / to urge	[sound:to-encourage-to-urge.webm]	/ɛ̃site/	спонукати / заохочувати
+chauve	bald	[sound:bald.webm]	/ʃov/	лисий
+emprisonner	to imprison	[sound:to-imprison.webm]	/ɑ̃pʁizɔne/	ув'язнювати
+secondaire	secondary (l'école secondaire = high school, Québec)	[sound:secondary-l-ecole-secondaire-high-school-quebec.webm]	/səɡɔ̃dɛʁ/	середній / другорядний (l'école secondaire = старша школа, у Квебеку)
+la préparation	the preparation	[sound:the-preparation.webm]	/la pʁepaʁasjɔ̃/	підготовка
+l'adolescence (f.)	the adolescence / the teenage years	[sound:the-adolescence-the-teenage-years.webm]	/ladɔlesɑ̃s/	юність / підлітковий вік
+le châtiment	the punishment	[sound:the-punishment-le-chatiment.webm]	/lə ʃatimɑ̃/	кара
+néanmoins	nevertheless / nonetheless	[sound:nevertheless-nonetheless.webm]	/neɑ̃mwɛ̃/	проте / тим не менш
+sculpter	to sculpt / to carve	[sound:to-sculpt-to-carve.webm]	/skylte/	ліпити / вирізьблювати
+le puzzle	the jigsaw puzzle	[sound:the-jigsaw-puzzle.webm]	/lə pœzl/	пазл
+charrier	to carry along / (informal) to tease	[sound:to-carry-along-informal-to-tease.webm]	/ʃaʁje/	нести за собою / (розм.) кепкувати
+la pendule	the clock (la pendule) / the pendulum (le pendule)	[sound:the-clock-la-pendule-the-pendulum-le-pendule.webm]	/la pɑ̃dyl/	настінний годинник (la pendule) / маятник (le pendule)
+munir	to equip / to provide (muni de = equipped with)	[sound:to-equip-to-provide-muni-de-equipped-with.webm]	/myniʁ/	оснащувати / забезпечувати (muni de = оснащений)
+la protestation	the protest	[sound:the-protest.webm]	/la pʁɔtɛstasjɔ̃/	протест
+arrondir	to round off / to round up	[sound:to-round-off-to-round-up.webm]	/aʁɔ̃diʁ/	округлювати
+le béret	the beret	[sound:the-beret.webm]	/lə beʁɛ/	берет
+le galop	the gallop	[sound:the-gallop.webm]	/lə ɡalo/	галоп
+matinal / matinale	early-rising / morning (adj.)	[sound:early-rising-morning-adj.webm]	/matinal/	ранній / ранковий
+le dauphin	the dolphin	[sound:the-dolphin-le-dauphin.webm]	/lə dofɛ̃/	дельфін
+copier	to copy	[sound:to-copy.webm]	/kɔpje/	копіювати
+la nausée	the nausea	[sound:the-nausea.webm]	/la noze/	нудота
+correctement	correctly	[sound:correctly.webm]	/kɔʁɛktəmɑ̃/	правильно
+reparaître	to reappear	[sound:to-reappear-reparaitre.webm]	/ʁəpaʁɛtʁ/	знову з'являтися
+dédier	to dedicate	[sound:to-dedicate.webm]	/dedje/	присвячувати
+galoper	to gallop	[sound:to-gallop.webm]	/ɡalɔpe/	скакати галопом
+accommoder	to accommodate / to prepare (food) (s'accommoder de = to put up with)	[sound:to-accommodate-to-prepare-food-s-accommoder-de-to-put-up.webm]	/akɔmɔde/	пристосовувати / готувати (їжу) (s'accommoder de = миритися з)
+chevaucher	to ride / to overlap	[sound:to-ride-to-overlap.webm]	/ʃəvoʃe/	їхати верхи / перекриватися
+la carcasse	the carcass / the frame	[sound:the-carcass-the-frame.webm]	/la kaʁkas/	туша / каркас
+le capital	the capital (money)	[sound:the-capital-money.webm]	/lə kapital/	капітал
+grouper	to group	[sound:to-group.webm]	/ɡʁupe/	групувати
+judiciaire	judicial / legal	[sound:judicial-legal.webm]	/ʒydisjɛʁ/	судовий
+froncer	to frown (froncer les sourcils)	[sound:to-frown-froncer-les-sourcils.webm]	/fʁɔ̃se/	хмурити (froncer les sourcils = насуплювати брови)
+la traduction	the translation	[sound:the-translation.webm]	/la tʁadyksjɔ̃/	переклад
+gouverner	to govern	[sound:to-govern.webm]	/ɡuvɛʁne/	керувати / правити
+l'intensité (f.)	the intensity	[sound:the-intensity.webm]	/lɛ̃tɑ̃site/	інтенсивність
+pâlir	to turn pale	[sound:to-turn-pale.webm]	/paliʁ/	бліднути
+le processus	the process	[sound:the-process.webm]	/lə pʁɔsesys/	процес
+la parade	the parade / the display / the parry	[sound:the-parade-the-display-the-parry.webm]	/la paʁad/	парад / демонстрація / парирування
+les applaudissements (m.)	the applause	[sound:the-applause.webm]	/lez aplodismɑ̃/	оплески
+la fouille	the search	[sound:the-search.webm]	/la fuj/	обшук / розкопки
+rituel / rituelle	ritual	[sound:ritual.webm]	/ʁitɥɛl/	ритуальний / ритуальна
+solliciter	to request / to apply for	[sound:to-request-to-apply-for.webm]	/sɔlisite/	просити / подавати заяву на
+la délégation	the delegation	[sound:the-delegation.webm]	/la deleɡasjɔ̃/	делегація
+dissoudre	to dissolve	[sound:to-dissolve.webm]	/disudʁ/	розчиняти
+durement	harshly / hard	[sound:harshly-hard.webm]	/dyʁəmɑ̃/	суворо / тяжко
+froisser	to crease / to offend	[sound:to-crease-to-offend.webm]	/fʁwase/	мнути / ображати
+le cadet / la cadette	the younger (child) / the youngest	[sound:the-younger-child-the-youngest.webm]	/lə kadɛ, la kadɛt/	молодший / наймолодша (дитина)

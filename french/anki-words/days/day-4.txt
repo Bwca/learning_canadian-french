@@ -1,42 +1,42 @@
-bouger	to move
-changer	to change
-corriger	to correct
-dégager	to release, to free
-déménager	to move (house)
-encourager	to encourage
-exiger	to demand
-héberger	to host
-manger	to eat
-mélanger	to mix
-nager	to swim
-négliger	to neglect
-partager	to share
-plonger	to dive
-protéger	to protect
-ranger	to put away
-venger	to avenge
-achever	to complete
-emmener	to take along, to escort
-enlever	to remove
-lever	to raise
-mener	to lead
-peser	to weigh
-semer	to sow
-céder	to yield
-célébrer	to celebrate
-considérer	to consider
-déléguer	to delegate
-espérer	to hope
-exagérer	to exaggerate
-gérer	to manage
-lécher	to lick
-posséder	to own
-préférer	to prefer
-révéler	to reveal
-appeler	to call
-ensorceler	to bewitch
-étinceler	to sparkle, to glitter
-ficeler	to tie
-niveler	to level
-rappeler	to remind, to call back
-renouveler	to renew
+bouger	to move			рухатися
+changer	to change			змінювати(ся)
+corriger	to correct			виправляти
+dégager	to release, to free			звільняти, розчищати
+déménager	to move (house)			переїжджати (на нове житло)
+encourager	to encourage			підбадьорювати, заохочувати
+exiger	to demand			вимагати
+héberger	to host			давати притулок, приймати (гостей)
+manger	to eat			їсти
+mélanger	to mix			змішувати
+nager	to swim			плавати
+négliger	to neglect			нехтувати
+partager	to share			ділитися
+plonger	to dive			пірнати
+protéger	to protect			захищати
+ranger	to put away			прибирати, класти на місце
+venger	to avenge			мстити(ся)
+achever	to complete			завершувати
+emmener	to take along, to escort			забирати з собою, відводити
+enlever	to remove			знімати / прибирати
+lever	to raise			піднімати
+mener	to lead			вести
+peser	to weigh			важити
+semer	to sow			сіяти
+céder	to yield			поступатися
+célébrer	to celebrate			святкувати
+considérer	to consider			вважати, розглядати
+déléguer	to delegate			делегувати
+espérer	to hope			сподіватися
+exagérer	to exaggerate			перебільшувати
+gérer	to manage			керувати, управляти
+lécher	to lick			лизати
+posséder	to own			володіти
+préférer	to prefer			віддавати перевагу
+révéler	to reveal			розкривати
+appeler	to call			кликати, телефонувати
+ensorceler	to bewitch			зачаровувати
+étinceler	to sparkle, to glitter			іскритися, виблискувати
+ficeler	to tie			перев'язувати мотузкою
+niveler	to level			вирівнювати
+rappeler	to remind, to call back			нагадувати, передзвонювати
+renouveler	to renew			поновлювати

@@ -1,50 +1,50 @@
-grands	big / tall (masc. plural)
-grands-parents	grandparents
-gris	grey
-grise	grey (fem.)
-gros	fat / big
-grosse	fat / big (fem.)
-grossir	to gain weight
-grêle	hail
-guérir	to heal / to get better
-gâteau	cake
-gâteaux	cakes
-génial	awesome / great
-géniaux	awesome / great (masc. plural)
-habiter	to live
-hamster	hamster
-haute	high (fem.)
-haïtien	Haitian
-herbe	grass
-heure	o'clock/hour
-heureuse	happy (fem.)
-heureuses	happy (fem. plural)
-heureux	happy
-hibou	owl
-hiboux	owls (irregular plural)
-histoire	story
-hiver	winter
-homme	man
-horloge	clock
-huile	oil
-huit	eight
-huit heures	eight o'clock
-hôpital	hospital
-ici	here
-idée	idea
-idées	ideas
-il y a	there is / there are
-infirmière	nurse
-ingénieur	engineer
-inquiet	worried
-intelligent	intelligent / smart
-intelligente	intelligent / smart (fem.)
-intelligentes	intelligent / smart (fem. plural)
-interrompre	to interrupt (il/elle interrompt)
-intéressant	interesting
-intéressantes	interesting (fem. plural)
-intéressants	interesting (masc. plural)
-inviter	to invite
-italien	Italian
-italienne	Italian (fem.)
-jambon	ham
+grands	big / tall (masc. plural)			великі / високі (чол. р.)
+grands-parents	grandparents			дідусь і бабуся
+gris	grey			сірий
+grise	grey (fem.)			сіра
+gros	fat / big			товстий / великий
+grosse	fat / big (fem.)			товста / велика
+grossir	to gain weight			гладшати, набирати вагу
+grêle	hail			град
+guérir	to heal / to get better			вилікувати(ся), одужувати
+gâteau	cake			торт, тістечко
+gâteaux	cakes			торти, тістечка
+génial	awesome / great			чудовий, класний
+géniaux	awesome / great (masc. plural)			чудові, класні (чол. р.)
+habiter	to live			жити, мешкати
+hamster	hamster			хом'як
+haute	high (fem.)			висока
+haïtien	Haitian			гаїтянський, гаїтянин
+herbe	grass			трава
+heure	o'clock/hour			година
+heureuse	happy (fem.)			щаслива
+heureuses	happy (fem. plural)			щасливі (жін. р.)
+heureux	happy			щасливий
+hibou	owl			сова
+hiboux	owls (irregular plural)			сови (неправильна мн.)
+histoire	story			історія, розповідь
+hiver	winter			зима
+homme	man			чоловік, людина
+horloge	clock			годинник (настінний)
+huile	oil			олія
+huit	eight			вісім
+huit heures	eight o'clock			восьма година
+hôpital	hospital			лікарня
+ici	here			тут
+idée	idea			ідея
+idées	ideas			ідеї
+il y a	there is / there are			є, існує
+infirmière	nurse			медсестра
+ingénieur	engineer			інженер
+inquiet	worried			стурбований
+intelligent	intelligent / smart			розумний
+intelligente	intelligent / smart (fem.)			розумна
+intelligentes	intelligent / smart (fem. plural)			розумні (жін. р.)
+interrompre	to interrupt (il/elle interrompt)			перебивати (il/elle interrompt)
+intéressant	interesting			цікавий
+intéressantes	interesting (fem. plural)			цікаві (жін. р.)
+intéressants	interesting (masc. plural)			цікаві (чол. р.)
+inviter	to invite			запрошувати
+italien	Italian			італійський, італієць
+italienne	Italian (fem.)			італійська, італійка
+jambon	ham			шинка

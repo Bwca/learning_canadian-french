@@ -1,50 +1,50 @@
-détendre	to relax / to loosen (se détendre = to unwind)	[sound:to-relax-to-loosen-se-detendre-to-unwind.webm]	/detɑ̃dʁ/
-le commandement	the command / the commandment	[sound:the-command-the-commandment.webm]	/lə kɔmɑ̃dəmɑ̃/
-la fièvre	the fever	[sound:the-fever.webm]	/la fjɛvʁ/
-le curé	the priest (parish)	[sound:the-priest-parish.webm]	/lə kyʁe/
-se débrouiller	to manage / to get by (se débrouiller)	[sound:to-manage-to-get-by-se-debrouiller.webm]	/sə debʁuje/
-juif / juive	Jewish	[sound:jewish.webm]	/ʒɥif, ʒɥiv/
-la crainte	the fear	[sound:the-fear.webm]	/la kʁɛ̃t/
-le col	the collar / the mountain pass	[sound:the-collar-the-mountain-pass.webm]	/lə kɔl/
-incapable	unable / incapable	[sound:unable-incapable.webm]	/ɛ̃kapabl/
-effrayer	to frighten / to scare	[sound:to-frighten-to-scare.webm]	/efʁɛje/
-le vieillard	the old man	[sound:the-old-man.webm]	/lə vjɛjaʁ/
-essuyer	to wipe / to dry	[sound:to-wipe-to-dry.webm]	/esɥije/
-cool	cool (informal)	[sound:cool-informal.webm]	/kul/
-priver	to deprive	[sound:to-deprive.webm]	/pʁive/
-sexuel / sexuelle	sexual	[sound:sexual.webm]	/seksɥɛl/
-la plaque	the plate / the sheet / the patch (la plaque d'immatriculation = licence plate)	[sound:the-plate-the-sheet-the-patch-la-plaque-d-immatriculation.webm]	/la plak/
-le menton	the chin	[sound:the-chin.webm]	/lə mɑ̃tɔ̃/
-l'illusion (f.)	the illusion	[sound:the-illusion.webm]	/lilyzjɔ̃/
-la chute	the fall / the drop (la chute d'eau = waterfall)	[sound:the-fall-the-drop-la-chute-d-eau-waterfall.webm]	/la ʃyt/
-le rythme	the rhythm / the pace	[sound:the-rhythm-the-pace.webm]	/lə ʁitm/
-la prise	the taking / the outlet (la prise électrique) / the catch	[sound:the-taking-the-outlet-la-prise-electrique-the-catch.webm]	/la pʁiz/
-dominer	to dominate	[sound:to-dominate.webm]	/dɔmine/
-total / totale	total / complete	[sound:total-complete.webm]	/tɔtal/
-évident / évidente	obvious	[sound:obvious.webm]	/evidɑ̃, evidɑ̃t/
-l'apparence (f.)	the appearance	[sound:the-appearance.webm]	/lapaʁɑ̃s/
-le récit	the story / the account	[sound:the-story-the-account.webm]	/lə ʁesi/
-la majesté	the majesty	[sound:the-majesty.webm]	/la maʒɛste/
-la misère	the poverty / the misery	[sound:the-poverty-the-misery.webm]	/la mizɛʁ/
-saint / sainte	holy / saint	[sound:holy-saint.webm]	/sɛ̃, sɛ̃t/
-noyer	to drown	[sound:to-drown.webm]	/nwaje/
-l'ongle (m.)	the nail (finger)	[sound:the-nail-finger.webm]	/lɔ̃ɡl/
-appliquer	to apply	[sound:to-apply.webm]	/aplike/
-employer	to use / to employ	[sound:to-use-to-employ.webm]	/ɑ̃plwaje/
-le chagrin	the sorrow / the grief	[sound:the-sorrow-the-grief.webm]	/lə ʃaɡʁɛ̃/
-viser	to aim (at)	[sound:to-aim-at.webm]	/vize/
-la race	the race / the breed	[sound:the-race-the-breed.webm]	/la ʁas/
-la lutte	the fight / the struggle	[sound:the-fight-the-struggle.webm]	/la lyt/
-démarrer	to start (a car, a project)	[sound:to-start-a-car-a-project.webm]	/demaʁe/
-le gaz	the gas / the gasoline (Québec)	[sound:the-gas-the-gasoline-quebec.webm]	/lə ɡaz/
-cruel / cruelle	cruel	[sound:cruel.webm]	/kʁyɛl/
-répandre	to spread / to spill	[sound:to-spread-to-spill.webm]	/ʁepɑ̃dʁ/
-l'inconnu (m.) / l'inconnue (f.)	the stranger / the unknown	[sound:the-stranger-the-unknown.webm]	/lɛ̃kɔny, lɛ̃kɔny/
-reprocher	to blame / to reproach	[sound:to-blame-to-reproach.webm]	/ʁəpʁɔʃe/
-plier	to fold / to bend	[sound:to-fold-to-bend.webm]	/plije/
-humide	damp / humid	[sound:damp-humid.webm]	/ymid/
-solide	solid / strong	[sound:solid-strong.webm]	/sɔlid/
-le coude	the elbow	[sound:the-elbow.webm]	/lə kud/
-le linge	the laundry / the linen	[sound:the-laundry-the-linen.webm]	/lə lɛ̃ʒ/
-la patience	the patience	[sound:the-patience.webm]	/la pasjɑ̃s/
-opposer	to oppose / to contrast (s'opposer à = to be against)	[sound:to-oppose-to-contrast-s-opposer-a-to-be-against.webm]	/ɔpoze/
+détendre	to relax / to loosen (se détendre = to unwind)	[sound:to-relax-to-loosen-se-detendre-to-unwind.webm]	/detɑ̃dʁ/	розслабляти / послаблювати (se détendre = відпочити)
+le commandement	the command / the commandment	[sound:the-command-the-commandment.webm]	/lə kɔmɑ̃dəmɑ̃/	командування / заповідь
+la fièvre	the fever	[sound:the-fever.webm]	/la fjɛvʁ/	гарячка, жар
+le curé	the priest (parish)	[sound:the-priest-parish.webm]	/lə kyʁe/	парафіяльний священник
+se débrouiller	to manage / to get by (se débrouiller)	[sound:to-manage-to-get-by-se-debrouiller.webm]	/sə debʁuje/	давати собі раду, якось справлятися
+juif / juive	Jewish	[sound:jewish.webm]	/ʒɥif, ʒɥiv/	єврейський / єврейка
+la crainte	the fear	[sound:the-fear.webm]	/la kʁɛ̃t/	страх
+le col	the collar / the mountain pass	[sound:the-collar-the-mountain-pass.webm]	/lə kɔl/	комір / гірський перевал
+incapable	unable / incapable	[sound:unable-incapable.webm]	/ɛ̃kapabl/	нездатний
+effrayer	to frighten / to scare	[sound:to-frighten-to-scare.webm]	/efʁɛje/	лякати
+le vieillard	the old man	[sound:the-old-man.webm]	/lə vjɛjaʁ/	старий (дід)
+essuyer	to wipe / to dry	[sound:to-wipe-to-dry.webm]	/esɥije/	витирати
+cool	cool (informal)	[sound:cool-informal.webm]	/kul/	круто, класний (розм.)
+priver	to deprive	[sound:to-deprive.webm]	/pʁive/	позбавляти
+sexuel / sexuelle	sexual	[sound:sexual.webm]	/seksɥɛl/	сексуальний / сексуальна
+la plaque	the plate / the sheet / the patch (la plaque d'immatriculation = licence plate)	[sound:the-plate-the-sheet-the-patch-la-plaque-d-immatriculation.webm]	/la plak/	пластина / лист / пляма (la plaque d'immatriculation = номерний знак)
+le menton	the chin	[sound:the-chin.webm]	/lə mɑ̃tɔ̃/	підборіддя
+l'illusion (f.)	the illusion	[sound:the-illusion.webm]	/lilyzjɔ̃/	ілюзія
+la chute	the fall / the drop (la chute d'eau = waterfall)	[sound:the-fall-the-drop-la-chute-d-eau-waterfall.webm]	/la ʃyt/	падіння (la chute d'eau = водоспад)
+le rythme	the rhythm / the pace	[sound:the-rhythm-the-pace.webm]	/lə ʁitm/	ритм / темп
+la prise	the taking / the outlet (la prise électrique) / the catch	[sound:the-taking-the-outlet-la-prise-electrique-the-catch.webm]	/la pʁiz/	взяття / розетка (la prise électrique) / улов
+dominer	to dominate	[sound:to-dominate.webm]	/dɔmine/	домінувати
+total / totale	total / complete	[sound:total-complete.webm]	/tɔtal/	повний / цілковитий
+évident / évidente	obvious	[sound:obvious.webm]	/evidɑ̃, evidɑ̃t/	очевидний / очевидна
+l'apparence (f.)	the appearance	[sound:the-appearance.webm]	/lapaʁɑ̃s/	зовнішність, вигляд
+le récit	the story / the account	[sound:the-story-the-account.webm]	/lə ʁesi/	розповідь
+la majesté	the majesty	[sound:the-majesty.webm]	/la maʒɛste/	величність
+la misère	the poverty / the misery	[sound:the-poverty-the-misery.webm]	/la mizɛʁ/	злидні / нещастя
+saint / sainte	holy / saint	[sound:holy-saint.webm]	/sɛ̃, sɛ̃t/	святий / свята
+noyer	to drown	[sound:to-drown.webm]	/nwaje/	топити (se noyer = тонути)
+l'ongle (m.)	the nail (finger)	[sound:the-nail-finger.webm]	/lɔ̃ɡl/	ніготь
+appliquer	to apply	[sound:to-apply.webm]	/aplike/	застосовувати
+employer	to use / to employ	[sound:to-use-to-employ.webm]	/ɑ̃plwaje/	вживати / наймати
+le chagrin	the sorrow / the grief	[sound:the-sorrow-the-grief.webm]	/lə ʃaɡʁɛ̃/	горе, смуток
+viser	to aim (at)	[sound:to-aim-at.webm]	/vize/	цілитися (в)
+la race	the race / the breed	[sound:the-race-the-breed.webm]	/la ʁas/	раса / порода
+la lutte	the fight / the struggle	[sound:the-fight-the-struggle.webm]	/la lyt/	боротьба
+démarrer	to start (a car, a project)	[sound:to-start-a-car-a-project.webm]	/demaʁe/	заводити (машину) / запускати (проєкт)
+le gaz	the gas / the gasoline (Québec)	[sound:the-gas-the-gasoline-quebec.webm]	/lə ɡaz/	газ / бензин (у Квебеку)
+cruel / cruelle	cruel	[sound:cruel.webm]	/kʁyɛl/	жорстокий / жорстока
+répandre	to spread / to spill	[sound:to-spread-to-spill.webm]	/ʁepɑ̃dʁ/	поширювати / розливати
+l'inconnu (m.) / l'inconnue (f.)	the stranger / the unknown	[sound:the-stranger-the-unknown.webm]	/lɛ̃kɔny, lɛ̃kɔny/	незнайомець / незнайомка, невідоме
+reprocher	to blame / to reproach	[sound:to-blame-to-reproach.webm]	/ʁəpʁɔʃe/	дорікати
+plier	to fold / to bend	[sound:to-fold-to-bend.webm]	/plije/	складати / згинати
+humide	damp / humid	[sound:damp-humid.webm]	/ymid/	вологий
+solide	solid / strong	[sound:solid-strong.webm]	/sɔlid/	міцний / твердий
+le coude	the elbow	[sound:the-elbow.webm]	/lə kud/	лікоть
+le linge	the laundry / the linen	[sound:the-laundry-the-linen.webm]	/lə lɛ̃ʒ/	білизна
+la patience	the patience	[sound:the-patience.webm]	/la pasjɑ̃s/	терпіння
+opposer	to oppose / to contrast (s'opposer à = to be against)	[sound:to-oppose-to-contrast-s-opposer-a-to-be-against.webm]	/ɔpoze/	протиставляти (s'opposer à = бути проти)

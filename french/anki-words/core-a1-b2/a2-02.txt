@@ -1,50 +1,50 @@
-dehors	outside	[sound:outside.webm]	/dəɔʁ/
-amener	to bring (someone)	[sound:to-bring-someone.webm]	/aməne/
-pareil / pareille	the same / similar	[sound:the-same-similar.webm]	/paʁɛj/
-ramener	to bring back (someone)	[sound:to-bring-back-someone.webm]	/ʁaməne/
-la parole	the word / the speech (prendre la parole = to speak)	[sound:the-word-the-speech-prendre-la-parole-to-speak.webm]	/la paʁɔl/
-la peau	the skin	[sound:the-skin.webm]	/la po/
-le patron / la patronne	the boss / the owner	[sound:the-boss-the-owner.webm]	/lə patʁɔ̃, la patʁɔn/
-le rapport	the relationship / the report	[sound:the-relationship-the-report.webm]	/lə ʁapɔʁ/
-ignorer	to not know / to ignore	[sound:to-not-know-to-ignore.webm]	/iɲɔʁe/
-haut / haute	high / tall	[sound:high-tall.webm]	/o, ot/
-la faute	the fault / the mistake	[sound:the-fault-the-mistake.webm]	/la fot/
-glisser	to slide / to slip	[sound:to-slide-to-slip.webm]	/ɡlise/
-lâcher	to let go / to drop	[sound:to-let-go-to-drop.webm]	/laʃe/
-la lèvre / les lèvres	the lips	[sound:the-lips.webm]	/la lɛvʁ, le lɛvʁ/
-serrer	to squeeze / to tighten (serrer la main = to shake hands)	[sound:to-squeeze-to-tighten-serrer-la-main-to-shake-hands.webm]	/seʁe/
-l'espèce (f.)	the species / the kind (espèce de… ! = you…!)	[sound:the-species-the-kind-espece-de-you.webm]	/lɛspɛs/
-sauter	to jump	[sound:to-jump-sauter.webm]	/sote/
-lorsque	when (formal)	[sound:when-formal.webm]	/lɔʁskə/
-casser	to break	[sound:to-break.webm]	/kase/
-la ligne	the line	[sound:the-line.webm]	/la liɲ/
-enlever	to remove / to take off	[sound:to-remove-to-take-off.webm]	/ɑ̃ləve/
-debout	standing (up)	[sound:standing-up.webm]	/dəbu/
-lui-même	himself	[sound:himself.webm]	/lɥimɛm/
-l'armée (f.)	the army	[sound:the-army-l-armee-f.webm]	/laʁme/
-cesser	to stop / to cease	[sound:to-stop-to-cease.webm]	/sese/
-oser	to dare	[sound:to-dare.webm]	/oze/
-l'impression (f.)	the impression / the printing	[sound:the-impression-the-printing.webm]	/lɛ̃pʁesjɔ̃/
-le capitaine	the captain	[sound:the-captain.webm]	/lə kapitɛn/
-tendre	tender / soft; to hold out / to stretch out	[sound:tender-soft-to-hold-out-to-stretch-out.webm]	/tɑ̃dʁ/
-le signe	the sign	[sound:the-sign.webm]	/lə siɲ/
-parmi	among	[sound:among.webm]	/paʁmi/
-lancer	to throw / to launch	[sound:to-throw-to-launch.webm]	/lɑ̃se/
-l'or (m.)	the gold	[sound:the-gold.webm]	/lɔʁ/
-abandonner	to abandon / to give up	[sound:to-abandon-to-give-up.webm]	/abɑ̃dɔne/
-le boulot	the job / the work (informal)	[sound:the-job-the-work-informal.webm]	/lə bulo/
-malgré	despite	[sound:despite.webm]	/malɡʁe/
-mener	to lead	[sound:to-lead.webm]	/məne/
-mentir	to lie (tell lies)	[sound:to-lie-tell-lies.webm]	/mɑ̃tiʁ/
-le soldat	the soldier	[sound:the-soldier.webm]	/lə sɔlda/
-assurer	to assure / to insure / to ensure	[sound:to-assure-to-insure-to-ensure.webm]	/asyʁe/
-souffrir	to suffer	[sound:to-suffer.webm]	/sufʁiʁ/
-le sentiment	the feeling	[sound:the-feeling.webm]	/lə sɑ̃timɑ̃/
-la robe	the dress	[sound:the-dress.webm]	/la ʁɔb/
-rejoindre	to join / to meet up with	[sound:to-join-to-meet-up-with.webm]	/ʁəʒwɛ̃dʁ/
-jurer	to swear	[sound:to-swear.webm]	/ʒyʁe/
-échapper	to escape	[sound:to-escape.webm]	/eʃape/
-le sujet	the subject / the topic (au sujet de = about)	[sound:the-subject-the-topic-au-sujet-de-about.webm]	/lə syʒɛ/
-le pouvoir	the power	[sound:the-power.webm]	/lə puvwaʁ/
-craindre	to fear	[sound:to-fear.webm]	/kʁɛ̃dʁ/
-entier / entière	whole / entire	[sound:whole-entire.webm]	/ɑ̃tje, ɑ̃tjɛʁ/
+dehors	outside	[sound:outside.webm]	/dəɔʁ/	надворі, назовні
+amener	to bring (someone)	[sound:to-bring-someone.webm]	/aməne/	приводити (когось)
+pareil / pareille	the same / similar	[sound:the-same-similar.webm]	/paʁɛj/	такий самий / схожий
+ramener	to bring back (someone)	[sound:to-bring-back-someone.webm]	/ʁaməne/	приводити назад (когось)
+la parole	the word / the speech (prendre la parole = to speak)	[sound:the-word-the-speech-prendre-la-parole-to-speak.webm]	/la paʁɔl/	слово / мова (prendre la parole = взяти слово)
+la peau	the skin	[sound:the-skin.webm]	/la po/	шкіра
+le patron / la patronne	the boss / the owner	[sound:the-boss-the-owner.webm]	/lə patʁɔ̃, la patʁɔn/	бос / власник, власниця
+le rapport	the relationship / the report	[sound:the-relationship-the-report.webm]	/lə ʁapɔʁ/	стосунок / звіт
+ignorer	to not know / to ignore	[sound:to-not-know-to-ignore.webm]	/iɲɔʁe/	не знати / ігнорувати
+haut / haute	high / tall	[sound:high-tall.webm]	/o, ot/	високий / висока
+la faute	the fault / the mistake	[sound:the-fault-the-mistake.webm]	/la fot/	провина / помилка
+glisser	to slide / to slip	[sound:to-slide-to-slip.webm]	/ɡlise/	ковзати / послизнутися
+lâcher	to let go / to drop	[sound:to-let-go-to-drop.webm]	/laʃe/	відпускати / кидати
+la lèvre / les lèvres	the lips	[sound:the-lips.webm]	/la lɛvʁ, le lɛvʁ/	губа / губи
+serrer	to squeeze / to tighten (serrer la main = to shake hands)	[sound:to-squeeze-to-tighten-serrer-la-main-to-shake-hands.webm]	/seʁe/	стискати / затягувати (serrer la main = потиснути руку)
+l'espèce (f.)	the species / the kind (espèce de… ! = you…!)	[sound:the-species-the-kind-espece-de-you.webm]	/lɛspɛs/	вид / різновид (espèce de… ! = ти…!)
+sauter	to jump	[sound:to-jump-sauter.webm]	/sote/	стрибати
+lorsque	when (formal)	[sound:when-formal.webm]	/lɔʁskə/	коли (книжн.)
+casser	to break	[sound:to-break.webm]	/kase/	ламати, розбивати
+la ligne	the line	[sound:the-line.webm]	/la liɲ/	лінія / рядок
+enlever	to remove / to take off	[sound:to-remove-to-take-off.webm]	/ɑ̃ləve/	знімати / прибирати
+debout	standing (up)	[sound:standing-up.webm]	/dəbu/	стоячи
+lui-même	himself	[sound:himself.webm]	/lɥimɛm/	він сам
+l'armée (f.)	the army	[sound:the-army-l-armee-f.webm]	/laʁme/	армія
+cesser	to stop / to cease	[sound:to-stop-to-cease.webm]	/sese/	припиняти
+oser	to dare	[sound:to-dare.webm]	/oze/	сміти, наважуватися
+l'impression (f.)	the impression / the printing	[sound:the-impression-the-printing.webm]	/lɛ̃pʁesjɔ̃/	враження / друк
+le capitaine	the captain	[sound:the-captain.webm]	/lə kapitɛn/	капітан
+tendre	tender / soft; to hold out / to stretch out	[sound:tender-soft-to-hold-out-to-stretch-out.webm]	/tɑ̃dʁ/	ніжний / м'який; простягати / натягувати
+le signe	the sign	[sound:the-sign.webm]	/lə siɲ/	знак
+parmi	among	[sound:among.webm]	/paʁmi/	серед
+lancer	to throw / to launch	[sound:to-throw-to-launch.webm]	/lɑ̃se/	кидати / запускати
+l'or (m.)	the gold	[sound:the-gold.webm]	/lɔʁ/	золото
+abandonner	to abandon / to give up	[sound:to-abandon-to-give-up.webm]	/abɑ̃dɔne/	покидати / здаватися
+le boulot	the job / the work (informal)	[sound:the-job-the-work-informal.webm]	/lə bulo/	робота (розм.)
+malgré	despite	[sound:despite.webm]	/malɡʁe/	незважаючи на
+mener	to lead	[sound:to-lead.webm]	/məne/	вести
+mentir	to lie (tell lies)	[sound:to-lie-tell-lies.webm]	/mɑ̃tiʁ/	брехати
+le soldat	the soldier	[sound:the-soldier.webm]	/lə sɔlda/	солдат
+assurer	to assure / to insure / to ensure	[sound:to-assure-to-insure-to-ensure.webm]	/asyʁe/	запевняти / страхувати / забезпечувати
+souffrir	to suffer	[sound:to-suffer.webm]	/sufʁiʁ/	страждати
+le sentiment	the feeling	[sound:the-feeling.webm]	/lə sɑ̃timɑ̃/	почуття
+la robe	the dress	[sound:the-dress.webm]	/la ʁɔb/	сукня
+rejoindre	to join / to meet up with	[sound:to-join-to-meet-up-with.webm]	/ʁəʒwɛ̃dʁ/	приєднуватися / зустрічатися з
+jurer	to swear	[sound:to-swear.webm]	/ʒyʁe/	присягатися / лаятися
+échapper	to escape	[sound:to-escape.webm]	/eʃape/	утікати, уникати
+le sujet	the subject / the topic (au sujet de = about)	[sound:the-subject-the-topic-au-sujet-de-about.webm]	/lə syʒɛ/	тема / підмет (au sujet de = щодо)
+le pouvoir	the power	[sound:the-power.webm]	/lə puvwaʁ/	влада
+craindre	to fear	[sound:to-fear.webm]	/kʁɛ̃dʁ/	боятися
+entier / entière	whole / entire	[sound:whole-entire.webm]	/ɑ̃tje, ɑ̃tjɛʁ/	цілий / ціла

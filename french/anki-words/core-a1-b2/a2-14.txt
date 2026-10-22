@@ -1,50 +1,50 @@
-l'escargot (m.)	the snail	[sound:the-snail.webm]	/lɛskaʁɡo/
-le ciné	the movies (informal)	[sound:the-movies-informal.webm]	/lə sine/
-la menthe	the mint	[sound:the-mint.webm]	/la mɑ̃t/
-la sculpture	the sculpture	[sound:the-sculpture.webm]	/la skyltyʁ/
-déguster	to taste / to savour	[sound:to-taste-to-savour.webm]	/deɡyste/
-l'itinéraire (m.)	the route / the itinerary	[sound:the-route-the-itinerary.webm]	/litineʁɛʁ/
-industriel / industrielle	industrial	[sound:industrial.webm]	/ɛ̃dystʁijɛl/
-administratif / administrative	administrative	[sound:administrative.webm]	/administʁatif, administʁativ/
-l'olive (f.)	the olive	[sound:the-olive.webm]	/lɔliv/
-illustrer	to illustrate	[sound:to-illustrate.webm]	/ilystʁe/
-le sirop	the syrup (le sirop d'érable = maple syrup)	[sound:the-syrup-le-sirop-d-erable-maple-syrup.webm]	/lə siʁo/
-la tapisserie	the tapestry / the wallpaper	[sound:the-tapestry-the-wallpaper.webm]	/la tapisəʁi/
-le bulletin	the bulletin / the report card	[sound:the-bulletin-the-report-card.webm]	/lə bylətɛ̃/
-la gendarmerie	the police station (gendarmerie, France)	[sound:the-police-station-gendarmerie-france.webm]	/la ʒɑ̃daʁməʁi/
-monumental / monumentale	monumental	[sound:monumental.webm]	/mɔnymɑ̃tal/
-le total	the total	[sound:the-total.webm]	/lə tɔtal/
-la renaissance	the rebirth / the Renaissance	[sound:the-rebirth-the-renaissance.webm]	/la ʁənɛsɑ̃s/
-la crèche	the daycare / the nativity scene	[sound:the-daycare-the-nativity-scene.webm]	/la kʁɛʃ/
-exotique	exotic	[sound:exotic.webm]	/ɛɡzɔtik/
-minéral / minérale	mineral (l'eau minérale)	[sound:mineral-l-eau-minerale.webm]	/mineʁal/
-musulman / musulmane	Muslim	[sound:muslim.webm]	/myzylmɑ̃, myzylman/
-fumé / fumée	smoked	[sound:smoked.webm]	/fyme/
-fatigant / fatigante	tiring	[sound:tiring.webm]	/fatiɡɑ̃, fatiɡɑ̃t/
-inoubliable	unforgettable	[sound:unforgettable.webm]	/inublijabl/
-éplucher	to peel	[sound:to-peel.webm]	/eplyʃe/
-la dinde	the turkey (food)	[sound:the-turkey-food.webm]	/la dɛ̃d/
-la sardine	the sardine	[sound:the-sardine.webm]	/la saʁdin/
-le resto	the restaurant (informal)	[sound:the-restaurant-informal.webm]	/lə ʁɛsto/
-la boulangerie	the bakery	[sound:the-bakery.webm]	/la bulɑ̃ʒəʁi/
-l'actualité (f.)	the current events / the news	[sound:the-current-events-the-news.webm]	/laktɥalite/
-la solidarité	the solidarity	[sound:the-solidarity.webm]	/la sɔlidaʁite/
-la métropole	the big city / the metropolis	[sound:the-big-city-the-metropolis.webm]	/la metʁɔpɔl/
-grillé / grillée	grilled / toasted	[sound:grilled-toasted-grille-grillee.webm]	/ɡʁije/
-le stage	the internship / the training course	[sound:the-internship-the-training-course.webm]	/lə staʒ/
-la petite-fille	the granddaughter	[sound:the-granddaughter.webm]	/la pətitfij/
-ouf	phew!	[sound:phew.webm]	/uf/
-le caissier / la caissière	the cashier	[sound:the-cashier-le-caissier-la-caissiere.webm]	/lə kɛsje, la kɛsjɛʁ/
-l'aliment (m.)	the food (item)	[sound:the-food-item.webm]	/lalimɑ̃/
-collectionner	to collect	[sound:to-collect.webm]	/kɔlɛksjɔne/
-l'hygiène (f.)	the hygiene	[sound:the-hygiene.webm]	/liʒjɛn/
-le gramme	the gram	[sound:the-gram.webm]	/lə ɡʁam/
-le saumon	the salmon	[sound:the-salmon-le-saumon.webm]	/lə somɔ̃/
-colorer	to colour	[sound:to-colour.webm]	/kɔlɔʁe/
-le saucisson	the dry sausage / the salami	[sound:the-dry-sausage-the-salami.webm]	/lə sosisɔ̃/
-spectaculaire	spectacular	[sound:spectacular.webm]	/spɛktakylɛʁ/
-l'institut (m.)	the institute	[sound:the-institute.webm]	/lɛ̃stity/
-le spaghetti	the spaghetti	[sound:the-spaghetti.webm]	/lə spaɡeti/
-l'animation (f.)	the activities / the entertainment / the animation	[sound:the-activities-the-entertainment-the-animation.webm]	/lanimasjɔ̃/
-l'alimentation (f.)	the diet / the food supply / the groceries	[sound:the-diet-the-food-supply-the-groceries.webm]	/lalimɑ̃tasjɔ̃/
-l'épice (f.)	the spice	[sound:the-spice.webm]	/lepis/
+l'escargot (m.)	the snail	[sound:the-snail.webm]	/lɛskaʁɡo/	равлик
+le ciné	the movies (informal)	[sound:the-movies-informal.webm]	/lə sine/	кіно (розм.)
+la menthe	the mint	[sound:the-mint.webm]	/la mɑ̃t/	м'ята
+la sculpture	the sculpture	[sound:the-sculpture.webm]	/la skyltyʁ/	скульптура
+déguster	to taste / to savour	[sound:to-taste-to-savour.webm]	/deɡyste/	смакувати / куштувати
+l'itinéraire (m.)	the route / the itinerary	[sound:the-route-the-itinerary.webm]	/litineʁɛʁ/	маршрут
+industriel / industrielle	industrial	[sound:industrial.webm]	/ɛ̃dystʁijɛl/	промисловий / промислова
+administratif / administrative	administrative	[sound:administrative.webm]	/administʁatif, administʁativ/	адміністративний / адміністративна
+l'olive (f.)	the olive	[sound:the-olive.webm]	/lɔliv/	оливка
+illustrer	to illustrate	[sound:to-illustrate.webm]	/ilystʁe/	ілюструвати
+le sirop	the syrup (le sirop d'érable = maple syrup)	[sound:the-syrup-le-sirop-d-erable-maple-syrup.webm]	/lə siʁo/	сироп (le sirop d'érable = кленовий сироп)
+la tapisserie	the tapestry / the wallpaper	[sound:the-tapestry-the-wallpaper.webm]	/la tapisəʁi/	гобелен / шпалери
+le bulletin	the bulletin / the report card	[sound:the-bulletin-the-report-card.webm]	/lə bylətɛ̃/	бюлетень / табель успішності
+la gendarmerie	the police station (gendarmerie, France)	[sound:the-police-station-gendarmerie-france.webm]	/la ʒɑ̃daʁməʁi/	поліцейська дільниця (жандармерія, у Франції)
+monumental / monumentale	monumental	[sound:monumental.webm]	/mɔnymɑ̃tal/	монументальний / монументальна
+le total	the total	[sound:the-total.webm]	/lə tɔtal/	сума, підсумок
+la renaissance	the rebirth / the Renaissance	[sound:the-rebirth-the-renaissance.webm]	/la ʁənɛsɑ̃s/	відродження / Ренесанс
+la crèche	the daycare / the nativity scene	[sound:the-daycare-the-nativity-scene.webm]	/la kʁɛʃ/	дитячі ясла / вертеп
+exotique	exotic	[sound:exotic.webm]	/ɛɡzɔtik/	екзотичний
+minéral / minérale	mineral (l'eau minérale)	[sound:mineral-l-eau-minerale.webm]	/mineʁal/	мінеральний / мінеральна (l'eau minérale)
+musulman / musulmane	Muslim	[sound:muslim.webm]	/myzylmɑ̃, myzylman/	мусульманський / мусульманка
+fumé / fumée	smoked	[sound:smoked.webm]	/fyme/	копчений / копчена
+fatigant / fatigante	tiring	[sound:tiring.webm]	/fatiɡɑ̃, fatiɡɑ̃t/	втомливий / втомлива
+inoubliable	unforgettable	[sound:unforgettable.webm]	/inublijabl/	незабутній
+éplucher	to peel	[sound:to-peel.webm]	/eplyʃe/	чистити (від шкірки)
+la dinde	the turkey (food)	[sound:the-turkey-food.webm]	/la dɛ̃d/	індичка
+la sardine	the sardine	[sound:the-sardine.webm]	/la saʁdin/	сардина
+le resto	the restaurant (informal)	[sound:the-restaurant-informal.webm]	/lə ʁɛsto/	ресторан (розм.)
+la boulangerie	the bakery	[sound:the-bakery.webm]	/la bulɑ̃ʒəʁi/	пекарня
+l'actualité (f.)	the current events / the news	[sound:the-current-events-the-news.webm]	/laktɥalite/	новини, актуальні події
+la solidarité	the solidarity	[sound:the-solidarity.webm]	/la sɔlidaʁite/	солідарність
+la métropole	the big city / the metropolis	[sound:the-big-city-the-metropolis.webm]	/la metʁɔpɔl/	велике місто / мегаполіс
+grillé / grillée	grilled / toasted	[sound:grilled-toasted-grille-grillee.webm]	/ɡʁije/	смажений на грилі / підсмажений
+le stage	the internship / the training course	[sound:the-internship-the-training-course.webm]	/lə staʒ/	стажування / курси
+la petite-fille	the granddaughter	[sound:the-granddaughter.webm]	/la pətitfij/	онука
+ouf	phew!	[sound:phew.webm]	/uf/	фух!
+le caissier / la caissière	the cashier	[sound:the-cashier-le-caissier-la-caissiere.webm]	/lə kɛsje, la kɛsjɛʁ/	касир / касирка
+l'aliment (m.)	the food (item)	[sound:the-food-item.webm]	/lalimɑ̃/	продукт харчування
+collectionner	to collect	[sound:to-collect.webm]	/kɔlɛksjɔne/	колекціонувати
+l'hygiène (f.)	the hygiene	[sound:the-hygiene.webm]	/liʒjɛn/	гігієна
+le gramme	the gram	[sound:the-gram.webm]	/lə ɡʁam/	грам
+le saumon	the salmon	[sound:the-salmon-le-saumon.webm]	/lə somɔ̃/	лосось
+colorer	to colour	[sound:to-colour.webm]	/kɔlɔʁe/	фарбувати
+le saucisson	the dry sausage / the salami	[sound:the-dry-sausage-the-salami.webm]	/lə sosisɔ̃/	сухокопчена ковбаса / салямі
+spectaculaire	spectacular	[sound:spectacular.webm]	/spɛktakylɛʁ/	вражаючий, видовищний
+l'institut (m.)	the institute	[sound:the-institute.webm]	/lɛ̃stity/	інститут
+le spaghetti	the spaghetti	[sound:the-spaghetti.webm]	/lə spaɡeti/	спагеті
+l'animation (f.)	the activities / the entertainment / the animation	[sound:the-activities-the-entertainment-the-animation.webm]	/lanimasjɔ̃/	розважальна програма / анімація
+l'alimentation (f.)	the diet / the food supply / the groceries	[sound:the-diet-the-food-supply-the-groceries.webm]	/lalimɑ̃tasjɔ̃/	харчування / продукти
+l'épice (f.)	the spice	[sound:the-spice.webm]	/lepis/	спеція, прянощі

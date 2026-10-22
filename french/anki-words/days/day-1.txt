@@ -1,50 +1,50 @@
-Je	I	[sound:i.webm]
-Tu	You (informal)	[sound:you-informal.webm]
-Il	He	[sound:he.webm]
-Elle	She	[sound:she.webm]
-On	One / We (casual)	[sound:one-we-casual.webm]
-Nous	We	[sound:we.webm]
-Vous	You (formal/plural)	[sound:you-formal-plural.webm]
-Ils	They (masc./mixed)	[sound:they-masc-mixed.webm]
-Elles	They (fem.)	[sound:they-fem.webm]
-Ça	That / This (informal)	[sound:that-this-informal.webm]
-Être	To be	[sound:to-be.webm]
-Avoir	To have	[sound:to-have.webm]
-Aller	To go	[sound:to-go.webm]
-Faire	To do/make	[sound:to-do-make.webm]
-Dire	To say	[sound:to-say.webm]
-Pouvoir	To be able to / Can	[sound:to-be-able-to-can.webm]
-Vouloir	To want	[sound:to-want.webm]
-Savoir	To know	[sound:to-know.webm]
-Devoir	To have to / Must	[sound:to-have-to-must.webm]
-Voir	To see	[sound:to-see.webm]
-Venir	To come	[sound:to-come.webm]
-Prendre	To take	[sound:to-take.webm]
-Mettre	To put	[sound:to-put.webm]
-Donner	To give	[sound:to-give.webm]
-Parler	To speak	[sound:to-speak.webm]
-Le temps	Time / Weather	[sound:time-weather.webm]
-La personne	Person	[sound:person.webm]
-La chose	Thing	[sound:thing.webm]
-L’année	Year	[sound:year.webm]
-Le jour	Day	[sound:day.webm]
-La main	Hand	[sound:hand.webm]
-L’œil	Eye	[sound:eye.webm]
-L’eau	Water	[sound:water.webm]
-Le travail	Work	[sound:work.webm]
-L’argent	Money	[sound:money.webm]
-Le pays	Country	[sound:country.webm]
-L’ami(e)	Friend	[sound:friend.webm]
-La famille	Family	[sound:family.webm]
-La maison	House / Home	[sound:house-home.webm]
-Le problème	Problem	[sound:problem.webm]
-Grand(e)	Big / Tall	[sound:big-tall.webm]
-Petit(e)	Small	[sound:small.webm]
-Bon(ne)	Good	[sound:good.webm]
-Mauvais(e)	Bad	[sound:bad.webm]
-Beau / Belle	Beautiful / Handsome	[sound:beautiful-handsome.webm]
-Facile	Easy	[sound:easy.webm]
-Difficile	Difficult	[sound:difficult.webm]
-Vrai(e)	True / Real	[sound:true-real.webm]
-Jamais	Never	[sound:never.webm]
-Toujours	Always	[sound:always.webm]
+Je	I	[sound:i.webm]		Я
+Tu	You (informal)	[sound:you-informal.webm]		Ти
+Il	He	[sound:he.webm]		Він
+Elle	She	[sound:she.webm]		Вона
+On	One / We (casual)	[sound:one-we-casual.webm]		Хтось / ми (розм.)
+Nous	We	[sound:we.webm]		Ми
+Vous	You (formal/plural)	[sound:you-formal-plural.webm]		Ви (ввічл. / мн.)
+Ils	They (masc./mixed)	[sound:they-masc-mixed.webm]		Вони (чол. / змішана група)
+Elles	They (fem.)	[sound:they-fem.webm]		Вони (жін.)
+Ça	That / This (informal)	[sound:that-this-informal.webm]		Це / те (розм.)
+Être	To be	[sound:to-be.webm]		Бути
+Avoir	To have	[sound:to-have.webm]		Мати
+Aller	To go	[sound:to-go.webm]		Йти / їхати
+Faire	To do/make	[sound:to-do-make.webm]		Робити
+Dire	To say	[sound:to-say.webm]		Казати
+Pouvoir	To be able to / Can	[sound:to-be-able-to-can.webm]		Могти
+Vouloir	To want	[sound:to-want.webm]		Хотіти
+Savoir	To know	[sound:to-know.webm]		Знати
+Devoir	To have to / Must	[sound:to-have-to-must.webm]		Мусити, бути повинним
+Voir	To see	[sound:to-see.webm]		Бачити
+Venir	To come	[sound:to-come.webm]		Приходити
+Prendre	To take	[sound:to-take.webm]		Брати
+Mettre	To put	[sound:to-put.webm]		Класти, ставити
+Donner	To give	[sound:to-give.webm]		Давати
+Parler	To speak	[sound:to-speak.webm]		Говорити
+Le temps	Time / Weather	[sound:time-weather.webm]		Час / погода
+La personne	Person	[sound:person.webm]		Людина
+La chose	Thing	[sound:thing.webm]		Річ
+L’année	Year	[sound:year.webm]		Рік
+Le jour	Day	[sound:day.webm]		День
+La main	Hand	[sound:hand.webm]		Рука
+L’œil	Eye	[sound:eye.webm]		Око
+L’eau	Water	[sound:water.webm]		Вода
+Le travail	Work	[sound:work.webm]		Робота
+L’argent	Money	[sound:money.webm]		Гроші
+Le pays	Country	[sound:country.webm]		Країна
+L’ami(e)	Friend	[sound:friend.webm]		Друг / подруга
+La famille	Family	[sound:family.webm]		Сім'я
+La maison	House / Home	[sound:house-home.webm]		Будинок / дім
+Le problème	Problem	[sound:problem.webm]		Проблема
+Grand(e)	Big / Tall	[sound:big-tall.webm]		Великий / високий
+Petit(e)	Small	[sound:small.webm]		Малий
+Bon(ne)	Good	[sound:good.webm]		Добрий
+Mauvais(e)	Bad	[sound:bad.webm]		Поганий
+Beau / Belle	Beautiful / Handsome	[sound:beautiful-handsome.webm]		Гарний / вродливий
+Facile	Easy	[sound:easy.webm]		Легкий
+Difficile	Difficult	[sound:difficult.webm]		Важкий
+Vrai(e)	True / Real	[sound:true-real.webm]		Правдивий / справжній
+Jamais	Never	[sound:never.webm]		Ніколи
+Toujours	Always	[sound:always.webm]		Завжди

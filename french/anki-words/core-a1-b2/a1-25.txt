@@ -1,37 +1,37 @@
-la pyramide	the pyramid	[sound:the-pyramid.webm]	/la piʁamid/
-sportif / sportive	sporty / athletic	[sound:sporty-athletic.webm]	/spɔʁtif, spɔʁtiv/
-le jean	the jeans	[sound:the-jeans.webm]	/lə dʒin/
-la cantine	the cafeteria (school)	[sound:the-cafeteria-school.webm]	/la kɑ̃tin/
-les soldes (m.)	the sales (les soldes)	[sound:the-sales-les-soldes.webm]	/le sɔld/
-culturel / culturelle	cultural	[sound:cultural.webm]	/kyltyʁɛl/
-la moyenne	the average	[sound:the-average.webm]	/la mwajɛn/
-orange	orange (colour)	[sound:orange-colour.webm]	/ɔʁɑ̃ʒ/
-le demi / la demie	the half (et demie = half past)	[sound:the-half-et-demie-half-past.webm]	/lə dəmi, la dəmi/
-les maths (f.)	math	[sound:math.webm]	/le mat/
-la balade	the stroll / the walk	[sound:the-stroll-the-walk.webm]	/la balad/
-les grands-parents	the grandparents	[sound:the-grandparents-les-grands-parents.webm]	/le ɡʁɑ̃paʁɑ̃/
-obligatoire	mandatory / compulsory	[sound:mandatory-compulsory.webm]	/ɔbliɡatwaʁ/
-l'environnement (m.)	the environment	[sound:the-environment.webm]	/lɑ̃viʁɔnəmɑ̃/
-l'apéritif (m.)	the aperitif / the pre-dinner drink	[sound:the-aperitif-the-pre-dinner-drink.webm]	/lapeʁitif/
-la bise	the kiss (on the cheek) / the cold wind (faire la bise)	[sound:the-kiss-on-the-cheek-the-cold-wind-faire-la-bise.webm]	/la biz/
-continu	continuous	[sound:continuous.webm]	/kɔ̃tiny/
-la coopération	the cooperation	[sound:the-cooperation.webm]	/la kɔɔpeʁasjɔ̃/
-belge	Belgian	[sound:belgian.webm]	/bɛlʒ/
-varier	to vary	[sound:to-vary.webm]	/vaʁje/
-l'antiquité (f.)	the antiquity / the antique	[sound:the-antiquity-the-antique.webm]	/lɑ̃tikite/
-la nationalité	the nationality	[sound:the-nationality.webm]	/la nasjɔnalite/
-l'euro (m.)	the euro	[sound:the-euro.webm]	/løʁo/
-le réveillon	the Christmas / New Year's Eve dinner	[sound:the-christmas-new-year-s-eve-dinner.webm]	/lə ʁevɛjɔ̃/
-l'arrondissement (m.)	the district (of a big city)	[sound:the-district-of-a-big-city.webm]	/laʁɔ̃disəmɑ̃/
-le tourisme	the tourism	[sound:the-tourism.webm]	/lə tuʁizm/
-le camping	the camping / the campsite	[sound:the-camping-the-campsite.webm]	/lə kɑ̃piŋ/
-l'agriculture (f.)	the agriculture / the farming	[sound:the-agriculture-the-farming.webm]	/laɡʁikyltyʁ/
-l'inauguration (f.)	the opening ceremony / the inauguration	[sound:the-opening-ceremony-the-inauguration.webm]	/linoɡyʁasjɔ̃/
-internet (m.)	the internet	[sound:the-internet.webm]	/ɛ̃tɛʁnɛt/
-l'informatique (f.)	the computer science / IT	[sound:the-computer-science-it.webm]	/lɛ̃fɔʁmatik/
-l'animateur (m.) / l'animatrice (f.)	the host / the presenter / the activity leader	[sound:the-host-the-presenter-the-activity-leader.webm]	/lanimatœʁ, lanimatʁis/
-le mail / le courriel	the email (Québec: le courriel)	[sound:the-email-quebec-le-courriel.webm]	/lə mɛl, lə kuʁjɛl/
-dynamique	dynamic / energetic	[sound:dynamic-energetic.webm]	/dinamik/
-auprès de	close to / with (auprès de)	[sound:close-to-with-aupres-de.webm]	/opʁɛ də/
-l'informaticien (m.) / l'informaticienne (f.)	the computer scientist / the IT person	[sound:the-computer-scientist-the-it-person.webm]	/lɛ̃fɔʁmatisjɛ̃, lɛ̃fɔʁmatisjɛn/
-francophone	French-speaking / francophone	[sound:french-speaking-francophone.webm]	/fʁɑ̃kɔfɔn/
+la pyramide	the pyramid	[sound:the-pyramid.webm]	/la piʁamid/	піраміда
+sportif / sportive	sporty / athletic	[sound:sporty-athletic.webm]	/spɔʁtif, spɔʁtiv/	спортивний / спортивна
+le jean	the jeans	[sound:the-jeans.webm]	/lə dʒin/	джинси
+la cantine	the cafeteria (school)	[sound:the-cafeteria-school.webm]	/la kɑ̃tin/	їдальня (шкільна)
+les soldes (m.)	the sales (les soldes)	[sound:the-sales-les-soldes.webm]	/le sɔld/	розпродаж (les soldes)
+culturel / culturelle	cultural	[sound:cultural.webm]	/kyltyʁɛl/	культурний / культурна
+la moyenne	the average	[sound:the-average.webm]	/la mwajɛn/	середнє значення
+orange	orange (colour)	[sound:orange-colour.webm]	/ɔʁɑ̃ʒ/	помаранчевий (колір)
+le demi / la demie	the half (et demie = half past)	[sound:the-half-et-demie-half-past.webm]	/lə dəmi, la dəmi/	половина (et demie = і пів, пів на)
+les maths (f.)	math	[sound:math.webm]	/le mat/	математика
+la balade	the stroll / the walk	[sound:the-stroll-the-walk.webm]	/la balad/	прогулянка
+les grands-parents	the grandparents	[sound:the-grandparents-les-grands-parents.webm]	/le ɡʁɑ̃paʁɑ̃/	дідусь і бабуся
+obligatoire	mandatory / compulsory	[sound:mandatory-compulsory.webm]	/ɔbliɡatwaʁ/	обов'язковий
+l'environnement (m.)	the environment	[sound:the-environment.webm]	/lɑ̃viʁɔnəmɑ̃/	довкілля
+l'apéritif (m.)	the aperitif / the pre-dinner drink	[sound:the-aperitif-the-pre-dinner-drink.webm]	/lapeʁitif/	аперитив
+la bise	the kiss (on the cheek) / the cold wind (faire la bise)	[sound:the-kiss-on-the-cheek-the-cold-wind-faire-la-bise.webm]	/la biz/	поцілунок (у щоку) / холодний вітер (faire la bise)
+continu	continuous	[sound:continuous.webm]	/kɔ̃tiny/	безперервний
+la coopération	the cooperation	[sound:the-cooperation.webm]	/la kɔɔpeʁasjɔ̃/	співпраця
+belge	Belgian	[sound:belgian.webm]	/bɛlʒ/	бельгійський, бельгієць
+varier	to vary	[sound:to-vary.webm]	/vaʁje/	змінювати(ся), урізноманітнювати
+l'antiquité (f.)	the antiquity / the antique	[sound:the-antiquity-the-antique.webm]	/lɑ̃tikite/	античність / антикварна річ
+la nationalité	the nationality	[sound:the-nationality.webm]	/la nasjɔnalite/	громадянство, національність
+l'euro (m.)	the euro	[sound:the-euro.webm]	/løʁo/	євро
+le réveillon	the Christmas / New Year's Eve dinner	[sound:the-christmas-new-year-s-eve-dinner.webm]	/lə ʁevɛjɔ̃/	святкова вечеря (на Різдво / Новий рік)
+l'arrondissement (m.)	the district (of a big city)	[sound:the-district-of-a-big-city.webm]	/laʁɔ̃disəmɑ̃/	округ (великого міста)
+le tourisme	the tourism	[sound:the-tourism.webm]	/lə tuʁizm/	туризм
+le camping	the camping / the campsite	[sound:the-camping-the-campsite.webm]	/lə kɑ̃piŋ/	кемпінг
+l'agriculture (f.)	the agriculture / the farming	[sound:the-agriculture-the-farming.webm]	/laɡʁikyltyʁ/	сільське господарство
+l'inauguration (f.)	the opening ceremony / the inauguration	[sound:the-opening-ceremony-the-inauguration.webm]	/linoɡyʁasjɔ̃/	урочисте відкриття
+internet (m.)	the internet	[sound:the-internet.webm]	/ɛ̃tɛʁnɛt/	інтернет
+l'informatique (f.)	the computer science / IT	[sound:the-computer-science-it.webm]	/lɛ̃fɔʁmatik/	інформатика / ІТ
+l'animateur (m.) / l'animatrice (f.)	the host / the presenter / the activity leader	[sound:the-host-the-presenter-the-activity-leader.webm]	/lanimatœʁ, lanimatʁis/	ведучий / ведуча / аніматор
+le mail / le courriel	the email (Québec: le courriel)	[sound:the-email-quebec-le-courriel.webm]	/lə mɛl, lə kuʁjɛl/	імейл, електронний лист (у Квебеку: le courriel)
+dynamique	dynamic / energetic	[sound:dynamic-energetic.webm]	/dinamik/	динамічний, енергійний
+auprès de	close to / with (auprès de)	[sound:close-to-with-aupres-de.webm]	/opʁɛ də/	поруч з / у, до (auprès de)
+l'informaticien (m.) / l'informaticienne (f.)	the computer scientist / the IT person	[sound:the-computer-scientist-the-it-person.webm]	/lɛ̃fɔʁmatisjɛ̃, lɛ̃fɔʁmatisjɛn/	інформатик / ІТ-фахівець, айтівець
+francophone	French-speaking / francophone	[sound:french-speaking-francophone.webm]	/fʁɑ̃kɔfɔn/	франкомовний, франкофон

@@ -1,50 +1,50 @@
-le mouvement	the movement	[sound:the-movement.webm]	/lə muvəmɑ̃/
-l'être (m.)	the being (un être humain = a human being)	[sound:the-being-un-etre-humain-a-human-being.webm]	/lɛtʁ/
-le président / la présidente	the president	[sound:the-president.webm]	/lə pʁezidɑ̃, la pʁezidɑ̃t/
-la scène	the stage / the scene	[sound:the-stage-the-scene.webm]	/la sɛn/
-le propos	the remarks (à propos de = about, à propos = by the way)	[sound:the-remarks-a-propos-de-about-a-propos-by-the-way.webm]	/lə pʁɔpo/
-maintenir	to maintain	[sound:to-maintain.webm]	/mɛ̃təniʁ/
-simplement	simply / just	[sound:simply-just.webm]	/sɛ̃pləmɑ̃/
-le peuple	the people / the nation	[sound:the-people-the-nation.webm]	/lə pøpl/
-vivant / vivante	alive / living	[sound:alive-living.webm]	/vivɑ̃, vivɑ̃t/
-la balle	the ball / the bullet	[sound:the-ball-the-bullet.webm]	/la bal/
-la garde	the guard / the custody (la garde) / the guard (le garde)	[sound:the-guard-the-custody-la-garde-the-guard-le-garde.webm]	/la ɡaʁd/
-retenir	to hold back / to remember / to keep	[sound:to-hold-back-to-remember-to-keep.webm]	/ʁətəniʁ/
-charger	to load / to charge	[sound:to-load-to-charge.webm]	/ʃaʁʒe/
-brûler	to burn	[sound:to-burn-bruler.webm]	/bʁyle/
-le seigneur	the lord	[sound:the-lord.webm]	/lə sɛɲœʁ/
-calmer	to calm (se calmer = to calm down)	[sound:to-calm-se-calmer-to-calm-down.webm]	/kalme/
-le camp	the camp	[sound:the-camp.webm]	/lə kɑ̃/
-la pensée	the thought	[sound:the-thought.webm]	/la pɑ̃se/
-le chéri / la chérie	darling / dear	[sound:darling-dear.webm]	/lə ʃeʁi, la ʃeʁi/
-le présent	the present (time)	[sound:the-present-time.webm]	/lə pʁezɑ̃/
-tenter	to try / to tempt	[sound:to-try-to-tempt.webm]	/tɑ̃te/
-l'ennemi (m.) / l'ennemie (f.)	the enemy	[sound:the-enemy.webm]	/lɛnmi, lɛnmi/
-le français	French (the language)	[sound:french-the-language.webm]	/lə fʁɑ̃sɛ/
-prévenir	to warn / to prevent	[sound:to-warn-to-prevent.webm]	/pʁɛvəniʁ/
-le haut	the top (en haut = upstairs / at the top)	[sound:the-top-en-haut-upstairs-at-the-top.webm]	/lə o/
-mort / morte	dead	[sound:dead.webm]	/mɔʁ, mɔʁt/
-lequel / laquelle	which (one)	[sound:which-one.webm]	/ləkɛl, lakɛl/
-le front	the forehead / the front	[sound:the-forehead-the-front.webm]	/lə fʁɔ̃/
-risquer	to risk	[sound:to-risk.webm]	/ʁiske/
-le ton	the tone	[sound:the-tone.webm]	/lə tɔ̃/
-obliger	to force / to oblige	[sound:to-force-to-oblige.webm]	/ɔbliʒe/
-le trou	the hole	[sound:the-hole.webm]	/lə tʁu/
-éviter	to avoid	[sound:to-avoid.webm]	/evite/
-le sol	the floor / the ground	[sound:the-floor-the-ground.webm]	/lə sɔl/
-la poche	the pocket	[sound:the-pocket.webm]	/la pɔʃ/
-le gouvernement	the government	[sound:the-government.webm]	/lə ɡuvɛʁnəmɑ̃/
-le rire	the laughter	[sound:the-laughter.webm]	/lə ʁiʁ/
-sauf	except	[sound:except.webm]	/sof/
-arranger	to arrange / to fix / to suit (ça m'arrange = that suits me)	[sound:to-arrange-to-fix-to-suit-ca-m-arrange-that-suits-me.webm]	/aʁɑ̃ʒe/
-le bas	the bottom (en bas = downstairs)	[sound:the-bottom-en-bas-downstairs.webm]	/lə ba/
-le courant	the current / the power (electricity) (au courant = informed)	[sound:the-current-the-power-electricity-au-courant-informed.webm]	/lə kuʁɑ̃/
-puisque	since / because (as you know)	[sound:since-because-as-you-know.webm]	/pɥiskə/
-moi-même	myself	[sound:myself.webm]	/mwamɛm/
-emporter	to take away / to carry off	[sound:to-take-away-to-carry-off.webm]	/ɑ̃pɔʁte/
-filer	to run off / to spin	[sound:to-run-off-to-spin.webm]	/file/
-étrange	strange	[sound:strange.webm]	/etʁɑ̃ʒ/
-le ventre	the belly / the stomach	[sound:the-belly-the-stomach.webm]	/lə vɑ̃tʁ/
-léger / légère	light (weight)	[sound:light-weight.webm]	/leʒe, leʒɛʁ/
-atteindre	to reach	[sound:to-reach.webm]	/atɛ̃dʁ/
-traîner	to drag / to hang around	[sound:to-drag-to-hang-around.webm]	/tʁene/
+le mouvement	the movement	[sound:the-movement.webm]	/lə muvəmɑ̃/	рух
+l'être (m.)	the being (un être humain = a human being)	[sound:the-being-un-etre-humain-a-human-being.webm]	/lɛtʁ/	істота (un être humain = людина)
+le président / la présidente	the president	[sound:the-president.webm]	/lə pʁezidɑ̃, la pʁezidɑ̃t/	президент / президентка
+la scène	the stage / the scene	[sound:the-stage-the-scene.webm]	/la sɛn/	сцена
+le propos	the remarks (à propos de = about, à propos = by the way)	[sound:the-remarks-a-propos-de-about-a-propos-by-the-way.webm]	/lə pʁɔpo/	слова, висловлювання (à propos de = щодо, à propos = до речі)
+maintenir	to maintain	[sound:to-maintain.webm]	/mɛ̃təniʁ/	підтримувати, зберігати
+simplement	simply / just	[sound:simply-just.webm]	/sɛ̃pləmɑ̃/	просто
+le peuple	the people / the nation	[sound:the-people-the-nation.webm]	/lə pøpl/	народ
+vivant / vivante	alive / living	[sound:alive-living.webm]	/vivɑ̃, vivɑ̃t/	живий / жива
+la balle	the ball / the bullet	[sound:the-ball-the-bullet.webm]	/la bal/	м'яч / куля
+la garde	the guard / the custody (la garde) / the guard (le garde)	[sound:the-guard-the-custody-la-garde-the-guard-le-garde.webm]	/la ɡaʁd/	охорона / опіка (la garde) / охоронець (le garde)
+retenir	to hold back / to remember / to keep	[sound:to-hold-back-to-remember-to-keep.webm]	/ʁətəniʁ/	стримувати / запам'ятовувати / утримувати
+charger	to load / to charge	[sound:to-load-to-charge.webm]	/ʃaʁʒe/	вантажити / заряджати
+brûler	to burn	[sound:to-burn-bruler.webm]	/bʁyle/	горіти, палити
+le seigneur	the lord	[sound:the-lord.webm]	/lə sɛɲœʁ/	пан, володар / Господь
+calmer	to calm (se calmer = to calm down)	[sound:to-calm-se-calmer-to-calm-down.webm]	/kalme/	заспокоювати (se calmer = заспокоїтися)
+le camp	the camp	[sound:the-camp.webm]	/lə kɑ̃/	табір
+la pensée	the thought	[sound:the-thought.webm]	/la pɑ̃se/	думка
+le chéri / la chérie	darling / dear	[sound:darling-dear.webm]	/lə ʃeʁi, la ʃeʁi/	любий / люба
+le présent	the present (time)	[sound:the-present-time.webm]	/lə pʁezɑ̃/	теперішнє (час)
+tenter	to try / to tempt	[sound:to-try-to-tempt.webm]	/tɑ̃te/	пробувати / спокушати
+l'ennemi (m.) / l'ennemie (f.)	the enemy	[sound:the-enemy.webm]	/lɛnmi, lɛnmi/	ворог / ворогиня
+le français	French (the language)	[sound:french-the-language.webm]	/lə fʁɑ̃sɛ/	французька (мова)
+prévenir	to warn / to prevent	[sound:to-warn-to-prevent.webm]	/pʁɛvəniʁ/	попереджати / запобігати
+le haut	the top (en haut = upstairs / at the top)	[sound:the-top-en-haut-upstairs-at-the-top.webm]	/lə o/	верх (en haut = нагорі)
+mort / morte	dead	[sound:dead.webm]	/mɔʁ, mɔʁt/	мертвий / мертва
+lequel / laquelle	which (one)	[sound:which-one.webm]	/ləkɛl, lakɛl/	який (саме) / яка (саме)
+le front	the forehead / the front	[sound:the-forehead-the-front.webm]	/lə fʁɔ̃/	лоб / фронт
+risquer	to risk	[sound:to-risk.webm]	/ʁiske/	ризикувати
+le ton	the tone	[sound:the-tone.webm]	/lə tɔ̃/	тон
+obliger	to force / to oblige	[sound:to-force-to-oblige.webm]	/ɔbliʒe/	змушувати / зобов'язувати
+le trou	the hole	[sound:the-hole.webm]	/lə tʁu/	діра
+éviter	to avoid	[sound:to-avoid.webm]	/evite/	уникати
+le sol	the floor / the ground	[sound:the-floor-the-ground.webm]	/lə sɔl/	підлога / земля
+la poche	the pocket	[sound:the-pocket.webm]	/la pɔʃ/	кишеня
+le gouvernement	the government	[sound:the-government.webm]	/lə ɡuvɛʁnəmɑ̃/	уряд
+le rire	the laughter	[sound:the-laughter.webm]	/lə ʁiʁ/	сміх
+sauf	except	[sound:except.webm]	/sof/	крім
+arranger	to arrange / to fix / to suit (ça m'arrange = that suits me)	[sound:to-arrange-to-fix-to-suit-ca-m-arrange-that-suits-me.webm]	/aʁɑ̃ʒe/	влаштовувати / лагодити / підходити (ça m'arrange = мені це зручно)
+le bas	the bottom (en bas = downstairs)	[sound:the-bottom-en-bas-downstairs.webm]	/lə ba/	низ (en bas = внизу)
+le courant	the current / the power (electricity) (au courant = informed)	[sound:the-current-the-power-electricity-au-courant-informed.webm]	/lə kuʁɑ̃/	течія / струм (au courant = в курсі)
+puisque	since / because (as you know)	[sound:since-because-as-you-know.webm]	/pɥiskə/	оскільки, адже
+moi-même	myself	[sound:myself.webm]	/mwamɛm/	я сам / я сама
+emporter	to take away / to carry off	[sound:to-take-away-to-carry-off.webm]	/ɑ̃pɔʁte/	забирати з собою / виносити
+filer	to run off / to spin	[sound:to-run-off-to-spin.webm]	/file/	тікати, мчати / прясти
+étrange	strange	[sound:strange.webm]	/etʁɑ̃ʒ/	дивний
+le ventre	the belly / the stomach	[sound:the-belly-the-stomach.webm]	/lə vɑ̃tʁ/	живіт
+léger / légère	light (weight)	[sound:light-weight.webm]	/leʒe, leʒɛʁ/	легкий / легка (за вагою)
+atteindre	to reach	[sound:to-reach.webm]	/atɛ̃dʁ/	досягати
+traîner	to drag / to hang around	[sound:to-drag-to-hang-around.webm]	/tʁene/	тягти / вештатися

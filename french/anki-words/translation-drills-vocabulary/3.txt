@@ -1,50 +1,50 @@
-bâtir	to build
-bébé	baby
-cadeau	gift
-café	coffee
-cahier	notebook
-caillou	pebble
-cailloux	pebbles (irregular plural)
-caissière	cashier (fem.)
-calculatrice	calculator
-calme	calm / quiet
-canadien	Canadian
-canadienne	Canadian (fem.)
-candidat	candidate
-carte	map
-cartes	cards
-casse-tête	puzzle
-casserole	pot
-ce matin	this morning
-ce soir	tonight / this evening
-ce week-end	this weekend
-ceinture	belt
-centre commercial	mall
-centre-ville	downtown
-cette semaine	this week
-chaise	chair
-chalet	cottage (Québec)
-chaleur	heat
-chambre	bedroom / room
-champ	field
-chandail	sweater (Québec)
-chanter	to sing
-chanteur	singer
-chapeau	hat
-chat	cat
-chaud	hot
-chauffeur	driver
-chaussure	shoe
-chemin	path
-chemise	shirt
-cher	expensive / dear
-chercher	to look for
-cheval	horse
-cheval / chevaux	horse / horses
-chien	dog
-chocolat	chocolate
-choisir	to choose
-chou	cabbage
-choux	cabbages
-château	castle
-châteaux	castles
+bâtir	to build			будувати
+bébé	baby			немовля
+cadeau	gift			подарунок
+café	coffee			кава
+cahier	notebook			зошит
+caillou	pebble			камінець
+cailloux	pebbles (irregular plural)			камінці (неправильна мн.)
+caissière	cashier (fem.)			касирка
+calculatrice	calculator			калькулятор
+calme	calm / quiet			спокійний / тихий
+canadien	Canadian			канадський, канадець
+canadienne	Canadian (fem.)			канадська, канадка
+candidat	candidate			кандидат
+carte	map			карта, мапа
+cartes	cards			картки, карти
+casse-tête	puzzle			головоломка, пазл
+casserole	pot			каструля
+ce matin	this morning			сьогодні вранці
+ce soir	tonight / this evening			сьогодні ввечері
+ce week-end	this weekend			цих вихідних
+ceinture	belt			пояс, ремінь
+centre commercial	mall			торговельний центр
+centre-ville	downtown			центр міста
+cette semaine	this week			цього тижня
+chaise	chair			стілець
+chalet	cottage (Québec)			дача, заміський будиночок (у Квебеку)
+chaleur	heat			спека, тепло
+chambre	bedroom / room			спальня / кімната
+champ	field			поле
+chandail	sweater (Québec)			светр (у Квебеку)
+chanter	to sing			співати
+chanteur	singer			співак
+chapeau	hat			капелюх
+chat	cat			кіт
+chaud	hot			гарячий, жаркий
+chauffeur	driver			водій
+chaussure	shoe			черевик, взуття
+chemin	path			стежка, шлях
+chemise	shirt			сорочка
+cher	expensive / dear			дорогий
+chercher	to look for			шукати
+cheval	horse			кінь
+cheval / chevaux	horse / horses			кінь / коні
+chien	dog			собака
+chocolat	chocolate			шоколад
+choisir	to choose			вибирати
+chou	cabbage			капуста
+choux	cabbages			качани капусти
+château	castle			замок
+châteaux	castles			замки

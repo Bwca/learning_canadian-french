@@ -1,50 +1,50 @@
-la route	the road	[sound:the-road.webm]	/la ʁut/
-derrière	behind / at the back	[sound:behind-at-the-back.webm]	/dɛʁjɛʁ/
-mauvais / mauvaise	bad / wrong	[sound:bad-wrong.webm]	/movɛ, movɛz/
-l'ordre (m.)	the order	[sound:the-order.webm]	/lɔʁdʁ/
-manquer	to miss / to lack	[sound:to-miss-to-lack.webm]	/mɑ̃ke/
-le lieu	the place / the spot	[sound:the-place-the-spot.webm]	/lə ljø/
-autour	around	[sound:around.webm]	/otuʁ/
-le ciel	the sky	[sound:the-sky-le-ciel.webm]	/lə sjɛl/
-le pays	the country	[sound:the-country.webm]	/lə pei/
-parfois	sometimes	[sound:sometimes.webm]	/paʁfwa/
-surtout	especially / above all	[sound:especially-above-all.webm]	/syʁtu/
-acheter	to buy	[sound:to-buy-acheter.webm]	/aʃəte/
-heureux / heureuse	happy	[sound:happy.webm]	/øʁø, øʁøz/
-espérer	to hope	[sound:to-hope.webm]	/ɛspeʁe/
-prêt / prête	ready	[sound:ready.webm]	/pʁɛ, pʁɛt/
-fermer	to close	[sound:to-close.webm]	/fɛʁme/
-imaginer	to imagine	[sound:to-imagine.webm]	/imaʒine/
-expliquer	to explain	[sound:to-explain.webm]	/ɛksplike/
-merci	thank you	[sound:thank-you-merci.webm]	/mɛʁsi/
-le silence	the silence	[sound:the-silence.webm]	/lə silɑ̃s/
-compter	to count	[sound:to-count-compter.webm]	/kɔ̃te/
-rencontrer	to meet	[sound:to-meet-rencontrer.webm]	/ʁɑ̃kɔ̃tʁe/
-la pièce	the room / the coin / the play (theatre)	[sound:the-room-the-coin-the-play-theatre.webm]	/la pjɛs/
-souvent	often	[sound:often-souvent.webm]	/suvɑ̃/
-décider	to decide	[sound:to-decide.webm]	/deside/
-le plaisir	the pleasure (avec plaisir = with pleasure)	[sound:the-pleasure-avec-plaisir-with-pleasure.webm]	/lə pleziʁ/
-prier	to pray / to beg (je vous en prie = you're welcome)	[sound:to-pray-to-beg-je-vous-en-prie-you-re-welcome.webm]	/pʁije/
-recevoir	to receive	[sound:to-receive.webm]	/ʁəsəvwaʁ/
-la cause	the cause (à cause de = because of)	[sound:the-cause-a-cause-de-because-of.webm]	/la koz/
-le bois	the wood / the woods	[sound:the-wood-the-woods.webm]	/lə bwa/
-possible	possible	[sound:possible.webm]	/pɔsibl/
-la lettre	the letter	[sound:the-letter-la-lettre.webm]	/la lɛtʁ/
-courir	to run	[sound:to-run.webm]	/kuʁiʁ/
-la lumière	the light	[sound:the-light.webm]	/la lymjɛʁ/
-le chien / la chienne	the dog	[sound:the-dog.webm]	/lə ʃjɛ̃, la ʃjɛn/
-le mur	the wall	[sound:the-wall.webm]	/lə myʁ/
-le verre	the glass	[sound:the-glass-le-verre.webm]	/lə vɛʁ/
-la partie	the part / the game (match)	[sound:the-part-the-game-match.webm]	/la paʁti/
-puis	then	[sound:then.webm]	/pɥi/
-ensemble	together	[sound:together-ensemble.webm]	/ɑ̃sɑ̃bl/
-le mec	the guy (slang)	[sound:the-guy-slang.webm]	/lə mɛk/
-la face	the face / the side (en face de = opposite)	[sound:the-face-the-side-en-face-de-opposite.webm]	/la fas/
-nouveau / nouvelle	new	[sound:new.webm]	/nuvo, nuvɛl/
-les cheveux	the hair	[sound:the-hair.webm]	/le ʃəvø/
-offrir	to offer / to give (a gift)	[sound:to-offer-to-give-a-gift.webm]	/ɔfʁiʁ/
-le mari	the husband	[sound:the-husband.webm]	/lə maʁi/
-cacher	to hide	[sound:to-hide.webm]	/kaʃe/
-le reste	the rest	[sound:the-rest.webm]	/lə ʁɛst/
-battre	to beat (se battre = to fight)	[sound:to-beat-se-battre-to-fight.webm]	/batʁ/
-là-bas	over there	[sound:over-there.webm]	/laba/
+la route	the road	[sound:the-road.webm]	/la ʁut/	дорога
+derrière	behind / at the back	[sound:behind-at-the-back.webm]	/dɛʁjɛʁ/	позаду / ззаду
+mauvais / mauvaise	bad / wrong	[sound:bad-wrong.webm]	/movɛ, movɛz/	поганий / погана, неправильний
+l'ordre (m.)	the order	[sound:the-order.webm]	/lɔʁdʁ/	порядок / наказ
+manquer	to miss / to lack	[sound:to-miss-to-lack.webm]	/mɑ̃ke/	пропускати, сумувати / бракувати
+le lieu	the place / the spot	[sound:the-place-the-spot.webm]	/lə ljø/	місце
+autour	around	[sound:around.webm]	/otuʁ/	навколо
+le ciel	the sky	[sound:the-sky-le-ciel.webm]	/lə sjɛl/	небо
+le pays	the country	[sound:the-country.webm]	/lə pei/	країна
+parfois	sometimes	[sound:sometimes.webm]	/paʁfwa/	іноді
+surtout	especially / above all	[sound:especially-above-all.webm]	/syʁtu/	особливо / передусім
+acheter	to buy	[sound:to-buy-acheter.webm]	/aʃəte/	купувати
+heureux / heureuse	happy	[sound:happy.webm]	/øʁø, øʁøz/	щасливий / щаслива
+espérer	to hope	[sound:to-hope.webm]	/ɛspeʁe/	сподіватися
+prêt / prête	ready	[sound:ready.webm]	/pʁɛ, pʁɛt/	готовий / готова
+fermer	to close	[sound:to-close.webm]	/fɛʁme/	зачиняти
+imaginer	to imagine	[sound:to-imagine.webm]	/imaʒine/	уявляти
+expliquer	to explain	[sound:to-explain.webm]	/ɛksplike/	пояснювати
+merci	thank you	[sound:thank-you-merci.webm]	/mɛʁsi/	дякую
+le silence	the silence	[sound:the-silence.webm]	/lə silɑ̃s/	тиша
+compter	to count	[sound:to-count-compter.webm]	/kɔ̃te/	рахувати
+rencontrer	to meet	[sound:to-meet-rencontrer.webm]	/ʁɑ̃kɔ̃tʁe/	зустрічати
+la pièce	the room / the coin / the play (theatre)	[sound:the-room-the-coin-the-play-theatre.webm]	/la pjɛs/	кімната / монета / п'єса
+souvent	often	[sound:often-souvent.webm]	/suvɑ̃/	часто
+décider	to decide	[sound:to-decide.webm]	/deside/	вирішувати
+le plaisir	the pleasure (avec plaisir = with pleasure)	[sound:the-pleasure-avec-plaisir-with-pleasure.webm]	/lə pleziʁ/	задоволення (avec plaisir = із задоволенням)
+prier	to pray / to beg (je vous en prie = you're welcome)	[sound:to-pray-to-beg-je-vous-en-prie-you-re-welcome.webm]	/pʁije/	молитися / просити (je vous en prie = прошу, будь ласка)
+recevoir	to receive	[sound:to-receive.webm]	/ʁəsəvwaʁ/	отримувати
+la cause	the cause (à cause de = because of)	[sound:the-cause-a-cause-de-because-of.webm]	/la koz/	причина (à cause de = через)
+le bois	the wood / the woods	[sound:the-wood-the-woods.webm]	/lə bwa/	деревина / ліс
+possible	possible	[sound:possible.webm]	/pɔsibl/	можливий
+la lettre	the letter	[sound:the-letter-la-lettre.webm]	/la lɛtʁ/	лист / літера
+courir	to run	[sound:to-run.webm]	/kuʁiʁ/	бігти
+la lumière	the light	[sound:the-light.webm]	/la lymjɛʁ/	світло
+le chien / la chienne	the dog	[sound:the-dog.webm]	/lə ʃjɛ̃, la ʃjɛn/	собака / сука
+le mur	the wall	[sound:the-wall.webm]	/lə myʁ/	стіна
+le verre	the glass	[sound:the-glass-le-verre.webm]	/lə vɛʁ/	склянка / скло
+la partie	the part / the game (match)	[sound:the-part-the-game-match.webm]	/la paʁti/	частина / гра, матч
+puis	then	[sound:then.webm]	/pɥi/	потім
+ensemble	together	[sound:together-ensemble.webm]	/ɑ̃sɑ̃bl/	разом
+le mec	the guy (slang)	[sound:the-guy-slang.webm]	/lə mɛk/	хлопець, тип (сленг)
+la face	the face / the side (en face de = opposite)	[sound:the-face-the-side-en-face-de-opposite.webm]	/la fas/	обличчя / бік (en face de = навпроти)
+nouveau / nouvelle	new	[sound:new.webm]	/nuvo, nuvɛl/	новий / нова
+les cheveux	the hair	[sound:the-hair.webm]	/le ʃəvø/	волосся
+offrir	to offer / to give (a gift)	[sound:to-offer-to-give-a-gift.webm]	/ɔfʁiʁ/	пропонувати / дарувати
+le mari	the husband	[sound:the-husband.webm]	/lə maʁi/	чоловік (у шлюбі)
+cacher	to hide	[sound:to-hide.webm]	/kaʃe/	ховати
+le reste	the rest	[sound:the-rest.webm]	/lə ʁɛst/	решта
+battre	to beat (se battre = to fight)	[sound:to-beat-se-battre-to-fight.webm]	/batʁ/	бити (se battre = битися)
+là-bas	over there	[sound:over-there.webm]	/laba/	там, он там

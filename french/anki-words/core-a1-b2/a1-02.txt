@@ -1,50 +1,50 @@
-être	to be	[sound:to-be-etre.webm]	/ɛtʁ/
-je	I	[sound:i-je.webm]	/ʒə/
-ne	not (ne… pas)	[sound:not-ne-pas.webm]	/nə/
-et	and	[sound:and-et.webm]	/e/
-le / la / les	the	[sound:the.webm]	/lə, la, le/
-à	to / at / in	[sound:to-at-in.webm]	/a/
-avoir	to have	[sound:to-have-avoir.webm]	/avwaʁ/
-il	he / it	[sound:he-it.webm]	/il/
-pas	not	[sound:not.webm]	/pa/
-un / une	a / an	[sound:a-an.webm]	/œ̃, yn/
-tu	you (informal)	[sound:you-informal-tu.webm]	/ty/
-vous	you (formal / plural)	[sound:you-formal-plural-vous.webm]	/vu/
-en (préposition)	in / to (a country)	[sound:in-to-a-country.webm]	/ɑ̃/
-faire	to do / to make	[sound:to-do-to-make-faire.webm]	/fɛʁ/
-qui	who / which	[sound:who-which.webm]	/ki/
-on	we (casual) / one	[sound:we-casual-one-on.webm]	/ɔ̃/
-pour	for	[sound:for.webm]	/puʁ/
-dans	in / inside	[sound:in-inside-dans.webm]	/dɑ̃/
-aller	to go	[sound:to-go-aller.webm]	/ale/
-elle	she / it	[sound:she-it.webm]	/ɛl/
-dire	to say / to tell	[sound:to-say-to-tell.webm]	/diʁ/
-mais	but	[sound:but-mais.webm]	/mɛ/
-se	oneself / himself / herself (reflexive)	[sound:oneself-himself-herself-reflexive.webm]	/sə/
-me	me / myself	[sound:me-myself.webm]	/mə/
-plus	more	[sound:more.webm]	/ply/
-nous	we / us	[sound:we-us.webm]	/nu/
-pouvoir	can / to be able to	[sound:can-to-be-able-to.webm]	/puvwaʁ/
-ce	this / that / it (c'est)	[sound:this-that-it-c-est.webm]	/sə/
-sur	on	[sound:on.webm]	/syʁ/
-avec	with	[sound:with-avec.webm]	/avɛk/
-y	there (j'y vais)	[sound:there-j-y-vais.webm]	/i/
-que	that / what / than	[sound:that-what-than.webm]	/kə/
-vouloir	to want	[sound:to-want-vouloir.webm]	/vulwaʁ/
-bien	well	[sound:well.webm]	/bjɛ̃/
-lui	him / her (to him / to her)	[sound:him-her-to-him-to-her.webm]	/lɥi/
-voir	to see	[sound:to-see-voir.webm]	/vwaʁ/
-savoir	to know (a fact)	[sound:to-know-a-fact.webm]	/savwaʁ/
-son / sa / ses	his / her (masc.)	[sound:his-her-masc-son-sa-ses.webm]	/sɔ̃, sa, se/
-mon / ma / mes	my	[sound:my.webm]	/mɔ̃, ma, me/
-en (pronom)	some / of it (pronoun)	[sound:some-of-it-pronoun.webm]	/ɑ̃/
-comme	like / as	[sound:like-as.webm]	/kɔm/
-le / la / les (pronom)	him / her / it / them (object)	[sound:him-her-it-them-object.webm]	/lə, la, le/
-moi	me (stressed)	[sound:me-stressed.webm]	/mwa/
-par	by / through	[sound:by-through.webm]	/paʁ/
-non	no	[sound:no.webm]	/nɔ̃/
-te	you / yourself (informal object)	[sound:you-yourself-informal-object.webm]	/tə/
-devoir	must / to have to / to owe	[sound:must-to-have-to-to-owe.webm]	/dəvwaʁ/
-venir	to come	[sound:to-come-venir.webm]	/vəniʁ/
-où	where	[sound:where.webm]	/u/
-ou	or	[sound:or.webm]	/u/
+être	to be	[sound:to-be-etre.webm]	/ɛtʁ/	бути
+je	I	[sound:i-je.webm]	/ʒə/	я
+ne	not (ne… pas)	[sound:not-ne-pas.webm]	/nə/	не (ne… pas)
+et	and	[sound:and-et.webm]	/e/	і, та
+le / la / les	the	[sound:the.webm]	/lə, la, le/	означений артикль (чол. / жін. / мн.)
+à	to / at / in	[sound:to-at-in.webm]	/a/	до, в, у, на
+avoir	to have	[sound:to-have-avoir.webm]	/avwaʁ/	мати
+il	he / it	[sound:he-it.webm]	/il/	він / воно
+pas	not	[sound:not.webm]	/pa/	не
+un / une	a / an	[sound:a-an.webm]	/œ̃, yn/	неозначений артикль (чол. / жін.)
+tu	you (informal)	[sound:you-informal-tu.webm]	/ty/	ти
+vous	you (formal / plural)	[sound:you-formal-plural-vous.webm]	/vu/	ви (ввічливо / множина)
+en (préposition)	in / to (a country)	[sound:in-to-a-country.webm]	/ɑ̃/	в, у, до (країни)
+faire	to do / to make	[sound:to-do-to-make-faire.webm]	/fɛʁ/	робити
+qui	who / which	[sound:who-which.webm]	/ki/	хто, який
+on	we (casual) / one	[sound:we-casual-one-on.webm]	/ɔ̃/	ми (розм.) / хтось, люди
+pour	for	[sound:for.webm]	/puʁ/	для
+dans	in / inside	[sound:in-inside-dans.webm]	/dɑ̃/	в, у, всередині
+aller	to go	[sound:to-go-aller.webm]	/ale/	іти, їхати
+elle	she / it	[sound:she-it.webm]	/ɛl/	вона / воно
+dire	to say / to tell	[sound:to-say-to-tell.webm]	/diʁ/	казати, говорити
+mais	but	[sound:but-mais.webm]	/mɛ/	але
+se	oneself / himself / herself (reflexive)	[sound:oneself-himself-herself-reflexive.webm]	/sə/	себе, -ся (зворотне)
+me	me / myself	[sound:me-myself.webm]	/mə/	мене, мені / себе
+plus	more	[sound:more.webm]	/ply/	більше
+nous	we / us	[sound:we-us.webm]	/nu/	ми / нас
+pouvoir	can / to be able to	[sound:can-to-be-able-to.webm]	/puvwaʁ/	могти, бути здатним
+ce	this / that / it (c'est)	[sound:this-that-it-c-est.webm]	/sə/	це, те (c'est)
+sur	on	[sound:on.webm]	/syʁ/	на
+avec	with	[sound:with-avec.webm]	/avɛk/	з, разом з
+y	there (j'y vais)	[sound:there-j-y-vais.webm]	/i/	туди, там (j'y vais)
+que	that / what / than	[sound:that-what-than.webm]	/kə/	що, який / ніж
+vouloir	to want	[sound:to-want-vouloir.webm]	/vulwaʁ/	хотіти
+bien	well	[sound:well.webm]	/bjɛ̃/	добре
+lui	him / her (to him / to her)	[sound:him-her-to-him-to-her.webm]	/lɥi/	йому / їй
+voir	to see	[sound:to-see-voir.webm]	/vwaʁ/	бачити
+savoir	to know (a fact)	[sound:to-know-a-fact.webm]	/savwaʁ/	знати (факт), вміти
+son / sa / ses	his / her (masc.)	[sound:his-her-masc-son-sa-ses.webm]	/sɔ̃, sa, se/	його / її (свій)
+mon / ma / mes	my	[sound:my.webm]	/mɔ̃, ma, me/	мій / моя / мої
+en (pronom)	some / of it (pronoun)	[sound:some-of-it-pronoun.webm]	/ɑ̃/	його, цього, з цього (займенник)
+comme	like / as	[sound:like-as.webm]	/kɔm/	як, наче / як (у ролі)
+le / la / les (pronom)	him / her / it / them (object)	[sound:him-her-it-them-object.webm]	/lə, la, le/	його / її / їх (додаток)
+moi	me (stressed)	[sound:me-stressed.webm]	/mwa/	я, мене (наголошене)
+par	by / through	[sound:by-through.webm]	/paʁ/	через, за допомогою, ким
+non	no	[sound:no.webm]	/nɔ̃/	ні
+te	you / yourself (informal object)	[sound:you-yourself-informal-object.webm]	/tə/	тебе, тобі / себе (неформально)
+devoir	must / to have to / to owe	[sound:must-to-have-to-to-owe.webm]	/dəvwaʁ/	мусити, бути повинним / бути винним
+venir	to come	[sound:to-come-venir.webm]	/vəniʁ/	приходити
+où	where	[sound:where.webm]	/u/	де
+ou	or	[sound:or.webm]	/u/	або, чи

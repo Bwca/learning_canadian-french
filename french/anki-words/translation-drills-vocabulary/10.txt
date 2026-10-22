@@ -1,50 +1,50 @@
-nom	name
-normal	normal
-normaux	normal (masc. plural)
-nos	our (plural)
-notre	our (singular)
-nourrir	to feed
-nouveau	new
-nouveau / nouveaux	new
-nouvelle	new (fem.)
-nouvelles	news
-nuage	cloud
-obéir	to obey
-obéir à	to obey
-occupé	busy
-occupée	busy (fem.)
-oiseau	bird
-oncle	uncle
-orage	storm
-orange	orange (never changes form)
-ordinateur	computer
-os	bone
-oublier	to forget
-ours	bear
-ouverte	open (fem.)
-où	where
-pain	bread
-panier	basket
-parapluie	umbrella
-parc	park
-parents	parents
-paresseuse	lazy (fem.)
-paresseux	lazy
-parler	to speak
-partie	game (match)
-patiner	to skate
-patron	boss
-pendant	during
-perdre	to lose
-perdre du poids	to lose weight
-perdre du temps	to waste time
-perdre patience	to lose patience
-perdue	lost
-petit	small
-petite	small (fem.)
-peureuses	fearful (fem. plural)
-peureux	fearful
-pichet	pitcher
-place	square
-plage	beach
-plancher	floor (Québec)
+nom	name			ім'я, прізвище
+normal	normal			нормальний
+normaux	normal (masc. plural)			нормальні (чол. р.)
+nos	our (plural)			наші
+notre	our (singular)			наш / наша
+nourrir	to feed			годувати
+nouveau	new			новий
+nouveau / nouveaux	new			новий / нові
+nouvelle	new (fem.)			нова
+nouvelles	news			новини
+nuage	cloud			хмара
+obéir	to obey			слухатися
+obéir à	to obey			слухатися (когось)
+occupé	busy			зайнятий
+occupée	busy (fem.)			зайнята
+oiseau	bird			птах
+oncle	uncle			дядько
+orage	storm			гроза
+orange	orange (never changes form)			помаранчевий (форма не змінюється)
+ordinateur	computer			комп'ютер
+os	bone			кістка
+oublier	to forget			забувати
+ours	bear			ведмідь
+ouverte	open (fem.)			відчинена, відкрита
+où	where			де
+pain	bread			хліб
+panier	basket			кошик
+parapluie	umbrella			парасолька
+parc	park			парк
+parents	parents			батьки
+paresseuse	lazy (fem.)			лінива
+paresseux	lazy			лінивий
+parler	to speak			говорити
+partie	game (match)			партія, гра (матч)
+patiner	to skate			кататися на ковзанах
+patron	boss			начальник
+pendant	during			під час
+perdre	to lose			губити, втрачати
+perdre du poids	to lose weight			схуднути
+perdre du temps	to waste time			гаяти час
+perdre patience	to lose patience			втратити терпіння
+perdue	lost			загублена
+petit	small			малий, маленький
+petite	small (fem.)			мала, маленька
+peureuses	fearful (fem. plural)			полохливі (жін. р.)
+peureux	fearful			полохливий
+pichet	pitcher			глечик
+place	square			площа
+plage	beach			пляж
+plancher	floor (Québec)			підлога (у Квебеку)

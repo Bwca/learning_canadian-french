@@ -1,36 +1,36 @@
-accepter	to accept
-aimer	to like, to love
-annuler	to cancel
-apporter	to bring
-attraper	to catch
-augmenter	to increase
-bavarder	to chat
-casser	to break
-chercher	to look for
-commander	to order
-couper	to cut
-danser	to dance
-déjeuner	to have lunch
-demander	to ask
-dessiner	to draw
-donner	to give
-emprunter	to borrow
-enlever	to remove
-étudier	to study
-exprimer	to express
-gagner	to win, to earn
-garder	to keep
-habiter	to live
-laver	to wash
-manger	to eat
-mériter	to deserve
-oublier	to forget
-porter	to carry
-prêter	to lend
-refuser	to refuse
-regarder	to watch
-saluer	to greet
-sauter	to jump
-tomber	to fall
-travailler	to work
-visiter	to visit (a place)
+accepter	to accept			приймати, погоджуватися
+aimer	to like, to love			любити, подобатися
+annuler	to cancel			скасовувати
+apporter	to bring			приносити
+attraper	to catch			ловити
+augmenter	to increase			збільшувати
+bavarder	to chat			балакати
+casser	to break			ламати, розбивати
+chercher	to look for			шукати
+commander	to order			замовляти
+couper	to cut			різати
+danser	to dance			танцювати
+déjeuner	to have lunch			обідати
+demander	to ask			питати, просити
+dessiner	to draw			малювати
+donner	to give			давати
+emprunter	to borrow			позичати (у когось)
+enlever	to remove			знімати / прибирати
+étudier	to study			вчитися, вивчати
+exprimer	to express			висловлювати
+gagner	to win, to earn			вигравати, заробляти
+garder	to keep			зберігати, тримати
+habiter	to live			жити, мешкати
+laver	to wash			мити, прати
+manger	to eat			їсти
+mériter	to deserve			заслуговувати
+oublier	to forget			забувати
+porter	to carry			носити, нести
+prêter	to lend			позичати (комусь)
+refuser	to refuse			відмовлятися
+regarder	to watch			дивитися
+saluer	to greet			вітати(ся)
+sauter	to jump			стрибати
+tomber	to fall			падати
+travailler	to work			працювати
+visiter	to visit (a place)			відвідувати (місце)

@@ -1,50 +1,50 @@
-télévision	television
-tête	head
-tôt	early
-un peu de	a little
-utiliser	to use
-vache	cow
-vaisselle	dishes
-valise	suitcase
-vendre	to sell
-vendre cher	to sell at a high price
-vendredi	Friday
-vent	wind
-ventre	stomach
-verglas	black ice
-verre	glass
-vert	green
-verte	green (fem.)
-veste	jacket
-viande	meat
-vieille	old (fem.)
-vieilles	old (fem. plural)
-vieillir	to get old
-vieux	old
-ville	city
-vingt	twenty
-vingt-cinq	twenty-five
-vingt-deux	twenty-two
-violet	purple
-vite	fast / quickly
-vocabulaire	vocabulary
-voisin	neighbour
-voisine	neighbour (fem.)
-voiture	car
-vos	your (formal/plural)
-votre	your (formal, singular)
-voyager	to travel
-vélo	bike
-à côté de	next to
-à l'automne	in the fall
-à la maison	at home
-école	school
-écouter	to listen to
-église	church
-élevé	high
-élève	student (pupil)
-énergie	energy
-équipe	team
-érable	maple (tree)
-étagère	shelf
-étendre	to hang (laundry) / to spread
+télévision	television			телебачення, телевізор
+tête	head			голова
+tôt	early			рано
+un peu de	a little			трохи (чогось)
+utiliser	to use			використовувати
+vache	cow			корова
+vaisselle	dishes			посуд
+valise	suitcase			валіза
+vendre	to sell			продавати
+vendre cher	to sell at a high price			продавати задорого
+vendredi	Friday			п'ятниця
+vent	wind			вітер
+ventre	stomach			живіт
+verglas	black ice			ожеледь
+verre	glass			склянка / скло
+vert	green			зелений
+verte	green (fem.)			зелена
+veste	jacket			куртка, піджак
+viande	meat			м'ясо
+vieille	old (fem.)			стара
+vieilles	old (fem. plural)			старі (жін. р.)
+vieillir	to get old			старіти
+vieux	old			старий
+ville	city			місто
+vingt	twenty			двадцять
+vingt-cinq	twenty-five			двадцять п'ять
+vingt-deux	twenty-two			двадцять два
+violet	purple			фіолетовий
+vite	fast / quickly			швидко
+vocabulaire	vocabulary			словниковий запас, лексика
+voisin	neighbour			сусід
+voisine	neighbour (fem.)			сусідка
+voiture	car			автомобіль
+vos	your (formal/plural)			ваші
+votre	your (formal, singular)			ваш / ваша
+voyager	to travel			подорожувати
+vélo	bike			велосипед
+à côté de	next to			поруч із
+à l'automne	in the fall			восени
+à la maison	at home			вдома
+école	school			школа
+écouter	to listen to			слухати
+église	church			церква
+élevé	high			високий
+élève	student (pupil)			учень / учениця
+énergie	energy			енергія
+équipe	team			команда
+érable	maple (tree)			клен
+étagère	shelf			полиця
+étendre	to hang (laundry) / to spread			розвішувати (білизну) / розстеляти

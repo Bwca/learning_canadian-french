@@ -1,50 +1,50 @@
-visiblement	visibly / clearly	[sound:visibly-clearly.webm]	/vizibləmɑ̃/
-l'ordinaire (m.)	the ordinary (d'ordinaire = usually)	[sound:the-ordinary-d-ordinaire-usually.webm]	/lɔʁdinɛʁ/
-humble	humble	[sound:humble.webm]	/œ̃bl/
-gérer	to manage / to handle	[sound:to-manage-to-handle.webm]	/ʒeʁe/
-le tonnerre	the thunder	[sound:the-thunder.webm]	/lə tɔnɛʁ/
-le vice	the vice	[sound:the-vice.webm]	/lə vis/
-quoique	although	[sound:although.webm]	/kwakə/
-la clinique	the clinic	[sound:the-clinic.webm]	/la klinik/
-le néant	the nothingness	[sound:the-nothingness.webm]	/lə neɑ̃/
-le maximum	the maximum	[sound:the-maximum.webm]	/lə maksimɔm/
-le beau-père / la belle-mère	the father-in-law / the mother-in-law (also: stepfather / stepmother)	[sound:the-father-in-law-the-mother-in-law-also-stepfather.webm]	/lə bopɛʁ, la bɛlmɛʁ/
-l'engagement (m.)	the commitment / the hiring	[sound:the-commitment-the-hiring.webm]	/lɑ̃ɡaʒəmɑ̃/
-le vampire	the vampire	[sound:the-vampire.webm]	/lə vɑ̃piʁ/
-le stylo	the pen	[sound:the-pen.webm]	/lə stilo/
-la saleté	the dirt / the filth	[sound:the-dirt-the-filth.webm]	/la saləte/
-la crête	the crest / the ridge	[sound:the-crest-the-ridge.webm]	/la kʁɛt/
-subtil / subtile	subtle	[sound:subtle.webm]	/syptil/
-le lot	the batch / the lot / the prize (le gros lot = the jackpot)	[sound:the-batch-the-lot-the-prize-le-gros-lot-the-jackpot.webm]	/lə lo/
-le virus	the virus	[sound:the-virus.webm]	/lə viʁys/
-la cervelle	the brain (food, informal)	[sound:the-brain-food-informal.webm]	/la sɛʁvɛl/
-désagréable	unpleasant	[sound:unpleasant.webm]	/dezaɡʁeabl/
-légitime	legitimate	[sound:legitimate.webm]	/leʒitim/
-humilier	to humiliate	[sound:to-humiliate.webm]	/ymilje/
-l'ironie (f.)	the irony	[sound:the-irony.webm]	/liʁɔni/
-racheter	to buy back / to buy more	[sound:to-buy-back-to-buy-more.webm]	/ʁaʃəte/
-l'assistance (f.)	the assistance / the audience	[sound:the-assistance-the-audience.webm]	/lasistɑ̃s/
-convoquer	to summon / to call (to a meeting)	[sound:to-summon-to-call-to-a-meeting.webm]	/kɔ̃vɔke/
-la défaite	the defeat	[sound:the-defeat.webm]	/la defɛt/
-la pub	the ad / the advertising (informal) / the pub (bar)	[sound:the-ad-the-advertising-informal-the-pub-bar.webm]	/la pyb/
-la gaieté	the cheerfulness	[sound:the-cheerfulness.webm]	/la ɡete/
-la complicité	the complicity / the closeness	[sound:the-complicity-the-closeness.webm]	/la kɔ̃plisite/
-menu / menue	slender / small (menu = small change)	[sound:slender-small-menu-small-change.webm]	/məny/
-l'extrémité (f.)	the end / the tip / the extremity	[sound:the-end-the-tip-the-extremity.webm]	/lɛkstʁemite/
-le meurtrier / la meurtrière	the murderer	[sound:the-murderer-le-meurtrier-la-meurtriere.webm]	/lə mœʁtʁije, la mœʁtʁijɛʁ/
-la torture	the torture	[sound:the-torture.webm]	/la tɔʁtyʁ/
-la ruse	the trick / the cunning	[sound:the-trick-the-cunning.webm]	/la ʁyz/
-la rupture	the break-up / the breach	[sound:the-break-up-the-breach.webm]	/la ʁyptyʁ/
-monstrueux / monstrueuse	monstrous	[sound:monstrous.webm]	/mɔ̃stʁyø, mɔ̃stʁyøz/
-la tribu	the tribe	[sound:the-tribe.webm]	/la tʁiby/
-redoutable	formidable / fearsome	[sound:formidable-fearsome.webm]	/ʁədutabl/
-reconnaissant / reconnaissante	grateful	[sound:grateful.webm]	/ʁəkɔnɛsɑ̃, ʁəkɔnɛsɑ̃t/
-suspect / suspecte	suspicious / suspect	[sound:suspicious-suspect.webm]	/syspɛ, syspɛkt/
-conscient / consciente	aware / conscious	[sound:aware-conscious.webm]	/kɔ̃sjɑ̃, kɔ̃sjɑ̃t/
-le pan	the section / the side (un pan de mur)	[sound:the-section-the-side-un-pan-de-mur.webm]	/lə pɑ̃/
-hostile	hostile	[sound:hostile.webm]	/ɔstil/
-hâter	to hasten (se hâter = to hurry)	[sound:to-hasten-se-hater-to-hurry.webm]	/ate/
-la destruction	the destruction	[sound:the-destruction.webm]	/la destʁyksjɔ̃/
-négocier	to negotiate	[sound:to-negotiate.webm]	/neɡɔsje/
-l'onde (f.)	the wave (radio) (sur les ondes = on the air)	[sound:the-wave-radio-sur-les-ondes-on-the-air.webm]	/lɔ̃d/
-le défi	the challenge	[sound:the-challenge.webm]	/lə defi/
+visiblement	visibly / clearly	[sound:visibly-clearly.webm]	/vizibləmɑ̃/	помітно / явно
+l'ordinaire (m.)	the ordinary (d'ordinaire = usually)	[sound:the-ordinary-d-ordinaire-usually.webm]	/lɔʁdinɛʁ/	звичайне (d'ordinaire = зазвичай)
+humble	humble	[sound:humble.webm]	/œ̃bl/	скромний
+gérer	to manage / to handle	[sound:to-manage-to-handle.webm]	/ʒeʁe/	керувати / справлятися
+le tonnerre	the thunder	[sound:the-thunder.webm]	/lə tɔnɛʁ/	грім
+le vice	the vice	[sound:the-vice.webm]	/lə vis/	порок
+quoique	although	[sound:although.webm]	/kwakə/	хоча
+la clinique	the clinic	[sound:the-clinic.webm]	/la klinik/	клініка
+le néant	the nothingness	[sound:the-nothingness.webm]	/lə neɑ̃/	небуття
+le maximum	the maximum	[sound:the-maximum.webm]	/lə maksimɔm/	максимум
+le beau-père / la belle-mère	the father-in-law / the mother-in-law (also: stepfather / stepmother)	[sound:the-father-in-law-the-mother-in-law-also-stepfather.webm]	/lə bopɛʁ, la bɛlmɛʁ/	тесть, свекор / теща, свекруха (також: вітчим / мачуха)
+l'engagement (m.)	the commitment / the hiring	[sound:the-commitment-the-hiring.webm]	/lɑ̃ɡaʒəmɑ̃/	зобов'язання / найм
+le vampire	the vampire	[sound:the-vampire.webm]	/lə vɑ̃piʁ/	вампір
+le stylo	the pen	[sound:the-pen.webm]	/lə stilo/	ручка (для письма)
+la saleté	the dirt / the filth	[sound:the-dirt-the-filth.webm]	/la saləte/	бруд
+la crête	the crest / the ridge	[sound:the-crest-the-ridge.webm]	/la kʁɛt/	гребінь / хребет
+subtil / subtile	subtle	[sound:subtle.webm]	/syptil/	тонкий / тонка, витончений
+le lot	the batch / the lot / the prize (le gros lot = the jackpot)	[sound:the-batch-the-lot-the-prize-le-gros-lot-the-jackpot.webm]	/lə lo/	партія / ділянка / виграш (le gros lot = джекпот)
+le virus	the virus	[sound:the-virus.webm]	/lə viʁys/	вірус
+la cervelle	the brain (food, informal)	[sound:the-brain-food-informal.webm]	/la sɛʁvɛl/	мізки (їжа, розм.)
+désagréable	unpleasant	[sound:unpleasant.webm]	/dezaɡʁeabl/	неприємний
+légitime	legitimate	[sound:legitimate.webm]	/leʒitim/	законний
+humilier	to humiliate	[sound:to-humiliate.webm]	/ymilje/	принижувати
+l'ironie (f.)	the irony	[sound:the-irony.webm]	/liʁɔni/	іронія
+racheter	to buy back / to buy more	[sound:to-buy-back-to-buy-more.webm]	/ʁaʃəte/	викуповувати / докуповувати
+l'assistance (f.)	the assistance / the audience	[sound:the-assistance-the-audience.webm]	/lasistɑ̃s/	допомога / присутні, публіка
+convoquer	to summon / to call (to a meeting)	[sound:to-summon-to-call-to-a-meeting.webm]	/kɔ̃vɔke/	скликати / викликати (на зустріч)
+la défaite	the defeat	[sound:the-defeat.webm]	/la defɛt/	поразка
+la pub	the ad / the advertising (informal) / the pub (bar)	[sound:the-ad-the-advertising-informal-the-pub-bar.webm]	/la pyb/	реклама (розм.) / паб
+la gaieté	the cheerfulness	[sound:the-cheerfulness.webm]	/la ɡete/	веселість
+la complicité	the complicity / the closeness	[sound:the-complicity-the-closeness.webm]	/la kɔ̃plisite/	співучасть / близькість, порозуміння
+menu / menue	slender / small (menu = small change)	[sound:slender-small-menu-small-change.webm]	/məny/	дрібний / тонкий (menu = дрібниця)
+l'extrémité (f.)	the end / the tip / the extremity	[sound:the-end-the-tip-the-extremity.webm]	/lɛkstʁemite/	край / кінчик / кінцівка
+le meurtrier / la meurtrière	the murderer	[sound:the-murderer-le-meurtrier-la-meurtriere.webm]	/lə mœʁtʁije, la mœʁtʁijɛʁ/	вбивця
+la torture	the torture	[sound:the-torture.webm]	/la tɔʁtyʁ/	катування
+la ruse	the trick / the cunning	[sound:the-trick-the-cunning.webm]	/la ʁyz/	хитрість
+la rupture	the break-up / the breach	[sound:the-break-up-the-breach.webm]	/la ʁyptyʁ/	розрив
+monstrueux / monstrueuse	monstrous	[sound:monstrous.webm]	/mɔ̃stʁyø, mɔ̃stʁyøz/	жахливий / жахлива, потворний
+la tribu	the tribe	[sound:the-tribe.webm]	/la tʁiby/	плем'я
+redoutable	formidable / fearsome	[sound:formidable-fearsome.webm]	/ʁədutabl/	грізний / страшний
+reconnaissant / reconnaissante	grateful	[sound:grateful.webm]	/ʁəkɔnɛsɑ̃, ʁəkɔnɛsɑ̃t/	вдячний / вдячна
+suspect / suspecte	suspicious / suspect	[sound:suspicious-suspect.webm]	/syspɛ, syspɛkt/	підозрілий / підозріла
+conscient / consciente	aware / conscious	[sound:aware-conscious.webm]	/kɔ̃sjɑ̃, kɔ̃sjɑ̃t/	свідомий / свідома, що усвідомлює
+le pan	the section / the side (un pan de mur)	[sound:the-section-the-side-un-pan-de-mur.webm]	/lə pɑ̃/	частина / бік (un pan de mur = частина стіни)
+hostile	hostile	[sound:hostile.webm]	/ɔstil/	ворожий
+hâter	to hasten (se hâter = to hurry)	[sound:to-hasten-se-hater-to-hurry.webm]	/ate/	квапити (se hâter = поспішати)
+la destruction	the destruction	[sound:the-destruction.webm]	/la destʁyksjɔ̃/	руйнування
+négocier	to negotiate	[sound:to-negotiate.webm]	/neɡɔsje/	домовлятися / вести переговори
+l'onde (f.)	the wave (radio) (sur les ondes = on the air)	[sound:the-wave-radio-sur-les-ondes-on-the-air.webm]	/lɔ̃d/	хвиля (радіо) (sur les ondes = в ефірі)
+le défi	the challenge	[sound:the-challenge.webm]	/lə defi/	виклик

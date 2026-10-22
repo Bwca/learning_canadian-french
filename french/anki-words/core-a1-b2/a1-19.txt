@@ -1,50 +1,50 @@
-la piste	the track / the trail / the lead (clue)	[sound:the-track-the-trail-the-lead-clue.webm]	/la pist/
-la reine	the queen	[sound:the-queen-la-reine.webm]	/la ʁɛn/
-assister	to attend / to assist	[sound:to-attend-to-assist.webm]	/asiste/
-horrible	horrible	[sound:horrible.webm]	/ɔʁibl/
-moyen / moyenne	average / medium	[sound:average-medium.webm]	/mwajɛ̃, mwajɛn/
-la grâce	the grace (grâce à = thanks to)	[sound:the-grace-grace-a-thanks-to.webm]	/la ɡʁas/
-la boule	the ball	[sound:the-ball-la-boule.webm]	/la bul/
-le plat	the dish / the course (meal)	[sound:the-dish-the-course-meal.webm]	/lə pla/
-sympa	nice / friendly (informal)	[sound:nice-friendly-informal.webm]	/sɛ̃pa/
-heureusement	fortunately / luckily	[sound:fortunately-luckily.webm]	/øʁøzəmɑ̃/
-indiquer	to indicate / to point out	[sound:to-indicate-to-point-out.webm]	/ɛ̃dike/
-l'œuf (m.)	the egg	[sound:the-egg.webm]	/lœf/
-la viande	the meat	[sound:the-meat-la-viande.webm]	/la vjɑ̃d/
-l'humeur (f.)	the mood	[sound:the-mood.webm]	/lymœʁ/
-rapidement	quickly	[sound:quickly.webm]	/ʁapidəmɑ̃/
-le club	the club	[sound:the-club.webm]	/lə klœb/
-le printemps	the spring	[sound:the-spring.webm]	/lə pʁɛ̃tɑ̃/
-formidable	great / terrific	[sound:great-terrific.webm]	/fɔʁmidabl/
-le palais	the palace	[sound:the-palace.webm]	/lə palɛ/
-la qualité	the quality	[sound:the-quality.webm]	/la kalite/
-le quai	the platform / the quay	[sound:the-platform-the-quay.webm]	/lə kɛ/
-fabriquer	to make / to manufacture	[sound:to-make-to-manufacture.webm]	/fabʁike/
-le gâteau	the cake	[sound:the-cake.webm]	/lə ɡato/
-visiter	to visit (a place)	[sound:to-visit-a-place.webm]	/vizite/
-le kilomètre	the kilometre	[sound:the-kilometre.webm]	/lə kilɔmɛtʁ/
-la corde	the rope / the string	[sound:the-rope-the-string.webm]	/la kɔʁd/
-accueillir	to welcome	[sound:to-welcome.webm]	/akœjiʁ/
-la danse	the dance	[sound:the-dance.webm]	/la dɑ̃s/
-le contrôle	the control / the check / the test	[sound:the-control-the-check-the-test.webm]	/lə kɔ̃tʁol/
-l'émotion (f.)	the emotion	[sound:the-emotion.webm]	/lemɔsjɔ̃/
-le dessin	the drawing	[sound:the-drawing-le-dessin.webm]	/lə desɛ̃/
-échanger	to exchange	[sound:to-exchange.webm]	/eʃɑ̃ʒe/
-joyeux / joyeuse	joyful / happy (joyeux anniversaire = happy birthday)	[sound:joyful-happy-joyeux-anniversaire-happy-birthday.webm]	/ʒwajø, ʒwajøz/
-véritable	real / genuine	[sound:real-genuine.webm]	/veʁitabl/
-la réunion	the meeting	[sound:the-meeting.webm]	/la ʁeynjɔ̃/
-la terrasse	the terrace / the patio	[sound:the-terrace-the-patio.webm]	/la tɛʁas/
-le samedi	Saturday	[sound:saturday.webm]	/lə samədi/
-la mode	the fashion (le mode = the mode / method)	[sound:the-fashion-le-mode-the-mode-method.webm]	/la mɔd/
-le pardon	forgiveness / pardon	[sound:forgiveness-pardon.webm]	/lə paʁdɔ̃/
-goûter	to taste / to have an afternoon snack	[sound:to-taste-to-have-an-afternoon-snack.webm]	/ɡute/
-réserver	to book / to reserve	[sound:to-book-to-reserve.webm]	/ʁezɛʁve/
-la région	the region	[sound:the-region.webm]	/la ʁeʒjɔ̃/
-brun / brune	brown / dark-haired	[sound:brown-dark-haired.webm]	/bʁœ̃, bʁyn/
-le lycée	the high school (France)	[sound:the-high-school-france.webm]	/lə lise/
-nul / nulle	useless / bad at (nul en maths)	[sound:useless-bad-at-nul-en-maths.webm]	/nyl/
-particulier / particulière	particular / private	[sound:particular-private.webm]	/paʁtikylje, paʁtikyljɛʁ/
-l'explication (f.)	the explanation	[sound:the-explanation.webm]	/lɛksplikasjɔ̃/
-le paysage	the landscape / the scenery	[sound:the-landscape-the-scenery.webm]	/lə peizaʒ/
-superbe	superb / gorgeous	[sound:superb-gorgeous.webm]	/sypɛʁb/
-la date	the date	[sound:the-date.webm]	/la dat/
+la piste	the track / the trail / the lead (clue)	[sound:the-track-the-trail-the-lead-clue.webm]	/la pist/	доріжка / слід / зачіпка
+la reine	the queen	[sound:the-queen-la-reine.webm]	/la ʁɛn/	королева
+assister	to attend / to assist	[sound:to-attend-to-assist.webm]	/asiste/	бути присутнім / допомагати
+horrible	horrible	[sound:horrible.webm]	/ɔʁibl/	жахливий
+moyen / moyenne	average / medium	[sound:average-medium.webm]	/mwajɛ̃, mwajɛn/	середній / середня
+la grâce	the grace (grâce à = thanks to)	[sound:the-grace-grace-a-thanks-to.webm]	/la ɡʁas/	благодать, грація (grâce à = завдяки)
+la boule	the ball	[sound:the-ball-la-boule.webm]	/la bul/	куля, м'яч
+le plat	the dish / the course (meal)	[sound:the-dish-the-course-meal.webm]	/lə pla/	страва
+sympa	nice / friendly (informal)	[sound:nice-friendly-informal.webm]	/sɛ̃pa/	симпатичний, милий (розм.)
+heureusement	fortunately / luckily	[sound:fortunately-luckily.webm]	/øʁøzəmɑ̃/	на щастя
+indiquer	to indicate / to point out	[sound:to-indicate-to-point-out.webm]	/ɛ̃dike/	вказувати / показувати
+l'œuf (m.)	the egg	[sound:the-egg.webm]	/lœf/	яйце
+la viande	the meat	[sound:the-meat-la-viande.webm]	/la vjɑ̃d/	м'ясо
+l'humeur (f.)	the mood	[sound:the-mood.webm]	/lymœʁ/	настрій
+rapidement	quickly	[sound:quickly.webm]	/ʁapidəmɑ̃/	швидко
+le club	the club	[sound:the-club.webm]	/lə klœb/	клуб
+le printemps	the spring	[sound:the-spring.webm]	/lə pʁɛ̃tɑ̃/	весна
+formidable	great / terrific	[sound:great-terrific.webm]	/fɔʁmidabl/	чудовий, класний
+le palais	the palace	[sound:the-palace.webm]	/lə palɛ/	палац
+la qualité	the quality	[sound:the-quality.webm]	/la kalite/	якість
+le quai	the platform / the quay	[sound:the-platform-the-quay.webm]	/lə kɛ/	платформа / набережна
+fabriquer	to make / to manufacture	[sound:to-make-to-manufacture.webm]	/fabʁike/	виготовляти
+le gâteau	the cake	[sound:the-cake.webm]	/lə ɡato/	торт, тістечко
+visiter	to visit (a place)	[sound:to-visit-a-place.webm]	/vizite/	відвідувати (місце)
+le kilomètre	the kilometre	[sound:the-kilometre.webm]	/lə kilɔmɛtʁ/	кілометр
+la corde	the rope / the string	[sound:the-rope-the-string.webm]	/la kɔʁd/	мотузка / струна
+accueillir	to welcome	[sound:to-welcome.webm]	/akœjiʁ/	приймати, зустрічати (гостей)
+la danse	the dance	[sound:the-dance.webm]	/la dɑ̃s/	танець
+le contrôle	the control / the check / the test	[sound:the-control-the-check-the-test.webm]	/lə kɔ̃tʁol/	контроль / перевірка / контрольна
+l'émotion (f.)	the emotion	[sound:the-emotion.webm]	/lemɔsjɔ̃/	емоція
+le dessin	the drawing	[sound:the-drawing-le-dessin.webm]	/lə desɛ̃/	малюнок
+échanger	to exchange	[sound:to-exchange.webm]	/eʃɑ̃ʒe/	обмінювати(ся)
+joyeux / joyeuse	joyful / happy (joyeux anniversaire = happy birthday)	[sound:joyful-happy-joyeux-anniversaire-happy-birthday.webm]	/ʒwajø, ʒwajøz/	радісний / радісна (joyeux anniversaire = з днем народження)
+véritable	real / genuine	[sound:real-genuine.webm]	/veʁitabl/	справжній
+la réunion	the meeting	[sound:the-meeting.webm]	/la ʁeynjɔ̃/	нарада, збори
+la terrasse	the terrace / the patio	[sound:the-terrace-the-patio.webm]	/la tɛʁas/	тераса
+le samedi	Saturday	[sound:saturday.webm]	/lə samədi/	субота
+la mode	the fashion (le mode = the mode / method)	[sound:the-fashion-le-mode-the-mode-method.webm]	/la mɔd/	мода (le mode = спосіб, режим)
+le pardon	forgiveness / pardon	[sound:forgiveness-pardon.webm]	/lə paʁdɔ̃/	прощення / вибачення
+goûter	to taste / to have an afternoon snack	[sound:to-taste-to-have-an-afternoon-snack.webm]	/ɡute/	куштувати / полуднувати
+réserver	to book / to reserve	[sound:to-book-to-reserve.webm]	/ʁezɛʁve/	бронювати
+la région	the region	[sound:the-region.webm]	/la ʁeʒjɔ̃/	регіон
+brun / brune	brown / dark-haired	[sound:brown-dark-haired.webm]	/bʁœ̃, bʁyn/	коричневий / коричнева, темноволосий
+le lycée	the high school (France)	[sound:the-high-school-france.webm]	/lə lise/	ліцей (старша школа у Франції)
+nul / nulle	useless / bad at (nul en maths)	[sound:useless-bad-at-nul-en-maths.webm]	/nyl/	нікчемний / нікчемна, слабкий у (nul en maths)
+particulier / particulière	particular / private	[sound:particular-private.webm]	/paʁtikylje, paʁtikyljɛʁ/	особливий / особлива, приватний
+l'explication (f.)	the explanation	[sound:the-explanation.webm]	/lɛksplikasjɔ̃/	пояснення
+le paysage	the landscape / the scenery	[sound:the-landscape-the-scenery.webm]	/lə peizaʒ/	краєвид, пейзаж
+superbe	superb / gorgeous	[sound:superb-gorgeous.webm]	/sypɛʁb/	чудовий, розкішний
+la date	the date	[sound:the-date.webm]	/la dat/	дата

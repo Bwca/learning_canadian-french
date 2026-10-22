@@ -1,50 +1,50 @@
-depuis	since / for (time)	[sound:since-for-time.webm]	/dəpɥi/
-les gens	people	[sound:people.webm]	/le ʒɑ̃/
-rendre	to give back / to make (rendre heureux)	[sound:to-give-back-to-make-rendre-heureux.webm]	/ʁɑ̃dʁ/
-finir	to finish	[sound:to-finish.webm]	/finiʁ/
-devenir	to become	[sound:to-become.webm]	/dəvəniʁ/
-vivre	to live	[sound:to-live.webm]	/vivʁ/
-essayer	to try	[sound:to-try.webm]	/eseje/
-le nom	the name	[sound:the-name-le-nom.webm]	/lə nɔ̃/
-la porte	the door	[sound:the-door.webm]	/la pɔʁt/
-perdre	to lose	[sound:to-lose.webm]	/pɛʁdʁ/
-la mort	the death / (le mort = dead person)	[sound:the-death-le-mort-dead-person.webm]	/la mɔʁ/
-jouer	to play	[sound:to-play-jouer.webm]	/ʒwe/
-ouvrir	to open	[sound:to-open.webm]	/uvʁiʁ/
-contre	against	[sound:against.webm]	/kɔ̃tʁ/
-devant	in front of	[sound:in-front-of.webm]	/dəvɑ̃/
-ah	ah	[sound:ah.webm]	/a/
-la peur	the fear (avoir peur = to be afraid)	[sound:the-fear-avoir-peur-to-be-afraid.webm]	/la pœʁ/
-jeune	young	[sound:young.webm]	/ʒœn/
-l'amour (m.)	the love	[sound:the-love.webm]	/lamuʁ/
-commencer	to start / to begin	[sound:to-start-to-begin.webm]	/kɔmɑ̃se/
-le côté	the side	[sound:the-side.webm]	/lə kote/
-tomber	to fall	[sound:to-fall-tomber.webm]	/tɔ̃be/
-entrer	to enter / to come in	[sound:to-enter-to-come-in-entrer.webm]	/ɑ̃tʁe/
-aider	to help	[sound:to-help.webm]	/ede/
-vite	quickly / fast	[sound:quickly-fast.webm]	/vit/
-dernier / dernière	last	[sound:last.webm]	/dɛʁnje, dɛʁnjɛʁ/
-le mot	the word	[sound:the-word.webm]	/lə mo/
-assez	enough	[sound:enough-assez.webm]	/ase/
-tant	so much / so many	[sound:so-much-so-many.webm]	/tɑ̃/
-peu	little / not much	[sound:little-not-much.webm]	/pø/
-rentrer	to come home / to go back in	[sound:to-come-home-to-go-back-in.webm]	/ʁɑ̃tʁe/
-juste	fair / just / right	[sound:fair-just-right.webm]	/ʒyst/
-mal	badly / bad	[sound:badly-bad.webm]	/mal/
-sembler	to seem	[sound:to-seem.webm]	/sɑ̃ble/
-eux	them (stressed)	[sound:them-stressed.webm]	/ø/
-tirer	to pull / to shoot	[sound:to-pull-to-shoot.webm]	/tiʁe/
-vieux / vieille	old	[sound:old.webm]	/vjø, vjɛj/
-porter	to carry / to wear	[sound:to-carry-to-wear.webm]	/pɔʁte/
-écouter	to listen (to)	[sound:to-listen-to.webm]	/ekute/
-la raison	the reason (avoir raison = to be right)	[sound:the-reason-avoir-raison-to-be-right.webm]	/la ʁɛzɔ̃/
-oublier	to forget	[sound:to-forget.webm]	/ublije/
-la place	the place / the seat / the square	[sound:the-place-the-seat-the-square.webm]	/la plas/
-le fait	the fact	[sound:the-fact.webm]	/lə fɛ/
-l'eau (f.)	the water	[sound:the-water.webm]	/lo/
-pendant	during	[sound:during.webm]	/pɑ̃dɑ̃/
-quelqu'un	someone	[sound:someone.webm]	/kɛlkœ̃/
-manger	to eat	[sound:to-eat-manger.webm]	/mɑ̃ʒe/
-la terre	the earth / the ground	[sound:the-earth-the-ground.webm]	/la tɛʁ/
-plaire	to please (ça me plaît = I like it)	[sound:to-please-ca-me-plait-i-like-it.webm]	/plɛʁ/
-la voix	the voice	[sound:the-voice.webm]	/la vwa/
+depuis	since / for (time)	[sound:since-for-time.webm]	/dəpɥi/	з (якогось часу) / протягом
+les gens	people	[sound:people.webm]	/le ʒɑ̃/	люди
+rendre	to give back / to make (rendre heureux)	[sound:to-give-back-to-make-rendre-heureux.webm]	/ʁɑ̃dʁ/	повертати, віддавати / робити (rendre heureux = робити щасливим)
+finir	to finish	[sound:to-finish.webm]	/finiʁ/	закінчувати
+devenir	to become	[sound:to-become.webm]	/dəvəniʁ/	ставати
+vivre	to live	[sound:to-live.webm]	/vivʁ/	жити
+essayer	to try	[sound:to-try.webm]	/eseje/	пробувати, намагатися
+le nom	the name	[sound:the-name-le-nom.webm]	/lə nɔ̃/	ім'я, назва
+la porte	the door	[sound:the-door.webm]	/la pɔʁt/	двері
+perdre	to lose	[sound:to-lose.webm]	/pɛʁdʁ/	губити, втрачати
+la mort	the death / (le mort = dead person)	[sound:the-death-le-mort-dead-person.webm]	/la mɔʁ/	смерть / (le mort = мертвий, покійник)
+jouer	to play	[sound:to-play-jouer.webm]	/ʒwe/	грати
+ouvrir	to open	[sound:to-open.webm]	/uvʁiʁ/	відчиняти
+contre	against	[sound:against.webm]	/kɔ̃tʁ/	проти
+devant	in front of	[sound:in-front-of.webm]	/dəvɑ̃/	перед
+ah	ah	[sound:ah.webm]	/a/	а, ах
+la peur	the fear (avoir peur = to be afraid)	[sound:the-fear-avoir-peur-to-be-afraid.webm]	/la pœʁ/	страх (avoir peur = боятися)
+jeune	young	[sound:young.webm]	/ʒœn/	молодий
+l'amour (m.)	the love	[sound:the-love.webm]	/lamuʁ/	кохання, любов
+commencer	to start / to begin	[sound:to-start-to-begin.webm]	/kɔmɑ̃se/	починати
+le côté	the side	[sound:the-side.webm]	/lə kote/	бік, сторона
+tomber	to fall	[sound:to-fall-tomber.webm]	/tɔ̃be/	падати
+entrer	to enter / to come in	[sound:to-enter-to-come-in-entrer.webm]	/ɑ̃tʁe/	входити, заходити
+aider	to help	[sound:to-help.webm]	/ede/	допомагати
+vite	quickly / fast	[sound:quickly-fast.webm]	/vit/	швидко
+dernier / dernière	last	[sound:last.webm]	/dɛʁnje, dɛʁnjɛʁ/	останній / остання
+le mot	the word	[sound:the-word.webm]	/lə mo/	слово
+assez	enough	[sound:enough-assez.webm]	/ase/	досить, достатньо
+tant	so much / so many	[sound:so-much-so-many.webm]	/tɑ̃/	так багато, стільки
+peu	little / not much	[sound:little-not-much.webm]	/pø/	мало, небагато
+rentrer	to come home / to go back in	[sound:to-come-home-to-go-back-in.webm]	/ʁɑ̃tʁe/	повертатися додому / заходити назад
+juste	fair / just / right	[sound:fair-just-right.webm]	/ʒyst/	справедливий / саме, якраз / правильний
+mal	badly / bad	[sound:badly-bad.webm]	/mal/	погано / поганий
+sembler	to seem	[sound:to-seem.webm]	/sɑ̃ble/	здаватися
+eux	them (stressed)	[sound:them-stressed.webm]	/ø/	вони, їх (наголошене)
+tirer	to pull / to shoot	[sound:to-pull-to-shoot.webm]	/tiʁe/	тягнути / стріляти
+vieux / vieille	old	[sound:old.webm]	/vjø, vjɛj/	старий / стара
+porter	to carry / to wear	[sound:to-carry-to-wear.webm]	/pɔʁte/	нести / носити (одяг)
+écouter	to listen (to)	[sound:to-listen-to.webm]	/ekute/	слухати
+la raison	the reason (avoir raison = to be right)	[sound:the-reason-avoir-raison-to-be-right.webm]	/la ʁɛzɔ̃/	причина (avoir raison = мати рацію)
+oublier	to forget	[sound:to-forget.webm]	/ublije/	забувати
+la place	the place / the seat / the square	[sound:the-place-the-seat-the-square.webm]	/la plas/	місце / сидіння / площа
+le fait	the fact	[sound:the-fact.webm]	/lə fɛ/	факт
+l'eau (f.)	the water	[sound:the-water.webm]	/lo/	вода
+pendant	during	[sound:during.webm]	/pɑ̃dɑ̃/	під час
+quelqu'un	someone	[sound:someone.webm]	/kɛlkœ̃/	хтось
+manger	to eat	[sound:to-eat-manger.webm]	/mɑ̃ʒe/	їсти
+la terre	the earth / the ground	[sound:the-earth-the-ground.webm]	/la tɛʁ/	земля / ґрунт
+plaire	to please (ça me plaît = I like it)	[sound:to-please-ca-me-plait-i-like-it.webm]	/plɛʁ/	подобатися (ça me plaît = мені це подобається)
+la voix	the voice	[sound:the-voice.webm]	/la vwa/	голос

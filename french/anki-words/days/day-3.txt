@@ -1,39 +1,39 @@
-à minuit	at midnight
-aujourd’hui	today
-demain	tomorrow
-hier	yesterday
-après-demain	the day after tomorrow
-avant-hier	the day before yesterday
-le matin	in the morning
-l’après-midi	in the afternoon
-le soir	in the evening
-toujours	always
-souvent	often
-le samedi	on Saturdays
-le dimanche	on Sundays
-cette semaine	this week
-le mois prochain	next month
-le mois dernier	last month
-à la fin du mois	at the end of the month
-au début de l’année	at the beginning of the year
-de temps en temps	from time to time
-parfois	sometimes
-avancer	to move forward
-balancer	to swing
-commencer	to start
-défoncer	to smash in
-déplacer	to move
-devancer	to get ahead of
-effacer	to erase
-épicer	to spice
-façonner	to craft, to manufacture
-financer	to finance
-grimacer	to make faces
-influencer	to influence
-lacer	to lace up, to tie
-menacer	to threaten
-percer	to pierce
-placer	to place
-poncer	to sand
-remplacer	to replace
-renoncer	to give up
+à minuit	at midnight			опівночі
+aujourd’hui	today			сьогодні
+demain	tomorrow			завтра
+hier	yesterday			вчора
+après-demain	the day after tomorrow			післязавтра
+avant-hier	the day before yesterday			позавчора
+le matin	in the morning			вранці
+l’après-midi	in the afternoon			по обіді, вдень
+le soir	in the evening			увечері
+toujours	always			завжди
+souvent	often			часто
+le samedi	on Saturdays			по суботах
+le dimanche	on Sundays			по неділях
+cette semaine	this week			цього тижня
+le mois prochain	next month			наступного місяця
+le mois dernier	last month			минулого місяця
+à la fin du mois	at the end of the month			наприкінці місяця
+au début de l’année	at the beginning of the year			на початку року
+de temps en temps	from time to time			час від часу
+parfois	sometimes			іноді
+avancer	to move forward			просуватися вперед
+balancer	to swing			гойдати(ся)
+commencer	to start			починати
+défoncer	to smash in			вибивати, проламувати
+déplacer	to move			переміщувати
+devancer	to get ahead of			випереджати
+effacer	to erase			стирати
+épicer	to spice			приправляти спеціями
+façonner	to craft, to manufacture			виготовляти, майструвати
+financer	to finance			фінансувати
+grimacer	to make faces			кривлятися
+influencer	to influence			впливати
+lacer	to lace up, to tie			шнурувати, зав'язувати
+menacer	to threaten			погрожувати
+percer	to pierce			проколювати
+placer	to place			розміщувати, класти
+poncer	to sand			шліфувати
+remplacer	to replace			замінювати
+renoncer	to give up			відмовлятися

@@ -1,50 +1,50 @@
-éclatant / éclatante	bright / dazzling / striking	[sound:bright-dazzling-striking.webm]	/eklatɑ̃, eklatɑ̃t/
-la rangée	the row	[sound:the-row.webm]	/la ʁɑ̃ʒe/
-singulier / singulière	peculiar / singular	[sound:peculiar-singular.webm]	/sɛ̃ɡylje, sɛ̃ɡyljɛʁ/
-complice	knowing (un regard complice = a knowing look)	[sound:knowing-un-regard-complice-a-knowing-look.webm]	/kɔ̃plis/
-la vanité	the vanity	[sound:the-vanity.webm]	/la vanite/
-feuilleter	to leaf through / to flip through	[sound:to-leaf-through-to-flip-through.webm]	/fœjəte/
-permanent / permanente	permanent	[sound:permanent.webm]	/pɛʁmanɑ̃, pɛʁmanɑ̃t/
-le foulard	the scarf (light)	[sound:the-scarf-light.webm]	/lə fulaʁ/
-la malédiction	the curse	[sound:the-curse.webm]	/la malediksjɔ̃/
-la mélancolie	the melancholy	[sound:the-melancholy.webm]	/la melɑ̃kɔli/
-l'autel (m.)	the altar	[sound:the-altar.webm]	/lotɛl/
-l'exploit (m.)	the feat / the achievement	[sound:the-feat-the-achievement.webm]	/lɛksplwa/
-le peignoir	the bathrobe	[sound:the-bathrobe.webm]	/lə pɛɲwaʁ/
-transférer	to transfer	[sound:to-transfer.webm]	/tʁɑ̃sfeʁe/
-le casino	the casino	[sound:the-casino.webm]	/lə kazino/
-l'audience (f.)	the hearing / the audience	[sound:the-hearing-the-audience.webm]	/lodjɑ̃s/
-nettement	clearly / distinctly	[sound:clearly-distinctly.webm]	/nɛtəmɑ̃/
-la muraille	the (great) wall	[sound:the-great-wall.webm]	/la myʁaj/
-capturer	to capture	[sound:to-capture.webm]	/kaptyʁe/
-la déception	the disappointment	[sound:the-disappointment.webm]	/la desɛpsjɔ̃/
-l'idéal (m.)	the ideal	[sound:the-ideal.webm]	/lideal/
-le clin d'œil	the wink (le clin d'œil)	[sound:the-wink-le-clin-d-il.webm]	/lə klɛ̃ dœj/
-l'ignorance (f.)	the ignorance	[sound:the-ignorance.webm]	/liɲɔʁɑ̃s/
-détenir	to hold / to detain	[sound:to-hold-to-detain.webm]	/dɛtəniʁ/
-l'observation (f.)	the observation / the remark	[sound:the-observation-the-remark.webm]	/lɔpsɛʁvasjɔ̃/
-le travailleur / la travailleuse	the worker	[sound:the-worker.webm]	/lə tʁavajœʁ, la tʁavajøz/
-identique	identical	[sound:identical.webm]	/idɑ̃tik/
-l'attentat (m.)	the attack (terrorist) / the assault	[sound:the-attack-terrorist-the-assault.webm]	/latɑ̃ta/
-légal / légale	legal	[sound:legal.webm]	/leɡal/
-le rite	the rite / the ritual	[sound:the-rite-the-ritual.webm]	/lə ʁit/
-la substance	the substance	[sound:the-substance.webm]	/la sypstɑ̃s/
-le cortège	the procession	[sound:the-procession.webm]	/lə kɔʁtɛʒ/
-incompréhensible	incomprehensible	[sound:incomprehensible.webm]	/ɛ̃kɔ̃pʁeɑ̃sibl/
-le câble	the cable	[sound:the-cable.webm]	/lə kabl/
-le scrupule	the scruple	[sound:the-scruple.webm]	/lə skʁypyl/
-le cognac	the cognac / the brandy	[sound:the-cognac-the-brandy.webm]	/lə kɔɲak/
-le sénateur / la sénatrice	the senator	[sound:the-senator.webm]	/lə senatœʁ, la senatʁis/
-tacher	to stain	[sound:to-stain.webm]	/taʃe/
-l'harmonie (f.)	the harmony	[sound:the-harmony.webm]	/laʁmɔni/
-le mannequin	the model (fashion) / the mannequin	[sound:the-model-fashion-the-mannequin.webm]	/lə mankɛ̃/
-le maquillage	the make-up	[sound:the-make-up.webm]	/lə makijaʒ/
-le bracelet	the bracelet	[sound:the-bracelet-le-bracelet.webm]	/lə bʁasəlɛ/
-abaisser	to lower	[sound:to-lower-abaisser.webm]	/abese/
-le prophète / la prophétesse	the prophet	[sound:the-prophet.webm]	/lə pʁɔfɛt, la pʁɔfɛtɛs/
-le rempart	the rampart	[sound:the-rampart.webm]	/lə ʁɑ̃paʁ/
-proclamer	to proclaim	[sound:to-proclaim.webm]	/pʁɔklame/
-odieux / odieuse	odious / hateful	[sound:odious-hateful.webm]	/ɔdjø, ɔdjøz/
-masquer	to mask / to hide	[sound:to-mask-to-hide.webm]	/maske/
-la confession	the confession	[sound:the-confession.webm]	/la kɔ̃fesjɔ̃/
-le manuscrit	the manuscript	[sound:the-manuscript.webm]	/lə manyskʁi/
+éclatant / éclatante	bright / dazzling / striking	[sound:bright-dazzling-striking.webm]	/eklatɑ̃, eklatɑ̃t/	яскравий / сліпучий / разючий
+la rangée	the row	[sound:the-row.webm]	/la ʁɑ̃ʒe/	ряд
+singulier / singulière	peculiar / singular	[sound:peculiar-singular.webm]	/sɛ̃ɡylje, sɛ̃ɡyljɛʁ/	дивний / однина, особливий
+complice	knowing (un regard complice = a knowing look)	[sound:knowing-un-regard-complice-a-knowing-look.webm]	/kɔ̃plis/	змовницький (un regard complice = змовницький погляд)
+la vanité	the vanity	[sound:the-vanity.webm]	/la vanite/	марнославство
+feuilleter	to leaf through / to flip through	[sound:to-leaf-through-to-flip-through.webm]	/fœjəte/	гортати
+permanent / permanente	permanent	[sound:permanent.webm]	/pɛʁmanɑ̃, pɛʁmanɑ̃t/	постійний / постійна
+le foulard	the scarf (light)	[sound:the-scarf-light.webm]	/lə fulaʁ/	хустка / шарф (легкий)
+la malédiction	the curse	[sound:the-curse.webm]	/la malediksjɔ̃/	прокляття
+la mélancolie	the melancholy	[sound:the-melancholy.webm]	/la melɑ̃kɔli/	меланхолія
+l'autel (m.)	the altar	[sound:the-altar.webm]	/lotɛl/	вівтар
+l'exploit (m.)	the feat / the achievement	[sound:the-feat-the-achievement.webm]	/lɛksplwa/	подвиг / досягнення
+le peignoir	the bathrobe	[sound:the-bathrobe.webm]	/lə pɛɲwaʁ/	халат (банний)
+transférer	to transfer	[sound:to-transfer.webm]	/tʁɑ̃sfeʁe/	переводити / переносити
+le casino	the casino	[sound:the-casino.webm]	/lə kazino/	казино
+l'audience (f.)	the hearing / the audience	[sound:the-hearing-the-audience.webm]	/lodjɑ̃s/	судове засідання / аудиторія
+nettement	clearly / distinctly	[sound:clearly-distinctly.webm]	/nɛtəmɑ̃/	чітко / помітно
+la muraille	the (great) wall	[sound:the-great-wall.webm]	/la myʁaj/	мур
+capturer	to capture	[sound:to-capture.webm]	/kaptyʁe/	захоплювати в полон
+la déception	the disappointment	[sound:the-disappointment.webm]	/la desɛpsjɔ̃/	розчарування
+l'idéal (m.)	the ideal	[sound:the-ideal.webm]	/lideal/	ідеал
+le clin d'œil	the wink (le clin d'œil)	[sound:the-wink-le-clin-d-il.webm]	/lə klɛ̃ dœj/	підморгування
+l'ignorance (f.)	the ignorance	[sound:the-ignorance.webm]	/liɲɔʁɑ̃s/	невігластво
+détenir	to hold / to detain	[sound:to-hold-to-detain.webm]	/dɛtəniʁ/	тримати / утримувати під вартою
+l'observation (f.)	the observation / the remark	[sound:the-observation-the-remark.webm]	/lɔpsɛʁvasjɔ̃/	спостереження / зауваження
+le travailleur / la travailleuse	the worker	[sound:the-worker.webm]	/lə tʁavajœʁ, la tʁavajøz/	працівник / працівниця, трудівник
+identique	identical	[sound:identical.webm]	/idɑ̃tik/	ідентичний, однаковий
+l'attentat (m.)	the attack (terrorist) / the assault	[sound:the-attack-terrorist-the-assault.webm]	/latɑ̃ta/	теракт / замах
+légal / légale	legal	[sound:legal.webm]	/leɡal/	законний / законна
+le rite	the rite / the ritual	[sound:the-rite-the-ritual.webm]	/lə ʁit/	обряд / ритуал
+la substance	the substance	[sound:the-substance.webm]	/la sypstɑ̃s/	речовина
+le cortège	the procession	[sound:the-procession.webm]	/lə kɔʁtɛʒ/	процесія
+incompréhensible	incomprehensible	[sound:incomprehensible.webm]	/ɛ̃kɔ̃pʁeɑ̃sibl/	незрозумілий
+le câble	the cable	[sound:the-cable.webm]	/lə kabl/	кабель
+le scrupule	the scruple	[sound:the-scruple.webm]	/lə skʁypyl/	докори сумління, вагання
+le cognac	the cognac / the brandy	[sound:the-cognac-the-brandy.webm]	/lə kɔɲak/	коньяк
+le sénateur / la sénatrice	the senator	[sound:the-senator.webm]	/lə senatœʁ, la senatʁis/	сенатор / сенаторка
+tacher	to stain	[sound:to-stain.webm]	/taʃe/	плямити
+l'harmonie (f.)	the harmony	[sound:the-harmony.webm]	/laʁmɔni/	гармонія
+le mannequin	the model (fashion) / the mannequin	[sound:the-model-fashion-the-mannequin.webm]	/lə mankɛ̃/	модель (фешн) / манекен
+le maquillage	the make-up	[sound:the-make-up.webm]	/lə makijaʒ/	макіяж
+le bracelet	the bracelet	[sound:the-bracelet-le-bracelet.webm]	/lə bʁasəlɛ/	браслет
+abaisser	to lower	[sound:to-lower-abaisser.webm]	/abese/	опускати / знижувати
+le prophète / la prophétesse	the prophet	[sound:the-prophet.webm]	/lə pʁɔfɛt, la pʁɔfɛtɛs/	пророк / пророчиця
+le rempart	the rampart	[sound:the-rampart.webm]	/lə ʁɑ̃paʁ/	вал (фортечний)
+proclamer	to proclaim	[sound:to-proclaim.webm]	/pʁɔklame/	проголошувати
+odieux / odieuse	odious / hateful	[sound:odious-hateful.webm]	/ɔdjø, ɔdjøz/	огидний / огидна
+masquer	to mask / to hide	[sound:to-mask-to-hide.webm]	/maske/	маскувати / приховувати
+la confession	the confession	[sound:the-confession.webm]	/la kɔ̃fesjɔ̃/	сповідь / зізнання
+le manuscrit	the manuscript	[sound:the-manuscript.webm]	/lə manyskʁi/	рукопис

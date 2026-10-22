@@ -1,50 +1,50 @@
-la question	the question	[sound:the-question.webm]	/la kɛstjɔ̃/
-la rue	the street	[sound:the-street.webm]	/la ʁy/
-l'histoire (f.)	the story / history	[sound:the-story-history.webm]	/listwaʁ/
-répondre	to answer	[sound:to-answer-repondre.webm]	/ʁepɔ̃dʁ/
-l'idée (f.)	the idea	[sound:the-idea.webm]	/lide/
-s'asseoir	to sit (s'asseoir)	[sound:to-sit-s-asseoir.webm]	/saswaʁ/
-la voiture	the car	[sound:the-car.webm]	/la vwatyʁ/
-retrouver	to find again / to meet up with	[sound:to-find-again-to-meet-up-with.webm]	/ʁətʁuve/
-l'argent (m.)	the money / silver	[sound:the-money-silver.webm]	/laʁʒɑ̃/
-car	because / for	[sound:because-for.webm]	/kaʁ/
-le visage	the face	[sound:the-face.webm]	/lə vizaʒ/
-enfin	finally / at last	[sound:finally-at-last.webm]	/ɑ̃fɛ̃/
-la chambre	the bedroom	[sound:the-bedroom-la-chambre.webm]	/la ʃɑ̃bʁ/
-loin	far	[sound:far.webm]	/lwɛ̃/
-le pied	the foot	[sound:the-foot-le-pied.webm]	/lə pje/
-tard	late	[sound:late.webm]	/taʁ/
-l'année (f.)	the year	[sound:the-year-l-annee-f.webm]	/lane/
-marcher	to walk / to work (function)	[sound:to-walk-to-work-function.webm]	/maʁʃe/
-la maman	mom	[sound:mom-la-maman.webm]	/la mamɑ̃/
-travailler	to work	[sound:to-work-travailler.webm]	/tʁavaje/
-monter	to go up / to get on	[sound:to-go-up-to-get-on-monter.webm]	/mɔ̃te/
-seulement	only	[sound:only.webm]	/sœləmɑ̃/
-ainsi	thus / so	[sound:thus-so-ainsi.webm]	/ɛ̃si/
-le matin	the morning	[sound:the-morning-le-matin.webm]	/lə matɛ̃/
-la famille	the family	[sound:the-family.webm]	/la famij/
-changer	to change	[sound:to-change.webm]	/ʃɑ̃ʒe/
-le travail	the work / the job	[sound:the-work-the-job.webm]	/lə tʁavaj/
-dormir	to sleep	[sound:to-sleep.webm]	/dɔʁmiʁ/
-la ville	the city / the town	[sound:the-city-the-town.webm]	/la vil/
-écrire	to write	[sound:to-write.webm]	/ekʁiʁ/
-presque	almost	[sound:almost.webm]	/pʁɛsk/
-l'affaire (f.)	the matter / the business (les affaires = belongings, business)	[sound:the-matter-the-business-les-affaires-belongings-business.webm]	/lafɛʁ/
-le cœur	the heart	[sound:the-heart.webm]	/lə kœʁ/
-le bras	the arm	[sound:the-arm.webm]	/lə bʁa/
-apprendre	to learn	[sound:to-learn.webm]	/apʁɑ̃dʁ/
-noir / noire	black	[sound:black.webm]	/nwaʁ/
-la part	the share / the part (de la part de = from)	[sound:the-share-the-part-de-la-part-de-from.webm]	/la paʁ/
-poser	to put down / to ask (a question)	[sound:to-put-down-to-ask-a-question.webm]	/poze/
-longtemps	for a long time	[sound:for-a-long-time.webm]	/lɔ̃tɑ̃/
-bonjour	hello / good morning	[sound:hello-good-morning.webm]	/bɔ̃ʒuʁ/
-gros / grosse	big / fat	[sound:big-fat.webm]	/ɡʁo, ɡʁos/
-le problème	the problem	[sound:the-problem-le-probleme.webm]	/lə pʁɔblɛm/
-boire	to drink	[sound:to-drink.webm]	/bwaʁ/
-long / longue	long	[sound:long-long-longue.webm]	/lɔ̃, lɔ̃ɡ/
-le frère	the brother	[sound:the-brother-le-frere.webm]	/lə fʁɛʁ/
-lever	to raise / to lift (se lever = to get up)	[sound:to-raise-to-lift-se-lever-to-get-up.webm]	/ləve/
-lire	to read	[sound:to-read.webm]	/liʁ/
-montrer	to show	[sound:to-show.webm]	/mɔ̃tʁe/
-la peine	the trouble / the sorrow (ce n'est pas la peine = no need)	[sound:the-trouble-the-sorrow-ce-n-est-pas-la-peine-no-need.webm]	/la pɛn/
-servir	to serve / to be used for	[sound:to-serve-to-be-used-for.webm]	/sɛʁviʁ/
+la question	the question	[sound:the-question.webm]	/la kɛstjɔ̃/	питання, запитання
+la rue	the street	[sound:the-street.webm]	/la ʁy/	вулиця
+l'histoire (f.)	the story / history	[sound:the-story-history.webm]	/listwaʁ/	історія, розповідь / історія (наука)
+répondre	to answer	[sound:to-answer-repondre.webm]	/ʁepɔ̃dʁ/	відповідати
+l'idée (f.)	the idea	[sound:the-idea.webm]	/lide/	ідея, думка
+s'asseoir	to sit (s'asseoir)	[sound:to-sit-s-asseoir.webm]	/saswaʁ/	сідати
+la voiture	the car	[sound:the-car.webm]	/la vwatyʁ/	машина, автомобіль
+retrouver	to find again / to meet up with	[sound:to-find-again-to-meet-up-with.webm]	/ʁətʁuve/	знову знайти / зустрітися з
+l'argent (m.)	the money / silver	[sound:the-money-silver.webm]	/laʁʒɑ̃/	гроші / срібло
+car	because / for	[sound:because-for.webm]	/kaʁ/	бо, адже
+le visage	the face	[sound:the-face.webm]	/lə vizaʒ/	обличчя
+enfin	finally / at last	[sound:finally-at-last.webm]	/ɑ̃fɛ̃/	нарешті
+la chambre	the bedroom	[sound:the-bedroom-la-chambre.webm]	/la ʃɑ̃bʁ/	спальня, кімната
+loin	far	[sound:far.webm]	/lwɛ̃/	далеко
+le pied	the foot	[sound:the-foot-le-pied.webm]	/lə pje/	нога (стопа)
+tard	late	[sound:late.webm]	/taʁ/	пізно
+l'année (f.)	the year	[sound:the-year-l-annee-f.webm]	/lane/	рік
+marcher	to walk / to work (function)	[sound:to-walk-to-work-function.webm]	/maʁʃe/	ходити / працювати (про пристрій)
+la maman	mom	[sound:mom-la-maman.webm]	/la mamɑ̃/	мама
+travailler	to work	[sound:to-work-travailler.webm]	/tʁavaje/	працювати
+monter	to go up / to get on	[sound:to-go-up-to-get-on-monter.webm]	/mɔ̃te/	підніматися / сідати (у транспорт)
+seulement	only	[sound:only.webm]	/sœləmɑ̃/	лише, тільки
+ainsi	thus / so	[sound:thus-so-ainsi.webm]	/ɛ̃si/	так, таким чином
+le matin	the morning	[sound:the-morning-le-matin.webm]	/lə matɛ̃/	ранок
+la famille	the family	[sound:the-family.webm]	/la famij/	родина, сім'я
+changer	to change	[sound:to-change.webm]	/ʃɑ̃ʒe/	змінювати(ся)
+le travail	the work / the job	[sound:the-work-the-job.webm]	/lə tʁavaj/	робота, праця
+dormir	to sleep	[sound:to-sleep.webm]	/dɔʁmiʁ/	спати
+la ville	the city / the town	[sound:the-city-the-town.webm]	/la vil/	місто
+écrire	to write	[sound:to-write.webm]	/ekʁiʁ/	писати
+presque	almost	[sound:almost.webm]	/pʁɛsk/	майже
+l'affaire (f.)	the matter / the business (les affaires = belongings, business)	[sound:the-matter-the-business-les-affaires-belongings-business.webm]	/lafɛʁ/	справа / бізнес (les affaires = речі, справи)
+le cœur	the heart	[sound:the-heart.webm]	/lə kœʁ/	серце
+le bras	the arm	[sound:the-arm.webm]	/lə bʁa/	рука (від плеча)
+apprendre	to learn	[sound:to-learn.webm]	/apʁɑ̃dʁ/	вчити(ся), дізнаватися
+noir / noire	black	[sound:black.webm]	/nwaʁ/	чорний / чорна
+la part	the share / the part (de la part de = from)	[sound:the-share-the-part-de-la-part-de-from.webm]	/la paʁ/	частка, частина (de la part de = від)
+poser	to put down / to ask (a question)	[sound:to-put-down-to-ask-a-question.webm]	/poze/	класти / ставити (запитання)
+longtemps	for a long time	[sound:for-a-long-time.webm]	/lɔ̃tɑ̃/	довго
+bonjour	hello / good morning	[sound:hello-good-morning.webm]	/bɔ̃ʒuʁ/	добрий день / доброго ранку
+gros / grosse	big / fat	[sound:big-fat.webm]	/ɡʁo, ɡʁos/	великий / товстий, товста
+le problème	the problem	[sound:the-problem-le-probleme.webm]	/lə pʁɔblɛm/	проблема
+boire	to drink	[sound:to-drink.webm]	/bwaʁ/	пити
+long / longue	long	[sound:long-long-longue.webm]	/lɔ̃, lɔ̃ɡ/	довгий / довга
+le frère	the brother	[sound:the-brother-le-frere.webm]	/lə fʁɛʁ/	брат
+lever	to raise / to lift (se lever = to get up)	[sound:to-raise-to-lift-se-lever-to-get-up.webm]	/ləve/	піднімати (se lever = вставати)
+lire	to read	[sound:to-read.webm]	/liʁ/	читати
+montrer	to show	[sound:to-show.webm]	/mɔ̃tʁe/	показувати
+la peine	the trouble / the sorrow (ce n'est pas la peine = no need)	[sound:the-trouble-the-sorrow-ce-n-est-pas-la-peine-no-need.webm]	/la pɛn/	клопіт / горе (ce n'est pas la peine = не варто)
+servir	to serve / to be used for	[sound:to-serve-to-be-used-for.webm]	/sɛʁviʁ/	служити, подавати / слугувати для

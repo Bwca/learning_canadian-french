@@ -1,50 +1,50 @@
-immobile	still / motionless	[sound:still-motionless.webm]	/imɔbil/
-virer	to turn / to transfer (money) / to fire (slang)	[sound:to-turn-to-transfer-money-to-fire-slang.webm]	/viʁe/
-le système	the system	[sound:the-system.webm]	/lə sistɛm/
-autrefois	in the past / formerly	[sound:in-the-past-formerly.webm]	/otʁəfwa/
-le poids	the weight	[sound:the-weight.webm]	/lə pwa/
-le tort	the wrong (avoir tort = to be wrong)	[sound:the-wrong-avoir-tort-to-be-wrong.webm]	/lə tɔʁ/
-chasser	to hunt / to chase away	[sound:to-hunt-to-chase-away.webm]	/ʃase/
-le / la ministre	the minister	[sound:the-minister.webm]	/lə, la ministʁ/
-l'existence (f.)	the existence	[sound:the-existence.webm]	/lɛɡzistɑ̃s/
-la volonté	the will / the willpower	[sound:the-will-the-willpower.webm]	/la vɔlɔ̃te/
-hurler	to scream / to yell	[sound:to-scream-to-yell.webm]	/yʁle/
-dépasser	to go past / to overtake / to exceed	[sound:to-go-past-to-overtake-to-exceed.webm]	/depase/
-la valise	the suitcase	[sound:the-suitcase.webm]	/la valiz/
-apprécier	to appreciate / to like	[sound:to-appreciate-to-like.webm]	/apʁesje/
-le fauteuil	the armchair	[sound:the-armchair.webm]	/lə fotœj/
-le pote	the buddy / the pal (informal)	[sound:the-buddy-the-pal-informal.webm]	/lə pɔt/
-reculer	to back up / to move back	[sound:to-back-up-to-move-back.webm]	/ʁəkyle/
-le membre	the member / the limb	[sound:the-member-the-limb.webm]	/lə mɑ̃bʁ/
-le témoin	the witness	[sound:the-witness.webm]	/lə temwɛ̃/
-la figure	the face / the figure	[sound:the-face-the-figure.webm]	/la fiɡyʁ/
-le destin	the destiny / the fate	[sound:the-destiny-the-fate.webm]	/lə destɛ̃/
-accorder	to grant / to give / to tune (s'accorder = to agree)	[sound:to-grant-to-give-to-tune-s-accorder-to-agree.webm]	/akɔʁde/
-le meurtre	the murder	[sound:the-murder.webm]	/lə mœʁtʁ/
-rose	pink	[sound:pink.webm]	/ʁoz/
-l'intention (f.)	the intention	[sound:the-intention.webm]	/lɛ̃tɑ̃sjɔ̃/
-la patte	the paw / the leg (animal)	[sound:the-paw-the-leg-animal.webm]	/la pat/
-le risque	the risk	[sound:the-risk.webm]	/lə ʁisk/
-rapporter	to bring back / to report / to earn	[sound:to-bring-back-to-report-to-earn.webm]	/ʁapɔʁte/
-plonger	to dive	[sound:to-dive.webm]	/plɔ̃ʒe/
-dresser	to set up / to put up / to train (animal)	[sound:to-set-up-to-put-up-to-train-animal.webm]	/dʁese/
-la gorge	the throat	[sound:the-throat.webm]	/la ɡɔʁʒ/
-écarter	to move aside / to spread apart	[sound:to-move-aside-to-spread-apart.webm]	/ekaʁte/
-nourrir	to feed	[sound:to-feed.webm]	/nuʁiʁ/
-briser	to break / to shatter	[sound:to-break-to-shatter.webm]	/bʁize/
-parfaitement	perfectly	[sound:perfectly.webm]	/paʁfɛtəmɑ̃/
-brusquement	suddenly / abruptly	[sound:suddenly-abruptly.webm]	/bʁyskəmɑ̃/
-dedans	inside	[sound:inside.webm]	/dədɑ̃/
-unique	unique / only	[sound:unique-only.webm]	/ynik/
-le poil	the hair (body, animal)	[sound:the-hair-body-animal.webm]	/lə pwal/
-signifier	to mean	[sound:to-mean.webm]	/siɲifje/
-piquer	to sting / to bite / to steal (informal)	[sound:to-sting-to-bite-to-steal-informal.webm]	/pike/
-la bonne	the maid	[sound:the-maid.webm]	/la bɔn/
-la somme	the sum / the amount (faire un somme = to take a nap)	[sound:the-sum-the-amount-faire-un-somme-to-take-a-nap.webm]	/la sɔm/
-l'acte (m.)	the act / the certificate (l'acte de naissance)	[sound:the-act-the-certificate-l-acte-de-naissance.webm]	/lakt/
-la mine	the look / the expression (avoir bonne mine = to look well) / the mine	[sound:the-look-the-expression-avoir-bonne-mine-to-look-well-the.webm]	/la min/
-le trait	the feature / the line / the trait	[sound:the-feature-the-line-the-trait.webm]	/lə tʁɛ/
-l'événement (m.)	the event	[sound:the-event.webm]	/levɛnəmɑ̃/
-la folie	the madness	[sound:the-madness.webm]	/la fɔli/
-l'acteur (m.) / l'actrice (f.)	the actor / the actress	[sound:the-actor-the-actress.webm]	/laktœʁ, laktʁis/
-convenir	to suit / to agree (convenir de)	[sound:to-suit-to-agree-convenir-de.webm]	/kɔ̃vəniʁ/
+immobile	still / motionless	[sound:still-motionless.webm]	/imɔbil/	нерухомий
+virer	to turn / to transfer (money) / to fire (slang)	[sound:to-turn-to-transfer-money-to-fire-slang.webm]	/viʁe/	повертати / переказувати (гроші) / звільняти (сленг)
+le système	the system	[sound:the-system.webm]	/lə sistɛm/	система
+autrefois	in the past / formerly	[sound:in-the-past-formerly.webm]	/otʁəfwa/	колись, раніше
+le poids	the weight	[sound:the-weight.webm]	/lə pwa/	вага
+le tort	the wrong (avoir tort = to be wrong)	[sound:the-wrong-avoir-tort-to-be-wrong.webm]	/lə tɔʁ/	неправота (avoir tort = помилятися)
+chasser	to hunt / to chase away	[sound:to-hunt-to-chase-away.webm]	/ʃase/	полювати / виганяти
+le / la ministre	the minister	[sound:the-minister.webm]	/lə, la ministʁ/	міністр / міністерка
+l'existence (f.)	the existence	[sound:the-existence.webm]	/lɛɡzistɑ̃s/	існування
+la volonté	the will / the willpower	[sound:the-will-the-willpower.webm]	/la vɔlɔ̃te/	воля / сила волі
+hurler	to scream / to yell	[sound:to-scream-to-yell.webm]	/yʁle/	кричати, верещати
+dépasser	to go past / to overtake / to exceed	[sound:to-go-past-to-overtake-to-exceed.webm]	/depase/	проходити повз / обганяти / перевищувати
+la valise	the suitcase	[sound:the-suitcase.webm]	/la valiz/	валіза
+apprécier	to appreciate / to like	[sound:to-appreciate-to-like.webm]	/apʁesje/	цінувати / любити
+le fauteuil	the armchair	[sound:the-armchair.webm]	/lə fotœj/	крісло
+le pote	the buddy / the pal (informal)	[sound:the-buddy-the-pal-informal.webm]	/lə pɔt/	приятель, кореш (розм.)
+reculer	to back up / to move back	[sound:to-back-up-to-move-back.webm]	/ʁəkyle/	задкувати / відступати
+le membre	the member / the limb	[sound:the-member-the-limb.webm]	/lə mɑ̃bʁ/	член / кінцівка
+le témoin	the witness	[sound:the-witness.webm]	/lə temwɛ̃/	свідок
+la figure	the face / the figure	[sound:the-face-the-figure.webm]	/la fiɡyʁ/	обличчя / фігура
+le destin	the destiny / the fate	[sound:the-destiny-the-fate.webm]	/lə destɛ̃/	доля
+accorder	to grant / to give / to tune (s'accorder = to agree)	[sound:to-grant-to-give-to-tune-s-accorder-to-agree.webm]	/akɔʁde/	надавати / давати / настроювати (s'accorder = погоджуватися)
+le meurtre	the murder	[sound:the-murder.webm]	/lə mœʁtʁ/	вбивство
+rose	pink	[sound:pink.webm]	/ʁoz/	рожевий
+l'intention (f.)	the intention	[sound:the-intention.webm]	/lɛ̃tɑ̃sjɔ̃/	намір
+la patte	the paw / the leg (animal)	[sound:the-paw-the-leg-animal.webm]	/la pat/	лапа / нога (тварини)
+le risque	the risk	[sound:the-risk.webm]	/lə ʁisk/	ризик
+rapporter	to bring back / to report / to earn	[sound:to-bring-back-to-report-to-earn.webm]	/ʁapɔʁte/	приносити назад / доповідати / приносити дохід
+plonger	to dive	[sound:to-dive.webm]	/plɔ̃ʒe/	пірнати
+dresser	to set up / to put up / to train (animal)	[sound:to-set-up-to-put-up-to-train-animal.webm]	/dʁese/	ставити / встановлювати / дресирувати
+la gorge	the throat	[sound:the-throat.webm]	/la ɡɔʁʒ/	горло
+écarter	to move aside / to spread apart	[sound:to-move-aside-to-spread-apart.webm]	/ekaʁte/	відсувати / розсувати
+nourrir	to feed	[sound:to-feed.webm]	/nuʁiʁ/	годувати
+briser	to break / to shatter	[sound:to-break-to-shatter.webm]	/bʁize/	розбивати / трощити
+parfaitement	perfectly	[sound:perfectly.webm]	/paʁfɛtəmɑ̃/	досконало, цілком
+brusquement	suddenly / abruptly	[sound:suddenly-abruptly.webm]	/bʁyskəmɑ̃/	раптово, різко
+dedans	inside	[sound:inside.webm]	/dədɑ̃/	всередині
+unique	unique / only	[sound:unique-only.webm]	/ynik/	єдиний / унікальний
+le poil	the hair (body, animal)	[sound:the-hair-body-animal.webm]	/lə pwal/	волосина / шерсть
+signifier	to mean	[sound:to-mean.webm]	/siɲifje/	означати
+piquer	to sting / to bite / to steal (informal)	[sound:to-sting-to-bite-to-steal-informal.webm]	/pike/	жалити / кусати / цупити (розм.)
+la bonne	the maid	[sound:the-maid.webm]	/la bɔn/	служниця
+la somme	the sum / the amount (faire un somme = to take a nap)	[sound:the-sum-the-amount-faire-un-somme-to-take-a-nap.webm]	/la sɔm/	сума (faire un somme = подрімати)
+l'acte (m.)	the act / the certificate (l'acte de naissance)	[sound:the-act-the-certificate-l-acte-de-naissance.webm]	/lakt/	акт / свідоцтво (l'acte de naissance = свідоцтво про народження)
+la mine	the look / the expression (avoir bonne mine = to look well) / the mine	[sound:the-look-the-expression-avoir-bonne-mine-to-look-well-the.webm]	/la min/	вигляд / вираз обличчя (avoir bonne mine = добре виглядати) / шахта
+le trait	the feature / the line / the trait	[sound:the-feature-the-line-the-trait.webm]	/lə tʁɛ/	риса / лінія
+l'événement (m.)	the event	[sound:the-event.webm]	/levɛnəmɑ̃/	подія
+la folie	the madness	[sound:the-madness.webm]	/la fɔli/	божевілля
+l'acteur (m.) / l'actrice (f.)	the actor / the actress	[sound:the-actor-the-actress.webm]	/laktœʁ, laktʁis/	актор / акторка
+convenir	to suit / to agree (convenir de)	[sound:to-suit-to-agree-convenir-de.webm]	/kɔ̃vəniʁ/	підходити / домовлятися (convenir de)

@@ -1,50 +1,50 @@
-abattre	to knock down / to slaughter	[sound:to-knock-down-to-slaughter.webm]	/abatʁ/
-rompre	to break / to break up	[sound:to-break-to-break-up.webm]	/ʁɔ̃pʁ/
-la distance	the distance	[sound:the-distance.webm]	/la distɑ̃s/
-le poing	the fist	[sound:the-fist.webm]	/lə pwɛ̃/
-le cuir	the leather	[sound:the-leather.webm]	/lə kɥiʁ/
-le drap	the sheet (bed)	[sound:the-sheet-bed.webm]	/lə dʁa/
-mordre	to bite	[sound:to-bite.webm]	/mɔʁdʁ/
-révéler	to reveal	[sound:to-reveal.webm]	/ʁevele/
-naturellement	naturally / of course	[sound:naturally-of-course.webm]	/natyʁɛləmɑ̃/
-réparer	to repair / to fix	[sound:to-repair-to-fix.webm]	/ʁepaʁe/
-l'univers (m.)	the universe	[sound:the-universe.webm]	/lynivɛʁ/
-accuser	to accuse	[sound:to-accuse.webm]	/akyze/
-la vitre	the window pane	[sound:the-window-pane.webm]	/la vitʁ/
-le cerveau	the brain	[sound:the-brain.webm]	/lə sɛʁvo/
-faible	weak	[sound:weak.webm]	/fɛbl/
-la goutte	the drop	[sound:the-drop.webm]	/la ɡut/
-le miroir	the mirror	[sound:the-mirror.webm]	/lə miʁwaʁ/
-la tache	the stain / the spot	[sound:the-stain-the-spot.webm]	/la taʃ/
-enterrer	to bury	[sound:to-bury.webm]	/ɑ̃teʁe/
-la laisse	the leash	[sound:the-leash.webm]	/la lɛs/
-interrompre	to interrupt	[sound:to-interrupt.webm]	/ɛ̃tɛʁɔ̃pʁ/
-le dommage	the damage (c'est dommage = it's a pity)	[sound:the-damage-c-est-dommage-it-s-a-pity.webm]	/lə dɔmaʒ/
-survivre	to survive	[sound:to-survive.webm]	/syʁvivʁ/
-haïr	to hate	[sound:to-hate-hair.webm]	/aiʁ/
-résister	to resist	[sound:to-resist.webm]	/ʁeziste/
-obéir	to obey	[sound:to-obey.webm]	/ɔbeiʁ/
-l'attitude (f.)	the attitude	[sound:the-attitude.webm]	/latityd/
-soigner	to treat / to take care of / to nurse	[sound:to-treat-to-take-care-of-to-nurse.webm]	/swaɲe/
-l'os (m.)	the bone	[sound:the-bone.webm]	/lɔs/
-le chauffeur	the driver / the chauffeur	[sound:the-driver-the-chauffeur.webm]	/lə ʃofœʁ/
-bref / brève	brief / short (bref = in short)	[sound:brief-short-bref-in-short.webm]	/bʁɛf, bʁɛv/
-le mien / la mienne	mine (le mien / la mienne)	[sound:mine-le-mien-la-mienne.webm]	/lə mjɛ̃, la mjɛn/
-contenter	to satisfy (se contenter de = to make do with)	[sound:to-satisfy-se-contenter-de-to-make-do-with.webm]	/kɔ̃tɑ̃te/
-le génie	the genius	[sound:the-genius.webm]	/lə ʒeni/
-fouiller	to search / to rummage	[sound:to-search-to-rummage.webm]	/fuje/
-le monstre	the monster	[sound:the-monster.webm]	/lə mɔ̃stʁ/
-la solitude	the loneliness / the solitude	[sound:the-loneliness-the-solitude.webm]	/la sɔlityd/
-claquer	to slam / to snap	[sound:to-slam-to-snap.webm]	/klake/
-creuser	to dig	[sound:to-dig.webm]	/kʁøze/
-la cellule	the cell	[sound:the-cell.webm]	/la selyl/
-le / la môme	the kid (informal)	[sound:the-kid-informal-le-la-mome.webm]	/lə, la mom/
-contenir	to contain	[sound:to-contain.webm]	/kɔ̃təniʁ/
-l'attente (f.)	the wait (la salle d'attente = waiting room)	[sound:the-wait-la-salle-d-attente-waiting-room.webm]	/latɑ̃t/
-la puissance	the power / the strength	[sound:the-power-the-strength.webm]	/la pɥisɑ̃s/
-condamner	to condemn / to sentence	[sound:to-condemn-to-sentence.webm]	/kɔ̃dane/
-trahir	to betray	[sound:to-betray.webm]	/tʁaiʁ/
-supplier	to beg	[sound:to-beg.webm]	/syplije/
-l'aube (f.)	the dawn	[sound:the-dawn.webm]	/lob/
-étouffer	to suffocate / to stifle	[sound:to-suffocate-to-stifle.webm]	/etufe/
-faillir	to almost (do) (j'ai failli tomber = I almost fell)	[sound:to-almost-do-j-ai-failli-tomber-i-almost-fell.webm]	/fajiʁ/
+abattre	to knock down / to slaughter	[sound:to-knock-down-to-slaughter.webm]	/abatʁ/	збивати, валити / забивати (худобу)
+rompre	to break / to break up	[sound:to-break-to-break-up.webm]	/ʁɔ̃pʁ/	ламати / розривати (стосунки)
+la distance	the distance	[sound:the-distance.webm]	/la distɑ̃s/	відстань
+le poing	the fist	[sound:the-fist.webm]	/lə pwɛ̃/	кулак
+le cuir	the leather	[sound:the-leather.webm]	/lə kɥiʁ/	шкіра (вичинена)
+le drap	the sheet (bed)	[sound:the-sheet-bed.webm]	/lə dʁa/	простирадло
+mordre	to bite	[sound:to-bite.webm]	/mɔʁdʁ/	кусати
+révéler	to reveal	[sound:to-reveal.webm]	/ʁevele/	розкривати
+naturellement	naturally / of course	[sound:naturally-of-course.webm]	/natyʁɛləmɑ̃/	природно / звісно
+réparer	to repair / to fix	[sound:to-repair-to-fix.webm]	/ʁepaʁe/	ремонтувати, лагодити
+l'univers (m.)	the universe	[sound:the-universe.webm]	/lynivɛʁ/	всесвіт
+accuser	to accuse	[sound:to-accuse.webm]	/akyze/	звинувачувати
+la vitre	the window pane	[sound:the-window-pane.webm]	/la vitʁ/	шибка
+le cerveau	the brain	[sound:the-brain.webm]	/lə sɛʁvo/	мозок
+faible	weak	[sound:weak.webm]	/fɛbl/	слабкий
+la goutte	the drop	[sound:the-drop.webm]	/la ɡut/	крапля
+le miroir	the mirror	[sound:the-mirror.webm]	/lə miʁwaʁ/	дзеркало
+la tache	the stain / the spot	[sound:the-stain-the-spot.webm]	/la taʃ/	пляма
+enterrer	to bury	[sound:to-bury.webm]	/ɑ̃teʁe/	ховати (покійника)
+la laisse	the leash	[sound:the-leash.webm]	/la lɛs/	повідець
+interrompre	to interrupt	[sound:to-interrupt.webm]	/ɛ̃tɛʁɔ̃pʁ/	переривати
+le dommage	the damage (c'est dommage = it's a pity)	[sound:the-damage-c-est-dommage-it-s-a-pity.webm]	/lə dɔmaʒ/	шкода, збиток (c'est dommage = шкода)
+survivre	to survive	[sound:to-survive.webm]	/syʁvivʁ/	виживати
+haïr	to hate	[sound:to-hate-hair.webm]	/aiʁ/	ненавидіти
+résister	to resist	[sound:to-resist.webm]	/ʁeziste/	опиратися, чинити опір
+obéir	to obey	[sound:to-obey.webm]	/ɔbeiʁ/	слухатися
+l'attitude (f.)	the attitude	[sound:the-attitude.webm]	/latityd/	ставлення
+soigner	to treat / to take care of / to nurse	[sound:to-treat-to-take-care-of-to-nurse.webm]	/swaɲe/	лікувати / доглядати
+l'os (m.)	the bone	[sound:the-bone.webm]	/lɔs/	кістка
+le chauffeur	the driver / the chauffeur	[sound:the-driver-the-chauffeur.webm]	/lə ʃofœʁ/	водій / шофер
+bref / brève	brief / short (bref = in short)	[sound:brief-short-bref-in-short.webm]	/bʁɛf, bʁɛv/	стислий / короткий (bref = коротше кажучи)
+le mien / la mienne	mine (le mien / la mienne)	[sound:mine-le-mien-la-mienne.webm]	/lə mjɛ̃, la mjɛn/	мій / моя (le mien / la mienne)
+contenter	to satisfy (se contenter de = to make do with)	[sound:to-satisfy-se-contenter-de-to-make-do-with.webm]	/kɔ̃tɑ̃te/	задовольняти (se contenter de = обходитися)
+le génie	the genius	[sound:the-genius.webm]	/lə ʒeni/	геній
+fouiller	to search / to rummage	[sound:to-search-to-rummage.webm]	/fuje/	обшукувати / нишпорити
+le monstre	the monster	[sound:the-monster.webm]	/lə mɔ̃stʁ/	чудовисько
+la solitude	the loneliness / the solitude	[sound:the-loneliness-the-solitude.webm]	/la sɔlityd/	самотність
+claquer	to slam / to snap	[sound:to-slam-to-snap.webm]	/klake/	грюкати / клацати
+creuser	to dig	[sound:to-dig.webm]	/kʁøze/	копати
+la cellule	the cell	[sound:the-cell.webm]	/la selyl/	клітина / камера
+le / la môme	the kid (informal)	[sound:the-kid-informal-le-la-mome.webm]	/lə, la mom/	малий, дитина (розм.)
+contenir	to contain	[sound:to-contain.webm]	/kɔ̃təniʁ/	містити
+l'attente (f.)	the wait (la salle d'attente = waiting room)	[sound:the-wait-la-salle-d-attente-waiting-room.webm]	/latɑ̃t/	очікування (la salle d'attente = зала очікування)
+la puissance	the power / the strength	[sound:the-power-the-strength.webm]	/la pɥisɑ̃s/	сила / могутність
+condamner	to condemn / to sentence	[sound:to-condemn-to-sentence.webm]	/kɔ̃dane/	засуджувати
+trahir	to betray	[sound:to-betray.webm]	/tʁaiʁ/	зраджувати
+supplier	to beg	[sound:to-beg.webm]	/syplije/	благати
+l'aube (f.)	the dawn	[sound:the-dawn.webm]	/lob/	світанок
+étouffer	to suffocate / to stifle	[sound:to-suffocate-to-stifle.webm]	/etufe/	задихатися / придушувати
+faillir	to almost (do) (j'ai failli tomber = I almost fell)	[sound:to-almost-do-j-ai-failli-tomber-i-almost-fell.webm]	/fajiʁ/	мало не (j'ai failli tomber = я мало не впав)

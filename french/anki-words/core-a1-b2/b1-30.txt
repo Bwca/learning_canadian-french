@@ -1,50 +1,50 @@
-la gratitude	the gratitude	[sound:the-gratitude.webm]	/la ɡʁatityd/
-la baisse	the drop / the decrease	[sound:the-drop-the-decrease.webm]	/la bɛs/
-la proportion	the proportion	[sound:the-proportion.webm]	/la pʁɔpɔʁsjɔ̃/
-la constitution	the constitution	[sound:the-constitution.webm]	/la kɔ̃stitysjɔ̃/
-la dépense	the expense	[sound:the-expense.webm]	/la depɑ̃s/
-paresseux / paresseuse	lazy	[sound:lazy.webm]	/paʁɛsø, paʁɛsøz/
-durcir	to harden	[sound:to-harden.webm]	/dyʁsiʁ/
-équiper	to equip	[sound:to-equip.webm]	/ekipe/
-la condamnation	the sentence / the conviction (court)	[sound:the-sentence-the-conviction-court.webm]	/la kɔ̃danasjɔ̃/
-la porcelaine	the porcelain / the china	[sound:the-porcelain-the-china.webm]	/la pɔʁsəlɛn/
-évaluer	to assess / to evaluate	[sound:to-assess-to-evaluate.webm]	/evalɥe/
-présider	to chair / to preside over	[sound:to-chair-to-preside-over.webm]	/pʁezide/
-mourant / mourante	dying	[sound:dying.webm]	/muʁɑ̃, muʁɑ̃t/
-le devant	the front	[sound:the-front.webm]	/lə dəvɑ̃/
-roman / romane	Romanesque / Romance (languages)	[sound:romanesque-romance-languages.webm]	/ʁɔmɑ̃, ʁɔman/
-la rédaction	the writing / the essay / the editorial staff	[sound:the-writing-the-essay-the-editorial-staff.webm]	/la ʁedaksjɔ̃/
-désespérément	desperately	[sound:desperately.webm]	/dezɛspeʁemɑ̃/
-intégrer	to integrate / to join	[sound:to-integrate-to-join.webm]	/ɛ̃teɡʁe/
-les frites (f.)	the fries / the chips	[sound:the-fries-the-chips.webm]	/le fʁit/
-psychologique	psychological	[sound:psychological.webm]	/psikɔlɔʒik/
-curieusement	curiously / oddly	[sound:curiously-oddly.webm]	/kyʁjøzəmɑ̃/
-maigrir	to lose weight	[sound:to-lose-weight.webm]	/meɡʁiʁ/
-mineur / mineure	minor	[sound:minor.webm]	/minœʁ/
-aménager	to fit out / to arrange / to develop (land)	[sound:to-fit-out-to-arrange-to-develop-land.webm]	/amenaʒe/
-déprimer	to depress (déprimé = depressed)	[sound:to-depress-deprime-depressed.webm]	/depʁime/
-l'option (f.)	the option	[sound:the-option.webm]	/lɔpsjɔ̃/
-le gagnant / la gagnante	the winner	[sound:the-winner-le-gagnant-la-gagnante.webm]	/lə ɡaɲɑ̃, la ɡaɲɑ̃t/
-l'inconvénient (m.)	the drawback / the disadvantage	[sound:the-drawback-the-disadvantage.webm]	/lɛ̃kɔ̃venjɑ̃/
-quasiment	almost / practically	[sound:almost-practically.webm]	/kazimɑ̃/
-intituler	to title / to entitle	[sound:to-title-to-entitle.webm]	/ɛ̃tityle/
-le souper	dinner (Québec) / supper	[sound:dinner-quebec-supper.webm]	/lə supe/
-rattacher	to tie up / to link	[sound:to-tie-up-to-link.webm]	/ʁataʃe/
-le fichier	the file (computer)	[sound:the-file-computer.webm]	/lə fiʃje/
-le cycle	the cycle	[sound:the-cycle.webm]	/lə sikl/
-la compétition	the competition	[sound:the-competition.webm]	/la kɔ̃petisjɔ̃/
-la bourgeoisie	the middle class / the bourgeoisie	[sound:the-middle-class-the-bourgeoisie.webm]	/la buʁʒwazi/
-la quinzaine	about fifteen / two weeks (une quinzaine de jours)	[sound:about-fifteen-two-weeks-une-quinzaine-de-jours.webm]	/la kɛ̃zɛn/
-les alentours (m.)	the surroundings (aux alentours = around)	[sound:the-surroundings-aux-alentours-around.webm]	/lez alɑ̃tuʁ/
-le nettoyage	the cleaning	[sound:the-cleaning.webm]	/lə netwajaʒ/
-rallumer	to turn back on / to relight	[sound:to-turn-back-on-to-relight.webm]	/ʁalyme/
-désarmer	to disarm	[sound:to-disarm.webm]	/dezaʁme/
-le couturier / la couturière	the fashion designer / the seamstress	[sound:the-fashion-designer-the-seamstress.webm]	/lə kutyʁje, la kutyʁjɛʁ/
-le rhume	the cold (illness)	[sound:the-cold-illness.webm]	/lə ʁym/
-la grippe	the flu	[sound:the-flu.webm]	/la ɡʁip/
-l'entourage (m.)	the people close to someone / the circle	[sound:the-people-close-to-someone-the-circle.webm]	/lɑ̃tuʁaʒ/
-la pousse	the shoot (plant) / the sprout	[sound:the-shoot-plant-the-sprout.webm]	/la pus/
-l'armure (f.)	the armour	[sound:the-armour.webm]	/laʁmyʁ/
-ouest	west (adj., invariable)	[sound:west-adj-invariable.webm]	/wɛst/
-bénéficier	to benefit (from)	[sound:to-benefit-from.webm]	/benefisje/
-le bilan	the assessment / the review / the balance sheet	[sound:the-assessment-the-review-the-balance-sheet.webm]	/lə bilɑ̃/
+la gratitude	the gratitude	[sound:the-gratitude.webm]	/la ɡʁatityd/	вдячність
+la baisse	the drop / the decrease	[sound:the-drop-the-decrease.webm]	/la bɛs/	падіння / зниження
+la proportion	the proportion	[sound:the-proportion.webm]	/la pʁɔpɔʁsjɔ̃/	пропорція
+la constitution	the constitution	[sound:the-constitution.webm]	/la kɔ̃stitysjɔ̃/	конституція
+la dépense	the expense	[sound:the-expense.webm]	/la depɑ̃s/	витрата
+paresseux / paresseuse	lazy	[sound:lazy.webm]	/paʁɛsø, paʁɛsøz/	лінивий / лінива
+durcir	to harden	[sound:to-harden.webm]	/dyʁsiʁ/	твердіти
+équiper	to equip	[sound:to-equip.webm]	/ekipe/	обладнувати, споряджати
+la condamnation	the sentence / the conviction (court)	[sound:the-sentence-the-conviction-court.webm]	/la kɔ̃danasjɔ̃/	вирок / засудження
+la porcelaine	the porcelain / the china	[sound:the-porcelain-the-china.webm]	/la pɔʁsəlɛn/	порцеляна
+évaluer	to assess / to evaluate	[sound:to-assess-to-evaluate.webm]	/evalɥe/	оцінювати
+présider	to chair / to preside over	[sound:to-chair-to-preside-over.webm]	/pʁezide/	головувати
+mourant / mourante	dying	[sound:dying.webm]	/muʁɑ̃, muʁɑ̃t/	вмирущий / вмируща
+le devant	the front	[sound:the-front.webm]	/lə dəvɑ̃/	перед, передня частина
+roman / romane	Romanesque / Romance (languages)	[sound:romanesque-romance-languages.webm]	/ʁɔmɑ̃, ʁɔman/	романський / романська (мови)
+la rédaction	the writing / the essay / the editorial staff	[sound:the-writing-the-essay-the-editorial-staff.webm]	/la ʁedaksjɔ̃/	написання / твір / редакція
+désespérément	desperately	[sound:desperately.webm]	/dezɛspeʁemɑ̃/	відчайдушно
+intégrer	to integrate / to join	[sound:to-integrate-to-join.webm]	/ɛ̃teɡʁe/	інтегрувати / вступати до
+les frites (f.)	the fries / the chips	[sound:the-fries-the-chips.webm]	/le fʁit/	картопля фрі
+psychologique	psychological	[sound:psychological.webm]	/psikɔlɔʒik/	психологічний
+curieusement	curiously / oddly	[sound:curiously-oddly.webm]	/kyʁjøzəmɑ̃/	дивно, цікаво
+maigrir	to lose weight	[sound:to-lose-weight.webm]	/meɡʁiʁ/	худнути
+mineur / mineure	minor	[sound:minor.webm]	/minœʁ/	неповнолітній / незначний
+aménager	to fit out / to arrange / to develop (land)	[sound:to-fit-out-to-arrange-to-develop-land.webm]	/amenaʒe/	облаштовувати / упорядковувати / забудовувати (землю)
+déprimer	to depress (déprimé = depressed)	[sound:to-depress-deprime-depressed.webm]	/depʁime/	пригнічувати (déprimé = пригнічений)
+l'option (f.)	the option	[sound:the-option.webm]	/lɔpsjɔ̃/	варіант, опція
+le gagnant / la gagnante	the winner	[sound:the-winner-le-gagnant-la-gagnante.webm]	/lə ɡaɲɑ̃, la ɡaɲɑ̃t/	переможець / переможниця
+l'inconvénient (m.)	the drawback / the disadvantage	[sound:the-drawback-the-disadvantage.webm]	/lɛ̃kɔ̃venjɑ̃/	недолік / незручність
+quasiment	almost / practically	[sound:almost-practically.webm]	/kazimɑ̃/	майже / практично
+intituler	to title / to entitle	[sound:to-title-to-entitle.webm]	/ɛ̃tityle/	називати, давати назву
+le souper	dinner (Québec) / supper	[sound:dinner-quebec-supper.webm]	/lə supe/	вечеря (у Квебеку)
+rattacher	to tie up / to link	[sound:to-tie-up-to-link.webm]	/ʁataʃe/	прив'язувати / пов'язувати
+le fichier	the file (computer)	[sound:the-file-computer.webm]	/lə fiʃje/	файл
+le cycle	the cycle	[sound:the-cycle.webm]	/lə sikl/	цикл
+la compétition	the competition	[sound:the-competition.webm]	/la kɔ̃petisjɔ̃/	змагання
+la bourgeoisie	the middle class / the bourgeoisie	[sound:the-middle-class-the-bourgeoisie.webm]	/la buʁʒwazi/	буржуазія, середній клас
+la quinzaine	about fifteen / two weeks (une quinzaine de jours)	[sound:about-fifteen-two-weeks-une-quinzaine-de-jours.webm]	/la kɛ̃zɛn/	близько п'ятнадцяти / два тижні (une quinzaine de jours)
+les alentours (m.)	the surroundings (aux alentours = around)	[sound:the-surroundings-aux-alentours-around.webm]	/lez alɑ̃tuʁ/	околиці (aux alentours = поблизу)
+le nettoyage	the cleaning	[sound:the-cleaning.webm]	/lə netwajaʒ/	прибирання, чистка
+rallumer	to turn back on / to relight	[sound:to-turn-back-on-to-relight.webm]	/ʁalyme/	знову вмикати / знову запалювати
+désarmer	to disarm	[sound:to-disarm.webm]	/dezaʁme/	роззброювати
+le couturier / la couturière	the fashion designer / the seamstress	[sound:the-fashion-designer-the-seamstress.webm]	/lə kutyʁje, la kutyʁjɛʁ/	модельєр / кравчиня
+le rhume	the cold (illness)	[sound:the-cold-illness.webm]	/lə ʁym/	нежить, застуда
+la grippe	the flu	[sound:the-flu.webm]	/la ɡʁip/	грип
+l'entourage (m.)	the people close to someone / the circle	[sound:the-people-close-to-someone-the-circle.webm]	/lɑ̃tuʁaʒ/	оточення
+la pousse	the shoot (plant) / the sprout	[sound:the-shoot-plant-the-sprout.webm]	/la pus/	пагін / паросток
+l'armure (f.)	the armour	[sound:the-armour.webm]	/laʁmyʁ/	обладунок
+ouest	west (adj., invariable)	[sound:west-adj-invariable.webm]	/wɛst/	західний (незмінне)
+bénéficier	to benefit (from)	[sound:to-benefit-from.webm]	/benefisje/	мати вигоду (з), користуватися
+le bilan	the assessment / the review / the balance sheet	[sound:the-assessment-the-review-the-balance-sheet.webm]	/lə bilɑ̃/	підсумок / огляд / баланс

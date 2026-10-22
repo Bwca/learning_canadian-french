@@ -1,50 +1,50 @@
-le garçon	the boy	[sound:the-boy.webm]	/lə ɡaʁsɔ̃/
-le poisson	the fish	[sound:the-fish.webm]	/lə pwasɔ̃/
-la leçon	the lesson	[sound:the-lesson.webm]	/la ləsɔ̃/
-la façon	the way / manner	[sound:the-way-manner.webm]	/la fasɔ̃/
-le blouson	the jacket	[sound:the-jacket.webm]	/lə bluzɔ̃/
-le savon	the soap	[sound:the-soap.webm]	/lə savɔ̃/
-le mouton	the sheep	[sound:the-sheep.webm]	/lə mutɔ̃/
-le patron / la patronne	the boss / owner	[sound:the-boss-owner.webm]	/lə patʁɔ̃, la patʁɔn/
-le flan	the custard tart	[sound:the-custard-tart.webm]	/lə flɑ̃/
-le ruban	the ribbon	[sound:the-ribbon.webm]	/lə ʁybɑ̃/
-j'aime	I like / I love	[sound:i-like-i-love.webm]	/ʒɛm/
-anglais / anglaise	English	[sound:english.webm]	/ɑ̃ɡlɛ, ɑ̃ɡlɛz/
-l'anniversaire (m.)	the birthday	[sound:the-birthday.webm]	/lanivɛʁsɛʁ/
-la baleine	the whale	[sound:the-whale.webm]	/la balɛn/
-beige	beige	[sound:beige.webm]	/bɛʒ/
-la chaise	the chair	[sound:the-chair.webm]	/la ʃɛz/
-la craie	the chalk	[sound:the-chalk.webm]	/la kʁɛ/
-la douzaine	the dozen	[sound:the-dozen.webm]	/la duzɛn/
-faire	to do / to make	[sound:to-do-to-make.webm]	/fɛʁ/
-il fait	it's (weather) / he does	[sound:it-s-weather-he-does.webm]	/il fɛ/
-frais / fraîche	cool / fresh	[sound:cool-fresh.webm]	/fʁɛ, fʁɛʃ/
-la fraise	the strawberry	[sound:the-strawberry.webm]	/la fʁɛz/
-français / française	French	[sound:french.webm]	/fʁɑ̃sɛ, fʁɑ̃sɛz/
-jamais	never	[sound:never.webm]	/ʒamɛ/
-l'air (m.)	the air	[sound:the-air.webm]	/lɛʁ/
-la laine	the wool	[sound:the-wool.webm]	/la lɛn/
-le lait	the milk	[sound:the-milk.webm]	/lə lɛ/
-mai	May	[sound:may.webm]	/mɛ/
-mais	but	[sound:but.webm]	/mɛ/
-la neige	the snow	[sound:the-snow.webm]	/la nɛʒ/
-la paire	the pair	[sound:the-pair.webm]	/la pɛʁ/
-la peine (avoir de la peine)	sorrow (to be sad)	[sound:sorrow-to-be-sad.webm]	/la pɛn/
-s'il vous plaît	please (formal)	[sound:please-formal.webm]	/sil vu plɛ/
-prochain / prochaine	next	[sound:next.webm]	/pʁɔʃɛ̃, pʁɔʃɛn/
-seize	sixteen	[sound:sixteen.webm]	/sɛz/
-la semaine	the week	[sound:the-week.webm]	/la səmɛn/
-treize	thirteen	[sound:thirteen.webm]	/tʁɛz/
-vrai / vraie	true	[sound:true.webm]	/vʁɛ/
-épais / épaisse	thick	[sound:thick.webm]	/epɛ, epɛs/
-la reine	the queen	[sound:the-queen.webm]	/la ʁɛn/
-acheter	to buy	[sound:to-buy.webm]	/aʃte/
-aller	to go	[sound:to-go.webm]	/ale/
-comment allez-vous ?	how are you? (formal)	[sound:how-are-you-formal.webm]	/kɔmɑ̃t ale vu/
-brûler	to burn	[sound:to-burn.webm]	/bʁyle/
-le café	the coffee	[sound:the-coffee.webm]	/lə kafe/
-le cahier	the notebook	[sound:the-notebook.webm]	/lə kaje/
-le caissier / la caissière	the cashier	[sound:the-cashier.webm]	/lə kɛsje, la kɛsjɛʁ/
-le casier	the locker	[sound:the-locker.webm]	/lə kazje/
-chez	at (someone's place)	[sound:at-someone-s-place.webm]	/ʃe/
-crier	to shout	[sound:to-shout.webm]	/kʁije/
+le garçon	the boy	[sound:the-boy.webm]	/lə ɡaʁsɔ̃/	хлопчик
+le poisson	the fish	[sound:the-fish.webm]	/lə pwasɔ̃/	риба
+la leçon	the lesson	[sound:the-lesson.webm]	/la ləsɔ̃/	урок
+la façon	the way / manner	[sound:the-way-manner.webm]	/la fasɔ̃/	спосіб, манера
+le blouson	the jacket	[sound:the-jacket.webm]	/lə bluzɔ̃/	куртка
+le savon	the soap	[sound:the-soap.webm]	/lə savɔ̃/	мило
+le mouton	the sheep	[sound:the-sheep.webm]	/lə mutɔ̃/	вівця
+le patron / la patronne	the boss / owner	[sound:the-boss-owner.webm]	/lə patʁɔ̃, la patʁɔn/	начальник / начальниця, власник
+le flan	the custard tart	[sound:the-custard-tart.webm]	/lə flɑ̃/	заварний пиріг (флан)
+le ruban	the ribbon	[sound:the-ribbon.webm]	/lə ʁybɑ̃/	стрічка
+j'aime	I like / I love	[sound:i-like-i-love.webm]	/ʒɛm/	я люблю / мені подобається
+anglais / anglaise	English	[sound:english.webm]	/ɑ̃ɡlɛ, ɑ̃ɡlɛz/	англійський / англійська, англієць
+l'anniversaire (m.)	the birthday	[sound:the-birthday.webm]	/lanivɛʁsɛʁ/	день народження
+la baleine	the whale	[sound:the-whale.webm]	/la balɛn/	кит
+beige	beige	[sound:beige.webm]	/bɛʒ/	бежевий
+la chaise	the chair	[sound:the-chair.webm]	/la ʃɛz/	стілець
+la craie	the chalk	[sound:the-chalk.webm]	/la kʁɛ/	крейда
+la douzaine	the dozen	[sound:the-dozen.webm]	/la duzɛn/	дюжина
+faire	to do / to make	[sound:to-do-to-make.webm]	/fɛʁ/	робити
+il fait	it's (weather) / he does	[sound:it-s-weather-he-does.webm]	/il fɛ/	надворі (про погоду) / він робить
+frais / fraîche	cool / fresh	[sound:cool-fresh.webm]	/fʁɛ, fʁɛʃ/	прохолодний / прохолодна, свіжий
+la fraise	the strawberry	[sound:the-strawberry.webm]	/la fʁɛz/	полуниця
+français / française	French	[sound:french.webm]	/fʁɑ̃sɛ, fʁɑ̃sɛz/	французький / французька, француз
+jamais	never	[sound:never.webm]	/ʒamɛ/	ніколи
+l'air (m.)	the air	[sound:the-air.webm]	/lɛʁ/	повітря
+la laine	the wool	[sound:the-wool.webm]	/la lɛn/	вовна
+le lait	the milk	[sound:the-milk.webm]	/lə lɛ/	молоко
+mai	May	[sound:may.webm]	/mɛ/	травень
+mais	but	[sound:but.webm]	/mɛ/	але
+la neige	the snow	[sound:the-snow.webm]	/la nɛʒ/	сніг
+la paire	the pair	[sound:the-pair.webm]	/la pɛʁ/	пара
+la peine (avoir de la peine)	sorrow (to be sad)	[sound:sorrow-to-be-sad.webm]	/la pɛn/	смуток (сумувати)
+s'il vous plaît	please (formal)	[sound:please-formal.webm]	/sil vu plɛ/	будь ласка (ввічл.)
+prochain / prochaine	next	[sound:next.webm]	/pʁɔʃɛ̃, pʁɔʃɛn/	наступний / наступна
+seize	sixteen	[sound:sixteen.webm]	/sɛz/	шістнадцять
+la semaine	the week	[sound:the-week.webm]	/la səmɛn/	тиждень
+treize	thirteen	[sound:thirteen.webm]	/tʁɛz/	тринадцять
+vrai / vraie	true	[sound:true.webm]	/vʁɛ/	правдивий / правдива, справжній
+épais / épaisse	thick	[sound:thick.webm]	/epɛ, epɛs/	товстий / товста, густий
+la reine	the queen	[sound:the-queen.webm]	/la ʁɛn/	королева
+acheter	to buy	[sound:to-buy.webm]	/aʃte/	купувати
+aller	to go	[sound:to-go.webm]	/ale/	іти, їхати
+comment allez-vous ?	how are you? (formal)	[sound:how-are-you-formal.webm]	/kɔmɑ̃t ale vu/	як ви поживаєте?
+brûler	to burn	[sound:to-burn.webm]	/bʁyle/	горіти, палити
+le café	the coffee	[sound:the-coffee.webm]	/lə kafe/	кава
+le cahier	the notebook	[sound:the-notebook.webm]	/lə kaje/	зошит
+le caissier / la caissière	the cashier	[sound:the-cashier.webm]	/lə kɛsje, la kɛsjɛʁ/	касир / касирка
+le casier	the locker	[sound:the-locker.webm]	/lə kazje/	шафка
+chez	at (someone's place)	[sound:at-someone-s-place.webm]	/ʃe/	у (когось удома)
+crier	to shout	[sound:to-shout.webm]	/kʁije/	кричати

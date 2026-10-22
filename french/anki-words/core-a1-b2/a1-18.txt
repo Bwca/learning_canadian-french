@@ -1,50 +1,50 @@
-la caisse	the cash register / the checkout / the box	[sound:the-cash-register-the-checkout-the-box.webm]	/la kɛs/
-l'étude (f.)	the study (les études = studies)	[sound:the-study-les-etudes-studies.webm]	/letyd/
-réaliser	to carry out / to realize (achieve)	[sound:to-carry-out-to-realize-achieve.webm]	/ʁealize/
-soit	either… or (soit… soit)	[sound:either-or-soit-soit.webm]	/swa/
-étranger / étrangère	foreign	[sound:foreign.webm]	/etʁɑ̃ʒe, etʁɑ̃ʒɛʁ/
-la solution	the solution	[sound:the-solution.webm]	/la sɔlysjɔ̃/
-nombreux / nombreuse	numerous / many	[sound:numerous-many.webm]	/nɔ̃bʁø, nɔ̃bʁøz/
-finalement	finally / in the end	[sound:finally-in-the-end.webm]	/finaləmɑ̃/
-la demande	the request / the application	[sound:the-request-the-application.webm]	/la dəmɑ̃d/
-le sort	the fate	[sound:the-fate.webm]	/lə sɔʁ/
-le midi	noon / midday	[sound:noon-midday.webm]	/lə midi/
-le fruit	the fruit	[sound:the-fruit.webm]	/lə fʁɥi/
-également	also / equally	[sound:also-equally.webm]	/eɡaləmɑ̃/
-le directeur / la directrice	the director / the principal (school)	[sound:the-director-the-principal-school.webm]	/lə diʁɛktœʁ, la diʁɛktʁis/
-transformer	to transform	[sound:to-transform.webm]	/tʁɑ̃sfɔʁme/
-le / la jeune	the young person / the youth	[sound:the-young-person-the-youth.webm]	/lə, la ʒœn/
-parfait / parfaite	perfect	[sound:perfect.webm]	/paʁfɛ, paʁfɛt/
-étudier	to study	[sound:to-study.webm]	/etydje/
-commun / commune	common / shared	[sound:common-shared.webm]	/kɔmœ̃, kɔmyn/
-pendre	to hang	[sound:to-hang.webm]	/pɑ̃dʁ/
-curieux / curieuse	curious	[sound:curious.webm]	/kyʁjø, kyʁjøz/
-admirer	to admire	[sound:to-admire.webm]	/admiʁe/
-la différence	the difference	[sound:the-difference.webm]	/la difeʁɑ̃s/
-le quart	the quarter	[sound:the-quarter.webm]	/lə kaʁ/
-l'information (f.)	the information (les informations = the news)	[sound:the-information-les-informations-the-news.webm]	/lɛ̃fɔʁmasjɔ̃/
-le restaurant	the restaurant	[sound:the-restaurant-le-restaurant.webm]	/lə ʁɛstoʁɑ̃/
-immédiatement	immediately	[sound:immediately.webm]	/imedjatəmɑ̃/
-respecter	to respect	[sound:to-respect.webm]	/ʁɛspɛkte/
-l'immeuble (m.)	the building	[sound:the-building.webm]	/limœbl/
-réunir	to gather / to bring together	[sound:to-gather-to-bring-together.webm]	/ʁeyniʁ/
-le roman	the novel	[sound:the-novel.webm]	/lə ʁɔmɑ̃/
-blond / blonde	blond	[sound:blond.webm]	/blɔ̃, blɔ̃d/
-intéressant / intéressante	interesting	[sound:interesting-interessant-interessante.webm]	/ɛ̃teʁɛsɑ̃, ɛ̃teʁɛsɑ̃t/
-incroyable	incredible / unbelievable	[sound:incredible-unbelievable.webm]	/ɛ̃kʁwajabl/
-la peinture	the paint / the painting	[sound:the-paint-the-painting.webm]	/la pɛ̃tyʁ/
-la zone	the zone / the area	[sound:the-zone-the-area.webm]	/la zon/
-l'appareil (m.)	the device / the appliance	[sound:the-device-the-appliance.webm]	/lapaʁɛj/
-l'anniversaire (m.)	the birthday / the anniversary	[sound:the-birthday-the-anniversary.webm]	/lanivɛʁsɛʁ/
-le parfum	the perfume / the flavour	[sound:the-perfume-the-flavour.webm]	/lə paʁfœ̃/
-charmant / charmante	charming	[sound:charming.webm]	/ʃaʁmɑ̃, ʃaʁmɑ̃t/
-la blague	the joke	[sound:the-joke.webm]	/la blaɡ/
-l'ensemble (m.)	the whole / the set (ensemble = together)	[sound:the-whole-the-set-ensemble-together.webm]	/lɑ̃sɑ̃bl/
-organiser	to organize	[sound:to-organize.webm]	/ɔʁɡanize/
-mince	thin / slim	[sound:thin-slim.webm]	/mɛ̃s/
-l'élève (m./f.)	the pupil / the student	[sound:the-pupil-the-student.webm]	/lelɛv/
-l'usine (f.)	the factory	[sound:the-factory.webm]	/lyzin/
-l'aile (f.)	the wing	[sound:the-wing.webm]	/lɛl/
-anglais / anglaise	English	[sound:english-anglais-anglaise.webm]	/ɑ̃ɡlɛ, ɑ̃ɡlɛz/
-le succès	the success	[sound:the-success.webm]	/lə syksɛ/
-intelligent / intelligente	intelligent / smart	[sound:intelligent-smart.webm]	/ɛ̃teliʒɑ̃, ɛ̃teliʒɑ̃t/
+la caisse	the cash register / the checkout / the box	[sound:the-cash-register-the-checkout-the-box.webm]	/la kɛs/	каса / скринька
+l'étude (f.)	the study (les études = studies)	[sound:the-study-les-etudes-studies.webm]	/letyd/	навчання (les études = навчання, студії)
+réaliser	to carry out / to realize (achieve)	[sound:to-carry-out-to-realize-achieve.webm]	/ʁealize/	здійснювати / усвідомлювати
+soit	either… or (soit… soit)	[sound:either-or-soit-soit.webm]	/swa/	або… або (soit… soit)
+étranger / étrangère	foreign	[sound:foreign.webm]	/etʁɑ̃ʒe, etʁɑ̃ʒɛʁ/	іноземний / іноземна
+la solution	the solution	[sound:the-solution.webm]	/la sɔlysjɔ̃/	рішення
+nombreux / nombreuse	numerous / many	[sound:numerous-many.webm]	/nɔ̃bʁø, nɔ̃bʁøz/	численний / численна
+finalement	finally / in the end	[sound:finally-in-the-end.webm]	/finaləmɑ̃/	зрештою, нарешті
+la demande	the request / the application	[sound:the-request-the-application.webm]	/la dəmɑ̃d/	прохання / заява
+le sort	the fate	[sound:the-fate.webm]	/lə sɔʁ/	доля
+le midi	noon / midday	[sound:noon-midday.webm]	/lə midi/	полудень
+le fruit	the fruit	[sound:the-fruit.webm]	/lə fʁɥi/	фрукт, плід
+également	also / equally	[sound:also-equally.webm]	/eɡaləmɑ̃/	також / однаково
+le directeur / la directrice	the director / the principal (school)	[sound:the-director-the-principal-school.webm]	/lə diʁɛktœʁ, la diʁɛktʁis/	директор / директорка
+transformer	to transform	[sound:to-transform.webm]	/tʁɑ̃sfɔʁme/	перетворювати
+le / la jeune	the young person / the youth	[sound:the-young-person-the-youth.webm]	/lə, la ʒœn/	молода людина / молодь
+parfait / parfaite	perfect	[sound:perfect.webm]	/paʁfɛ, paʁfɛt/	досконалий / досконала, ідеальний
+étudier	to study	[sound:to-study.webm]	/etydje/	вчитися, вивчати
+commun / commune	common / shared	[sound:common-shared.webm]	/kɔmœ̃, kɔmyn/	спільний / спільна, звичайний
+pendre	to hang	[sound:to-hang.webm]	/pɑ̃dʁ/	вішати / висіти
+curieux / curieuse	curious	[sound:curious.webm]	/kyʁjø, kyʁjøz/	цікавий / цікава, допитливий
+admirer	to admire	[sound:to-admire.webm]	/admiʁe/	захоплюватися
+la différence	the difference	[sound:the-difference.webm]	/la difeʁɑ̃s/	різниця
+le quart	the quarter	[sound:the-quarter.webm]	/lə kaʁ/	чверть
+l'information (f.)	the information (les informations = the news)	[sound:the-information-les-informations-the-news.webm]	/lɛ̃fɔʁmasjɔ̃/	інформація (les informations = новини)
+le restaurant	the restaurant	[sound:the-restaurant-le-restaurant.webm]	/lə ʁɛstoʁɑ̃/	ресторан
+immédiatement	immediately	[sound:immediately.webm]	/imedjatəmɑ̃/	негайно
+respecter	to respect	[sound:to-respect.webm]	/ʁɛspɛkte/	поважати / дотримуватися
+l'immeuble (m.)	the building	[sound:the-building.webm]	/limœbl/	будинок (багатоквартирний)
+réunir	to gather / to bring together	[sound:to-gather-to-bring-together.webm]	/ʁeyniʁ/	збирати / об'єднувати
+le roman	the novel	[sound:the-novel.webm]	/lə ʁɔmɑ̃/	роман
+blond / blonde	blond	[sound:blond.webm]	/blɔ̃, blɔ̃d/	білявий / білява
+intéressant / intéressante	interesting	[sound:interesting-interessant-interessante.webm]	/ɛ̃teʁɛsɑ̃, ɛ̃teʁɛsɑ̃t/	цікавий / цікава
+incroyable	incredible / unbelievable	[sound:incredible-unbelievable.webm]	/ɛ̃kʁwajabl/	неймовірний
+la peinture	the paint / the painting	[sound:the-paint-the-painting.webm]	/la pɛ̃tyʁ/	фарба / живопис, картина
+la zone	the zone / the area	[sound:the-zone-the-area.webm]	/la zon/	зона
+l'appareil (m.)	the device / the appliance	[sound:the-device-the-appliance.webm]	/lapaʁɛj/	пристрій / прилад
+l'anniversaire (m.)	the birthday / the anniversary	[sound:the-birthday-the-anniversary.webm]	/lanivɛʁsɛʁ/	день народження / річниця
+le parfum	the perfume / the flavour	[sound:the-perfume-the-flavour.webm]	/lə paʁfœ̃/	парфуми / смак
+charmant / charmante	charming	[sound:charming.webm]	/ʃaʁmɑ̃, ʃaʁmɑ̃t/	чарівний / чарівна
+la blague	the joke	[sound:the-joke.webm]	/la blaɡ/	жарт
+l'ensemble (m.)	the whole / the set (ensemble = together)	[sound:the-whole-the-set-ensemble-together.webm]	/lɑ̃sɑ̃bl/	сукупність / комплект (ensemble = разом)
+organiser	to organize	[sound:to-organize.webm]	/ɔʁɡanize/	організовувати
+mince	thin / slim	[sound:thin-slim.webm]	/mɛ̃s/	худий, стрункий
+l'élève (m./f.)	the pupil / the student	[sound:the-pupil-the-student.webm]	/lelɛv/	учень / учениця
+l'usine (f.)	the factory	[sound:the-factory.webm]	/lyzin/	завод, фабрика
+l'aile (f.)	the wing	[sound:the-wing.webm]	/lɛl/	крило
+anglais / anglaise	English	[sound:english-anglais-anglaise.webm]	/ɑ̃ɡlɛ, ɑ̃ɡlɛz/	англійський / англійська, англієць
+le succès	the success	[sound:the-success.webm]	/lə syksɛ/	успіх
+intelligent / intelligente	intelligent / smart	[sound:intelligent-smart.webm]	/ɛ̃teliʒɑ̃, ɛ̃teliʒɑ̃t/	розумний / розумна

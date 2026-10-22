@@ -1,50 +1,50 @@
-chère	expensive / dear (fem.)
-ciel	sky
-cinq	five
-cinq heures	five o'clock
-cinquante	fifty
-cinéma	movies / cinema
-clé	key
-comment	how
-commis	clerk (store employee)
-comptoir	counter
-confiture	jam
-content	happy
-contente	happy (fem.)
-contentes	happy (fem. pl.)
-correct	right / correct
-couleur	color
-couloir	hallway
-courriel	email (Québec)
-cours	class
-cousin	cousin
-cousine	cousin (fem.)
-crayon	pencil
-cruel	cruel
-cruelle	cruel (fem.)
-crème	cream
-crème glacée	ice cream (Québec)
-cuisine	kitchen
-cuisiner	to cook
-cuisinier	cook
-curieuse	curious (fem.)
-curieux	curious
-cégep	cégep (Québec college)
-célèbre	famous
-dangereuse	dangerous (fem.)
-dangereuses	dangerous (fem. plural)
-dangereux	dangerous
-dans	in
-danser	to dance
-de	from
-de beaux	beautiful (des becomes de before a plural adjective + noun)
-de l'	some (before vowel/mute h)
-de la	some (fem.)
-demain	tomorrow
-demande	application
-demi-frère	half-brother
-dent	tooth
-dernier	last
-dernière	last (fem.)
-derrière	behind
-des	of the (de + les)
+chère	expensive / dear (fem.)			дорога
+ciel	sky			небо
+cinq	five			п'ять
+cinq heures	five o'clock			п'ята година
+cinquante	fifty			п'ятдесят
+cinéma	movies / cinema			кіно / кінотеатр
+clé	key			ключ
+comment	how			як
+commis	clerk (store employee)			продавець, працівник магазину
+comptoir	counter			прилавок
+confiture	jam			варення, джем
+content	happy			задоволений, радий
+contente	happy (fem.)			задоволена, рада
+contentes	happy (fem. pl.)			задоволені, раді (жін. р.)
+correct	right / correct			правильний / коректний
+couleur	color			колір
+couloir	hallway			коридор
+courriel	email (Québec)			електронний лист (у Квебеку)
+cours	class			урок, заняття
+cousin	cousin			двоюрідний брат
+cousine	cousin (fem.)			двоюрідна сестра
+crayon	pencil			олівець
+cruel	cruel			жорстокий
+cruelle	cruel (fem.)			жорстока
+crème	cream			вершки / крем
+crème glacée	ice cream (Québec)			морозиво (у Квебеку)
+cuisine	kitchen			кухня
+cuisiner	to cook			куховарити
+cuisinier	cook			кухар
+curieuse	curious (fem.)			допитлива
+curieux	curious			допитливий
+cégep	cégep (Québec college)			сежеп (коледж у Квебеку)
+célèbre	famous			відомий
+dangereuse	dangerous (fem.)			небезпечна
+dangereuses	dangerous (fem. plural)			небезпечні (жін. р.)
+dangereux	dangerous			небезпечний
+dans	in			в, у
+danser	to dance			танцювати
+de	from			з, від
+de beaux	beautiful (des becomes de before a plural adjective + noun)			гарні (des → de перед прикметником у мн. + іменником)
+de l'	some (before vowel/mute h)			трохи, якась кількість (перед голосним / німим h)
+de la	some (fem.)			трохи, якась кількість (жін. р.)
+demain	tomorrow			завтра
+demande	application			заява, запит
+demi-frère	half-brother			зведений брат
+dent	tooth			зуб
+dernier	last			останній
+dernière	last (fem.)			остання
+derrière	behind			позаду, за
+des	of the (de + les)			з (de + les)

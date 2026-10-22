@@ -1,50 +1,50 @@
-la tenue	the outfit / the behaviour (la tenue de soirée = evening wear)	[sound:the-outfit-the-behaviour-la-tenue-de-soiree-evening-wear.webm]	/la təny/
-le regret	the regret	[sound:the-regret.webm]	/lə ʁəɡʁɛ/
-la pile	the battery / the pile (pile = exactly, à 8 h pile)	[sound:the-battery-the-pile-pile-exactly-a-8-h-pile.webm]	/la pil/
-le pistolet	the pistol / the gun	[sound:the-pistol-the-gun.webm]	/lə pistɔlɛ/
-profondément	deeply	[sound:deeply.webm]	/pʁɔfɔ̃demɑ̃/
-vaincre	to defeat / to overcome	[sound:to-defeat-to-overcome.webm]	/vɛ̃kʁ/
-le piano	the piano	[sound:the-piano.webm]	/lə pjano/
-le sourcil	the eyebrow	[sound:the-eyebrow.webm]	/lə suʁsi/
-buter	to stumble / to bump into	[sound:to-stumble-to-bump-into.webm]	/byte/
-la paille	the straw	[sound:the-straw.webm]	/la paj/
-l'approche (f.)	the approach	[sound:the-approach.webm]	/lapʁɔʃ/
-la poudre	the powder	[sound:the-powder.webm]	/la pudʁ/
-forcément	necessarily / inevitably	[sound:necessarily-inevitably.webm]	/fɔʁsemɑ̃/
-la grange	the barn	[sound:the-barn.webm]	/la ɡʁɑ̃ʒ/
-l'accès (m.)	the access	[sound:the-access.webm]	/laksɛ/
-le canard / la cane	the duck	[sound:the-duck.webm]	/lə kanaʁ, la kan/
-suspendre	to hang / to suspend	[sound:to-hang-to-suspend.webm]	/syspɑ̃dʁ/
-serré / serrée	tight / close	[sound:tight-close.webm]	/sɛʁe/
-siffler	to whistle	[sound:to-whistle.webm]	/sifle/
-le marié / la mariée	the groom / the bride	[sound:the-groom-the-bride.webm]	/lə maʁje, la maʁje/
-le sérieux	the seriousness (garder son sérieux = to keep a straight face)	[sound:the-seriousness-garder-son-serieux-to-keep-a-straight-face.webm]	/lə seʁjø/
-affronter	to face / to confront	[sound:to-face-to-confront.webm]	/afʁɔ̃te/
-le mets	the dish (food)	[sound:the-dish-food.webm]	/lə mɛ/
-la couche	the layer / the diaper	[sound:the-layer-the-diaper.webm]	/la kuʃ/
-tracer	to draw / to trace / to mark out	[sound:to-draw-to-trace-to-mark-out.webm]	/tʁase/
-le poignet	the wrist	[sound:the-wrist.webm]	/lə pwaɲɛ/
-magique	magic / magical	[sound:magic-magical.webm]	/maʒik/
-le creux	the hollow / the dip	[sound:the-hollow-the-dip.webm]	/lə kʁø/
-vieillir	to age / to grow old	[sound:to-age-to-grow-old.webm]	/vjejiʁ/
-la bague	the ring	[sound:the-ring.webm]	/la baɡ/
-aimable	kind / friendly	[sound:kind-friendly.webm]	/ɛmabl/
-le cochon	the pig	[sound:the-pig-le-cochon.webm]	/lə kɔʃɔ̃/
-l'instruction (f.)	the instruction / the education	[sound:the-instruction-the-education.webm]	/lɛ̃stʁyksjɔ̃/
-physique	physical	[sound:physical.webm]	/fizik/
-l'écho (m.)	the echo	[sound:the-echo.webm]	/leko/
-l'orage (m.)	the storm (thunderstorm)	[sound:the-storm-thunderstorm.webm]	/lɔʁaʒ/
-la patrie	the homeland	[sound:the-homeland.webm]	/la patʁi/
-épargner	to spare / to save (money)	[sound:to-spare-to-save-money.webm]	/epaʁɲe/
-la liaison	the link / the connection / the affair	[sound:the-link-the-connection-the-affair.webm]	/la ljɛzɔ̃/
-le blessé / la blessée	the injured person	[sound:the-injured-person.webm]	/lə blese, la blese/
-l'instinct (m.)	the instinct	[sound:the-instinct.webm]	/lɛ̃stɛ̃/
-la certitude	the certainty	[sound:the-certainty.webm]	/la sɛʁtityd/
-s'emparer de	to seize / to grab (s'emparer de)	[sound:to-seize-to-grab-s-emparer-de.webm]	/sɑ̃paʁe də/
-la cravate	the tie (necktie)	[sound:the-tie-necktie.webm]	/la kʁavat/
-comparer	to compare	[sound:to-compare.webm]	/kɔ̃paʁe/
-le chou	the cabbage (mon chou = sweetie)	[sound:the-cabbage-mon-chou-sweetie.webm]	/lə ʃu/
-l'explosion (f.)	the explosion	[sound:the-explosion.webm]	/lɛksplozjɔ̃/
-raisonnable	reasonable / sensible	[sound:reasonable-sensible.webm]	/ʁɛzɔnabl/
-envelopper	to wrap	[sound:to-wrap.webm]	/ɑ̃vəlɔpe/
-glacé / glacée	iced / frozen / icy	[sound:iced-frozen-icy.webm]	/ɡlase/
+la tenue	the outfit / the behaviour (la tenue de soirée = evening wear)	[sound:the-outfit-the-behaviour-la-tenue-de-soiree-evening-wear.webm]	/la təny/	вбрання / поведінка (la tenue de soirée = вечірнє вбрання)
+le regret	the regret	[sound:the-regret.webm]	/lə ʁəɡʁɛ/	жаль, каяття
+la pile	the battery / the pile (pile = exactly, à 8 h pile)	[sound:the-battery-the-pile-pile-exactly-a-8-h-pile.webm]	/la pil/	батарейка / стос (pile = рівно, à 8 h pile = рівно о 8)
+le pistolet	the pistol / the gun	[sound:the-pistol-the-gun.webm]	/lə pistɔlɛ/	пістолет
+profondément	deeply	[sound:deeply.webm]	/pʁɔfɔ̃demɑ̃/	глибоко
+vaincre	to defeat / to overcome	[sound:to-defeat-to-overcome.webm]	/vɛ̃kʁ/	перемагати / долати
+le piano	the piano	[sound:the-piano.webm]	/lə pjano/	піаніно, фортепіано
+le sourcil	the eyebrow	[sound:the-eyebrow.webm]	/lə suʁsi/	брова
+buter	to stumble / to bump into	[sound:to-stumble-to-bump-into.webm]	/byte/	спотикатися / натрапляти на
+la paille	the straw	[sound:the-straw.webm]	/la paj/	солома / соломинка
+l'approche (f.)	the approach	[sound:the-approach.webm]	/lapʁɔʃ/	підхід / наближення
+la poudre	the powder	[sound:the-powder.webm]	/la pudʁ/	порошок / пудра
+forcément	necessarily / inevitably	[sound:necessarily-inevitably.webm]	/fɔʁsemɑ̃/	обов'язково / неминуче
+la grange	the barn	[sound:the-barn.webm]	/la ɡʁɑ̃ʒ/	клуня, сарай
+l'accès (m.)	the access	[sound:the-access.webm]	/laksɛ/	доступ
+le canard / la cane	the duck	[sound:the-duck.webm]	/lə kanaʁ, la kan/	качур / качка
+suspendre	to hang / to suspend	[sound:to-hang-to-suspend.webm]	/syspɑ̃dʁ/	вішати / призупиняти
+serré / serrée	tight / close	[sound:tight-close.webm]	/sɛʁe/	тісний / близький
+siffler	to whistle	[sound:to-whistle.webm]	/sifle/	свистіти
+le marié / la mariée	the groom / the bride	[sound:the-groom-the-bride.webm]	/lə maʁje, la maʁje/	наречений / наречена (на весіллі)
+le sérieux	the seriousness (garder son sérieux = to keep a straight face)	[sound:the-seriousness-garder-son-serieux-to-keep-a-straight-face.webm]	/lə seʁjø/	серйозність (garder son sérieux = не засміятися)
+affronter	to face / to confront	[sound:to-face-to-confront.webm]	/afʁɔ̃te/	протистояти / зустрітися лицем до лиця
+le mets	the dish (food)	[sound:the-dish-food.webm]	/lə mɛ/	страва
+la couche	the layer / the diaper	[sound:the-layer-the-diaper.webm]	/la kuʃ/	шар / підгузок
+tracer	to draw / to trace / to mark out	[sound:to-draw-to-trace-to-mark-out.webm]	/tʁase/	креслити / прокладати / позначати
+le poignet	the wrist	[sound:the-wrist.webm]	/lə pwaɲɛ/	зап'ясток
+magique	magic / magical	[sound:magic-magical.webm]	/maʒik/	чарівний / магічний
+le creux	the hollow / the dip	[sound:the-hollow-the-dip.webm]	/lə kʁø/	западина / заглибина
+vieillir	to age / to grow old	[sound:to-age-to-grow-old.webm]	/vjejiʁ/	старіти
+la bague	the ring	[sound:the-ring.webm]	/la baɡ/	каблучка
+aimable	kind / friendly	[sound:kind-friendly.webm]	/ɛmabl/	люб'язний / привітний
+le cochon	the pig	[sound:the-pig-le-cochon.webm]	/lə kɔʃɔ̃/	свиня
+l'instruction (f.)	the instruction / the education	[sound:the-instruction-the-education.webm]	/lɛ̃stʁyksjɔ̃/	інструкція / освіта
+physique	physical	[sound:physical.webm]	/fizik/	фізичний
+l'écho (m.)	the echo	[sound:the-echo.webm]	/leko/	луна
+l'orage (m.)	the storm (thunderstorm)	[sound:the-storm-thunderstorm.webm]	/lɔʁaʒ/	гроза
+la patrie	the homeland	[sound:the-homeland.webm]	/la patʁi/	батьківщина
+épargner	to spare / to save (money)	[sound:to-spare-to-save-money.webm]	/epaʁɲe/	щадити / заощаджувати (гроші)
+la liaison	the link / the connection / the affair	[sound:the-link-the-connection-the-affair.webm]	/la ljɛzɔ̃/	зв'язок / сполучення / роман (любовний)
+le blessé / la blessée	the injured person	[sound:the-injured-person.webm]	/lə blese, la blese/	поранений / поранена
+l'instinct (m.)	the instinct	[sound:the-instinct.webm]	/lɛ̃stɛ̃/	інстинкт
+la certitude	the certainty	[sound:the-certainty.webm]	/la sɛʁtityd/	впевненість
+s'emparer de	to seize / to grab (s'emparer de)	[sound:to-seize-to-grab-s-emparer-de.webm]	/sɑ̃paʁe də/	захоплювати / хапати
+la cravate	the tie (necktie)	[sound:the-tie-necktie.webm]	/la kʁavat/	краватка
+comparer	to compare	[sound:to-compare.webm]	/kɔ̃paʁe/	порівнювати
+le chou	the cabbage (mon chou = sweetie)	[sound:the-cabbage-mon-chou-sweetie.webm]	/lə ʃu/	капуста (mon chou = сонечко)
+l'explosion (f.)	the explosion	[sound:the-explosion.webm]	/lɛksplozjɔ̃/	вибух
+raisonnable	reasonable / sensible	[sound:reasonable-sensible.webm]	/ʁɛzɔnabl/	розсудливий / розумний
+envelopper	to wrap	[sound:to-wrap.webm]	/ɑ̃vəlɔpe/	загортати
+glacé / glacée	iced / frozen / icy	[sound:iced-frozen-icy.webm]	/ɡlase/	крижаний / заморожений / глазурований

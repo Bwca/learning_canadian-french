@@ -1,50 +1,50 @@
-le poème	the poem	[sound:the-poem.webm]	/lə pɔɛm/
-armer	to arm	[sound:to-arm.webm]	/aʁme/
-la bagnole	the car (slang, France)	[sound:the-car-slang-france.webm]	/la baɲɔl/
-la pompe	the pump (la pompe à essence = gas pump)	[sound:the-pump-la-pompe-a-essence-gas-pump.webm]	/la pɔ̃p/
-le singe	the monkey	[sound:the-monkey.webm]	/lə sɛ̃ʒ/
-l'échec (m.)	the failure (les échecs = chess)	[sound:the-failure-les-echecs-chess.webm]	/leʃɛk/
-prudent / prudente	careful / cautious	[sound:careful-cautious.webm]	/pʁydɑ̃, pʁydɑ̃t/
-le tabac	the tobacco / the tobacconist's	[sound:the-tobacco-the-tobacconist-s.webm]	/lə taba/
-la moustache	the moustache	[sound:the-moustache.webm]	/la mustaʃ/
-doré / dorée	golden / gilded	[sound:golden-gilded.webm]	/dɔʁe/
-percer	to pierce / to drill / to break through	[sound:to-pierce-to-drill-to-break-through.webm]	/pɛʁse/
-la ceinture	the belt (la ceinture de sécurité = seat belt)	[sound:the-belt-la-ceinture-de-securite-seat-belt.webm]	/la sɛ̃tyʁ/
-intervenir	to intervene / to step in	[sound:to-intervene-to-step-in.webm]	/ɛ̃tɛʁvəniʁ/
-le semblant	the semblance (faire semblant = to pretend)	[sound:the-semblance-faire-semblant-to-pretend.webm]	/lə sɑ̃blɑ̃/
-l'empreinte (f.)	the print / the footprint (les empreintes digitales = fingerprints)	[sound:the-print-the-footprint-les-empreintes-digitales.webm]	/lɑ̃pʁɛ̃t/
-l'ordure (f.)	the garbage / the trash (les ordures = garbage)	[sound:the-garbage-the-trash-les-ordures-garbage.webm]	/lɔʁdyʁ/
-extrême	extreme	[sound:extreme.webm]	/ɛkstʁɛm/
-préciser	to specify / to clarify	[sound:to-specify-to-clarify.webm]	/pʁesize/
-le désespoir	the despair	[sound:the-despair.webm]	/lə dezɛspwaʁ/
-identifier	to identify	[sound:to-identify.webm]	/idɑ̃tifje/
-le gendarme	the police officer (gendarme, France)	[sound:the-police-officer-gendarme-france.webm]	/lə ʒɑ̃daʁm/
-incliner	to tilt / to bow (s'incliner)	[sound:to-tilt-to-bow-s-incliner.webm]	/ɛ̃kline/
-le drapeau	the flag	[sound:the-flag.webm]	/lə dʁapo/
-la ruine	the ruin	[sound:the-ruin.webm]	/la ʁɥin/
-unir	to unite	[sound:to-unite.webm]	/yniʁ/
-le reflet	the reflection	[sound:the-reflection.webm]	/lə ʁəflɛ/
-entièrement	entirely / completely	[sound:entirely-completely.webm]	/ɑ̃tjɛʁəmɑ̃/
-la réaction	the reaction	[sound:the-reaction.webm]	/la ʁeaksjɔ̃/
-le prétexte	the excuse / the pretext	[sound:the-excuse-the-pretext.webm]	/lə pʁetɛkst/
-le volant	the steering wheel / the shuttlecock	[sound:the-steering-wheel-the-shuttlecock.webm]	/lə vɔlɑ̃/
-le filet	the net / the fillet	[sound:the-net-the-fillet.webm]	/lə filɛ/
-l'employé (m.) / l'employée (f.)	the employee	[sound:the-employee.webm]	/lɑ̃plwaje, lɑ̃plwaje/
-le défaut	the flaw / the defect	[sound:the-flaw-the-defect.webm]	/lə defo/
-l'inquiétude (f.)	the worry / the anxiety	[sound:the-worry-the-anxiety.webm]	/lɛ̃kjetyd/
-saigner	to bleed	[sound:to-bleed.webm]	/seɲe/
-réagir	to react	[sound:to-react.webm]	/ʁeaʒiʁ/
-la division	the division	[sound:the-division.webm]	/la divizjɔ̃/
-pressé / pressée	in a hurry / squeezed (le jus d'orange pressé = fresh orange juice)	[sound:in-a-hurry-squeezed-le-jus-d-orange-presse-fresh-orange.webm]	/pʁese/
-le rocher	the rock	[sound:the-rock.webm]	/lə ʁɔʃe/
-vaguement	vaguely	[sound:vaguely.webm]	/vaɡəmɑ̃/
-persuader	to persuade	[sound:to-persuade.webm]	/pɛʁsɥade/
-le cadre	the frame / the setting / the manager (un cadre)	[sound:the-frame-the-setting-the-manager-un-cadre.webm]	/lə kadʁ/
-enfiler	to slip on / to thread	[sound:to-slip-on-to-thread.webm]	/ɑ̃file/
-le flot	the flood / the stream (à flot = afloat)	[sound:the-flood-the-stream-a-flot-afloat.webm]	/lə flo/
-la vertu	the virtue	[sound:the-virtue.webm]	/la vɛʁty/
-le bloc	the block / the pad (of paper)	[sound:the-block-the-pad-of-paper.webm]	/lə blɔk/
-imiter	to imitate	[sound:to-imitate.webm]	/imite/
-nager	to swim	[sound:to-swim-nager.webm]	/naʒe/
-le tribunal	the court (of law)	[sound:the-court-of-law.webm]	/lə tʁibynal/
-la tasse	the cup / the mug	[sound:the-cup-the-mug.webm]	/la tas/
+le poème	the poem	[sound:the-poem.webm]	/lə pɔɛm/	вірш
+armer	to arm	[sound:to-arm.webm]	/aʁme/	озброювати
+la bagnole	the car (slang, France)	[sound:the-car-slang-france.webm]	/la baɲɔl/	тачка, машина (сленг, у Франції)
+la pompe	the pump (la pompe à essence = gas pump)	[sound:the-pump-la-pompe-a-essence-gas-pump.webm]	/la pɔ̃p/	насос (la pompe à essence = бензоколонка)
+le singe	the monkey	[sound:the-monkey.webm]	/lə sɛ̃ʒ/	мавпа
+l'échec (m.)	the failure (les échecs = chess)	[sound:the-failure-les-echecs-chess.webm]	/leʃɛk/	невдача (les échecs = шахи)
+prudent / prudente	careful / cautious	[sound:careful-cautious.webm]	/pʁydɑ̃, pʁydɑ̃t/	обережний / обережна
+le tabac	the tobacco / the tobacconist's	[sound:the-tobacco-the-tobacconist-s.webm]	/lə taba/	тютюн / тютюнова крамниця
+la moustache	the moustache	[sound:the-moustache.webm]	/la mustaʃ/	вуса
+doré / dorée	golden / gilded	[sound:golden-gilded.webm]	/dɔʁe/	золотистий / позолочений
+percer	to pierce / to drill / to break through	[sound:to-pierce-to-drill-to-break-through.webm]	/pɛʁse/	проколювати / свердлити / пробиватися
+la ceinture	the belt (la ceinture de sécurité = seat belt)	[sound:the-belt-la-ceinture-de-securite-seat-belt.webm]	/la sɛ̃tyʁ/	пояс, ремінь (la ceinture de sécurité = пасок безпеки)
+intervenir	to intervene / to step in	[sound:to-intervene-to-step-in.webm]	/ɛ̃tɛʁvəniʁ/	втручатися
+le semblant	the semblance (faire semblant = to pretend)	[sound:the-semblance-faire-semblant-to-pretend.webm]	/lə sɑ̃blɑ̃/	видимість (faire semblant = удавати)
+l'empreinte (f.)	the print / the footprint (les empreintes digitales = fingerprints)	[sound:the-print-the-footprint-les-empreintes-digitales.webm]	/lɑ̃pʁɛ̃t/	відбиток / слід (les empreintes digitales = відбитки пальців)
+l'ordure (f.)	the garbage / the trash (les ordures = garbage)	[sound:the-garbage-the-trash-les-ordures-garbage.webm]	/lɔʁdyʁ/	сміття (les ordures = сміття)
+extrême	extreme	[sound:extreme.webm]	/ɛkstʁɛm/	крайній, надзвичайний
+préciser	to specify / to clarify	[sound:to-specify-to-clarify.webm]	/pʁesize/	уточнювати
+le désespoir	the despair	[sound:the-despair.webm]	/lə dezɛspwaʁ/	відчай
+identifier	to identify	[sound:to-identify.webm]	/idɑ̃tifje/	впізнавати / ідентифікувати
+le gendarme	the police officer (gendarme, France)	[sound:the-police-officer-gendarme-france.webm]	/lə ʒɑ̃daʁm/	жандарм (поліцейський, у Франції)
+incliner	to tilt / to bow (s'incliner)	[sound:to-tilt-to-bow-s-incliner.webm]	/ɛ̃kline/	нахиляти / вклонятися (s'incliner)
+le drapeau	the flag	[sound:the-flag.webm]	/lə dʁapo/	прапор
+la ruine	the ruin	[sound:the-ruin.webm]	/la ʁɥin/	руїна
+unir	to unite	[sound:to-unite.webm]	/yniʁ/	об'єднувати
+le reflet	the reflection	[sound:the-reflection.webm]	/lə ʁəflɛ/	відображення / відблиск
+entièrement	entirely / completely	[sound:entirely-completely.webm]	/ɑ̃tjɛʁəmɑ̃/	повністю, цілком
+la réaction	the reaction	[sound:the-reaction.webm]	/la ʁeaksjɔ̃/	реакція
+le prétexte	the excuse / the pretext	[sound:the-excuse-the-pretext.webm]	/lə pʁetɛkst/	привід, відмовка
+le volant	the steering wheel / the shuttlecock	[sound:the-steering-wheel-the-shuttlecock.webm]	/lə vɔlɑ̃/	кермо / волан
+le filet	the net / the fillet	[sound:the-net-the-fillet.webm]	/lə filɛ/	сітка / філе
+l'employé (m.) / l'employée (f.)	the employee	[sound:the-employee.webm]	/lɑ̃plwaje, lɑ̃plwaje/	працівник / працівниця
+le défaut	the flaw / the defect	[sound:the-flaw-the-defect.webm]	/lə defo/	вада / дефект
+l'inquiétude (f.)	the worry / the anxiety	[sound:the-worry-the-anxiety.webm]	/lɛ̃kjetyd/	занепокоєння, тривога
+saigner	to bleed	[sound:to-bleed.webm]	/seɲe/	кровоточити
+réagir	to react	[sound:to-react.webm]	/ʁeaʒiʁ/	реагувати
+la division	the division	[sound:the-division.webm]	/la divizjɔ̃/	поділ / дивізія
+pressé / pressée	in a hurry / squeezed (le jus d'orange pressé = fresh orange juice)	[sound:in-a-hurry-squeezed-le-jus-d-orange-presse-fresh-orange.webm]	/pʁese/	поспішний / вичавлений (le jus d'orange pressé = свіжовичавлений апельсиновий сік)
+le rocher	the rock	[sound:the-rock.webm]	/lə ʁɔʃe/	скеля
+vaguement	vaguely	[sound:vaguely.webm]	/vaɡəmɑ̃/	невиразно, туманно
+persuader	to persuade	[sound:to-persuade.webm]	/pɛʁsɥade/	переконувати
+le cadre	the frame / the setting / the manager (un cadre)	[sound:the-frame-the-setting-the-manager-un-cadre.webm]	/lə kadʁ/	рамка / обстановка / керівник (un cadre)
+enfiler	to slip on / to thread	[sound:to-slip-on-to-thread.webm]	/ɑ̃file/	натягати (одяг) / протягати (нитку)
+le flot	the flood / the stream (à flot = afloat)	[sound:the-flood-the-stream-a-flot-afloat.webm]	/lə flo/	потік (à flot = на плаву)
+la vertu	the virtue	[sound:the-virtue.webm]	/la vɛʁty/	чеснота
+le bloc	the block / the pad (of paper)	[sound:the-block-the-pad-of-paper.webm]	/lə blɔk/	блок / блокнот
+imiter	to imitate	[sound:to-imitate.webm]	/imite/	наслідувати
+nager	to swim	[sound:to-swim-nager.webm]	/naʒe/	плавати
+le tribunal	the court (of law)	[sound:the-court-of-law.webm]	/lə tʁibynal/	суд
+la tasse	the cup / the mug	[sound:the-cup-the-mug.webm]	/la tas/	чашка / кухоль

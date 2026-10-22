@@ -1,50 +1,50 @@
-Laurentides	the Laurentians
-Noël	Christmas
-Québec	Quebec City
-acteur	actor
-adorer	to love / to adore
-agir	to act
-aider	to help
-ail	garlic
-aimer	to like / to love
-air	air
-allemand	German
-allumer	to turn on
-ami	friend
-amie	friend (fem.)
-américain	American
-an	year
-ananas	pineapple
-ancien	old / former
-ancienne	old / former (fem.)
-anglais	English
-animal	animal
-animaux	animals
-annonce	announcement
-applaudir	to applaud
-apporter	to bring
-araignée	spider
-arbre	tree
-argent	money
-armoire	cupboard
-arriver	to arrive
-artiste	artist
-aréna	arena (Québec)
-assiette	plate
-attendre	to wait (for)
-atterrir	to land
-au	to/at the (à + le)
-au loin	in the distance
-aujourd'hui	today
-auto	car
-auto de location	rental car
-autobus	bus
-automne	autumn/fall
-autoroute	highway
-autour de	around
-aux	at/to the (à + les)
-avertir	to warn
-avion	plane
-avoine	oats
-avoir besoin de	to need
-avoir chaud	to be hot
+Laurentides	the Laurentians			Лаврентійські гори
+Noël	Christmas			Різдво
+Québec	Quebec City			місто Квебек
+acteur	actor			актор
+adorer	to love / to adore			обожнювати
+agir	to act			діяти
+aider	to help			допомагати
+ail	garlic			часник
+aimer	to like / to love			подобатися / любити
+air	air			повітря
+allemand	German			німецький, німець
+allumer	to turn on			вмикати, запалювати
+ami	friend			друг
+amie	friend (fem.)			подруга
+américain	American			американський, американець
+an	year			рік
+ananas	pineapple			ананас
+ancien	old / former			старий / колишній
+ancienne	old / former (fem.)			стара / колишня
+anglais	English			англійський, англієць
+animal	animal			тварина
+animaux	animals			тварини
+annonce	announcement			оголошення
+applaudir	to applaud			аплодувати
+apporter	to bring			приносити
+araignée	spider			павук
+arbre	tree			дерево
+argent	money			гроші
+armoire	cupboard			шафа
+arriver	to arrive			прибувати, приходити
+artiste	artist			митець / мисткиня
+aréna	arena (Québec)			арена, льодова ковзанка (у Квебеку)
+assiette	plate			тарілка
+attendre	to wait (for)			чекати (на)
+atterrir	to land			приземлятися
+au	to/at the (à + le)			в, до (à + le)
+au loin	in the distance			вдалині
+aujourd'hui	today			сьогодні
+auto	car			автомобіль
+auto de location	rental car			орендований автомобіль
+autobus	bus			автобус
+automne	autumn/fall			осінь
+autoroute	highway			автомагістраль, шосе
+autour de	around			навколо
+aux	at/to the (à + les)			в, до (à + les)
+avertir	to warn			попереджати
+avion	plane			літак
+avoine	oats			овес
+avoir besoin de	to need			потребувати
+avoir chaud	to be hot			бути жарко (мені жарко)

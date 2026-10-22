@@ -1,50 +1,50 @@
-avoir de la chance	to be lucky
-avoir envie de	to feel like
-avoir faim	to be hungry
-avoir froid	to be cold
-avoir honte	to be ashamed
-avoir hâte	to look forward to / can't wait
-avoir l'air	to look/seem
-avoir mal à	to have pain in
-avoir peur	to be afraid
-avoir raison	to be right
-avoir soif	to be thirsty
-avoir sommeil	to be sleepy
-avoir tort	to be wrong
-bain	bath / bathtub
-balle	ball
-ballon	balloon
-banane	banana
-banque	bank
-beau	beautiful
-beau-père	stepfather/father-in-law
-beaucoup	a lot
-beaucoup de	a lot of / many
-beaux	beautiful (masc. plural)
-belle	beautiful (fem.)
-belle-mère	stepmother/mother-in-law
-belles	beautiful (fem. plural)
-beurre	butter
-bibliothèque	library
-bien	well
-bijou	jewel
-bijoux	jewels (irregular plural)
-billet	ticket
-blanc	white
-blanche	white (fem.)
-bleu	blue
-bleue	blue (fem.)
-blonde	girlfriend (Québec)
-bol	bowl
-bon	good
-bonne	good (fem.)
-bonnes	good (fem. plural)
-botte	boot
-boulanger	baker
-bouteille	bottle
-brillant	bright
-brouillard	fog
-bruit	noise
-brunir	to tan
-bureau	desk
-bus	bus (same spelling in plural)
+avoir de la chance	to be lucky			пощастити, бути щасливчиком
+avoir envie de	to feel like			хотіти, мати бажання
+avoir faim	to be hungry			бути голодним
+avoir froid	to be cold			мерзнути (мені холодно)
+avoir honte	to be ashamed			соромитися
+avoir hâte	to look forward to / can't wait			з нетерпінням чекати
+avoir l'air	to look/seem			мати вигляд, здаватися
+avoir mal à	to have pain in			боліти (у когось болить…)
+avoir peur	to be afraid			боятися
+avoir raison	to be right			мати рацію
+avoir soif	to be thirsty			хотіти пити
+avoir sommeil	to be sleepy			хотіти спати
+avoir tort	to be wrong			помилятися
+bain	bath / bathtub			ванна / купання
+balle	ball			м'ячик
+ballon	balloon			м'яч / повітряна кулька
+banane	banana			банан
+banque	bank			банк
+beau	beautiful			гарний
+beau-père	stepfather/father-in-law			вітчим / тесть, свекор
+beaucoup	a lot			багато
+beaucoup de	a lot of / many			багато (чогось)
+beaux	beautiful (masc. plural)			гарні (чол. р.)
+belle	beautiful (fem.)			гарна
+belle-mère	stepmother/mother-in-law			мачуха / теща, свекруха
+belles	beautiful (fem. plural)			гарні (жін. р.)
+beurre	butter			масло
+bibliothèque	library			бібліотека
+bien	well			добре
+bijou	jewel			коштовність, прикраса
+bijoux	jewels (irregular plural)			коштовності, прикраси (неправильна мн.)
+billet	ticket			квиток
+blanc	white			білий
+blanche	white (fem.)			біла
+bleu	blue			синій, блакитний
+bleue	blue (fem.)			синя, блакитна
+blonde	girlfriend (Québec)			дівчина, кохана (у Квебеку)
+bol	bowl			миска
+bon	good			добрий
+bonne	good (fem.)			добра
+bonnes	good (fem. plural)			добрі (жін. р.)
+botte	boot			чобіт
+boulanger	baker			пекар
+bouteille	bottle			пляшка
+brillant	bright			яскравий, блискучий
+brouillard	fog			туман
+bruit	noise			шум
+brunir	to tan			засмагати
+bureau	desk			письмовий стіл / офіс
+bus	bus (same spelling in plural)			автобус (у мн. так само)

@@ -1,50 +1,50 @@
-jardin	garden
-jaser	to chat (Québec)
-jaune	yellow
-jaunir	to turn yellow
-jeu	game
-jeune	young
-jeux	games
-jeux vidéo	video games
-joli	pretty
-jolie	pretty (fem.)
-jouer à	to play (a sport or game)
-jouet	toy
-jour	day
-journal	newspaper
-journaux	newspapers
-jumeaux	twins
-jus	juice
-ketchup	ketchup
-la fin de semaine	on the weekend (Québec)
-la nuit	at night
-lac	lake
-lait	milk
-lampe	lamp
-langue	language
-lapin	rabbit
-laver	to wash
-le Québec	Quebec (the province)
-le dimanche	on Sundays
-le samedi	on Saturdays
-le soir	in the evening
-lentement	slowly
-les nouvelles	the news
-lettre	letter
-leur	their
-leurs	their (plural)
-leçon	lesson
-linge	laundry
-lit	bed
-livre	book
-loin d'ici	far from here
-long	long
-longtemps	a long time
-longue	long (fem.)
-lourd	heavy
-lumière	light
-lundi	Monday
-lune	moon
-léger	light (weight)
-légume	vegetable
-légère	light (weight) (fem.)
+jardin	garden			сад, город
+jaser	to chat (Québec)			балакати (у Квебеку)
+jaune	yellow			жовтий
+jaunir	to turn yellow			жовтіти
+jeu	game			гра
+jeune	young			молодий
+jeux	games			ігри
+jeux vidéo	video games			відеоігри
+joli	pretty			гарненький
+jolie	pretty (fem.)			гарненька
+jouer à	to play (a sport or game)			грати (у спортивну гру чи гру)
+jouet	toy			іграшка
+jour	day			день
+journal	newspaper			газета
+journaux	newspapers			газети
+jumeaux	twins			близнюки
+jus	juice			сік
+ketchup	ketchup			кетчуп
+la fin de semaine	on the weekend (Québec)			на вихідних (у Квебеку)
+la nuit	at night			вночі
+lac	lake			озеро
+lait	milk			молоко
+lampe	lamp			лампа
+langue	language			мова
+lapin	rabbit			кролик
+laver	to wash			мити, прати
+le Québec	Quebec (the province)			Квебек (провінція)
+le dimanche	on Sundays			по неділях
+le samedi	on Saturdays			по суботах
+le soir	in the evening			увечері
+lentement	slowly			повільно
+les nouvelles	the news			новини
+lettre	letter			лист / літера
+leur	their			їхній
+leurs	their (plural)			їхні
+leçon	lesson			урок
+linge	laundry			білизна, одяг для прання
+lit	bed			ліжко
+livre	book			книжка
+loin d'ici	far from here			далеко звідси
+long	long			довгий
+longtemps	a long time			довго
+longue	long (fem.)			довга
+lourd	heavy			важкий
+lumière	light			світло
+lundi	Monday			понеділок
+lune	moon			місяць (на небі)
+léger	light (weight)			легкий (про вагу)
+légume	vegetable			овоч
+légère	light (weight) (fem.)			легка (про вагу)

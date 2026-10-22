@@ -1,50 +1,50 @@
-femme	wife / woman
-fenêtre	window
-fermer	to close / to turn off (Québec)
-fermier	farmer
-fermée	closed (fem.)
-feuille	leaf
-fier	proud
-fille	girl / daughter
-film	movie
-fils	son (same spelling in plural)
-finir	to finish
-fleur	flower
-fleurir	to bloom
-fois	time (occurrence)
-fondre	to melt
-formulaire	form
-fort	strong
-forêt	forest
-foulard	scarf
-fournir	to provide
-frais	fresh
-fraise	strawberry
-français	French
-française	French (fem.)
-frigo	fridge
-froid	cold (noun)
-froide	cold (fem.)
-fromage	cheese
-fruit	fruit
-frère	brother
-fête	party
-gant	glove
-garage	garage
-gare	station
-garçon	boy
-gazon	lawn
-genou / genoux	knee / knees (irregular plural)
-gentil	nice / kind
-gentille	nice / kind (fem.)
-glace	ice / ice cream
-glacière	cooler
-gomme	eraser
-grand	big / tall
-grand-maman	grandma
-grand-mère	grandmother
-grand-papa	grandpa
-grand-père	grandfather
-grande	big / tall (fem.)
-grandes	big / tall (fem. plural)
-grandir	to grow (up)
+femme	wife / woman			дружина / жінка
+fenêtre	window			вікно
+fermer	to close / to turn off (Québec)			зачиняти / вимикати (у Квебеку)
+fermier	farmer			фермер
+fermée	closed (fem.)			зачинена
+feuille	leaf			листок, аркуш
+fier	proud			гордий
+fille	girl / daughter			дівчина / донька
+film	movie			фільм
+fils	son (same spelling in plural)			син (у мн. так само)
+finir	to finish			закінчувати
+fleur	flower			квітка
+fleurir	to bloom			цвісти
+fois	time (occurrence)			раз
+fondre	to melt			танути
+formulaire	form			бланк, анкета
+fort	strong			сильний
+forêt	forest			ліс
+foulard	scarf			шарф
+fournir	to provide			надавати, постачати
+frais	fresh			свіжий
+fraise	strawberry			полуниця
+français	French			французький, француз
+française	French (fem.)			французька, француженка
+frigo	fridge			холодильник
+froid	cold (noun)			холод
+froide	cold (fem.)			холодна
+fromage	cheese			сир
+fruit	fruit			фрукт
+frère	brother			брат
+fête	party			свято, вечірка
+gant	glove			рукавичка
+garage	garage			гараж
+gare	station			вокзал, станція
+garçon	boy			хлопчик
+gazon	lawn			газон
+genou / genoux	knee / knees (irregular plural)			коліно / коліна (неправильна мн.)
+gentil	nice / kind			добрий, милий
+gentille	nice / kind (fem.)			добра, мила
+glace	ice / ice cream			лід / морозиво
+glacière	cooler			сумка-холодильник
+gomme	eraser			гумка (для стирання)
+grand	big / tall			великий / високий
+grand-maman	grandma			бабуся
+grand-mère	grandmother			бабуся
+grand-papa	grandpa			дідусь
+grand-père	grandfather			дідусь
+grande	big / tall (fem.)			велика / висока
+grandes	big / tall (fem. plural)			великі / високі (жін. р.)
+grandir	to grow (up)			рости, дорослішати

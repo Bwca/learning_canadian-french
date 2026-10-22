@@ -1,50 +1,50 @@
-cuisiner	to cook	[sound:to-cook.webm]	/kɥizine/
-le cégep	the CEGEP (Québec college)	[sound:the-cegep-quebec-college.webm]	/lə seʒɛp/
-l'érable (m.)	the maple	[sound:the-maple.webm]	/leʁabl/
-des	some (plural)	[sound:some-plural.webm]	/de/
-déjà	already	[sound:already.webm]	/deʒa/
-délicieux / délicieuse	delicious	[sound:delicious.webm]	/delisjø, delisjøz/
-le dépanneur	the corner store (Québec)	[sound:the-corner-store-quebec.webm]	/lə depanœʁ/
-vous désirez ?	what would you like? (in a shop)	[sound:what-would-you-like-in-a-shop.webm]	/vu deziʁe/
-le dîner	lunch (Québec) / dinner (France)	[sound:lunch-quebec-dinner-france.webm]	/lə dine/
-ensoleillé / ensoleillée	sunny	[sound:sunny.webm]	/ɑ̃sɔlɛje/
-l'escalier (m.)	the staircase	[sound:the-staircase.webm]	/lɛskalje/
-grillé / grillée	grilled / toasted	[sound:grilled-toasted.webm]	/ɡʁije/
-le héron	the heron	[sound:the-heron.webm]	/lə eʁɔ̃/
-jouer	to play	[sound:to-play.webm]	/ʒwe/
-la journée	the day (daytime)	[sound:the-day-daytime.webm]	/la ʒuʁne/
-l'année (f.)	the year	[sound:the-year.webm]	/lane/
-l'équipe (f.)	the team	[sound:the-team.webm]	/lekip/
-les	the (plural)	[sound:the-plural.webm]	/le/
-manger	to eat	[sound:to-eat.webm]	/mɑ̃ʒe/
-marcher	to walk	[sound:to-walk.webm]	/maʁʃe/
-mes	my (plural)	[sound:my-plural.webm]	/me/
-monter	to go up / to get on	[sound:to-go-up-to-get-on.webm]	/mɔ̃te/
-Montréal	Montreal	[sound:montreal.webm]	/mɔ̃ʁeal/
-le musée	the museum	[sound:the-museum.webm]	/lə myze/
-le médecin	the doctor	[sound:the-doctor.webm]	/lə medsɛ̃/
-nager	to swim	[sound:to-swim.webm]	/naʒe/
-ouvrez	open! (vous)	[sound:open-vous.webm]	/uvʁe/
-parler	to speak	[sound:to-speak.webm]	/paʁle/
-payer	to pay	[sound:to-pay.webm]	/peje/
-porter	to wear / to carry	[sound:to-wear-to-carry.webm]	/pɔʁte/
-vous pouvez	you can (formal / plural)	[sound:you-can-formal-plural.webm]	/vu puve/
-premier / première	first	[sound:first.webm]	/pʁəmje, pʁəmjɛʁ/
-se promener	to go for a walk	[sound:to-go-for-a-walk.webm]	/sə pʁɔmne/
-préféré / préférée	favourite	[sound:favourite.webm]	/pʁefeʁe/
-le pâté	the pâté / meat pie	[sound:the-pate-meat-pie.webm]	/lə pate/
-pêcher	to fish	[sound:to-fish.webm]	/peʃe/
-le quartier	the neighbourhood	[sound:the-neighbourhood.webm]	/lə kaʁtje/
-Québec	Quebec	[sound:quebec.webm]	/kebɛk/
-rencontrer	to meet	[sound:to-meet.webm]	/ʁɑ̃kɔ̃tʁe/
-se reposer	to rest	[sound:to-rest.webm]	/sə ʁəpoze/
-répondre	to answer	[sound:to-answer.webm]	/ʁepɔ̃dʁ/
-sauter	to jump	[sound:to-jump.webm]	/sote/
-la soirée	the evening	[sound:the-evening.webm]	/la swaʁe/
-la télé	the TV	[sound:the-tv.webm]	/la tele/
-travailler	to work	[sound:to-work.webm]	/tʁavaje/
-trouver	to find	[sound:to-find.webm]	/tʁuve/
-verser	to pour	[sound:to-pour.webm]	/vɛʁse/
-visiter	to visit	[sound:to-visit.webm]	/vizite/
-l'été (m.)	the summer	[sound:the-summer.webm]	/lete/
-j'achète	I buy	[sound:i-buy.webm]	/ʒaʃɛt/
+cuisiner	to cook	[sound:to-cook.webm]	/kɥizine/	куховарити
+le cégep	the CEGEP (Québec college)	[sound:the-cegep-quebec-college.webm]	/lə seʒɛp/	сежеп (коледж у Квебеку)
+l'érable (m.)	the maple	[sound:the-maple.webm]	/leʁabl/	клен
+des	some (plural)	[sound:some-plural.webm]	/de/	якісь, кілька (мн.)
+déjà	already	[sound:already.webm]	/deʒa/	вже
+délicieux / délicieuse	delicious	[sound:delicious.webm]	/delisjø, delisjøz/	смачний / смачна
+le dépanneur	the corner store (Québec)	[sound:the-corner-store-quebec.webm]	/lə depanœʁ/	цілодобовий магазинчик біля дому (у Квебеку)
+vous désirez ?	what would you like? (in a shop)	[sound:what-would-you-like-in-a-shop.webm]	/vu deziʁe/	що бажаєте? (у магазині)
+le dîner	lunch (Québec) / dinner (France)	[sound:lunch-quebec-dinner-france.webm]	/lə dine/	обід (у Квебеку) / вечеря (у Франції)
+ensoleillé / ensoleillée	sunny	[sound:sunny.webm]	/ɑ̃sɔlɛje/	сонячний / сонячна
+l'escalier (m.)	the staircase	[sound:the-staircase.webm]	/lɛskalje/	сходи
+grillé / grillée	grilled / toasted	[sound:grilled-toasted.webm]	/ɡʁije/	смажений на грилі / підсмажений
+le héron	the heron	[sound:the-heron.webm]	/lə eʁɔ̃/	чапля
+jouer	to play	[sound:to-play.webm]	/ʒwe/	грати
+la journée	the day (daytime)	[sound:the-day-daytime.webm]	/la ʒuʁne/	день (світла частина доби)
+l'année (f.)	the year	[sound:the-year.webm]	/lane/	рік
+l'équipe (f.)	the team	[sound:the-team.webm]	/lekip/	команда
+les	the (plural)	[sound:the-plural.webm]	/le/	означений артикль (мн.)
+manger	to eat	[sound:to-eat.webm]	/mɑ̃ʒe/	їсти
+marcher	to walk	[sound:to-walk.webm]	/maʁʃe/	ходити пішки
+mes	my (plural)	[sound:my-plural.webm]	/me/	мої
+monter	to go up / to get on	[sound:to-go-up-to-get-on.webm]	/mɔ̃te/	підніматися / сідати (у транспорт)
+Montréal	Montreal	[sound:montreal.webm]	/mɔ̃ʁeal/	Монреаль
+le musée	the museum	[sound:the-museum.webm]	/lə myze/	музей
+le médecin	the doctor	[sound:the-doctor.webm]	/lə medsɛ̃/	лікар
+nager	to swim	[sound:to-swim.webm]	/naʒe/	плавати
+ouvrez	open! (vous)	[sound:open-vous.webm]	/uvʁe/	відчиніть! (ви)
+parler	to speak	[sound:to-speak.webm]	/paʁle/	говорити
+payer	to pay	[sound:to-pay.webm]	/peje/	платити
+porter	to wear / to carry	[sound:to-wear-to-carry.webm]	/pɔʁte/	носити (одяг) / нести
+vous pouvez	you can (formal / plural)	[sound:you-can-formal-plural.webm]	/vu puve/	ви можете
+premier / première	first	[sound:first.webm]	/pʁəmje, pʁəmjɛʁ/	перший / перша
+se promener	to go for a walk	[sound:to-go-for-a-walk.webm]	/sə pʁɔmne/	гуляти, прогулюватися
+préféré / préférée	favourite	[sound:favourite.webm]	/pʁefeʁe/	улюблений / улюблена
+le pâté	the pâté / meat pie	[sound:the-pate-meat-pie.webm]	/lə pate/	паштет / м'ясний пиріг
+pêcher	to fish	[sound:to-fish.webm]	/peʃe/	рибалити
+le quartier	the neighbourhood	[sound:the-neighbourhood.webm]	/lə kaʁtje/	район, квартал
+Québec	Quebec	[sound:quebec.webm]	/kebɛk/	Квебек
+rencontrer	to meet	[sound:to-meet.webm]	/ʁɑ̃kɔ̃tʁe/	зустрічати
+se reposer	to rest	[sound:to-rest.webm]	/sə ʁəpoze/	відпочивати
+répondre	to answer	[sound:to-answer.webm]	/ʁepɔ̃dʁ/	відповідати
+sauter	to jump	[sound:to-jump.webm]	/sote/	стрибати
+la soirée	the evening	[sound:the-evening.webm]	/la swaʁe/	вечір (вечірній час)
+la télé	the TV	[sound:the-tv.webm]	/la tele/	телевізор
+travailler	to work	[sound:to-work.webm]	/tʁavaje/	працювати
+trouver	to find	[sound:to-find.webm]	/tʁuve/	знаходити
+verser	to pour	[sound:to-pour.webm]	/vɛʁse/	наливати
+visiter	to visit	[sound:to-visit.webm]	/vizite/	відвідувати, оглядати
+l'été (m.)	the summer	[sound:the-summer.webm]	/lete/	літо
+j'achète	I buy	[sound:i-buy.webm]	/ʒaʃɛt/	я купую

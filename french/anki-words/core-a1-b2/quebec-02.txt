@@ -1,23 +1,23 @@
-le huard	the loon / the one-dollar coin	[sound:the-loon-the-one-dollar-coin.webm]	/lə yaʁ/
-la caisse populaire	the credit union (Québec)	[sound:the-credit-union-quebec.webm]	/la kɛs pɔpylɛʁ/
-la toune	the song / the tune (Québec)	[sound:the-song-the-tune-quebec.webm]	/la tun/
-le party	the party (Québec)	[sound:the-party-quebec.webm]	/lə paʁti/
-l'aubaine (f.)	the bargain / the deal (Québec)	[sound:the-bargain-the-deal-quebec.webm]	/lobɛn/
-le centre d'achats	the shopping mall (Québec)	[sound:the-shopping-mall-quebec.webm]	/lə sɑ̃tʁ daʃa/
-le magasin à rayons	the department store (Québec)	[sound:the-department-store-quebec.webm]	/lə maɡazɛ̃ a ʁɛjɔ̃/
-la sacoche	the purse / the handbag (Québec)	[sound:the-purse-the-handbag-quebec.webm]	/la sakɔʃ/
-le cadran	the alarm clock (Québec)	[sound:the-alarm-clock-quebec.webm]	/lə kadʁɑ̃/
-la laveuse	the washing machine (Québec)	[sound:the-washing-machine-quebec.webm]	/la lavøz/
-la sécheuse	the dryer (Québec)	[sound:the-dryer-quebec.webm]	/la seʃøz/
-le frigidaire	the fridge (Québec)	[sound:the-fridge-quebec.webm]	/lə fʁiʒidɛʁ/
-la garde-robe	the closet (Québec)	[sound:the-closet-quebec.webm]	/la ɡaʁdʁɔb/
-le calorifère	the radiator (Québec)	[sound:the-radiator-quebec.webm]	/lə kalɔʁifɛʁ/
-un 4 et demi	a 3-room apartment (Québec: kitchen, living room, bedroom + bathroom)	[sound:a-3-room-apartment-quebec-kitchen-living-room-bedroom.webm]	/œ̃ katʁ e dəmi/
-le jour du déménagement	moving day (Québec: July 1st)	[sound:moving-day-quebec-july-1st.webm]	/lə ʒuʁ dy demenaʒmɑ̃/
-la polyvalente	the public high school (Québec)	[sound:the-public-high-school-quebec.webm]	/la pɔlivalɑ̃t/
-le cégep	the CEGEP (Québec college)	[sound:the-cegep-quebec-college-le-cegep.webm]	/lə seʒɛp/
-l'aréna (m.)	the hockey rink / the arena	[sound:the-hockey-rink-the-arena.webm]	/laʁena/
-embarquer (dans le char)	to get in (the car) (Québec)	[sound:to-get-in-the-car-quebec.webm]	/ɑ̃baʁke/
-le niaiseux / la niaiseuse	the silly person / the fool (Québec)	[sound:the-silly-person-the-fool-quebec.webm]	/lə njɛzø, la njɛzøz/
-ben là !	come on! / oh please! (Québec)	[sound:come-on-oh-please-quebec.webm]	/bɛ̃ la/
-c'est correct	it's OK / it's fine (Québec)	[sound:it-s-ok-it-s-fine-quebec.webm]	/sɛ kɔʁɛkt/
+le huard	the loon / the one-dollar coin	[sound:the-loon-the-one-dollar-coin.webm]	/lə yaʁ/	гагара / монета в один долар
+la caisse populaire	the credit union (Québec)	[sound:the-credit-union-quebec.webm]	/la kɛs pɔpylɛʁ/	кредитна спілка (у Квебеку)
+la toune	the song / the tune (Québec)	[sound:the-song-the-tune-quebec.webm]	/la tun/	пісня / мелодія (у Квебеку)
+le party	the party (Québec)	[sound:the-party-quebec.webm]	/lə paʁti/	вечірка (у Квебеку)
+l'aubaine (f.)	the bargain / the deal (Québec)	[sound:the-bargain-the-deal-quebec.webm]	/lobɛn/	вигідна покупка / знижка (у Квебеку)
+le centre d'achats	the shopping mall (Québec)	[sound:the-shopping-mall-quebec.webm]	/lə sɑ̃tʁ daʃa/	торговельний центр (у Квебеку)
+le magasin à rayons	the department store (Québec)	[sound:the-department-store-quebec.webm]	/lə maɡazɛ̃ a ʁɛjɔ̃/	універмаг (у Квебеку)
+la sacoche	the purse / the handbag (Québec)	[sound:the-purse-the-handbag-quebec.webm]	/la sakɔʃ/	сумочка (у Квебеку)
+le cadran	the alarm clock (Québec)	[sound:the-alarm-clock-quebec.webm]	/lə kadʁɑ̃/	будильник (у Квебеку)
+la laveuse	the washing machine (Québec)	[sound:the-washing-machine-quebec.webm]	/la lavøz/	пральна машина (у Квебеку)
+la sécheuse	the dryer (Québec)	[sound:the-dryer-quebec.webm]	/la seʃøz/	сушильна машина (у Квебеку)
+le frigidaire	the fridge (Québec)	[sound:the-fridge-quebec.webm]	/lə fʁiʒidɛʁ/	холодильник (у Квебеку)
+la garde-robe	the closet (Québec)	[sound:the-closet-quebec.webm]	/la ɡaʁdʁɔb/	шафа (у Квебеку)
+le calorifère	the radiator (Québec)	[sound:the-radiator-quebec.webm]	/lə kalɔʁifɛʁ/	батарея опалення (у Квебеку)
+un 4 et demi	a 3-room apartment (Québec: kitchen, living room, bedroom + bathroom)	[sound:a-3-room-apartment-quebec-kitchen-living-room-bedroom.webm]	/œ̃ katʁ e dəmi/	двокімнатна квартира (у Квебеку: кухня, вітальня, спальня + ванна)
+le jour du déménagement	moving day (Québec: July 1st)	[sound:moving-day-quebec-july-1st.webm]	/lə ʒuʁ dy demenaʒmɑ̃/	день переїзду (у Квебеку: 1 липня)
+la polyvalente	the public high school (Québec)	[sound:the-public-high-school-quebec.webm]	/la pɔlivalɑ̃t/	державна старша школа (у Квебеку)
+le cégep	the CEGEP (Québec college)	[sound:the-cegep-quebec-college-le-cegep.webm]	/lə seʒɛp/	сежеп (коледж у Квебеку)
+l'aréna (m.)	the hockey rink / the arena	[sound:the-hockey-rink-the-arena.webm]	/laʁena/	хокейна арена
+embarquer (dans le char)	to get in (the car) (Québec)	[sound:to-get-in-the-car-quebec.webm]	/ɑ̃baʁke/	сідати (в машину) (у Квебеку)
+le niaiseux / la niaiseuse	the silly person / the fool (Québec)	[sound:the-silly-person-the-fool-quebec.webm]	/lə njɛzø, la njɛzøz/	дурник / дурепа (у Квебеку)
+ben là !	come on! / oh please! (Québec)	[sound:come-on-oh-please-quebec.webm]	/bɛ̃ la/	та годі! / ну ти даєш! (у Квебеку)
+c'est correct	it's OK / it's fine (Québec)	[sound:it-s-ok-it-s-fine-quebec.webm]	/sɛ kɔʁɛkt/	усе гаразд / нормально (у Квебеку)

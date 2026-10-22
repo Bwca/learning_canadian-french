@@ -1,50 +1,50 @@
-la mairie	the town hall	[sound:the-town-hall.webm]	/la meʁi/
-le musicien / la musicienne	the musician	[sound:the-musician.webm]	/lə myzisjɛ̃, la myzisjɛn/
-décorer	to decorate	[sound:to-decorate.webm]	/dekɔʁe/
-l'électricité (f.)	the electricity	[sound:the-electricity.webm]	/lelɛktʁisite/
-le litre	the litre	[sound:the-litre.webm]	/lə litʁ/
-le buffet	the buffet / the sideboard	[sound:the-buffet-the-sideboard.webm]	/lə byfɛ/
-le parking	the parking lot	[sound:the-parking-lot.webm]	/lə paʁkiŋ/
-le département	the department	[sound:the-department.webm]	/lə depaʁtəmɑ̃/
-le moulin	the mill	[sound:the-mill.webm]	/lə mulɛ̃/
-la température	the temperature	[sound:the-temperature.webm]	/la tɑ̃peʁatyʁ/
-la falaise	the cliff	[sound:the-cliff.webm]	/la falɛz/
-l'inscription (f.)	the registration / the sign-up	[sound:the-registration-the-sign-up.webm]	/lɛ̃skʁipsjɔ̃/
-le pape	the pope	[sound:the-pope.webm]	/lə pap/
-l'exposition (f.)	the exhibition	[sound:the-exhibition.webm]	/lɛkspozisjɔ̃/
-le climat	the climate	[sound:the-climate.webm]	/lə klima/
-le monument	the monument	[sound:the-monument.webm]	/lə mɔnymɑ̃/
-le dessert	the dessert	[sound:the-dessert.webm]	/lə desɛʁ/
-la cathédrale	the cathedral	[sound:the-cathedral.webm]	/la katedʁal/
-le loisir	the leisure / the hobby	[sound:the-leisure-the-hobby.webm]	/lə lwaziʁ/
-le menu	the menu	[sound:the-menu.webm]	/lə məny/
-la république	the republic	[sound:the-republic.webm]	/la ʁepyblik/
-européen / européenne	European	[sound:european.webm]	/øʁɔpeɛ̃, øʁɔpeɛn/
-original / originale	original	[sound:original.webm]	/ɔʁiʒinal/
-le tennis	the tennis	[sound:the-tennis.webm]	/lə tenis/
-ben	well (informal: ben oui)	[sound:well-informal-ben-oui.webm]	/bɛ̃/
-plusieurs	several	[sound:several.webm]	/plyzjœʁ/
-le pâté	the pâté / the meat pie (pâté chinois = shepherd's pie)	[sound:the-pate-the-meat-pie-pate-chinois-shepherd-s-pie.webm]	/lə pate/
-scientifique	scientific	[sound:scientific.webm]	/sjɑ̃tifik/
-passionner	to fascinate (passionné de = passionate about)	[sound:to-fascinate-passionne-de-passionate-about.webm]	/pasjɔne/
-le ski	the ski / skiing	[sound:the-ski-skiing.webm]	/lə ski/
-le continent	the continent	[sound:the-continent.webm]	/lə kɔ̃tinɑ̃/
-commercial / commerciale	commercial	[sound:commercial.webm]	/kɔmɛʁsjal/
-analyser	to analyze	[sound:to-analyze.webm]	/analize/
-la confiture	the jam	[sound:the-jam.webm]	/la kɔ̃fityʁ/
-l'association (f.)	the association	[sound:the-association.webm]	/lasɔsjasjɔ̃/
-le pull	the sweater (Québec: le chandail)	[sound:the-sweater-quebec-le-chandail.webm]	/lə pyl/
-la farine	the flour	[sound:the-flour.webm]	/la faʁin/
-le site	the site / the website	[sound:the-site-the-website.webm]	/lə sit/
-scolaire	school (adj.) / academic (l'année scolaire)	[sound:school-adj-academic-l-annee-scolaire.webm]	/skɔlɛʁ/
-la destination	the destination	[sound:the-destination.webm]	/la destinasjɔ̃/
-indépendant / indépendante	independent	[sound:independent.webm]	/ɛ̃depɑ̃dɑ̃, ɛ̃depɑ̃dɑ̃t/
-la décoration	the decoration	[sound:the-decoration.webm]	/la dekɔʁasjɔ̃/
-la spécialité	the speciality	[sound:the-speciality.webm]	/la spesjalite/
-la tartine	the slice of bread and butter / the toast	[sound:the-slice-of-bread-and-butter-the-toast.webm]	/la taʁtin/
-la mule	the mule / the slipper	[sound:the-mule-the-slipper.webm]	/la myl/
-la technologie	the technology	[sound:the-technology.webm]	/la tɛknɔlɔʒi/
-le chômage	the unemployment	[sound:the-unemployment.webm]	/lə ʃomaʒ/
-le supermarché	the supermarket (Québec: l'épicerie)	[sound:the-supermarket-quebec-l-epicerie.webm]	/lə sypɛʁmaʁʃe/
-africain / africaine	African	[sound:african.webm]	/afʁikɛ̃, afʁikɛn/
-la crêpe	the crêpe / the pancake	[sound:the-crepe-the-pancake.webm]	/la kʁɛp/
+la mairie	the town hall	[sound:the-town-hall.webm]	/la meʁi/	мерія, ратуша
+le musicien / la musicienne	the musician	[sound:the-musician.webm]	/lə myzisjɛ̃, la myzisjɛn/	музикант / музикантка
+décorer	to decorate	[sound:to-decorate.webm]	/dekɔʁe/	прикрашати
+l'électricité (f.)	the electricity	[sound:the-electricity.webm]	/lelɛktʁisite/	електрика
+le litre	the litre	[sound:the-litre.webm]	/lə litʁ/	літр
+le buffet	the buffet / the sideboard	[sound:the-buffet-the-sideboard.webm]	/lə byfɛ/	шведський стіл / сервант
+le parking	the parking lot	[sound:the-parking-lot.webm]	/lə paʁkiŋ/	парковка
+le département	the department	[sound:the-department.webm]	/lə depaʁtəmɑ̃/	департамент, відділ
+le moulin	the mill	[sound:the-mill.webm]	/lə mulɛ̃/	млин
+la température	the temperature	[sound:the-temperature.webm]	/la tɑ̃peʁatyʁ/	температура
+la falaise	the cliff	[sound:the-cliff.webm]	/la falɛz/	скеля, урвище
+l'inscription (f.)	the registration / the sign-up	[sound:the-registration-the-sign-up.webm]	/lɛ̃skʁipsjɔ̃/	реєстрація, запис
+le pape	the pope	[sound:the-pope.webm]	/lə pap/	папа (римський)
+l'exposition (f.)	the exhibition	[sound:the-exhibition.webm]	/lɛkspozisjɔ̃/	виставка
+le climat	the climate	[sound:the-climate.webm]	/lə klima/	клімат
+le monument	the monument	[sound:the-monument.webm]	/lə mɔnymɑ̃/	пам'ятник
+le dessert	the dessert	[sound:the-dessert.webm]	/lə desɛʁ/	десерт
+la cathédrale	the cathedral	[sound:the-cathedral.webm]	/la katedʁal/	собор
+le loisir	the leisure / the hobby	[sound:the-leisure-the-hobby.webm]	/lə lwaziʁ/	дозвілля / хобі
+le menu	the menu	[sound:the-menu.webm]	/lə məny/	меню
+la république	the republic	[sound:the-republic.webm]	/la ʁepyblik/	республіка
+européen / européenne	European	[sound:european.webm]	/øʁɔpeɛ̃, øʁɔpeɛn/	європейський / європейська
+original / originale	original	[sound:original.webm]	/ɔʁiʒinal/	оригінальний / оригінальна
+le tennis	the tennis	[sound:the-tennis.webm]	/lə tenis/	теніс
+ben	well (informal: ben oui)	[sound:well-informal-ben-oui.webm]	/bɛ̃/	ну (розм.: ben oui)
+plusieurs	several	[sound:several.webm]	/plyzjœʁ/	кілька, декілька
+le pâté	the pâté / the meat pie (pâté chinois = shepherd's pie)	[sound:the-pate-the-meat-pie-pate-chinois-shepherd-s-pie.webm]	/lə pate/	паштет / м'ясний пиріг (pâté chinois = квебекська запіканка з фаршем і пюре)
+scientifique	scientific	[sound:scientific.webm]	/sjɑ̃tifik/	науковий
+passionner	to fascinate (passionné de = passionate about)	[sound:to-fascinate-passionne-de-passionate-about.webm]	/pasjɔne/	захоплювати (passionné de = захоплений чимось)
+le ski	the ski / skiing	[sound:the-ski-skiing.webm]	/lə ski/	лижі / лижний спорт
+le continent	the continent	[sound:the-continent.webm]	/lə kɔ̃tinɑ̃/	континент
+commercial / commerciale	commercial	[sound:commercial.webm]	/kɔmɛʁsjal/	комерційний / комерційна
+analyser	to analyze	[sound:to-analyze.webm]	/analize/	аналізувати
+la confiture	the jam	[sound:the-jam.webm]	/la kɔ̃fityʁ/	варення, джем
+l'association (f.)	the association	[sound:the-association.webm]	/lasɔsjasjɔ̃/	асоціація, об'єднання
+le pull	the sweater (Québec: le chandail)	[sound:the-sweater-quebec-le-chandail.webm]	/lə pyl/	светр (у Квебеку: le chandail)
+la farine	the flour	[sound:the-flour.webm]	/la faʁin/	борошно
+le site	the site / the website	[sound:the-site-the-website.webm]	/lə sit/	місце / вебсайт
+scolaire	school (adj.) / academic (l'année scolaire)	[sound:school-adj-academic-l-annee-scolaire.webm]	/skɔlɛʁ/	шкільний / навчальний (l'année scolaire)
+la destination	the destination	[sound:the-destination.webm]	/la destinasjɔ̃/	пункт призначення
+indépendant / indépendante	independent	[sound:independent.webm]	/ɛ̃depɑ̃dɑ̃, ɛ̃depɑ̃dɑ̃t/	незалежний / незалежна
+la décoration	the decoration	[sound:the-decoration.webm]	/la dekɔʁasjɔ̃/	прикраса, оздоблення
+la spécialité	the speciality	[sound:the-speciality.webm]	/la spesjalite/	фірмова страва / спеціальність
+la tartine	the slice of bread and butter / the toast	[sound:the-slice-of-bread-and-butter-the-toast.webm]	/la taʁtin/	скибка хліба з маслом / грінка
+la mule	the mule / the slipper	[sound:the-mule-the-slipper.webm]	/la myl/	мул / капець (домашнє взуття)
+la technologie	the technology	[sound:the-technology.webm]	/la tɛknɔlɔʒi/	технологія
+le chômage	the unemployment	[sound:the-unemployment.webm]	/lə ʃomaʒ/	безробіття
+le supermarché	the supermarket (Québec: l'épicerie)	[sound:the-supermarket-quebec-l-epicerie.webm]	/lə sypɛʁmaʁʃe/	супермаркет (у Квебеку: l'épicerie)
+africain / africaine	African	[sound:african.webm]	/afʁikɛ̃, afʁikɛn/	африканський / африканська, африканець
+la crêpe	the crêpe / the pancake	[sound:the-crepe-the-pancake.webm]	/la kʁɛp/	млинець

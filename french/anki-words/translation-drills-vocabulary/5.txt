@@ -1,50 +1,50 @@
-descendre	to go down / to get off
-descendre de	to get off
-descendre en ville	to go downtown
-dessert	dessert
-devant	in front of
-devoirs	homework
-dictionnaire	dictionary
-dix	ten
-dix-huit	eighteen
-dix-neuf	nineteen
-dollar	dollar
-douce	soft / sweet / mild (fem.)
-doux	soft / sweet / mild
-douze	twelve
-drôle	funny
-du	some (masc.) / of the (de + le)
-du matin	in the morning
-défendre	to defend / to forbid
-déjeuner	to have breakfast (Québec)
-démolir	to demolish
-déneiger	to clear the snow from
-dépanneur	convenience store (Québec)
-dépendre	to depend
-dépendre de	to depend on
-détester	to hate
-dîner	lunch / to have lunch (Québec)
-eau	water
-emploi	job
-en famille	with the family
-en file	in line (Québec)
-en haut	upstairs
-en hiver	in winter
-en retard	late
-en été	in summer
-enfant	child
-enseignante	teacher (fem.)
-entendre	to hear
-entendre parler de	to hear about
-entreprise	company
-entrée	driveway
-escalier	staircase
-espagnol	Spanish
-et	and
-examen de conduite	driving test
-excité	excited
-expliquer	to explain
-famille	family
-farine	flour
-fatigué	tired
-fatiguée	tired (fem.)
+descendre	to go down / to get off			спускатися / виходити (з транспорту)
+descendre de	to get off			виходити (з транспорту)
+descendre en ville	to go downtown			їхати до центру міста
+dessert	dessert			десерт
+devant	in front of			перед
+devoirs	homework			домашнє завдання
+dictionnaire	dictionary			словник
+dix	ten			десять
+dix-huit	eighteen			вісімнадцять
+dix-neuf	nineteen			дев'ятнадцять
+dollar	dollar			долар
+douce	soft / sweet / mild (fem.)			м'яка / солодка / лагідна
+doux	soft / sweet / mild			м'який / солодкий / лагідний
+douze	twelve			дванадцять
+drôle	funny			смішний, кумедний
+du	some (masc.) / of the (de + le)			трохи (чол. р.) / з (de + le)
+du matin	in the morning			ранку, вранці
+défendre	to defend / to forbid			захищати / забороняти
+déjeuner	to have breakfast (Québec)			снідати (у Квебеку)
+démolir	to demolish			зносити, руйнувати
+déneiger	to clear the snow from			розчищати від снігу
+dépanneur	convenience store (Québec)			цілодобовий магазинчик біля дому (у Квебеку)
+dépendre	to depend			залежати
+dépendre de	to depend on			залежати від
+détester	to hate			ненавидіти
+dîner	lunch / to have lunch (Québec)			обід / обідати (у Квебеку)
+eau	water			вода
+emploi	job			робота, посада
+en famille	with the family			всією сім'єю
+en file	in line (Québec)			у черзі (у Квебеку)
+en haut	upstairs			нагорі
+en hiver	in winter			взимку
+en retard	late			із запізненням, запізнитися
+en été	in summer			влітку
+enfant	child			дитина
+enseignante	teacher (fem.)			вчителька
+entendre	to hear			чути
+entendre parler de	to hear about			чути про
+entreprise	company			підприємство, компанія
+entrée	driveway			під'їзна доріжка
+escalier	staircase			сходи
+espagnol	Spanish			іспанський, іспанець
+et	and			і, та
+examen de conduite	driving test			іспит з водіння
+excité	excited			схвильований, збуджений
+expliquer	to explain			пояснювати
+famille	family			сім'я, родина
+farine	flour			борошно
+fatigué	tired			втомлений
+fatiguée	tired (fem.)			втомлена

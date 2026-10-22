@@ -1,50 +1,50 @@
-l'insulte (f.)	the insult	[sound:the-insult.webm]	/lɛ̃sylt/
-la pizza	the pizza	[sound:the-pizza.webm]	/la pidza/
-gigantesque	gigantic	[sound:gigantic.webm]	/ʒiɡɑ̃tɛsk/
-la durée	the duration / the length (time)	[sound:the-duration-the-length-time.webm]	/la dyʁe/
-l'édition (f.)	the edition / the publishing	[sound:the-edition-the-publishing.webm]	/ledisjɔ̃/
-le dragon	the dragon	[sound:the-dragon.webm]	/lə dʁaɡɔ̃/
-l'agitation (f.)	the agitation / the bustle	[sound:the-agitation-the-bustle.webm]	/laʒitasjɔ̃/
-le robot	the robot	[sound:the-robot.webm]	/lə ʁɔbo/
-la manifestation	the demonstration (protest) / the event	[sound:the-demonstration-protest-the-event.webm]	/la manifɛstasjɔ̃/
-la recette	the recipe / the takings	[sound:the-recipe-the-takings.webm]	/la ʁəsɛt/
-le songe	the dream (literary)	[sound:the-dream-literary.webm]	/lə sɔ̃ʒ/
-impressionnant / impressionnante	impressive	[sound:impressive-impressionnant-impressionnante.webm]	/ɛ̃pʁesjɔnɑ̃, ɛ̃pʁesjɔnɑ̃t/
-progresser	to progress	[sound:to-progress.webm]	/pʁɔɡʁese/
-effectuer	to carry out / to make (a payment)	[sound:to-carry-out-to-make-a-payment.webm]	/efɛktɥe/
-le veau	the calf / the veal	[sound:the-calf-the-veal.webm]	/lə vo/
-l'initiative (f.)	the initiative	[sound:the-initiative.webm]	/linisjativ/
-la politesse	the politeness	[sound:the-politeness.webm]	/la pɔlitɛs/
-la provision	the supply (les provisions = groceries)	[sound:the-supply-les-provisions-groceries.webm]	/la pʁɔvizjɔ̃/
-la caserne	the barracks / the fire station	[sound:the-barracks-the-fire-station.webm]	/la kazɛʁn/
-le feuillage	the foliage / the leaves	[sound:the-foliage-the-leaves.webm]	/lə fœjaʒ/
-grossir	to put on weight / to grow bigger	[sound:to-put-on-weight-to-grow-bigger.webm]	/ɡʁɔsiʁ/
-intriguer	to intrigue / to puzzle	[sound:to-intrigue-to-puzzle.webm]	/ɛ̃tʁiɡe/
-la circulation	the traffic / the circulation	[sound:the-traffic-the-circulation.webm]	/la siʁkylasjɔ̃/
-la coïncidence	the coincidence	[sound:the-coincidence.webm]	/la kɔɛ̃sidɑ̃s/
-la fiche	the form / the index card / the plug	[sound:the-form-the-index-card-the-plug.webm]	/la fiʃ/
-disponible	available	[sound:available.webm]	/dispɔnibl/
-le parcours	the route / the course / the career path	[sound:the-route-the-course-the-career-path.webm]	/lə paʁkuʁ/
-l'évêque (m.)	the bishop	[sound:the-bishop.webm]	/levɛk/
-positif / positive	positive	[sound:positive.webm]	/pozitif, pozitiv/
-la jungle	the jungle	[sound:the-jungle.webm]	/la ʒœ̃ɡl/
-le couvercle	the lid	[sound:the-lid.webm]	/lə kuvɛʁkl/
-la quête	the quest / the collection (church)	[sound:the-quest-the-collection-church.webm]	/la kɛt/
-généralement	generally / usually	[sound:generally-usually.webm]	/ʒeneʁaləmɑ̃/
-la saucisse	the sausage	[sound:the-sausage.webm]	/la sosis/
-supplémentaire	extra / additional	[sound:extra-additional.webm]	/syplemɑ̃tɛʁ/
-le diplôme	the diploma / the degree	[sound:the-diploma-the-degree.webm]	/lə diplom/
-le combattant / la combattante	the fighter	[sound:the-fighter.webm]	/lə kɔ̃batɑ̃, la kɔ̃batɑ̃t/
-l'écrit (m.)	the written exam / the writing	[sound:the-written-exam-the-writing.webm]	/lekʁi/
-le phénomène	the phenomenon	[sound:the-phenomenon.webm]	/lə fenɔmɛn/
-municipal / municipale	municipal / city	[sound:municipal-city.webm]	/mynisipal/
-la simplicité	the simplicity	[sound:the-simplicity.webm]	/la sɛ̃plisite/
-le trajet	the journey / the trip / the commute	[sound:the-journey-the-trip-the-commute.webm]	/lə tʁaʒɛ/
-dissiper	to dispel / to clear	[sound:to-dispel-to-clear.webm]	/disipe/
-vidéo	video (adj.) (le jeu vidéo = video game)	[sound:video-adj-le-jeu-video-video-game.webm]	/video/
-l'industrie (f.)	the industry	[sound:the-industry.webm]	/lɛ̃dystʁi/
-négatif / négative	negative	[sound:negative.webm]	/neɡatif, neɡativ/
-voire	or even / indeed	[sound:or-even-indeed.webm]	/vwaʁ/
-le trafic	the traffic / the trafficking	[sound:the-traffic-the-trafficking.webm]	/lə tʁafik/
-le change	the exchange (currency) (le bureau de change)	[sound:the-exchange-currency-le-bureau-de-change.webm]	/lə ʃɑ̃ʒ/
-solennel / solennelle	solemn	[sound:solemn.webm]	/sɔlanɛl/
+l'insulte (f.)	the insult	[sound:the-insult.webm]	/lɛ̃sylt/	образа
+la pizza	the pizza	[sound:the-pizza.webm]	/la pidza/	піца
+gigantesque	gigantic	[sound:gigantic.webm]	/ʒiɡɑ̃tɛsk/	гігантський
+la durée	the duration / the length (time)	[sound:the-duration-the-length-time.webm]	/la dyʁe/	тривалість
+l'édition (f.)	the edition / the publishing	[sound:the-edition-the-publishing.webm]	/ledisjɔ̃/	видання / книговидання
+le dragon	the dragon	[sound:the-dragon.webm]	/lə dʁaɡɔ̃/	дракон
+l'agitation (f.)	the agitation / the bustle	[sound:the-agitation-the-bustle.webm]	/laʒitasjɔ̃/	хвилювання / метушня
+le robot	the robot	[sound:the-robot.webm]	/lə ʁɔbo/	робот
+la manifestation	the demonstration (protest) / the event	[sound:the-demonstration-protest-the-event.webm]	/la manifɛstasjɔ̃/	демонстрація (протест) / захід
+la recette	the recipe / the takings	[sound:the-recipe-the-takings.webm]	/la ʁəsɛt/	рецепт / виторг
+le songe	the dream (literary)	[sound:the-dream-literary.webm]	/lə sɔ̃ʒ/	сон, мрія (книжн.)
+impressionnant / impressionnante	impressive	[sound:impressive-impressionnant-impressionnante.webm]	/ɛ̃pʁesjɔnɑ̃, ɛ̃pʁesjɔnɑ̃t/	вражаючий / вражаюча
+progresser	to progress	[sound:to-progress.webm]	/pʁɔɡʁese/	прогресувати, просуватися
+effectuer	to carry out / to make (a payment)	[sound:to-carry-out-to-make-a-payment.webm]	/efɛktɥe/	виконувати / здійснювати (платіж)
+le veau	the calf / the veal	[sound:the-calf-the-veal.webm]	/lə vo/	теля / телятина
+l'initiative (f.)	the initiative	[sound:the-initiative.webm]	/linisjativ/	ініціатива
+la politesse	the politeness	[sound:the-politeness.webm]	/la pɔlitɛs/	ввічливість
+la provision	the supply (les provisions = groceries)	[sound:the-supply-les-provisions-groceries.webm]	/la pʁɔvizjɔ̃/	запас (les provisions = продукти)
+la caserne	the barracks / the fire station	[sound:the-barracks-the-fire-station.webm]	/la kazɛʁn/	казарма / пожежна частина
+le feuillage	the foliage / the leaves	[sound:the-foliage-the-leaves.webm]	/lə fœjaʒ/	листя
+grossir	to put on weight / to grow bigger	[sound:to-put-on-weight-to-grow-bigger.webm]	/ɡʁɔsiʁ/	гладшати / збільшуватися
+intriguer	to intrigue / to puzzle	[sound:to-intrigue-to-puzzle.webm]	/ɛ̃tʁiɡe/	інтригувати / спантеличувати
+la circulation	the traffic / the circulation	[sound:the-traffic-the-circulation.webm]	/la siʁkylasjɔ̃/	дорожній рух / кровообіг
+la coïncidence	the coincidence	[sound:the-coincidence.webm]	/la kɔɛ̃sidɑ̃s/	збіг
+la fiche	the form / the index card / the plug	[sound:the-form-the-index-card-the-plug.webm]	/la fiʃ/	бланк / картка / штекер
+disponible	available	[sound:available.webm]	/dispɔnibl/	доступний / вільний
+le parcours	the route / the course / the career path	[sound:the-route-the-course-the-career-path.webm]	/lə paʁkuʁ/	маршрут / дистанція / кар'єрний шлях
+l'évêque (m.)	the bishop	[sound:the-bishop.webm]	/levɛk/	єпископ
+positif / positive	positive	[sound:positive.webm]	/pozitif, pozitiv/	позитивний / позитивна
+la jungle	the jungle	[sound:the-jungle.webm]	/la ʒœ̃ɡl/	джунглі
+le couvercle	the lid	[sound:the-lid.webm]	/lə kuvɛʁkl/	кришка
+la quête	the quest / the collection (church)	[sound:the-quest-the-collection-church.webm]	/la kɛt/	пошук / збір пожертв (у церкві)
+généralement	generally / usually	[sound:generally-usually.webm]	/ʒeneʁaləmɑ̃/	загалом / зазвичай
+la saucisse	the sausage	[sound:the-sausage.webm]	/la sosis/	сосиска
+supplémentaire	extra / additional	[sound:extra-additional.webm]	/syplemɑ̃tɛʁ/	додатковий
+le diplôme	the diploma / the degree	[sound:the-diploma-the-degree.webm]	/lə diplom/	диплом / ступінь
+le combattant / la combattante	the fighter	[sound:the-fighter.webm]	/lə kɔ̃batɑ̃, la kɔ̃batɑ̃t/	боєць / бійчиня
+l'écrit (m.)	the written exam / the writing	[sound:the-written-exam-the-writing.webm]	/lekʁi/	письмовий іспит / твір, писання
+le phénomène	the phenomenon	[sound:the-phenomenon.webm]	/lə fenɔmɛn/	явище
+municipal / municipale	municipal / city	[sound:municipal-city.webm]	/mynisipal/	муніципальний / міський
+la simplicité	the simplicity	[sound:the-simplicity.webm]	/la sɛ̃plisite/	простота
+le trajet	the journey / the trip / the commute	[sound:the-journey-the-trip-the-commute.webm]	/lə tʁaʒɛ/	шлях / поїздка / дорога на роботу
+dissiper	to dispel / to clear	[sound:to-dispel-to-clear.webm]	/disipe/	розвіювати / розсіювати
+vidéo	video (adj.) (le jeu vidéo = video game)	[sound:video-adj-le-jeu-video-video-game.webm]	/video/	відео- (le jeu vidéo = відеогра)
+l'industrie (f.)	the industry	[sound:the-industry.webm]	/lɛ̃dystʁi/	промисловість
+négatif / négative	negative	[sound:negative.webm]	/neɡatif, neɡativ/	негативний / негативна
+voire	or even / indeed	[sound:or-even-indeed.webm]	/vwaʁ/	і навіть / а то й
+le trafic	the traffic / the trafficking	[sound:the-traffic-the-trafficking.webm]	/lə tʁafik/	дорожній рух / торгівля (незаконна)
+le change	the exchange (currency) (le bureau de change)	[sound:the-exchange-currency-le-bureau-de-change.webm]	/lə ʃɑ̃ʒ/	обмін (валюти) (le bureau de change = обмінний пункт)
+solennel / solennelle	solemn	[sound:solemn.webm]	/sɔlanɛl/	урочистий / урочиста

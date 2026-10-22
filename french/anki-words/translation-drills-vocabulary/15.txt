@@ -1,9 +1,9 @@
-étoile	star
-étranger	foreign
-étrangère	foreign (fem.)
-étroit	narrow
-étudiant	student
-étudiante	student (fem.)
-étudier	to study
-œil / yeux	eye / eyes (irregular plural)
-œuf	egg
+étoile	star			зірка
+étranger	foreign			іноземний, чужий
+étrangère	foreign (fem.)			іноземна, чужа
+étroit	narrow			вузький
+étudiant	student			студент
+étudiante	student (fem.)			студентка
+étudier	to study			вчитися, вивчати
+œil / yeux	eye / eyes (irregular plural)			око / очі (неправильна мн.)
+œuf	egg			яйце

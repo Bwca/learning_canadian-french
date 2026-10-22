@@ -1,50 +1,50 @@
-le parc	the park	[sound:the-park.webm]	/lə paʁk/
-l'étudiant (m.) / l'étudiante (f.)	the student (university)	[sound:the-student-university.webm]	/letydjɑ̃, letydjɑ̃t/
-la rivière	the river	[sound:the-river.webm]	/la ʁivjɛʁ/
-agréable	pleasant	[sound:pleasant.webm]	/aɡʁeabl/
-le disque	the record / the disc	[sound:the-record-the-disc.webm]	/lə disk/
-noter	to write down / to note	[sound:to-write-down-to-note.webm]	/nɔte/
-principal / principale	main / principal	[sound:main-principal.webm]	/pʁɛ̃sipal/
-le programme	the programme / the schedule	[sound:the-programme-the-schedule.webm]	/lə pʁɔɡʁam/
-le cimetière	the cemetery	[sound:the-cemetery.webm]	/lə simətjɛʁ/
-la boutique	the shop / the boutique	[sound:the-shop-the-boutique.webm]	/la butik/
-la matière	the subject (school) / the material	[sound:the-subject-school-the-material.webm]	/la matjɛʁ/
-l'ouvrier (m.) / l'ouvrière (f.)	the worker (factory)	[sound:the-worker-factory.webm]	/luvʁije, luvʁijɛʁ/
-le / la secrétaire	the secretary	[sound:the-secretary.webm]	/lə, la səkʁetɛʁ/
-l'examen (m.)	the exam	[sound:the-exam-l-examen-m.webm]	/lɛɡzamɛ̃/
-l'origine (f.)	the origin	[sound:the-origin.webm]	/lɔʁiʒin/
-participer	to take part / to participate	[sound:to-take-part-to-participate.webm]	/paʁtisipe/
-l'écrivain (m.) / l'écrivaine (f.)	the writer	[sound:the-writer.webm]	/lekʁivɛ̃, lekʁivɛn/
-la promenade	the walk / the stroll	[sound:the-walk-the-stroll.webm]	/la pʁɔmnad/
-complet / complète	full / complete	[sound:full-complete.webm]	/kɔ̃plɛ, kɔ̃plɛt/
-voyager	to travel	[sound:to-travel.webm]	/vwajaʒe/
-supérieur / supérieure	higher / upper / superior	[sound:higher-upper-superior.webm]	/sypeʁjœʁ/
-quelquefois	sometimes	[sound:sometimes-quelquefois.webm]	/kɛlkəfwa/
-le plateau	the tray / the plateau / the set (TV)	[sound:the-tray-the-plateau-the-set-tv.webm]	/lə plato/
-déjeuner	to have lunch (France) / to have breakfast (Québec)	[sound:to-have-lunch-france-to-have-breakfast-quebec.webm]	/deʒœne/
-le / la collègue	the colleague	[sound:the-colleague.webm]	/lə, la kɔlɛɡ/
-la lecture	the reading	[sound:the-reading.webm]	/la lɛktyʁ/
-la soupe	the soup	[sound:the-soup.webm]	/la sup/
-mai (m.)	May	[sound:may-mai-m.webm]	/mɛ/
-extraordinaire	extraordinary	[sound:extraordinary.webm]	/ɛkstʁaɔʁdinɛʁ/
-le / la propriétaire	the owner / the landlord	[sound:the-owner-the-landlord.webm]	/lə, la pʁɔpʁijetɛʁ/
-la voile	the sail (le voile = the veil)	[sound:the-sail-le-voile-the-veil.webm]	/la vwal/
-le fleuve	the river (flowing to the sea)	[sound:the-river-flowing-to-the-sea.webm]	/lə flœv/
-l'invité (m.) / l'invitée (f.)	the guest	[sound:the-guest.webm]	/lɛ̃vite, lɛ̃vite/
-rechercher	to search for / to look for	[sound:to-search-for-to-look-for.webm]	/ʁəʃɛʁʃe/
-baigner	to bathe (se baigner = to go swimming)	[sound:to-bathe-se-baigner-to-go-swimming.webm]	/beɲe/
-responsable	responsible / in charge	[sound:responsible-in-charge.webm]	/ʁɛspɔ̃sabl/
-le domaine	the field / the domain / the estate	[sound:the-field-the-domain-the-estate.webm]	/lə dɔmɛn/
-l'entreprise (f.)	the company / the business	[sound:the-company-the-business.webm]	/lɑ̃tʁəpʁiz/
-le boulevard	the boulevard	[sound:the-boulevard.webm]	/lə buləvaʁ/
-le chocolat	the chocolate	[sound:the-chocolate.webm]	/lə ʃɔkɔla/
-directement	directly	[sound:directly.webm]	/diʁɛktəmɑ̃/
-le / la journaliste	the journalist	[sound:the-journalist.webm]	/lə, la ʒuʁnalist/
-célèbre	famous	[sound:famous.webm]	/selɛbʁ/
-les félicitations	congratulations	[sound:congratulations.webm]	/le felisitasjɔ̃/
-le sommet	the summit / the top	[sound:the-summit-the-top.webm]	/lə sɔmɛ/
-le sucre	the sugar	[sound:the-sugar.webm]	/lə sykʁ/
-juin (m.)	June	[sound:june.webm]	/ʒɥɛ̃/
-le bâtiment	the building	[sound:the-building-le-batiment.webm]	/lə batimɑ̃/
-la roue	the wheel	[sound:the-wheel.webm]	/la ʁu/
-la science	the science	[sound:the-science.webm]	/la sjɑ̃s/
+le parc	the park	[sound:the-park.webm]	/lə paʁk/	парк
+l'étudiant (m.) / l'étudiante (f.)	the student (university)	[sound:the-student-university.webm]	/letydjɑ̃, letydjɑ̃t/	студент / студентка
+la rivière	the river	[sound:the-river.webm]	/la ʁivjɛʁ/	річка
+agréable	pleasant	[sound:pleasant.webm]	/aɡʁeabl/	приємний
+le disque	the record / the disc	[sound:the-record-the-disc.webm]	/lə disk/	платівка / диск
+noter	to write down / to note	[sound:to-write-down-to-note.webm]	/nɔte/	записувати / помічати
+principal / principale	main / principal	[sound:main-principal.webm]	/pʁɛ̃sipal/	головний / головна
+le programme	the programme / the schedule	[sound:the-programme-the-schedule.webm]	/lə pʁɔɡʁam/	програма / розклад
+le cimetière	the cemetery	[sound:the-cemetery.webm]	/lə simətjɛʁ/	цвинтар
+la boutique	the shop / the boutique	[sound:the-shop-the-boutique.webm]	/la butik/	крамниця / бутик
+la matière	the subject (school) / the material	[sound:the-subject-school-the-material.webm]	/la matjɛʁ/	предмет (шкільний) / матеріал
+l'ouvrier (m.) / l'ouvrière (f.)	the worker (factory)	[sound:the-worker-factory.webm]	/luvʁije, luvʁijɛʁ/	робітник / робітниця
+le / la secrétaire	the secretary	[sound:the-secretary.webm]	/lə, la səkʁetɛʁ/	секретар / секретарка
+l'examen (m.)	the exam	[sound:the-exam-l-examen-m.webm]	/lɛɡzamɛ̃/	іспит
+l'origine (f.)	the origin	[sound:the-origin.webm]	/lɔʁiʒin/	походження
+participer	to take part / to participate	[sound:to-take-part-to-participate.webm]	/paʁtisipe/	брати участь
+l'écrivain (m.) / l'écrivaine (f.)	the writer	[sound:the-writer.webm]	/lekʁivɛ̃, lekʁivɛn/	письменник / письменниця
+la promenade	the walk / the stroll	[sound:the-walk-the-stroll.webm]	/la pʁɔmnad/	прогулянка
+complet / complète	full / complete	[sound:full-complete.webm]	/kɔ̃plɛ, kɔ̃plɛt/	повний / повна
+voyager	to travel	[sound:to-travel.webm]	/vwajaʒe/	подорожувати
+supérieur / supérieure	higher / upper / superior	[sound:higher-upper-superior.webm]	/sypeʁjœʁ/	вищий / верхній
+quelquefois	sometimes	[sound:sometimes-quelquefois.webm]	/kɛlkəfwa/	іноді
+le plateau	the tray / the plateau / the set (TV)	[sound:the-tray-the-plateau-the-set-tv.webm]	/lə plato/	таця / плато / знімальний майданчик
+déjeuner	to have lunch (France) / to have breakfast (Québec)	[sound:to-have-lunch-france-to-have-breakfast-quebec.webm]	/deʒœne/	обідати (у Франції) / снідати (у Квебеку)
+le / la collègue	the colleague	[sound:the-colleague.webm]	/lə, la kɔlɛɡ/	колега
+la lecture	the reading	[sound:the-reading.webm]	/la lɛktyʁ/	читання
+la soupe	the soup	[sound:the-soup.webm]	/la sup/	суп
+mai (m.)	May	[sound:may-mai-m.webm]	/mɛ/	травень
+extraordinaire	extraordinary	[sound:extraordinary.webm]	/ɛkstʁaɔʁdinɛʁ/	надзвичайний
+le / la propriétaire	the owner / the landlord	[sound:the-owner-the-landlord.webm]	/lə, la pʁɔpʁijetɛʁ/	власник / власниця / орендодавець
+la voile	the sail (le voile = the veil)	[sound:the-sail-le-voile-the-veil.webm]	/la vwal/	вітрило (le voile = вуаль)
+le fleuve	the river (flowing to the sea)	[sound:the-river-flowing-to-the-sea.webm]	/lə flœv/	велика річка (що впадає в море)
+l'invité (m.) / l'invitée (f.)	the guest	[sound:the-guest.webm]	/lɛ̃vite, lɛ̃vite/	гість / гостя
+rechercher	to search for / to look for	[sound:to-search-for-to-look-for.webm]	/ʁəʃɛʁʃe/	шукати
+baigner	to bathe (se baigner = to go swimming)	[sound:to-bathe-se-baigner-to-go-swimming.webm]	/beɲe/	купати (se baigner = купатися)
+responsable	responsible / in charge	[sound:responsible-in-charge.webm]	/ʁɛspɔ̃sabl/	відповідальний
+le domaine	the field / the domain / the estate	[sound:the-field-the-domain-the-estate.webm]	/lə dɔmɛn/	галузь / сфера / маєток
+l'entreprise (f.)	the company / the business	[sound:the-company-the-business.webm]	/lɑ̃tʁəpʁiz/	підприємство, компанія
+le boulevard	the boulevard	[sound:the-boulevard.webm]	/lə buləvaʁ/	бульвар
+le chocolat	the chocolate	[sound:the-chocolate.webm]	/lə ʃɔkɔla/	шоколад
+directement	directly	[sound:directly.webm]	/diʁɛktəmɑ̃/	прямо, безпосередньо
+le / la journaliste	the journalist	[sound:the-journalist.webm]	/lə, la ʒuʁnalist/	журналіст / журналістка
+célèbre	famous	[sound:famous.webm]	/selɛbʁ/	відомий
+les félicitations	congratulations	[sound:congratulations.webm]	/le felisitasjɔ̃/	вітання, поздоровлення
+le sommet	the summit / the top	[sound:the-summit-the-top.webm]	/lə sɔmɛ/	вершина
+le sucre	the sugar	[sound:the-sugar.webm]	/lə sykʁ/	цукор
+juin (m.)	June	[sound:june.webm]	/ʒɥɛ̃/	червень
+le bâtiment	the building	[sound:the-building-le-batiment.webm]	/lə batimɑ̃/	будівля
+la roue	the wheel	[sound:the-wheel.webm]	/la ʁu/	колесо
+la science	the science	[sound:the-science.webm]	/la sjɑ̃s/	наука

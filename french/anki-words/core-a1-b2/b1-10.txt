@@ -1,50 +1,50 @@
-éveiller	to awaken / to arouse	[sound:to-awaken-to-arouse.webm]	/eveje/
-la drogue	the drug	[sound:the-drug.webm]	/la dʁɔɡ/
-ordonner	to order / to tidy up	[sound:to-order-to-tidy-up.webm]	/ɔʁdɔne/
-la promesse	the promise	[sound:the-promise.webm]	/la pʁɔmɛs/
-tantôt	earlier / later (Québec: earlier or later today)	[sound:earlier-later-quebec-earlier-or-later-today.webm]	/tɑ̃to/
-raser	to shave (se raser)	[sound:to-shave-se-raser.webm]	/ʁaze/
-grimper	to climb	[sound:to-climb.webm]	/ɡʁɛ̃pe/
-le navire	the ship	[sound:the-ship.webm]	/lə naviʁ/
-foncer	to rush / to darken (foncé = dark)	[sound:to-rush-to-darken-fonce-dark.webm]	/fɔ̃se/
-la sueur	the sweat	[sound:the-sweat.webm]	/la sɥœʁ/
-la nation	the nation	[sound:the-nation.webm]	/la nasjɔ̃/
-la mise	the setting (la mise en place = setting up)	[sound:the-setting-la-mise-en-place-setting-up.webm]	/la miz/
-fameux / fameuse	famous / (informal) great	[sound:famous-informal-great.webm]	/famø, famøz/
-figurer	to appear / to be listed	[sound:to-appear-to-be-listed.webm]	/fiɡyʁe/
-légèrement	slightly	[sound:slightly.webm]	/leʒɛʁəmɑ̃/
-la mouche	the fly	[sound:the-fly.webm]	/la muʃ/
-vêtir	to dress (vêtu de = dressed in)	[sound:to-dress-vetu-de-dressed-in.webm]	/vetiʁ/
-la révolution	the revolution	[sound:the-revolution.webm]	/la ʁevɔlysjɔ̃/
-la centaine	about a hundred (une centaine de)	[sound:about-a-hundred-une-centaine-de.webm]	/la sɑ̃tɛn/
-rejeter	to reject	[sound:to-reject.webm]	/ʁəʒte/
-la lueur	the glimmer / the gleam	[sound:the-glimmer-the-gleam.webm]	/la lɥœʁ/
-censé / censée	supposed (to) (être censé = to be supposed to)	[sound:supposed-to-etre-cense-to-be-supposed-to.webm]	/sɑ̃se/
-ferme	firm	[sound:firm.webm]	/fɛʁm/
-réclamer	to claim / to demand	[sound:to-claim-to-demand.webm]	/ʁeklame/
-régner	to reign	[sound:to-reign.webm]	/ʁeɲe/
-dingue	crazy (informal)	[sound:crazy-informal.webm]	/dɛ̃ɡ/
-confondre	to confuse / to mix up	[sound:to-confuse-to-mix-up.webm]	/kɔ̃fɔ̃dʁ/
-furieux / furieuse	furious	[sound:furious.webm]	/fyʁjø, fyʁjøz/
-le procès	the trial	[sound:the-trial.webm]	/lə pʁɔsɛ/
-la résistance	the resistance	[sound:the-resistance.webm]	/la ʁezistɑ̃s/
-l'épreuve (f.)	the test / the ordeal / the exam paper	[sound:the-test-the-ordeal-the-exam-paper.webm]	/lepʁœv/
-retomber	to fall again / to fall back	[sound:to-fall-again-to-fall-back.webm]	/ʁətɔ̃be/
-le désert	the desert	[sound:the-desert.webm]	/lə dezɛʁ/
-étaler	to spread	[sound:to-spread.webm]	/etale/
-minuscule	tiny	[sound:tiny.webm]	/minyskyl/
-la grille	the gate / the grid / the grill	[sound:the-gate-the-grid-the-grill.webm]	/la ɡʁij/
-détourner	to divert / to turn away / to hijack	[sound:to-divert-to-turn-away-to-hijack.webm]	/detuʁne/
-la passe	the pass (le mot de passe = password)	[sound:the-pass-le-mot-de-passe-password.webm]	/la pas/
-le sorcier / la sorcière	the sorcerer / the witch	[sound:the-sorcerer-the-witch.webm]	/lə sɔʁsje, la sɔʁsjɛʁ/
-le coffre	the trunk (car) / the chest / the safe	[sound:the-trunk-car-the-chest-the-safe.webm]	/lə kɔfʁ/
-fâcher	to anger (se fâcher = to get angry)	[sound:to-anger-se-facher-to-get-angry.webm]	/faʃe/
-invisible	invisible	[sound:invisible.webm]	/ɛ̃vizibl/
-la poule	the hen	[sound:the-hen.webm]	/la pul/
-avertir	to warn	[sound:to-warn.webm]	/avɛʁtiʁ/
-la boue	the mud	[sound:the-mud.webm]	/la bu/
-la curiosité	the curiosity	[sound:the-curiosity.webm]	/la kyʁjozite/
-minuit (m.)	midnight	[sound:midnight.webm]	/minɥi/
-le contrat	the contract	[sound:the-contract.webm]	/lə kɔ̃tʁa/
-la paupière	the eyelid	[sound:the-eyelid.webm]	/la popjɛʁ/
-gâcher	to waste / to spoil	[sound:to-waste-to-spoil.webm]	/ɡaʃe/
+éveiller	to awaken / to arouse	[sound:to-awaken-to-arouse.webm]	/eveje/	будити / пробуджувати
+la drogue	the drug	[sound:the-drug.webm]	/la dʁɔɡ/	наркотик
+ordonner	to order / to tidy up	[sound:to-order-to-tidy-up.webm]	/ɔʁdɔne/	наказувати / упорядковувати
+la promesse	the promise	[sound:the-promise.webm]	/la pʁɔmɛs/	обіцянка
+tantôt	earlier / later (Québec: earlier or later today)	[sound:earlier-later-quebec-earlier-or-later-today.webm]	/tɑ̃to/	нещодавно / згодом (у Квебеку: сьогодні раніше або пізніше)
+raser	to shave (se raser)	[sound:to-shave-se-raser.webm]	/ʁaze/	голити (se raser = голитися)
+grimper	to climb	[sound:to-climb.webm]	/ɡʁɛ̃pe/	дертися, лізти
+le navire	the ship	[sound:the-ship.webm]	/lə naviʁ/	корабель
+foncer	to rush / to darken (foncé = dark)	[sound:to-rush-to-darken-fonce-dark.webm]	/fɔ̃se/	мчати / темніти (foncé = темний)
+la sueur	the sweat	[sound:the-sweat.webm]	/la sɥœʁ/	піт
+la nation	the nation	[sound:the-nation.webm]	/la nasjɔ̃/	нація
+la mise	the setting (la mise en place = setting up)	[sound:the-setting-la-mise-en-place-setting-up.webm]	/la miz/	розміщення (la mise en place = підготовка, налаштування)
+fameux / fameuse	famous / (informal) great	[sound:famous-informal-great.webm]	/famø, famøz/	знаменитий / (розм.) чудовий
+figurer	to appear / to be listed	[sound:to-appear-to-be-listed.webm]	/fiɡyʁe/	фігурувати / бути в списку
+légèrement	slightly	[sound:slightly.webm]	/leʒɛʁəmɑ̃/	трохи, злегка
+la mouche	the fly	[sound:the-fly.webm]	/la muʃ/	муха
+vêtir	to dress (vêtu de = dressed in)	[sound:to-dress-vetu-de-dressed-in.webm]	/vetiʁ/	одягати (vêtu de = одягнений у)
+la révolution	the revolution	[sound:the-revolution.webm]	/la ʁevɔlysjɔ̃/	революція
+la centaine	about a hundred (une centaine de)	[sound:about-a-hundred-une-centaine-de.webm]	/la sɑ̃tɛn/	близько сотні (une centaine de)
+rejeter	to reject	[sound:to-reject.webm]	/ʁəʒte/	відкидати
+la lueur	the glimmer / the gleam	[sound:the-glimmer-the-gleam.webm]	/la lɥœʁ/	проблиск / відблиск
+censé / censée	supposed (to) (être censé = to be supposed to)	[sound:supposed-to-etre-cense-to-be-supposed-to.webm]	/sɑ̃se/	що мав би, нібито (être censé = бути мав би)
+ferme	firm	[sound:firm.webm]	/fɛʁm/	твердий / тверда, рішучий
+réclamer	to claim / to demand	[sound:to-claim-to-demand.webm]	/ʁeklame/	вимагати / заявляти права
+régner	to reign	[sound:to-reign.webm]	/ʁeɲe/	царювати, панувати
+dingue	crazy (informal)	[sound:crazy-informal.webm]	/dɛ̃ɡ/	божевільний (розм.)
+confondre	to confuse / to mix up	[sound:to-confuse-to-mix-up.webm]	/kɔ̃fɔ̃dʁ/	плутати
+furieux / furieuse	furious	[sound:furious.webm]	/fyʁjø, fyʁjøz/	лютий / люта, розлючений
+le procès	the trial	[sound:the-trial.webm]	/lə pʁɔsɛ/	судовий процес
+la résistance	the resistance	[sound:the-resistance.webm]	/la ʁezistɑ̃s/	опір
+l'épreuve (f.)	the test / the ordeal / the exam paper	[sound:the-test-the-ordeal-the-exam-paper.webm]	/lepʁœv/	випробування / екзаменаційне завдання
+retomber	to fall again / to fall back	[sound:to-fall-again-to-fall-back.webm]	/ʁətɔ̃be/	знову падати / потрапляти знову
+le désert	the desert	[sound:the-desert.webm]	/lə dezɛʁ/	пустеля
+étaler	to spread	[sound:to-spread.webm]	/etale/	розмазувати / розкладати
+minuscule	tiny	[sound:tiny.webm]	/minyskyl/	крихітний
+la grille	the gate / the grid / the grill	[sound:the-gate-the-grid-the-grill.webm]	/la ɡʁij/	ґрати, ворота / сітка / решітка
+détourner	to divert / to turn away / to hijack	[sound:to-divert-to-turn-away-to-hijack.webm]	/detuʁne/	відвертати / звертати / викрадати (літак)
+la passe	the pass (le mot de passe = password)	[sound:the-pass-le-mot-de-passe-password.webm]	/la pas/	пас, перепустка (le mot de passe = пароль)
+le sorcier / la sorcière	the sorcerer / the witch	[sound:the-sorcerer-the-witch.webm]	/lə sɔʁsje, la sɔʁsjɛʁ/	чаклун / відьма
+le coffre	the trunk (car) / the chest / the safe	[sound:the-trunk-car-the-chest-the-safe.webm]	/lə kɔfʁ/	багажник / скриня / сейф
+fâcher	to anger (se fâcher = to get angry)	[sound:to-anger-se-facher-to-get-angry.webm]	/faʃe/	сердити (se fâcher = сердитися)
+invisible	invisible	[sound:invisible.webm]	/ɛ̃vizibl/	невидимий
+la poule	the hen	[sound:the-hen.webm]	/la pul/	курка
+avertir	to warn	[sound:to-warn.webm]	/avɛʁtiʁ/	попереджати
+la boue	the mud	[sound:the-mud.webm]	/la bu/	багнюка
+la curiosité	the curiosity	[sound:the-curiosity.webm]	/la kyʁjozite/	цікавість
+minuit (m.)	midnight	[sound:midnight.webm]	/minɥi/	північ (опівночі)
+le contrat	the contract	[sound:the-contract.webm]	/lə kɔ̃tʁa/	контракт, договір
+la paupière	the eyelid	[sound:the-eyelid.webm]	/la popjɛʁ/	повіка
+gâcher	to waste / to spoil	[sound:to-waste-to-spoil.webm]	/ɡaʃe/	марнувати / псувати

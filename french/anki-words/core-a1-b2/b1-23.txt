@@ -1,50 +1,50 @@
-le jet	the jet / the throw	[sound:the-jet-the-throw.webm]	/lə dʒɛt/
-le job	the job (informal)	[sound:the-job-informal.webm]	/lə dʒɔb/
-l'objectif (m.)	the goal / the objective / the lens (camera)	[sound:the-goal-the-objective-the-lens-camera.webm]	/lɔbʒɛktif/
-la facture	the bill / the invoice	[sound:the-bill-the-invoice.webm]	/la faktyʁ/
-la ressource	the resource (les ressources humaines = human resources)	[sound:the-resource-les-ressources-humaines-human-resources.webm]	/la ʁəsuʁs/
-l'élection (f.)	the election	[sound:the-election.webm]	/lelɛksjɔ̃/
-l'autorisation (f.)	the permission / the authorization	[sound:the-permission-the-authorization.webm]	/lotɔʁizasjɔ̃/
-le fossé	the ditch / the gap	[sound:the-ditch-the-gap.webm]	/lə fɔse/
-revivre	to relive / to come alive again	[sound:to-relive-to-come-alive-again.webm]	/ʁəvivʁ/
-la marchandise	the goods / the merchandise	[sound:the-goods-the-merchandise.webm]	/la maʁʃɑ̃diz/
-l'arrestation (f.)	the arrest	[sound:the-arrest.webm]	/laʁɛstasjɔ̃/
-améliorer	to improve	[sound:to-improve.webm]	/ameljɔʁe/
-indispensable	essential / indispensable	[sound:essential-indispensable.webm]	/ɛ̃dispɑ̃sabl/
-l'autobus (m.)	the bus	[sound:the-bus-l-autobus-m.webm]	/lotɔbys/
-violet / violette	purple / violet	[sound:purple-violet.webm]	/vjɔlɛ, vjɔlɛt/
-maîtriser	to master / to control	[sound:to-master-to-control.webm]	/metʁize/
-la tonne	the ton / the tonne (une tonne de = loads of)	[sound:the-ton-the-tonne-une-tonne-de-loads-of.webm]	/la tɔn/
-le pneu	the tire	[sound:the-tire.webm]	/lə pnø/
-limiter	to limit	[sound:to-limit.webm]	/limite/
-hisser	to hoist / to raise	[sound:to-hoist-to-raise.webm]	/ise/
-le bond	the leap / the bounce	[sound:the-leap-the-bounce.webm]	/lə bɔ̃/
-quelques-uns / quelques-unes	some / a few (of them)	[sound:some-a-few-of-them.webm]	/kɛlkəzœ̃, kɛlkəzyn/
-la ronde	the round / the patrol / the circle dance	[sound:the-round-the-patrol-the-circle-dance.webm]	/la ʁɔ̃d/
-courant / courante	common / everyday (au courant = informed)	[sound:common-everyday-au-courant-informed.webm]	/kuʁɑ̃, kuʁɑ̃t/
-la touche	the key (keyboard) / the touch	[sound:the-key-keyboard-the-touch.webm]	/la tuʃ/
-le bassin	the pool / the basin / the pelvis	[sound:the-pool-the-basin-the-pelvis.webm]	/lə basɛ̃/
-la réussite	the success	[sound:the-success-la-reussite.webm]	/la ʁeysit/
-la tragédie	the tragedy	[sound:the-tragedy.webm]	/la tʁaʒedi/
-démolir	to demolish / to wreck	[sound:to-demolish-to-wreck.webm]	/demɔliʁ/
-la nappe	the tablecloth / the layer (la nappe phréatique = water table)	[sound:the-tablecloth-the-layer-la-nappe-phreatique-water-table.webm]	/la nap/
-le stade	the stadium	[sound:the-stadium.webm]	/lə stad/
-l'excès (m.)	the excess	[sound:the-excess.webm]	/lɛksɛ/
-le délai	the deadline / the delay / the time limit	[sound:the-deadline-the-delay-the-time-limit.webm]	/lə delɛ/
-la création	the creation	[sound:the-creation.webm]	/la kʁeasjɔ̃/
-frôler	to brush against / to narrowly avoid	[sound:to-brush-against-to-narrowly-avoid.webm]	/fʁole/
-effectivement	indeed / in fact	[sound:indeed-in-fact.webm]	/efɛktivəmɑ̃/
-l'établissement (m.)	the establishment / the institution / the school	[sound:the-establishment-the-institution-the-school.webm]	/letablisəmɑ̃/
-efficace	effective / efficient	[sound:effective-efficient.webm]	/efikas/
-la batterie	the battery / the drums	[sound:the-battery-the-drums.webm]	/la batəʁi/
-sursauter	to jump / to start (in surprise)	[sound:to-jump-to-start-in-surprise.webm]	/syʁsote/
-modifier	to modify / to change	[sound:to-modify-to-change.webm]	/mɔdifje/
-chérir	to cherish	[sound:to-cherish.webm]	/ʃeʁiʁ/
-coudre	to sew	[sound:to-sew.webm]	/kudʁ/
-le sabot	the hoof / the clog	[sound:the-hoof-the-clog.webm]	/lə sabo/
-le tambour	the drum	[sound:the-drum.webm]	/lə tɑ̃buʁ/
-attribuer	to award / to attribute	[sound:to-award-to-attribute.webm]	/atʁibɥe/
-impatient / impatiente	impatient	[sound:impatient.webm]	/ɛ̃pasjɑ̃, ɛ̃pasjɑ̃t/
-la récompense	the reward	[sound:the-reward.webm]	/la ʁekɔ̃pɑ̃s/
-pêcher	to fish	[sound:to-fish-pecher.webm]	/peʃe/
-l'intervention (f.)	the intervention / the operation (surgery)	[sound:the-intervention-the-operation-surgery.webm]	/lɛ̃tɛʁvɑ̃sjɔ̃/
+le jet	the jet / the throw	[sound:the-jet-the-throw.webm]	/lə dʒɛt/	струмінь / кидок
+le job	the job (informal)	[sound:the-job-informal.webm]	/lə dʒɔb/	робота (розм.)
+l'objectif (m.)	the goal / the objective / the lens (camera)	[sound:the-goal-the-objective-the-lens-camera.webm]	/lɔbʒɛktif/	мета / ціль / об'єктив (фотоапарата)
+la facture	the bill / the invoice	[sound:the-bill-the-invoice.webm]	/la faktyʁ/	рахунок / рахунок-фактура
+la ressource	the resource (les ressources humaines = human resources)	[sound:the-resource-les-ressources-humaines-human-resources.webm]	/la ʁəsuʁs/	ресурс (les ressources humaines = відділ кадрів)
+l'élection (f.)	the election	[sound:the-election.webm]	/lelɛksjɔ̃/	вибори
+l'autorisation (f.)	the permission / the authorization	[sound:the-permission-the-authorization.webm]	/lotɔʁizasjɔ̃/	дозвіл
+le fossé	the ditch / the gap	[sound:the-ditch-the-gap.webm]	/lə fɔse/	рів / розрив, прірва
+revivre	to relive / to come alive again	[sound:to-relive-to-come-alive-again.webm]	/ʁəvivʁ/	знову переживати / оживати
+la marchandise	the goods / the merchandise	[sound:the-goods-the-merchandise.webm]	/la maʁʃɑ̃diz/	товар
+l'arrestation (f.)	the arrest	[sound:the-arrest.webm]	/laʁɛstasjɔ̃/	арешт
+améliorer	to improve	[sound:to-improve.webm]	/ameljɔʁe/	покращувати
+indispensable	essential / indispensable	[sound:essential-indispensable.webm]	/ɛ̃dispɑ̃sabl/	необхідний, незамінний
+l'autobus (m.)	the bus	[sound:the-bus-l-autobus-m.webm]	/lotɔbys/	автобус
+violet / violette	purple / violet	[sound:purple-violet.webm]	/vjɔlɛ, vjɔlɛt/	фіолетовий / фіолетова
+maîtriser	to master / to control	[sound:to-master-to-control.webm]	/metʁize/	опановувати / контролювати
+la tonne	the ton / the tonne (une tonne de = loads of)	[sound:the-ton-the-tonne-une-tonne-de-loads-of.webm]	/la tɔn/	тонна (une tonne de = купа, безліч)
+le pneu	the tire	[sound:the-tire.webm]	/lə pnø/	шина
+limiter	to limit	[sound:to-limit.webm]	/limite/	обмежувати
+hisser	to hoist / to raise	[sound:to-hoist-to-raise.webm]	/ise/	піднімати (прапор, вітрило)
+le bond	the leap / the bounce	[sound:the-leap-the-bounce.webm]	/lə bɔ̃/	стрибок / відскок
+quelques-uns / quelques-unes	some / a few (of them)	[sound:some-a-few-of-them.webm]	/kɛlkəzœ̃, kɛlkəzyn/	деякі / кілька (з них)
+la ronde	the round / the patrol / the circle dance	[sound:the-round-the-patrol-the-circle-dance.webm]	/la ʁɔ̃d/	обхід / патрулювання / хоровод
+courant / courante	common / everyday (au courant = informed)	[sound:common-everyday-au-courant-informed.webm]	/kuʁɑ̃, kuʁɑ̃t/	поширений / буденний (au courant = в курсі)
+la touche	the key (keyboard) / the touch	[sound:the-key-keyboard-the-touch.webm]	/la tuʃ/	клавіша / дотик
+le bassin	the pool / the basin / the pelvis	[sound:the-pool-the-basin-the-pelvis.webm]	/lə basɛ̃/	басейн / водойма / таз (анатомічний)
+la réussite	the success	[sound:the-success-la-reussite.webm]	/la ʁeysit/	успіх
+la tragédie	the tragedy	[sound:the-tragedy.webm]	/la tʁaʒedi/	трагедія
+démolir	to demolish / to wreck	[sound:to-demolish-to-wreck.webm]	/demɔliʁ/	зносити / руйнувати
+la nappe	the tablecloth / the layer (la nappe phréatique = water table)	[sound:the-tablecloth-the-layer-la-nappe-phreatique-water-table.webm]	/la nap/	скатертина / шар (la nappe phréatique = ґрунтові води)
+le stade	the stadium	[sound:the-stadium.webm]	/lə stad/	стадіон
+l'excès (m.)	the excess	[sound:the-excess.webm]	/lɛksɛ/	надмір
+le délai	the deadline / the delay / the time limit	[sound:the-deadline-the-delay-the-time-limit.webm]	/lə delɛ/	строк / затримка / граничний термін
+la création	the creation	[sound:the-creation.webm]	/la kʁeasjɔ̃/	створення / творіння
+frôler	to brush against / to narrowly avoid	[sound:to-brush-against-to-narrowly-avoid.webm]	/fʁole/	ледь торкатися / ледь уникнути
+effectivement	indeed / in fact	[sound:indeed-in-fact.webm]	/efɛktivəmɑ̃/	справді / дійсно
+l'établissement (m.)	the establishment / the institution / the school	[sound:the-establishment-the-institution-the-school.webm]	/letablisəmɑ̃/	заклад / установа / навчальний заклад
+efficace	effective / efficient	[sound:effective-efficient.webm]	/efikas/	ефективний / дієвий
+la batterie	the battery / the drums	[sound:the-battery-the-drums.webm]	/la batəʁi/	акумулятор, батарейка / ударні (інструменти)
+sursauter	to jump / to start (in surprise)	[sound:to-jump-to-start-in-surprise.webm]	/syʁsote/	здригатися (від несподіванки)
+modifier	to modify / to change	[sound:to-modify-to-change.webm]	/mɔdifje/	змінювати
+chérir	to cherish	[sound:to-cherish.webm]	/ʃeʁiʁ/	плекати / дорожити
+coudre	to sew	[sound:to-sew.webm]	/kudʁ/	шити
+le sabot	the hoof / the clog	[sound:the-hoof-the-clog.webm]	/lə sabo/	копито / сабо (взуття)
+le tambour	the drum	[sound:the-drum.webm]	/lə tɑ̃buʁ/	барабан
+attribuer	to award / to attribute	[sound:to-award-to-attribute.webm]	/atʁibɥe/	присуджувати / приписувати
+impatient / impatiente	impatient	[sound:impatient.webm]	/ɛ̃pasjɑ̃, ɛ̃pasjɑ̃t/	нетерплячий / нетерпляча
+la récompense	the reward	[sound:the-reward.webm]	/la ʁekɔ̃pɑ̃s/	нагорода
+pêcher	to fish	[sound:to-fish-pecher.webm]	/peʃe/	рибалити
+l'intervention (f.)	the intervention / the operation (surgery)	[sound:the-intervention-the-operation-surgery.webm]	/lɛ̃tɛʁvɑ̃sjɔ̃/	втручання / операція (хірургічна)

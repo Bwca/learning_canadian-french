@@ -1,50 +1,50 @@
-la sensation	the feeling / the sensation	[sound:the-feeling-the-sensation.webm]	/la sɑ̃sasjɔ̃/
-gonfler	to inflate / to swell	[sound:to-inflate-to-swell.webm]	/ɡɔ̃fle/
-la hâte	the haste (avoir hâte de = to look forward to)	[sound:the-haste-avoir-hate-de-to-look-forward-to.webm]	/la at/
-l'empereur (m.)	the emperor	[sound:the-emperor.webm]	/lɑ̃pəʁœʁ/
-le lac	the lake	[sound:the-lake.webm]	/lə lak/
-pointer	to point / to clock in	[sound:to-point-to-clock-in.webm]	/pwɛ̃te/
-jadis	long ago / formerly	[sound:long-ago-formerly.webm]	/ʒadis/
-intérieur / intérieure	interior / inner	[sound:interior-inner.webm]	/ɛ̃teʁjœʁ/
-l'obscurité (f.)	the darkness	[sound:the-darkness.webm]	/lɔpskyʁite/
-le cauchemar	the nightmare	[sound:the-nightmare.webm]	/lə koʃəmaʁ/
-renverser	to knock over / to spill / to run over	[sound:to-knock-over-to-spill-to-run-over.webm]	/ʁɑ̃vɛʁse/
-là-dessus	on that / about that	[sound:on-that-about-that.webm]	/ladəsy/
-constituer	to make up / to constitute	[sound:to-make-up-to-constitute.webm]	/kɔ̃stitɥe/
-envers	towards (feelings)	[sound:towards-feelings.webm]	/ɑ̃vɛʁ/
-la fuite	the escape / the leak	[sound:the-escape-the-leak.webm]	/la fɥit/
-franchement	frankly / honestly	[sound:frankly-honestly.webm]	/fʁɑ̃ʃəmɑ̃/
-le piège	the trap	[sound:the-trap.webm]	/lə pjɛʒ/
-satisfaire	to satisfy	[sound:to-satisfy.webm]	/satisfɛʁ/
-transporter	to carry / to transport	[sound:to-carry-to-transport.webm]	/tʁɑ̃spɔʁte/
-tarder	to delay / to take long (il ne va pas tarder = he'll be here soon)	[sound:to-delay-to-take-long-il-ne-va-pas-tarder-he-ll-be-here-soon.webm]	/taʁde/
-exécuter	to carry out / to execute	[sound:to-carry-out-to-execute.webm]	/ɛɡzekyte/
-le signal	the signal	[sound:the-signal.webm]	/lə siɲal/
-l'essence (f.)	the gasoline / the gas (Québec: le gaz) / the essence	[sound:the-gasoline-the-gas-quebec-le-gaz-the-essence.webm]	/lesɑ̃s/
-frotter	to rub	[sound:to-rub.webm]	/fʁɔte/
-se méfier de	to be wary (of) (se méfier de)	[sound:to-be-wary-of-se-mefier-de.webm]	/sə mefje də/
-emprunter	to borrow / to take (a road)	[sound:to-borrow-to-take-a-road.webm]	/ɑ̃pʁœ̃te/
-auquel / à laquelle	to which (one)	[sound:to-which-one.webm]	/okɛl, a lakɛl/
-la caméra	the camera (video)	[sound:the-camera-video.webm]	/la kameʁa/
-la créature	the creature	[sound:the-creature.webm]	/la kʁeatyʁ/
-l'usage (m.)	the use / the usage	[sound:the-use-the-usage.webm]	/lyzaʒ/
-la jupe	the skirt	[sound:the-skirt.webm]	/la ʒyp/
-la statue	the statue	[sound:the-statue.webm]	/la staty/
-venger	to avenge (se venger = to take revenge)	[sound:to-avenge-se-venger-to-take-revenge.webm]	/vɑ̃ʒe/
-longuement	at length / for a long time	[sound:at-length-for-a-long-time.webm]	/lɔ̃ɡəmɑ̃/
-la tristesse	the sadness	[sound:the-sadness.webm]	/la tʁistɛs/
-la colonne	the column	[sound:the-column.webm]	/la kɔlɔn/
-le manque	the lack / the shortage	[sound:the-lack-the-shortage.webm]	/lə mɑ̃k/
-la soie	the silk	[sound:the-silk.webm]	/la swa/
-punir	to punish	[sound:to-punish.webm]	/pyniʁ/
-semblable	similar	[sound:similar.webm]	/sɑ̃blabl/
-gai / gaie	cheerful / merry	[sound:cheerful-merry.webm]	/ɡe/
-bloquer	to block	[sound:to-block.webm]	/blɔke/
-malin / maligne	clever / cunning	[sound:clever-cunning.webm]	/malɛ̃, maliɲ/
-disputer	to dispute / to argue (se disputer = to quarrel)	[sound:to-dispute-to-argue-se-disputer-to-quarrel.webm]	/dispyte/
-la rage	the rage / the rabies	[sound:the-rage-the-rabies.webm]	/la ʁaʒ/
-cogner	to bang / to knock / to hit	[sound:to-bang-to-knock-to-hit.webm]	/kɔɲe/
-jouir	to enjoy (jouir de)	[sound:to-enjoy-jouir-de.webm]	/ʒwiʁ/
-fragile	fragile	[sound:fragile.webm]	/fʁaʒil/
-le marchand / la marchande	the merchant / the seller	[sound:the-merchant-the-seller.webm]	/lə maʁʃɑ̃, la maʁʃɑ̃d/
-sérieusement	seriously	[sound:seriously.webm]	/seʁjøzəmɑ̃/
+la sensation	the feeling / the sensation	[sound:the-feeling-the-sensation.webm]	/la sɑ̃sasjɔ̃/	відчуття
+gonfler	to inflate / to swell	[sound:to-inflate-to-swell.webm]	/ɡɔ̃fle/	надувати / набрякати
+la hâte	the haste (avoir hâte de = to look forward to)	[sound:the-haste-avoir-hate-de-to-look-forward-to.webm]	/la at/	поспіх (avoir hâte de = з нетерпінням чекати)
+l'empereur (m.)	the emperor	[sound:the-emperor.webm]	/lɑ̃pəʁœʁ/	імператор
+le lac	the lake	[sound:the-lake.webm]	/lə lak/	озеро
+pointer	to point / to clock in	[sound:to-point-to-clock-in.webm]	/pwɛ̃te/	вказувати / відмічатися (на роботі)
+jadis	long ago / formerly	[sound:long-ago-formerly.webm]	/ʒadis/	колись, давно
+intérieur / intérieure	interior / inner	[sound:interior-inner.webm]	/ɛ̃teʁjœʁ/	внутрішній / внутрішня
+l'obscurité (f.)	the darkness	[sound:the-darkness.webm]	/lɔpskyʁite/	темрява
+le cauchemar	the nightmare	[sound:the-nightmare.webm]	/lə koʃəmaʁ/	кошмар
+renverser	to knock over / to spill / to run over	[sound:to-knock-over-to-spill-to-run-over.webm]	/ʁɑ̃vɛʁse/	перекидати / розливати / збивати (машиною)
+là-dessus	on that / about that	[sound:on-that-about-that.webm]	/ladəsy/	на цьому / про це
+constituer	to make up / to constitute	[sound:to-make-up-to-constitute.webm]	/kɔ̃stitɥe/	складати / становити
+envers	towards (feelings)	[sound:towards-feelings.webm]	/ɑ̃vɛʁ/	щодо, до (про почуття)
+la fuite	the escape / the leak	[sound:the-escape-the-leak.webm]	/la fɥit/	втеча / витік
+franchement	frankly / honestly	[sound:frankly-honestly.webm]	/fʁɑ̃ʃəmɑ̃/	відверто, чесно кажучи
+le piège	the trap	[sound:the-trap.webm]	/lə pjɛʒ/	пастка
+satisfaire	to satisfy	[sound:to-satisfy.webm]	/satisfɛʁ/	задовольняти
+transporter	to carry / to transport	[sound:to-carry-to-transport.webm]	/tʁɑ̃spɔʁte/	перевозити, нести
+tarder	to delay / to take long (il ne va pas tarder = he'll be here soon)	[sound:to-delay-to-take-long-il-ne-va-pas-tarder-he-ll-be-here-soon.webm]	/taʁde/	зволікати / забаритися (il ne va pas tarder = він скоро буде)
+exécuter	to carry out / to execute	[sound:to-carry-out-to-execute.webm]	/ɛɡzekyte/	виконувати / страчувати
+le signal	the signal	[sound:the-signal.webm]	/lə siɲal/	сигнал
+l'essence (f.)	the gasoline / the gas (Québec: le gaz) / the essence	[sound:the-gasoline-the-gas-quebec-le-gaz-the-essence.webm]	/lesɑ̃s/	бензин (у Квебеку: le gaz) / сутність
+frotter	to rub	[sound:to-rub.webm]	/fʁɔte/	терти
+se méfier de	to be wary (of) (se méfier de)	[sound:to-be-wary-of-se-mefier-de.webm]	/sə mefje də/	остерігатися
+emprunter	to borrow / to take (a road)	[sound:to-borrow-to-take-a-road.webm]	/ɑ̃pʁœ̃te/	позичати / йти (дорогою)
+auquel / à laquelle	to which (one)	[sound:to-which-one.webm]	/okɛl, a lakɛl/	якому / якій
+la caméra	the camera (video)	[sound:the-camera-video.webm]	/la kameʁa/	камера (відео)
+la créature	the creature	[sound:the-creature.webm]	/la kʁeatyʁ/	істота
+l'usage (m.)	the use / the usage	[sound:the-use-the-usage.webm]	/lyzaʒ/	використання / звичай
+la jupe	the skirt	[sound:the-skirt.webm]	/la ʒyp/	спідниця
+la statue	the statue	[sound:the-statue.webm]	/la staty/	статуя
+venger	to avenge (se venger = to take revenge)	[sound:to-avenge-se-venger-to-take-revenge.webm]	/vɑ̃ʒe/	мстити (se venger = помститися)
+longuement	at length / for a long time	[sound:at-length-for-a-long-time.webm]	/lɔ̃ɡəmɑ̃/	довго, докладно
+la tristesse	the sadness	[sound:the-sadness.webm]	/la tʁistɛs/	смуток
+la colonne	the column	[sound:the-column.webm]	/la kɔlɔn/	колона / стовпчик
+le manque	the lack / the shortage	[sound:the-lack-the-shortage.webm]	/lə mɑ̃k/	брак, нестача
+la soie	the silk	[sound:the-silk.webm]	/la swa/	шовк
+punir	to punish	[sound:to-punish.webm]	/pyniʁ/	карати
+semblable	similar	[sound:similar.webm]	/sɑ̃blabl/	подібний
+gai / gaie	cheerful / merry	[sound:cheerful-merry.webm]	/ɡe/	веселий / весела
+bloquer	to block	[sound:to-block.webm]	/blɔke/	блокувати
+malin / maligne	clever / cunning	[sound:clever-cunning.webm]	/malɛ̃, maliɲ/	хитрий / хитра, кмітливий
+disputer	to dispute / to argue (se disputer = to quarrel)	[sound:to-dispute-to-argue-se-disputer-to-quarrel.webm]	/dispyte/	сперечатися (se disputer = сваритися)
+la rage	the rage / the rabies	[sound:the-rage-the-rabies.webm]	/la ʁaʒ/	лють / сказ
+cogner	to bang / to knock / to hit	[sound:to-bang-to-knock-to-hit.webm]	/kɔɲe/	стукати / бити
+jouir	to enjoy (jouir de)	[sound:to-enjoy-jouir-de.webm]	/ʒwiʁ/	насолоджуватися (jouir de)
+fragile	fragile	[sound:fragile.webm]	/fʁaʒil/	крихкий
+le marchand / la marchande	the merchant / the seller	[sound:the-merchant-the-seller.webm]	/lə maʁʃɑ̃, la maʁʃɑ̃d/	торговець / торговка
+sérieusement	seriously	[sound:seriously.webm]	/seʁjøzəmɑ̃/	серйозно

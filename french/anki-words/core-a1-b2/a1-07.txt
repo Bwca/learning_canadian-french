@@ -1,50 +1,50 @@
-garder	to keep	[sound:to-keep.webm]	/ɡaʁde/
-quitter	to leave (a place / a person)	[sound:to-leave-a-place-a-person.webm]	/kite/
-occuper	to occupy (s'occuper de = to take care of)	[sound:to-occupy-s-occuper-de-to-take-care-of.webm]	/ɔkype/
-tourner	to turn	[sound:to-turn.webm]	/tuʁne/
-plein / pleine	full	[sound:full-plein-pleine.webm]	/plɛ̃, plɛn/
-la guerre	the war	[sound:the-war.webm]	/la ɡɛʁ/
-celui / celle	the one (celui-ci = this one)	[sound:the-one-celui-ci-this-one.webm]	/səlɥi, sɛl/
-eh	hey	[sound:hey.webm]	/e/
-demain	tomorrow	[sound:tomorrow-demain.webm]	/dəmɛ̃/
-continuer	to continue	[sound:to-continue.webm]	/kɔ̃tinɥe/
-la suite	the rest / the sequel (tout de suite = right away)	[sound:the-rest-the-sequel-tout-de-suite-right-away.webm]	/la sɥit/
-blanc / blanche	white	[sound:white-blanc-blanche.webm]	/blɑ̃, blɑ̃ʃ/
-le train	the train	[sound:the-train-le-train.webm]	/lə tʁɛ̃/
-la minute	the minute	[sound:the-minute.webm]	/la minyt/
-envoyer	to send	[sound:to-send.webm]	/ɑ̃vwaje/
-descendre	to go down / to get off	[sound:to-go-down-to-get-off.webm]	/desɑ̃dʁ/
-retourner	to go back / to return	[sound:to-go-back-to-return.webm]	/ʁətuʁne/
-se souvenir (de)	to remember	[sound:to-remember.webm]	/sə suvəniʁ/
-jeter	to throw (away)	[sound:to-throw-away.webm]	/ʒəte/
-la fin	the end	[sound:the-end-la-fin.webm]	/la fɛ̃/
-le bout	the end / the tip / the bit	[sound:the-end-the-tip-the-bit.webm]	/lə bu/
-le lit	the bed	[sound:the-bed.webm]	/lə li/
-le mal	the harm / the pain (avoir mal = to hurt)	[sound:the-harm-the-pain-avoir-mal-to-hurt.webm]	/lə mal/
-le type	the type / the guy (slang)	[sound:the-type-the-guy-slang.webm]	/lə tip/
-aujourd'hui	today	[sound:today.webm]	/oʒuʁdɥi/
-raconter	to tell (a story)	[sound:to-tell-a-story-raconter.webm]	/ʁakɔ̃te/
-le garçon	the boy	[sound:the-boy-le-garcon.webm]	/lə ɡaʁsɔ̃/
-madame	madam / Mrs.	[sound:madam-mrs.webm]	/madam/
-la façon	the way / the manner	[sound:the-way-the-manner.webm]	/la fasɔ̃/
-la personne	the person (personne = nobody)	[sound:the-person-personne-nobody.webm]	/la pɛʁsɔn/
-le tour / la tour	the turn / the tour (la tour = the tower)	[sound:the-turn-the-tour-la-tour-the-tower.webm]	/lə tuʁ, la tuʁ/
-combien	how much / how many	[sound:how-much-how-many.webm]	/kɔ̃bjɛ̃/
-la table	the table	[sound:the-table.webm]	/la tabl/
-le cas	the case	[sound:the-case.webm]	/lə ka/
-la chance	the luck / the chance	[sound:the-luck-the-chance.webm]	/la ʃɑ̃s/
-plutôt	rather	[sound:rather.webm]	/plyto/
-la semaine	the week	[sound:the-week-la-semaine.webm]	/la səmɛn/
-fou / folle	crazy	[sound:crazy.webm]	/fu, fɔl/
-le livre	the book (la livre = pound)	[sound:the-book-la-livre-pound.webm]	/lə livʁ/
-rappeler	to call back / to remind	[sound:to-call-back-to-remind.webm]	/ʁapəle/
-gagner	to win / to earn	[sound:to-win-to-earn.webm]	/ɡaɲe/
-l'envie (f.)	the desire (avoir envie de = to feel like)	[sound:the-desire-avoir-envie-de-to-feel-like.webm]	/lɑ̃vi/
-pourtant	yet / however	[sound:yet-however.webm]	/puʁtɑ̃/
-le feu	the fire / the traffic light	[sound:the-fire-the-traffic-light.webm]	/lə fø/
-reprendre	to take back / to resume	[sound:to-take-back-to-resume.webm]	/ʁəpʁɑ̃dʁ/
-le pas	the step (pas = not)	[sound:the-step-pas-not.webm]	/lə pa/
-excuser	to excuse (s'excuser = to apologize)	[sound:to-excuse-s-excuser-to-apologize.webm]	/ɛkskyze/
-rire	to laugh	[sound:to-laugh.webm]	/ʁiʁ/
-toucher	to touch	[sound:to-touch.webm]	/tuʃe/
-le soleil	the sun	[sound:the-sun.webm]	/lə sɔlɛj/
+garder	to keep	[sound:to-keep.webm]	/ɡaʁde/	зберігати, тримати
+quitter	to leave (a place / a person)	[sound:to-leave-a-place-a-person.webm]	/kite/	залишати, покидати (місце / людину)
+occuper	to occupy (s'occuper de = to take care of)	[sound:to-occupy-s-occuper-de-to-take-care-of.webm]	/ɔkype/	займати (s'occuper de = піклуватися про)
+tourner	to turn	[sound:to-turn.webm]	/tuʁne/	повертати, крутити
+plein / pleine	full	[sound:full-plein-pleine.webm]	/plɛ̃, plɛn/	повний / повна
+la guerre	the war	[sound:the-war.webm]	/la ɡɛʁ/	війна
+celui / celle	the one (celui-ci = this one)	[sound:the-one-celui-ci-this-one.webm]	/səlɥi, sɛl/	той / та (celui-ci = цей)
+eh	hey	[sound:hey.webm]	/e/	гей
+demain	tomorrow	[sound:tomorrow-demain.webm]	/dəmɛ̃/	завтра
+continuer	to continue	[sound:to-continue.webm]	/kɔ̃tinɥe/	продовжувати
+la suite	the rest / the sequel (tout de suite = right away)	[sound:the-rest-the-sequel-tout-de-suite-right-away.webm]	/la sɥit/	решта / продовження (tout de suite = негайно)
+blanc / blanche	white	[sound:white-blanc-blanche.webm]	/blɑ̃, blɑ̃ʃ/	білий / біла
+le train	the train	[sound:the-train-le-train.webm]	/lə tʁɛ̃/	потяг
+la minute	the minute	[sound:the-minute.webm]	/la minyt/	хвилина
+envoyer	to send	[sound:to-send.webm]	/ɑ̃vwaje/	надсилати
+descendre	to go down / to get off	[sound:to-go-down-to-get-off.webm]	/desɑ̃dʁ/	спускатися / виходити (з транспорту)
+retourner	to go back / to return	[sound:to-go-back-to-return.webm]	/ʁətuʁne/	повертатися / повертати
+se souvenir (de)	to remember	[sound:to-remember.webm]	/sə suvəniʁ/	пам'ятати, згадувати
+jeter	to throw (away)	[sound:to-throw-away.webm]	/ʒəte/	кидати / викидати
+la fin	the end	[sound:the-end-la-fin.webm]	/la fɛ̃/	кінець
+le bout	the end / the tip / the bit	[sound:the-end-the-tip-the-bit.webm]	/lə bu/	кінець / кінчик / шматочок
+le lit	the bed	[sound:the-bed.webm]	/lə li/	ліжко
+le mal	the harm / the pain (avoir mal = to hurt)	[sound:the-harm-the-pain-avoir-mal-to-hurt.webm]	/lə mal/	зло / біль (avoir mal = боліти)
+le type	the type / the guy (slang)	[sound:the-type-the-guy-slang.webm]	/lə tip/	тип / хлопець (сленг)
+aujourd'hui	today	[sound:today.webm]	/oʒuʁdɥi/	сьогодні
+raconter	to tell (a story)	[sound:to-tell-a-story-raconter.webm]	/ʁakɔ̃te/	розповідати
+le garçon	the boy	[sound:the-boy-le-garcon.webm]	/lə ɡaʁsɔ̃/	хлопчик
+madame	madam / Mrs.	[sound:madam-mrs.webm]	/madam/	пані
+la façon	the way / the manner	[sound:the-way-the-manner.webm]	/la fasɔ̃/	спосіб, манера
+la personne	the person (personne = nobody)	[sound:the-person-personne-nobody.webm]	/la pɛʁsɔn/	людина, особа (personne = ніхто)
+le tour / la tour	the turn / the tour (la tour = the tower)	[sound:the-turn-the-tour-la-tour-the-tower.webm]	/lə tuʁ, la tuʁ/	оберт, черга / поїздка (la tour = вежа)
+combien	how much / how many	[sound:how-much-how-many.webm]	/kɔ̃bjɛ̃/	скільки
+la table	the table	[sound:the-table.webm]	/la tabl/	стіл
+le cas	the case	[sound:the-case.webm]	/lə ka/	випадок
+la chance	the luck / the chance	[sound:the-luck-the-chance.webm]	/la ʃɑ̃s/	удача / шанс
+plutôt	rather	[sound:rather.webm]	/plyto/	скоріше, радше
+la semaine	the week	[sound:the-week-la-semaine.webm]	/la səmɛn/	тиждень
+fou / folle	crazy	[sound:crazy.webm]	/fu, fɔl/	божевільний / божевільна
+le livre	the book (la livre = pound)	[sound:the-book-la-livre-pound.webm]	/lə livʁ/	книжка (la livre = фунт)
+rappeler	to call back / to remind	[sound:to-call-back-to-remind.webm]	/ʁapəle/	передзвонювати / нагадувати
+gagner	to win / to earn	[sound:to-win-to-earn.webm]	/ɡaɲe/	вигравати / заробляти
+l'envie (f.)	the desire (avoir envie de = to feel like)	[sound:the-desire-avoir-envie-de-to-feel-like.webm]	/lɑ̃vi/	бажання (avoir envie de = хотіти)
+pourtant	yet / however	[sound:yet-however.webm]	/puʁtɑ̃/	проте, однак
+le feu	the fire / the traffic light	[sound:the-fire-the-traffic-light.webm]	/lə fø/	вогонь / світлофор
+reprendre	to take back / to resume	[sound:to-take-back-to-resume.webm]	/ʁəpʁɑ̃dʁ/	забирати назад / відновлювати
+le pas	the step (pas = not)	[sound:the-step-pas-not.webm]	/lə pa/	крок (pas = не)
+excuser	to excuse (s'excuser = to apologize)	[sound:to-excuse-s-excuser-to-apologize.webm]	/ɛkskyze/	вибачати (s'excuser = вибачатися)
+rire	to laugh	[sound:to-laugh.webm]	/ʁiʁ/	сміятися
+toucher	to touch	[sound:to-touch.webm]	/tuʃe/	торкатися
+le soleil	the sun	[sound:the-sun.webm]	/lə sɔlɛj/	сонце

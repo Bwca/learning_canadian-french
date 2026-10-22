@@ -1,50 +1,50 @@
-le verre	the glass	[sound:the-glass.webm]	/lə vɛʁ/
-vert / verte	green	[sound:green.webm]	/vɛʁ, vɛʁt/
-la veste	the light jacket / vest	[sound:the-light-jacket-vest.webm]	/la vɛst/
-les vêtements (m.)	the clothes	[sound:the-clothes.webm]	/le vɛtmɑ̃/
-l'élève (m./f.)	the pupil / student	[sound:the-pupil-student.webm]	/lelɛv/
-l'ambiance (f.)	the atmosphere	[sound:the-atmosphere.webm]	/lɑ̃bjɑ̃s/
-un an	a year (j'ai dix ans)	[sound:a-year-j-ai-dix-ans.webm]	/œ̃n ɑ̃/
-blanc / blanche	white	[sound:white.webm]	/blɑ̃, blɑ̃ʃ/
-la campagne	the countryside	[sound:the-countryside.webm]	/la kɑ̃paɲ/
-cent	one hundred	[sound:one-hundred.webm]	/sɑ̃/
-la chambre	the bedroom	[sound:the-bedroom.webm]	/la ʃɑ̃bʁ/
-le champ	the field	[sound:the-field.webm]	/lə ʃɑ̃/
-chanter	to sing	[sound:to-sing.webm]	/ʃɑ̃te/
-le chanteur / la chanteuse	the singer	[sound:the-singer.webm]	/lə ʃɑ̃tœʁ, la ʃɑ̃tøz/
-content / contente	happy / glad	[sound:happy-glad.webm]	/kɔ̃tɑ̃, kɔ̃tɑ̃t/
-dans	in (inside)	[sound:in-inside.webm]	/dɑ̃/
-danser	to dance	[sound:to-dance.webm]	/dɑ̃se/
-la dent	the tooth	[sound:the-tooth.webm]	/la dɑ̃/
-le / la dentiste	the dentist	[sound:the-dentist.webm]	/lə, la dɑ̃tist/
-dimanche	Sunday	[sound:sunday.webm]	/dimɑ̃ʃ/
-en	in / some (of it)	[sound:in-some-of-it.webm]	/ɑ̃/
-l'enfant (m./f.)	the child	[sound:the-child.webm]	/lɑ̃fɑ̃/
-ensemble	together	[sound:together.webm]	/ɑ̃sɑ̃bl/
-ensuite	then / afterwards	[sound:then-afterwards.webm]	/ɑ̃sɥit/
-entrer	to enter / to come in	[sound:to-enter-to-come-in.webm]	/ɑ̃tʁe/
-le gant	the glove	[sound:the-glove.webm]	/lə ɡɑ̃/
-gentil / gentille	kind / nice	[sound:kind-nice.webm]	/ʒɑ̃ti, ʒɑ̃tij/
-grand / grande	big / tall (size)	[sound:big-tall-size.webm]	/ɡʁɑ̃, ɡʁɑ̃d/
-la grand-mère	the grandmother	[sound:the-grandmother.webm]	/la ɡʁɑ̃mɛʁ/
-les grands-parents	the grandparents	[sound:the-grandparents.webm]	/le ɡʁɑ̃paʁɑ̃/
-janvier	January	[sound:january.webm]	/ʒɑ̃vje/
-l'orange (f.)	the orange	[sound:the-orange.webm]	/lɔʁɑ̃ʒ/
-la lampe	the lamp	[sound:the-lamp.webm]	/la lɑ̃p/
-les Laurentides	the Laurentians (Québec)	[sound:the-laurentians-quebec.webm]	/le lɔʁɑ̃tid/
-lentement	slowly	[sound:slowly.webm]	/lɑ̃tmɑ̃/
-maman	mom	[sound:mom.webm]	/mamɑ̃/
-le moment	the moment	[sound:the-moment.webm]	/lə mɔmɑ̃/
-le pantalon	the pants / trousers	[sound:the-pants-trousers.webm]	/lə pɑ̃talɔ̃/
-les parents	the parents	[sound:the-parents.webm]	/le paʁɑ̃/
-patient / patiente	patient	[sound:patient.webm]	/pasjɑ̃, pasjɑ̃t/
-le printemps	spring	[sound:spring.webm]	/lə pʁɛ̃tɑ̃/
-quand	when	[sound:when.webm]	/kɑ̃/
-le rendez-vous	the appointment	[sound:the-appointment.webm]	/lə ʁɑ̃devu/
-la rentrée	back to school	[sound:back-to-school.webm]	/la ʁɑ̃tʁe/
-s'endormir	to fall asleep	[sound:to-fall-asleep.webm]	/sɑ̃dɔʁmiʁ/
-septembre	September	[sound:september.webm]	/sɛptɑ̃bʁ/
-souvent	often	[sound:often.webm]	/suvɑ̃/
-la tante	the aunt	[sound:the-aunt.webm]	/la tɑ̃t/
-le temps	the weather / time	[sound:the-weather-time.webm]	/lə tɑ̃/
-trente-cinq	thirty-five	[sound:thirty-five.webm]	/tʁɑ̃t sɛ̃k/
+le verre	the glass	[sound:the-glass.webm]	/lə vɛʁ/	склянка / скло
+vert / verte	green	[sound:green.webm]	/vɛʁ, vɛʁt/	зелений / зелена
+la veste	the light jacket / vest	[sound:the-light-jacket-vest.webm]	/la vɛst/	легка куртка / жилет
+les vêtements (m.)	the clothes	[sound:the-clothes.webm]	/le vɛtmɑ̃/	одяг
+l'élève (m./f.)	the pupil / student	[sound:the-pupil-student.webm]	/lelɛv/	учень / учениця
+l'ambiance (f.)	the atmosphere	[sound:the-atmosphere.webm]	/lɑ̃bjɑ̃s/	атмосфера
+un an	a year (j'ai dix ans)	[sound:a-year-j-ai-dix-ans.webm]	/œ̃n ɑ̃/	рік (j'ai dix ans = мені десять років)
+blanc / blanche	white	[sound:white.webm]	/blɑ̃, blɑ̃ʃ/	білий / біла
+la campagne	the countryside	[sound:the-countryside.webm]	/la kɑ̃paɲ/	сільська місцевість
+cent	one hundred	[sound:one-hundred.webm]	/sɑ̃/	сто
+la chambre	the bedroom	[sound:the-bedroom.webm]	/la ʃɑ̃bʁ/	спальня, кімната
+le champ	the field	[sound:the-field.webm]	/lə ʃɑ̃/	поле
+chanter	to sing	[sound:to-sing.webm]	/ʃɑ̃te/	співати
+le chanteur / la chanteuse	the singer	[sound:the-singer.webm]	/lə ʃɑ̃tœʁ, la ʃɑ̃tøz/	співак / співачка
+content / contente	happy / glad	[sound:happy-glad.webm]	/kɔ̃tɑ̃, kɔ̃tɑ̃t/	задоволений / задоволена, радий
+dans	in (inside)	[sound:in-inside.webm]	/dɑ̃/	в, у (всередині)
+danser	to dance	[sound:to-dance.webm]	/dɑ̃se/	танцювати
+la dent	the tooth	[sound:the-tooth.webm]	/la dɑ̃/	зуб
+le / la dentiste	the dentist	[sound:the-dentist.webm]	/lə, la dɑ̃tist/	стоматолог / стоматологиня
+dimanche	Sunday	[sound:sunday.webm]	/dimɑ̃ʃ/	неділя
+en	in / some (of it)	[sound:in-some-of-it.webm]	/ɑ̃/	в, у / цього, їх (займенник en)
+l'enfant (m./f.)	the child	[sound:the-child.webm]	/lɑ̃fɑ̃/	дитина
+ensemble	together	[sound:together.webm]	/ɑ̃sɑ̃bl/	разом
+ensuite	then / afterwards	[sound:then-afterwards.webm]	/ɑ̃sɥit/	потім, після цього
+entrer	to enter / to come in	[sound:to-enter-to-come-in.webm]	/ɑ̃tʁe/	входити, заходити
+le gant	the glove	[sound:the-glove.webm]	/lə ɡɑ̃/	рукавичка
+gentil / gentille	kind / nice	[sound:kind-nice.webm]	/ʒɑ̃ti, ʒɑ̃tij/	добрий / добра, милий
+grand / grande	big / tall (size)	[sound:big-tall-size.webm]	/ɡʁɑ̃, ɡʁɑ̃d/	великий / високий (про розмір)
+la grand-mère	the grandmother	[sound:the-grandmother.webm]	/la ɡʁɑ̃mɛʁ/	бабуся
+les grands-parents	the grandparents	[sound:the-grandparents.webm]	/le ɡʁɑ̃paʁɑ̃/	дідусь і бабуся
+janvier	January	[sound:january.webm]	/ʒɑ̃vje/	січень
+l'orange (f.)	the orange	[sound:the-orange.webm]	/lɔʁɑ̃ʒ/	апельсин
+la lampe	the lamp	[sound:the-lamp.webm]	/la lɑ̃p/	лампа
+les Laurentides	the Laurentians (Québec)	[sound:the-laurentians-quebec.webm]	/le lɔʁɑ̃tid/	Лаврентійські гори (у Квебеку)
+lentement	slowly	[sound:slowly.webm]	/lɑ̃tmɑ̃/	повільно
+maman	mom	[sound:mom.webm]	/mamɑ̃/	мама
+le moment	the moment	[sound:the-moment.webm]	/lə mɔmɑ̃/	мить, момент
+le pantalon	the pants / trousers	[sound:the-pants-trousers.webm]	/lə pɑ̃talɔ̃/	штани
+les parents	the parents	[sound:the-parents.webm]	/le paʁɑ̃/	батьки
+patient / patiente	patient	[sound:patient.webm]	/pasjɑ̃, pasjɑ̃t/	терплячий / терпляча
+le printemps	spring	[sound:spring.webm]	/lə pʁɛ̃tɑ̃/	весна
+quand	when	[sound:when.webm]	/kɑ̃/	коли
+le rendez-vous	the appointment	[sound:the-appointment.webm]	/lə ʁɑ̃devu/	зустріч, запис (до лікаря)
+la rentrée	back to school	[sound:back-to-school.webm]	/la ʁɑ̃tʁe/	початок навчального року
+s'endormir	to fall asleep	[sound:to-fall-asleep.webm]	/sɑ̃dɔʁmiʁ/	засинати
+septembre	September	[sound:september.webm]	/sɛptɑ̃bʁ/	вересень
+souvent	often	[sound:often.webm]	/suvɑ̃/	часто
+la tante	the aunt	[sound:the-aunt.webm]	/la tɑ̃t/	тітка
+le temps	the weather / time	[sound:the-weather-time.webm]	/lə tɑ̃/	погода / час
+trente-cinq	thirty-five	[sound:thirty-five.webm]	/tʁɑ̃t sɛ̃k/	тридцять п'ять

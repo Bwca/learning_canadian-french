@@ -1,50 +1,50 @@
-restaurant	restaurant
-rester	to stay
-revendre	to resell
-reçu	receipt
-rivière	river
-riz	rice
-robe	dress
-ronde	round (fem.)
-rose	pink
-rouge	red
-rougir	to blush / to turn red
-route	road
-rue	street
-règle	ruler / rule
-réagir	to react
-réfléchir	to think (it over)
-réfléchir à	to think about
-réfrigérateur	fridge
-répondre	to answer
-répondre à	to answer
-réponse	answer
-réunion	meeting
-réussir	to succeed
-réussir en	to do well in (a subject)
-réussir un cours	to pass a course
-réussir un examen	to pass an exam
-sa	his/her (fem. singular)
-sac	bag
-sac à dos	backpack
-salade	salad
-salir	to get (something) dirty
-salle	room
-salle de bain	bathroom
-salle de classe	classroom
-salon	living room
-samedi	Saturday
-sandwich	sandwich
-seize	sixteen
-semaine	week
-sept	seven
-sept heures	seven o'clock
-serpent	snake
-ses	his/her (plural)
-seul	alone
-sirop d'érable	maple syrup
-six	six
-six heures	six o'clock
-skier	to ski
-soixante	sixty
-soixante-dix	seventy
+restaurant	restaurant			ресторан
+rester	to stay			залишатися
+revendre	to resell			перепродавати
+reçu	receipt			чек, квитанція
+rivière	river			річка
+riz	rice			рис
+robe	dress			сукня
+ronde	round (fem.)			кругла
+rose	pink			рожевий
+rouge	red			червоний
+rougir	to blush / to turn red			червоніти
+route	road			дорога
+rue	street			вулиця
+règle	ruler / rule			лінійка / правило
+réagir	to react			реагувати
+réfléchir	to think (it over)			розмірковувати, обдумувати
+réfléchir à	to think about			думати про
+réfrigérateur	fridge			холодильник
+répondre	to answer			відповідати
+répondre à	to answer			відповідати (комусь / на щось)
+réponse	answer			відповідь
+réunion	meeting			збори, нарада
+réussir	to succeed			досягати успіху, вдаватися
+réussir en	to do well in (a subject)			мати успіхи в (предметі)
+réussir un cours	to pass a course			скласти курс
+réussir un examen	to pass an exam			скласти іспит
+sa	his/her (fem. singular)			його / її (жін. р. одн.)
+sac	bag			сумка
+sac à dos	backpack			рюкзак
+salade	salad			салат
+salir	to get (something) dirty			бруднити (щось)
+salle	room			зала, кімната
+salle de bain	bathroom			ванна кімната
+salle de classe	classroom			класна кімната
+salon	living room			вітальня
+samedi	Saturday			субота
+sandwich	sandwich			сендвіч, бутерброд
+seize	sixteen			шістнадцять
+semaine	week			тиждень
+sept	seven			сім
+sept heures	seven o'clock			сьома година
+serpent	snake			змія
+ses	his/her (plural)			його / її (мн.)
+seul	alone			сам, самотній
+sirop d'érable	maple syrup			кленовий сироп
+six	six			шість
+six heures	six o'clock			шоста година
+skier	to ski			кататися на лижах
+soixante	sixty			шістдесят
+soixante-dix	seventy			сімдесят

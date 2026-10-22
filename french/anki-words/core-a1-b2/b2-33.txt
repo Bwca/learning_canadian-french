@@ -1,50 +1,50 @@
-soudainement	suddenly	[sound:suddenly-soudainement.webm]	/sudɛnəmɑ̃/
-l'infection (f.)	the infection	[sound:the-infection.webm]	/lɛ̃fɛksjɔ̃/
-la loyauté	the loyalty	[sound:the-loyalty.webm]	/la lwajote/
-pétrir	to knead	[sound:to-knead.webm]	/petʁiʁ/
-rudement	roughly / (informal) really	[sound:roughly-informal-really.webm]	/ʁydəmɑ̃/
-verrouiller	to lock	[sound:to-lock.webm]	/veʁuje/
-le chalet	the cottage / the chalet (Québec)	[sound:the-cottage-the-chalet-quebec.webm]	/lə ʃalɛ/
-la transition	the transition	[sound:the-transition.webm]	/la tʁɑ̃zisjɔ̃/
-la hiérarchie	the hierarchy	[sound:the-hierarchy.webm]	/la jeʁaʁʃi/
-l'occupant (m.) / l'occupante (f.)	the occupant	[sound:the-occupant.webm]	/lɔkypɑ̃, lɔkypɑ̃t/
-argenté / argentée	silvery / silver-plated	[sound:silvery-silver-plated.webm]	/aʁʒɑ̃te/
-terroriser	to terrorize	[sound:to-terrorize.webm]	/tɛʁɔʁize/
-abolir	to abolish	[sound:to-abolish.webm]	/abɔliʁ/
-la lieue	the leagues (old distance unit)	[sound:the-leagues-old-distance-unit.webm]	/la ljø/
-la résurrection	the resurrection	[sound:the-resurrection.webm]	/la ʁezyʁɛksjɔ̃/
-la senteur	the scent	[sound:the-scent.webm]	/la sɑ̃tœʁ/
-exclusivement	exclusively	[sound:exclusively.webm]	/ɛksklyzivəmɑ̃/
-relancer	to relaunch / to throw back / to follow up (a request)	[sound:to-relaunch-to-throw-back-to-follow-up-a-request.webm]	/ʁəlɑ̃se/
-la fabrique	the factory (small)	[sound:the-factory-small.webm]	/la fabʁik/
-la séquence	the sequence	[sound:the-sequence.webm]	/la sekɑ̃s/
-écrasé / écrasée	crushed	[sound:crushed.webm]	/ekʁaze/
-oblique	oblique / slanting	[sound:oblique-slanting.webm]	/ɔblik/
-la trajectoire	the trajectory / the path	[sound:the-trajectory-the-path.webm]	/la tʁaʒɛktwaʁ/
-étroitement	closely / narrowly	[sound:closely-narrowly.webm]	/etʁwatəmɑ̃/
-conforme	in accordance / matching (conforme à)	[sound:in-accordance-matching-conforme-a.webm]	/kɔ̃fɔʁm/
-le maintien	the maintenance / the bearing (posture)	[sound:the-maintenance-the-bearing-posture.webm]	/lə mɛ̃tjɛ̃/
-le guichet	the ticket window / the counter (le guichet automatique = ATM)	[sound:the-ticket-window-the-counter-le-guichet-automatique-atm.webm]	/lə ɡiʃɛ/
-préférable	preferable	[sound:preferable.webm]	/pʁefeʁabl/
-le marron	the chestnut	[sound:the-chestnut.webm]	/lə maʁɔ̃/
-la malice	the mischief	[sound:the-mischief.webm]	/la malis/
-le kiosque	the newsstand / the kiosk	[sound:the-newsstand-the-kiosk.webm]	/lə kjɔsk/
-l'artère (f.)	the artery / the main road	[sound:the-artery-the-main-road.webm]	/laʁtɛʁ/
-par-ci, par-là	here and there (par-ci, par-là)	[sound:here-and-there-par-ci-par-la.webm]	/paʁsi paʁla/
-la reproduction	the reproduction / the copy	[sound:the-reproduction-the-copy.webm]	/la ʁəpʁɔdyksjɔ̃/
-égyptien / égyptienne	Egyptian	[sound:egyptian.webm]	/eʒipsjɛ̃, eʒipsjɛn/
-la définition	the definition	[sound:the-definition.webm]	/la definisjɔ̃/
-typique	typical	[sound:typical.webm]	/tipik/
-mystique	mystical	[sound:mystical.webm]	/mistik/
-parfumer	to perfume / to flavour	[sound:to-perfume-to-flavour.webm]	/paʁfyme/
-l'abondance (f.)	the abundance	[sound:the-abundance.webm]	/labɔ̃dɑ̃s/
-réciproque	mutual / reciprocal	[sound:mutual-reciprocal.webm]	/ʁesipʁɔk/
-s'absenter	to be absent / to go out (s'absenter)	[sound:to-be-absent-to-go-out-s-absenter.webm]	/sapsɑ̃te/
-le compromis	the compromise	[sound:the-compromise.webm]	/lə kɔ̃pʁɔmi/
-voyant / voyante	flashy / gaudy	[sound:flashy-gaudy.webm]	/vwajɑ̃, vwajɑ̃t/
-le guéridon	the small round table	[sound:the-small-round-table.webm]	/lə ɡeʁidɔ̃/
-acquitter	to acquit / to pay off (a debt)	[sound:to-acquit-to-pay-off-a-debt.webm]	/akite/
-enthousiaste	enthusiastic	[sound:enthusiastic.webm]	/ɑ̃tuzjast/
-la loterie	the lottery	[sound:the-lottery.webm]	/la lɔtəʁi/
-ranimer	to revive / to rekindle	[sound:to-revive-to-rekindle.webm]	/ʁanime/
-spontané / spontanée	spontaneous	[sound:spontaneous.webm]	/spɔ̃tane/
+soudainement	suddenly	[sound:suddenly-soudainement.webm]	/sudɛnəmɑ̃/	раптом
+l'infection (f.)	the infection	[sound:the-infection.webm]	/lɛ̃fɛksjɔ̃/	інфекція
+la loyauté	the loyalty	[sound:the-loyalty.webm]	/la lwajote/	вірність, лояльність
+pétrir	to knead	[sound:to-knead.webm]	/petʁiʁ/	місити
+rudement	roughly / (informal) really	[sound:roughly-informal-really.webm]	/ʁydəmɑ̃/	грубо / (розм.) дуже
+verrouiller	to lock	[sound:to-lock.webm]	/veʁuje/	замикати на засув
+le chalet	the cottage / the chalet (Québec)	[sound:the-cottage-the-chalet-quebec.webm]	/lə ʃalɛ/	шале / дача (у Квебеку)
+la transition	the transition	[sound:the-transition.webm]	/la tʁɑ̃zisjɔ̃/	перехід
+la hiérarchie	the hierarchy	[sound:the-hierarchy.webm]	/la jeʁaʁʃi/	ієрархія
+l'occupant (m.) / l'occupante (f.)	the occupant	[sound:the-occupant.webm]	/lɔkypɑ̃, lɔkypɑ̃t/	мешканець / мешканка, власник місця
+argenté / argentée	silvery / silver-plated	[sound:silvery-silver-plated.webm]	/aʁʒɑ̃te/	сріблястий / посріблений
+terroriser	to terrorize	[sound:to-terrorize.webm]	/tɛʁɔʁize/	тероризувати
+abolir	to abolish	[sound:to-abolish.webm]	/abɔliʁ/	скасовувати
+la lieue	the leagues (old distance unit)	[sound:the-leagues-old-distance-unit.webm]	/la ljø/	льє (давня міра відстані)
+la résurrection	the resurrection	[sound:the-resurrection.webm]	/la ʁezyʁɛksjɔ̃/	воскресіння
+la senteur	the scent	[sound:the-scent.webm]	/la sɑ̃tœʁ/	пахощі
+exclusivement	exclusively	[sound:exclusively.webm]	/ɛksklyzivəmɑ̃/	виключно
+relancer	to relaunch / to throw back / to follow up (a request)	[sound:to-relaunch-to-throw-back-to-follow-up-a-request.webm]	/ʁəlɑ̃se/	перезапускати / кидати назад / нагадувати (про запит)
+la fabrique	the factory (small)	[sound:the-factory-small.webm]	/la fabʁik/	фабрика (невелика)
+la séquence	the sequence	[sound:the-sequence.webm]	/la sekɑ̃s/	послідовність / епізод
+écrasé / écrasée	crushed	[sound:crushed.webm]	/ekʁaze/	розчавлений / розчавлена
+oblique	oblique / slanting	[sound:oblique-slanting.webm]	/ɔblik/	косий / похилий
+la trajectoire	the trajectory / the path	[sound:the-trajectory-the-path.webm]	/la tʁaʒɛktwaʁ/	траєкторія / шлях
+étroitement	closely / narrowly	[sound:closely-narrowly.webm]	/etʁwatəmɑ̃/	тісно / вузько
+conforme	in accordance / matching (conforme à)	[sound:in-accordance-matching-conforme-a.webm]	/kɔ̃fɔʁm/	відповідний / що відповідає (conforme à)
+le maintien	the maintenance / the bearing (posture)	[sound:the-maintenance-the-bearing-posture.webm]	/lə mɛ̃tjɛ̃/	підтримання / постава
+le guichet	the ticket window / the counter (le guichet automatique = ATM)	[sound:the-ticket-window-the-counter-le-guichet-automatique-atm.webm]	/lə ɡiʃɛ/	каса / віконце (le guichet automatique = банкомат)
+préférable	preferable	[sound:preferable.webm]	/pʁefeʁabl/	бажаний, кращий
+le marron	the chestnut	[sound:the-chestnut.webm]	/lə maʁɔ̃/	каштан
+la malice	the mischief	[sound:the-mischief.webm]	/la malis/	лукавство, пустощі
+le kiosque	the newsstand / the kiosk	[sound:the-newsstand-the-kiosk.webm]	/lə kjɔsk/	кіоск
+l'artère (f.)	the artery / the main road	[sound:the-artery-the-main-road.webm]	/laʁtɛʁ/	артерія / головна вулиця
+par-ci, par-là	here and there (par-ci, par-là)	[sound:here-and-there-par-ci-par-la.webm]	/paʁsi paʁla/	то тут, то там
+la reproduction	the reproduction / the copy	[sound:the-reproduction-the-copy.webm]	/la ʁəpʁɔdyksjɔ̃/	відтворення / копія
+égyptien / égyptienne	Egyptian	[sound:egyptian.webm]	/eʒipsjɛ̃, eʒipsjɛn/	єгипетський / єгипетська, єгиптянин
+la définition	the definition	[sound:the-definition.webm]	/la definisjɔ̃/	визначення
+typique	typical	[sound:typical.webm]	/tipik/	типовий
+mystique	mystical	[sound:mystical.webm]	/mistik/	містичний
+parfumer	to perfume / to flavour	[sound:to-perfume-to-flavour.webm]	/paʁfyme/	парфумувати / ароматизувати
+l'abondance (f.)	the abundance	[sound:the-abundance.webm]	/labɔ̃dɑ̃s/	достаток
+réciproque	mutual / reciprocal	[sound:mutual-reciprocal.webm]	/ʁesipʁɔk/	взаємний
+s'absenter	to be absent / to go out (s'absenter)	[sound:to-be-absent-to-go-out-s-absenter.webm]	/sapsɑ̃te/	відлучатися / бути відсутнім
+le compromis	the compromise	[sound:the-compromise.webm]	/lə kɔ̃pʁɔmi/	компроміс
+voyant / voyante	flashy / gaudy	[sound:flashy-gaudy.webm]	/vwajɑ̃, vwajɑ̃t/	кричущий / яскравий
+le guéridon	the small round table	[sound:the-small-round-table.webm]	/lə ɡeʁidɔ̃/	круглий столик
+acquitter	to acquit / to pay off (a debt)	[sound:to-acquit-to-pay-off-a-debt.webm]	/akite/	виправдовувати / сплачувати (борг)
+enthousiaste	enthusiastic	[sound:enthusiastic.webm]	/ɑ̃tuzjast/	захоплений / сповнений ентузіазму
+la loterie	the lottery	[sound:the-lottery.webm]	/la lɔtəʁi/	лотерея
+ranimer	to revive / to rekindle	[sound:to-revive-to-rekindle.webm]	/ʁanime/	оживляти / відроджувати
+spontané / spontanée	spontaneous	[sound:spontaneous.webm]	/spɔ̃tane/	спонтанний / спонтанна

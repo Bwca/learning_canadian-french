@@ -1,50 +1,50 @@
-le pain	the bread	[sound:the-bread.webm]	/lə pɛ̃/
-le train	the train	[sound:the-train.webm]	/lə tʁɛ̃/
-le copain / la copine	the friend (also boyfriend / girlfriend)	[sound:the-friend-also-boyfriend-girlfriend.webm]	/lə kɔpɛ̃, la kɔpin/
-demain	tomorrow	[sound:tomorrow.webm]	/dəmɛ̃/
-ainsi	thus / so	[sound:thus-so.webm]	/ɛ̃si/
-le vin	the wine	[sound:the-wine.webm]	/lə vɛ̃/
-le raisin	the grape	[sound:the-grape.webm]	/lə ʁɛzɛ̃/
-le prince / la princesse	the prince / princess	[sound:the-prince-princess.webm]	/lə pʁɛ̃s, la pʁɛ̃sɛs/
-la fin	the end	[sound:the-end.webm]	/la fɛ̃/
-malin / maligne	cunning / clever	[sound:cunning-clever.webm]	/malɛ̃, maliɲ/
-intéressant / intéressante	interesting	[sound:interesting.webm]	/ɛ̃teʁesɑ̃, ɛ̃teʁesɑ̃t/
-le timbre	the stamp	[sound:the-stamp.webm]	/lə tɛ̃bʁ/
-important / importante	important	[sound:important.webm]	/ɛ̃pɔʁtɑ̃, ɛ̃pɔʁtɑ̃t/
-un imbécile / une imbécile	an imbecile	[sound:an-imbecile.webm]	/œ̃n ɛ̃besil, yn ɛ̃besil/
-Reims	Reims (city)	[sound:reims-city.webm]	/ʁɛ̃s/
-la faim (avoir faim)	hunger (to be hungry)	[sound:hunger-to-be-hungry.webm]	/la fɛ̃/
-la ceinture	the belt	[sound:the-belt.webm]	/la sɛ̃tyʁ/
-plein / pleine	full	[sound:full.webm]	/plɛ̃, plɛn/
-la peinture	the painting / paint	[sound:the-painting-paint.webm]	/la pɛ̃tyʁ/
-éteindre	to switch off	[sound:to-switch-off.webm]	/etɛ̃dʁ/
-les Jeux olympiques	the Olympic Games	[sound:the-olympic-games.webm]	/le ʒø zɔlɛ̃pik/
-synthétique	synthetic	[sound:synthetic.webm]	/sɛ̃tetik/
-la symphonie	the symphony	[sound:the-symphony.webm]	/la sɛ̃fɔni/
-le bébé	the baby (always masculine)	[sound:the-baby-always-masculine.webm]	/lə bebe/
-l'armée (f.)	the army	[sound:the-army.webm]	/laʁme/
-le marché	the market	[sound:the-market.webm]	/lə maʁʃe/
-(il a) marché	walked	[sound:walked.webm]	/maʁʃe/
-préparé / préparée	prepared	[sound:prepared.webm]	/pʁepaʁe/
-mélangé / mélangée	mixed	[sound:mixed.webm]	/melɑ̃ʒe/
-le cinéma	the cinema	[sound:the-cinema.webm]	/lə sinema/
-le déjeuner	breakfast (Québec) / lunch (France)	[sound:breakfast-quebec-lunch-france.webm]	/lə deʒœne/
-les céréales (f.)	cereal	[sound:cereal.webm]	/le seʁeal/
-le trépied	the tripod	[sound:the-tripod.webm]	/lə tʁepje/
-le pied	the foot	[sound:the-foot.webm]	/lə pje/
-le nez	the nose	[sound:the-nose.webm]	/lə ne/
-marchez	walk! (vous)	[sound:walk-vous.webm]	/maʁʃe/
-le rez-de-chaussée	the ground floor	[sound:the-ground-floor.webm]	/lə ʁe d(ə) ʃose/
-répétez	repeat! (vous)	[sound:repeat-vous.webm]	/ʁepete/
-assez	enough	[sound:enough.webm]	/ase/
-le clavier	the keyboard	[sound:the-keyboard.webm]	/lə klavje/
-le papier	the paper	[sound:the-paper.webm]	/lə papje/
-regarder	to watch / to look at	[sound:to-watch-to-look-at.webm]	/ʁəɡaʁde/
-réparer	to repair	[sound:to-repair.webm]	/ʁepaʁe/
-et	and	[sound:and.webm]	/e/
-le bleuet	blueberry (Québec) / cornflower (France)	[sound:blueberry-quebec-cornflower-france.webm]	/lə bløɛ/
-le bracelet	the bracelet	[sound:the-bracelet.webm]	/lə bʁaslɛ/
-le secret	the secret	[sound:the-secret.webm]	/lə səkʁɛ/
-le gilet	the cardigan / vest	[sound:the-cardigan-vest.webm]	/lə ʒilɛ/
-la maison	the house	[sound:the-house.webm]	/la mɛzɔ̃/
-la chanson	the song	[sound:the-song.webm]	/la ʃɑ̃sɔ̃/
+le pain	the bread	[sound:the-bread.webm]	/lə pɛ̃/	хліб
+le train	the train	[sound:the-train.webm]	/lə tʁɛ̃/	потяг
+le copain / la copine	the friend (also boyfriend / girlfriend)	[sound:the-friend-also-boyfriend-girlfriend.webm]	/lə kɔpɛ̃, la kɔpin/	друг / подруга (також хлопець / дівчина)
+demain	tomorrow	[sound:tomorrow.webm]	/dəmɛ̃/	завтра
+ainsi	thus / so	[sound:thus-so.webm]	/ɛ̃si/	так, таким чином
+le vin	the wine	[sound:the-wine.webm]	/lə vɛ̃/	вино
+le raisin	the grape	[sound:the-grape.webm]	/lə ʁɛzɛ̃/	виноград
+le prince / la princesse	the prince / princess	[sound:the-prince-princess.webm]	/lə pʁɛ̃s, la pʁɛ̃sɛs/	принц / принцеса
+la fin	the end	[sound:the-end.webm]	/la fɛ̃/	кінець
+malin / maligne	cunning / clever	[sound:cunning-clever.webm]	/malɛ̃, maliɲ/	хитрий / хитра
+intéressant / intéressante	interesting	[sound:interesting.webm]	/ɛ̃teʁesɑ̃, ɛ̃teʁesɑ̃t/	цікавий / цікава
+le timbre	the stamp	[sound:the-stamp.webm]	/lə tɛ̃bʁ/	поштова марка
+important / importante	important	[sound:important.webm]	/ɛ̃pɔʁtɑ̃, ɛ̃pɔʁtɑ̃t/	важливий / важлива
+un imbécile / une imbécile	an imbecile	[sound:an-imbecile.webm]	/œ̃n ɛ̃besil, yn ɛ̃besil/	дурень / дурепа
+Reims	Reims (city)	[sound:reims-city.webm]	/ʁɛ̃s/	Реймс (місто)
+la faim (avoir faim)	hunger (to be hungry)	[sound:hunger-to-be-hungry.webm]	/la fɛ̃/	голод (бути голодним)
+la ceinture	the belt	[sound:the-belt.webm]	/la sɛ̃tyʁ/	пояс, ремінь
+plein / pleine	full	[sound:full.webm]	/plɛ̃, plɛn/	повний / повна
+la peinture	the painting / paint	[sound:the-painting-paint.webm]	/la pɛ̃tyʁ/	картина / фарба
+éteindre	to switch off	[sound:to-switch-off.webm]	/etɛ̃dʁ/	вимикати, гасити
+les Jeux olympiques	the Olympic Games	[sound:the-olympic-games.webm]	/le ʒø zɔlɛ̃pik/	Олімпійські ігри
+synthétique	synthetic	[sound:synthetic.webm]	/sɛ̃tetik/	синтетичний
+la symphonie	the symphony	[sound:the-symphony.webm]	/la sɛ̃fɔni/	симфонія
+le bébé	the baby (always masculine)	[sound:the-baby-always-masculine.webm]	/lə bebe/	немовля (завжди чол. р.)
+l'armée (f.)	the army	[sound:the-army.webm]	/laʁme/	армія
+le marché	the market	[sound:the-market.webm]	/lə maʁʃe/	ринок
+(il a) marché	walked	[sound:walked.webm]	/maʁʃe/	(він) ходив пішки
+préparé / préparée	prepared	[sound:prepared.webm]	/pʁepaʁe/	приготований / приготована
+mélangé / mélangée	mixed	[sound:mixed.webm]	/melɑ̃ʒe/	змішаний / змішана
+le cinéma	the cinema	[sound:the-cinema.webm]	/lə sinema/	кінотеатр, кіно
+le déjeuner	breakfast (Québec) / lunch (France)	[sound:breakfast-quebec-lunch-france.webm]	/lə deʒœne/	сніданок (у Квебеку) / обід (у Франції)
+les céréales (f.)	cereal	[sound:cereal.webm]	/le seʁeal/	пластівці
+le trépied	the tripod	[sound:the-tripod.webm]	/lə tʁepje/	штатив
+le pied	the foot	[sound:the-foot.webm]	/lə pje/	нога (стопа)
+le nez	the nose	[sound:the-nose.webm]	/lə ne/	ніс
+marchez	walk! (vous)	[sound:walk-vous.webm]	/maʁʃe/	ідіть! (ви)
+le rez-de-chaussée	the ground floor	[sound:the-ground-floor.webm]	/lə ʁe d(ə) ʃose/	перший поверх
+répétez	repeat! (vous)	[sound:repeat-vous.webm]	/ʁepete/	повторіть! (ви)
+assez	enough	[sound:enough.webm]	/ase/	досить, достатньо
+le clavier	the keyboard	[sound:the-keyboard.webm]	/lə klavje/	клавіатура
+le papier	the paper	[sound:the-paper.webm]	/lə papje/	папір
+regarder	to watch / to look at	[sound:to-watch-to-look-at.webm]	/ʁəɡaʁde/	дивитися
+réparer	to repair	[sound:to-repair.webm]	/ʁepaʁe/	ремонтувати, лагодити
+et	and	[sound:and.webm]	/e/	і, та
+le bleuet	blueberry (Québec) / cornflower (France)	[sound:blueberry-quebec-cornflower-france.webm]	/lə bløɛ/	лохина (у Квебеку) / волошка (у Франції)
+le bracelet	the bracelet	[sound:the-bracelet.webm]	/lə bʁaslɛ/	браслет
+le secret	the secret	[sound:the-secret.webm]	/lə səkʁɛ/	таємниця, секрет
+le gilet	the cardigan / vest	[sound:the-cardigan-vest.webm]	/lə ʒilɛ/	кардиган / жилет
+la maison	the house	[sound:the-house.webm]	/la mɛzɔ̃/	будинок, дім
+la chanson	the song	[sound:the-song.webm]	/la ʃɑ̃sɔ̃/	пісня

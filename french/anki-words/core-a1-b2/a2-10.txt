@@ -1,50 +1,50 @@
-la canne	the cane / the walking stick	[sound:the-cane-the-walking-stick.webm]	/la kan/
-la crème	the cream	[sound:the-cream-la-creme.webm]	/la kʁɛm/
-l'outil (m.)	the tool	[sound:the-tool.webm]	/luti/
-le carnet	the notebook / the book (of tickets)	[sound:the-notebook-the-book-of-tickets.webm]	/lə kaʁnɛ/
-renseigner	to inform (se renseigner = to find out)	[sound:to-inform-se-renseigner-to-find-out.webm]	/ʁɑ̃seɲe/
-le casque	the helmet / the headphones	[sound:the-helmet-the-headphones.webm]	/lə kask/
-citer	to quote / to mention	[sound:to-quote-to-mention.webm]	/site/
-le véhicule	the vehicle	[sound:the-vehicle.webm]	/lə veikyl/
-l'émission (f.)	the programme / the show (TV, radio) / the emission	[sound:the-programme-the-show-tv-radio-the-emission.webm]	/lemisjɔ̃/
-nocturne	nocturnal / night	[sound:nocturnal-night.webm]	/nɔktyʁn/
-déménager	to move (house)	[sound:to-move-house.webm]	/demenaʒe/
-le transport	the transport / the transportation (les transports en commun = public transit)	[sound:the-transport-the-transportation-les-transports-en-commun.webm]	/lə tʁɑ̃spɔʁ/
-le congé	the leave / the day off (en congé = off work)	[sound:the-leave-the-day-off-en-conge-off-work.webm]	/lə kɔ̃ʒe/
-le cuisinier / la cuisinière	the cook	[sound:the-cook.webm]	/lə kɥizinje, la kɥizinjɛʁ/
-cuire	to cook / to bake	[sound:to-cook-to-bake.webm]	/kɥiʁ/
-le maire / la mairesse	the mayor	[sound:the-mayor.webm]	/lə mɛʁ, la mɛʁɛs/
-sincère	sincere	[sound:sincere.webm]	/sɛ̃sɛʁ/
-développer	to develop	[sound:to-develop.webm]	/devəlɔpe/
-le foie	the liver	[sound:the-liver.webm]	/lə fwa/
-mars (m.)	March	[sound:march.webm]	/maʁs/
-contacter	to contact	[sound:to-contact.webm]	/kɔ̃takte/
-la poésie	the poetry	[sound:the-poetry.webm]	/la pɔezi/
-l'économie (f.)	the economy (faire des économies = to save money)	[sound:the-economy-faire-des-economies-to-save-money.webm]	/lekɔnɔmi/
-l'essentiel (m.)	the essential (thing) / the main thing	[sound:the-essential-thing-the-main-thing.webm]	/lesɑ̃sjɛl/
-bavarder	to chat	[sound:to-chat.webm]	/bavaʁde/
-tranquillement	calmly / quietly	[sound:calmly-quietly.webm]	/tʁɑ̃kiləmɑ̃/
-animer	to host / to lead / to liven up	[sound:to-host-to-lead-to-liven-up.webm]	/anime/
-l'opéra (m.)	the opera	[sound:the-opera.webm]	/lɔpeʁa/
-le panneau	the sign / the panel	[sound:the-sign-the-panel.webm]	/lə pano/
-hum	hmm	[sound:hmm.webm]	/œm/
-sévère	strict / severe	[sound:strict-severe.webm]	/sevɛʁ/
-élégant / élégante	elegant	[sound:elegant.webm]	/eleɡɑ̃, eleɡɑ̃t/
-s'effondrer	to collapse (s'effondrer)	[sound:to-collapse-s-effondrer.webm]	/sefɔ̃dʁe/
-le cahier	the notebook / the exercise book	[sound:the-notebook-the-exercise-book.webm]	/lə kaje/
-le futur	the future	[sound:the-future-le-futur.webm]	/lə fytyʁ/
-admirable	admirable	[sound:admirable.webm]	/admiʁabl/
-enchanter	to delight (enchanté = nice to meet you)	[sound:to-delight-enchante-nice-to-meet-you.webm]	/ɑ̃ʃɑ̃te/
-célébrer	to celebrate	[sound:to-celebrate-celebrer.webm]	/selebʁe/
-la construction	the construction / the building	[sound:the-construction-the-building.webm]	/la kɔ̃stʁyksjɔ̃/
-mélanger	to mix	[sound:to-mix.webm]	/melɑ̃ʒe/
-insupportable	unbearable	[sound:unbearable.webm]	/ɛ̃sypɔʁtabl/
-le neveu	the nephew	[sound:the-nephew.webm]	/lə nəvø/
-classique	classic / classical	[sound:classic-classical.webm]	/klasik/
-chut	shh!	[sound:shh.webm]	/ʃyt/
-la communauté	the community	[sound:the-community.webm]	/la kɔmynote/
-la médecine	the medicine (field)	[sound:the-medicine-field.webm]	/la mɛdsin/
-le dialogue	the dialogue	[sound:the-dialogue.webm]	/lə djalɔɡ/
-l'épisode (m.)	the episode	[sound:the-episode.webm]	/lepizɔd/
-la coutume	the custom	[sound:the-custom.webm]	/la kutym/
-l'oignon (m.)	the onion	[sound:the-onion-l-oignon-m.webm]	/lɔɲɔ̃/
+la canne	the cane / the walking stick	[sound:the-cane-the-walking-stick.webm]	/la kan/	палиця, ціпок
+la crème	the cream	[sound:the-cream-la-creme.webm]	/la kʁɛm/	вершки / крем
+l'outil (m.)	the tool	[sound:the-tool.webm]	/luti/	інструмент
+le carnet	the notebook / the book (of tickets)	[sound:the-notebook-the-book-of-tickets.webm]	/lə kaʁnɛ/	записничок / книжечка (квитків)
+renseigner	to inform (se renseigner = to find out)	[sound:to-inform-se-renseigner-to-find-out.webm]	/ʁɑ̃seɲe/	інформувати (se renseigner = дізнаватися)
+le casque	the helmet / the headphones	[sound:the-helmet-the-headphones.webm]	/lə kask/	шолом / навушники
+citer	to quote / to mention	[sound:to-quote-to-mention.webm]	/site/	цитувати / згадувати
+le véhicule	the vehicle	[sound:the-vehicle.webm]	/lə veikyl/	транспортний засіб
+l'émission (f.)	the programme / the show (TV, radio) / the emission	[sound:the-programme-the-show-tv-radio-the-emission.webm]	/lemisjɔ̃/	передача (ТБ, радіо) / викид
+nocturne	nocturnal / night	[sound:nocturnal-night.webm]	/nɔktyʁn/	нічний
+déménager	to move (house)	[sound:to-move-house.webm]	/demenaʒe/	переїжджати (на нове житло)
+le transport	the transport / the transportation (les transports en commun = public transit)	[sound:the-transport-the-transportation-les-transports-en-commun.webm]	/lə tʁɑ̃spɔʁ/	транспорт / перевезення (les transports en commun = громадський транспорт)
+le congé	the leave / the day off (en congé = off work)	[sound:the-leave-the-day-off-en-conge-off-work.webm]	/lə kɔ̃ʒe/	відпустка / вихідний (en congé = у відпустці)
+le cuisinier / la cuisinière	the cook	[sound:the-cook.webm]	/lə kɥizinje, la kɥizinjɛʁ/	кухар / кухарка
+cuire	to cook / to bake	[sound:to-cook-to-bake.webm]	/kɥiʁ/	варити / пекти
+le maire / la mairesse	the mayor	[sound:the-mayor.webm]	/lə mɛʁ, la mɛʁɛs/	мер / мерка
+sincère	sincere	[sound:sincere.webm]	/sɛ̃sɛʁ/	щирий
+développer	to develop	[sound:to-develop.webm]	/devəlɔpe/	розвивати
+le foie	the liver	[sound:the-liver.webm]	/lə fwa/	печінка
+mars (m.)	March	[sound:march.webm]	/maʁs/	березень
+contacter	to contact	[sound:to-contact.webm]	/kɔ̃takte/	зв'язуватися з
+la poésie	the poetry	[sound:the-poetry.webm]	/la pɔezi/	поезія
+l'économie (f.)	the economy (faire des économies = to save money)	[sound:the-economy-faire-des-economies-to-save-money.webm]	/lekɔnɔmi/	економіка (faire des économies = заощаджувати)
+l'essentiel (m.)	the essential (thing) / the main thing	[sound:the-essential-thing-the-main-thing.webm]	/lesɑ̃sjɛl/	головне, найважливіше
+bavarder	to chat	[sound:to-chat.webm]	/bavaʁde/	балакати
+tranquillement	calmly / quietly	[sound:calmly-quietly.webm]	/tʁɑ̃kiləmɑ̃/	спокійно / тихо
+animer	to host / to lead / to liven up	[sound:to-host-to-lead-to-liven-up.webm]	/anime/	вести / керувати / пожвавлювати
+l'opéra (m.)	the opera	[sound:the-opera.webm]	/lɔpeʁa/	опера
+le panneau	the sign / the panel	[sound:the-sign-the-panel.webm]	/lə pano/	табличка, знак / панель
+hum	hmm	[sound:hmm.webm]	/œm/	гм
+sévère	strict / severe	[sound:strict-severe.webm]	/sevɛʁ/	суворий
+élégant / élégante	elegant	[sound:elegant.webm]	/eleɡɑ̃, eleɡɑ̃t/	елегантний / елегантна
+s'effondrer	to collapse (s'effondrer)	[sound:to-collapse-s-effondrer.webm]	/sefɔ̃dʁe/	обвалюватися, падати
+le cahier	the notebook / the exercise book	[sound:the-notebook-the-exercise-book.webm]	/lə kaje/	зошит
+le futur	the future	[sound:the-future-le-futur.webm]	/lə fytyʁ/	майбутнє
+admirable	admirable	[sound:admirable.webm]	/admiʁabl/	чудовий, гідний захоплення
+enchanter	to delight (enchanté = nice to meet you)	[sound:to-delight-enchante-nice-to-meet-you.webm]	/ɑ̃ʃɑ̃te/	зачаровувати (enchanté = приємно познайомитися)
+célébrer	to celebrate	[sound:to-celebrate-celebrer.webm]	/selebʁe/	святкувати
+la construction	the construction / the building	[sound:the-construction-the-building.webm]	/la kɔ̃stʁyksjɔ̃/	будівництво / будівля
+mélanger	to mix	[sound:to-mix.webm]	/melɑ̃ʒe/	змішувати
+insupportable	unbearable	[sound:unbearable.webm]	/ɛ̃sypɔʁtabl/	нестерпний
+le neveu	the nephew	[sound:the-nephew.webm]	/lə nəvø/	племінник
+classique	classic / classical	[sound:classic-classical.webm]	/klasik/	класичний
+chut	shh!	[sound:shh.webm]	/ʃyt/	цить!
+la communauté	the community	[sound:the-community.webm]	/la kɔmynote/	громада, спільнота
+la médecine	the medicine (field)	[sound:the-medicine-field.webm]	/la mɛdsin/	медицина
+le dialogue	the dialogue	[sound:the-dialogue.webm]	/lə djalɔɡ/	діалог
+l'épisode (m.)	the episode	[sound:the-episode.webm]	/lepizɔd/	епізод, серія
+la coutume	the custom	[sound:the-custom.webm]	/la kutym/	звичай
+l'oignon (m.)	the onion	[sound:the-onion-l-oignon-m.webm]	/lɔɲɔ̃/	цибуля
