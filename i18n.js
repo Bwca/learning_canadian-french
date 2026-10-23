@@ -95,8 +95,10 @@ function setUiLanguage(lang) {
     document.dispatchEvent(new CustomEvent("uilanguagechange"));
 }
 
-// EN | УКР buttons at the top of the page's .container.
+// EN | УКР buttons at the top of the page's .container, or at the right of its .page-nav bar
+// (the bar with the link back up to the index page) when it has one.
 function mountLanguageSwitch() {
+    const nav = document.querySelector(".page-nav");
     const container = document.querySelector(".container") || document.body;
     const group = document.createElement("div");
     group.className = "buttons has-addons is-right language-switch mb-0";
@@ -108,12 +110,14 @@ function mountLanguageSwitch() {
         const button = event.target.closest(".button");
         if (button && button.dataset.lang !== uiLanguage) setUiLanguage(button.dataset.lang);
     });
-    container.prepend(group);
+    if (nav) nav.append(group);
+    else container.prepend(group);
 }
 
 const I18N_COMMON = {
     en: {
         languageSwitch: "Your language",
+        allTools: "All tools",
         textSizeControls: "Text size controls",
         textSize: "Text size:",
         textSmaller: "Decrease text size",
@@ -136,6 +140,7 @@ const I18N_COMMON = {
     },
     uk: {
         languageSwitch: "Ваша мова",
+        allTools: "Усі тренажери",
         textSizeControls: "Розмір тексту",
         textSize: "Розмір тексту:",
         textSmaller: "Зменшити текст",
