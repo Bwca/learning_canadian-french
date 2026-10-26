@@ -6,7 +6,7 @@
     <title data-i18n="pageTitle">French Vocabulary Test</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
     <style>
-        .container { max-width: 800px; margin: auto; text-align: center; }
+        .container { max-width: 800px; margin: auto; padding: 0 0.75rem; text-align: center; }
         .columns { margin-top: 20px; }
         .correct { background-color: #d4edda; }
         .incorrect { background-color: #f8d7da; }
@@ -75,11 +75,11 @@
             wordList.innerHTML = "";
             entries.forEach((entry, index) => {
                 const div = document.createElement("div");
-                div.classList.add("column", "is-half", "is-one-third-mobile");
+                div.classList.add("column", "is-half");
                 div.innerHTML = `
                     <div class="box">
                         <p><strong ${contentAttrs(entry.translation)}></strong></p>
-                        <input class="input answer" type="text" lang="fr" data-correct="${i18nEscape(entry.french)}">
+                        <input class="input answer" type="text" lang="fr" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false" data-correct="${i18nEscape(entry.french)}">
                         <p class="correct-answer hidden"><span data-i18n="correctIs"></span> <span lang="fr">${i18nEscape(entry.french)}</span></p>
                         <label class="checkbox hidden">
                             <input type="checkbox" class="override-correct"> <span data-i18n="markCorrect"></span>

@@ -6,7 +6,7 @@
     <title data-i18n="pageTitle">English Vocabulary Test</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
     <style>
-        .container { max-width: 800px; margin: auto; text-align: center; }
+        .container { max-width: 800px; margin: auto; padding: 0 0.75rem; text-align: center; }
         .columns { margin-top: 20px; }
         .correct { background-color: #d4edda; }
         .incorrect { background-color: #f8d7da; }
@@ -79,11 +79,11 @@
             wordList.innerHTML = "";
             entries.forEach((entry, index) => {
                 const div = document.createElement("div");
-                div.classList.add("column", "is-half", "is-one-third-mobile");
+                div.classList.add("column", "is-half");
                 div.innerHTML = `
                     <div class="box">
                         <p><strong lang="uk">${i18nEscape(entry.translation)}</strong></p>
-                        <input class="input answer" type="text" lang="en" autocapitalize="off" data-answers="${i18nEscape(JSON.stringify(entry.answers))}">
+                        <input class="input answer" type="text" lang="en" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false" data-answers="${i18nEscape(JSON.stringify(entry.answers))}">
                         <p class="correct-answer hidden"><span data-i18n="correctIs"></span> <span lang="en">${i18nEscape(entry.english)}</span></p>
                         <label class="checkbox hidden">
                             <input type="checkbox" class="override-correct"> <span data-i18n="markCorrect"></span>
