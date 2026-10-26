@@ -1,0 +1,122 @@
+{
+  "title": {
+    "en": "Dependent prepositions: verbs",
+    "uk": "Прийменники після дієслів"
+  },
+  "focus": {
+    "en": "Many verbs take a fixed preposition before their object: wait for, depend on, apply for, belong to, consist of, comply with, account for, apologize for, specialize in, focus on. They often differ from Ukrainian, so learn them together.",
+    "uk": "Багато дієслів вимагають сталого прийменника перед додатком: wait for, depend on, apply for, belong to, consist of, comply with, account for, apologize for, specialize in, focus on. Вони часто не збігаються з українськими, тож вивчайте їх разом."
+  },
+  "exercises": [
+    {
+      "text": "We're still waiting ___ the client's approval.",
+      "answers": [
+        "for"
+      ],
+      "uk": "Ми досі чекаємо на погодження клієнта.",
+      "why": {
+        "en": "Wait for (чекати на).",
+        "uk": "Wait for (чекати на)."
+      }
+    },
+    {
+      "text": "Our budget depends ___ next year's sales.",
+      "answers": [
+        "on"
+      ],
+      "uk": "Наш бюджет залежить від продажів наступного року.",
+      "why": {
+        "en": "Depend on, not from (залежати від).",
+        "uk": "Depend on, а не from (залежати від)."
+      }
+    },
+    {
+      "text": "I'd like to apply ___ the bookkeeper position.",
+      "answers": [
+        "for"
+      ],
+      "uk": "Я хочу подати заявку на посаду рахівника.",
+      "why": {
+        "en": "Apply for a job; apply to a company.",
+        "uk": "Apply for — на посаду; apply to — до компанії."
+      }
+    },
+    {
+      "text": "Does this laptop belong ___ you?",
+      "answers": [
+        "to"
+      ],
+      "uk": "Це ваш ноутбук?",
+      "why": {
+        "en": "Belong to (належати комусь).",
+        "uk": "Belong to (належати комусь)."
+      }
+    },
+    {
+      "text": "The annual report consists ___ three sections.",
+      "answers": [
+        "of"
+      ],
+      "uk": "Річний звіт складається з трьох розділів.",
+      "why": {
+        "en": "Consist of (складатися з).",
+        "uk": "Consist of (складатися з)."
+      }
+    },
+    {
+      "text": "All employers must comply ___ the new payroll rules.",
+      "answers": [
+        "with"
+      ],
+      "uk": "Усі роботодавці мусять дотримуватися нових правил нарахування зарплати.",
+      "why": {
+        "en": "Comply with (дотримуватися, виконувати).",
+        "uk": "Comply with (дотримуватися, виконувати)."
+      }
+    },
+    {
+      "text": "Salaries account ___ about 60% of our expenses.",
+      "answers": [
+        "for"
+      ],
+      "uk": "Зарплати становлять близько 60 % наших витрат.",
+      "why": {
+        "en": "Account for = make up a share of; also explain (account for the difference).",
+        "uk": "Account for = становити частку; також пояснювати (account for the difference)."
+      }
+    },
+    {
+      "text": "We apologize ___ the delay.",
+      "answers": [
+        "for"
+      ],
+      "uk": "Перепрошуємо за затримку.",
+      "why": {
+        "en": "Apologize for something; apologize to someone.",
+        "uk": "Apologize for — за щось; apologize to — перед кимось."
+      }
+    },
+    {
+      "text": "Our firm specializes ___ small business accounting.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Наша фірма спеціалізується на бухгалтерії для малого бізнесу.",
+      "why": {
+        "en": "Specialize in (спеціалізуватися на).",
+        "uk": "Specialize in (спеціалізуватися на)."
+      }
+    },
+    {
+      "text": "Today I'd like to focus ___ the cash flow statement.",
+      "answers": [
+        "on"
+      ],
+      "uk": "Сьогодні я хочу зосередитися на звіті про рух грошових коштів.",
+      "why": {
+        "en": "Focus on (зосередитися на).",
+        "uk": "Focus on (зосередитися на)."
+      }
+    }
+  ]
+}

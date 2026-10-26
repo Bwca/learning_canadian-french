@@ -1,0 +1,133 @@
+{
+  "title": {
+    "en": "Future forms: will, going to, present continuous",
+    "uk": "Майбутній час: will, going to, present continuous"
+  },
+  "focus": {
+    "en": "Will for decisions made at the moment of speaking, offers, promises, requests and opinions (I think…). Going to for plans already decided and predictions from present evidence. Present continuous for fixed arrangements; present simple for timetables.",
+    "uk": "Will — для рішень, ухвалених у момент мовлення, пропозицій, обіцянок, прохань і думок (I think…). Going to — для вже ухвалених планів і прогнозів на підставі того, що видно зараз. Present continuous — для домовленостей; present simple — для розкладів."
+  },
+  "exercises": [
+    {
+      "text": "The phone's ringing. — I ___ (get) it.",
+      "answers": [
+        "will get"
+      ],
+      "uk": "Телефон дзвонить. — Я візьму.",
+      "why": {
+        "en": "A decision made at the moment of speaking: will.",
+        "uk": "Рішення, ухвалене в момент мовлення: will."
+      }
+    },
+    {
+      "text": "We ___ (hire) two more clerks next year; it's already in the budget.",
+      "answers": [
+        [
+          "are going to hire",
+          "are hiring"
+        ]
+      ],
+      "uk": "Наступного року ми наймемо ще двох клерків; це вже закладено в бюджет.",
+      "why": {
+        "en": "A plan already decided: going to (or the present continuous for an arrangement).",
+        "uk": "Уже ухвалений план: going to (або present continuous для домовленості)."
+      }
+    },
+    {
+      "text": "I ___ (meet) the bank manager at 2 p.m. tomorrow — it's in my calendar.",
+      "answers": [
+        [
+          "am meeting",
+          "am going to meet"
+        ]
+      ],
+      "uk": "Завтра о 14:00 я зустрічаюся з менеджером банку — це в мене в календарі.",
+      "why": {
+        "en": "A fixed arrangement with a time: present continuous.",
+        "uk": "Домовленість із конкретним часом: present continuous."
+      }
+    },
+    {
+      "text": "Look at these numbers — we ___ (miss) our sales target this quarter.",
+      "answers": [
+        "are going to miss"
+      ],
+      "uk": "Погляньте на ці цифри — цього кварталу ми не виконаємо план продажів.",
+      "why": {
+        "en": "A prediction from present evidence (look at these numbers): going to.",
+        "uk": "Прогноз на підставі того, що видно зараз (look at these numbers): going to."
+      }
+    },
+    {
+      "text": "Don't worry, I ___ (not tell) anyone about the layoffs.",
+      "answers": [
+        "will not tell"
+      ],
+      "uk": "Не хвилюйтеся, я нікому не скажу про скорочення.",
+      "why": {
+        "en": "A promise: will (won't).",
+        "uk": "Обіцянка: will (won't)."
+      }
+    },
+    {
+      "text": "I think interest rates ___ (fall) next year.",
+      "answers": [
+        [
+          "will fall",
+          "are going to fall"
+        ]
+      ],
+      "uk": "Думаю, наступного року відсоткові ставки знизяться.",
+      "why": {
+        "en": "An opinion about the future after I think: usually will.",
+        "uk": "Думка про майбутнє після I think: зазвичай will."
+      }
+    },
+    {
+      "text": "___ you ___ (help) me carry these boxes to the mailroom?",
+      "answers": [
+        "will",
+        "help"
+      ],
+      "uk": "Допоможете мені віднести ці коробки до поштової кімнати?",
+      "why": {
+        "en": "A request: Will you…?",
+        "uk": "Прохання: Will you…?"
+      }
+    },
+    {
+      "text": "What ___ you ___ (do) this weekend? — We're visiting my in-laws in Kingston.",
+      "answers": [
+        "are",
+        "doing"
+      ],
+      "uk": "Що ви робите на вихідних? — Ми їдемо до моїх родичів у Кінгстон.",
+      "why": {
+        "en": "Asking about arrangements: present continuous.",
+        "uk": "Питання про домовленості: present continuous."
+      }
+    },
+    {
+      "text": "The flight to Halifax ___ (leave) at 6:45 a.m.",
+      "answers": [
+        "leaves"
+      ],
+      "uk": "Рейс до Галіфакса вилітає о 6:45 ранку.",
+      "why": {
+        "en": "A timetable: present simple.",
+        "uk": "Розклад: present simple."
+      }
+    },
+    {
+      "text": "Those boxes look heavy. I ___ (give) you a hand.",
+      "answers": [
+        "will give"
+      ],
+      "uk": "Ці коробки здаються важкими. Я вам допоможу.",
+      "why": {
+        "en": "An offer made on the spot: will.",
+        "uk": "Пропозиція допомогти, зроблена тут і зараз: will."
+      }
+    }
+  ]
+}

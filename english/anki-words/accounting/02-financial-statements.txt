@@ -1,0 +1,50 @@
+financial statements	фінансова звітність
+balance sheet	баланс
+statement of financial position	звіт про фінансовий стан
+income statement	звіт про прибутки та збитки
+statement of comprehensive income	звіт про сукупний дохід
+statement of cash flows	звіт про рух грошових коштів
+statement of changes in equity	звіт про зміни у власному капіталі
+retained earnings	нерозподілений прибуток
+notes to the financial statements	примітки до фінансової звітності
+current asset	оборотний актив
+non-current asset	необоротний актив
+current liability	поточне зобов'язання
+long-term liability	довгострокове зобов'язання
+working capital	оборотний капітал
+gross profit	валовий прибуток
+cost of goods sold (COGS)	собівартість реалізованих товарів
+operating expenses	операційні витрати
+operating income	операційний прибуток
+net sales	чиста виручка
+EBIT (earnings before interest and taxes)	прибуток до сплати відсотків і податків (EBIT)
+interest expense	витрати на відсотки
+income tax expense	витрати з податку на прибуток
+earnings per share (EPS)	прибуток на акцію
+dividend	дивіденд
+share capital	акціонерний капітал
+shareholder	акціонер
+operating activities	операційна діяльність
+investing activities	інвестиційна діяльність
+financing activities	фінансова діяльність
+liquidity	ліквідність
+solvency	платоспроможність
+profitability	прибутковість
+current ratio	коефіцієнт поточної ліквідності
+quick ratio	коефіцієнт швидкої ліквідності
+debt-to-equity ratio	співвідношення позикового і власного капіталу
+return on assets (ROA)	рентабельність активів
+return on equity (ROE)	рентабельність власного капіталу
+profit margin	рентабельність продажів (маржа прибутку)
+comparative statements	порівняльна звітність
+horizontal analysis	горизонтальний аналіз
+vertical analysis	вертикальний аналіз
+year-end	кінець фінансового року
+reporting date	звітна дата
+disclosure	розкриття інформації
+consolidated financial statements	консолідована фінансова звітність
+IFRS (International Financial Reporting Standards)	Міжнародні стандарти фінансової звітності (МСФЗ)
+ASPE (Accounting Standards for Private Enterprises)	стандарти обліку для приватних підприємств Канади (ASPE)
+materiality	суттєвість
+going concern	безперервність діяльності
+annual report	річний звіт

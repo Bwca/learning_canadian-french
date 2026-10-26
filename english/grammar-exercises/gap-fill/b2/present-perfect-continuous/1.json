@@ -1,0 +1,130 @@
+{
+  "title": {
+    "en": "Present perfect continuous: how long?",
+    "uk": "Present perfect continuous: як довго?"
+  },
+  "focus": {
+    "en": "Present perfect continuous (have been doing) for an activity that started in the past and is still going on or has just stopped, stressing how long or its visible effects. Present perfect simple (have done) for completed results and how much or how many. State verbs (know, be, own…) stay simple.",
+    "uk": "Present perfect continuous (have been doing) — для дії, що почалася в минулому й триває досі або щойно скінчилася, коли важлива тривалість чи помітні наслідки. Present perfect simple (have done) — для завершеного результату й «скільки». Дієслова стану (know, be, own…) лишаються в простій формі."
+  },
+  "exercises": [
+    {
+      "text": "I ___ (wait) for the courier since nine o'clock.",
+      "answers": [
+        "have been waiting"
+      ],
+      "uk": "Я чекаю на кур'єра з дев'ятої години.",
+      "why": {
+        "en": "An activity going on since a past point, still happening: present perfect continuous.",
+        "uk": "Дія триває з моменту в минулому й досі: present perfect continuous."
+      }
+    },
+    {
+      "text": "How long ___ you ___ (study) accounting?",
+      "answers": [
+        "have",
+        "been studying"
+      ],
+      "uk": "Як довго ви вивчаєте бухгалтерський облік?",
+      "why": {
+        "en": "How long + an activity still going on: present perfect continuous.",
+        "uk": "How long + дія, що досі триває: present perfect continuous."
+      }
+    },
+    {
+      "text": "We ___ (use) the same payroll software for ten years.",
+      "answers": [
+        [
+          "have been using",
+          "have used"
+        ]
+      ],
+      "uk": "Ми вже десять років користуємося тією самою програмою для розрахунку зарплати.",
+      "why": {
+        "en": "With for + a period up to now, both the continuous and the simple form work for verbs like use, work, live.",
+        "uk": "З for + період до тепер для дієслів на кшталт use, work, live підходять і continuous, і simple."
+      }
+    },
+    {
+      "text": "She ___ (work) on the year-end report all morning, and she's exhausted.",
+      "answers": [
+        "has been working"
+      ],
+      "uk": "Вона весь ранок працює над річним звітом і вже виснажена.",
+      "why": {
+        "en": "All morning stresses duration, and there's a visible effect: present perfect continuous.",
+        "uk": "All morning підкреслює тривалість, а наслідок помітний: present perfect continuous."
+      }
+    },
+    {
+      "text": "I ___ (know) Ahmed since we were in college.",
+      "answers": [
+        "have known"
+      ],
+      "uk": "Я знаю Ахмеда ще з коледжу.",
+      "why": {
+        "en": "Know is a state verb, so it stays simple: present perfect simple.",
+        "uk": "Know — дієслово стану, тож лишається простим: present perfect simple."
+      }
+    },
+    {
+      "text": "The phone ___ (ring) non-stop since the system went down.",
+      "answers": [
+        "has been ringing"
+      ],
+      "uk": "Телефон дзвонить без упину відтоді, як система впала.",
+      "why": {
+        "en": "A repeated activity going on since a past point: present perfect continuous.",
+        "uk": "Повторювана дія триває з моменту в минулому: present perfect continuous."
+      }
+    },
+    {
+      "text": "They ___ (try) to reach the supplier for two days, but nobody answers.",
+      "answers": [
+        "have been trying"
+      ],
+      "uk": "Вони вже два дні намагаються зв'язатися з постачальником, але ніхто не відповідає.",
+      "why": {
+        "en": "For two days + an activity still going on: present perfect continuous.",
+        "uk": "For two days + дія, що досі триває: present perfect continuous."
+      }
+    },
+    {
+      "text": "How long ___ this account ___ (be) overdue?",
+      "answers": [
+        "has",
+        "been"
+      ],
+      "uk": "Як довго цей рахунок прострочений?",
+      "why": {
+        "en": "Be is a state verb: present perfect simple (has been).",
+        "uk": "Be — дієслово стану: present perfect simple (has been)."
+      }
+    },
+    {
+      "text": "I ___ (look) for the signed contract all afternoon — have you seen it?",
+      "answers": [
+        "have been looking"
+      ],
+      "uk": "Я весь пообідній час шукаю підписаний договір — ви його не бачили?",
+      "why": {
+        "en": "All afternoon + an activity not yet finished: present perfect continuous.",
+        "uk": "All afternoon + дія, що ще не завершилася: present perfect continuous."
+      }
+    },
+    {
+      "text": "Our team ___ (grow) steadily since the merger.",
+      "answers": [
+        [
+          "has been growing",
+          "has grown"
+        ]
+      ],
+      "uk": "Відтоді як відбулося злиття, наша команда стабільно зростає.",
+      "why": {
+        "en": "A gradual change since a past point: continuous stresses the process, simple the result; both work.",
+        "uk": "Поступова зміна з моменту в минулому: continuous підкреслює процес, simple — результат; підходять обидва."
+      }
+    }
+  ]
+}

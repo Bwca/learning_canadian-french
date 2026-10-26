@@ -4,9 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repo is
 
-Personal language-learning materials and small browser-based drilling tools for one learner. It's organised by language: each language has its own top-level folder holding its content, tools and conventions. French (`french/`) is the only one so far, but the repo is meant to grow more — don't put language-specific content or tools at the root.
+Personal language-learning materials and small browser-based drilling tools for one learner. It's organised by language: each language has its own top-level folder holding its content, tools and conventions. So far there's French (`french/`, for an English- or Ukrainian-speaking learner) and English (`english/`, Canadian English for a Ukrainian-speaking learner), and the repo is meant to grow more — don't put language-specific content or tools at the root.
 
-Before working inside a language folder, read its own `CLAUDE.md` (e.g. `french/CLAUDE.md`) — content formats, level conventions and that language's curriculum plan live there, not here.
+Before working inside a language folder, read its own `CLAUDE.md` (`french/CLAUDE.md`, `english/CLAUDE.md`) — content formats, level conventions and that language's curriculum plan live there, not here.
 
 ## Root layout
 
@@ -18,7 +18,7 @@ Before working inside a language folder, read its own `CLAUDE.md` (e.g. `french/
 
 ## GitHub Pages deploy
 
-`.github/workflows/pages.yml` runs on push to `master`. It copies the root `index.html`, `library.js` and `i18n.js`, plus every top-level folder that has an `index.html` (minus `pronunciation-generator/`, `tef-prep/` and `.md` files), then runs `.github/scripts/build-manifest.js`. Pages has no directory listing, so that script writes `<language>/manifest.json` listing the folder's `anki-words/<group>/*.txt` lists and the `<level>/<topic>/<n>.json` sets under `grammar-exercises/translation-drills/` and `reading-exercises/`, labelled with each file's `title` (a `{ en, uk }` title gives a `{ en, uk }` label). It's generated, not committed — new content needs no manual registration. A new language that follows the same folder layout is picked up automatically; a new kind of content folder needs adding to `build-manifest.js`.
+`.github/workflows/pages.yml` runs on push to `master`. It copies the root `index.html`, `library.js` and `i18n.js`, plus every top-level folder that has an `index.html` (minus `pronunciation-generator/`, `tef-prep/` and `.md` files), then runs `.github/scripts/build-manifest.js`. Pages has no directory listing, so that script writes `<language>/manifest.json` listing the folder's `anki-words/<group>/*.txt` lists and the `<level>/<topic>/<n>.json` sets under `grammar-exercises/translation-drills/`, `grammar-exercises/gap-fill/` and `reading-exercises/`, labelled with each file's `title` (a `{ en, uk }` title gives a `{ en, uk }` label). It's generated, not committed — new content needs no manual registration. A new language that follows the same folder layout is picked up automatically; a new kind of content folder needs adding to `build-manifest.js`.
 
 Pages' Source setting must be **GitHub Actions**; with "Deploy from a branch", GitHub's own publisher also runs and overwrites the site without the manifests.
 

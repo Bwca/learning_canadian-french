@@ -1,0 +1,127 @@
+{
+  "title": {
+    "en": "Prepositions of time: at, on, in",
+    "uk": "Прийменники часу: at, on, in"
+  },
+  "focus": {
+    "en": "At for clock times and holiday periods (at noon, at Christmas); on for days and dates (on Monday, on April 30, on the weekend); in for months, years, seasons and parts of the day (in March, in 2015, in the afternoon).",
+    "uk": "At — для годин і святкових періодів (at noon, at Christmas); on — для днів і дат (on Monday, on April 30, on the weekend); in — для місяців, років, пір року й частин доби (in March, in 2015, in the afternoon)."
+  },
+  "exercises": [
+    {
+      "text": "The payroll deadline is ___ Thursday ___ noon.",
+      "answers": [
+        "on",
+        "at"
+      ],
+      "uk": "Кінцевий термін для зарплатних даних — у четвер опівдні.",
+      "why": {
+        "en": "On for days of the week; at for clock times, including noon and midnight.",
+        "uk": "On — для днів тижня; at — для часу на годиннику, зокрема noon і midnight."
+      }
+    },
+    {
+      "text": "Our fiscal year ends ___ March.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Наш фінансовий рік закінчується в березні.",
+      "why": {
+        "en": "In for months.",
+        "uk": "In — для місяців."
+      }
+    },
+    {
+      "text": "The office is closed ___ Canada Day.",
+      "answers": [
+        "on"
+      ],
+      "uk": "На День Канади офіс зачинено.",
+      "why": {
+        "en": "On for a particular day, including named holidays.",
+        "uk": "On — для конкретного дня, зокрема свят із назвою."
+      }
+    },
+    {
+      "text": "Personal tax returns are due ___ April 30.",
+      "answers": [
+        "on"
+      ],
+      "uk": "Особисті податкові декларації треба подати до 30 квітня.",
+      "why": {
+        "en": "On for dates.",
+        "uk": "On — для дат."
+      }
+    },
+    {
+      "text": "During tax season, she often works late ___ night.",
+      "answers": [
+        "at"
+      ],
+      "uk": "У податковий сезон вона часто працює допізна вночі.",
+      "why": {
+        "en": "At night is a fixed phrase; compare in the morning, in the evening.",
+        "uk": "At night — стала фраза; порівняйте in the morning, in the evening."
+      }
+    },
+    {
+      "text": "We opened our first office ___ 2015.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Ми відкрили перший офіс у 2015 році.",
+      "why": {
+        "en": "In for years.",
+        "uk": "In — для років."
+      }
+    },
+    {
+      "text": "Can we meet ___ Monday morning?",
+      "answers": [
+        "on"
+      ],
+      "uk": "Можемо зустрітися в понеділок уранці?",
+      "why": {
+        "en": "A day + part of the day takes on: on Monday morning, but in the morning.",
+        "uk": "День + частина доби вимагає on: on Monday morning, але in the morning."
+      }
+    },
+    {
+      "text": "Many staff take time off ___ Christmas.",
+      "answers": [
+        "at"
+      ],
+      "uk": "Багато працівників беруть відпустку на Різдво.",
+      "why": {
+        "en": "At for holiday periods (at Christmas, at Easter); on for the day itself (on Christmas Day).",
+        "uk": "At — для святкового періоду (at Christmas, at Easter); on — для самого дня (on Christmas Day)."
+      }
+    },
+    {
+      "text": "I never check work email ___ the weekend.",
+      "answers": [
+        [
+          "on",
+          "over"
+        ]
+      ],
+      "uk": "На вихідних я ніколи не перевіряю робочу пошту.",
+      "why": {
+        "en": "Canadian and American English say on the weekend; British English says at the weekend.",
+        "uk": "У канадській та американській англійській кажуть on the weekend; у британській — at the weekend."
+      }
+    },
+    {
+      "text": "The meeting is ___ 3:30 ___ the afternoon.",
+      "answers": [
+        "at",
+        "in"
+      ],
+      "uk": "Нарада о 15:30.",
+      "why": {
+        "en": "At for clock times; in for parts of the day.",
+        "uk": "At — для часу на годиннику; in — для частин доби."
+      }
+    }
+  ]
+}

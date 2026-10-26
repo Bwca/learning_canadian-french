@@ -1,0 +1,50 @@
+property, plant and equipment (PP&E)	основні засоби
+fixed asset	основний засіб
+tangible asset	матеріальний актив
+intangible asset	нематеріальний актив
+goodwill	гудвіл (ділова репутація)
+depreciation	амортизація (основних засобів)
+amortization	амортизація (нематеріальних активів)
+accumulated depreciation	накопичена амортизація (знос)
+straight-line method	прямолінійний метод
+declining-balance method	метод зменшення залишкової вартості
+units-of-production method	виробничий метод амортизації
+useful life	строк корисного використання
+residual value / salvage value	ліквідаційна вартість
+carrying amount / book value	балансова вартість
+historical cost	первісна (історична) вартість
+fair value	справедлива вартість
+impairment	знецінення
+disposal	вибуття (продаж чи ліквідація активу)
+gain on disposal	прибуток від вибуття
+loss on disposal	збиток від вибуття
+capital expenditure (capex)	капітальні витрати
+to capitalize	капіталізувати (віднести на вартість активу)
+leasehold improvements	поліпшення орендованого майна
+lease	оренда
+lessee	орендар
+lessor	орендодавець
+capital cost allowance (CCA)	податкова амортизація в Канаді (CCA)
+asset register	реєстр основних засобів
+depreciation schedule	графік амортизації
+land	земля (земельна ділянка)
+equipment	обладнання
+inventory	запаси
+merchandise	товари для перепродажу
+raw materials	сировина
+work in process	незавершене виробництво
+finished goods	готова продукція
+FIFO (first in, first out)	ФІФО (перше надходження — перше вибуття)
+weighted average cost	середньозважена собівартість
+specific identification	метод ідентифікованої собівартості
+perpetual inventory system	система безперервного обліку запасів
+periodic inventory system	система періодичного обліку запасів
+stocktaking / physical count	інвентаризація
+shrinkage	нестача запасів (втрати)
+write-off	списання
+write-down	уцінка (часткове списання)
+net realizable value	чиста вартість реалізації
+obsolete inventory	застарілі запаси
+cost of inventory	собівартість запасів
+stock on hand	наявні запаси
+reorder point	точка перезамовлення

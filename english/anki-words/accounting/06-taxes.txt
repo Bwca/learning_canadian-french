@@ -1,0 +1,50 @@
+Canada Revenue Agency (CRA)	Канадське податкове агентство (CRA)
+Revenu Québec	податкова служба Квебеку
+GST (Goods and Services Tax)	федеральний податок на товари та послуги (GST)
+HST (Harmonized Sales Tax)	гармонізований податок з продажу (HST)
+PST (Provincial Sales Tax)	провінційний податок з продажу (PST)
+QST (Quebec Sales Tax)	податок з продажу Квебеку (QST)
+input tax credit (ITC)	податковий кредит на сплачений GST (ITC)
+business number (BN)	бізнес-номер (BN)
+tax return	податкова декларація
+to file a tax return	подати податкову декларацію
+filing deadline	кінцевий термін подання
+tax year	податковий рік
+taxable income	оподатковуваний дохід
+tax deduction	податкове вирахування
+tax credit	податкова пільга (податковий кредит)
+tax bracket	податковий діапазон
+marginal tax rate	гранична податкова ставка
+corporate income tax	податок на прибуток корпорацій
+T1 return	декларація T1 (фізичної особи)
+T2 return	декларація T2 (корпорації)
+notice of assessment	повідомлення про податкове нарахування
+reassessment	перегляд податкового нарахування
+instalment payments	авансові податкові платежі
+tax liability	податкове зобов'язання
+tax refund	повернення податку
+balance owing	сума до доплати
+exempt supply	операція, звільнена від податку
+zero-rated supply	операція з нульовою ставкою
+taxable supply	оподатковувана операція
+self-employed	самозайнятий
+sole proprietorship	одноосібне підприємство
+partnership	товариство (партнерство)
+corporation	корпорація
+small business deduction	податкова пільга для малого бізнесу
+capital gain	приріст капіталу
+capital loss	втрата капіталу
+deductible expense	витрати, що зменшують оподатковуваний дохід
+non-deductible	що не зменшує оподатковуваний дохід
+tax audit	податкова перевірка
+penalty	штраф
+tax evasion	ухилення від сплати податків
+tax avoidance	законна мінімізація податків
+tax planning	податкове планування
+quarterly filing	щоквартальне подання звітності
+My Business Account	онлайн-кабінет бізнесу в CRA
+fair market value	справедлива ринкова вартість
+TFSA (tax-free savings account)	неоподатковуваний ощадний рахунок (TFSA)
+withholding tax	податок, утриманий у джерела
+non-resident	нерезидент
+tax-exempt	звільнений від оподаткування

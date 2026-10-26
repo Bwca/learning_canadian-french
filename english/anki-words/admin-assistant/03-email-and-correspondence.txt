@@ -1,0 +1,50 @@
+correspondence	листування
+inbox	вхідні
+subject line	тема листа
+attachment	вкладення
+to attach	прикріпити (файл)
+to forward	переслати
+to reply all	відповісти всім
+CC (carbon copy)	копія (CC)
+BCC (blind carbon copy)	прихована копія (BCC)
+distribution list	список розсилки
+email signature	підпис в електронному листі
+out-of-office reply	автовідповідь про відсутність
+draft	чернетка
+to proofread	вичитати (перевірити текст)
+typo	друкарська помилка
+memo	службова записка
+cover letter	супровідний лист
+letter of reference	рекомендаційний лист
+template	шаблон
+enclosure	додаток (до листа)
+Dear Sir or Madam	Шановні пані та панове
+To whom it may concern	Для тих, кого це стосується
+I am writing to inquire about	Я пишу, щоб дізнатися про
+Please find attached	У вкладенні ви знайдете
+As per our conversation	Відповідно до нашої розмови
+Further to your email	На додачу до вашого листа
+Thank you for your prompt reply	Дякую за швидку відповідь
+I look forward to hearing from you	Чекаю на вашу відповідь
+Please do not hesitate to contact me	Звертайтеся до мене без вагань
+at your earliest convenience	щойно матимете змогу
+Kind regards	З повагою
+Best regards	З найкращими побажаннями
+to follow up	нагадати (уточнити згодом)
+just a friendly reminder	лише дружнє нагадування
+to acknowledge receipt	підтвердити отримання
+urgent	терміновий
+high priority	високий пріоритет
+confidential	конфіденційний
+for your information (FYI)	до вашого відома (FYI)
+as soon as possible (ASAP)	якнайшвидше (ASAP)
+to clarify	уточнити
+to apologize for the inconvenience	перепрошувати за незручності
+courier	кур'єрська служба
+registered mail	рекомендований лист
+tracking number	номер для відстеження
+postage	поштовий збір
+mailroom	поштове відділення (в офісі)
+to sign for a package	розписатися за посилку
+newsletter	інформаційний бюлетень
+spam	спам

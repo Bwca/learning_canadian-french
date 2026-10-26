@@ -1,0 +1,124 @@
+{
+  "title": {
+    "en": "Past simple vs present perfect: just, already, yet, since, for",
+    "uk": "Past simple чи present perfect: just, already, yet, since, for"
+  },
+  "focus": {
+    "en": "Past simple for finished actions at a finished time (yesterday, last year, in 2022, ago, when…?). Present perfect for past actions that matter now: news, experience, results, and unfinished periods (today, this week, ever, yet, already, since, for).",
+    "uk": "Past simple — для завершених дій у завершений час (yesterday, last year, in 2022, ago, when…?). Present perfect — для минулих дій, важливих зараз: новини, досвід, результати й незавершені періоди (today, this week, ever, yet, already, since, for)."
+  },
+  "exercises": [
+    {
+      "text": "The auditors ___ (just / arrive) — shall I show them to the boardroom?",
+      "answers": [
+        "have just arrived"
+      ],
+      "uk": "Аудитори щойно прийшли — провести їх до зали нарад?",
+      "why": {
+        "en": "Just for something very recent with a present result: present perfect.",
+        "uk": "Just — про щось зовсім недавнє з результатом зараз: present perfect."
+      }
+    },
+    {
+      "text": "I ___ (not see) Paul since Monday.",
+      "answers": [
+        "have not seen"
+      ],
+      "uk": "Я не бачив Пола з понеділка.",
+      "why": {
+        "en": "Since + a starting point, up to now: present perfect.",
+        "uk": "Since + початкова точка, аж до тепер: present perfect."
+      }
+    },
+    {
+      "text": "We ___ (move) to this office in 2021.",
+      "answers": [
+        "moved"
+      ],
+      "uk": "Ми переїхали в цей офіс у 2021 році.",
+      "why": {
+        "en": "In 2021 is a finished time: past simple.",
+        "uk": "In 2021 — завершений час: past simple."
+      }
+    },
+    {
+      "text": "We ___ (be) in this office since 2021.",
+      "answers": [
+        "have been"
+      ],
+      "uk": "Ми в цьому офісі з 2021 року.",
+      "why": {
+        "en": "Since 2021, and we're still here: present perfect.",
+        "uk": "Since 2021, і ми досі тут: present perfect."
+      }
+    },
+    {
+      "text": "___ the bank ___ (approve) our loan yet?",
+      "answers": [
+        "has",
+        "approved"
+      ],
+      "uk": "Банк уже схвалив нашу позику?",
+      "why": {
+        "en": "Yet in a question goes with the present perfect.",
+        "uk": "Yet у питанні вживається з present perfect."
+      }
+    },
+    {
+      "text": "The CRA ___ (send) us a notice of assessment yesterday.",
+      "answers": [
+        "sent"
+      ],
+      "uk": "Учора CRA надіслало нам повідомлення про податкове нарахування.",
+      "why": {
+        "en": "Yesterday is a finished time: past simple.",
+        "uk": "Yesterday — завершений час: past simple."
+      }
+    },
+    {
+      "text": "Prices ___ (go up) by 4% since January.",
+      "answers": [
+        "have gone up"
+      ],
+      "uk": "Відтоді як почався січень, ціни зросли на 4 %.",
+      "why": {
+        "en": "Since January, up to now: present perfect.",
+        "uk": "Since January, аж до тепер: present perfect."
+      }
+    },
+    {
+      "text": "I ___ (finish) the report an hour ago and ___ (email) it to the manager right away.",
+      "answers": [
+        "finished",
+        "emailed"
+      ],
+      "uk": "Я закінчив звіт годину тому й одразу надіслав його менеджерові.",
+      "why": {
+        "en": "Ago, and a sequence of finished events: past simple.",
+        "uk": "Ago і низка завершених подій: past simple."
+      }
+    },
+    {
+      "text": "This is the first time we ___ (have) a tax audit.",
+      "answers": [
+        "have had"
+      ],
+      "uk": "Це вперше в нас податкова перевірка.",
+      "why": {
+        "en": "This is the first time is followed by the present perfect.",
+        "uk": "Після this is the first time вживаємо present perfect."
+      }
+    },
+    {
+      "text": "It's been a busy day — I ___ (answer) over sixty calls.",
+      "answers": [
+        "have answered"
+      ],
+      "uk": "Сьогодні багато роботи — я відповів уже на понад шістдесят дзвінків.",
+      "why": {
+        "en": "The day isn't over yet: present perfect.",
+        "uk": "День іще не скінчився: present perfect."
+      }
+    }
+  ]
+}

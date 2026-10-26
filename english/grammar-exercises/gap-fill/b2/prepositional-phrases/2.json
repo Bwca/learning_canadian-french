@@ -1,0 +1,125 @@
+{
+  "title": {
+    "en": "Prepositional phrases at work 2",
+    "uk": "Сталі фрази з прийменниками на роботі 2"
+  },
+  "focus": {
+    "en": "More fixed phrases: in addition to, in my opinion, in advance, on the whole, out of date, in a hurry, on the way, at the end of the day, on the understanding that, on request.",
+    "uk": "Ще сталі фрази: in addition to, in my opinion, in advance, on the whole, out of date, in a hurry, on the way, at the end of the day, on the understanding that, on request."
+  },
+  "exercises": [
+    {
+      "text": "___ addition to the salary, the job includes a pension plan.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Окрім зарплати, робота передбачає пенсійний план.",
+      "why": {
+        "en": "In addition to = as well as.",
+        "uk": "In addition to = окрім, на додачу до."
+      }
+    },
+    {
+      "text": "___ my opinion, we should hire an external auditor.",
+      "answers": [
+        "in"
+      ],
+      "uk": "На мою думку, нам варто найняти зовнішнього аудитора.",
+      "why": {
+        "en": "In my opinion, not on or by.",
+        "uk": "In my opinion, а не on чи by."
+      }
+    },
+    {
+      "text": "Please book the boardroom ___ advance.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Будь ласка, бронюйте залу для нарад заздалегідь.",
+      "why": {
+        "en": "In advance = beforehand.",
+        "uk": "In advance = заздалегідь."
+      }
+    },
+    {
+      "text": "There were a few problems, but ___ the whole it was a good year.",
+      "answers": [
+        "on"
+      ],
+      "uk": "Було кілька проблем, але загалом рік був вдалий.",
+      "why": {
+        "en": "On the whole = generally.",
+        "uk": "On the whole = загалом."
+      }
+    },
+    {
+      "text": "This software is ___ date; please install the update.",
+      "answers": [
+        "out of"
+      ],
+      "uk": "Ця програма застаріла; будь ласка, встановіть оновлення.",
+      "why": {
+        "en": "Out of date = old, not current; up to date = current.",
+        "uk": "Out of date = застарілий; up to date = актуальний."
+      }
+    },
+    {
+      "text": "Sorry, I'm ___ a hurry — can we talk later?",
+      "answers": [
+        "in"
+      ],
+      "uk": "Вибачте, я поспішаю — можемо поговорити пізніше?",
+      "why": {
+        "en": "In a hurry = rushing.",
+        "uk": "In a hurry = поспішати."
+      }
+    },
+    {
+      "text": "The documents are ___ the way; they should arrive tomorrow.",
+      "answers": [
+        "on"
+      ],
+      "uk": "Документи вже в дорозі; мають прибути завтра.",
+      "why": {
+        "en": "On the way = travelling towards you; in the way = blocking.",
+        "uk": "On the way = в дорозі; in the way = заважає, на заваді."
+      }
+    },
+    {
+      "text": "___ the end of the day, it's the client's decision.",
+      "answers": [
+        "at"
+      ],
+      "uk": "Зрештою, це рішення клієнта.",
+      "why": {
+        "en": "At the end of the day = when everything is considered (informal).",
+        "uk": "At the end of the day = зрештою, коли все зважено (розмовне)."
+      }
+    },
+    {
+      "text": "I signed ___ the understanding that the price was fixed.",
+      "answers": [
+        "on"
+      ],
+      "uk": "Я підписав, розуміючи, що ціна фіксована.",
+      "why": {
+        "en": "On the understanding that = on the condition that.",
+        "uk": "On the understanding that = за умови, що."
+      }
+    },
+    {
+      "text": "Paper copies are available ___ request.",
+      "answers": [
+        [
+          "on",
+          "upon"
+        ]
+      ],
+      "uk": "Паперові копії надаємо на запит.",
+      "why": {
+        "en": "On (or upon) request = if you ask.",
+        "uk": "On (або upon) request = на запит."
+      }
+    }
+  ]
+}

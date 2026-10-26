@@ -1,0 +1,50 @@
+bank reconciliation	звірка з банківською випискою
+to reconcile	звіряти (рахунки)
+bank statement	банківська виписка
+outstanding cheque	ще не пред'явлений чек
+deposit in transit	депозит у дорозі (ще не зарахований банком)
+NSF cheque	чек без покриття
+bank charges	банківські комісії
+service charge	плата за обслуговування
+chequing account	поточний рахунок
+savings account	ощадний рахунок
+line of credit	кредитна лінія
+overdraft	овердрафт
+loan	позика (кредит)
+principal	основна сума боргу
+interest rate	відсоткова ставка
+prime rate	базова ставка банку
+mortgage	іпотека
+collateral	застава
+cash flow	грошовий потік
+cash on hand	готівка в касі
+petty cash	дрібна каса
+petty cash voucher	ордер на видачу з дрібної каси
+float	розмінний фонд (гроші на здачу)
+point of sale (POS)	точка продажу (POS)
+electronic funds transfer (EFT)	електронний переказ коштів (EFT)
+wire transfer	банківський (міжнародний) переказ
+Interac e-Transfer	переказ Interac e-Transfer
+pre-authorized debit (PAD)	попередньо погоджене списання (PAD)
+void cheque	анульований чек (зразок банківських реквізитів)
+post-dated cheque	чек із пізнішою датою
+stop payment	зупинення платежу
+to clear	пройти (про чек чи платіж у банку)
+cash receipts journal	журнал касових надходжень
+cash disbursements journal	журнал касових виплат
+internal controls	внутрішній контроль
+segregation of duties	розподіл обов'язків
+authorization	дозвіл (авторизація)
+fraud	шахрайство
+embezzlement	розтрата
+cash count	перерахунок готівки
+cash over and short	надлишок і нестача каси
+foreign exchange	обмін валют
+exchange rate	обмінний курс
+signing authority	право підпису
+deposit slip	квитанція на внесення коштів
+merchant fees	комісія за прийом карток
+credit card statement	виписка за кредитною карткою
+corporate credit card	корпоративна кредитна картка
+treasury	казначейство (управління коштами)
+online banking	онлайн-банкінг

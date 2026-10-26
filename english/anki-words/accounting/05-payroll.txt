@@ -1,0 +1,50 @@
+payroll	розрахунок заробітної плати
+pay period	розрахунковий період
+pay stub	розрахунковий листок
+gross pay	нарахована зарплата (до утримань)
+net pay	зарплата «на руки»
+salary	оклад
+wage	погодинна оплата
+hourly rate	погодинна ставка
+overtime	понаднормова робота
+time sheet	табель обліку робочого часу
+deduction	утримання
+source deductions	утримання із зарплати у джерела
+withholding	утримання податку
+Canada Pension Plan (CPP)	Канадський пенсійний план (CPP)
+Quebec Pension Plan (QPP)	Пенсійний план Квебеку (QPP)
+Employment Insurance (EI)	страхування на випадок безробіття (EI)
+premium	страховий внесок
+contribution	внесок
+employer contribution	внесок роботодавця
+T4 slip	довідка T4 про доходи працівника
+T4 summary	зведена форма T4
+TD1 form	форма TD1 (податкові пільги працівника)
+Record of Employment (ROE)	довідка про трудову діяльність (ROE)
+vacation pay	відпускні
+statutory holiday	офіційне (державне) свято
+benefits	соціальний пакет
+taxable benefit	оподатковувана пільга
+pension plan	пенсійний план
+RRSP (registered retirement savings plan)	зареєстрований пенсійний накопичувальний план (RRSP)
+direct deposit	пряме зарахування на рахунок
+pay cheque	зарплатний чек
+remittance	перерахування утриманих сум
+to remit	перерахувати (утримані суми)
+year-to-date (YTD)	з початку року
+bonus	премія
+commission	комісійні
+severance pay	вихідна допомога
+termination	звільнення
+payroll register	платіжна відомість
+garnishment	стягнення із зарплати за рішенням суду
+union dues	профспілкові внески
+workers' compensation	страхування від нещасних випадків на роботі
+minimum wage	мінімальна зарплата
+biweekly	раз на два тижні
+semi-monthly	двічі на місяць
+employee	працівник
+employer	роботодавець
+headcount	чисельність працівників
+payroll administrator	фахівець із розрахунку зарплати
+pay raise	підвищення зарплати

@@ -1,0 +1,122 @@
+{
+  "title": {
+    "en": "Prepositions of place: at, on, in",
+    "uk": "Прийменники місця: at, on, in"
+  },
+  "focus": {
+    "en": "In for inside a space or area (in the drawer, in Mississauga, in a meeting); on for a surface, a floor or a list (on the desk, on the fourth floor); at for a point or a place where something happens (at the front desk, at 250 Bay Street, at work).",
+    "uk": "In — усередині простору чи місцевості (in the drawer, in Mississauga, in a meeting); on — на поверхні, поверсі чи у списку (on the desk, on the fourth floor); at — у точці чи місці, де щось відбувається (at the front desk, at 250 Bay Street, at work)."
+  },
+  "exercises": [
+    {
+      "text": "The files are ___ the top drawer of my desk.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Документи у верхній шухляді мого столу.",
+      "why": {
+        "en": "Inside a container: in.",
+        "uk": "Усередині чогось: in."
+      }
+    },
+    {
+      "text": "There's a sticky note ___ your monitor.",
+      "answers": [
+        "on"
+      ],
+      "uk": "На вашому моніторі клейкий листок.",
+      "why": {
+        "en": "Touching a surface: on.",
+        "uk": "На поверхні: on."
+      }
+    },
+    {
+      "text": "I'll meet you ___ the front desk.",
+      "answers": [
+        "at"
+      ],
+      "uk": "Зустріну вас біля рецепції.",
+      "why": {
+        "en": "A meeting point: at.",
+        "uk": "Місце зустрічі: at."
+      }
+    },
+    {
+      "text": "Our office is ___ the fourth floor.",
+      "answers": [
+        "on"
+      ],
+      "uk": "Наш офіс на четвертому поверсі.",
+      "why": {
+        "en": "Floors take on.",
+        "uk": "Поверхи вимагають on."
+      }
+    },
+    {
+      "text": "She lives ___ Mississauga.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Вона живе в Міссісазі.",
+      "why": {
+        "en": "Cities and countries take in.",
+        "uk": "Міста й країни вимагають in."
+      }
+    },
+    {
+      "text": "The company is located ___ 250 Bay Street.",
+      "answers": [
+        "at"
+      ],
+      "uk": "Компанія розташована за адресою Бей-стріт, 250.",
+      "why": {
+        "en": "A full address with a number takes at; a street alone takes on (on Bay Street).",
+        "uk": "Повна адреса з номером вимагає at; сама вулиця — on (on Bay Street)."
+      }
+    },
+    {
+      "text": "Who's that ___ the photo?",
+      "answers": [
+        "in"
+      ],
+      "uk": "Хто це на фото?",
+      "why": {
+        "en": "People and things shown in a picture: in.",
+        "uk": "Люди й речі на зображенні: in."
+      }
+    },
+    {
+      "text": "Your name isn't ___ the list.",
+      "answers": [
+        "on"
+      ],
+      "uk": "Вашого імені немає в списку.",
+      "why": {
+        "en": "Lists take on (on the list, on the agenda).",
+        "uk": "Списки вимагають on (on the list, on the agenda)."
+      }
+    },
+    {
+      "text": "Sorry, Mr. Patel is ___ a meeting until two.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Перепрошую, пан Патель на нараді до другої.",
+      "why": {
+        "en": "In a meeting = taking part in it.",
+        "uk": "In a meeting = бере в ній участь."
+      }
+    },
+    {
+      "text": "I left my umbrella ___ work.",
+      "answers": [
+        "at"
+      ],
+      "uk": "Я забув парасольку на роботі.",
+      "why": {
+        "en": "At work, at home, at school: fixed phrases with at.",
+        "uk": "At work, at home, at school: сталі фрази з at."
+      }
+    }
+  ]
+}

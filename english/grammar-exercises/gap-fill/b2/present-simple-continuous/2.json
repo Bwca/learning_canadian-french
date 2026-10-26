@@ -1,0 +1,123 @@
+{
+  "title": {
+    "en": "Present simple vs continuous: state verbs",
+    "uk": "Present simple чи continuous: дієслова стану"
+  },
+  "focus": {
+    "en": "State verbs (know, believe, belong, own, owe, need, include, depend, cost, understand…) describe states, not actions, and usually stay in the present simple even right now. Some verbs have an action meaning too: think about (consider), have (a meeting), see (meet) can be continuous.",
+    "uk": "Дієслова стану (know, believe, belong, own, owe, need, include, depend, cost, understand…) описують стан, а не дію, тож зазвичай лишаються в present simple навіть «зараз». Деякі мають і значення дії: think about (обмірковувати), have (a meeting), see (зустрічатися) можуть бути в continuous."
+  },
+  "exercises": [
+    {
+      "text": "This invoice ___ (include) GST but not PST.",
+      "answers": [
+        "includes"
+      ],
+      "uk": "Цей рахунок-фактура включає GST, але не PST.",
+      "why": {
+        "en": "Include is a state verb: present simple.",
+        "uk": "Include — дієслово стану: present simple."
+      }
+    },
+    {
+      "text": "I ___ (think) about applying for the accounts receivable position.",
+      "answers": [
+        "am thinking"
+      ],
+      "uk": "Я думаю над тим, щоб подати заявку на посаду бухгалтера з розрахунків із клієнтами.",
+      "why": {
+        "en": "Think about means considering, an activity in progress: present continuous.",
+        "uk": "Think about означає «обмірковувати» — це дія в процесі: present continuous."
+      }
+    },
+    {
+      "text": "I ___ (think) the figures in column D are wrong.",
+      "answers": [
+        "think"
+      ],
+      "uk": "Думаю, цифри в стовпці D неправильні.",
+      "why": {
+        "en": "Think meaning believe (an opinion) is a state: present simple.",
+        "uk": "Think у значенні «вважати» (думка) — стан: present simple."
+      }
+    },
+    {
+      "text": "The company ___ (owe) the CRA about $12,000 in unpaid HST.",
+      "answers": [
+        "owes"
+      ],
+      "uk": "Компанія винна CRA близько 12 000 $ несплаченого HST.",
+      "why": {
+        "en": "Owe is a state verb: present simple.",
+        "uk": "Owe — дієслово стану: present simple."
+      }
+    },
+    {
+      "text": "Who ___ this laptop ___ (belong) to?",
+      "answers": [
+        "does",
+        "belong"
+      ],
+      "uk": "Кому належить цей ноутбук?",
+      "why": {
+        "en": "Belong is a state verb, so the question uses does + base form.",
+        "uk": "Belong — дієслово стану, тож питання будуємо з does + початкова форма."
+      }
+    },
+    {
+      "text": "We ___ (have) a meeting with the auditors, so please hold my calls.",
+      "answers": [
+        "are having"
+      ],
+      "uk": "У нас нарада з аудиторами, тож, будь ласка, не з'єднуйте мене ні з ким.",
+      "why": {
+        "en": "Have a meeting is an event in progress, not possession: present continuous.",
+        "uk": "Have a meeting — подія, що триває, а не володіння: present continuous."
+      }
+    },
+    {
+      "text": "Our firm ___ (have) offices in Montréal and Toronto.",
+      "answers": [
+        "has"
+      ],
+      "uk": "Наша фірма має офіси в Монреалі й Торонто.",
+      "why": {
+        "en": "Have meaning own is a state: present simple.",
+        "uk": "Have у значенні «мати, володіти» — стан: present simple."
+      }
+    },
+    {
+      "text": "The budget ___ (depend) on next year's sales forecast.",
+      "answers": [
+        "depends"
+      ],
+      "uk": "Бюджет залежить від прогнозу продажів на наступний рік.",
+      "why": {
+        "en": "Depend is a state verb: present simple.",
+        "uk": "Depend — дієслово стану: present simple."
+      }
+    },
+    {
+      "text": "I ___ (not understand) why the trial balance doesn't balance.",
+      "answers": [
+        "do not understand"
+      ],
+      "uk": "Я не розумію, чому оборотно-сальдова відомість не сходиться.",
+      "why": {
+        "en": "Understand is a state verb, even at this moment: present simple negative with do not.",
+        "uk": "Understand — дієслово стану навіть «просто зараз»: заперечення в present simple з do not."
+      }
+    },
+    {
+      "text": "Ms. Roy ___ (see) a client at the moment; can I take a message?",
+      "answers": [
+        "is seeing"
+      ],
+      "uk": "Пані Руа зараз приймає клієнта; можу прийняти повідомлення?",
+      "why": {
+        "en": "See meaning meet is an action: present continuous.",
+        "uk": "See у значенні «зустрічатися, приймати» — дія: present continuous."
+      }
+    }
+  ]
+}

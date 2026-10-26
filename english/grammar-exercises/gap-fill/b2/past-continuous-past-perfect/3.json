@@ -1,0 +1,131 @@
+{
+  "title": {
+    "en": "Past perfect continuous and mixed past tenses",
+    "uk": "Past perfect continuous і різні минулі часи"
+  },
+  "focus": {
+    "en": "Past continuous (was doing) for an action in progress at a past moment, often interrupted by a past simple action. Past perfect (had done) for something completed before another past moment; past perfect continuous (had been doing) for how long something had been going on up to then.",
+    "uk": "Past continuous (was doing) — для дії, що тривала в певний момент у минулому, часто перервана дією в past simple. Past perfect (had done) — для того, що завершилося раніше за інший момент у минулому; past perfect continuous (had been doing) — для того, як довго щось тривало до того моменту."
+  },
+  "exercises": [
+    {
+      "text": "I ___ (work) on the spreadsheet for three hours when the file crashed.",
+      "answers": [
+        "had been working"
+      ],
+      "uk": "Я працював над таблицею вже три години, коли файл злетів.",
+      "why": {
+        "en": "Duration up to a past moment (for three hours … when): past perfect continuous.",
+        "uk": "Тривалість до моменту в минулому (for three hours … when): past perfect continuous."
+      }
+    },
+    {
+      "text": "Her eyes were tired because she ___ (stare) at the screen all day.",
+      "answers": [
+        "had been staring"
+      ],
+      "uk": "Її очі втомилися, бо вона цілий день дивилася в екран.",
+      "why": {
+        "en": "A past effect of a longer earlier activity: past perfect continuous.",
+        "uk": "Наслідок у минулому від тривалої ранішої дії: past perfect continuous."
+      }
+    },
+    {
+      "text": "How long ___ you ___ (wait) when the interviewer finally came out?",
+      "answers": [
+        "had",
+        "been waiting"
+      ],
+      "uk": "Як довго ви чекали, коли інтерв'юер нарешті вийшов?",
+      "why": {
+        "en": "How long, up to a past moment: past perfect continuous.",
+        "uk": "How long до моменту в минулому: past perfect continuous."
+      }
+    },
+    {
+      "text": "The company ___ (lose) money for years before it ___ (hire) a new CFO.",
+      "answers": [
+        "had been losing",
+        "hired"
+      ],
+      "uk": "Компанія роками зазнавала збитків, перш ніж найняла нового фінансового директора.",
+      "why": {
+        "en": "Long earlier activity (past perfect continuous), then the event (past simple).",
+        "uk": "Тривала раніша дія (past perfect continuous), а потім подія (past simple)."
+      }
+    },
+    {
+      "text": "When I ___ (arrive), the meeting ___ (already / start).",
+      "answers": [
+        "arrived",
+        "had already started"
+      ],
+      "uk": "Коли я прийшов, нарада вже почалася.",
+      "why": {
+        "en": "The meeting started before I arrived: past perfect for the earlier action.",
+        "uk": "Нарада почалася раніше, ніж я прийшов: past perfect для ранішої дії."
+      }
+    },
+    {
+      "text": "When I arrived, they ___ (discuss) the budget.",
+      "answers": [
+        "were discussing"
+      ],
+      "uk": "Коли я прийшов, вони обговорювали бюджет.",
+      "why": {
+        "en": "In progress at that moment: past continuous. Compare: had discussed would mean they'd finished.",
+        "uk": "Тривало в той момент: past continuous. Порівняйте: had discussed означало б, що вже закінчили."
+      }
+    },
+    {
+      "text": "We ___ (drive) to the conference when we ___ (realize) we ___ (leave) the laptop at the office.",
+      "answers": [
+        "were driving",
+        "realized",
+        "had left"
+      ],
+      "uk": "Ми їхали на конференцію, коли зрозуміли, що залишили ноутбук в офісі.",
+      "why": {
+        "en": "In progress (past continuous), the interruption (past simple), and the earlier action (past perfect).",
+        "uk": "Дія в процесі (past continuous), переривання (past simple) і раніша дія (past perfect)."
+      }
+    },
+    {
+      "text": "The client was angry because he ___ (try) to reach us all morning.",
+      "answers": [
+        "had been trying"
+      ],
+      "uk": "Клієнт був злий, бо весь ранок намагався з нами зв'язатися.",
+      "why": {
+        "en": "Duration before a past moment, with a past effect: past perfect continuous.",
+        "uk": "Тривалість до моменту в минулому з наслідком тоді: past perfect continuous."
+      }
+    },
+    {
+      "text": "Before she ___ (move) to Canada, she ___ (work) as an accountant in Kyiv for ten years.",
+      "answers": [
+        "moved",
+        [
+          "had worked",
+          "had been working"
+        ]
+      ],
+      "uk": "До переїзду в Канаду вона десять років працювала бухгалтеркою в Києві.",
+      "why": {
+        "en": "The later event takes the past simple; ten years before it takes the past perfect (simple or continuous).",
+        "uk": "Пізніша подія — past simple; десять років до неї — past perfect (simple чи continuous)."
+      }
+    },
+    {
+      "text": "The office was quiet; most people ___ (go) home.",
+      "answers": [
+        "had gone"
+      ],
+      "uk": "В офісі було тихо; більшість людей уже пішли додому.",
+      "why": {
+        "en": "They left before that past moment: past perfect.",
+        "uk": "Пішли ще до того моменту в минулому: past perfect."
+      }
+    }
+  ]
+}

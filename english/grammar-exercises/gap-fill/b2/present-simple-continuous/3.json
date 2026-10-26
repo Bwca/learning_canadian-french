@@ -1,0 +1,126 @@
+{
+  "title": {
+    "en": "Present simple vs continuous: temporary, permanent and annoying",
+    "uk": "Present simple чи continuous: тимчасове, постійне й дратівливе"
+  },
+  "focus": {
+    "en": "Present simple for permanent situations, general rules and timetables (even future ones); present continuous for temporary situations and trends. Always + present continuous complains about an annoying habit.",
+    "uk": "Present simple — для постійних ситуацій, загальних правил і розкладів (навіть майбутніх); present continuous — для тимчасових ситуацій і тенденцій. Always + present continuous — це скарга на дратівливу звичку."
+  },
+  "exercises": [
+    {
+      "text": "Amir normally ___ (work) in Calgary, but this month he ___ (stay) in Ottawa for training.",
+      "answers": [
+        "works",
+        "is staying"
+      ],
+      "uk": "Зазвичай Амір працює в Калгарі, але цього місяця він перебуває в Оттаві на навчанні.",
+      "why": {
+        "en": "Normally marks the permanent situation (present simple); this month marks a temporary one (present continuous).",
+        "uk": "Normally позначає постійну ситуацію (present simple), this month — тимчасову (present continuous)."
+      }
+    },
+    {
+      "text": "More and more clients ___ (pay) by Interac e-Transfer these days.",
+      "answers": [
+        "are paying"
+      ],
+      "uk": "Дедалі більше клієнтів нині платять переказом Interac e-Transfer.",
+      "why": {
+        "en": "More and more … these days describes a changing trend: present continuous.",
+        "uk": "More and more … these days описує тенденцію, що змінюється: present continuous."
+      }
+    },
+    {
+      "text": "He ___ (always / leave) the photocopier without paper! It's so annoying.",
+      "answers": [
+        "is always leaving"
+      ],
+      "uk": "Він постійно залишає ксерокс без паперу! Це так дратує.",
+      "why": {
+        "en": "Always + present continuous complains about an annoying habit.",
+        "uk": "Always + present continuous — скарга на дратівливу звичку."
+      }
+    },
+    {
+      "text": "Our fiscal year ___ (end) on March 31.",
+      "answers": [
+        "ends"
+      ],
+      "uk": "Наш фінансовий рік закінчується 31 березня.",
+      "why": {
+        "en": "A permanent arrangement takes the present simple.",
+        "uk": "Постійний порядок — present simple."
+      }
+    },
+    {
+      "text": "I ___ (live) with my sister until I find my own apartment.",
+      "answers": [
+        "am living"
+      ],
+      "uk": "Я живу в сестри, поки не знайду власну квартиру.",
+      "why": {
+        "en": "Until I find shows it's temporary: present continuous.",
+        "uk": "Until I find показує, що це тимчасово: present continuous."
+      }
+    },
+    {
+      "text": "A credit ___ (increase) a liability account and ___ (decrease) an asset account.",
+      "answers": [
+        "increases",
+        "decreases"
+      ],
+      "uk": "Кредит збільшує рахунок зобов'язань і зменшує рахунок активів.",
+      "why": {
+        "en": "A general rule takes the present simple.",
+        "uk": "Загальне правило — present simple."
+      }
+    },
+    {
+      "text": "The train to the conference ___ (leave) at 7:15 tomorrow morning.",
+      "answers": [
+        "leaves"
+      ],
+      "uk": "Потяг на конференцію відходить завтра о 7:15 ранку.",
+      "why": {
+        "en": "A timetable takes the present simple, even when it's about the future.",
+        "uk": "Розклад — present simple, навіть коли йдеться про майбутнє."
+      }
+    },
+    {
+      "text": "Can you speak a bit louder? The movers ___ (make) a lot of noise next door.",
+      "answers": [
+        "are making"
+      ],
+      "uk": "Можете говорити трохи голосніше? Вантажники за стіною дуже шумлять.",
+      "why": {
+        "en": "The noise is happening now: present continuous.",
+        "uk": "Шум лунає саме зараз: present continuous."
+      }
+    },
+    {
+      "text": "What ___ you ___ (do) for a living? — I'm an accountant.",
+      "answers": [
+        "do",
+        "do"
+      ],
+      "uk": "Чим ви заробляєте на життя? — Я бухгалтер.",
+      "why": {
+        "en": "This asks about a permanent job: present simple, with do as both the helper and the main verb.",
+        "uk": "Питання про постійну роботу: present simple, де do — і допоміжне, і основне дієслово."
+      }
+    },
+    {
+      "text": "What ___ you ___ (work) on today?",
+      "answers": [
+        "are",
+        "working"
+      ],
+      "uk": "Над чим ви сьогодні працюєте?",
+      "why": {
+        "en": "Today's task is temporary and in progress: present continuous.",
+        "uk": "Сьогоднішнє завдання тимчасове й триває: present continuous."
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "title": {
+    "en": "Prepositions of movement",
+    "uk": "Прийменники руху"
+  },
+  "focus": {
+    "en": "Movement: into and out of (a space), through (from one side to the other), across or over (to the other side), past (going by), along or down (following a line), up and down, to and from, on and off (a bus, a train, a plane).",
+    "uk": "Рух: into та out of (у простір і з нього), through (крізь), across або over (на інший бік), past (повз), along або down (уздовж), up і down (угору й донизу), to і from (до й від), on і off (сісти й вийти з автобуса, потяга, літака)."
+  },
+  "exercises": [
+    {
+      "text": "She walked ___ the boardroom and sat down.",
+      "answers": [
+        "into"
+      ],
+      "uk": "Вона зайшла до зали нарад і сіла.",
+      "why": {
+        "en": "Movement from outside to inside: into.",
+        "uk": "Рух ззовні всередину: into."
+      }
+    },
+    {
+      "text": "Take the documents ___ of the envelope.",
+      "answers": [
+        "out"
+      ],
+      "uk": "Вийміть документи з конверта.",
+      "why": {
+        "en": "Out of = from inside to outside.",
+        "uk": "Out of = зсередини назовні."
+      }
+    },
+    {
+      "text": "Go ___ the hallway to the end; it's the last door on the left.",
+      "answers": [
+        [
+          "down",
+          "along"
+        ]
+      ],
+      "uk": "Пройдіть коридором до кінця; це останні двері ліворуч.",
+      "why": {
+        "en": "Down or along = following a corridor or street.",
+        "uk": "Down або along = уздовж коридору чи вулиці."
+      }
+    },
+    {
+      "text": "Walk ___ the reception desk, and our office is the second door on the right.",
+      "answers": [
+        "past"
+      ],
+      "uk": "Пройдіть повз рецепцію — наш офіс другі двері праворуч.",
+      "why": {
+        "en": "Past = going by something without stopping.",
+        "uk": "Past = повз щось, не зупиняючись."
+      }
+    },
+    {
+      "text": "We drove ___ the bridge to the client's office in Gatineau.",
+      "answers": [
+        [
+          "across",
+          "over"
+        ]
+      ],
+      "uk": "Ми переїхали міст до офісу клієнта в Гатіно.",
+      "why": {
+        "en": "Across or over = to the other side.",
+        "uk": "Across або over = на інший бік."
+      }
+    },
+    {
+      "text": "I had to go ___ security before I could enter the building.",
+      "answers": [
+        "through"
+      ],
+      "uk": "Мені довелося пройти через охорону, перш ніж зайти в будівлю.",
+      "why": {
+        "en": "Through = in one side and out the other.",
+        "uk": "Through = крізь, з одного боку на інший."
+      }
+    },
+    {
+      "text": "The courier is coming ___ Toronto, so the parcel should arrive today.",
+      "answers": [
+        "from"
+      ],
+      "uk": "Кур'єр їде з Торонто, тож посилка має прибути сьогодні.",
+      "why": {
+        "en": "From = the starting point.",
+        "uk": "From = місце відправлення."
+      }
+    },
+    {
+      "text": "Please send the signed contract ___ head office by Friday.",
+      "answers": [
+        "to"
+      ],
+      "uk": "Будь ласка, надішліть підписаний договір до головного офісу до п'ятниці.",
+      "why": {
+        "en": "To = the destination.",
+        "uk": "To = пункт призначення."
+      }
+    },
+    {
+      "text": "Get ___ the bus at the third stop.",
+      "answers": [
+        "off"
+      ],
+      "uk": "Вийдіть з автобуса на третій зупинці.",
+      "why": {
+        "en": "Buses, trains and planes: get on and get off. Cars and taxis: get in and get out of.",
+        "uk": "Автобуси, потяги й літаки: get on і get off. Автомобілі й таксі: get in і get out of."
+      }
+    },
+    {
+      "text": "Take the elevator ___ to the 12th floor.",
+      "answers": [
+        "up"
+      ],
+      "uk": "Підніміться ліфтом на 12-й поверх.",
+      "why": {
+        "en": "Up = to a higher level.",
+        "uk": "Up = на вищий рівень."
+      }
+    }
+  ]
+}

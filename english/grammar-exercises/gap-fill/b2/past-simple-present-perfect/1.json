@@ -1,0 +1,128 @@
+{
+  "title": {
+    "en": "Past simple vs present perfect: finished time or not?",
+    "uk": "Past simple чи present perfect: час завершився чи ні?"
+  },
+  "focus": {
+    "en": "Past simple for finished actions at a finished time (yesterday, last year, in 2022, ago, when…?). Present perfect for past actions that matter now: news, experience, results, and unfinished periods (today, this week, ever, yet, already, since, for).",
+    "uk": "Past simple — для завершених дій у завершений час (yesterday, last year, in 2022, ago, when…?). Present perfect — для минулих дій, важливих зараз: новини, досвід, результати й незавершені періоди (today, this week, ever, yet, already, since, for)."
+  },
+  "exercises": [
+    {
+      "text": "We ___ (send) the invoice to the client last Tuesday.",
+      "answers": [
+        "sent"
+      ],
+      "uk": "Ми надіслали клієнтові рахунок-фактуру минулого вівторка.",
+      "why": {
+        "en": "Last Tuesday is a finished time: past simple.",
+        "uk": "Last Tuesday — завершений час: past simple."
+      }
+    },
+    {
+      "text": "I ___ (already / send) the invoice, so you don't need to do it.",
+      "answers": [
+        "have already sent"
+      ],
+      "uk": "Я вже надіслав рахунок-фактуру, тож вам не треба цього робити.",
+      "why": {
+        "en": "Already, with a result that matters now: present perfect.",
+        "uk": "Already і результат, важливий зараз: present perfect."
+      }
+    },
+    {
+      "text": "___ you ___ (ever / work) with QuickBooks?",
+      "answers": [
+        "have",
+        "ever worked"
+      ],
+      "uk": "Ви колись працювали з QuickBooks?",
+      "why": {
+        "en": "Ever asks about experience at any time up to now: present perfect.",
+        "uk": "Ever питає про досвід за будь-який час до тепер: present perfect."
+      }
+    },
+    {
+      "text": "Yes, I ___ (use) it at my last job.",
+      "answers": [
+        "used"
+      ],
+      "uk": "Так, я користувався нею на попередній роботі.",
+      "why": {
+        "en": "At my last job is a finished period: past simple.",
+        "uk": "At my last job — завершений період: past simple."
+      }
+    },
+    {
+      "text": "The client ___ (not pay) yet.",
+      "answers": [
+        "has not paid"
+      ],
+      "uk": "Клієнт іще не заплатив.",
+      "why": {
+        "en": "Not … yet goes with the present perfect.",
+        "uk": "Not … yet вживається з present perfect."
+      }
+    },
+    {
+      "text": "Sophie ___ (join) the company three years ago.",
+      "answers": [
+        "joined"
+      ],
+      "uk": "Софі прийшла в компанію три роки тому.",
+      "why": {
+        "en": "Ago marks a finished time: past simple.",
+        "uk": "Ago позначає завершений час: past simple."
+      }
+    },
+    {
+      "text": "She ___ (work) here for three years.",
+      "answers": [
+        [
+          "has worked",
+          "has been working"
+        ]
+      ],
+      "uk": "Вона працює тут уже три роки.",
+      "why": {
+        "en": "She still works here: present perfect (simple or continuous) with for. Ukrainian uses the present tense here, English doesn't.",
+        "uk": "Вона досі тут працює: present perfect (simple чи continuous) з for. Українською тут теперішній час, англійською — ні."
+      }
+    },
+    {
+      "text": "How many invoices ___ you ___ (process) this week?",
+      "answers": [
+        "have",
+        "processed"
+      ],
+      "uk": "Скільки рахунків-фактур ви обробили цього тижня?",
+      "why": {
+        "en": "This week isn't over yet: present perfect.",
+        "uk": "Цей тиждень іще не скінчився: present perfect."
+      }
+    },
+    {
+      "text": "When ___ you ___ (start) your accounting course?",
+      "answers": [
+        "did",
+        "start"
+      ],
+      "uk": "Коли ви почали курс бухгалтерського обліку?",
+      "why": {
+        "en": "When asks about a finished time, so it takes the past simple, never the present perfect.",
+        "uk": "When питає про завершений час, тож вимагає past simple, а не present perfect."
+      }
+    },
+    {
+      "text": "Oh no, I ___ (lose) my key card! Have you seen it?",
+      "answers": [
+        "have lost"
+      ],
+      "uk": "Ой, я загубив електронну перепустку! Ви її не бачили?",
+      "why": {
+        "en": "The result matters now (I don't have it): present perfect.",
+        "uk": "Результат важливий зараз (картки немає): present perfect."
+      }
+    }
+  ]
+}

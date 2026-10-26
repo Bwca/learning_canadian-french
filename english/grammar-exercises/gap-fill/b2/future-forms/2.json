@@ -1,0 +1,133 @@
+{
+  "title": {
+    "en": "Future time clauses: when, as soon as, until, if",
+    "uk": "Підрядні речення часу: when, as soon as, until, if"
+  },
+  "focus": {
+    "en": "After when, as soon as, once, until, before, after, if, unless and in case, English uses the present simple (or present perfect) for the future — never will. The main clause still takes will.",
+    "uk": "Після when, as soon as, once, until, before, after, if, unless та in case англійська вживає present simple (або present perfect) для майбутнього — ніколи will. У головному реченні — will."
+  },
+  "exercises": [
+    {
+      "text": "I'll email you the report as soon as I ___ (finish) it.",
+      "answers": [
+        [
+          "finish",
+          "have finished"
+        ]
+      ],
+      "uk": "Я надішлю вам звіт, щойно його закінчу.",
+      "why": {
+        "en": "After as soon as: present simple (or present perfect), not will.",
+        "uk": "Після as soon as — present simple (або present perfect), а не will."
+      }
+    },
+    {
+      "text": "We won't pay the invoice until the supplier ___ (send) a corrected one.",
+      "answers": [
+        "sends"
+      ],
+      "uk": "Ми не оплатимо рахунок-фактуру, доки постачальник не надішле виправлений.",
+      "why": {
+        "en": "After until: present simple. Note the Ukrainian «не надішле» — English has no negative here.",
+        "uk": "Після until — present simple. Зверніть увагу: в українській «не надішле», а в англійській заперечення немає."
+      }
+    },
+    {
+      "text": "Before you ___ (leave) tonight, please lock the filing cabinet.",
+      "answers": [
+        "leave"
+      ],
+      "uk": "Перш ніж підете сьогодні ввечері, замкніть, будь ласка, картотечну шафу.",
+      "why": {
+        "en": "After before: present simple.",
+        "uk": "Після before — present simple."
+      }
+    },
+    {
+      "text": "If the client ___ (not pay) by Friday, we ___ (send) a reminder.",
+      "answers": [
+        "does not pay",
+        "will send"
+      ],
+      "uk": "Якщо клієнт не заплатить до п'ятниці, ми надішлемо нагадування.",
+      "why": {
+        "en": "First conditional: if + present simple, main clause with will.",
+        "uk": "Перший тип умовних речень: if + present simple, у головному реченні will."
+      }
+    },
+    {
+      "text": "When the new system ___ (go) live, everyone ___ (need) a new password.",
+      "answers": [
+        "goes",
+        "will need"
+      ],
+      "uk": "Коли нова система запрацює, усім знадобиться новий пароль.",
+      "why": {
+        "en": "When + present simple for the future; the main clause takes will.",
+        "uk": "When + present simple про майбутнє; у головному реченні will."
+      }
+    },
+    {
+      "text": "I ___ (call) you when I ___ (get) to the airport.",
+      "answers": [
+        "will call",
+        "get"
+      ],
+      "uk": "Я зателефоную вам, коли доберуся до аеропорту.",
+      "why": {
+        "en": "Main clause with will; when + present simple.",
+        "uk": "Головне речення з will; when + present simple."
+      }
+    },
+    {
+      "text": "Once the manager ___ (approve) your request, HR ___ (update) your schedule.",
+      "answers": [
+        "approves",
+        "will update"
+      ],
+      "uk": "Щойно менеджер погодить вашу заяву, відділ кадрів оновить ваш графік.",
+      "why": {
+        "en": "Once + present simple; main clause with will.",
+        "uk": "Once + present simple; головне речення з will."
+      }
+    },
+    {
+      "text": "Unless the bank ___ (extend) our line of credit, we ___ (have) to delay the purchase.",
+      "answers": [
+        "extends",
+        "will have"
+      ],
+      "uk": "Якщо банк не продовжить нашу кредитну лінію, нам доведеться відкласти купівлю.",
+      "why": {
+        "en": "Unless (= if not) + present simple; main clause with will.",
+        "uk": "Unless (= if not) + present simple; головне речення з will."
+      }
+    },
+    {
+      "text": "Please don't start the payroll run until I ___ (check) the timesheets.",
+      "answers": [
+        [
+          "have checked",
+          "check"
+        ]
+      ],
+      "uk": "Будь ласка, не запускайте нарахування зарплати, доки я не перевірю табелі.",
+      "why": {
+        "en": "After until: present perfect stresses that the checking must be complete; present simple also works.",
+        "uk": "Після until present perfect підкреслює, що перевірку треба завершити; present simple теж можливий."
+      }
+    },
+    {
+      "text": "I'll be at my desk in case anyone ___ (need) me.",
+      "answers": [
+        "needs"
+      ],
+      "uk": "Я буду на своєму місці — раптом я комусь знадоблюся.",
+      "why": {
+        "en": "After in case: present simple.",
+        "uk": "Після in case — present simple."
+      }
+    }
+  ]
+}

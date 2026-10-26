@@ -1,0 +1,50 @@
+front desk	стійка реєстрації (рецепція)
+to greet visitors	зустрічати відвідувачів
+visitor log	журнал відвідувачів
+waiting area	зона очікування
+to sign in	зареєструватися (при вході)
+walk-in	відвідувач без попереднього запису
+switchboard	телефонний комутатор
+extension	внутрішній номер
+to transfer a call	переадресувати дзвінок
+to put someone on hold	попросити зачекати на лінії
+to take a message	прийняти повідомлення
+voicemail	голосова пошта
+to return a call	передзвонити
+missed call	пропущений дзвінок
+landline	стаціонарний телефон
+toll-free number	безкоштовний номер
+caller	абонент (той, хто телефонує)
+Good morning, how may I help you?	Доброго ранку, чим можу допомогти?
+May I ask who's calling?	Можна дізнатися, хто телефонує?
+One moment, please.	Хвилинку, будь ласка.
+I'll put you through.	З'єдную вас.
+The line is busy.	Лінія зайнята.
+She's in a meeting at the moment.	Вона зараз на нараді.
+He's away from his desk.	Його зараз немає на місці.
+Can I take a message?	Можу прийняти повідомлення?
+Could you spell that, please?	Продиктуйте, будь ласка, по літерах.
+Could you speak up, please?	Говоріть, будь ласка, голосніше.
+I'll have her call you back.	Я попрошу її вам передзвонити.
+Thank you for holding.	Дякую, що зачекали.
+Sorry to keep you waiting.	Вибачте, що змусили вас чекати.
+I'm afraid you have the wrong number.	Здається, ви помилилися номером.
+to hang up	покласти слухавку
+to leave a message	залишити повідомлення
+to pick up	зняти слухавку
+to get through	додзвонитися
+bad connection	поганий зв'язок
+to cut out	перериватися (про зв'язок)
+inquiry	запит
+complaint	скарга
+to handle a complaint	розглянути скаргу
+courteous	ввічливий
+professional manner	професійна поведінка
+to escalate	передати на вищий рівень
+contact details	контактні дані
+business card	візитівка
+directions	як дістатися (вказівки, як пройти)
+parking pass	паркувальна перепустка
+delivery	доставка
+appointment book	журнал записів
+to screen calls	фільтрувати дзвінки

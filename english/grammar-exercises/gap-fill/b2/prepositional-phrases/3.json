@@ -1,0 +1,125 @@
+{
+  "title": {
+    "en": "Prepositional phrases: money and business",
+    "uk": "Сталі фрази з прийменниками: гроші й бізнес"
+  },
+  "focus": {
+    "en": "Phrases for numbers and money: go up by 5%, over budget, at a loss, in debt, on the rise, in credit, at a discount, by email, until further notice, with regard to.",
+    "uk": "Фрази про цифри й гроші: go up by 5%, over budget, at a loss, in debt, on the rise, in credit, at a discount, by email, until further notice, with regard to."
+  },
+  "exercises": [
+    {
+      "text": "Prices are going up ___ 5% next month.",
+      "answers": [
+        "by"
+      ],
+      "uk": "Наступного місяця ціни зростуть на 5 %.",
+      "why": {
+        "en": "By + the size of a change (rise by, fall by).",
+        "uk": "By + величина зміни (rise by, fall by)."
+      }
+    },
+    {
+      "text": "The renovation is $2,000 ___ budget.",
+      "answers": [
+        "over"
+      ],
+      "uk": "Ремонт перевищує бюджет на 2000 $.",
+      "why": {
+        "en": "Over budget = spending more than planned; under budget = less.",
+        "uk": "Over budget = понад бюджет; under budget = менше, ніж заплановано."
+      }
+    },
+    {
+      "text": "We had to sell the old equipment ___ a loss.",
+      "answers": [
+        "at"
+      ],
+      "uk": "Нам довелося продати старе обладнання собі у збиток.",
+      "why": {
+        "en": "At a loss, at a profit.",
+        "uk": "At a loss (у збиток), at a profit (з прибутком)."
+      }
+    },
+    {
+      "text": "After the expansion, the company was heavily ___ debt.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Після розширення компанія мала великі борги.",
+      "why": {
+        "en": "In debt = owing money.",
+        "uk": "In debt = у боргах."
+      }
+    },
+    {
+      "text": "Online sales are ___ the rise.",
+      "answers": [
+        "on"
+      ],
+      "uk": "Онлайн-продажі зростають.",
+      "why": {
+        "en": "On the rise = increasing.",
+        "uk": "On the rise = зростає."
+      }
+    },
+    {
+      "text": "Your account is ___ credit by $45.",
+      "answers": [
+        "in"
+      ],
+      "uk": "На вашому рахунку переплата 45 $.",
+      "why": {
+        "en": "In credit = with a positive balance in your favour.",
+        "uk": "In credit = з позитивним балансом на вашу користь."
+      }
+    },
+    {
+      "text": "Could you send it to me ___ email?",
+      "answers": [
+        "by"
+      ],
+      "uk": "Можете надіслати мені це електронною поштою?",
+      "why": {
+        "en": "By email, by mail, by courier; but in an email.",
+        "uk": "By email, by mail, by courier; але in an email."
+      }
+    },
+    {
+      "text": "We bought the laptops ___ a 20% discount.",
+      "answers": [
+        "at"
+      ],
+      "uk": "Ми купили ноутбуки зі знижкою 20 %.",
+      "why": {
+        "en": "At a discount; also at a price, at a rate.",
+        "uk": "At a discount; також at a price, at a rate."
+      }
+    },
+    {
+      "text": "The Kingston office is closed ___ further notice.",
+      "answers": [
+        "until"
+      ],
+      "uk": "Офіс у Кінгстоні зачинено до подальшого повідомлення.",
+      "why": {
+        "en": "Until further notice = until you're told otherwise.",
+        "uk": "Until further notice = доки не повідомлять інше."
+      }
+    },
+    {
+      "text": "I'm calling ___ regard to your invoice from March.",
+      "answers": [
+        [
+          "with",
+          "in"
+        ]
+      ],
+      "uk": "Телефоную щодо вашого березневого рахунку-фактури.",
+      "why": {
+        "en": "With regard to or in regard to = about (formal).",
+        "uk": "With regard to або in regard to = щодо (офіційно)."
+      }
+    }
+  ]
+}

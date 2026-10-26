@@ -1,0 +1,127 @@
+{
+  "title": {
+    "en": "Prepositions of time: on time, in time and other pairs",
+    "uk": "Прийменники часу: on time, in time та інші пари"
+  },
+  "focus": {
+    "en": "On time = at the planned time; in time = early enough. At the end (of) = at the final point; in the end = finally, after everything. Also: at the moment, in the meantime, from … to, in ten minutes (= ten minutes from now).",
+    "uk": "On time = вчасно, за планом; in time = встигнути, достатньо рано. At the end (of) = наприкінці; in the end = зрештою, врешті-решт. А також: at the moment, in the meantime, from … to, in ten minutes (= через десять хвилин)."
+  },
+  "exercises": [
+    {
+      "text": "The train left ___ time — at exactly 8:05.",
+      "answers": [
+        "on"
+      ],
+      "uk": "Потяг відправився вчасно — рівно о 8:05.",
+      "why": {
+        "en": "On time = at the scheduled time.",
+        "uk": "On time = точно за розкладом."
+      }
+    },
+    {
+      "text": "We got to the bank just ___ time, five minutes before it closed.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Ми встигли до банку якраз вчасно, за п'ять хвилин до закриття.",
+      "why": {
+        "en": "In time = early enough, before it was too late.",
+        "uk": "In time = достатньо рано, поки не стало запізно."
+      }
+    },
+    {
+      "text": "Payment is due ___ the end of the month.",
+      "answers": [
+        "at"
+      ],
+      "uk": "Платіж треба здійснити наприкінці місяця.",
+      "why": {
+        "en": "At the end of = at the final point of a period.",
+        "uk": "At the end of = у кінцевій точці періоду."
+      }
+    },
+    {
+      "text": "We negotiated for weeks, but ___ the end we accepted their offer.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Ми тижнями вели переговори, але зрештою прийняли їхню пропозицію.",
+      "why": {
+        "en": "In the end = finally, after a long process; no of follows it.",
+        "uk": "In the end = зрештою, після тривалого процесу; of після нього не вживається."
+      }
+    },
+    {
+      "text": "Ms. Chen is busy ___ the moment. Can I take a message?",
+      "answers": [
+        "at"
+      ],
+      "uk": "Пані Чен зараз зайнята. Можу прийняти повідомлення?",
+      "why": {
+        "en": "At the moment = now.",
+        "uk": "At the moment = зараз."
+      }
+    },
+    {
+      "text": "The new software arrives next week; ___ the meantime, please use the old version.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Нова програма надійде наступного тижня; тим часом користуйтеся старою версією.",
+      "why": {
+        "en": "In the meantime = during the time until then.",
+        "uk": "In the meantime = тим часом, поки що."
+      }
+    },
+    {
+      "text": "The office is open ___ Monday ___ Friday.",
+      "answers": [
+        "from",
+        [
+          "to",
+          "through"
+        ]
+      ],
+      "uk": "Офіс працює з понеділка до п'ятниці.",
+      "why": {
+        "en": "From … to for a range; Canadian English also says Monday through Friday, which includes Friday.",
+        "uk": "From … to — для проміжку; у канадській англійській кажуть і Monday through Friday, що включає п'ятницю."
+      }
+    },
+    {
+      "text": "I'll finish the report ___ Friday, and then I'll start on the budget.",
+      "answers": [
+        "by"
+      ],
+      "uk": "Я закінчу звіт до п'ятниці, а потім візьмуся за бюджет.",
+      "why": {
+        "en": "A deadline for a completed action: by, not until.",
+        "uk": "Кінцевий термін для завершеної дії: by, а не until."
+      }
+    },
+    {
+      "text": "I'll be on vacation ___ two weeks starting ___ August 3.",
+      "answers": [
+        "for",
+        "on"
+      ],
+      "uk": "Я буду у відпустці два тижні, починаючи з 3 серпня.",
+      "why": {
+        "en": "For + a length of time; on for a date.",
+        "uk": "For + тривалість; on — для дати."
+      }
+    },
+    {
+      "text": "She's in a meeting, but she'll call you back ___ ten minutes.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Вона на нараді, але передзвонить вам за десять хвилин.",
+      "why": {
+        "en": "In + a period = that long from now. After isn't used like this.",
+        "uk": "In + період = через стільки часу від тепер. After так не вживається."
+      }
+    }
+  ]
+}

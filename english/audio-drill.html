@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="pageTitle">English Audio Drill</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
+    <style>
+        .container { max-width: 600px; margin: auto; text-align: center; }
+        #displayWord, .display-probe { font-size: 24px; font-weight: bold; margin-top: 20px; min-height: 100px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+        .translation { font-size: 22px; font-weight: normal; margin-top: 12px; }
+        #progress { margin-top: 10px; font-size: 18px; min-height: 30px; }
+        .buttons { margin-top: 20px; }
+        /* Plain buttons, and no blue ring left on a tapped one; keyboard focus still shows it. */
+        .buttons .button:focus:not(:focus-visible) { border-color: #dbdbdb; box-shadow: none; }
+        .hidden { display: none; }
+        #library summary, #preview summary { cursor: pointer; font-weight: 600; }
+        #preview td { vertical-align: middle; }
+        #preview .say { cursor: pointer; }
+        /* Full screen: just the progress, word box and buttons, centred, with bigger text. Where the
+           Fullscreen API isn't available (iPhone Safari) it fills the browser window instead. */
+        #drillArea.focus-mode { position: fixed; inset: 0; z-index: 100; background: #fff; display: flex; flex-direction: column; justify-content: center; padding: 1.5rem; overflow: auto; }
+        #drillArea.focus-mode > * { width: 100%; max-width: 900px; margin-left: auto; margin-right: auto; }
+        .focus-mode #displayWord, .focus-mode .display-probe { font-size: 36px; }
+        .focus-mode .translation { font-size: 30px; }
+        .focus-mode .buttons { justify-content: center; }
+        /* Beside the buttons so it can be flipped mid-session, full screen included. */
+        #muteField { margin-top: 12px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav class="page-nav level is-mobile mb-4">
+            <a href="index.html">← <span data-i18n="allTools">All tools</span></a>
+        </nav>
+        <h1 class="title" data-i18n="heading">English Audio Drill</h1>
+        <div class="field has-text-left hidden" id="library"></div>
+        <div class="field">
+            <div class="file has-name is-boxed">
+                <label class="file-label">
+                    <input class="file-input" type="file" id="fileInput" accept=".txt" multiple>
+                    <span class="file-cta">
+                        <span class="file-label" data-i18n="chooseFiles">Choose files…</span>
+                    </span>
+                </label>
+            </div>
+        </div>
+        <details class="field has-text-left hidden" id="preview">
+            <summary id="previewSummary"></summary>
+            <p class="help" data-i18n="previewHelp">Untick entries to leave them out of the session; tap an English word to hear it.</p>
+            <div id="previewList"></div>
+        </details>
+        <div class="field">
+            <label class="label" for="voiceSelect" data-i18n="englishVoice">English voice</label>
+            <div class="control">
+                <div class="select">
+                    <select id="voiceSelect"></select>
+                </div>
+            </div>
+            <p id="voiceIndicator" class="help" aria-live="polite"></p>
+            <p id="translationVoiceIndicator" class="help" aria-live="polite"></p>
+        </div>
+        <div class="field">
+            <label class="label" for="speechRate"><span data-i18n="englishSpeed">English speech speed:</span> <span id="speechRateValue">100%</span></label>
+            <div class="control">
+                <input type="range" id="speechRate" min="0.5" max="1.5" step="0.1" value="1">
+            </div>
+        </div>
+        <div class="field">
+            <label class="label" for="repetitions" data-i18n="repetitions">Repetitions</label>
+            <div class="control">
+                <input class="input" type="number" id="repetitions" min="1" value="1">
+            </div>
+        </div>
+        <div class="field">
+            <label class="checkbox">
+                <input type="checkbox" id="randomize"> <span data-i18n="randomize">Randomize</span>
+            </label>
+        </div>
+        <div class="field hidden" id="keepAwakeField">
+            <label class="checkbox">
+                <input type="checkbox" id="keepAwake"> <span data-i18n="keepAwake">Keep screen on</span>
+            </label>
+            <p class="help" data-i18n="keepAwakeHelp">Phones stop the speech when the screen turns off; this keeps it from timing out while the page is open.</p>
+        </div>
+        <div id="drillArea">
+            <div id="progress" class="notification is-light"></div>
+            <div id="speechError" class="notification is-danger is-light" style="display: none;"></div>
+            <div id="displayWord" class="box has-background-light"></div>
+            <div class="buttons">
+                <button class="button" id="trainButton" data-i18n="train">Train</button>
+                <button class="button" id="pauseButton" data-i18n="pause">Pause</button>
+                <button class="button" id="stopButton" data-i18n="stop">Stop</button>
+                <button class="button" id="focusButton" data-i18n="fullScreen">Full screen</button>
+            </div>
+            <div class="field" id="muteField">
+                <label class="checkbox">
+                    <input type="checkbox" id="muteTranslations"> <span data-i18n="muteTranslations">Mute translations</span>
+                </label>
+                <p class="help" data-i18n="muteTranslationsHelp">Only the English is read aloud; the translation still stays on screen for about as long as reading it would take.</p>
+            </div>
+        </div>
+    </div>
+    <script src="../i18n.js"></script>
+    <script src="../library.js"></script>
+    <script>
+        defineStrings({
+            en: {
+                pageTitle: "English Audio Drill",
+                heading: "English Audio Drill",
+                chooseFiles: "Choose files…",
+                previewAll: "Preview: {total} entries",
+                previewSome: "Preview: {included} of {total} entries",
+                previewHelp: "Untick entries to leave them out of the session; tap an English word to hear it.",
+                includeEntry: "Include {word}",
+                englishVoice: "English voice",
+                noEnglishVoice: "No English voice installed",
+                noEnglishVoiceHint: "⚠️ No en-* voice found on this system — speech will fall back to the default system voice.",
+                translationVoice: "Translations are read by: {voice}",
+                noTranslationVoice: "No Ukrainian voice installed — translations are shown but not read aloud.",
+                englishSpeed: "English speech speed:",
+                repetitions: "Repetitions",
+                randomize: "Randomize",
+                muteTranslations: "Mute translations",
+                muteTranslationsHelp: "Only the English is read aloud; the translation still stays on screen for about as long as reading it would take.",
+                keepAwake: "Keep screen on",
+                keepAwakeHelp: "Phones stop the speech when the screen turns off; this keeps it from timing out while the page is open.",
+                train: "Train",
+                pause: "Pause",
+                resume: "Resume",
+                stop: "Stop",
+                fullScreen: "Full screen",
+                exitFullScreen: "Exit full screen",
+                progress: "Iteration: {iteration}/{iterations} | Pronounced: {entry}/{entries}",
+                speechFailed: "⚠️ Speech failed for \"{text}\" ({lang}). This can happen when a network voice stops responding — often after a browser or Windows update changes voice availability. Training stopped; check Settings > Time & Language > Speech, or try again.",
+                selectFile: "Please select at least one file.",
+                allUnticked: "Every entry is unticked in the preview.",
+            },
+            uk: {
+                pageTitle: "Аудіотренажер англійської",
+                heading: "Аудіотренажер англійської",
+                chooseFiles: "Виберіть файли…",
+                previewAll: "Перегляд: записів — {total}",
+                previewSome: "Перегляд: вибрано {included} із {total}",
+                previewHelp: "Зніміть позначку із записів, які не треба тренувати; торкніться англійського слова, щоб його почути.",
+                includeEntry: "Тренувати «{word}»",
+                englishVoice: "Англійський голос",
+                noEnglishVoice: "Англійський голос не встановлено",
+                noEnglishVoiceHint: "⚠️ У системі немає голосу en-* — читатиме стандартний системний голос.",
+                translationVoice: "Переклад читає: {voice}",
+                noTranslationVoice: "Український голос не встановлено — переклад показується, але не озвучується.",
+                englishSpeed: "Швидкість англійського мовлення:",
+                repetitions: "Повторень",
+                randomize: "Перемішати",
+                muteTranslations: "Не озвучувати переклад",
+                muteTranslationsHelp: "Уголос читається лише англійська; переклад лишається на екрані приблизно стільки, скільки тривало б його читання.",
+                keepAwake: "Не вимикати екран",
+                keepAwakeHelp: "Телефони зупиняють мовлення, коли гасне екран; ця опція не дає йому згаснути, поки сторінка відкрита.",
+                train: "Тренувати",
+                pause: "Пауза",
+                resume: "Продовжити",
+                stop: "Стоп",
+                fullScreen: "На весь екран",
+                exitFullScreen: "Вийти з повноекранного режиму",
+                progress: "Коло: {iteration}/{iterations} | Вимовлено: {entry}/{entries}",
+                speechFailed: "⚠️ Не вдалося озвучити «{text}» ({lang}). Так буває, коли мережевий голос перестає відповідати — часто після оновлення браузера чи Windows, яке змінює доступність голосів. Тренування зупинено; перевірте Параметри > Час і мова > Мовлення або спробуйте ще раз.",
+                selectFile: "Виберіть принаймні один файл.",
+                allUnticked: "У перегляді не позначено жодного запису.",
+            },
+        });
+
+        let isTraining = false;
+        let isPaused = false;
+        let currentIteration = 0;
+        let totalIterations = 0;
+        let totalEntries = 0;
+        let currentEntry = 0;
+        let entries = [];
+
+        const MAX_SPEAK_ATTEMPTS = 3;
+        const STALL_TIMEOUT_MS = 1500;
+        // Chrome can silently drop an utterance if nothing keeps a reference
+        // to it alive while the engine gets around to it — keep it pinned
+        // here until it's done.
+        const pendingUtterances = [];
+
+        let englishVoices = [];
+        let selectedVoice = null;
+
+        const voiceSelect = document.getElementById("voiceSelect");
+        const voiceIndicator = document.getElementById("voiceIndicator");
+        const VOICE_STORAGE_KEY = "audioDrillVoiceURI";
+        const SPEECH_RATE_KEY = "audioDrillSpeechRate";
+        const KEEP_AWAKE_KEY = "audioDrillKeepAwake";
+        const MUTE_TRANSLATIONS_KEY = "audioDrillMuteTranslations";
+
+        function escapeHtml(str) {
+            return String(str)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;");
+        }
+
+        function populateVoices() {
+            const voices = speechSynthesis.getVoices();
+            englishVoices = voices.filter(v => v.lang.toLowerCase().startsWith("en"));
+
+            if (englishVoices.length === 0) {
+                voiceSelect.innerHTML = `<option value="" data-i18n="noEnglishVoice">${t("noEnglishVoice")}</option>`;
+                setText(voiceIndicator, "noEnglishVoiceHint");
+                selectedVoice = null;
+                return;
+            }
+
+            const savedURI = sessionStorage.getItem(VOICE_STORAGE_KEY);
+            voiceSelect.innerHTML = englishVoices
+                .map(v => `<option value="${escapeHtml(v.voiceURI)}">${escapeHtml(v.name)} (${escapeHtml(v.lang)})</option>`)
+                .join("");
+
+            const savedVoice = englishVoices.find(v => v.voiceURI === savedURI);
+            // Prefer a local (on-device) en-CA voice — network voices can
+            // silently fail to speak the first time or two.
+            const localCaVoice = englishVoices.find(v => v.lang.toLowerCase() === "en-ca" && v.localService);
+            const anyCaVoice = englishVoices.find(v => v.lang.toLowerCase() === "en-ca");
+            const anyLocalVoice = englishVoices.find(v => v.localService);
+            selectedVoice = savedVoice || localCaVoice || anyCaVoice || anyLocalVoice || englishVoices[0];
+            voiceSelect.value = selectedVoice.voiceURI;
+            describeSelectedVoice();
+        }
+
+        function describeSelectedVoice() {
+            if (!selectedVoice) return;
+            setText(voiceIndicator, selectedVoice.localService ? "usingVoice" : "usingNetworkVoice",
+                { voice: `${selectedVoice.name} (${selectedVoice.lang})` });
+        }
+
+        voiceSelect.addEventListener("change", () => {
+            selectedVoice = englishVoices.find(v => v.voiceURI === voiceSelect.value) || null;
+            if (selectedVoice) {
+                sessionStorage.setItem(VOICE_STORAGE_KEY, selectedVoice.voiceURI);
+                describeSelectedVoice();
+            }
+        });
+
+        // Translations are always Ukrainian, whatever the interface language, read by a Ukrainian voice (a local
+        // one where there's a choice). With none, common on Windows, the translation is shown but not read.
+        function translationVoice() {
+            const voices = speechSynthesis.getVoices().filter(v => v.lang.toLowerCase().startsWith("uk"));
+            return voices.find(v => v.localService) || voices[0] || null;
+        }
+
+        function describeTranslationVoice() {
+            const indicator = document.getElementById("translationVoiceIndicator");
+            const voice = translationVoice();
+            if (voice) setText(indicator, "translationVoice", { voice: `${voice.name} (${voice.lang})` });
+            else setText(indicator, "noTranslationVoice");
+        }
+
+        populateVoices();
+        describeTranslationVoice();
+        if (speechSynthesis.onvoiceschanged !== undefined) {
+            speechSynthesis.onvoiceschanged = () => { populateVoices(); describeTranslationVoice(); };
+        }
+
+        // --- Speech speed control (for the English; translations stay at normal speed) ---
+        const speechRateInput = document.getElementById("speechRate");
+        const speechRateValue = document.getElementById("speechRateValue");
+        let speechRate = parseFloat(localStorage.getItem(SPEECH_RATE_KEY)) || 1;
+
+        function applySpeechRate() {
+            speechRateInput.value = speechRate;
+            speechRateValue.textContent = `${Math.round(speechRate * 100)}%`;
+        }
+
+        speechRateInput.addEventListener("input", () => {
+            speechRate = parseFloat(speechRateInput.value);
+            localStorage.setItem(SPEECH_RATE_KEY, speechRate);
+            applySpeechRate();
+        });
+        applySpeechRate();
+
+        // --- Mute translations (read only the English; checked per card, so flipping it mid-session applies from the next translation) ---
+        const muteTranslationsInput = document.getElementById("muteTranslations");
+        muteTranslationsInput.checked = localStorage.getItem(MUTE_TRANSLATIONS_KEY) === "true";
+        muteTranslationsInput.addEventListener("change", () => {
+            localStorage.setItem(MUTE_TRANSLATIONS_KEY, muteTranslationsInput.checked);
+        });
+
+        // --- Keep screen on (Screen Wake Lock API; the browser drops the lock whenever the page is hidden) ---
+        const keepAwakeInput = document.getElementById("keepAwake");
+        let wakeLock = null;
+
+        async function updateWakeLock() {
+            if (keepAwakeInput.checked && document.visibilityState === "visible") {
+                if (wakeLock) return;
+                try {
+                    wakeLock = await navigator.wakeLock.request("screen");
+                    wakeLock.addEventListener("release", () => { wakeLock = null; });
+                } catch (e) {
+                    wakeLock = null;
+                }
+            } else if (wakeLock) {
+                wakeLock.release();
+                wakeLock = null;
+            }
+        }
+
+        if ("wakeLock" in navigator) {
+            document.getElementById("keepAwakeField").classList.remove("hidden");
+            keepAwakeInput.checked = localStorage.getItem(KEEP_AWAKE_KEY) === "true";
+            keepAwakeInput.addEventListener("change", () => {
+                localStorage.setItem(KEEP_AWAKE_KEY, keepAwakeInput.checked);
+                updateWakeLock();
+            });
+            document.addEventListener("visibilitychange", updateWakeLock);
+            updateWakeLock();
+        }
+
+        function removeSlashes(word) {
+            return word.replace(/\s*\/\s*/g, ", ");
+        }
+
+        function cleanWord(word) {
+            return removeSlashes(word
+                .replace(/\(.*?\)/g, "")
+                .replace(/\s+/g, " ")
+                .trim());
+        }
+
+        // Shows the English word, and the Ukrainian translation below it once it's being read, so the English
+        // stays visible. The translation line is always laid out (just invisible until read) so the box doesn't jump in height.
+        function renderEntry(box, entry, withTranslation) {
+            box.textContent = entry.word;
+            const translationLine = document.createElement("div");
+            translationLine.className = "translation";
+            translationLine.lang = "uk";
+            translationLine.textContent = entry.translation;
+            if (!withTranslation) translationLine.style.visibility = "hidden";
+            box.appendChild(translationLine);
+        }
+
+        // Sizes the box for the tallest entry in the set, so it doesn't jump between words.
+        // Every entry is laid out at once in invisible copies of the box at the same width (one
+        // layout pass, so it stays fast for big sets); wrapping depends on that width, so it's
+        // redone when the window is resized or the phone rotated.
+        function reserveDisplayHeight() {
+            const displayWord = document.getElementById("displayWord");
+            if (entries.length === 0) return;
+            const holder = document.createElement("div");
+            holder.style.cssText = `position: absolute; visibility: hidden; left: 0; top: 0; width: ${displayWord.offsetWidth}px;`;
+            for (const entry of entries) {
+                const probe = displayWord.cloneNode(false);
+                probe.removeAttribute("id");
+                probe.removeAttribute("style");
+                probe.classList.add("display-probe");
+                renderEntry(probe, entry, true);
+                holder.appendChild(probe);
+            }
+            displayWord.parentNode.appendChild(holder);
+            const tallest = Math.max(...Array.from(holder.children, probe => probe.offsetHeight));
+            holder.remove();
+            displayWord.style.minHeight = `${tallest}px`;
+        }
+
+        // --- Full screen (just the drill area, for concentrating) ---
+        const drillArea = document.getElementById("drillArea");
+        const focusButton = document.getElementById("focusButton");
+
+        function setFocusMode(on) {
+            drillArea.classList.toggle("focus-mode", on);
+            setText(focusButton, on ? "exitFullScreen" : "fullScreen");
+            reserveDisplayHeight();
+        }
+
+        focusButton.addEventListener("click", () => {
+            if (drillArea.classList.contains("focus-mode")) {
+                if (document.fullscreenElement) document.exitFullscreen();
+                setFocusMode(false);
+            } else {
+                setFocusMode(true);
+                if (drillArea.requestFullscreen) drillArea.requestFullscreen().catch(() => {});
+            }
+        });
+        // Leaving real full screen with Esc or the back gesture also leaves focus mode.
+        document.addEventListener("fullscreenchange", () => {
+            if (!document.fullscreenElement) setFocusMode(false);
+        });
+        document.addEventListener("keydown", (e) => {
+            if (e.key === "Escape" && drillArea.classList.contains("focus-mode")) setFocusMode(false);
+        });
+
+        let resizeTimer = null;
+        window.addEventListener("resize", () => {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(reserveDisplayHeight, 200);
+        });
+        async function train(repetitions) {
+            totalIterations = repetitions;
+            totalEntries = entries.length;
+            isTraining = true;
+            isPaused = false;
+
+            const displayWord = document.getElementById("displayWord");
+            const progress = document.getElementById("progress");
+            const speechError = document.getElementById("speechError");
+            speechError.style.display = "none";
+
+            const stopTrainingWithError = (key, vars) => {
+                isTraining = false;
+                isPaused = false;
+                speechSynthesis.cancel();
+                setText(document.getElementById("pauseButton"), "pause");
+                displayWord.textContent = "";
+                clearText(progress);
+                setText(speechError, key, vars);
+                speechError.style.display = "block";
+            };
+
+            const showEntry = (entry, withTranslation) => renderEntry(displayWord, entry, withTranslation);
+            reserveDisplayHeight();
+
+            const speak = (text, lang, onStart, voice) => {
+                return new Promise(resolve => {
+                    if (!isTraining) return resolve();
+
+                    let attempt = 0;
+                    const attemptSpeak = () => {
+                        attempt++;
+                        const utterance = new SpeechSynthesisUtterance(text);
+                        utterance.lang = lang;
+                        if (lang.toLowerCase().startsWith("en")) {
+                            utterance.rate = speechRate;
+                            if (selectedVoice) utterance.voice = selectedVoice;
+                        } else if (voice) {
+                            utterance.voice = voice;
+                        }
+                        pendingUtterances.push(utterance);
+
+                        let settled = false;
+                        let started = false;
+                        let stallTimer = null;
+
+                        const forget = () => {
+                            const i = pendingUtterances.indexOf(utterance);
+                            if (i !== -1) pendingUtterances.splice(i, 1);
+                            clearTimeout(stallTimer);
+                        };
+
+                        const giveUp = () => {
+                            settled = true;
+                            forget();
+                            stopTrainingWithError("speechFailed", { text, lang });
+                            resolve();
+                        };
+
+                        // Network voices can occasionally just never start — no
+                        // error event, no end event. Detect that stall and retry
+                        // a couple of times before giving up and telling the user.
+                        const checkStall = () => {
+                            if (started || settled) return;
+                            if (speechSynthesis.speaking) {
+                                stallTimer = setTimeout(checkStall, STALL_TIMEOUT_MS);
+                                return;
+                            }
+                            forget();
+                            speechSynthesis.cancel();
+                            if (attempt < MAX_SPEAK_ATTEMPTS) {
+                                attemptSpeak();
+                            } else {
+                                giveUp();
+                            }
+                        };
+                        stallTimer = setTimeout(checkStall, STALL_TIMEOUT_MS);
+
+                        utterance.onstart = () => { started = true; onStart(); };
+                        utterance.onend = () => {
+                            if (settled) return;
+                            settled = true;
+                            forget();
+                            setTimeout(resolve, 500);
+                        };
+                        utterance.onerror = () => {
+                            if (settled) return;
+                            forget();
+                            if (!started && attempt < MAX_SPEAK_ATTEMPTS) {
+                                attemptSpeak();
+                            } else {
+                                giveUp();
+                            }
+                        };
+
+                        speechSynthesis.speak(utterance);
+                    };
+
+                    attemptSpeak();
+                });
+            };
+
+            for (currentIteration = 0; currentIteration < repetitions && isTraining; currentIteration++) {
+                for (currentEntry = 0; currentEntry < entries.length; currentEntry++) {
+                    if (!isTraining) return;
+                    while (isPaused) await new Promise(res => setTimeout(res, 200));
+
+                    setText(progress, "progress", { iteration: currentIteration + 1, iterations: totalIterations, entry: currentEntry + 1, entries: totalEntries });
+                    const entry = entries[currentEntry];
+                    await speak(entry.word, "en-CA", () => showEntry(entry, false));
+                    if (!isTraining) return;
+                    // Muted, or with no Ukrainian voice, the translation is shown silently for about as long as
+                    // reading it would take (rather than speaking at volume 0, which some phones ignore).
+                    const translation = entry.translation;
+                    const voice = translationVoice();
+                    if (!muteTranslationsInput.checked && voice) {
+                        await speak(translation, "uk-UA", () => showEntry(entry, true), voice);
+                    } else {
+                        showEntry(entry, true);
+                        await new Promise(res => setTimeout(res, 1000 + 60 * translation.length));
+                    }
+                    if (!isTraining) return;
+                    await new Promise(res => setTimeout(res, 1000));
+                    displayWord.textContent = "";
+                }
+            }
+            isTraining = false;
+        }
+
+        function parseEntries(text) {
+            return text.split("\n").map(line => {
+                const parts = line.split("\t");
+                return parts.length >= 2 ? {
+                    word: cleanWord(parts[0].trim()),
+                    translation: removeSlashes(parts[1].trim()),
+                } : null;
+            }).filter(Boolean);
+        }
+
+        // Preview of the chosen files: [{ name, entries: [{ word, translation, included }] }].
+        // Unticked entries are remembered per file and line, so they stay unticked when other files are added.
+        let previewFiles = [];
+        const excludedEntries = new Set();
+        const entryKey = (file, index) => `${file.name}\n${index}`;
+        let previewLoad = Promise.resolve();
+        let previewGeneration = 0;
+
+        const preview = document.getElementById("preview");
+        const previewSummary = document.getElementById("previewSummary");
+        const previewList = document.getElementById("previewList");
+
+        function updatePreviewCounts() {
+            const all = previewFiles.flatMap(file => file.entries);
+            const included = all.filter(entry => entry.included).length;
+            if (included === all.length) setText(previewSummary, "previewAll", { total: all.length });
+            else setText(previewSummary, "previewSome", { included, total: all.length });
+            previewList.querySelectorAll(".file-toggle").forEach(box => {
+                const fileEntries = previewFiles[box.dataset.file].entries;
+                const fileIncluded = fileEntries.filter(entry => entry.included).length;
+                box.checked = fileIncluded === fileEntries.length;
+                box.indeterminate = fileIncluded > 0 && fileIncluded < fileEntries.length;
+            });
+        }
+
+        function renderPreview() {
+            preview.classList.toggle("hidden", previewFiles.length === 0);
+            previewList.innerHTML = previewFiles.map((file, fileIndex) => `
+                <p class="has-text-weight-semibold mt-3">
+                    <label class="checkbox"><input type="checkbox" class="file-toggle" data-file="${fileIndex}"> ${escapeHtml(file.name)}</label>
+                </p>
+                <table class="table is-narrow is-fullwidth"><tbody>${file.entries.map((entry, index) => `
+                    <tr>
+                        <td><input type="checkbox" class="entry-toggle" data-file="${fileIndex}" data-index="${index}"${entry.included ? " checked" : ""} data-i18n-attr="aria-label:includeEntry" data-i18n-vars="${escapeHtml(JSON.stringify({ word: entry.word }))}"></td>
+                        <td><span class="say">${escapeHtml(entry.word)}</span></td>
+                        <td lang="uk">${escapeHtml(entry.translation)}</td>
+                    </tr>`).join("")}
+                </tbody></table>`).join("");
+            applyTranslations(previewList);
+            updatePreviewCounts();
+        }
+
+        async function loadPreview() {
+            const generation = ++previewGeneration;
+            let files;
+            try {
+                files = await (await libraryFiles)();
+            } catch (error) {
+                alert(error.message);
+                files = [];
+            }
+            for (let file of document.getElementById("fileInput").files) {
+                files.push({ name: file.name, text: await file.text() });
+            }
+            // A newer selection came in while this one was loading.
+            if (generation !== previewGeneration) return;
+            previewFiles = files.map(file => ({
+                name: file.name,
+                entries: parseEntries(file.text).map((entry, index) => ({ ...entry, included: !excludedEntries.has(entryKey(file, index)) })),
+            }));
+            renderPreview();
+        }
+
+        function refreshPreview() {
+            previewLoad = loadPreview();
+        }
+
+        previewList.addEventListener("change", event => {
+            const box = event.target;
+            const file = previewFiles[box.dataset.file];
+            const setIncluded = (index, included) => {
+                file.entries[index].included = included;
+                if (included) excludedEntries.delete(entryKey(file, index));
+                else excludedEntries.add(entryKey(file, index));
+            };
+            if (box.classList.contains("file-toggle")) {
+                file.entries.forEach((entry, index) => setIncluded(index, box.checked));
+                previewList.querySelectorAll(`.entry-toggle[data-file="${box.dataset.file}"]`).forEach(entryBox => entryBox.checked = box.checked);
+            } else {
+                setIncluded(box.dataset.index, box.checked);
+            }
+            updatePreviewCounts();
+        });
+
+        // Tapping an English word in the preview reads it with the chosen voice and speed (not mid-session).
+        previewList.addEventListener("click", event => {
+            const word = event.target.closest(".say");
+            if (!word || isTraining) return;
+            speechSynthesis.cancel();
+            const utterance = new SpeechSynthesisUtterance(word.textContent);
+            utterance.lang = "en-CA";
+            utterance.rate = speechRate;
+            if (selectedVoice) utterance.voice = selectedVoice;
+            speechSynthesis.speak(utterance);
+        });
+
+        const libraryFiles = mountLibraryChecklist(document.getElementById("library"), "vocab", refreshPreview);
+        document.getElementById("fileInput").addEventListener("change", refreshPreview);
+        // A browser may keep the file input's files on reload.
+        refreshPreview();
+
+        document.getElementById("trainButton").addEventListener("click", async () => {
+            // Wait for the latest selection to finish loading.
+            let loading;
+            do {
+                loading = previewLoad;
+                await loading;
+            } while (loading !== previewLoad);
+
+            if (previewFiles.length === 0) {
+                alert(t("selectFile"));
+                return;
+            }
+            entries = previewFiles.flatMap(file => file.entries).filter(entry => entry.included)
+                .map(({ word, translation }) => ({ word, translation }));
+            if (entries.length === 0) {
+                alert(t("allUnticked"));
+                return;
+            }
+
+            const repetitions = parseInt(document.getElementById("repetitions").value, 10);
+            const randomize = document.getElementById("randomize").checked;
+
+            if (randomize) {
+                entries = entries.sort(() => Math.random() - 0.5);
+            }
+
+            train(repetitions);
+        });
+
+        document.getElementById("pauseButton").addEventListener("click", () => {
+            isPaused = !isPaused;
+            setText(document.getElementById("pauseButton"), isPaused ? "resume" : "pause");
+        });
+
+        document.getElementById("stopButton").addEventListener("click", () => {
+            isTraining = false;
+            isPaused = false;
+            speechSynthesis.cancel();
+            document.getElementById("displayWord").textContent = "";
+            clearText(document.getElementById("progress"));
+            document.getElementById("speechError").style.display = "none";
+        });
+    </script>
+</body>
+</html>

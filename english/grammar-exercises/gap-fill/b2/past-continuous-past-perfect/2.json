@@ -1,0 +1,123 @@
+{
+  "title": {
+    "en": "Past perfect: before another past event",
+    "uk": "Past perfect: раніше за іншу подію в минулому"
+  },
+  "focus": {
+    "en": "Past continuous (was doing) for an action in progress at a past moment, often interrupted by a past simple action. Past perfect (had done) for something completed before another past moment; past perfect continuous (had been doing) for how long something had been going on up to then.",
+    "uk": "Past continuous (was doing) — для дії, що тривала в певний момент у минулому, часто перервана дією в past simple. Past perfect (had done) — для того, що завершилося раніше за інший момент у минулому; past perfect continuous (had been doing) — для того, як довго щось тривало до того моменту."
+  },
+  "exercises": [
+    {
+      "text": "By the time the client called, I ___ (already / send) the revised quote.",
+      "answers": [
+        "had already sent"
+      ],
+      "uk": "На той час, як клієнт зателефонував, я вже надіслав оновлену комерційну пропозицію.",
+      "why": {
+        "en": "Completed before another past moment (by the time…): past perfect.",
+        "uk": "Завершено до іншого моменту в минулому (by the time…): past perfect."
+      }
+    },
+    {
+      "text": "When I got to the bank, it ___ (close).",
+      "answers": [
+        "had closed"
+      ],
+      "uk": "Коли я дістався до банку, він уже зачинився.",
+      "why": {
+        "en": "It closed before I got there: past perfect. Past simple would mean it closed as I arrived.",
+        "uk": "Банк зачинився ще до мого приходу: past perfect. Past simple означав би, що він зачинився, коли я прийшов."
+      }
+    },
+    {
+      "text": "She realized she ___ (forget) to attach the file.",
+      "answers": [
+        "had forgotten"
+      ],
+      "uk": "Вона зрозуміла, що забула прикріпити файл.",
+      "why": {
+        "en": "The forgetting happened before the realizing: past perfect.",
+        "uk": "Забула раніше, ніж зрозуміла: past perfect."
+      }
+    },
+    {
+      "text": "We ___ (never / see) such a messy set of books before we took over that account.",
+      "answers": [
+        "had never seen"
+      ],
+      "uk": "Ми ніколи не бачили такого безладу в обліку, поки не взялися за того клієнта.",
+      "why": {
+        "en": "Experience up to a past moment: past perfect.",
+        "uk": "Досвід до певного моменту в минулому: past perfect."
+      }
+    },
+    {
+      "text": "The auditors found that someone ___ (change) the figures after year-end.",
+      "answers": [
+        "had changed"
+      ],
+      "uk": "Аудитори виявили, що хтось змінив цифри після закінчення року.",
+      "why": {
+        "en": "The change happened before the finding: past perfect.",
+        "uk": "Зміни відбулися раніше, ніж їх виявили: past perfect."
+      }
+    },
+    {
+      "text": "I didn't recognize the vendor because I ___ (not deal) with them before.",
+      "answers": [
+        "had not dealt"
+      ],
+      "uk": "Я не впізнав постачальника, бо раніше з ним не мав справ.",
+      "why": {
+        "en": "Before that past moment: past perfect negative.",
+        "uk": "До того моменту в минулому: заперечення в past perfect."
+      }
+    },
+    {
+      "text": "After the manager ___ (approve) the expense claim, payroll ___ (reimburse) me.",
+      "answers": [
+        "had approved",
+        "reimbursed"
+      ],
+      "uk": "Після того як менеджер затвердив заяву на відшкодування, відділ зарплати повернув мені гроші.",
+      "why": {
+        "en": "The earlier action takes the past perfect, the later one the past simple.",
+        "uk": "Раніша дія — past perfect, пізніша — past simple."
+      }
+    },
+    {
+      "text": "When the meeting started, half the attendees ___ (not arrive) yet.",
+      "answers": [
+        "had not arrived"
+      ],
+      "uk": "Коли нарада почалася, половина учасників іще не прийшла.",
+      "why": {
+        "en": "Not yet by that past moment: past perfect.",
+        "uk": "Ще не до того моменту в минулому: past perfect."
+      }
+    },
+    {
+      "text": "By 2020, the company ___ (open) four new branches.",
+      "answers": [
+        "had opened"
+      ],
+      "uk": "До 2020 року компанія відкрила чотири нові філії.",
+      "why": {
+        "en": "By + a past time: past perfect.",
+        "uk": "By + час у минулому: past perfect."
+      }
+    },
+    {
+      "text": "He ___ (just / leave) when you phoned.",
+      "answers": [
+        "had just left"
+      ],
+      "uk": "Він саме пішов, коли ви зателефонували.",
+      "why": {
+        "en": "Just before another past moment: past perfect.",
+        "uk": "Щойно перед іншим моментом у минулому: past perfect."
+      }
+    }
+  ]
+}

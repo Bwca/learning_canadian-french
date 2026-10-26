@@ -1,0 +1,125 @@
+{
+  "title": {
+    "en": "Past simple vs present perfect: news and details",
+    "uk": "Past simple чи present perfect: новина й подробиці"
+  },
+  "focus": {
+    "en": "News is often given in the present perfect, then the details (when, where, how) follow in the past simple. How long + state verb takes the present perfect simple.",
+    "uk": "Новину часто повідомляють у present perfect, а подробиці (коли, де, як) — у past simple. How long + дієслово стану — present perfect simple."
+  },
+  "exercises": [
+    {
+      "text": "Big news: we ___ (win) the City of Ottawa contract!",
+      "answers": [
+        "have won"
+      ],
+      "uk": "Чудова новина: ми виграли контракт із містом Оттава!",
+      "why": {
+        "en": "Fresh news, without a time: present perfect.",
+        "uk": "Свіжа новина без зазначення часу: present perfect."
+      }
+    },
+    {
+      "text": "We ___ (sign) it at ten o'clock this morning.",
+      "answers": [
+        "signed"
+      ],
+      "uk": "Ми підписали його сьогодні о десятій ранку.",
+      "why": {
+        "en": "A detail with an exact past time: past simple.",
+        "uk": "Подробиця з точним часом у минулому: past simple."
+      }
+    },
+    {
+      "text": "Linda ___ (be) promoted to office manager — isn't that great?",
+      "answers": [
+        "has been"
+      ],
+      "uk": "Лінду підвищили до офіс-менеджерки — хіба не чудово?",
+      "why": {
+        "en": "News without a time: present perfect (passive: has been + past participle).",
+        "uk": "Новина без часу: present perfect (пасив: has been + дієприкметник)."
+      }
+    },
+    {
+      "text": "She ___ (be) promoted at last Friday's meeting.",
+      "answers": [
+        "was"
+      ],
+      "uk": "Її підвищили на нараді минулої п'ятниці.",
+      "why": {
+        "en": "Last Friday's meeting is a finished time: past simple.",
+        "uk": "Last Friday's meeting — завершений час: past simple."
+      }
+    },
+    {
+      "text": "I ___ (never / see) such a large cost overrun.",
+      "answers": [
+        "have never seen"
+      ],
+      "uk": "Я ніколи не бачив такої великої перевитрати.",
+      "why": {
+        "en": "Never, about all my life up to now: present perfect.",
+        "uk": "Never — про все життя до тепер: present perfect."
+      }
+    },
+    {
+      "text": "Our previous accountant ___ (retire) in 2022 and ___ (move) to Victoria.",
+      "answers": [
+        "retired",
+        "moved"
+      ],
+      "uk": "Наш попередній бухгалтер вийшов на пенсію у 2022 році й переїхав до Вікторії.",
+      "why": {
+        "en": "In 2022 is a finished time: past simple.",
+        "uk": "In 2022 — завершений час: past simple."
+      }
+    },
+    {
+      "text": "How long ___ you ___ (know) your manager?",
+      "answers": [
+        "have",
+        "known"
+      ],
+      "uk": "Як довго ви знаєте свого менеджера?",
+      "why": {
+        "en": "How long + a state verb (know), up to now: present perfect simple.",
+        "uk": "How long + дієслово стану (know), аж до тепер: present perfect simple."
+      }
+    },
+    {
+      "text": "I ___ (meet) her at a CPA networking event five years ago.",
+      "answers": [
+        "met"
+      ],
+      "uk": "Я познайомився з нею на нетворкінгу CPA п'ять років тому.",
+      "why": {
+        "en": "Ago marks a finished time: past simple.",
+        "uk": "Ago позначає завершений час: past simple."
+      }
+    },
+    {
+      "text": "Someone ___ (take) my stapler! It was on my desk a minute ago.",
+      "answers": [
+        "has taken"
+      ],
+      "uk": "Хтось узяв мій степлер! Він щойно лежав у мене на столі.",
+      "why": {
+        "en": "The result matters now (it's gone): present perfect.",
+        "uk": "Результат важливий зараз (степлера немає): present perfect."
+      }
+    },
+    {
+      "text": "Last quarter, sales ___ (fall) by 8%, but they ___ (recover) since then.",
+      "answers": [
+        "fell",
+        "have recovered"
+      ],
+      "uk": "Минулого кварталу продажі впали на 8 %, але відтоді відновилися.",
+      "why": {
+        "en": "Last quarter is finished (past simple); since then runs up to now (present perfect).",
+        "uk": "Last quarter завершився (past simple); since then — аж до тепер (present perfect)."
+      }
+    }
+  ]
+}

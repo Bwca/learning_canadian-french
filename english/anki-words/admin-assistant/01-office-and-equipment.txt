@@ -1,0 +1,50 @@
+administrative assistant	адміністративний асистент
+receptionist	адміністратор на рецепції
+office manager	офіс-менеджер
+supervisor	безпосередній керівник
+colleague / co-worker	колега
+cubicle	робоче місце за перегородкою
+workstation	робоче місце (стіл із комп'ютером)
+boardroom	зала для нарад
+break room	кімната відпочинку
+supply cabinet	шафа з канцелярським приладдям
+office supplies	канцелярське приладдя
+stationery	канцтовари
+printer	принтер
+photocopier	ксерокс (копіювальний апарат)
+scanner	сканер
+toner cartridge	картридж із тонером
+paper jam	застрягання паперу
+shredder	шредер (знищувач паперу)
+stapler	степлер
+staple remover	антистеплер
+hole punch	дірокол
+paper clip	скріпка
+binder clip	затискач для паперу
+sticky note	клейкий листок для нотаток
+highlighter	маркер-виділювач
+binder	папка-реєстратор
+envelope	конверт
+letterhead	фірмовий бланк
+label maker	принтер для етикеток
+headset	гарнітура
+extension cord	подовжувач
+laptop	ноутбук
+docking station	док-станція
+monitor	монітор
+keyboard	клавіатура
+password	пароль
+login	вхід у систему (облікові дані)
+shared drive	спільний мережевий диск
+IT help desk	служба технічної підтримки
+software update	оновлення програмного забезпечення
+to log in	увійти в систему
+to log out	вийти із системи
+to back up	створити резервну копію
+to restock	поповнити запаси
+to run out of	закінчитися (про запаси)
+out of order	не працює (зламаний)
+service technician	майстер із сервісного обслуговування
+key card	електронна перепустка
+security badge	бейдж-перепустка
+lost and found	бюро знахідок

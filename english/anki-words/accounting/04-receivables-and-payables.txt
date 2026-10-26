@@ -1,0 +1,50 @@
+accounts receivable (AR)	дебіторська заборгованість
+accounts payable (AP)	кредиторська заборгованість
+invoice	рахунок-фактура
+to issue an invoice	виставити рахунок
+billing	виставлення рахунків
+purchase order (PO)	замовлення на закупівлю
+sales order	замовлення на продаж
+packing slip	пакувальний лист
+goods received note	накладна на отримання товару
+three-way match	тристороння звірка (замовлення, накладна, рахунок)
+credit note / credit memo	кредит-нота
+debit note	дебет-нота
+statement of account	виписка за рахунком клієнта
+payment terms	умови оплати
+net 30	оплата протягом 30 днів
+due date	термін оплати
+early payment discount	знижка за дострокову оплату
+overdue	прострочений
+outstanding balance	непогашений залишок
+aging report	звіт про строки заборгованості
+collections	стягнення заборгованості
+collection agency	колекторська агенція
+bad debt	безнадійний борг
+allowance for doubtful accounts	резерв сумнівних боргів
+to write off	списати (борг)
+customer	клієнт (покупець)
+vendor / supplier	постачальник
+remittance advice	повідомлення про платіж
+accrued liabilities	нараховані зобов'язання
+accrued revenue	нарахований дохід
+credit limit	кредитний ліміт
+credit check	перевірка кредитоспроможності
+deposit	завдаток (аванс)
+down payment	перший внесок
+partial payment	часткова оплата
+instalment	частковий платіж (внесок)
+late fee	пеня за прострочення
+dispute	оскарження рахунку (спір)
+refund	повернення коштів
+reimbursement	відшкодування
+payment run	пакетна оплата рахунків
+approval	погодження
+duplicate payment	подвійна оплата
+vendor master file	довідник постачальників
+cut-off	розмежування періодів
+billing cycle	розрахунковий цикл
+to chase a payment	нагадувати про оплату (вимагати оплату)
+account number	номер рахунку
+invoice number	номер рахунку-фактури
+balance due	сума до сплати

@@ -1,0 +1,130 @@
+{
+  "title": {
+    "en": "Past continuous: interrupted actions",
+    "uk": "Past continuous: перервані дії"
+  },
+  "focus": {
+    "en": "Past continuous (was doing) for an action in progress at a past moment, often interrupted by a past simple action. Past perfect (had done) for something completed before another past moment; past perfect continuous (had been doing) for how long something had been going on up to then.",
+    "uk": "Past continuous (was doing) — для дії, що тривала в певний момент у минулому, часто перервана дією в past simple. Past perfect (had done) — для того, що завершилося раніше за інший момент у минулому; past perfect continuous (had been doing) — для того, як довго щось тривало до того моменту."
+  },
+  "exercises": [
+    {
+      "text": "I ___ (enter) the invoices when the power ___ (go) out.",
+      "answers": [
+        "was entering",
+        "went"
+      ],
+      "uk": "Я саме вносив рахунки-фактури, коли зникло світло.",
+      "why": {
+        "en": "The longer action in progress (past continuous) is interrupted by a short one (past simple).",
+        "uk": "Триваліша дія в процесі (past continuous) переривається короткою (past simple)."
+      }
+    },
+    {
+      "text": "While the manager ___ (present) the budget, someone's phone ___ (ring).",
+      "answers": [
+        "was presenting",
+        "rang"
+      ],
+      "uk": "Поки менеджер представляв бюджет, у когось задзвонив телефон.",
+      "why": {
+        "en": "While + the action in progress (past continuous); the interruption takes the past simple.",
+        "uk": "While + дія в процесі (past continuous); переривання — past simple."
+      }
+    },
+    {
+      "text": "What ___ you ___ (do) at 3 p.m. yesterday? I called, but you didn't answer.",
+      "answers": [
+        "were",
+        "doing"
+      ],
+      "uk": "Що ви робили вчора о 15:00? Я дзвонив, але ви не відповіли.",
+      "why": {
+        "en": "In progress at an exact past moment: past continuous.",
+        "uk": "Дія тривала в конкретний момент у минулому: past continuous."
+      }
+    },
+    {
+      "text": "When I arrived, the receptionist ___ (talk) to a delivery driver.",
+      "answers": [
+        "was talking"
+      ],
+      "uk": "Коли я прийшов, адміністраторка розмовляла з водієм служби доставки.",
+      "why": {
+        "en": "Already in progress when I arrived: past continuous.",
+        "uk": "Дія вже тривала, коли я прийшов: past continuous."
+      }
+    },
+    {
+      "text": "We ___ (discuss) the payroll error when the director ___ (walk) in.",
+      "answers": [
+        "were discussing",
+        "walked"
+      ],
+      "uk": "Ми обговорювали помилку в нарахуванні зарплати, коли зайшов директор.",
+      "why": {
+        "en": "Action in progress (past continuous) interrupted by a short one (past simple).",
+        "uk": "Дія в процесі (past continuous) перервана короткою (past simple)."
+      }
+    },
+    {
+      "text": "It ___ (rain) heavily, so I ___ (take) a taxi to the client's office.",
+      "answers": [
+        "was raining",
+        "took"
+      ],
+      "uk": "Ішов сильний дощ, тож я поїхав до офісу клієнта на таксі.",
+      "why": {
+        "en": "Background situation (past continuous), then the main event (past simple).",
+        "uk": "Тло (past continuous), а потім головна подія (past simple)."
+      }
+    },
+    {
+      "text": "She ___ (not listen) when the trainer explained the new procedure.",
+      "answers": [
+        "was not listening"
+      ],
+      "uk": "Вона не слухала, коли інструктор пояснював нову процедуру.",
+      "why": {
+        "en": "Something (not) in progress at that moment: past continuous.",
+        "uk": "Те, що (не) відбувалося в той момент: past continuous."
+      }
+    },
+    {
+      "text": "I ___ (cut) my finger while I ___ (open) a box of toner.",
+      "answers": [
+        "cut",
+        "was opening"
+      ],
+      "uk": "Я порізав палець, коли відкривав коробку з тонером.",
+      "why": {
+        "en": "The short event takes the past simple; while + the action in progress takes the past continuous.",
+        "uk": "Коротка подія — past simple; while + дія в процесі — past continuous."
+      }
+    },
+    {
+      "text": "At this time last year, we ___ (prepare) for the move to the new office.",
+      "answers": [
+        "were preparing"
+      ],
+      "uk": "Торік у цей час ми готувалися до переїзду в новий офіс.",
+      "why": {
+        "en": "In progress at a past point (at this time last year): past continuous.",
+        "uk": "Дія тривала в момент у минулому (at this time last year): past continuous."
+      }
+    },
+    {
+      "text": "The phones ___ (ring), people ___ (rush) around, and nobody ___ (know) where the auditor's file was.",
+      "answers": [
+        "were ringing",
+        "were rushing",
+        "knew"
+      ],
+      "uk": "Дзвонили телефони, люди метушилися, і ніхто не знав, де тека аудитора.",
+      "why": {
+        "en": "Background scene: past continuous for actions; know is a state verb, so past simple.",
+        "uk": "Опис тла: past continuous для дій; know — дієслово стану, тож past simple."
+      }
+    }
+  ]
+}

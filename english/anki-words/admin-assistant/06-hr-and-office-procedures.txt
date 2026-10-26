@@ -1,0 +1,50 @@
+human resources (HR)	відділ кадрів (HR)
+job posting	оголошення про вакансію
+job description	посадова інструкція
+applicant	кандидат
+résumé	резюме
+job interview	співбесіда
+reference check	перевірка рекомендацій
+job offer	пропозиція роботи
+employment contract	трудовий договір
+probation period	випробувальний термін
+onboarding	адаптація нового працівника
+orientation	вступний інструктаж
+employee handbook	довідник працівника
+policy	правило (політика компанії)
+procedure	процедура
+full-time	повний робочий день
+part-time	неповний робочий день
+contract position	посада за контрактом
+shift	зміна
+sick leave	лікарняний
+parental leave	відпустка по догляду за дитиною
+vacation request	заява на відпустку
+time off	відгул (час відпочинку)
+absence	відсутність
+performance review	оцінювання роботи
+promotion	підвищення на посаді
+to resign	звільнитися (за власним бажанням)
+notice period	строк попередження про звільнення
+to lay off	скоротити (звільнити через скорочення)
+workplace safety	безпека на робочому місці
+first aid kit	аптечка
+fire drill	навчальна пожежна тривога
+emergency exit	аварійний вихід
+dress code	дрес-код
+expense report	звіт про витрати
+expense claim	заява на відшкодування витрат
+travel policy	правила щодо відряджень
+mileage	компенсація за пробіг
+per diem	добові
+purchase requisition	заявка на закупівлю
+quote	комерційна пропозиція (кошторис)
+to order supplies	замовити канцелярське приладдя
+approval process	процес погодження
+to approve	затвердити
+to delegate	доручити (делегувати)
+to prioritize	розставити пріоритети
+workload	робоче навантаження
+to multitask	виконувати кілька завдань одночасно
+task list	список завдань
+to meet a deadline	вкластися в термін

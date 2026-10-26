@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="pageTitle">Learning English</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
+    <style>
+        .container { max-width: 800px; margin: auto; padding: 2rem 1rem; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav class="page-nav level is-mobile mb-4">
+            <a href="../">← <span data-i18n="allLanguages">All languages</span></a>
+        </nav>
+        <h1 class="title" data-i18n="pageTitle">Learning English</h1>
+        <p class="subtitle is-6" data-i18n="intro">
+            Drilling tools for Canadian English, with Ukrainian translations. Every vocabulary list and exercise set is
+            built in — just pick one. Speech uses your browser's text-to-speech, so install an English (Canada) voice
+            for the best accent.
+        </p>
+        <div class="columns is-multiline">
+            <div class="column is-one-third">
+                <a class="box" href="gap-fill.html">
+                    <p class="title is-5" data-i18n="gapFillTitle">Gap fill</p>
+                    <p data-i18n="gapFillText">Put the right tense or preposition into each sentence, with an explanation for every answer.</p>
+                </a>
+            </div>
+            <div class="column is-one-third">
+                <a class="box" href="vocab-quiz.html">
+                    <p class="title is-5" data-i18n="quizTitle">Vocabulary quiz</p>
+                    <p data-i18n="quizText">See the Ukrainian, type the English, get scored.</p>
+                </a>
+            </div>
+            <div class="column is-one-third">
+                <a class="box" href="audio-drill.html">
+                    <p class="title is-5" data-i18n="audioTitle">Audio drill</p>
+                    <p data-i18n="audioText">Hands-free listening: each English/Ukrainian pair read aloud on a loop.</p>
+                </a>
+            </div>
+        </div>
+    </div>
+    <script src="../i18n.js"></script>
+    <script>
+        defineStrings({
+            en: {
+                pageTitle: "Learning English",
+                intro: "Drilling tools for Canadian English, with Ukrainian translations. Every vocabulary list and exercise set is built in — just pick one. Speech uses your browser's text-to-speech, so install an English (Canada) voice for the best accent.",
+                gapFillTitle: "Gap fill",
+                gapFillText: "Put the right tense or preposition into each sentence, with an explanation for every answer.",
+                quizTitle: "Vocabulary quiz",
+                quizText: "See the Ukrainian, type the English, get scored.",
+                audioTitle: "Audio drill",
+                audioText: "Hands-free listening: each English/Ukrainian pair read aloud on a loop.",
+                allLanguages: "All languages",
+            },
+            uk: {
+                pageTitle: "Вивчаємо англійську",
+                intro: "Тренажери для канадської англійської з українським перекладом. Усі списки слів і набори вправ уже вбудовані — просто виберіть потрібний. Озвучує текст синтезатор мовлення вашого браузера, тож для найкращої вимови встановіть голос «англійська (Канада)».",
+                gapFillTitle: "Заповніть пропуски",
+                gapFillText: "Поставте в кожне речення правильний час чи прийменник — з поясненням до кожної відповіді.",
+                quizTitle: "Тест зі слів",
+                quizText: "Бачите українське слово, пишете англійське, отримуєте оцінку.",
+                audioTitle: "Аудіотренажер",
+                audioText: "Слухання без рук: кожна пара англійська/українська звучить по колу.",
+                allLanguages: "Усі мови",
+            },
+        });
+    </script>
+</body>
+</html>

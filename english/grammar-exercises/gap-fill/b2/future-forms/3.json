@@ -1,0 +1,126 @@
+{
+  "title": {
+    "en": "Future continuous and future perfect",
+    "uk": "Future continuous і future perfect"
+  },
+  "focus": {
+    "en": "Future continuous (will be doing) for an action in progress at a future moment, or for polite questions about plans. Future perfect (will have done) for something completed before a future moment (by…, by the time…); future perfect continuous (will have been doing) for how long by then.",
+    "uk": "Future continuous (will be doing) — для дії, що триватиме в певний момент у майбутньому, або для ввічливих питань про плани. Future perfect (will have done) — для того, що завершиться до певного моменту в майбутньому (by…, by the time…); future perfect continuous (will have been doing) — для того, як довго щось триватиме на той момент."
+  },
+  "exercises": [
+    {
+      "text": "This time tomorrow, I ___ (fly) to Vancouver for the conference.",
+      "answers": [
+        "will be flying"
+      ],
+      "uk": "Завтра в цей час я летітиму до Ванкувера на конференцію.",
+      "why": {
+        "en": "In progress at a future moment: future continuous.",
+        "uk": "Дія триватиме в момент у майбутньому: future continuous."
+      }
+    },
+    {
+      "text": "By the end of the month, we ___ (close) the books for the quarter.",
+      "answers": [
+        "will have closed"
+      ],
+      "uk": "До кінця місяця ми закриємо облік за квартал.",
+      "why": {
+        "en": "Completed before a future moment (by…): future perfect.",
+        "uk": "Завершиться до моменту в майбутньому (by…): future perfect."
+      }
+    },
+    {
+      "text": "Don't call at ten — I ___ (interview) a candidate then.",
+      "answers": [
+        "will be interviewing"
+      ],
+      "uk": "Не дзвоніть о десятій — у цей час я проводитиму співбесіду з кандидатом.",
+      "why": {
+        "en": "In progress at that future time: future continuous.",
+        "uk": "Дія триватиме в той час у майбутньому: future continuous."
+      }
+    },
+    {
+      "text": "By the time you get this email, I ___ (leave) for my vacation.",
+      "answers": [
+        "will have left"
+      ],
+      "uk": "Коли ви отримаєте цей лист, я вже поїду у відпустку.",
+      "why": {
+        "en": "Completed before another future moment: future perfect (by the time + present simple).",
+        "uk": "Завершиться до іншого моменту в майбутньому: future perfect (by the time + present simple)."
+      }
+    },
+    {
+      "text": "By June, she ___ (work) here for ten years.",
+      "answers": [
+        [
+          "will have worked",
+          "will have been working"
+        ]
+      ],
+      "uk": "У червні буде десять років, як вона тут працює.",
+      "why": {
+        "en": "Duration up to a future moment: future perfect (simple or continuous).",
+        "uk": "Тривалість до моменту в майбутньому: future perfect (simple чи continuous)."
+      }
+    },
+    {
+      "text": "___ you ___ (use) the boardroom this afternoon? We need it at three.",
+      "answers": [
+        "will",
+        "be using"
+      ],
+      "uk": "Ви сьогодні після обіду користуватиметеся залою для нарад? Нам вона потрібна о третій.",
+      "why": {
+        "en": "A polite question about someone's plans: future continuous.",
+        "uk": "Ввічливе питання про чиїсь плани: future continuous."
+      }
+    },
+    {
+      "text": "By 2030, most companies ___ (move) to fully digital records.",
+      "answers": [
+        "will have moved"
+      ],
+      "uk": "До 2030 року більшість компаній перейде на повністю цифрові документи.",
+      "why": {
+        "en": "By + a future time: future perfect.",
+        "uk": "By + час у майбутньому: future perfect."
+      }
+    },
+    {
+      "text": "The auditors ___ (not finish) by Friday — there's too much to check.",
+      "answers": [
+        "will not have finished"
+      ],
+      "uk": "Аудитори не закінчать до п'ятниці — забагато всього треба перевірити.",
+      "why": {
+        "en": "Not completed by a future moment: future perfect negative.",
+        "uk": "Не завершиться до моменту в майбутньому: заперечення у future perfect."
+      }
+    },
+    {
+      "text": "Next week we ___ (train) new staff every morning, so I'll only answer emails in the afternoon.",
+      "answers": [
+        "will be training"
+      ],
+      "uk": "Наступного тижня ми щоранку навчатимемо нових працівників, тож на листи я відповідатиму лише після обіду.",
+      "why": {
+        "en": "An activity in progress over a future period: future continuous.",
+        "uk": "Дія, що триватиме впродовж періоду в майбутньому: future continuous."
+      }
+    },
+    {
+      "text": "By the time the CRA replies, we ___ (wait) for over three months.",
+      "answers": [
+        "will have been waiting"
+      ],
+      "uk": "Коли CRA відповість, ми чекатимемо вже понад три місяці.",
+      "why": {
+        "en": "How long by a future moment: future perfect continuous.",
+        "uk": "Як довго на певний момент у майбутньому: future perfect continuous."
+      }
+    }
+  ]
+}

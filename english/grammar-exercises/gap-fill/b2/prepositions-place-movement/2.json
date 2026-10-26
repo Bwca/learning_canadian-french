@@ -1,0 +1,126 @@
+{
+  "title": {
+    "en": "Prepositions of place: position",
+    "uk": "Прийменники місця: розташування"
+  },
+  "focus": {
+    "en": "Next to, between (two things), among (a group), across from or opposite, behind, in front of, above, below, under, on the corner.",
+    "uk": "Next to (поруч), between (між двома), among (серед кількох), across from або opposite (навпроти), behind (позаду), in front of (перед), above (над), below (під, нижче), under (під), on the corner (на розі)."
+  },
+  "exercises": [
+    {
+      "text": "The shredder is ___ the photocopier and the window.",
+      "answers": [
+        "between"
+      ],
+      "uk": "Шредер стоїть між ксероксом і вікном.",
+      "why": {
+        "en": "Between two things.",
+        "uk": "Між двома речами: between."
+      }
+    },
+    {
+      "text": "The bank is right ___ the street ___ our office.",
+      "answers": [
+        "across",
+        "from"
+      ],
+      "uk": "Банк просто через дорогу від нашого офісу.",
+      "why": {
+        "en": "Across the street from = on the other side of the street.",
+        "uk": "Across the street from = на протилежному боці вулиці."
+      }
+    },
+    {
+      "text": "The printer is ___ to the water cooler.",
+      "answers": [
+        "next"
+      ],
+      "uk": "Принтер стоїть поруч із кулером.",
+      "why": {
+        "en": "Next to = beside.",
+        "uk": "Next to = поруч, біля."
+      }
+    },
+    {
+      "text": "Visitor parking is ___ the building, so you can't see it from the street.",
+      "answers": [
+        "behind"
+      ],
+      "uk": "Паркування для відвідувачів позаду будівлі, тож із вулиці його не видно.",
+      "why": {
+        "en": "Behind = at the back of.",
+        "uk": "Behind = позаду."
+      }
+    },
+    {
+      "text": "Please wait ___ front of the elevators.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Будь ласка, зачекайте перед ліфтами.",
+      "why": {
+        "en": "In front of = facing the front of something.",
+        "uk": "In front of = перед чимось."
+      }
+    },
+    {
+      "text": "The accounting department is directly ___ the café, on the second floor.",
+      "answers": [
+        "above"
+      ],
+      "uk": "Бухгалтерія розташована прямо над кафе, на другому поверсі.",
+      "why": {
+        "en": "Above = higher than, not touching.",
+        "uk": "Above = вище, без дотику."
+      }
+    },
+    {
+      "text": "The server room is ___ the main floor, in the basement.",
+      "answers": [
+        "below"
+      ],
+      "uk": "Серверна розташована нижче першого поверху, у підвалі.",
+      "why": {
+        "en": "Below = lower than.",
+        "uk": "Below = нижче."
+      }
+    },
+    {
+      "text": "I found the missing invoice ___ a pile of old newspapers.",
+      "answers": [
+        "under"
+      ],
+      "uk": "Я знайшов загублений рахунок-фактуру під купою старих газет.",
+      "why": {
+        "en": "Under = directly beneath, often covered.",
+        "uk": "Under = просто під чимось, часто накритий ним."
+      }
+    },
+    {
+      "text": "The signed contract was hidden ___ hundreds of other documents.",
+      "answers": [
+        "among"
+      ],
+      "uk": "Підписаний договір загубився серед сотень інших документів.",
+      "why": {
+        "en": "Among = in a group of more than two.",
+        "uk": "Among = серед групи з понад двох."
+      }
+    },
+    {
+      "text": "Turn left at the lights, and our building is ___ the corner.",
+      "answers": [
+        [
+          "on",
+          "at"
+        ]
+      ],
+      "uk": "На світлофорі поверніть ліворуч — наша будівля на розі.",
+      "why": {
+        "en": "On the corner (or at the corner) of a street.",
+        "uk": "On the corner (або at the corner) вулиці."
+      }
+    }
+  ]
+}

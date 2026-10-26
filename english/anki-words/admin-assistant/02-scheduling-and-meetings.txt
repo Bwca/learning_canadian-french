@@ -1,0 +1,50 @@
+calendar	календар
+schedule	розклад (графік)
+to schedule	запланувати
+to reschedule	перенести (на інший час)
+to postpone	відкласти
+to cancel	скасувати
+to book a room	забронювати кімнату
+availability	вільний час (доступність)
+time slot	часовий проміжок
+double-booked	із накладкою в розкладі
+conflict	збіг у розкладі
+meeting invitation	запрошення на нараду
+to accept an invitation	прийняти запрошення
+to decline	відхилити
+agenda	порядок денний
+minutes	протокол наради
+to take minutes	вести протокол
+action item	завдання за підсумками наради
+attendee	учасник
+chairperson	голова наради
+quorum	кворум
+videoconference	відеоконференція
+conference call	телефонна конференція
+in-person meeting	очна зустріч
+hybrid meeting	змішана нарада (очно й онлайн)
+screen sharing	демонстрація екрана
+to mute	вимкнути мікрофон
+follow-up	подальші дії (нагадування)
+deadline	кінцевий термін
+time zone	часовий пояс
+recurring meeting	регулярна нарада
+all-hands meeting	загальні збори працівників
+one-on-one	зустріч віч-на-віч
+appointment	запис (на прийом), зустріч
+to confirm	підтвердити
+reminder	нагадування
+to set a reminder	поставити нагадування
+itinerary	маршрут подорожі
+business trip	відрядження
+travel arrangements	організація поїздки
+to book a flight	забронювати авіаквиток
+accommodation	житло (готель)
+catering	кейтеринг (харчування для заходу)
+venue	місце проведення
+event planning	організація заходів
+RSVP	відповідь на запрошення
+on short notice	у стислий термін (без попередження)
+ahead of schedule	раніше запланованого
+behind schedule	із відставанням від графіка
+to block off time	зарезервувати час у календарі

@@ -1,0 +1,123 @@
+{
+  "title": {
+    "en": "Present perfect continuous vs simple: activity or result?",
+    "uk": "Present perfect continuous чи simple: процес чи результат?"
+  },
+  "focus": {
+    "en": "Present perfect continuous (have been doing) for an activity that started in the past and is still going on or has just stopped, stressing how long or its visible effects. Present perfect simple (have done) for completed results and how much or how many. State verbs (know, be, own…) stay simple.",
+    "uk": "Present perfect continuous (have been doing) — для дії, що почалася в минулому й триває досі або щойно скінчилася, коли важлива тривалість чи помітні наслідки. Present perfect simple (have done) — для завершеного результату й «скільки». Дієслова стану (know, be, own…) лишаються в простій формі."
+  },
+  "exercises": [
+    {
+      "text": "I ___ (write) emails all morning.",
+      "answers": [
+        "have been writing"
+      ],
+      "uk": "Я весь ранок пишу листи.",
+      "why": {
+        "en": "All morning: the activity and its duration matter: continuous.",
+        "uk": "All morning: важливі сама дія та її тривалість — continuous."
+      }
+    },
+    {
+      "text": "I ___ (write) twenty emails so far.",
+      "answers": [
+        "have written"
+      ],
+      "uk": "Поки що я написав двадцять листів.",
+      "why": {
+        "en": "How many (twenty, so far): a completed result: present perfect simple.",
+        "uk": "Скільки (twenty, so far): завершений результат — present perfect simple."
+      }
+    },
+    {
+      "text": "You look tired. ___ you ___ (work) late again?",
+      "answers": [
+        "have",
+        "been working"
+      ],
+      "uk": "Ви втомлено виглядаєте. Знову працювали допізна?",
+      "why": {
+        "en": "A visible effect of a recent activity: present perfect continuous.",
+        "uk": "Помітний наслідок недавньої дії: present perfect continuous."
+      }
+    },
+    {
+      "text": "I ___ (finish) the bank reconciliation — here it is.",
+      "answers": [
+        "have finished"
+      ],
+      "uk": "Я завершив звірку з банком — ось вона.",
+      "why": {
+        "en": "A completed task with a result to show: present perfect simple.",
+        "uk": "Завершене завдання з результатом: present perfect simple."
+      }
+    },
+    {
+      "text": "Sorry about the mess — we ___ (sort) through old files.",
+      "answers": [
+        "have been sorting"
+      ],
+      "uk": "Вибачте за безлад — ми розбираємо старі документи.",
+      "why": {
+        "en": "The mess is the visible effect of an activity: present perfect continuous.",
+        "uk": "Безлад — помітний наслідок дії: present perfect continuous."
+      }
+    },
+    {
+      "text": "We ___ (sort) about half of the files; the rest can wait until Monday.",
+      "answers": [
+        "have sorted"
+      ],
+      "uk": "Ми розібрали приблизно половину документів; решта може почекати до понеділка.",
+      "why": {
+        "en": "How much is done (about half): present perfect simple.",
+        "uk": "Скільки зроблено (about half): present perfect simple."
+      }
+    },
+    {
+      "text": "Kevin ___ (call) the client three times today.",
+      "answers": [
+        "has called"
+      ],
+      "uk": "Кевін сьогодні тричі дзвонив клієнтові.",
+      "why": {
+        "en": "A number of times: present perfect simple.",
+        "uk": "Кількість разів: present perfect simple."
+      }
+    },
+    {
+      "text": "Kevin ___ (call) clients since lunch.",
+      "answers": [
+        "has been calling"
+      ],
+      "uk": "Кевін обдзвонює клієнтів від обіду.",
+      "why": {
+        "en": "Since lunch, a continuing activity: present perfect continuous.",
+        "uk": "Since lunch, дія триває: present perfect continuous."
+      }
+    },
+    {
+      "text": "The floor is wet — the cleaners ___ (wash) it.",
+      "answers": [
+        "have been washing"
+      ],
+      "uk": "Підлога мокра — прибиральники її мили.",
+      "why": {
+        "en": "A visible effect of an activity that has just stopped: present perfect continuous.",
+        "uk": "Помітний наслідок дії, що щойно скінчилася: present perfect continuous."
+      }
+    },
+    {
+      "text": "I ___ (read) the employee handbook, but I haven't finished it yet.",
+      "answers": [
+        "have been reading"
+      ],
+      "uk": "Я читаю довідник працівника, але ще не дочитав.",
+      "why": {
+        "en": "The activity isn't complete: continuous. Have read would mean it's finished.",
+        "uk": "Дія не завершена: continuous. Have read означало б, що дочитано."
+      }
+    }
+  ]
+}

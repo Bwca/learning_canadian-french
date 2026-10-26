@@ -1,0 +1,125 @@
+{
+  "title": {
+    "en": "Dependent prepositions: nouns and mixed",
+    "uk": "Прийменники після іменників і мікс"
+  },
+  "focus": {
+    "en": "Nouns take fixed prepositions: an increase in, a decrease in, a reason for, a problem with, demand for, experience in, a copy of, a payment of, a reply from, a complaint about.",
+    "uk": "Іменники теж вимагають сталих прийменників: an increase in, a decrease in, a reason for, a problem with, demand for, experience in, a copy of, a payment of, a reply from, a complaint about."
+  },
+  "exercises": [
+    {
+      "text": "There's been a sharp increase ___ office expenses.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Офісні витрати різко зросли.",
+      "why": {
+        "en": "An increase in something; an increase of + an amount (an increase of 5%).",
+        "uk": "An increase in — чогось; an increase of + величина (an increase of 5%)."
+      }
+    },
+    {
+      "text": "We've noticed a decrease ___ sales this quarter.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Цього кварталу ми помітили зниження продажів.",
+      "why": {
+        "en": "A decrease in something, like an increase in.",
+        "uk": "A decrease in — чогось, як і an increase in."
+      }
+    },
+    {
+      "text": "What's the reason ___ the delay?",
+      "answers": [
+        "for"
+      ],
+      "uk": "Яка причина затримки?",
+      "why": {
+        "en": "A reason for (причина чогось).",
+        "uk": "A reason for (причина чогось)."
+      }
+    },
+    {
+      "text": "There's a problem ___ the printer again.",
+      "answers": [
+        "with"
+      ],
+      "uk": "З принтером знову проблема.",
+      "why": {
+        "en": "A problem with (проблема з).",
+        "uk": "A problem with (проблема з)."
+      }
+    },
+    {
+      "text": "The demand ___ accountants is high in Alberta.",
+      "answers": [
+        "for"
+      ],
+      "uk": "В Альберті високий попит на бухгалтерів.",
+      "why": {
+        "en": "Demand for (попит на).",
+        "uk": "Demand for (попит на)."
+      }
+    },
+    {
+      "text": "Do you have any experience ___ payroll?",
+      "answers": [
+        [
+          "in",
+          "with"
+        ]
+      ],
+      "uk": "Чи маєте ви досвід нарахування зарплати?",
+      "why": {
+        "en": "Experience in or with a field.",
+        "uk": "Experience in або with — досвід у певній галузі."
+      }
+    },
+    {
+      "text": "Please send me a copy ___ the invoice.",
+      "answers": [
+        "of"
+      ],
+      "uk": "Будь ласка, надішліть мені копію рахунку-фактури.",
+      "why": {
+        "en": "A copy of (копія чогось).",
+        "uk": "A copy of (копія чогось)."
+      }
+    },
+    {
+      "text": "I'd like to make a payment ___ $500 on my account.",
+      "answers": [
+        "of"
+      ],
+      "uk": "Я хочу внести платіж на 500 $ на свій рахунок.",
+      "why": {
+        "en": "A payment of + an amount.",
+        "uk": "A payment of + сума."
+      }
+    },
+    {
+      "text": "We still haven't had a reply ___ the supplier.",
+      "answers": [
+        "from"
+      ],
+      "uk": "Ми досі не отримали відповіді від постачальника.",
+      "why": {
+        "en": "A reply from someone; a reply to a message.",
+        "uk": "A reply from — від когось; a reply to — на повідомлення."
+      }
+    },
+    {
+      "text": "The client complained ___ the late delivery.",
+      "answers": [
+        "about"
+      ],
+      "uk": "Клієнт поскаржився на запізнілу доставку.",
+      "why": {
+        "en": "Complain about something; complain to someone.",
+        "uk": "Complain about — на щось; complain to — комусь."
+      }
+    }
+  ]
+}

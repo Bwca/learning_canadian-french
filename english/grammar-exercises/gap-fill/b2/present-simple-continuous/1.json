@@ -1,0 +1,127 @@
+{
+  "title": {
+    "en": "Present simple vs continuous: routines and right now",
+    "uk": "Present simple чи continuous: розпорядок і «просто зараз»"
+  },
+  "focus": {
+    "en": "Present simple for habits, routines, facts and timetables; present continuous for what's happening now or around now, temporary situations and changing trends.",
+    "uk": "Present simple — для звичок, розпорядку, фактів і розкладів; present continuous — для того, що відбувається зараз чи в цей період, тимчасових ситуацій і змін, що тривають."
+  },
+  "exercises": [
+    {
+      "text": "Our firm ___ (close) its books at the end of every month.",
+      "answers": [
+        "closes"
+      ],
+      "uk": "Наша фірма закриває облікові записи наприкінці кожного місяця.",
+      "why": {
+        "en": "A regular routine (every month) takes the present simple; he/she/it adds -s.",
+        "uk": "Регулярна дія (every month) — present simple; з he/she/it додаємо -s."
+      }
+    },
+    {
+      "text": "Please don't interrupt Maria — she ___ (reconcile) the bank statement right now.",
+      "answers": [
+        "is reconciling"
+      ],
+      "uk": "Будь ласка, не відволікайте Марію — вона саме звіряє банківську виписку.",
+      "why": {
+        "en": "Right now points to an action in progress: present continuous.",
+        "uk": "Right now вказує на дію, що триває: present continuous."
+      }
+    },
+    {
+      "text": "The payroll department ___ (process) salaries every other Thursday.",
+      "answers": [
+        "processes"
+      ],
+      "uk": "Відділ розрахунку зарплати нараховує зарплату що другий четвер.",
+      "why": {
+        "en": "A repeated schedule takes the present simple.",
+        "uk": "Повторюваний графік — present simple."
+      }
+    },
+    {
+      "text": "I ___ (not usually work) on Saturdays, but this month I ___ (work) every weekend to finish the audit.",
+      "answers": [
+        "do not usually work",
+        "am working"
+      ],
+      "uk": "Зазвичай я не працюю по суботах, але цього місяця працюю щовихідних, щоб завершити аудит.",
+      "why": {
+        "en": "A usual habit takes the present simple; this month marks a temporary situation, so the present continuous.",
+        "uk": "Звичка — present simple; this month позначає тимчасову ситуацію, тож present continuous."
+      }
+    },
+    {
+      "text": "Interest ___ (accrue) daily on this line of credit.",
+      "answers": [
+        "accrues"
+      ],
+      "uk": "Відсотки за цією кредитною лінією нараховуються щодня.",
+      "why": {
+        "en": "A fact about how something works takes the present simple.",
+        "uk": "Факт про те, як щось працює, — present simple."
+      }
+    },
+    {
+      "text": "Can you call me back later? I ___ (drive) to a client meeting.",
+      "answers": [
+        "am driving"
+      ],
+      "uk": "Можете передзвонити пізніше? Я їду на зустріч із клієнтом.",
+      "why": {
+        "en": "The action is happening at the moment of speaking: present continuous.",
+        "uk": "Дія відбувається в момент мовлення: present continuous."
+      }
+    },
+    {
+      "text": "The office ___ (open) at 8:30 and ___ (close) at 4:30.",
+      "answers": [
+        "opens",
+        "closes"
+      ],
+      "uk": "Офіс відкривається о 8:30 і зачиняється о 16:30.",
+      "why": {
+        "en": "Opening hours are a timetable: present simple.",
+        "uk": "Години роботи — це розклад: present simple."
+      }
+    },
+    {
+      "text": "We ___ (look) for a new bookkeeper at the moment, so Raj ___ (cover) accounts payable.",
+      "answers": [
+        "are looking",
+        "is covering"
+      ],
+      "uk": "Зараз ми шукаємо нового рахівника, тож Радж тимчасово веде кредиторську заборгованість.",
+      "why": {
+        "en": "Both are temporary situations around now (at the moment): present continuous.",
+        "uk": "Обидві ситуації тимчасові й стосуються теперішнього періоду (at the moment): present continuous."
+      }
+    },
+    {
+      "text": "How often ___ you ___ (back up) the accounting files?",
+      "answers": [
+        "do",
+        "back up"
+      ],
+      "uk": "Як часто ви робите резервні копії бухгалтерських файлів?",
+      "why": {
+        "en": "How often asks about a habit: present simple question with do + base form.",
+        "uk": "How often питає про звичку: питання в present simple з do + початкова форма."
+      }
+    },
+    {
+      "text": "Prices ___ (rise) quickly this year, so we ___ (review) our budget every quarter.",
+      "answers": [
+        "are rising",
+        "review"
+      ],
+      "uk": "Цього року ціни швидко зростають, тож ми переглядаємо бюджет щокварталу.",
+      "why": {
+        "en": "A changing trend takes the present continuous; a regular review takes the present simple.",
+        "uk": "Зміна, що триває, — present continuous; регулярний перегляд — present simple."
+      }
+    }
+  ]
+}

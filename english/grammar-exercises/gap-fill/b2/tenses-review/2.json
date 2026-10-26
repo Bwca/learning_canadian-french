@@ -1,0 +1,133 @@
+{
+  "title": {
+    "en": "Tenses review: mixed 2",
+    "uk": "Повторення часів: мікс 2"
+  },
+  "focus": {
+    "en": "All the tenses together. Decide first whether the time is finished, still going on or in the future.",
+    "uk": "Усі часи разом. Спершу визначте, чи час завершився, чи триває, чи йдеться про майбутнє."
+  },
+  "exercises": [
+    {
+      "text": "Look at the line-up! We ___ (need) more staff at the front desk.",
+      "answers": [
+        [
+          "are going to need",
+          "will need"
+        ]
+      ],
+      "uk": "Погляньте на чергу! Нам знадобиться більше працівників на рецепції.",
+      "why": {
+        "en": "A prediction from present evidence: going to (will also works).",
+        "uk": "Прогноз на підставі того, що видно зараз: going to (will теж можливий)."
+      }
+    },
+    {
+      "text": "She ___ (study) for her CPA exam for months, so she ___ (feel) confident.",
+      "answers": [
+        "has been studying",
+        "feels"
+      ],
+      "uk": "Вона вже місяцями готується до іспиту CPA, тож почувається впевнено.",
+      "why": {
+        "en": "For months up to now (present perfect continuous); her present feeling (present simple).",
+        "uk": "For months аж до тепер (present perfect continuous); її теперішній стан (present simple)."
+      }
+    },
+    {
+      "text": "When I ___ (join) the firm, they ___ (still / use) paper ledgers.",
+      "answers": [
+        "joined",
+        [
+          "were still using",
+          "still used"
+        ]
+      ],
+      "uk": "Коли я прийшов у фірму, там іще вели паперові облікові книги.",
+      "why": {
+        "en": "When I joined: past simple; a situation going on at that time: past continuous (or past simple).",
+        "uk": "When I joined: past simple; ситуація, що тривала тоді: past continuous (або past simple)."
+      }
+    },
+    {
+      "text": "This is the third time the printer ___ (break) down this week.",
+      "answers": [
+        "has broken"
+      ],
+      "uk": "Це вже втретє цього тижня ламається принтер.",
+      "why": {
+        "en": "This is the third time…: present perfect.",
+        "uk": "This is the third time…: present perfect."
+      }
+    },
+    {
+      "text": "I ___ (not know) the answer, but I ___ (find) out for you.",
+      "answers": [
+        "do not know",
+        "will find"
+      ],
+      "uk": "Я не знаю відповіді, але дізнаюся для вас.",
+      "why": {
+        "en": "Know is a state (present simple); an offer made now (will).",
+        "uk": "Know — стан (present simple); пропозиція тут і зараз (will)."
+      }
+    },
+    {
+      "text": "By the time I got to the meeting, they ___ (approve) the budget.",
+      "answers": [
+        "had approved"
+      ],
+      "uk": "Коли я дістався на нараду, бюджет уже затвердили.",
+      "why": {
+        "en": "Completed before a past moment: past perfect.",
+        "uk": "Завершено до моменту в минулому: past perfect."
+      }
+    },
+    {
+      "text": "What time ___ the office ___ (close) on Fridays?",
+      "answers": [
+        "does",
+        "close"
+      ],
+      "uk": "О котрій офіс зачиняється по п'ятницях?",
+      "why": {
+        "en": "A regular timetable: present simple question.",
+        "uk": "Регулярний розклад: питання в present simple."
+      }
+    },
+    {
+      "text": "We ___ (move) to the new office next Monday — the movers are booked.",
+      "answers": [
+        "are moving"
+      ],
+      "uk": "Наступного понеділка ми переїжджаємо в новий офіс — вантажників уже замовлено.",
+      "why": {
+        "en": "A fixed arrangement: present continuous.",
+        "uk": "Домовленість: present continuous."
+      }
+    },
+    {
+      "text": "I ___ (send) the file twice, but the client says he ___ (not receive) it.",
+      "answers": [
+        "have sent",
+        "has not received"
+      ],
+      "uk": "Я двічі надсилав файл, але клієнт каже, що не отримав його.",
+      "why": {
+        "en": "No finished time given, and the results matter now: present perfect for both.",
+        "uk": "Завершеного часу не названо, а результати важливі зараз: present perfect для обох."
+      }
+    },
+    {
+      "text": "A debit always ___ (go) on the left side of a T-account.",
+      "answers": [
+        "goes"
+      ],
+      "uk": "Дебет завжди записують у ліву частину Т-подібного рахунку.",
+      "why": {
+        "en": "A general rule: present simple.",
+        "uk": "Загальне правило: present simple."
+      }
+    }
+  ]
+}

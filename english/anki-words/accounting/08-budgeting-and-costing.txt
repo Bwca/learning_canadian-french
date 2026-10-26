@@ -1,0 +1,50 @@
+budget	бюджет
+operating budget	операційний бюджет
+capital budget	бюджет капіталовкладень
+master budget	зведений бюджет
+cash budget	бюджет грошових коштів
+forecast	прогноз
+rolling forecast	ковзний прогноз
+zero-based budgeting	бюджетування з нуля
+variance	відхилення
+favourable variance	сприятливе відхилення
+unfavourable variance	несприятливе відхилення
+fixed cost	постійні витрати
+variable cost	змінні витрати
+mixed cost	змішані витрати
+direct cost	прямі витрати
+indirect cost	непрямі витрати
+overhead	накладні витрати
+direct materials	прямі матеріальні витрати
+direct labour	прямі витрати на оплату праці
+cost centre	центр витрат
+profit centre	центр прибутку
+cost allocation	розподіл витрат
+cost driver	чинник витрат
+activity-based costing (ABC)	калькуляція за видами діяльності (ABC)
+job costing	позамовна калькуляція
+process costing	попроцесна калькуляція
+standard cost	нормативна собівартість
+unit cost	собівартість одиниці
+break-even point	точка беззбитковості
+contribution margin	маржинальний дохід
+cost-volume-profit analysis	аналіз «витрати — обсяг — прибуток»
+sunk cost	безповоротні витрати
+opportunity cost	альтернативні витрати
+relevant cost	релевантні витрати
+make-or-buy decision	рішення «виробляти чи купувати»
+markup	націнка
+margin	маржа
+pricing	ціноутворення
+capacity	виробнича потужність
+target	цільовий показник
+key performance indicator (KPI)	ключовий показник ефективності (KPI)
+return on investment (ROI)	рентабельність інвестицій (ROI)
+payback period	строк окупності
+net present value (NPV)	чиста приведена вартість (NPV)
+discount rate	ставка дисконтування
+cost overrun	перевитрата коштів
+cost reduction	скорочення витрат
+spreadsheet	електронна таблиця
+management accounting	управлінський облік
+financial accounting	фінансовий облік

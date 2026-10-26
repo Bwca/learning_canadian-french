@@ -1,0 +1,122 @@
+{
+  "title": {
+    "en": "Dependent prepositions: adjectives",
+    "uk": "Прийменники після прикметників"
+  },
+  "focus": {
+    "en": "Adjectives take fixed prepositions too: responsible for, familiar with, good at, interested in, pleased with, aware of, entitled to, subject to, worried about, capable of.",
+    "uk": "Прикметники теж вимагають сталих прийменників: responsible for, familiar with, good at, interested in, pleased with, aware of, entitled to, subject to, worried about, capable of."
+  },
+  "exercises": [
+    {
+      "text": "Who is responsible ___ the petty cash?",
+      "answers": [
+        "for"
+      ],
+      "uk": "Хто відповідає за дрібну касу?",
+      "why": {
+        "en": "Responsible for (відповідальний за).",
+        "uk": "Responsible for (відповідальний за)."
+      }
+    },
+    {
+      "text": "I'm not familiar ___ this software yet.",
+      "answers": [
+        "with"
+      ],
+      "uk": "Я ще не знайомий із цією програмою.",
+      "why": {
+        "en": "Familiar with (знайомий з).",
+        "uk": "Familiar with (знайомий з)."
+      }
+    },
+    {
+      "text": "She's very good ___ spreadsheets.",
+      "answers": [
+        "at"
+      ],
+      "uk": "Вона дуже добре розуміється на електронних таблицях.",
+      "why": {
+        "en": "Good at (вправний у чомусь).",
+        "uk": "Good at (вправний у чомусь)."
+      }
+    },
+    {
+      "text": "Are you interested ___ a full-time position?",
+      "answers": [
+        "in"
+      ],
+      "uk": "Вас цікавить посада на повний робочий день?",
+      "why": {
+        "en": "Interested in (зацікавлений у).",
+        "uk": "Interested in (зацікавлений у)."
+      }
+    },
+    {
+      "text": "The manager was pleased ___ the quarterly results.",
+      "answers": [
+        "with"
+      ],
+      "uk": "Менеджер був задоволений квартальними результатами.",
+      "why": {
+        "en": "Pleased with (задоволений чимось).",
+        "uk": "Pleased with (задоволений чимось)."
+      }
+    },
+    {
+      "text": "We're aware ___ the problem and are working on it.",
+      "answers": [
+        "of"
+      ],
+      "uk": "Ми знаємо про проблему й працюємо над нею.",
+      "why": {
+        "en": "Aware of (обізнаний про).",
+        "uk": "Aware of (обізнаний про)."
+      }
+    },
+    {
+      "text": "Employees are entitled ___ two weeks of paid vacation.",
+      "answers": [
+        "to"
+      ],
+      "uk": "Працівники мають право на два тижні оплачуваної відпустки.",
+      "why": {
+        "en": "Entitled to (мати право на).",
+        "uk": "Entitled to (мати право на)."
+      }
+    },
+    {
+      "text": "All prices are subject ___ change without notice.",
+      "answers": [
+        "to"
+      ],
+      "uk": "Усі ціни можуть змінюватися без попередження.",
+      "why": {
+        "en": "Subject to = may be affected by.",
+        "uk": "Subject to = може зазнавати чогось, залежить від."
+      }
+    },
+    {
+      "text": "I'm a bit worried ___ the audit next week.",
+      "answers": [
+        "about"
+      ],
+      "uk": "Я трохи хвилююся через аудит наступного тижня.",
+      "why": {
+        "en": "Worried about (стурбований чимось).",
+        "uk": "Worried about (стурбований чимось)."
+      }
+    },
+    {
+      "text": "Is she capable ___ running payroll on her own?",
+      "answers": [
+        "of"
+      ],
+      "uk": "Чи здатна вона сама вести нарахування зарплати?",
+      "why": {
+        "en": "Capable of + -ing (здатний на).",
+        "uk": "Capable of + -ing (здатний на)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "title": {
+    "en": "Present perfect continuous: mixed with other tenses",
+    "uk": "Present perfect continuous: разом з іншими часами"
+  },
+  "focus": {
+    "en": "Present perfect continuous (have been doing) for an activity that started in the past and is still going on or has just stopped, stressing how long or its visible effects. Present perfect simple (have done) for completed results and how much or how many. State verbs (know, be, own…) stay simple.",
+    "uk": "Present perfect continuous (have been doing) — для дії, що почалася в минулому й триває досі або щойно скінчилася, коли важлива тривалість чи помітні наслідки. Present perfect simple (have done) — для завершеного результату й «скільки». Дієслова стану (know, be, own…) лишаються в простій формі."
+  },
+  "exercises": [
+    {
+      "text": "Mei ___ (prepare) tax returns since February, and she ___ (file) forty so far.",
+      "answers": [
+        "has been preparing",
+        "has filed"
+      ],
+      "uk": "Мей готує податкові декларації з лютого й поки що подала сорок.",
+      "why": {
+        "en": "Since February, an ongoing activity (continuous); forty so far, a result (simple).",
+        "uk": "Since February — дія триває (continuous); forty so far — результат (simple)."
+      }
+    },
+    {
+      "text": "When I ___ (start) here, we ___ (not have) a document management system.",
+      "answers": [
+        "started",
+        "did not have"
+      ],
+      "uk": "Коли я почав тут працювати, у нас не було системи електронного документообігу.",
+      "why": {
+        "en": "When I started is a finished time: past simple for both.",
+        "uk": "When I started — завершений час: past simple для обох."
+      }
+    },
+    {
+      "text": "I ___ (try) to log in for twenty minutes. I think my password ___ (expire).",
+      "answers": [
+        "have been trying",
+        "has expired"
+      ],
+      "uk": "Я вже двадцять хвилин намагаюся увійти. Здається, мій пароль закінчився.",
+      "why": {
+        "en": "For twenty minutes, still trying (continuous); the expiry is a present result (simple).",
+        "uk": "For twenty minutes і досі намагаюся (continuous); пароль закінчився — результат зараз (simple)."
+      }
+    },
+    {
+      "text": "How long ___ you ___ (wait)? — Not long, about five minutes.",
+      "answers": [
+        "have",
+        "been waiting"
+      ],
+      "uk": "Як довго ви чекаєте? — Недовго, хвилин п'ять.",
+      "why": {
+        "en": "How long + an activity up to now: present perfect continuous.",
+        "uk": "How long + дія аж до тепер: present perfect continuous."
+      }
+    },
+    {
+      "text": "Our accountant ___ (deal) with the CRA about this since last spring.",
+      "answers": [
+        "has been dealing"
+      ],
+      "uk": "Наш бухгалтер займається цим питанням із CRA ще з минулої весни.",
+      "why": {
+        "en": "Since last spring, an ongoing activity: present perfect continuous.",
+        "uk": "Since last spring, дія триває: present perfect continuous."
+      }
+    },
+    {
+      "text": "It ___ (snow) all night, so many people are working from home today.",
+      "answers": [
+        "has been snowing"
+      ],
+      "uk": "Цілу ніч падав сніг, тож багато хто сьогодні працює з дому.",
+      "why": {
+        "en": "All night, with a present effect: present perfect continuous.",
+        "uk": "All night, з наслідком зараз: present perfect continuous."
+      }
+    },
+    {
+      "text": "We ___ (receive) your payment yesterday — thank you!",
+      "answers": [
+        "received"
+      ],
+      "uk": "Ми отримали ваш платіж учора — дякуємо!",
+      "why": {
+        "en": "Yesterday is a finished time: past simple.",
+        "uk": "Yesterday — завершений час: past simple."
+      }
+    },
+    {
+      "text": "I ___ (not sleep) well lately because of the deadline.",
+      "answers": [
+        "have not been sleeping"
+      ],
+      "uk": "Останнім часом я погано сплю через дедлайн.",
+      "why": {
+        "en": "Lately, a recent ongoing situation: present perfect continuous.",
+        "uk": "Lately — недавня ситуація, що триває: present perfect continuous."
+      }
+    },
+    {
+      "text": "This printer ___ (make) a strange noise for days. ___ anyone ___ (report) it?",
+      "answers": [
+        "has been making",
+        "has",
+        "reported"
+      ],
+      "uk": "Цей принтер уже кілька днів дивно шумить. Хтось повідомив про це?",
+      "why": {
+        "en": "For days, still going on (continuous); reporting is a single completed action (simple).",
+        "uk": "For days, досі триває (continuous); повідомити — одна завершена дія (simple)."
+      }
+    },
+    {
+      "text": "I ___ (save) for a new laptop for months, and I finally ___ (buy) one last week.",
+      "answers": [
+        "have been saving",
+        "bought"
+      ],
+      "uk": "Я місяцями відкладав на новий ноутбук і нарешті купив його минулого тижня.",
+      "why": {
+        "en": "For months up to now (continuous); last week is a finished time (past simple).",
+        "uk": "For months аж до тепер (continuous); last week — завершений час (past simple)."
+      }
+    }
+  ]
+}

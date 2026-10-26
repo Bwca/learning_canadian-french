@@ -1,0 +1,129 @@
+{
+  "title": {
+    "en": "Tenses review: mixed 1",
+    "uk": "Повторення часів: мікс 1"
+  },
+  "focus": {
+    "en": "All the tenses together. Look for the time signals: now, every, since, for, ago, yet, by, when, while.",
+    "uk": "Усі часи разом. Шукайте маркери часу: now, every, since, for, ago, yet, by, when, while."
+  },
+  "exercises": [
+    {
+      "text": "I ___ (work) in accounts payable since 2019, but before that I ___ (be) a receptionist.",
+      "answers": [
+        [
+          "have worked",
+          "have been working"
+        ],
+        "was"
+      ],
+      "uk": "Я працюю з кредиторською заборгованістю з 2019 року, а до того була адміністраторкою на рецепції.",
+      "why": {
+        "en": "Since 2019, still true: present perfect; before that is finished: past simple.",
+        "uk": "Since 2019, і досі: present perfect; before that — завершене минуле: past simple."
+      }
+    },
+    {
+      "text": "Every Friday, Grace ___ (send) the weekly cash report to the controller.",
+      "answers": [
+        "sends"
+      ],
+      "uk": "Щоп'ятниці Грейс надсилає тижневий звіт про грошові кошти контролеру.",
+      "why": {
+        "en": "A routine (every Friday): present simple.",
+        "uk": "Розпорядок (every Friday): present simple."
+      }
+    },
+    {
+      "text": "Sorry, I can't talk now — I ___ (drive).",
+      "answers": [
+        "am driving"
+      ],
+      "uk": "Вибачте, не можу зараз говорити — я за кермом.",
+      "why": {
+        "en": "Happening now: present continuous.",
+        "uk": "Відбувається зараз: present continuous."
+      }
+    },
+    {
+      "text": "When the auditor ___ (ask) for the receipts, we ___ (already / throw) them away.",
+      "answers": [
+        "asked",
+        "had already thrown"
+      ],
+      "uk": "Коли аудитор попросив квитанції, ми їх уже викинули.",
+      "why": {
+        "en": "The throwing away came before the asking: past perfect.",
+        "uk": "Викинули раніше, ніж аудитор попросив: past perfect."
+      }
+    },
+    {
+      "text": "Don't worry about the coffee order — I ___ (do) it right now.",
+      "answers": [
+        "will do"
+      ],
+      "uk": "Не переймайтеся замовленням кави — я зроблю це просто зараз.",
+      "why": {
+        "en": "A decision and offer made on the spot: will.",
+        "uk": "Рішення й пропозиція тут і зараз: will."
+      }
+    },
+    {
+      "text": "___ you ___ (finish) the minutes from yesterday's meeting yet?",
+      "answers": [
+        "have",
+        "finished"
+      ],
+      "uk": "Ви вже закінчили протокол учорашньої наради?",
+      "why": {
+        "en": "Yet in a question: present perfect.",
+        "uk": "Yet у питанні: present perfect."
+      }
+    },
+    {
+      "text": "While I ___ (check) the timesheets, I ___ (notice) two errors.",
+      "answers": [
+        "was checking",
+        "noticed"
+      ],
+      "uk": "Перевіряючи табелі, я помітив дві помилки.",
+      "why": {
+        "en": "While + action in progress (past continuous); a short event (past simple).",
+        "uk": "While + дія в процесі (past continuous); коротка подія (past simple)."
+      }
+    },
+    {
+      "text": "By next Friday, we ___ (process) all the year-end adjustments.",
+      "answers": [
+        "will have processed"
+      ],
+      "uk": "До наступної п'ятниці ми проведемо всі коригування на кінець року.",
+      "why": {
+        "en": "By + a future time: future perfect.",
+        "uk": "By + час у майбутньому: future perfect."
+      }
+    },
+    {
+      "text": "The supplier ___ (not reply) to any of my emails since last month.",
+      "answers": [
+        "has not replied"
+      ],
+      "uk": "Постачальник не відповів на жоден мій лист з минулого місяця.",
+      "why": {
+        "en": "Since last month, up to now: present perfect.",
+        "uk": "Since last month, аж до тепер: present perfect."
+      }
+    },
+    {
+      "text": "Our fiscal year ___ (begin) on April 1.",
+      "answers": [
+        "begins"
+      ],
+      "uk": "Наш фінансовий рік починається 1 квітня.",
+      "why": {
+        "en": "A fixed fact or timetable: present simple.",
+        "uk": "Сталий факт чи розклад: present simple."
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+filing	ведення документів (картотека)
+to file	підшити (покласти в папку)
+filing cabinet	картотечна шафа
+file folder	папка для документів
+hanging folder	підвісна папка
+tab	розділювач (закладка)
+alphabetical order	алфавітний порядок
+chronological order	хронологічний порядок
+numerical order	числовий порядок
+to sort	сортувати
+to label	позначити (підписати)
+records management	діловодство (управління документацією)
+record retention	зберігання документів
+retention period	строк зберігання
+archive	архів
+to archive	архівувати
+to retrieve	знайти й дістати (документ)
+to misplace	загубити (покласти не на місце)
+original	оригінал
+copy	копія
+certified copy	засвідчена копія
+hard copy	паперова копія
+soft copy	електронна копія
+to scan	сканувати
+to digitize	оцифрувати
+document management system	система електронного документообігу
+folder structure	структура папок
+naming convention	правила іменування файлів
+version control	контроль версій
+the latest version	остання версія
+index	покажчик (реєстр)
+database	база даних
+data entry	введення даних
+to update a record	оновити запис
+to look up	знайти (інформацію)
+confidential records	конфіденційні документи
+personal information	персональні дані
+privacy	конфіденційність (захист приватності)
+access rights	права доступу
+to destroy	знищити
+secure shredding	безпечне знищення документів
+logbook	журнал обліку
+inventory list	опис (перелік)
+form	бланк (форма)
+to fill out a form	заповнити бланк
+signature	підпис
+to sign off on	затвердити (підписати)
+stamp	печатка (штамп)
+duplicate	дублікат
+backlog	накопичені невиконані завдання

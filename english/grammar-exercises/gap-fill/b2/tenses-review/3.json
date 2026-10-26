@@ -1,0 +1,133 @@
+{
+  "title": {
+    "en": "Tenses review: mixed 3",
+    "uk": "Повторення часів: мікс 3"
+  },
+  "focus": {
+    "en": "All the tenses together, including future continuous and the present simple after time words like before and when.",
+    "uk": "Усі часи разом, зокрема future continuous і present simple після слів часу на кшталт before і when."
+  },
+  "exercises": [
+    {
+      "text": "I ___ (wait) for you for half an hour! Where ___ you ___ (be)?",
+      "answers": [
+        "have been waiting",
+        "have",
+        "been"
+      ],
+      "uk": "Я чекаю на вас уже пів години! Де ви були?",
+      "why": {
+        "en": "For half an hour up to now (continuous); where have you been asks about the period up to now.",
+        "uk": "For half an hour аж до тепер (continuous); where have you been питає про період аж до тепер."
+      }
+    },
+    {
+      "text": "The meeting ___ (start) at nine, so please ___ (not be) late.",
+      "answers": [
+        "starts",
+        "do not be"
+      ],
+      "uk": "Нарада починається о дев'ятій, тож, будь ласка, не запізнюйтеся.",
+      "why": {
+        "en": "A timetable (present simple); a negative instruction: don't + base form, even with be.",
+        "uk": "Розклад (present simple); заперечне прохання: don't + початкова форма, навіть із be."
+      }
+    },
+    {
+      "text": "Last year we ___ (hire) six people; this year we ___ (hire) only two so far.",
+      "answers": [
+        "hired",
+        "have hired"
+      ],
+      "uk": "Торік ми найняли шістьох людей; цього року поки що лише двох.",
+      "why": {
+        "en": "Last year is finished (past simple); this year … so far isn't (present perfect).",
+        "uk": "Last year завершився (past simple); this year … so far — ні (present perfect)."
+      }
+    },
+    {
+      "text": "I'll give you the keys before I ___ (go) on leave.",
+      "answers": [
+        "go"
+      ],
+      "uk": "Я віддам вам ключі, перш ніж піду у відпустку.",
+      "why": {
+        "en": "After before, for the future: present simple.",
+        "uk": "Після before про майбутнє — present simple."
+      }
+    },
+    {
+      "text": "When the fire alarm went off, everyone ___ (leave) the building calmly.",
+      "answers": [
+        "left"
+      ],
+      "uk": "Коли спрацювала пожежна сигналізація, усі спокійно вийшли з будівлі.",
+      "why": {
+        "en": "A reaction straight after a past event: past simple.",
+        "uk": "Реакція одразу після події в минулому: past simple."
+      }
+    },
+    {
+      "text": "She ___ (already / leave) by the time I ___ (get) back from lunch.",
+      "answers": [
+        "had already left",
+        "got"
+      ],
+      "uk": "Коли я повернувся з обіду, вона вже пішла.",
+      "why": {
+        "en": "The earlier action: past perfect; by the time + past simple.",
+        "uk": "Раніша дія — past perfect; by the time + past simple."
+      }
+    },
+    {
+      "text": "Our sales ___ (increase) steadily, and we expect this trend to continue.",
+      "answers": [
+        [
+          "are increasing",
+          "have been increasing"
+        ]
+      ],
+      "uk": "Наші продажі стабільно зростають, і ми очікуємо, що ця тенденція триватиме.",
+      "why": {
+        "en": "A trend in progress: present continuous (or present perfect continuous).",
+        "uk": "Тенденція, що триває: present continuous (або present perfect continuous)."
+      }
+    },
+    {
+      "text": "This time next week, I ___ (lie) on a beach in Cuba.",
+      "answers": [
+        "will be lying"
+      ],
+      "uk": "Наступного тижня в цей час я лежатиму на пляжі на Кубі.",
+      "why": {
+        "en": "In progress at a future moment: future continuous.",
+        "uk": "Дія триватиме в момент у майбутньому: future continuous."
+      }
+    },
+    {
+      "text": "How long ___ you ___ (have) your driver's licence?",
+      "answers": [
+        "have",
+        "had"
+      ],
+      "uk": "Як давно у вас водійське посвідчення?",
+      "why": {
+        "en": "How long + have (possession, a state): present perfect simple.",
+        "uk": "How long + have (володіння, стан): present perfect simple."
+      }
+    },
+    {
+      "text": "I ___ (think) of taking an Excel course. ___ you ___ (know) a good one?",
+      "answers": [
+        "am thinking",
+        "do",
+        "know"
+      ],
+      "uk": "Я думаю пройти курс Excel. Ви знаєте якийсь хороший?",
+      "why": {
+        "en": "Think of = consider, an activity (continuous); know is a state (present simple).",
+        "uk": "Think of = обмірковувати, дія (continuous); know — стан (present simple)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "title": {
+    "en": "Prepositions of time: by, until, for, since, during, within",
+    "uk": "Прийменники часу: by, until, for, since, during, within"
+  },
+  "focus": {
+    "en": "By = no later than (a deadline); until = all the time up to a point. For + a length of time; since + a starting point. During + a noun (an event or period); within = inside a period, not later than its end.",
+    "uk": "By = не пізніше ніж (кінцевий термін); until = увесь час аж до певного моменту. For + тривалість; since + початкова точка. During + іменник (подія чи період); within = у межах періоду, не пізніше його кінця."
+  },
+  "exercises": [
+    {
+      "text": "Please submit your timesheet ___ Friday at the latest.",
+      "answers": [
+        "by"
+      ],
+      "uk": "Будь ласка, подайте табель не пізніше п'ятниці.",
+      "why": {
+        "en": "A deadline (no later than): by.",
+        "uk": "Кінцевий термін (не пізніше ніж): by."
+      }
+    },
+    {
+      "text": "The office will stay closed ___ January 2, when we reopen at 9 a.m.",
+      "answers": [
+        "until"
+      ],
+      "uk": "Офіс буде зачинено до 2 січня, коли ми знову відчинимося о 9:00.",
+      "why": {
+        "en": "A situation continuing up to a point: until.",
+        "uk": "Ситуація триває аж до певного моменту: until."
+      }
+    },
+    {
+      "text": "I've worked here ___ 2019.",
+      "answers": [
+        "since"
+      ],
+      "uk": "Я працюю тут із 2019 року.",
+      "why": {
+        "en": "Since + a starting point.",
+        "uk": "Since + початкова точка."
+      }
+    },
+    {
+      "text": "I've worked here ___ six years.",
+      "answers": [
+        "for"
+      ],
+      "uk": "Я працюю тут шість років.",
+      "why": {
+        "en": "For + a length of time.",
+        "uk": "For + тривалість."
+      }
+    },
+    {
+      "text": "Phones must be switched off ___ the exam.",
+      "answers": [
+        "during"
+      ],
+      "uk": "Під час іспиту телефони мають бути вимкнені.",
+      "why": {
+        "en": "During + an event: while it is going on.",
+        "uk": "During + подія: поки вона триває."
+      }
+    },
+    {
+      "text": "We aim to answer all emails ___ 24 hours.",
+      "answers": [
+        "within"
+      ],
+      "uk": "Ми прагнемо відповідати на всі листи протягом 24 годин.",
+      "why": {
+        "en": "Within = inside that period, no later than its end.",
+        "uk": "Within = у межах цього періоду, не пізніше його кінця."
+      }
+    },
+    {
+      "text": "Someone's phone rang three times ___ the presentation.",
+      "answers": [
+        "during"
+      ],
+      "uk": "Під час презентації в когось тричі дзвонив телефон.",
+      "why": {
+        "en": "During + a noun for when something happened. For would need a length of time.",
+        "uk": "During + іменник — коли щось сталося. For вимагав би тривалості."
+      }
+    },
+    {
+      "text": "Can you hold on ___ I finish this call?",
+      "answers": [
+        "until"
+      ],
+      "uk": "Можете зачекати, поки я закінчу цю розмову?",
+      "why": {
+        "en": "Until can also join a clause: up to the moment when.",
+        "uk": "Until може вводити й підрядне речення: аж до моменту, коли."
+      }
+    },
+    {
+      "text": "The invoice must be paid ___ 30 days of receipt.",
+      "answers": [
+        "within"
+      ],
+      "uk": "Рахунок-фактуру треба оплатити протягом 30 днів із дня отримання.",
+      "why": {
+        "en": "Within … of = inside the period counted from that point.",
+        "uk": "Within … of = у межах періоду, відрахованого від цього моменту."
+      }
+    },
+    {
+      "text": "We haven't had a day off ___ the audit started.",
+      "answers": [
+        "since"
+      ],
+      "uk": "Відтоді як почався аудит, у нас не було жодного вихідного.",
+      "why": {
+        "en": "Since can also join a clause, giving the starting point.",
+        "uk": "Since може вводити й підрядне речення, що називає початкову точку."
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": {
+    "en": "Prepositional phrases at work 1",
+    "uk": "Сталі фрази з прийменниками на роботі 1"
+  },
+  "focus": {
+    "en": "Fixed phrases where the preposition can't be guessed: in charge of, on behalf of, by mistake, out of stock, on schedule, in confidence, in dollars, upon receipt, by credit card, on average.",
+    "uk": "Сталі фрази, у яких прийменник не вгадаєш: in charge of, on behalf of, by mistake, out of stock, on schedule, in confidence, in dollars, upon receipt, by credit card, on average."
+  },
+  "exercises": [
+    {
+      "text": "Who's ___ charge of the petty cash?",
+      "answers": [
+        "in"
+      ],
+      "uk": "Хто відповідає за дрібну касу?",
+      "why": {
+        "en": "In charge of = responsible for.",
+        "uk": "In charge of = відповідальний за."
+      }
+    },
+    {
+      "text": "I'm writing ___ behalf of Ms. Tremblay.",
+      "answers": [
+        "on"
+      ],
+      "uk": "Пишу від імені пані Трамбле.",
+      "why": {
+        "en": "On behalf of = representing someone.",
+        "uk": "On behalf of = від імені когось."
+      }
+    },
+    {
+      "text": "Sorry, I deleted the file ___ mistake.",
+      "answers": [
+        "by"
+      ],
+      "uk": "Вибачте, я випадково видалив файл.",
+      "why": {
+        "en": "By mistake (помилково); also by accident.",
+        "uk": "By mistake (помилково); також by accident."
+      }
+    },
+    {
+      "text": "This model is currently ___ of stock.",
+      "answers": [
+        "out"
+      ],
+      "uk": "Цієї моделі зараз немає в наявності.",
+      "why": {
+        "en": "Out of stock = none available; in stock = available.",
+        "uk": "Out of stock = немає в наявності; in stock = є."
+      }
+    },
+    {
+      "text": "The project is ___ schedule and under budget.",
+      "answers": [
+        "on"
+      ],
+      "uk": "Проєкт іде за графіком і не перевищує бюджет.",
+      "why": {
+        "en": "On schedule = as planned; ahead of or behind schedule.",
+        "uk": "On schedule = за планом; ahead of або behind schedule — раніше чи з відставанням."
+      }
+    },
+    {
+      "text": "Please treat this information ___ confidence.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Будь ласка, сприймайте цю інформацію як конфіденційну.",
+      "why": {
+        "en": "In confidence = privately, not to be shared.",
+        "uk": "In confidence = конфіденційно, не для поширення."
+      }
+    },
+    {
+      "text": "All prices are ___ Canadian dollars.",
+      "answers": [
+        "in"
+      ],
+      "uk": "Усі ціни вказано в канадських доларах.",
+      "why": {
+        "en": "In + a currency.",
+        "uk": "In + валюта."
+      }
+    },
+    {
+      "text": "Payment is due ___ receipt of the invoice.",
+      "answers": [
+        [
+          "upon",
+          "on"
+        ]
+      ],
+      "uk": "Оплата здійснюється після отримання рахунку-фактури.",
+      "why": {
+        "en": "Upon (or on) receipt = as soon as it's received.",
+        "uk": "Upon (або on) receipt = щойно отримано."
+      }
+    },
+    {
+      "text": "Can I pay ___ credit card?",
+      "answers": [
+        "by"
+      ],
+      "uk": "Можна заплатити кредитною карткою?",
+      "why": {
+        "en": "By card, by cheque, by e-Transfer; but in cash.",
+        "uk": "By card, by cheque, by e-Transfer; але in cash."
+      }
+    },
+    {
+      "text": "___ average, we process 200 invoices a week.",
+      "answers": [
+        "on"
+      ],
+      "uk": "У середньому ми обробляємо 200 рахунків-фактур на тиждень.",
+      "why": {
+        "en": "On average (у середньому).",
+        "uk": "On average (у середньому)."
+      }
+    }
+  ]
+}

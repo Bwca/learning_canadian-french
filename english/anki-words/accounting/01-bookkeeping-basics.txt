@@ -1,0 +1,50 @@
+accounting	бухгалтерський облік
+bookkeeping	ведення бухгалтерських записів
+bookkeeper	рахівник (бухгалтер-обліковець)
+accountant	бухгалтер
+Chartered Professional Accountant (CPA)	дипломований професійний бухгалтер (CPA)
+double-entry bookkeeping	подвійний запис
+debit	дебет
+credit	кредит
+account	рахунок (в обліку)
+chart of accounts	план рахунків
+general ledger	головна книга
+subsidiary ledger	допоміжна книга (аналітичний облік)
+general journal	загальний журнал
+journal entry	бухгалтерська проводка
+to post (to the ledger)	рознести (в головну книгу)
+trial balance	оборотно-сальдова відомість (пробний баланс)
+balance	сальдо (залишок на рахунку)
+opening balance	сальдо на початок періоду
+closing balance	сальдо на кінець періоду
+normal balance	звичайне сальдо рахунку
+T-account	Т-подібний рахунок
+source document	первинний документ
+receipt	квитанція (касовий чек)
+voucher	підтвердний документ (ваучер)
+accounting equation	основне бухгалтерське рівняння
+asset	актив
+liability	зобов'язання
+equity	власний капітал
+owner's equity	капітал власника
+revenue	дохід (виручка)
+expense	витрата
+net income	чистий прибуток
+net loss	чистий збиток
+drawings	вилучення коштів власником
+accounting period	звітний період
+fiscal year	фінансовий рік
+accrual basis	метод нарахування
+cash basis	касовий метод
+accrual	нарахування
+deferral	відстрочення (доходів чи витрат)
+prepaid expense	витрати майбутніх періодів
+unearned revenue	доходи майбутніх періодів
+adjusting entry	коригувальна проводка
+closing entry	закривальна проводка
+reversing entry	сторнувальна проводка
+contra account	контррахунок (регулювальний рахунок)
+audit trail	аудиторський слід (історія змін)
+matching principle	принцип відповідності доходів і витрат
+revenue recognition	визнання доходу
+GAAP (generally accepted accounting principles)	загальноприйняті принципи бухгалтерського обліку (GAAP)

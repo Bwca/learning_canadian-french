@@ -1,5 +1,5 @@
 // Builds a manifest.json for each language on the GitHub Pages site: lists every
-// vocab list, translation-drill set and reading exercise so the browser tools can
+// vocab list, translation-drill set, gap-fill set and reading exercise so the browser tools can
 // offer them in a picker (Pages has no directory listing). A language is any
 // top-level folder with an index.html, except ones starting with "." or "_" (like
 // the _site output itself). Run from the repo root:
@@ -49,6 +49,7 @@ function buildManifest(langDir) {
     return {
         vocab,
         drills: levelledJson("grammar-exercises/translation-drills"),
+        gapfill: levelledJson("grammar-exercises/gap-fill"),
         reading: levelledJson("reading-exercises"),
     };
 }
@@ -59,5 +60,5 @@ for (const lang of languages) {
     const manifest = buildManifest(lang);
     fs.mkdirSync(path.join(outDir, lang), { recursive: true });
     fs.writeFileSync(path.join(outDir, lang, "manifest.json"), JSON.stringify(manifest, null, 2));
-    console.log(`${lang}/manifest.json: ${manifest.vocab.length} vocab groups, ${manifest.drills.length} drill topics, ${manifest.reading.length} reading topics`);
+    console.log(`${lang}/manifest.json: ${manifest.vocab.length} vocab groups, ${manifest.drills.length} drill topics, ${manifest.gapfill.length} gap-fill topics, ${manifest.reading.length} reading topics`);
 }
