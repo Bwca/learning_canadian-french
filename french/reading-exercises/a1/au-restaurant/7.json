@@ -1,0 +1,145 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 7: list 04, the table and likes)",
+    "uk": "Au restaurant — лексика ресторану (набір 7: список 04, стіл і вподобання)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Cuillère » is [kɥijɛʁ]: the ll is a [j]. « Fourchette » is [fuʁʃɛt] and « couteau » [kuto]. « Assiette » is [asjɛt], with a hard double s. « Serviette » here is a napkin, not a towel only. « Préféré » has three closed é sounds: [pʁefeʁe], but « je préfère » has an open è: [pʁefɛʁ]. « Je n'aime pas » often loses its « ne » in speech: « j'aime pas ».",
+    "uk": "« Cuillère » — [kɥijɛʁ]: ll звучить як [j]. « Fourchette » — [fuʁʃɛt], « couteau » — [kuto]. « Assiette » — [asjɛt], подвійне s тверде. « Serviette » тут — серветка, а не лише рушник. У « préféré » три закриті é: [pʁefeʁe], а в « je préfère » — відкрите è: [pʁefɛʁ]. У розмові « je n'aime pas » часто втрачає « ne »: « j'aime pas »."
+  },
+  "sentences": [
+    {
+      "fr": "Samedi, Oleh fait un souper chez lui, et Chantal l'aide à mettre la table.",
+      "uk": "У суботу Олег влаштовує вечерю вдома, і Шанталь допомагає йому накрити на стіл.",
+      "en": "On Saturday, Oleh has people over for supper, and Chantal helps him set the table."
+    },
+    {
+      "fr": "Elle met une assiette, une fourchette, un couteau et une cuillère pour chaque personne.",
+      "uk": "Вона ставить кожному тарілку, кладе виделку, ніж і ложку.",
+      "en": "She puts out a plate, a fork, a knife and a spoon for each person."
+    },
+    {
+      "fr": "Il ajoute une serviette et un verre pour l'eau.",
+      "uk": "Він додає серветку й склянку для води.",
+      "en": "He adds a napkin and a glass for water."
+    },
+    {
+      "fr": "« Et pour le café, il faut une tasse », dit Chantal.",
+      "uk": "« А для кави потрібна чашка », — каже Шанталь.",
+      "en": "“And for the coffee, you need a cup,” says Chantal."
+    },
+    {
+      "fr": "Pendant le repas, tout le monde parle de ce qu'il aime.",
+      "uk": "За вечерею всі розповідають, що їм подобається.",
+      "en": "During the meal, everyone talks about what they like."
+    },
+    {
+      "fr": "« Moi, j'adore le poulet », dit Chantal. « J'aime le poisson, mais je n'aime pas tellement le saumon. »",
+      "uk": "« Я обожнюю курку », — каже Шанталь. « Рибу люблю, але лосося не дуже. »",
+      "en": "“I love chicken,” says Chantal. “I like fish, but I don't like salmon that much.”"
+    },
+    {
+      "fr": "Son mari Luc dit : « Moi, je déteste les champignons! »",
+      "uk": "Її чоловік Люк каже: « А я ненавиджу гриби! »",
+      "en": "Her husband Luc says: “I hate mushrooms!”"
+    },
+    {
+      "fr": "Oleh sourit : « Aimer ou détester, c'est une question de goût. »",
+      "uk": "Олег усміхається: « Любити чи ненавидіти — справа смаку. »",
+      "en": "Oleh smiles: “Liking or hating, it's a matter of taste.”"
+    },
+    {
+      "fr": "« Et toi, Oleh, qu'est-ce que tu préfères? »",
+      "uk": "« А ти, Олеже, чому віддаєш перевагу? »",
+      "en": "“And you, Oleh, what do you prefer?”"
+    },
+    {
+      "fr": "« Je préfère les varenyky de ma mère : c'est mon plat préféré! »",
+      "uk": "« Мамині вареники: це моя улюблена страва! »",
+      "en": "“I prefer my mother's varenyky: that's my favourite dish!”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "mettre la table",
+      "en": "to set the table",
+      "uk": "накривати на стіл"
+    },
+    {
+      "fr": "un verre",
+      "en": "a glass",
+      "uk": "склянка, келих"
+    },
+    {
+      "fr": "une tasse",
+      "en": "a cup",
+      "uk": "чашка"
+    },
+    {
+      "fr": "une assiette",
+      "en": "a plate",
+      "uk": "тарілка"
+    },
+    {
+      "fr": "une cuillère",
+      "en": "a spoon",
+      "uk": "ложка"
+    },
+    {
+      "fr": "une fourchette",
+      "en": "a fork",
+      "uk": "виделка"
+    },
+    {
+      "fr": "un couteau",
+      "en": "a knife",
+      "uk": "ніж"
+    },
+    {
+      "fr": "une serviette",
+      "en": "a napkin",
+      "uk": "серветка"
+    },
+    {
+      "fr": "préféré",
+      "en": "favourite",
+      "uk": "улюблений"
+    },
+    {
+      "fr": "j'adore…",
+      "en": "I love…",
+      "uk": "я обожнюю…"
+    },
+    {
+      "fr": "j'aime…",
+      "en": "I like…",
+      "uk": "я люблю…"
+    },
+    {
+      "fr": "je n'aime pas tellement…",
+      "en": "I don't like … that much",
+      "uk": "я не дуже люблю…"
+    },
+    {
+      "fr": "je déteste…",
+      "en": "I hate…",
+      "uk": "я ненавиджу…"
+    },
+    {
+      "fr": "aimer",
+      "en": "to like, to love",
+      "uk": "любити"
+    },
+    {
+      "fr": "préférer",
+      "en": "to prefer",
+      "uk": "віддавати перевагу"
+    },
+    {
+      "fr": "détester",
+      "en": "to hate",
+      "uk": "ненавидіти"
+    }
+  ]
+}

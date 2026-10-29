@@ -1,0 +1,180 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 12: list 07, the Québec menu)",
+    "uk": "Au restaurant — лексика ресторану (набір 12: список 07, квебекське меню)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Hambourgeois » is [ɑ̃buʁʒwa], a Québec menu word you'll rarely hear in speech, where « hamburger » wins. « Fèves au lard » is [fɛv o laʁ], silent d. « Poutine » is [putin], though many Quebecers say [putsin], with the Québec [ts] before i. « Rôties » is [ʁoti]. « Sirop d'érable » is [siʁo deʁabl], silent p. « Gratinée » is [ɡʁatine]. « Niçoise » [niswaz] and « provençale » [pʁɔvɑ̃sal] keep their cedilla [s].",
+    "uk": "« Hambourgeois » — [ɑ̃buʁʒwa], квебекське слово з меню; у розмові його майже не чути, кажуть « hamburger ». « Fèves au lard » — [fɛv o laʁ], d німе. « Poutine » — [putin], хоча багато квебекців кажуть [putsin], із квебекським [ts] перед i. « Rôties » — [ʁoti]. « Sirop d'érable » — [siʁo deʁabl], p німе. « Gratinée » — [ɡʁatine]. « Niçoise » [niswaz] і « provençale » [pʁɔvɑ̃sal] зберігають [s] від седилі."
+  },
+  "sentences": [
+    {
+      "fr": "À Québec, Emma et son père déjeunent au restaurant l'Omelette.",
+      "uk": "У місті Квебек Емма з батьком снідають у ресторані «l'Omelette».",
+      "en": "In Québec City, Emma and her father have breakfast at the restaurant l'Omelette."
+    },
+    {
+      "fr": "Sur le menu, les omelettes sont la spécialité de la maison.",
+      "uk": "У меню омлети — фірмова страва закладу.",
+      "en": "On the menu, omelettes are the house specialty."
+    },
+    {
+      "fr": "Il y a une omelette western, une omelette jambon et fromage et une omelette espagnole.",
+      "uk": "Є омлет «вестерн», омлет із шинкою та сиром та іспанський омлет.",
+      "en": "There's a western omelette, a ham and cheese omelette and a Spanish omelette."
+    },
+    {
+      "fr": "« Une omelette lyonnaise, c'est avec des oignons, et une omelette niçoise, avec des tomates et des artichauts », explique papa.",
+      "uk": "« Ліонський омлет — із цибулею, а нісуаз — із помідорами й артишоками », — пояснює тато.",
+      "en": "“A lyonnaise omelette is with onions, and a niçoise omelette with tomatoes and artichokes,” dad explains."
+    },
+    {
+      "fr": "« Une omelette paysanne a des lardons et des pommes de terre, et une omelette provençale, de l'ail et du persil. »",
+      "uk": "« У селянському омлеті — шматочки бекону й картопля, а в провансальському — часник і петрушка. »",
+      "en": "“A country omelette has bacon bits and potatoes, and a provençale omelette has garlic and parsley.”"
+    },
+    {
+      "fr": "Mais Emma préfère un déjeuner traditionnel : des fèves au lard avec des rôties et du sirop d'érable.",
+      "uk": "Але Емма хоче традиційний сніданок: квасолю з салом, тости й кленовий сироп.",
+      "en": "But Emma prefers a traditional breakfast: pork and beans with toast and maple syrup."
+    },
+    {
+      "fr": "À midi, ils reviennent pour la table d'hôte : une entrée, un plat principal et un dessert.",
+      "uk": "Опівдні вони повертаються по комплексне меню: закуска, основна страва й десерт.",
+      "en": "At noon, they come back for the set menu: an appetizer, a main course and a dessert."
+    },
+    {
+      "fr": "Comme entrée, Emma prend la soupe aux pois, et papa la soupe à l'oignon gratinée.",
+      "uk": "На закуску Емма бере гороховий суп, а тато — цибулевий суп, запечений із сиром.",
+      "en": "As an appetizer, Emma has the pea soup, and dad the French onion soup."
+    },
+    {
+      "fr": "Papa hésite aussi entre la salade maison et la salade César.",
+      "uk": "Тато ще вагається між фірмовим салатом і салатом «Цезар».",
+      "en": "Dad also can't decide between the house salad and the Caesar salad."
+    },
+    {
+      "fr": "Comme plat principal, Emma choisit un hambourgeois : « C'est un hamburger, en français du Québec! »",
+      "uk": "Як основну страву Емма обирає hambourgeois: « Це гамбургер квебекською французькою! »",
+      "en": "For the main course, Emma picks a hambourgeois: “It's a hamburger, in Québec French!”"
+    },
+    {
+      "fr": "Papa prend le hambourgeois deluxe, avec une petite poutine à côté.",
+      "uk": "Тато бере гамбургер «делюкс» і маленьку порцію путіну.",
+      "en": "Dad has the deluxe hamburger, with a small poutine on the side."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le menu",
+      "en": "the menu",
+      "uk": "меню"
+    },
+    {
+      "fr": "la spécialité",
+      "en": "the specialty",
+      "uk": "фірмова страва"
+    },
+    {
+      "fr": "l'entrée (f.)",
+      "en": "the appetizer, the starter (not the main course)",
+      "uk": "закуска, перша страва (не основна)"
+    },
+    {
+      "fr": "le plat principal",
+      "en": "the main course",
+      "uk": "основна страва"
+    },
+    {
+      "fr": "la table d'hôte",
+      "en": "the set menu (Québec)",
+      "uk": "комплексне меню (у Квебеку)"
+    },
+    {
+      "fr": "un hambourgeois",
+      "en": "a hamburger (Québec, mostly on menus)",
+      "uk": "гамбургер (у Квебеку, переважно в меню)"
+    },
+    {
+      "fr": "une omelette western",
+      "en": "a western omelette (ham, potatoes, onions)",
+      "uk": "омлет «вестерн» (шинка, картопля, цибуля)"
+    },
+    {
+      "fr": "la soupe aux pois",
+      "en": "pea soup (Québec)",
+      "uk": "гороховий суп (у Квебеку)"
+    },
+    {
+      "fr": "la soupe à l'oignon gratinée",
+      "en": "French onion soup",
+      "uk": "цибулевий суп, запечений із сиром"
+    },
+    {
+      "fr": "la salade maison",
+      "en": "the house salad",
+      "uk": "фірмовий салат"
+    },
+    {
+      "fr": "la salade César",
+      "en": "Caesar salad",
+      "uk": "салат «Цезар»"
+    },
+    {
+      "fr": "la poutine",
+      "en": "poutine (fries, cheese curds and gravy)",
+      "uk": "путін (картопля фрі із сиром і підливою)"
+    },
+    {
+      "fr": "les fèves au lard (f.)",
+      "en": "pork and beans",
+      "uk": "квасоля з салом"
+    },
+    {
+      "fr": "les rôties (f.)",
+      "en": "toast (Québec)",
+      "uk": "тости (у Квебеку)"
+    },
+    {
+      "fr": "le sirop d'érable",
+      "en": "maple syrup",
+      "uk": "кленовий сироп"
+    },
+    {
+      "fr": "une omelette jambon et fromage",
+      "en": "a ham and cheese omelette",
+      "uk": "омлет із шинкою та сиром"
+    },
+    {
+      "fr": "une omelette espagnole",
+      "en": "a Spanish omelette (tomatoes, peppers, onions)",
+      "uk": "іспанський омлет (помідори, перець, цибуля)"
+    },
+    {
+      "fr": "une omelette lyonnaise",
+      "en": "an omelette with onions",
+      "uk": "омлет із цибулею"
+    },
+    {
+      "fr": "une omelette niçoise",
+      "en": "an omelette with tomatoes and artichoke hearts",
+      "uk": "омлет із помідорами й артишоками"
+    },
+    {
+      "fr": "une omelette paysanne",
+      "en": "a country omelette (bacon, potatoes, onions, herbs)",
+      "uk": "селянський омлет (бекон, картопля, цибуля, зелень)"
+    },
+    {
+      "fr": "une omelette provençale",
+      "en": "an omelette with tomatoes, garlic and parsley",
+      "uk": "провансальський омлет (помідори, часник, петрушка)"
+    },
+    {
+      "fr": "le hambourgeois deluxe",
+      "en": "a deluxe hamburger with all the fixings (Québec)",
+      "uk": "гамбургер «делюкс» з усіма додатками (у Квебеку)"
+    }
+  ]
+}

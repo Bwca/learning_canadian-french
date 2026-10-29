@@ -1,0 +1,170 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 1: list 01, ordering at the café)",
+    "uk": "Au restaurant — лексика ресторану (набір 1: список 01, замовляємо в кафе)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Faim » is the nasal [fɛ̃] and « soif » ends in a heard [f]: [swaf]. « Je voudrais » is [ʒə vudʁɛ], with the final s silent. « Serveur » and « serveuse » differ only by the end: [sɛʁvœʁ], [sɛʁvøz]. « Vous désirez » links: [vu deziʁe], with the s of « désirez » as a [z]. « S'il vous plaît » goes to « s'il te plaît » [sil tə plɛ] with friends.",
+    "uk": "« Faim » — носове [fɛ̃], а « soif » закінчується чутним [f]: [swaf]. « Je voudrais » — [ʒə vudʁɛ], кінцеве s німе. « Serveur » і « serveuse » відрізняються лише закінченням: [sɛʁvœʁ], [sɛʁvøz]. У « vous désirez » s у « désirez » звучить як [z]: [vu deziʁe]. З друзями « s'il vous plaît » змінюється на « s'il te plaît » [sil tə plɛ]."
+  },
+  "sentences": [
+    {
+      "fr": "Après l'école, Hugo demande à Amélie : « Tu as faim? »",
+      "uk": "Після школи Юго питає Амелі: « Ти голодна? »",
+      "en": "After school, Hugo asks Amélie: “Are you hungry?”"
+    },
+    {
+      "fr": "« Oui, j'ai faim. Et toi, tu as soif? » « Oh oui, j'ai soif! »",
+      "uk": "« Так, я голодна. А ти хочеш пити? » « О так, хочу пити! »",
+      "en": "“Yes, I'm hungry. And you, are you thirsty?” “Oh yes, I'm thirsty!”"
+    },
+    {
+      "fr": "« On va dans un café? Je t'invite. »",
+      "uk": "« Ходімо в кафе? Я пригощаю. »",
+      "en": "“Shall we go to a café? It's my treat.”"
+    },
+    {
+      "fr": "Au café, le serveur arrive : « Bonjour! Vous désirez? »",
+      "uk": "У кафе підходить офіціант: « Добрий день! Що бажаєте? »",
+      "en": "At the café, the waiter comes over: “Hello! What would you like?”"
+    },
+    {
+      "fr": "Hugo : « La carte, s'il vous plaît. » « Voilà! »",
+      "uk": "Юго: « Меню, будь ласка. » « Прошу! »",
+      "en": "Hugo: “The menu, please.” “Here you go!”"
+    },
+    {
+      "fr": "Hugo demande à Amélie : « Qu'est-ce que tu veux? Tu veux une crêpe? »",
+      "uk": "Юго питає Амелі: « Що ти хочеш? Хочеш млинець? »",
+      "en": "Hugo asks Amélie: “What do you want? Do you want a crepe?”"
+    },
+    {
+      "fr": "« Non, je voudrais un croissant. »",
+      "uk": "« Ні, я б хотіла круасан. »",
+      "en": "“No, I'd like a croissant.”"
+    },
+    {
+      "fr": "Hugo commande : « Donnez-moi un croissant et une crêpe, s'il vous plaît. »",
+      "uk": "Юго замовляє: « Дайте мені круасан і млинець, будь ласка. »",
+      "en": "Hugo orders: “Give me a croissant and a crepe, please.”"
+    },
+    {
+      "fr": "Le serveur : « Et comme boisson? »",
+      "uk": "Офіціант: « А з напоїв? »",
+      "en": "The waiter: “And to drink?”"
+    },
+    {
+      "fr": "Amélie : « Un jus d'orange. » Le serveur se tourne vers Hugo : « Et pour vous? » « Un chocolat chaud. »",
+      "uk": "Амелі: « Апельсиновий сік. » Офіціант повертається до Юго: « А вам? » « Гарячий шоколад. »",
+      "en": "Amélie: “An orange juice.” The waiter turns to Hugo: “And for you?” “A hot chocolate.”"
+    },
+    {
+      "fr": "Amélie veut voir les desserts : « Donne-moi la carte, s'il te plaît. »",
+      "uk": "Амелі хоче подивитися десерти: « Дай мені меню, будь ласка. »",
+      "en": "Amélie wants to see the desserts: “Give me the menu, please.”"
+    },
+    {
+      "fr": "Une serveuse arrive avec les boissons : « Le chocolat chaud, c'est pour vous? » « Oui, c'est pour moi. »",
+      "uk": "Офіціантка приносить напої: « Гарячий шоколад — вам? » « Так, це мені. »",
+      "en": "A waitress arrives with the drinks: “Is the hot chocolate for you?” “Yes, it's for me.”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "tu as faim ?",
+      "en": "are you hungry? (informal)",
+      "uk": "ти голодний?"
+    },
+    {
+      "fr": "j'ai faim",
+      "en": "I'm hungry",
+      "uk": "я голодний"
+    },
+    {
+      "fr": "tu as soif ?",
+      "en": "are you thirsty? (informal)",
+      "uk": "хочеш пити?"
+    },
+    {
+      "fr": "j'ai soif",
+      "en": "I'm thirsty",
+      "uk": "я хочу пити"
+    },
+    {
+      "fr": "tu veux… ?",
+      "en": "do you want…? (informal)",
+      "uk": "хочеш…?"
+    },
+    {
+      "fr": "qu'est-ce que tu veux ?",
+      "en": "what do you want? (informal)",
+      "uk": "що ти хочеш?"
+    },
+    {
+      "fr": "je voudrais…",
+      "en": "I would like…",
+      "uk": "я хотів би…"
+    },
+    {
+      "fr": "donne-moi…, s'il te plaît",
+      "en": "give me…, please (informal)",
+      "uk": "дай мені…, будь ласка"
+    },
+    {
+      "fr": "donnez-moi…, s'il vous plaît",
+      "en": "give me…, please (formal)",
+      "uk": "дайте мені…, будь ласка"
+    },
+    {
+      "fr": "voilà",
+      "en": "here you go",
+      "uk": "ось, прошу"
+    },
+    {
+      "fr": "on va dans un café ?",
+      "en": "shall we go to a café?",
+      "uk": "ходімо в кафе?"
+    },
+    {
+      "fr": "je t'invite",
+      "en": "it's my treat (informal)",
+      "uk": "я пригощаю"
+    },
+    {
+      "fr": "le serveur / la serveuse",
+      "en": "waiter / waitress",
+      "uk": "офіціант / офіціантка"
+    },
+    {
+      "fr": "commander",
+      "en": "to order",
+      "uk": "замовляти"
+    },
+    {
+      "fr": "vous désirez ?",
+      "en": "what would you like? / may I help you?",
+      "uk": "що бажаєте?"
+    },
+    {
+      "fr": "et pour vous ?",
+      "en": "and for you?",
+      "uk": "а вам?"
+    },
+    {
+      "fr": "c'est pour moi",
+      "en": "it's for me",
+      "uk": "це мені"
+    },
+    {
+      "fr": "et comme boisson ?",
+      "en": "and to drink?",
+      "uk": "а з напоїв?"
+    },
+    {
+      "fr": "la carte, s'il vous plaît",
+      "en": "the menu, please",
+      "uk": "меню, будь ласка"
+    }
+  ]
+}

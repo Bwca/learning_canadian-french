@@ -1,0 +1,175 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 9: list 05, breakfast and ingredients)",
+    "uk": "Au restaurant — лексика ресторану (набір 9: список 05, сніданок та інгредієнти)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Œuf » is [œf], but « des œufs » is [de z‿ø]: the f goes silent in the plural. « Ail » is [aj], like the English « eye ». « Persil » is usually [pɛʁsi], silent l. « Poivre » [pwavʁ] and « poivron » [pwavʁɔ̃] look alike but mean pepper (the spice) and bell pepper. « Sel » is [sɛl], « sucre » [sykʁ]. « Ingrédients » starts with the nasal [ɛ̃].",
+    "uk": "« Œuf » — [œf], але « des œufs » — [de z‿ø]: у множині f не вимовляється. « Ail » — [aj], як англійське « eye ». « Persil » зазвичай [pɛʁsi], l німе. « Poivre » [pwavʁ] і « poivron » [pwavʁɔ̃] схожі, але це перець-приправа й солодкий перець. « Sel » — [sɛl], « sucre » — [sykʁ]. « Ingrédients » починається з носового [ɛ̃]."
+  },
+  "sentences": [
+    {
+      "fr": "Le matin, chez les Bouchard, il y a du pain, du beurre et de la confiture sur la table.",
+      "uk": "Уранці в Бушарів на столі хліб, масло й варення.",
+      "en": "In the morning, at the Bouchards', there's bread, butter and jam on the table."
+    },
+    {
+      "fr": "Les enfants mangent des céréales; papa préfère une tartine.",
+      "uk": "Діти їдять пластівці, а тато — скибку хліба з маслом.",
+      "en": "The kids eat cereal; dad prefers a slice of bread with butter."
+    },
+    {
+      "fr": "Grand-papa met de la margarine, pas de beurre.",
+      "uk": "Дідусь намазує маргарин, а не масло.",
+      "en": "Grandpa uses margarine, not butter."
+    },
+    {
+      "fr": "Maman fait des œufs sur le plat, avec du sel et du poivre.",
+      "uk": "Мама смажить яєчню з сіллю й перцем.",
+      "en": "Mom makes fried eggs, with salt and pepper."
+    },
+    {
+      "fr": "Léo met du ketchup sur ses œufs. « Beurk! » dit sa sœur.",
+      "uk": "Лео поливає яйця кетчупом. « Фу! » — каже його сестра.",
+      "en": "Léo puts ketchup on his eggs. “Yuck!” says his sister."
+    },
+    {
+      "fr": "Le samedi, ils achètent une baguette à la boulangerie.",
+      "uk": "По суботах вони купують багет у пекарні.",
+      "en": "On Saturdays, they buy a baguette at the bakery."
+    },
+    {
+      "fr": "À midi, on fait des sandwichs avec de la mayonnaise et de la moutarde.",
+      "uk": "Опівдні роблять сендвічі з майонезом і гірчицею.",
+      "en": "At noon, they make sandwiches with mayonnaise and mustard."
+    },
+    {
+      "fr": "Pour le souper, papa prépare une omelette. Il prend les ingrédients : un œuf, puis cinq autres, des lardons, de l'ail, du persil et un poivron.",
+      "uk": "На вечерю тато готує омлет. Він бере інгредієнти: яйце, потім ще п'ять, шматочки бекону, часник, петрушку й солодкий перець.",
+      "en": "For supper, dad makes an omelette. He gets the ingredients: an egg, then five more, bacon bits, garlic, parsley and a bell pepper."
+    },
+    {
+      "fr": "Sa fille préfère une pizza avec des fonds d'artichauts et des tomates pelées.",
+      "uk": "Його донька хоче піцу з артишоками й очищеними помідорами.",
+      "en": "His daughter prefers a pizza with artichoke hearts and peeled tomatoes."
+    },
+    {
+      "fr": "Après le repas, maman met du sucre dans son café.",
+      "uk": "Після їжі мама кладе цукор у каву.",
+      "en": "After the meal, mom puts sugar in her coffee."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le pain",
+      "en": "bread",
+      "uk": "хліб"
+    },
+    {
+      "fr": "les céréales (f.)",
+      "en": "cereal",
+      "uk": "пластівці"
+    },
+    {
+      "fr": "la confiture",
+      "en": "jam",
+      "uk": "варення, джем"
+    },
+    {
+      "fr": "un œuf",
+      "en": "an egg",
+      "uk": "яйце"
+    },
+    {
+      "fr": "des œufs sur le plat",
+      "en": "fried eggs",
+      "uk": "яєчня"
+    },
+    {
+      "fr": "le beurre",
+      "en": "butter",
+      "uk": "вершкове масло"
+    },
+    {
+      "fr": "la margarine",
+      "en": "margarine",
+      "uk": "маргарин"
+    },
+    {
+      "fr": "le sel",
+      "en": "salt",
+      "uk": "сіль"
+    },
+    {
+      "fr": "le sucre",
+      "en": "sugar",
+      "uk": "цукор"
+    },
+    {
+      "fr": "le poivre",
+      "en": "pepper",
+      "uk": "перець (приправа)"
+    },
+    {
+      "fr": "le ketchup",
+      "en": "ketchup",
+      "uk": "кетчуп"
+    },
+    {
+      "fr": "la mayonnaise",
+      "en": "mayonnaise",
+      "uk": "майонез"
+    },
+    {
+      "fr": "la moutarde",
+      "en": "mustard",
+      "uk": "гірчиця"
+    },
+    {
+      "fr": "la baguette",
+      "en": "a baguette (long French loaf)",
+      "uk": "багет"
+    },
+    {
+      "fr": "une tartine",
+      "en": "a slice of bread with butter or jam",
+      "uk": "скибка хліба з маслом чи варенням"
+    },
+    {
+      "fr": "les ingrédients (m.)",
+      "en": "the ingredients",
+      "uk": "інгредієнти"
+    },
+    {
+      "fr": "l'ail (m.)",
+      "en": "garlic",
+      "uk": "часник"
+    },
+    {
+      "fr": "le persil",
+      "en": "parsley",
+      "uk": "петрушка"
+    },
+    {
+      "fr": "un poivron",
+      "en": "a bell pepper (Québec: also un piment)",
+      "uk": "солодкий перець (у Квебеку також un piment)"
+    },
+    {
+      "fr": "les lardons (m.)",
+      "en": "bacon bits",
+      "uk": "шматочки бекону"
+    },
+    {
+      "fr": "les fonds d'artichauts (m.)",
+      "en": "artichoke hearts",
+      "uk": "серцевини артишоків"
+    },
+    {
+      "fr": "des tomates pelées (f.)",
+      "en": "peeled tomatoes",
+      "uk": "очищені помідори"
+    }
+  ]
+}

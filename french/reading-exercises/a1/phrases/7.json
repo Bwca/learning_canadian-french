@@ -1,0 +1,200 @@
+{
+  "title": {
+    "en": "Phrases — useful phrases (set 7: il y a, there is, there was, ago)",
+    "uk": "Phrases — корисні фрази (набір 7: il y a — є, було, тому)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Il y a » runs together as [il ja], and in casual speech, especially in Québec, it shrinks to « y a » [ja]: « y a pas de problème ». « Il y avait » is [il javɛ], « il y aura » [il joʁa]. In « il n'y a pas », the n links straight on: [il nja pa]. « Dix ans » is [di z‿ɑ̃], with the x said as a [z], while « dix » alone is [dis]. « Deux heures » links the same way: [dø z‿œʁ].",
+    "uk": "« Il y a » вимовляють злито — [il ja], а в розмовному мовленні, особливо в Квебеку, воно скорочується до « y a » [ja]: « y a pas de problème ». « Il y avait » — [il javɛ], « il y aura » — [il joʁa]. В « il n'y a pas » n одразу зливається: [il nja pa]. « Dix ans » — [di z‿ɑ̃], x звучить як [z], а окремо « dix » — [dis]. « Deux heures » зливається так само: [dø z‿œʁ]."
+  },
+  "sentences": [
+    {
+      "fr": "Dimanche, toute la famille soupe chez grand-maman. Léo met la table.",
+      "uk": "У неділю вся родина вечеряє в бабусі. Лео накриває на стіл.",
+      "en": "On Sunday, the whole family has supper at grandma's. Léo sets the table."
+    },
+    {
+      "fr": "« Il y a une assiette sur la table, mais il n'y a pas de fourchettes sur la table! »",
+      "uk": "« На столі є тарілка, але на столі немає виделок! »",
+      "en": "“There's a plate on the table, but there are no forks on the table!”"
+    },
+    {
+      "fr": "Il revient : « Voilà, maintenant il y a des fourchettes sur la table. »",
+      "uk": "Він повертається: « Ось, тепер на столі є виделки. »",
+      "en": "He comes back: “There, now there are forks on the table.”"
+    },
+    {
+      "fr": "« Et pour moi? Il n'y a pas d'assiette sur la table! » dit grand-papa.",
+      "uk": "« А мені? На столі немає тарілки! » — каже дідусь.",
+      "en": "“And for me? There's no plate on the table!” says grandpa."
+    },
+    {
+      "fr": "Grand-maman regarde Léo : « Qu'est-ce qu'il y a? Tu as l'air triste. »",
+      "uk": "Бабуся дивиться на Лео: « Що сталося? Ти якийсь сумний. »",
+      "en": "Grandma looks at Léo: “What's wrong? You look sad.”"
+    },
+    {
+      "fr": "« Il y a trente élèves dans la classe, et je ne connais personne. »",
+      "uk": "« У класі тридцять учнів, а я нікого не знаю. »",
+      "en": "“There are thirty students in the class, and I don't know anyone.”"
+    },
+    {
+      "fr": "« Quand j'étais jeune, il y avait toujours du monde à la fête du village. C'est là que je me suis fait des amis. »",
+      "uk": "« Коли я була молодою, на сільському святі завжди було повно людей. Саме там я знайшла друзів. »",
+      "en": "“When I was young, there were always lots of people at the village fair. That's where I made friends.”"
+    },
+    {
+      "fr": "Papa lit le journal : « Il y a eu de nombreuses manifestations l'année dernière. »",
+      "uk": "Тато читає газету: « Минулого року було багато демонстрацій. »",
+      "en": "Dad reads the newspaper: “There were many demonstrations last year.”"
+    },
+    {
+      "fr": "Dehors, il y a du soleil, mais il y a du vent. Ce matin, il y a du brouillard sur le lac.",
+      "uk": "Надворі сонячно, але вітряно. Сьогодні вранці над озером туман.",
+      "en": "Outside, it's sunny, but it's windy. This morning, it's foggy on the lake."
+    },
+    {
+      "fr": "À la radio : « Il y aura du vent demain matin, mais il n'y aura pas de vent demain soir. »",
+      "uk": "По радіо: « Завтра вранці буде вітряно, але завтра ввечері вітру не буде. »",
+      "en": "On the radio: “It will be windy tomorrow morning, but it won't be windy tomorrow evening.”"
+    },
+    {
+      "fr": "Papa : « Je peux conduire grand-maman au marché. J'ai appris à conduire il y a dix ans, tu sais! »",
+      "uk": "Тато: « Я можу відвезти бабусю на ринок. Я навчився водити десять років тому, знаєш! »",
+      "en": "Dad: “I can drive grandma to the market. I learned to drive ten years ago, you know!”"
+    },
+    {
+      "fr": "Maman : « Au fait, nous avons rencontré Tom au parc il y a deux heures. »",
+      "uk": "Мама: « До речі, ми зустріли Тома в парку дві години тому. »",
+      "en": "Mom: “By the way, we met Tom in the park two hours ago.”"
+    },
+    {
+      "fr": "Grand-maman : « Et Sophie? Il y a longtemps que je n'ai pas eu de nouvelles de Sophie. »",
+      "uk": "Бабуся: « А Софі? Я вже давно нічого не чула від Софі. »",
+      "en": "Grandma: “And Sophie? I haven't heard from Sophie in a long time.”"
+    },
+    {
+      "fr": "Léo : « Je peux l'appeler? » « Oui, y a pas de problème! »",
+      "uk": "Лео: « Можна я їй подзвоню? » « Так, без проблем! »",
+      "en": "Léo: “Can I call her?” “Yes, no problem!”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "il y a…",
+      "en": "there is… / there are… (Québec speech: y a…)",
+      "uk": "є… / знаходиться… (у квебекському мовленні: y a…)"
+    },
+    {
+      "fr": "il y a une assiette sur la table",
+      "en": "there's a plate on the table",
+      "uk": "на столі стоїть тарілка"
+    },
+    {
+      "fr": "il y a des fourchettes sur la table",
+      "en": "there are forks on the table",
+      "uk": "на столі лежать виделки"
+    },
+    {
+      "fr": "il y a trente élèves dans la classe",
+      "en": "there are thirty students in the classroom",
+      "uk": "у класі тридцять учнів"
+    },
+    {
+      "fr": "qu'est-ce qu'il y a ?",
+      "en": "what's wrong? / what's the matter?",
+      "uk": "що сталося? / у чому річ?"
+    },
+    {
+      "fr": "il y a eu…",
+      "en": "there was… / there have been…",
+      "uk": "був… / було… (сталося)"
+    },
+    {
+      "fr": "il y a eu de nombreuses manifestations l'année dernière",
+      "en": "there were many demonstrations last year",
+      "uk": "торік було багато демонстрацій"
+    },
+    {
+      "fr": "il y avait…",
+      "en": "there was… / there were… (ongoing, or used to be)",
+      "uk": "був… / були… (тривало або бувало раніше)"
+    },
+    {
+      "fr": "il y avait toujours du monde à la fête du village",
+      "en": "there were always lots of people at the village fair",
+      "uk": "на сільському святі завжди було багато людей"
+    },
+    {
+      "fr": "il y aura…",
+      "en": "there will be…",
+      "uk": "буде…"
+    },
+    {
+      "fr": "il y aura du vent demain",
+      "en": "it will be windy tomorrow",
+      "uk": "завтра буде вітряно"
+    },
+    {
+      "fr": "il y a du vent",
+      "en": "it's windy",
+      "uk": "вітряно"
+    },
+    {
+      "fr": "il y a du soleil",
+      "en": "it's sunny",
+      "uk": "сонячно"
+    },
+    {
+      "fr": "il y a du brouillard",
+      "en": "it's foggy",
+      "uk": "туманно"
+    },
+    {
+      "fr": "il n'y a pas de…",
+      "en": "there isn't any… / there aren't any…",
+      "uk": "немає…"
+    },
+    {
+      "fr": "il n'y a pas d'assiette sur la table",
+      "en": "there's no plate on the table",
+      "uk": "на столі немає тарілки"
+    },
+    {
+      "fr": "il n'y a pas de fourchettes sur la table",
+      "en": "there are no forks on the table",
+      "uk": "на столі немає виделок"
+    },
+    {
+      "fr": "il n'y aura pas de vent demain",
+      "en": "it won't be windy tomorrow",
+      "uk": "завтра не буде вітру"
+    },
+    {
+      "fr": "y a pas de problème",
+      "en": "no problem (colloquial, il and ne dropped)",
+      "uk": "нема проблем (розмовне, без il і ne)"
+    },
+    {
+      "fr": "il y a dix ans",
+      "en": "ten years ago",
+      "uk": "десять років тому"
+    },
+    {
+      "fr": "j'ai appris à conduire il y a dix ans",
+      "en": "I learned to drive ten years ago",
+      "uk": "я навчився (навчилася) водити десять років тому"
+    },
+    {
+      "fr": "nous avons rencontré Tom au parc il y a deux heures",
+      "en": "we met Tom in the park two hours ago",
+      "uk": "ми зустріли Тома в парку дві години тому"
+    },
+    {
+      "fr": "il y a longtemps que je n'ai pas eu de nouvelles de Sophie",
+      "en": "I haven't heard from Sophie in a long time",
+      "uk": "я давно нічого не чув (не чула) про Софі"
+    }
+  ]
+}

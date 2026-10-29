@@ -1,0 +1,140 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 10: list 06, at the market)",
+    "uk": "Au restaurant — лексика ресторану (набір 10: список 06, на ринку)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Marché » is [maʁʃe], « acheter » [aʃte], with the middle e dropped. « Légumes » is [leɡym]. « Oignon » is said [ɔɲɔ̃], as if spelled « ognon » (and the 1990 spelling reform allows that). « Pomme de terre » is [pɔm də tɛʁ]; Québec says « patate ». « Coûtent » ends silently: [kut], since -ent is not said on verbs. « Kilo » is [kilo].",
+    "uk": "« Marché » — [maʁʃe], « acheter » — [aʃte], середнє e випадає. « Légumes » — [leɡym]. « Oignon » вимовляють [ɔɲɔ̃], ніби пишеться « ognon » (реформа правопису 1990 року це дозволяє). « Pomme de terre » — [pɔm də tɛʁ]; у Квебеку кажуть « patate ». « Coûtent » закінчується беззвучно: [kut], бо дієслівне -ent не вимовляється. « Kilo » — [kilo]."
+  },
+  "sentences": [
+    {
+      "fr": "Samedi matin, Nadia dit à son coloc : « Je vais au marché. »",
+      "uk": "У суботу вранці Надя каже сусідці по квартирі: « Я йду на ринок. »",
+      "en": "On Saturday morning, Nadia tells her roommate: “I'm going to the market.”"
+    },
+    {
+      "fr": "« Tu vas faire les courses? Au Québec, on dit faire l'épicerie! »",
+      "uk": "« Ти йдеш по продукти? У Квебеку кажуть faire l'épicerie! »",
+      "en": "“You're going grocery shopping? In Québec, we say faire l'épicerie!”"
+    },
+    {
+      "fr": "« Oui. Qu'est-ce que tu veux manger cette semaine? » « Des fruits et des légumes! »",
+      "uk": "« Так. Що ти хочеш їсти цього тижня? » « Фрукти й овочі! »",
+      "en": "“Yes. What do you want to eat this week?” “Fruit and vegetables!”"
+    },
+    {
+      "fr": "Au marché Jean-Talon, Nadia veut acheter des tomates, des pommes de terre et des oignons.",
+      "uk": "На ринку Жан-Талон Надя хоче купити помідори, картоплю й цибулю.",
+      "en": "At the Jean-Talon market, Nadia wants to buy tomatoes, potatoes and onions."
+    },
+    {
+      "fr": "Pour la route, elle prend une banane et une orange.",
+      "uk": "У дорогу вона бере банан і апельсин.",
+      "en": "For the way, she gets a banana and an orange."
+    },
+    {
+      "fr": "« Pardon, madame, combien coûtent les pommes? »",
+      "uk": "« Перепрошую, пані, скільки коштують яблука? »",
+      "en": "“Excuse me, ma'am, how much are the apples?”"
+    },
+    {
+      "fr": "« Elles coûtent deux dollars le kilo. Goûtez une pomme! »",
+      "uk": "« Вони коштують два долари за кілограм. Скуштуйте яблуко! »",
+      "en": "“They cost two dollars a kilo. Try an apple!”"
+    },
+    {
+      "fr": "« Mmm! Alors, deux kilos de pommes, s'il vous plaît. »",
+      "uk": "« М-м! Тоді два кілограми яблук, будь ласка. »",
+      "en": "“Mmm! So, two kilos of apples, please.”"
+    },
+    {
+      "fr": "Elle rentre avec un gros sac : on peut faire une soupe à la tomate et une tarte aux pommes!",
+      "uk": "Вона повертається з великою торбою: можна зварити томатний суп і спекти яблучний пиріг!",
+      "en": "She comes home with a big bag: they can make a tomato soup and an apple pie!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le marché",
+      "en": "the market",
+      "uk": "ринок"
+    },
+    {
+      "fr": "faire les courses",
+      "en": "to go grocery shopping (Québec: faire l'épicerie)",
+      "uk": "ходити по продукти (у Квебеку: faire l'épicerie)"
+    },
+    {
+      "fr": "je vais au marché",
+      "en": "I'm going to the market",
+      "uk": "я йду на ринок"
+    },
+    {
+      "fr": "acheter",
+      "en": "to buy",
+      "uk": "купувати"
+    },
+    {
+      "fr": "les fruits (m.)",
+      "en": "fruit",
+      "uk": "фрукти"
+    },
+    {
+      "fr": "les légumes (m.)",
+      "en": "vegetables",
+      "uk": "овочі"
+    },
+    {
+      "fr": "une pomme",
+      "en": "an apple",
+      "uk": "яблуко"
+    },
+    {
+      "fr": "une orange",
+      "en": "an orange",
+      "uk": "апельсин"
+    },
+    {
+      "fr": "une banane",
+      "en": "a banana",
+      "uk": "банан"
+    },
+    {
+      "fr": "une tomate",
+      "en": "a tomato",
+      "uk": "помідор"
+    },
+    {
+      "fr": "une pomme de terre",
+      "en": "a potato (Québec: une patate)",
+      "uk": "картоплина (у Квебеку: une patate)"
+    },
+    {
+      "fr": "un oignon",
+      "en": "an onion",
+      "uk": "цибулина"
+    },
+    {
+      "fr": "combien coûtent les pommes ?",
+      "en": "how much are the apples?",
+      "uk": "скільки коштують яблука?"
+    },
+    {
+      "fr": "elles coûtent deux dollars le kilo",
+      "en": "they cost two dollars a kilo",
+      "uk": "вони коштують два долари за кілограм"
+    },
+    {
+      "fr": "deux kilos de pommes",
+      "en": "two kilos of apples",
+      "uk": "два кілограми яблук"
+    },
+    {
+      "fr": "qu'est-ce que tu veux manger ?",
+      "en": "what do you want to eat? (informal)",
+      "uk": "що ти хочеш їсти?"
+    }
+  ]
+}

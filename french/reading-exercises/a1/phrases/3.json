@@ -1,0 +1,165 @@
+{
+  "title": {
+    "en": "Phrases — useful phrases (set 3: greetings, goodbyes and good wishes)",
+    "uk": "Phrases — корисні фрази (набір 3: вітання, прощання й побажання)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "In « au revoir » the e is usually dropped: [o ʁvwaʁ]. « À tout à l'heure » links its t: [a tu t‿a lœʁ], and the h of « heure » is silent. « Bonne » is [bɔn] with a full [n], unlike the nasal [bɔ̃] of « bon », but « bon après-midi » links: [bɔ̃ n‿apʁɛ midi]. « Bonne fin de semaine » is the Québec weekend wish (France says « bon week-end »).",
+    "uk": "У « au revoir » e зазвичай випадає: [o ʁvwaʁ]. У « à tout à l'heure » t зливається: [a tu t‿a lœʁ], а h у « heure » німе. « Bonne » — [bɔn] з повним [n], на відміну від носового [bɔ̃] у « bon », але « bon après-midi » вимовляють зі злиттям: [bɔ̃ n‿apʁɛ midi]. « Bonne fin de semaine » — квебекське побажання на вихідні (у Франції кажуть « bon week-end »)."
+  },
+  "sentences": [
+    {
+      "fr": "Il est onze heures, et la fête chez Julie finit.",
+      "uk": "Одинадцята година, і вечірка в Жулі закінчується.",
+      "en": "It's eleven o'clock, and the party at Julie's is ending."
+    },
+    {
+      "fr": "Oleh se lève : « Excusez-moi, je dois y aller. »",
+      "uk": "Олег підводиться: « Перепрошую, мені вже треба йти. »",
+      "en": "Oleh gets up: “Excuse me, I have to go.”"
+    },
+    {
+      "fr": "Il marche sur le pied d'un enfant : « Oh, pardon! Excuse-moi! »",
+      "uk": "Він наступає дитині на ногу: « Ой, вибач! Пробач! »",
+      "en": "He steps on a child's foot: “Oh, sorry! Excuse me!”"
+    },
+    {
+      "fr": "« Au revoir, Oleh! Bonne nuit! » dit Julie.",
+      "uk": "« До побачення, Олеже! На добраніч! » — каже Жулі.",
+      "en": "“Goodbye, Oleh! Good night!” says Julie."
+    },
+    {
+      "fr": "« Au revoir, madame! Merci, et bonne soirée! »",
+      "uk": "« До побачення, пані! Дякую, і гарного вечора! »",
+      "en": "“Goodbye, ma'am! Thank you, and have a good evening!”"
+    },
+    {
+      "fr": "Claire sort avec lui : « On se revoit bientôt? »",
+      "uk": "Клер виходить разом із ним: « Скоро побачимося? »",
+      "en": "Claire leaves with him: “See you again soon?”"
+    },
+    {
+      "fr": "« Oui, à demain au cours! À bientôt! »",
+      "uk": "« Так, до завтра на занятті! До зустрічі! »",
+      "en": "“Yes, see you tomorrow in class! See you soon!”"
+    },
+    {
+      "fr": "Marc téléphone à sa femme : « Je pars dans cinq minutes. À tout à l'heure! »",
+      "uk": "Марк телефонує дружині: « Виходжу за п'ять хвилин. До скорого! »",
+      "en": "Marc phones his wife: “I'm leaving in five minutes. See you in a bit!”"
+    },
+    {
+      "fr": "Dans l'autobus, Oleh écrit à Claire : « Merci pour la soirée. À plus tard! »",
+      "uk": "В автобусі Олег пише Клер: « Дякую за вечір. До зустрічі! »",
+      "en": "On the bus, Oleh texts Claire: “Thanks for the evening. See you later!”"
+    },
+    {
+      "fr": "Le lendemain, il arrive en retard au cours : « Pardonnez-moi, madame. »",
+      "uk": "Наступного дня він запізнюється на заняття: « Пробачте, пані. »",
+      "en": "The next day, he's late for class: “Forgive me, ma'am.”"
+    },
+    {
+      "fr": "Au café, la serveuse lui dit : « Bonne journée! » À midi, le chauffeur d'autobus lui dit : « Bon après-midi! »",
+      "uk": "У кафе офіціантка каже йому: « Гарного дня! » Опівдні водій автобуса каже: « Гарного пообіддя! »",
+      "en": "At the café, the waitress tells him: “Have a good day!” At noon, the bus driver tells him: “Have a good afternoon!”"
+    },
+    {
+      "fr": "Vendredi, Julie quitte l'école : « Bonne fin de semaine, tout le monde! À la prochaine! »",
+      "uk": "У п'ятницю Жулі йде зі школи: « Гарних вихідних усім! До наступного разу! »",
+      "en": "On Friday, Julie leaves the school: “Have a good weekend, everyone! Until next time!”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "excuse-moi",
+      "en": "excuse me (informal)",
+      "uk": "вибач"
+    },
+    {
+      "fr": "excusez-moi",
+      "en": "excuse me (formal)",
+      "uk": "вибачте"
+    },
+    {
+      "fr": "pardonne-moi / pardonnez-moi",
+      "en": "forgive me (informal / formal)",
+      "uk": "пробач / пробачте"
+    },
+    {
+      "fr": "pardon",
+      "en": "sorry / pardon?",
+      "uk": "перепрошую / даруйте?"
+    },
+    {
+      "fr": "au revoir",
+      "en": "goodbye",
+      "uk": "до побачення"
+    },
+    {
+      "fr": "au revoir, monsieur / au revoir, madame",
+      "en": "goodbye, sir / goodbye, ma'am",
+      "uk": "до побачення, пане / до побачення, пані"
+    },
+    {
+      "fr": "à bientôt",
+      "en": "see you soon",
+      "uk": "до скорої зустрічі"
+    },
+    {
+      "fr": "à tout à l'heure",
+      "en": "see you later (later today)",
+      "uk": "побачимося пізніше (сьогодні)"
+    },
+    {
+      "fr": "à plus tard",
+      "en": "see you later",
+      "uk": "до зустрічі"
+    },
+    {
+      "fr": "à demain",
+      "en": "see you tomorrow",
+      "uk": "до завтра"
+    },
+    {
+      "fr": "à la prochaine",
+      "en": "until next time",
+      "uk": "до наступного разу"
+    },
+    {
+      "fr": "on se revoit bientôt",
+      "en": "see you again soon",
+      "uk": "скоро побачимося знову"
+    },
+    {
+      "fr": "je dois y aller",
+      "en": "I have to go",
+      "uk": "мені треба йти"
+    },
+    {
+      "fr": "bonne journée",
+      "en": "have a good day",
+      "uk": "гарного дня"
+    },
+    {
+      "fr": "bon après-midi",
+      "en": "have a good afternoon",
+      "uk": "гарного пообіддя"
+    },
+    {
+      "fr": "bonne soirée",
+      "en": "have a good evening",
+      "uk": "гарного вечора"
+    },
+    {
+      "fr": "bonne nuit",
+      "en": "good night",
+      "uk": "на добраніч"
+    },
+    {
+      "fr": "bonne fin de semaine",
+      "en": "have a good weekend (Québec)",
+      "uk": "гарних вихідних (у Квебеку)"
+    }
+  ]
+}

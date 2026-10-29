@@ -1,0 +1,170 @@
+{
+  "title": {
+    "en": "Phrases — useful phrases (set 2: greetings, how are you?)",
+    "uk": "Phrases — корисні фрази (набір 2: вітання, як справи?)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Ça va » is [sa va]: the cedilla makes the c an [s]. In « comment allez-vous », the t links to the vowel: [kɔmɑ̃ t‿ale vu], but « comment ça va » has no linking. « Quoi de neuf » is [kwa d‿nœf], with the e of « de » usually dropped. In Québec « ça va pas mal » means things are pretty good, and « s'il vous plaît » often shrinks to [sjuplɛ] or [siouplaît] in fast speech.",
+    "uk": "« Ça va » — це [sa va]: седиль робить c звуком [s]. У « comment allez-vous » t зливається з голосним: [kɔmɑ̃ t‿ale vu], а в « comment ça va » злиття немає. « Quoi de neuf » — [kwa d‿nœf], e в « de » зазвичай випадає. У Квебеку « ça va pas mal » означає, що справи досить добре, а « s'il vous plaît » у швидкому мовленні часто скорочується до [sjuplɛ]."
+  },
+  "sentences": [
+    {
+      "fr": "Dans la rue, Sophie voit son ami Marc : « Salut, Marc! Ça fait longtemps! »",
+      "uk": "На вулиці Софі бачить свого друга Марка: « Привіт, Марку! Скільки років, скільки зим! »",
+      "en": "In the street, Sophie sees her friend Marc: “Hi, Marc! Long time no see!”"
+    },
+    {
+      "fr": "« Sophie! Comment ça va? »",
+      "uk": "« Софі! Як ся маєш? »",
+      "en": "“Sophie! How's it going?”"
+    },
+    {
+      "fr": "« Oui, ça va bien. Et toi? »",
+      "uk": "« Так, усе добре. А ти? »",
+      "en": "“Yes, I'm doing well. And you?”"
+    },
+    {
+      "fr": "« Ça va pas mal. Alors, quoi de neuf? Qu'est-ce que tu deviens? »",
+      "uk": "« Досить непогано. То що нового? Як ти взагалі? »",
+      "en": "“Pretty good. So, what's new? What are you up to these days?”"
+    },
+    {
+      "fr": "« Je travaille dans un café. Et toi, comment va la vie? »",
+      "uk": "« Я працюю в кафе. А в тебе як життя? »",
+      "en": "“I work in a café. And you, how's life?”"
+    },
+    {
+      "fr": "« Comme ci, comme ça. Mon chat est malade, alors ça va mal à la maison. »",
+      "uk": "« Так собі. Мій кіт захворів, тож удома не все гаразд. »",
+      "en": "“So-so. My cat is sick, so things aren't going well at home.”"
+    },
+    {
+      "fr": "Le père de Sophie arrive, et Marc dit : « Bonjour, monsieur Gagnon! Comment allez-vous? »",
+      "uk": "Підходить батько Софі, і Марк каже: « Добрий день, пане Ганьйон! Як ваші справи? »",
+      "en": "Sophie's father arrives, and Marc says: “Hello, Mr. Gagnon! How are you?”"
+    },
+    {
+      "fr": "« Ça va, merci. Et vous? »",
+      "uk": "« Добре, дякую. А ви? »",
+      "en": "“I'm fine, thanks. And you?”"
+    },
+    {
+      "fr": "« Moi, ça va bien, merci. »",
+      "uk": "« У мене все добре, дякую. »",
+      "en": "“I'm doing well, thank you.”"
+    },
+    {
+      "fr": "Puis Léo, le petit frère de Sophie, arrive en courant. « Salut, Léo! Comment vas-tu? Ça va? »",
+      "uk": "Потім прибігає Лео, молодший брат Софі. « Привіт, Лео! Як ти? Усе гаразд? »",
+      "en": "Then Léo, Sophie's little brother, comes running. “Hi, Léo! How are you? All good?”"
+    },
+    {
+      "fr": "« Ça va! Et toi, comment se passe ta journée? »",
+      "uk": "« Усе гаразд! А як минає твій день? »",
+      "en": "“All good! And you, how's your day going?”"
+    },
+    {
+      "fr": "Ils entrent tous dans un café. Marc dit au serveur : « Trois cafés, s'il vous plaît. »",
+      "uk": "Усі заходять у кафе. Марк каже офіціантові: « Три кави, будь ласка. »",
+      "en": "They all go into a café. Marc says to the waiter: “Three coffees, please.”"
+    },
+    {
+      "fr": "Léo tire la manche de Sophie : « Un chocolat chaud, s'il te plaît! »",
+      "uk": "Лео смикає Софі за рукав: « Гарячий шоколад, будь ласка! »",
+      "en": "Léo tugs at Sophie's sleeve: “A hot chocolate, please!”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "comment ça va ?",
+      "en": "how's it going?",
+      "uk": "як справи?"
+    },
+    {
+      "fr": "ça va ?",
+      "en": "how are you? / all good?",
+      "uk": "як ти? / усе гаразд?"
+    },
+    {
+      "fr": "comment allez-vous ?",
+      "en": "how are you? (formal, or to several people)",
+      "uk": "як ви поживаєте? (ввічливо або до кількох людей)"
+    },
+    {
+      "fr": "comment vas-tu ?",
+      "en": "how are you? (informal)",
+      "uk": "як ти поживаєш?"
+    },
+    {
+      "fr": "oui, ça va bien",
+      "en": "yes, I'm doing well",
+      "uk": "так, усе добре"
+    },
+    {
+      "fr": "ça va, merci",
+      "en": "I'm fine, thanks",
+      "uk": "нормально, дякую"
+    },
+    {
+      "fr": "moi, ça va bien, merci",
+      "en": "I'm doing well, thank you",
+      "uk": "у мене все добре, дякую"
+    },
+    {
+      "fr": "ça va mal",
+      "en": "I'm not doing well",
+      "uk": "справи погано"
+    },
+    {
+      "fr": "ça va pas mal",
+      "en": "not bad (Québec: pretty good)",
+      "uk": "непогано (у Квебеку: досить добре)"
+    },
+    {
+      "fr": "comme ci, comme ça",
+      "en": "so-so",
+      "uk": "так собі"
+    },
+    {
+      "fr": "et toi ? / et vous ?",
+      "en": "and you? (informal / formal)",
+      "uk": "а ти? / а ви?"
+    },
+    {
+      "fr": "quoi de neuf ?",
+      "en": "what's new? / what's up?",
+      "uk": "що нового?"
+    },
+    {
+      "fr": "ça fait longtemps !",
+      "en": "long time no see!",
+      "uk": "скільки літ, скільки зим!"
+    },
+    {
+      "fr": "qu'est-ce que tu deviens ?",
+      "en": "how have you been? / what are you up to these days?",
+      "uk": "як ти тепер? / чим ти зараз займаєшся?"
+    },
+    {
+      "fr": "comment va la vie ?",
+      "en": "how's life?",
+      "uk": "як життя?"
+    },
+    {
+      "fr": "comment se passe ta journée ?",
+      "en": "how's your day going?",
+      "uk": "як минає твій день?"
+    },
+    {
+      "fr": "s'il te plaît",
+      "en": "please (informal)",
+      "uk": "будь ласка (до «ти»)"
+    },
+    {
+      "fr": "s'il vous plaît",
+      "en": "please (formal, or to several people)",
+      "uk": "будь ласка (до «ви» або до кількох людей)"
+    }
+  ]
+}

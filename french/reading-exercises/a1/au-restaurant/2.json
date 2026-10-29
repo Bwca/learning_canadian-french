@@ -1,0 +1,180 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 2: list 01, asking and paying)",
+    "uk": "Au restaurant — лексика ресторану (набір 2: список 01, питаємо й платимо)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Addition » has a double d said as one: [adisjɔ̃], and the -tion is [sjɔ̃]. « Pourboire » is [puʁbwaʁ]. In « combien » the final n is silent and nasal: [kɔ̃bjɛ̃]. « Compris » ends silently [kɔ̃pʁi], but the feminine « comprise » has a [z]. « Quinze dollars » is [kɛ̃z dɔlaʁ]. In Québec you'll also hear « la facture » for the bill, and the tip is never included.",
+    "uk": "В « addition » подвійне d вимовляється як одне: [adisjɔ̃], а -tion — це [sjɔ̃]. « Pourboire » — [puʁbwaʁ]. У « combien » кінцеве n німе й робить голосний носовим: [kɔ̃bjɛ̃]. « Compris » закінчується беззвучно [kɔ̃pʁi], але в жіночому роді « comprise » чути [z]. « Quinze dollars » — [kɛ̃z dɔlaʁ]. У Квебеку рахунок ще називають « la facture », а чайові ніколи не включені."
+  },
+  "sentences": [
+    {
+      "fr": "Marc mange au restaurant avec sa sœur Julie. Il appelle la serveuse : « Madame, s'il vous plaît! »",
+      "uk": "Марк обідає в ресторані зі своєю сестрою Жулі. Він кличе офіціантку: « Пані, будь ласка! »",
+      "en": "Marc is eating at a restaurant with his sister Julie. He calls the waitress: “Ma'am, please!”"
+    },
+    {
+      "fr": "« Un moment, s'il vous plaît! »",
+      "uk": "« Хвилинку, будь ласка! »",
+      "en": "“One moment, please!”"
+    },
+    {
+      "fr": "Elle arrive. Marc demande : « Qu'est-ce que vous me conseillez? »",
+      "uk": "Вона підходить. Марк питає: « Що ви мені порадите? »",
+      "en": "She comes over. Marc asks: “What do you recommend?”"
+    },
+    {
+      "fr": "« Je vous recommande la soupe du jour. »",
+      "uk": "« Раджу вам суп дня. »",
+      "en": "“I recommend the soup of the day.”"
+    },
+    {
+      "fr": "« Et qu'est-ce que vous avez comme boissons? » « On a du thé, du café et des jus. »",
+      "uk": "« А які у вас є напої? » « У нас є чай, кава й соки. »",
+      "en": "“And what drinks do you have?” “We have tea, coffee and juices.”"
+    },
+    {
+      "fr": "« Je vais prendre la soupe et un thé. »",
+      "uk": "« Я візьму суп і чай. »",
+      "en": "“I'll have the soup and a tea.”"
+    },
+    {
+      "fr": "« Vous désirez autre chose? » « Non, merci. »",
+      "uk": "« Бажаєте ще щось? » « Ні, дякую. »",
+      "en": "“Would you like anything else?” “No, thank you.”"
+    },
+    {
+      "fr": "Plus tard, Marc veut payer : « L'addition, s'il vous plaît. » « Oui, tout de suite. »",
+      "uk": "Пізніше Марк хоче розрахуватися: « Рахунок, будь ласка. » « Так, зараз. »",
+      "en": "Later, Marc wants to pay: “The check, please.” “Yes, right away.”"
+    },
+    {
+      "fr": "« C'est combien, le thé? Et ça fait combien en tout? »",
+      "uk": "« Скільки коштує чай? І скільки разом? »",
+      "en": "“How much is the tea? And how much is it altogether?”"
+    },
+    {
+      "fr": "« Ça fait quinze dollars. »",
+      "uk": "« Разом п'ятнадцять доларів. »",
+      "en": "“That's fifteen dollars.”"
+    },
+    {
+      "fr": "« Le service est compris? » « Non, monsieur, au Canada, on laisse un pourboire. »",
+      "uk": "« Обслуговування включено? » « Ні, пане, у Канаді залишають чайові. »",
+      "en": "“Is the tip included?” “No, sir, in Canada, you leave a tip.”"
+    },
+    {
+      "fr": "« Oui, bien entendu. »",
+      "uk": "« Так, звісно. »",
+      "en": "“Yes, of course.”"
+    },
+    {
+      "fr": "Mais Marc cherche dans ses poches. « Zut! Où est mon porte-monnaie? »",
+      "uk": "Але Марк нишпорить по кишенях. « От халепа! Де мій гаманець? »",
+      "en": "But Marc searches his pockets. “Darn! Where is my wallet?”"
+    },
+    {
+      "fr": "« Julie, prête-moi cinq dollars... et peut-être quinze aussi! »",
+      "uk": "« Жулі, позич мені п'ять доларів... а може, ще й п'ятнадцять! »",
+      "en": "“Julie, lend me five dollars... and maybe fifteen too!”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "un moment, s'il vous plaît",
+      "en": "one moment, please",
+      "uk": "хвилинку, будь ласка"
+    },
+    {
+      "fr": "qu'est-ce que vous me conseillez ?",
+      "en": "what do you recommend?",
+      "uk": "що ви мені порадите?"
+    },
+    {
+      "fr": "je vous recommande…",
+      "en": "I recommend…",
+      "uk": "раджу вам…"
+    },
+    {
+      "fr": "qu'est-ce que vous avez comme boissons ?",
+      "en": "what drinks do you have?",
+      "uk": "які у вас є напої?"
+    },
+    {
+      "fr": "je vais prendre…",
+      "en": "I'll have…",
+      "uk": "я візьму…"
+    },
+    {
+      "fr": "vous désirez autre chose ?",
+      "en": "would you like anything else?",
+      "uk": "бажаєте ще щось?"
+    },
+    {
+      "fr": "c'est combien ?",
+      "en": "how much is it?",
+      "uk": "скільки це коштує?"
+    },
+    {
+      "fr": "ça fait combien en tout ?",
+      "en": "how much is it altogether?",
+      "uk": "скільки разом?"
+    },
+    {
+      "fr": "ça fait quinze dollars",
+      "en": "that's fifteen dollars",
+      "uk": "разом п'ятнадцять доларів"
+    },
+    {
+      "fr": "payer",
+      "en": "to pay",
+      "uk": "платити"
+    },
+    {
+      "fr": "l'addition, s'il vous plaît",
+      "en": "the check, please (Québec: also la facture)",
+      "uk": "рахунок, будь ласка (у Квебеку також la facture)"
+    },
+    {
+      "fr": "le pourboire",
+      "en": "the tip",
+      "uk": "чайові"
+    },
+    {
+      "fr": "le service est compris ?",
+      "en": "is the tip included? (in Canada, usually not)",
+      "uk": "обслуговування включено? (у Канаді зазвичай ні)"
+    },
+    {
+      "fr": "compris",
+      "en": "included",
+      "uk": "включений"
+    },
+    {
+      "fr": "oui, tout de suite",
+      "en": "yes, right away",
+      "uk": "так, зараз же"
+    },
+    {
+      "fr": "oui, bien entendu",
+      "en": "yes, of course",
+      "uk": "так, звісно"
+    },
+    {
+      "fr": "zut !",
+      "en": "darn!",
+      "uk": "от халепа!"
+    },
+    {
+      "fr": "où est mon porte-monnaie ?",
+      "en": "where is my wallet?",
+      "uk": "де мій гаманець?"
+    },
+    {
+      "fr": "prête-moi cinq dollars",
+      "en": "lend me five dollars (informal)",
+      "uk": "позич мені п'ять доларів"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 11: list 06, offering and opinions)",
+    "uk": "Au restaurant — лексика ресторану (набір 11: список 06, пропонуємо й оцінюємо)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Délicieux » ends silently [delisjø], but « délicieuse » has a [z]: [delisjøz]. « Mauvais » [movɛ] vs « mauvaise » [movɛz], and « bon » [bɔ̃] vs « bonne » [bɔn] work the same way. « Excellent » ends in the nasal [ɑ̃], « excellente » in [ɑ̃t]. « Je veux bien » is a warm yes, not a reluctant one. « Je n'ai plus faim » is often « j'ai pus faim » in casual Québec speech.",
+    "uk": "« Délicieux » закінчується беззвучно [delisjø], а в « délicieuse » чути [z]: [delisjøz]. « Mauvais » [movɛ] і « mauvaise » [movɛz], « bon » [bɔ̃] і « bonne » [bɔn] працюють так само. « Excellent » закінчується носовим [ɑ̃], « excellente » — [ɑ̃t]. « Je veux bien » — це щире «так», а не неохоче. У розмовній квебекській « je n'ai plus faim » часто звучить як « j'ai pus faim »."
+  },
+  "sentences": [
+    {
+      "fr": "Dimanche, Lucas déjeune chez sa grand-mère.",
+      "uk": "У неділю Люка снідає в бабусі.",
+      "en": "On Sunday, Lucas has breakfast at his grandmother's."
+    },
+    {
+      "fr": "« Qu'est-ce que tu veux boire? » « J'aimerais un jus de pomme, s'il te plaît. »",
+      "uk": "« Що ти будеш пити? » « Я б хотів яблучного соку, будь ласка. »",
+      "en": "“What do you want to drink?” “I'd like an apple juice, please.”"
+    },
+    {
+      "fr": "Elle lui donne un croissant, et du pain avec de la confiture.",
+      "uk": "Вона дає йому круасан і хліб із варенням.",
+      "en": "She gives him a croissant, and some bread with jam."
+    },
+    {
+      "fr": "« Il est bon, le croissant? » « Oui, délicieux! »",
+      "uk": "« Смачний круасан? » « Так, дуже смачний! »",
+      "en": "“Is the croissant good?” “Yes, delicious!”"
+    },
+    {
+      "fr": "« Et elle est comment, la confiture? » « Excellente! »",
+      "uk": "« А варення яке? » « Чудове! »",
+      "en": "“And how's the jam?” “Excellent!”"
+    },
+    {
+      "fr": "« Tu reprends des toasts? » « Oui, je veux bien. »",
+      "uk": "« Візьмеш ще тостів? » « Так, залюбки. »",
+      "en": "“Do you want more toast?” “Yes, please.”"
+    },
+    {
+      "fr": "« Au Québec, on dit des rôties! » rit grand-maman.",
+      "uk": "« У Квебеку кажуть des rôties! » — сміється бабуся.",
+      "en": "“In Québec, we say des rôties!” laughs grandma."
+    },
+    {
+      "fr": "« Encore? » « Non, merci, je n'ai plus faim. »",
+      "uk": "« Ще? » « Ні, дякую, я вже не голодний. »",
+      "en": "“More?” “No, thank you, I'm not hungry anymore.”"
+    },
+    {
+      "fr": "Puis elle demande : « Comment tu trouves le café? »",
+      "uk": "Потім вона питає: « Як тобі кава? »",
+      "en": "Then she asks: “How do you like the coffee?”"
+    },
+    {
+      "fr": "Lucas goûte. « Hum... pas bon du tout! Vraiment mauvais! »",
+      "uk": "Люка куштує. « Хм... зовсім несмачна! Дуже погана! »",
+      "en": "Lucas tastes it. “Hmm... not good at all! Really bad!”"
+    },
+    {
+      "fr": "Grand-maman goûte aussi : « Pas mauvais, je trouve. Tu veux du lait dedans? » « Non, ça va. »",
+      "uk": "Бабуся теж куштує: « Як на мене, непогана. Додати молока? » « Ні, не треба. »",
+      "en": "Grandma tastes it too: “Not bad, I think. Do you want milk in it?” “No, I'm fine.”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "qu'est-ce que tu veux boire ?",
+      "en": "what do you want to drink? (informal)",
+      "uk": "що ти хочеш пити?"
+    },
+    {
+      "fr": "j'aimerais…",
+      "en": "I'd like…",
+      "uk": "я хотів би…"
+    },
+    {
+      "fr": "encore ?",
+      "en": "more?",
+      "uk": "ще?"
+    },
+    {
+      "fr": "tu reprends des toasts ?",
+      "en": "do you want more toast? (informal; Québec: des rôties)",
+      "uk": "візьмеш ще тостів? (у Квебеку: des rôties)"
+    },
+    {
+      "fr": "oui, je veux bien",
+      "en": "yes, please (I'd love some)",
+      "uk": "так, залюбки"
+    },
+    {
+      "fr": "non, merci",
+      "en": "no, thank you",
+      "uk": "ні, дякую"
+    },
+    {
+      "fr": "non, ça va",
+      "en": "no, I'm fine",
+      "uk": "ні, не треба"
+    },
+    {
+      "fr": "je n'ai plus faim",
+      "en": "I'm not hungry anymore",
+      "uk": "я вже не голодний"
+    },
+    {
+      "fr": "il est bon, le croissant ?",
+      "en": "is the croissant good?",
+      "uk": "круасан смачний?"
+    },
+    {
+      "fr": "elle est comment, la confiture ?",
+      "en": "how's the jam?",
+      "uk": "яке на смак варення?"
+    },
+    {
+      "fr": "comment tu trouves le café ?",
+      "en": "how do you like the coffee? (informal)",
+      "uk": "як тобі кава?"
+    },
+    {
+      "fr": "délicieux / délicieuse",
+      "en": "delicious",
+      "uk": "дуже смачний / дуже смачна"
+    },
+    {
+      "fr": "excellent / excellente",
+      "en": "excellent",
+      "uk": "чудовий / чудова"
+    },
+    {
+      "fr": "pas mauvais / pas mauvaise",
+      "en": "not bad",
+      "uk": "непоганий / непогана"
+    },
+    {
+      "fr": "vraiment mauvais",
+      "en": "really bad",
+      "uk": "дуже несмачний"
+    },
+    {
+      "fr": "pas bon du tout",
+      "en": "not good at all",
+      "uk": "зовсім несмачний"
+    }
+  ]
+}

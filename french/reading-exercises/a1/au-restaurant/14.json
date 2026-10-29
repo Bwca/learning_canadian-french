@@ -1,0 +1,210 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 14: list 08, café conversation)",
+    "uk": "Au restaurant — лексика ресторану (набір 14: список 08, розмова в кафе)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Euh » is the French hesitation sound [ø], rounder than the English « uh ». « Oh là là » is [o la la], and the French usually say more « là »s when it's worse. « Monsieur » is [məsjø], « mademoiselle » [madmwazɛl], dropping the first e. « Voici » [vwasi] and « voilà » [vwala] differ only by their last vowel. « Garçon » keeps a soft c thanks to the cedilla: [ɡaʁsɔ̃]; in Québec, calling the waiter « garçon » sounds rude.",
+    "uk": "« Euh » — французький звук вагання [ø], округліший за англійське « uh ». « Oh là là » — [o la la], і чим гірше, тим більше « là ». « Monsieur » — [məsjø], « mademoiselle » — [madmwazɛl], перше e випадає. « Voici » [vwasi] і « voilà » [vwala] відрізняються лише останнім голосним. « Garçon » завдяки седилі має м'яке c: [ɡaʁsɔ̃]; у Квебеку кликати офіціанта « garçon » — неввічливо."
+  },
+  "sentences": [
+    {
+      "fr": "Dans la rue, Thomas voit son amie Inès : « Salut, Inès! Où vas-tu? »",
+      "uk": "На вулиці Тома бачить свою подругу Інес: « Привіт, Інес! Куди йдеш? »",
+      "en": "In the street, Thomas sees his friend Inès: “Hi, Inès! Where are you going?”"
+    },
+    {
+      "fr": "« Au café du coin. Et toi? » « Moi aussi! » « D'accord, on y va ensemble! »",
+      "uk": "« У кафе на розі. А ти? » « Я теж! » « Гаразд, ходімо разом! »",
+      "en": "“To the café on the corner. And you?” “Me too!” “OK, let's go together!”"
+    },
+    {
+      "fr": "Au café, Thomas lève la main : « Garçon, s'il vous plaît! »",
+      "uk": "У кафе Тома піднімає руку: « Гарсоне, будь ласка! »",
+      "en": "At the café, Thomas raises his hand: “Waiter, please!”"
+    },
+    {
+      "fr": "Inès rit : « Oh là là! Au Québec, on ne dit plus « garçon », on dit « monsieur » ou « madame »! »",
+      "uk": "Інес сміється: « Ого! У Квебеку вже не кажуть « garçon », кажуть « monsieur » або « madame »! »",
+      "en": "Inès laughs: “Oh my! In Québec, we don't say ‘garçon’ anymore, we say ‘monsieur’ or ‘madame’!”"
+    },
+    {
+      "fr": "« C'est vrai? Et « mademoiselle »? » « Non plus, c'est vieux! »",
+      "uk": "« Справді? А « mademoiselle »? » « Теж ні, це застаріло! »",
+      "en": "“Really? And ‘mademoiselle’?” “Not that either, it's old-fashioned!”"
+    },
+    {
+      "fr": "Le serveur arrive : « Excusez-moi pour l'attente. Vous voulez le menu? »",
+      "uk": "Підходить офіціант: « Перепрошую за очікування. Бажаєте меню? »",
+      "en": "The waiter comes over: “Sorry for the wait. Do you want the menu?”"
+    },
+    {
+      "fr": "« Oui, merci. Euh... qu'est-ce qu'il y a aujourd'hui? »",
+      "uk": "« Так, дякую. Е-е... що у вас сьогодні? »",
+      "en": "“Yes, thank you. Er... what is there today?”"
+    },
+    {
+      "fr": "« Voyons... Nous avons du poulet et du bœuf. En général, on a aussi du poisson, mais pas aujourd'hui. »",
+      "uk": "« Подивімося... У нас є курка та яловичина. Зазвичай є ще й риба, але не сьогодні. »",
+      "en": "“Let's see... We have chicken and beef. Usually, we also have fish, but not today.”"
+    },
+    {
+      "fr": "Thomas demande à Inès : « Quelle viande est-ce que tu aimes? » « Le poulet, vraiment! »",
+      "uk": "Тома питає Інес: « Яке м'ясо ти любиш? » « Курку, справді! »",
+      "en": "Thomas asks Inès: “Which meat do you like?” “Chicken, really!”"
+    },
+    {
+      "fr": "« Très bien. Deux poulets, s'il vous plaît. »",
+      "uk": "« Дуже добре. Дві курки, будь ласка. »",
+      "en": "“Very good. Two chickens, please.”"
+    },
+    {
+      "fr": "Le serveur revient : « Voici. Le poulet avec frites, c'est pour vous? »",
+      "uk": "Офіціант повертається: « Ось, будь ласка. Курка з картоплею фрі — вам? »",
+      "en": "The waiter comes back: “Here you are. Is the chicken with fries for you?”"
+    },
+    {
+      "fr": "Inès : « Pardon, non, c'est pour mon ami. »",
+      "uk": "Інес: « Вибачте, ні, це для мого друга. »",
+      "en": "Inès: “Sorry, no, it's for my friend.”"
+    },
+    {
+      "fr": "Après le repas, Thomas dit : « Dis, Inès, à quelle heure est-ce que tu finis demain? »",
+      "uk": "Після обіду Тома каже: « Слухай, Інес, о котрій ти завтра закінчуєш? »",
+      "en": "After the meal, Thomas says: “Hey, Inès, what time do you finish tomorrow?”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "et toi ?",
+      "en": "and you? (informal)",
+      "uk": "а ти?"
+    },
+    {
+      "fr": "oh là là !",
+      "en": "oh my! wow!",
+      "uk": "ого! ох!"
+    },
+    {
+      "fr": "euh…",
+      "en": "er…, um…",
+      "uk": "е-е…"
+    },
+    {
+      "fr": "aussi",
+      "en": "also, too",
+      "uk": "також"
+    },
+    {
+      "fr": "c'est vrai !",
+      "en": "that's true! really!",
+      "uk": "це правда!"
+    },
+    {
+      "fr": "vraiment",
+      "en": "really",
+      "uk": "справді"
+    },
+    {
+      "fr": "d'accord !",
+      "en": "OK!",
+      "uk": "гаразд!"
+    },
+    {
+      "fr": "très bien",
+      "en": "very good, fine",
+      "uk": "дуже добре"
+    },
+    {
+      "fr": "voici",
+      "en": "here is, here are",
+      "uk": "ось (тут)"
+    },
+    {
+      "fr": "pour",
+      "en": "for",
+      "uk": "для"
+    },
+    {
+      "fr": "c'est pour vous ?",
+      "en": "is it for you? (formal)",
+      "uk": "це вам?"
+    },
+    {
+      "fr": "excusez-moi",
+      "en": "excuse me (formal)",
+      "uk": "перепрошую"
+    },
+    {
+      "fr": "pardon",
+      "en": "excuse me, sorry",
+      "uk": "вибачте"
+    },
+    {
+      "fr": "monsieur",
+      "en": "sir, Mr.",
+      "uk": "пане"
+    },
+    {
+      "fr": "madame",
+      "en": "ma'am, Mrs.",
+      "uk": "пані"
+    },
+    {
+      "fr": "mademoiselle",
+      "en": "miss (old-fashioned in Québec, use madame)",
+      "uk": "панночко (у Квебеку застаріло, кажуть madame)"
+    },
+    {
+      "fr": "le garçon",
+      "en": "the waiter (old-fashioned; Québec: le serveur)",
+      "uk": "офіціант (застаріло; у Квебеку: le serveur)"
+    },
+    {
+      "fr": "voyons…",
+      "en": "let's see…",
+      "uk": "подивімося…"
+    },
+    {
+      "fr": "dis…",
+      "en": "hey… (informal)",
+      "uk": "слухай…"
+    },
+    {
+      "fr": "où vas-tu ?",
+      "en": "where are you going? (informal)",
+      "uk": "куди ти йдеш?"
+    },
+    {
+      "fr": "vous voulez… ?",
+      "en": "do you want…? (formal)",
+      "uk": "хочете…?"
+    },
+    {
+      "fr": "nous avons…",
+      "en": "we have…",
+      "uk": "у нас є…"
+    },
+    {
+      "fr": "on a…",
+      "en": "we have… (everyday)",
+      "uk": "у нас є… (розмовне)"
+    },
+    {
+      "fr": "quelle viande est-ce que tu aimes ?",
+      "en": "which meat do you like? (informal)",
+      "uk": "яке м'ясо ти любиш?"
+    },
+    {
+      "fr": "à quelle heure… ?",
+      "en": "at what time…?",
+      "uk": "о котрій…?"
+    },
+    {
+      "fr": "en général",
+      "en": "in general, usually",
+      "uk": "зазвичай"
+    }
+  ]
+}

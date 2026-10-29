@@ -1,0 +1,160 @@
+{
+  "title": {
+    "en": "Phrases — useful phrases (set 1: greetings, hello and introductions)",
+    "uk": "Phrases — корисні фрази (набір 1: вітання, знайомство)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "The final consonant is silent in « salut » [saly], « français » [fʁɑ̃sɛ] and « anglais » [ɑ̃ɡlɛ], but the feminine « française » ends in a heard [z]. « Enchanté » and « enchantée », « ravi » and « ravie » sound exactly the same. « Bonjour » and « bonsoir » start with the nasal [bɔ̃], with no [n] said. In Québec « bienvenue » also answers « merci », and « allô » is a casual hello, not just for the phone.",
+    "uk": "Кінцевий приголосний не вимовляється в « salut » [saly], « français » [fʁɑ̃sɛ] і « anglais » [ɑ̃ɡlɛ], але в жіночому роді « française » чути [z] у кінці. « Enchanté » і « enchantée », « ravi » і « ravie » звучать однаково. « Bonjour » і « bonsoir » починаються з носового [bɔ̃], без [n]. У Квебеку « bienvenue » — це ще й відповідь на « merci », а « allô » — невимушене «привіт», не лише по телефону."
+  },
+  "sentences": [
+    {
+      "fr": "« Bonjour à tous! » dit Julie, la professeure.",
+      "uk": "« Добрий день усім! » — каже Жулі, викладачка.",
+      "en": "“Hello everyone!” says Julie, the teacher."
+    },
+    {
+      "fr": "« Bienvenue au cours de français! Je m'appelle Julie Tremblay. »",
+      "uk": "« Ласкаво просимо на курс французької! Мене звати Жулі Трамбле. »",
+      "en": "“Welcome to French class! My name is Julie Tremblay.”"
+    },
+    {
+      "fr": "Un jeune homme répond : « Bonjour, madame. Mon nom est Oleh, et je suis ukrainien. »",
+      "uk": "Молодий чоловік відповідає: « Добрий день, пані. Мене звати Олег, я українець. »",
+      "en": "A young man answers: “Hello, ma'am. My name is Oleh, and I'm Ukrainian.”"
+    },
+    {
+      "fr": "« Enchantée, Oleh! »",
+      "uk": "« Приємно познайомитися, Олеже! »",
+      "en": "“Nice to meet you, Oleh!”"
+    },
+    {
+      "fr": "Une jeune femme dit : « Salut! Moi, je suis Claire. Je suis française, et je parle français et anglais. »",
+      "uk": "Молода жінка каже: « Привіт! Я Клер. Я француженка, розмовляю французькою та англійською. »",
+      "en": "A young woman says: “Hi! I'm Claire. I'm French, and I speak French and English.”"
+    },
+    {
+      "fr": "Le soir, Julie rencontre les parents des étudiants : « Bonsoir! Ravie de vous rencontrer. »",
+      "uk": "Увечері Жулі знайомиться з батьками студентів: « Добрий вечір! Рада з вами познайомитися. »",
+      "en": "In the evening, Julie meets the students' parents: “Good evening! Nice to meet you.”"
+    },
+    {
+      "fr": "Marc, un père qu'elle connaît déjà, arrive : « Bonsoir, Julie! Ravi de vous voir. »",
+      "uk": "Приходить Марк, батько, якого вона вже знає: « Добрий вечір, Жулі! Радий вас бачити. »",
+      "en": "Marc, a father she already knows, arrives: “Good evening, Julie! Nice to see you.”"
+    },
+    {
+      "fr": "« Merci beaucoup pour le cours », dit sa fille.",
+      "uk": "« Щиро дякую за заняття », — каже його донька.",
+      "en": "“Thank you very much for the class,” says his daughter."
+    },
+    {
+      "fr": "« De rien, ça me fait plaisir! » répond Julie.",
+      "uk": "« Нема за що, мені приємно! » — відповідає Жулі.",
+      "en": "“You're welcome, my pleasure!” Julie answers."
+    },
+    {
+      "fr": "Plus tard, le téléphone sonne : « Allô? C'est Oleh. Merci pour aujourd'hui! »",
+      "uk": "Пізніше дзвонить телефон: « Алло? Це Олег. Дякую за сьогодні! »",
+      "en": "Later, the phone rings: “Hello? It's Oleh. Thanks for today!”"
+    },
+    {
+      "fr": "« Bienvenue! » répond Julie, comme on dit souvent au Québec.",
+      "uk": "« Нема за що! » — відповідає Жулі, як часто кажуть у Квебеку.",
+      "en": "“You're welcome!” answers Julie, as people often say in Québec."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "bonjour",
+      "en": "hello / good morning (Québec: also goodbye)",
+      "uk": "добрий день / доброго ранку (у Квебеку: також до побачення)"
+    },
+    {
+      "fr": "bonsoir",
+      "en": "good evening (also when leaving)",
+      "uk": "добрий вечір (також на прощання)"
+    },
+    {
+      "fr": "salut",
+      "en": "hi / bye (informal)",
+      "uk": "привіт / бувай (неформально)"
+    },
+    {
+      "fr": "allô",
+      "en": "hi (Québec, informal) / hello? (on the phone)",
+      "uk": "привіт (у Квебеку, неформально) / алло? (по телефону)"
+    },
+    {
+      "fr": "bienvenue",
+      "en": "welcome (Québec: also you're welcome)",
+      "uk": "ласкаво просимо (у Квебеку: також «нема за що»)"
+    },
+    {
+      "fr": "bonjour à tous",
+      "en": "hello everyone",
+      "uk": "добрий день усім"
+    },
+    {
+      "fr": "je m'appelle…",
+      "en": "my name is… (literally: I call myself)",
+      "uk": "мене звати… (дослівно: я себе називаю)"
+    },
+    {
+      "fr": "mon nom est…",
+      "en": "my name is…",
+      "uk": "моє ім'я…"
+    },
+    {
+      "fr": "je suis…",
+      "en": "I am…",
+      "uk": "я…"
+    },
+    {
+      "fr": "je suis français / je suis française",
+      "en": "I am French",
+      "uk": "я француз / я француженка"
+    },
+    {
+      "fr": "je parle français et anglais",
+      "en": "I speak French and English",
+      "uk": "я розмовляю французькою та англійською"
+    },
+    {
+      "fr": "enchanté / enchantée",
+      "en": "nice to meet you",
+      "uk": "дуже приємно (чол. / жін.)"
+    },
+    {
+      "fr": "ravi(e) de vous rencontrer",
+      "en": "nice to meet you (formal)",
+      "uk": "радий (рада) з вами познайомитися"
+    },
+    {
+      "fr": "ravi(e) de vous voir",
+      "en": "nice to see you",
+      "uk": "радий (рада) вас бачити"
+    },
+    {
+      "fr": "merci",
+      "en": "thank you",
+      "uk": "дякую"
+    },
+    {
+      "fr": "merci beaucoup",
+      "en": "thank you very much",
+      "uk": "щиро дякую"
+    },
+    {
+      "fr": "de rien",
+      "en": "you're welcome",
+      "uk": "нема за що"
+    },
+    {
+      "fr": "ça me fait plaisir",
+      "en": "you're welcome / my pleasure (common in Québec)",
+      "uk": "прошу / мені приємно (поширено в Квебеку)"
+    }
+  ]
+}

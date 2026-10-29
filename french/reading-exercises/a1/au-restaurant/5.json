@@ -1,0 +1,195 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 5: list 03, drinks)",
+    "uk": "Au restaurant — лексика ресторану (набір 5: список 03, напої)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Thé » is just [te]: the h is silent. « Jus » is [ʒy], with silent s, and « jus d'orange » runs together: [ʒy dɔʁɑ̃ʒ]. « Eau » is one sound, [o], so « l'eau » is [lo]. « Lait » is [lɛ], silent t. « Pamplemousse » is [pɑ̃pləmus], and « raisin » [ʁɛzɛ̃] means grape (a raisin is « un raisin sec »). In Québec a soft drink is « une liqueur » or « une boisson gazeuse ».",
+    "uk": "« Thé » — просто [te]: h німе. « Jus » — [ʒy], s німе, а « jus d'orange » вимовляють злито: [ʒy dɔʁɑ̃ʒ]. « Eau » — один звук [o], тож « l'eau » — [lo]. « Lait » — [lɛ], t німе. « Pamplemousse » — [pɑ̃pləmus], а « raisin » [ʁɛzɛ̃] означає виноград (родзинки — « raisins secs »). У Квебеку газований напій — « une liqueur » або « une boisson gazeuse »."
+  },
+  "sentences": [
+    {
+      "fr": "Il fait chaud, et toute la classe va sur une terrasse.",
+      "uk": "Спекотно, і весь клас іде на терасу.",
+      "en": "It's hot out, and the whole class goes to a terrace."
+    },
+    {
+      "fr": "« Qu'est-ce que vous voulez boire? » demande la prof.",
+      "uk": "« Що ви хочете пити? » — питає вчителька.",
+      "en": "“What do you want to drink?” asks the teacher."
+    },
+    {
+      "fr": "« Une boisson froide, s'il vous plaît! »",
+      "uk": "« Щось холодне попити, будь ласка! »",
+      "en": "“A cold drink, please!”"
+    },
+    {
+      "fr": "Max prend un thé glacé, Léa une limonade et Nora un coca.",
+      "uk": "Макс бере холодний чай, Леа — лимонад, а Нора — колу.",
+      "en": "Max has an iced tea, Léa a lemonade and Nora a Coke."
+    },
+    {
+      "fr": "Paul : « Moi, je voudrais un soda... euh, au Québec, on dit une liqueur! »",
+      "uk": "Поль: « А я б хотів газованку... е-е, у Квебеку кажуть une liqueur! »",
+      "en": "Paul: “I'd like a soft drink... er, in Québec, we say une liqueur!”"
+    },
+    {
+      "fr": "Les autres prennent des jus : un jus d'orange, un jus de pomme, un jus de raisin et un jus de pamplemousse.",
+      "uk": "Інші беруть соки: апельсиновий, яблучний, виноградний і грейпфрутовий.",
+      "en": "The others have juices: an orange juice, an apple juice, a grape juice and a grapefruit juice."
+    },
+    {
+      "fr": "À la table d'à côté, un vieux monsieur boit un jus de tomate.",
+      "uk": "За сусіднім столиком літній чоловік п'є томатний сік.",
+      "en": "At the next table, an old man is drinking a tomato juice."
+    },
+    {
+      "fr": "La prof veut un café au lait, mais son collègue préfère un café noir.",
+      "uk": "Учителька хоче каву з молоком, а її колега — чорну каву.",
+      "en": "The teacher wants a coffee with milk, but her colleague prefers a black coffee."
+    },
+    {
+      "fr": "Sara a froid à l'ombre : elle commande un chocolat chaud.",
+      "uk": "Сарі холодно в тіні: вона замовляє гарячий шоколад.",
+      "en": "Sara is cold in the shade: she orders a hot chocolate."
+    },
+    {
+      "fr": "Tom prend une tasse de thé avec du sucre. « Moi, mon thé, c'est sans sucre », dit la prof.",
+      "uk": "Том бере чашку чаю з цукром. « А я п'ю чай без цукру », — каже вчителька.",
+      "en": "Tom has a cup of tea with sugar. “I take my tea without sugar,” says the teacher."
+    },
+    {
+      "fr": "Nora ne boit pas de lait, alors elle prend aussi de l'eau minérale.",
+      "uk": "Нора не п'є молока, тож бере ще й мінеральну воду.",
+      "en": "Nora doesn't drink milk, so she also has some mineral water."
+    },
+    {
+      "fr": "« Et pour le chien? » « Un verre d'eau! » rit Léa.",
+      "uk": "« А для собаки? » « Склянку води! » — сміється Леа.",
+      "en": "“And for the dog?” “A glass of water!” laughs Léa."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "une boisson",
+      "en": "a drink, a beverage (Québec: un breuvage)",
+      "uk": "напій (у Квебеку: un breuvage)"
+    },
+    {
+      "fr": "boire",
+      "en": "to drink",
+      "uk": "пити"
+    },
+    {
+      "fr": "un café",
+      "en": "a coffee",
+      "uk": "кава"
+    },
+    {
+      "fr": "un café au lait",
+      "en": "a coffee with milk",
+      "uk": "кава з молоком"
+    },
+    {
+      "fr": "un chocolat chaud",
+      "en": "a hot chocolate",
+      "uk": "гарячий шоколад"
+    },
+    {
+      "fr": "un thé",
+      "en": "a tea",
+      "uk": "чай"
+    },
+    {
+      "fr": "un thé glacé",
+      "en": "an iced tea",
+      "uk": "холодний чай"
+    },
+    {
+      "fr": "un soda",
+      "en": "a soft drink (Québec: une boisson gazeuse, une liqueur)",
+      "uk": "газований напій (у Квебеку: une boisson gazeuse, une liqueur)"
+    },
+    {
+      "fr": "un coca",
+      "en": "a Coke",
+      "uk": "кола"
+    },
+    {
+      "fr": "une limonade",
+      "en": "a lemon soda (Québec: a lemonade)",
+      "uk": "лимонний газований напій (у Квебеку: лимонад)"
+    },
+    {
+      "fr": "un jus d'orange",
+      "en": "an orange juice",
+      "uk": "апельсиновий сік"
+    },
+    {
+      "fr": "un jus de pomme",
+      "en": "an apple juice",
+      "uk": "яблучний сік"
+    },
+    {
+      "fr": "un jus de raisin",
+      "en": "a grape juice",
+      "uk": "виноградний сік"
+    },
+    {
+      "fr": "un jus de tomate",
+      "en": "a tomato juice",
+      "uk": "томатний сік"
+    },
+    {
+      "fr": "un jus de pamplemousse",
+      "en": "a grapefruit juice",
+      "uk": "грейпфрутовий сік"
+    },
+    {
+      "fr": "l'eau (f.)",
+      "en": "water",
+      "uk": "вода"
+    },
+    {
+      "fr": "l'eau minérale",
+      "en": "mineral water",
+      "uk": "мінеральна вода"
+    },
+    {
+      "fr": "le lait",
+      "en": "milk",
+      "uk": "молоко"
+    },
+    {
+      "fr": "un verre d'eau",
+      "en": "a glass of water",
+      "uk": "склянка води"
+    },
+    {
+      "fr": "une tasse de thé",
+      "en": "a cup of tea",
+      "uk": "чашка чаю"
+    },
+    {
+      "fr": "avec du sucre",
+      "en": "with sugar",
+      "uk": "із цукром"
+    },
+    {
+      "fr": "sans sucre",
+      "en": "without sugar",
+      "uk": "без цукру"
+    },
+    {
+      "fr": "chaud",
+      "en": "hot",
+      "uk": "гарячий"
+    },
+    {
+      "fr": "froid",
+      "en": "cold",
+      "uk": "холодний"
+    }
+  ]
+}

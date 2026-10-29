@@ -1,0 +1,165 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 13: list 07, desserts and drinks)",
+    "uk": "Au restaurant — лексика ресторану (набір 13: список 07, десерти й напої)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Bleuets » is [bløɛ]: two vowels side by side, said separately. « Pêches » [pɛʃ] and « poires » [pwaʁ] are easy, but « ananas » is [anana(s)], the final s often silent in France and said in Québec. « Poêle » is [pwal], like « poil », not [pwɛl]. « Breuvages » [bʁœvaʒ] is a Québec menu word for drinks. « Taxes » and « incluses » both end in heard consonants: [taks], [ɛ̃klyz].",
+    "uk": "« Bleuets » — [bløɛ]: два голосні поруч вимовляються окремо. « Pêches » [pɛʃ] і « poires » [pwaʁ] прості, а « ananas » — [anana(s)]: у Франції кінцеве s часто німе, а в Квебеку його вимовляють. « Poêle » — [pwal], як « poil », а не [pwɛl]. « Breuvages » [bʁœvaʒ] — квебекське слово з меню для напоїв. У « taxes » і « incluses » чути кінцеві приголосні: [taks], [ɛ̃klyz]."
+  },
+  "sentences": [
+    {
+      "fr": "Après le repas, grand-maman les rejoint, et tout le monde regarde les desserts.",
+      "uk": "Після обіду до них приєднується бабуся, і всі розглядають десерти.",
+      "en": "After the meal, grandma joins them, and everyone looks at the desserts."
+    },
+    {
+      "fr": "Il y a des crêpes à la poêle avec des fraises, des bleuets, des pêches, des poires ou de l'ananas, et de la crème glacée.",
+      "uk": "Є млинці на пательні з полуницею, лохиною, персиками, грушами чи ананасом і морозивом.",
+      "en": "There are pan-fried crepes with strawberries, blueberries, peaches, pears or pineapple, and ice cream."
+    },
+    {
+      "fr": "Il y a aussi de la tarte au sucre, du gâteau au fromage, de la forêt-noire et de la mousse au chocolat.",
+      "uk": "Ще є цукровий пиріг, чизкейк, торт «Чорний ліс» і шоколадний мус.",
+      "en": "There's also sugar pie, cheesecake, Black Forest cake and chocolate mousse."
+    },
+    {
+      "fr": "Emma prend le shortcake aux fraises, et papa les fraises à la crème.",
+      "uk": "Емма бере полуничний шорткейк, а тато — полуницю з вершками.",
+      "en": "Emma has the strawberry shortcake, and dad the strawberries and cream."
+    },
+    {
+      "fr": "Grand-maman a déjà mangé une salade de poulet, alors elle prend juste la cassata maison.",
+      "uk": "Бабуся вже з'їла салат із куркою, тож бере лише фірмову кассату.",
+      "en": "Grandma has already eaten a chicken salad, so she just has the house Italian ice cream."
+    },
+    {
+      "fr": "Dans la liste des breuvages, il y a des jus et des nectars.",
+      "uk": "У переліку напоїв є соки й нектари.",
+      "en": "In the list of drinks, there are juices and nectars."
+    },
+    {
+      "fr": "Emma boit une liqueur douce, et papa le jus de pamplemousse.",
+      "uk": "Емма п'є газований напій, а тато — грейпфрутовий сік.",
+      "en": "Emma drinks a soft drink, and dad the grapefruit juice."
+    },
+    {
+      "fr": "Grand-maman hésite entre le nectar d'abricot et le nectar de poire.",
+      "uk": "Бабуся вагається між абрикосовим і грушевим нектаром.",
+      "en": "Grandma can't decide between the apricot nectar and the pear nectar."
+    },
+    {
+      "fr": "À la fin, papa lit le bas du menu : « Les taxes ne sont pas incluses. »",
+      "uk": "Наприкінці тато читає внизу меню: « Податки не включено. »",
+      "en": "At the end, dad reads the bottom of the menu: “Taxes aren't included.”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la crème glacée",
+      "en": "ice cream (Québec)",
+      "uk": "морозиво (у Квебеку)"
+    },
+    {
+      "fr": "les fraises (f.)",
+      "en": "strawberries",
+      "uk": "полуниця"
+    },
+    {
+      "fr": "les bleuets (m.)",
+      "en": "blueberries (Québec)",
+      "uk": "лохина (у Квебеку)"
+    },
+    {
+      "fr": "les pêches (f.)",
+      "en": "peaches",
+      "uk": "персики"
+    },
+    {
+      "fr": "les poires (f.)",
+      "en": "pears",
+      "uk": "груші"
+    },
+    {
+      "fr": "l'ananas (m.)",
+      "en": "pineapple",
+      "uk": "ананас"
+    },
+    {
+      "fr": "la tarte au sucre",
+      "en": "sugar pie (Québec)",
+      "uk": "цукровий пиріг (у Квебеку)"
+    },
+    {
+      "fr": "le gâteau au fromage",
+      "en": "cheesecake",
+      "uk": "чизкейк"
+    },
+    {
+      "fr": "la forêt-noire",
+      "en": "Black Forest cake",
+      "uk": "торт «Чорний ліс»"
+    },
+    {
+      "fr": "les breuvages (m.)",
+      "en": "drinks (Québec, on menus)",
+      "uk": "напої (у Квебеку, у меню)"
+    },
+    {
+      "fr": "une liqueur douce",
+      "en": "a soft drink (Québec)",
+      "uk": "газований напій (у Квебеку)"
+    },
+    {
+      "fr": "le nectar d'abricot",
+      "en": "apricot nectar",
+      "uk": "абрикосовий нектар"
+    },
+    {
+      "fr": "les crêpes à la poêle (f.)",
+      "en": "pan-fried crepes",
+      "uk": "млинці на пательні"
+    },
+    {
+      "fr": "la salade de poulet",
+      "en": "chicken salad",
+      "uk": "салат із куркою"
+    },
+    {
+      "fr": "la mousse au chocolat",
+      "en": "chocolate mousse",
+      "uk": "шоколадний мус"
+    },
+    {
+      "fr": "le shortcake aux fraises",
+      "en": "strawberry shortcake",
+      "uk": "полуничний шорткейк"
+    },
+    {
+      "fr": "les fraises à la crème (f.)",
+      "en": "strawberries and cream",
+      "uk": "полуниця з вершками"
+    },
+    {
+      "fr": "la cassata maison",
+      "en": "the house Italian ice cream",
+      "uk": "фірмове італійське морозиво кассата"
+    },
+    {
+      "fr": "le jus de pamplemousse",
+      "en": "grapefruit juice",
+      "uk": "грейпфрутовий сік"
+    },
+    {
+      "fr": "le nectar de poire",
+      "en": "pear nectar",
+      "uk": "грушевий нектар"
+    },
+    {
+      "fr": "les taxes ne sont pas incluses",
+      "en": "taxes aren't included",
+      "uk": "податки не включено"
+    }
+  ]
+}

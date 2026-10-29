@@ -1,0 +1,135 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 3: list 02, dishes)",
+    "uk": "Au restaurant — лексика ресторану (набір 3: список 02, страви)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Croque-monsieur » is [kʁɔk məsjø]: « monsieur » is said [məsjø], nothing like its spelling. « Champignons » ends in [ɲɔ̃], the gn as in « oignon ». « Anchois » is [ɑ̃ʃwa], with silent s. « Fines herbes » links: [fin z‿ɛʁb], and the h is silent. In « steak-frites » and « hot-dog » the English words take a French sound: [stɛk], [ɔt dɔɡ], with no h.",
+    "uk": "« Croque-monsieur » — [kʁɔk məsjø]: « monsieur » вимовляють [məsjø], зовсім не як пишеться. « Champignons » закінчується на [ɲɔ̃], gn — як в « oignon ». « Anchois » — [ɑ̃ʃwa], s німе. « Fines herbes » зливається: [fin z‿ɛʁb], h німе. У « steak-frites » і « hot-dog » англійські слова звучать по-французькому: [stɛk], [ɔt dɔɡ], без h."
+  },
+  "sentences": [
+    {
+      "fr": "À midi, la famille Martin mange dans un petit restaurant.",
+      "uk": "Опівдні родина Мартенів обідає в невеликому ресторані.",
+      "en": "At noon, the Martin family eats at a small restaurant."
+    },
+    {
+      "fr": "Le plat du jour, c'est un steak-frites, et papa le prend tout de suite.",
+      "uk": "Страва дня — стейк із картоплею фрі, і тато одразу його замовляє.",
+      "en": "The dish of the day is steak with fries, and dad takes it right away."
+    },
+    {
+      "fr": "Maman hésite : une omelette nature, une omelette aux champignons ou une omelette aux fines herbes?",
+      "uk": "Мама вагається: омлет без начинки, омлет із грибами чи омлет із зеленню?",
+      "en": "Mom hesitates: a plain omelette, a mushroom omelette or an omelette with herbs?"
+    },
+    {
+      "fr": "Elle choisit l'omelette aux fines herbes avec une salade verte.",
+      "uk": "Вона обирає омлет із зеленню та зелений салат.",
+      "en": "She picks the omelette with herbs and a green salad."
+    },
+    {
+      "fr": "Lucas, le fils, veut un hamburger, mais finalement il prend un hot-dog.",
+      "uk": "Син Люка хоче гамбургер, але зрештою бере хот-дог.",
+      "en": "Lucas, the son, wants a hamburger, but in the end he has a hot dog."
+    },
+    {
+      "fr": "Zoé veut une pizza. « Une pizza aux anchois? Beurk! » dit son frère.",
+      "uk": "Зої хоче піцу. « Піца з анчоусами? Фу! » — каже її брат.",
+      "en": "Zoé wants a pizza. “An anchovy pizza? Yuck!” says her brother."
+    },
+    {
+      "fr": "Grand-papa hésite entre un sandwich au jambon, un sandwich au fromage et un sandwich au saucisson.",
+      "uk": "Дідусь вагається між сендвічем із шинкою, сендвічем із сиром і сендвічем із салямі.",
+      "en": "Grandpa can't decide between a ham sandwich, a cheese sandwich and a salami sandwich."
+    },
+    {
+      "fr": "Enfin, il commande un croque-monsieur : jambon et fromage, c'est parfait!",
+      "uk": "Нарешті він замовляє крок-месьє: шинка й сир — ідеально!",
+      "en": "In the end, he orders a grilled ham-and-cheese: ham and cheese, perfect!"
+    },
+    {
+      "fr": "Grand-maman, elle, prend juste un croissant et un café.",
+      "uk": "А бабуся бере лише круасан і каву.",
+      "en": "Grandma just has a croissant and a coffee."
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "un plat",
+      "en": "a dish",
+      "uk": "страва"
+    },
+    {
+      "fr": "un croissant",
+      "en": "a croissant",
+      "uk": "круасан"
+    },
+    {
+      "fr": "un croque-monsieur",
+      "en": "a grilled ham-and-cheese sandwich",
+      "uk": "гарячий бутерброд із шинкою та сиром"
+    },
+    {
+      "fr": "un sandwich au jambon",
+      "en": "a ham sandwich",
+      "uk": "сендвіч із шинкою"
+    },
+    {
+      "fr": "un sandwich au fromage",
+      "en": "a cheese sandwich",
+      "uk": "сендвіч із сиром"
+    },
+    {
+      "fr": "un sandwich au saucisson",
+      "en": "a salami sandwich",
+      "uk": "сендвіч із салямі"
+    },
+    {
+      "fr": "un steak-frites",
+      "en": "steak with French fries",
+      "uk": "стейк із картоплею фрі"
+    },
+    {
+      "fr": "un hamburger",
+      "en": "a hamburger",
+      "uk": "гамбургер"
+    },
+    {
+      "fr": "un hot-dog",
+      "en": "a hot dog",
+      "uk": "хот-дог"
+    },
+    {
+      "fr": "une omelette nature",
+      "en": "a plain omelette",
+      "uk": "омлет без начинки"
+    },
+    {
+      "fr": "une omelette aux champignons",
+      "en": "a mushroom omelette",
+      "uk": "омлет із грибами"
+    },
+    {
+      "fr": "une omelette aux fines herbes",
+      "en": "an omelette with herbs",
+      "uk": "омлет із зеленню"
+    },
+    {
+      "fr": "une pizza",
+      "en": "a pizza",
+      "uk": "піца"
+    },
+    {
+      "fr": "une pizza aux anchois",
+      "en": "an anchovy pizza",
+      "uk": "піца з анчоусами"
+    },
+    {
+      "fr": "une salade verte",
+      "en": "a green salad",
+      "uk": "зелений салат"
+    }
+  ]
+}

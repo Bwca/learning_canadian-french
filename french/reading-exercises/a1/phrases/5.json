@@ -1,0 +1,190 @@
+{
+  "title": {
+    "en": "Phrases — useful phrases (set 5: avoir, fear, pain and looking forward)",
+    "uk": "Phrases — корисні фрази (набір 5: avoir — страх, біль і нетерпіння)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "The h of « honte », « horreur » and « hâte » is silent, but « honte » and « hâte » don't link or drop a vowel: « j'ai honte » is [ʒe ɔ̃t], « la honte », not « l'honte ». « Horreur » does link: « j'ai horreur » [ʒe ɔʁœʁ], « d'horreur ». « Tort » ends silently [tɔʁ], like « tard ». « Habitude » takes « l' »: [labityd]. « Misère » and « goût » are everyday Québec expressions; « j'ai hâte! » is heard constantly there.",
+    "uk": "H у « honte », « horreur » і « hâte » німе, але перед « honte » і « hâte » немає злиття й не випадає голосний: « j'ai honte » — [ʒe ɔ̃t], « la honte », а не « l'honte ». А з « horreur » злиття є: « j'ai horreur » [ʒe ɔʁœʁ], « d'horreur ». « Tort » закінчується беззвучно [tɔʁ], як « tard ». « Habitude » бере « l' »: [labityd]. « Misère » і « goût » — повсякденні квебекські вирази; « j'ai hâte! » там чути постійно."
+  },
+  "sentences": [
+    {
+      "fr": "Théo a peur de l'eau, mais aujourd'hui il fait du bateau avec sa sœur Emma.",
+      "uk": "Тео боїться води, але сьогодні він катається на човні зі своєю сестрою Еммою.",
+      "en": "Théo is scared of water, but today he's going boating with his sister Emma."
+    },
+    {
+      "fr": "« J'ai peur! » dit-il.",
+      "uk": "« Мені страшно! » — каже він.",
+      "en": "“I'm scared!” he says."
+    },
+    {
+      "fr": "Après dix minutes, il a le mal de mer. « J'ai le mal de mer... »",
+      "uk": "За десять хвилин його починає нудити. « Мене заколисало... »",
+      "en": "After ten minutes, he's seasick. “I'm seasick...”"
+    },
+    {
+      "fr": "Emma rit : « Tu as tort d'avoir peur, le lac est calme! »",
+      "uk": "Емма сміється: « Ти дарма боїшся, озеро спокійне! »",
+      "en": "Emma laughs: “You're wrong to be scared, the lake is calm!”"
+    },
+    {
+      "fr": "« Non, j'ai raison : les bateaux, c'est dangereux! » Il a toujours raison, bien sûr.",
+      "uk": "« Ні, я правий: човни — це небезпечно! » Він, звісно, завжди правий.",
+      "en": "“No, I'm right: boats are dangerous!” He's always right, of course."
+    },
+    {
+      "fr": "Le soir, Théo a mal à la tête. « J'ai mal à la tête. »",
+      "uk": "Увечері в Тео болить голова. « У мене болить голова. »",
+      "en": "In the evening, Théo has a headache. “I have a headache.”"
+    },
+    {
+      "fr": "Il a l'habitude de regarder un film avant de dormir. « J'ai l'habitude de regarder la télé le soir. »",
+      "uk": "Він звик дивитися фільм перед сном. « Я звик увечері дивитися телевізор. »",
+      "en": "He's used to watching a movie before bed. “I'm used to watching TV in the evening.”"
+    },
+    {
+      "fr": "Emma propose un film d'horreur. « Non! J'ai horreur des films d'horreur! »",
+      "uk": "Емма пропонує фільм жахів. « Ні! Я терпіти не можу фільмів жахів! »",
+      "en": "Emma suggests a horror movie. “No! I hate horror movies!”"
+    },
+    {
+      "fr": "« Tu as peur d'un film? J'ai honte de toi! » dit Emma en riant.",
+      "uk": "« Ти боїшся фільму? Мені за тебе соромно! » — сміючись, каже Емма.",
+      "en": "“You're scared of a movie? I'm ashamed of you!” says Emma, laughing."
+    },
+    {
+      "fr": "Théo a honte de ses notes, et il a du mal à faire ses devoirs. « J'ai du mal à apprendre le français. »",
+      "uk": "Тео соромно за свої оцінки, і йому важко даються домашні завдання. « Мені важко вчити французьку. »",
+      "en": "Théo is ashamed of his grades, and he finds his homework hard. “I find it hard to learn French.”"
+    },
+    {
+      "fr": "Mais demain, leur cousin de Montréal arrive, et Théo a hâte de le voir. « J'ai hâte! »",
+      "uk": "Але завтра приїжджає їхній двоюрідний брат із Монреаля, і Тео не може дочекатися зустрічі. « Не можу дочекатися! »",
+      "en": "But tomorrow, their cousin from Montréal arrives, and Théo can't wait to see him. “I can't wait!”"
+    },
+    {
+      "fr": "« Moi, j'ai le goût de lui faire une poutine », dit Emma.",
+      "uk": "« А мені хочеться приготувати йому путін », — каже Емма.",
+      "en": "“I feel like making him a poutine,” says Emma."
+    },
+    {
+      "fr": "« Bonne idée! Mais moi, j'ai de la misère à cuisiner... »",
+      "uk": "« Гарна ідея! Але мені важко дається куховарство... »",
+      "en": "“Good idea! But I have a hard time cooking...”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "avoir peur",
+      "en": "to be scared",
+      "uk": "боятися"
+    },
+    {
+      "fr": "j'ai peur",
+      "en": "I'm scared",
+      "uk": "мені страшно"
+    },
+    {
+      "fr": "avoir raison",
+      "en": "to be right",
+      "uk": "мати рацію"
+    },
+    {
+      "fr": "j'ai raison",
+      "en": "I'm right",
+      "uk": "я маю рацію"
+    },
+    {
+      "fr": "avoir tort",
+      "en": "to be wrong",
+      "uk": "помилятися"
+    },
+    {
+      "fr": "tu as tort",
+      "en": "you're wrong",
+      "uk": "ти помиляєшся"
+    },
+    {
+      "fr": "avoir l'habitude de…",
+      "en": "to be used to…",
+      "uk": "мати звичку…"
+    },
+    {
+      "fr": "j'ai l'habitude de regarder la télé",
+      "en": "I'm used to watching TV",
+      "uk": "я звик (звикла) дивитися телевізор"
+    },
+    {
+      "fr": "avoir honte de…",
+      "en": "to be ashamed of…",
+      "uk": "соромитися…"
+    },
+    {
+      "fr": "j'ai honte de toi",
+      "en": "I'm ashamed of you",
+      "uk": "мені соромно за тебе"
+    },
+    {
+      "fr": "avoir horreur de…",
+      "en": "to hate… / to loathe…",
+      "uk": "терпіти не могти…"
+    },
+    {
+      "fr": "j'ai horreur des films d'horreur",
+      "en": "I hate horror movies",
+      "uk": "я терпіти не можу фільмів жахів"
+    },
+    {
+      "fr": "avoir mal à…",
+      "en": "to have a pain in… / to hurt",
+      "uk": "боліти (щось у когось)"
+    },
+    {
+      "fr": "j'ai mal à la tête",
+      "en": "I have a headache",
+      "uk": "у мене болить голова"
+    },
+    {
+      "fr": "avoir le mal de mer",
+      "en": "to be seasick",
+      "uk": "мати морську хворобу"
+    },
+    {
+      "fr": "j'ai le mal de mer",
+      "en": "I'm seasick",
+      "uk": "мене заколисує"
+    },
+    {
+      "fr": "avoir du mal à…",
+      "en": "to find it hard to…",
+      "uk": "насилу вдаватися…"
+    },
+    {
+      "fr": "j'ai du mal à apprendre le français",
+      "en": "I find it hard to learn French",
+      "uk": "мені важко вчити французьку"
+    },
+    {
+      "fr": "avoir hâte de…",
+      "en": "to look forward to… / can't wait to… (very common in Québec)",
+      "uk": "з нетерпінням чекати… (дуже поширено в Квебеку)"
+    },
+    {
+      "fr": "j'ai hâte !",
+      "en": "I can't wait!",
+      "uk": "не можу дочекатися!"
+    },
+    {
+      "fr": "avoir le goût de…",
+      "en": "to feel like… (Québec)",
+      "uk": "хотіти… (у Квебеку)"
+    },
+    {
+      "fr": "avoir de la misère à…",
+      "en": "to have a hard time… (Québec)",
+      "uk": "мати труднощі з… (у Квебеку)"
+    }
+  ]
+}

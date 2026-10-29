@@ -1,0 +1,150 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 6: list 04, meals)",
+    "uk": "Au restaurant — лексика ресторану (набір 6: список 04, прийоми їжі)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "The meal names are the trap here, not the sounds: in Québec « déjeuner » is breakfast, « dîner » lunch and « souper » supper, while France says « petit déjeuner », « déjeuner » and « dîner ». « Déjeuner » is [deʒœne], « dîner » [dine], with the circumflex not heard. « Souper » is [supe]. « Cuisine » is [kɥizin], with the glide [ɥ] of « huit ». « Cantine » ends in a full [in]: [kɑ̃tin].",
+    "uk": "Пастка тут не у звуках, а в назвах їжі: у Квебеку « déjeuner » — це сніданок, « dîner » — обід, « souper » — вечеря, а у Франції кажуть « petit déjeuner », « déjeuner » і « dîner ». « Déjeuner » — [deʒœne], « dîner » — [dine], циркумфлекс не чути. « Souper » — [supe]. « Cuisine » — [kɥizin] із ковзним [ɥ], як у « huit ». « Cantine » закінчується повним [in]: [kɑ̃tin]."
+  },
+  "sentences": [
+    {
+      "fr": "Oleh vient d'arriver au Québec, et la nourriture est un peu différente.",
+      "uk": "Олег щойно приїхав до Квебеку, і їжа тут трохи інша.",
+      "en": "Oleh has just arrived in Québec, and the food is a bit different."
+    },
+    {
+      "fr": "Sa voisine Chantal lui explique les noms des repas.",
+      "uk": "Сусідка Шанталь пояснює йому назви прийомів їжі.",
+      "en": "His neighbour Chantal explains the names of the meals to him."
+    },
+    {
+      "fr": "« En France, le matin, on prend le petit déjeuner. Le déjeuner est à midi, et le dîner, le soir. »",
+      "uk": "« У Франції вранці снідають — le petit déjeuner. Le déjeuner — опівдні, а le dîner — увечері. »",
+      "en": "“In France, in the morning, you have breakfast. Le déjeuner is at noon, and le dîner in the evening.”"
+    },
+    {
+      "fr": "« Mais ici, le matin, on déjeune; à midi, on dîne; et le soir, on soupe! »",
+      "uk": "« А тут уранці déjeune, опівдні dîne, а ввечері soupe! »",
+      "en": "“But here, in the morning, we déjeune; at noon, we dîne; and in the evening, we soupe!”"
+    },
+    {
+      "fr": "« Alors le souper, c'est le repas du soir? » « Exactement! »",
+      "uk": "« Тобто le souper — це вечеря? » « Саме так! »",
+      "en": "“So le souper is the evening meal?” “Exactly!”"
+    },
+    {
+      "fr": "« À quelle heure est-ce que tu prends le petit déjeuner? »",
+      "uk": "« О котрій ти снідаєш? »",
+      "en": "“What time do you have breakfast?”"
+    },
+    {
+      "fr": "« À sept heures. Après, je vais au travail, et je mange à la cantine. »",
+      "uk": "« О сьомій. Потім іду на роботу й обідаю в їдальні. »",
+      "en": "“At seven. Then I go to work, and I eat at the cafeteria.”"
+    },
+    {
+      "fr": "« Ici, on dit plutôt la cafétéria. Et quel est ton plat préféré? »",
+      "uk": "« Тут радше кажуть la cafétéria. А яка твоя улюблена страва? »",
+      "en": "“Here, we'd rather say la cafétéria. And what's your favourite dish?”"
+    },
+    {
+      "fr": "« Le bortsch! La cuisine ukrainienne, c'est la meilleure! »",
+      "uk": "« Борщ! Українська кухня — найкраща! »",
+      "en": "“Borscht! Ukrainian cooking is the best!”"
+    },
+    {
+      "fr": "Ce soir-là, Chantal invite Oleh à souper chez elle, et son mari a envie de dîner tôt.",
+      "uk": "Того вечора Шанталь запрошує Олега до себе на вечерю, а її чоловік хоче поїсти раніше.",
+      "en": "That evening, Chantal invites Oleh for supper at her place, and her husband feels like eating early."
+    },
+    {
+      "fr": "Ils se mettent à table. « Bon appétit! »",
+      "uk": "Вони сідають за стіл. « Смачного! »",
+      "en": "They sit down at the table. “Enjoy your meal!”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "un repas",
+      "en": "a meal",
+      "uk": "прийом їжі"
+    },
+    {
+      "fr": "le petit déjeuner",
+      "en": "breakfast (Québec: le déjeuner)",
+      "uk": "сніданок (у Квебеку: le déjeuner)"
+    },
+    {
+      "fr": "le déjeuner",
+      "en": "lunch (Québec: breakfast)",
+      "uk": "обід (у Квебеку: сніданок)"
+    },
+    {
+      "fr": "le dîner",
+      "en": "dinner (Québec: lunch)",
+      "uk": "вечеря (у Квебеку: обід)"
+    },
+    {
+      "fr": "le souper",
+      "en": "supper, dinner (Québec)",
+      "uk": "вечеря (у Квебеку)"
+    },
+    {
+      "fr": "prendre le petit déjeuner",
+      "en": "to have breakfast",
+      "uk": "снідати"
+    },
+    {
+      "fr": "déjeuner",
+      "en": "to have lunch (Québec: to have breakfast)",
+      "uk": "обідати (у Квебеку: снідати)"
+    },
+    {
+      "fr": "dîner",
+      "en": "to have dinner (Québec: to have lunch)",
+      "uk": "вечеряти (у Квебеку: обідати)"
+    },
+    {
+      "fr": "souper",
+      "en": "to have supper (Québec)",
+      "uk": "вечеряти (у Квебеку)"
+    },
+    {
+      "fr": "manger",
+      "en": "to eat",
+      "uk": "їсти"
+    },
+    {
+      "fr": "la nourriture",
+      "en": "food",
+      "uk": "їжа"
+    },
+    {
+      "fr": "la cuisine",
+      "en": "cooking, cuisine",
+      "uk": "кухня, куховарство"
+    },
+    {
+      "fr": "la cantine",
+      "en": "the cafeteria (Québec: la cafétéria)",
+      "uk": "їдальня (у Квебеку: la cafétéria)"
+    },
+    {
+      "fr": "à quelle heure est-ce que tu prends le petit déjeuner ?",
+      "en": "what time do you have breakfast? (informal)",
+      "uk": "о котрій ти снідаєш?"
+    },
+    {
+      "fr": "quel est ton plat préféré ?",
+      "en": "what's your favourite dish? (informal)",
+      "uk": "яка твоя улюблена страва?"
+    },
+    {
+      "fr": "bon appétit !",
+      "en": "enjoy your meal!",
+      "uk": "смачного!"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 8: list 05, the buffet)",
+    "uk": "Au restaurant — лексика ресторану (набір 8: список 05, шведський стіл)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Hors-d'œuvre » is [ɔʁ dœvʁ], with a silent h and the « œ » of « œuf »; it doesn't change in the plural. « Bœuf » is [bœf], but « des bœufs » is [bø], with the f dropped. « Porc » is [pɔʁ], silent c, and « rosbif » ends in a heard [f]. « Veau » is [vo]. « Thon » is [tɔ̃], silent h. « Riz » is [ʁi], silent z. « Céleri » has two closed é sounds: [selʁi].",
+    "uk": "« Hors-d'œuvre » — [ɔʁ dœvʁ], h німе, « œ » як в « œuf »; у множині не змінюється. « Bœuf » — [bœf], але « des bœufs » — [bø], f випадає. « Porc » — [pɔʁ], c німе, а « rosbif » закінчується чутним [f]. « Veau » — [vo]. « Thon » — [tɔ̃], h німе. « Riz » — [ʁi], z німе. У « céleri » — закрите é: [selʁi]."
+  },
+  "sentences": [
+    {
+      "fr": "Ce soir, le chef Antoine prépare un grand buffet pour une fête.",
+      "uk": "Сьогодні ввечері шеф Антуан готує великий шведський стіл для свята.",
+      "en": "Tonight, chef Antoine is preparing a big buffet for a party."
+    },
+    {
+      "fr": "D'abord, les hors-d'œuvre : du jambon, du saucisson, du céleri et du melon.",
+      "uk": "Спершу закуски: шинка, салямі, селера й диня.",
+      "en": "First, the appetizers: ham, salami, celery and melon."
+    },
+    {
+      "fr": "Ensuite, il y a une soupe aux légumes.",
+      "uk": "Далі — овочевий суп.",
+      "en": "Next, there's a vegetable soup."
+    },
+    {
+      "fr": "Pour la viande, Antoine fait un poulet rôti, du porc, du rosbif et du veau.",
+      "uk": "З м'яса Антуан готує запечену курку, свинину, ростбіф і телятину.",
+      "en": "For meat, Antoine makes a roast chicken, pork, roast beef and veal."
+    },
+    {
+      "fr": "« Le rosbif, c'est du bœuf, bien sûr », explique-t-il.",
+      "uk": "« Ростбіф — це, звісно, яловичина », — пояснює він.",
+      "en": "“Roast beef is beef, of course,” he explains."
+    },
+    {
+      "fr": "Il y a aussi du poisson : du thon, de la sole et du saumon.",
+      "uk": "Є й риба: тунець, морський язик і лосось.",
+      "en": "There's also fish: tuna, sole and salmon."
+    },
+    {
+      "fr": "Avec ça, on peut prendre des spaghettis, des frites ou du riz.",
+      "uk": "До цього можна взяти спагеті, картоплю фрі або рис.",
+      "en": "With that, you can have spaghetti, fries or rice."
+    },
+    {
+      "fr": "À la fin, comme en France, il y a la salade et le fromage.",
+      "uk": "Наприкінці, як у Франції, — салат і сир.",
+      "en": "At the end, as in France, there's salad and cheese."
+    },
+    {
+      "fr": "Un invité demande : « Il y a du poulet sans sauce? » « Oui, le poulet rôti! »",
+      "uk": "Гість питає: « А є курка без соусу? » « Так, запечена курка! »",
+      "en": "A guest asks: “Is there chicken without sauce?” “Yes, the roast chicken!”"
+    },
+    {
+      "fr": "Une invitée végétarienne sourit : « Pas de viande pour moi : je prends la salade, le riz et le fromage. »",
+      "uk": "Гостя-вегетаріанка всміхається: « Мені без м'яса: я візьму салат, рис і сир. »",
+      "en": "A vegetarian guest smiles: “No meat for me: I'll have the salad, the rice and the cheese.”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "les hors-d'œuvre (m.)",
+      "en": "appetizers",
+      "uk": "закуски"
+    },
+    {
+      "fr": "la soupe",
+      "en": "soup",
+      "uk": "суп"
+    },
+    {
+      "fr": "le jambon",
+      "en": "ham",
+      "uk": "шинка"
+    },
+    {
+      "fr": "le saucisson",
+      "en": "salami",
+      "uk": "салямі (ковбаса)"
+    },
+    {
+      "fr": "le céleri",
+      "en": "celery",
+      "uk": "селера"
+    },
+    {
+      "fr": "le melon",
+      "en": "melon",
+      "uk": "диня"
+    },
+    {
+      "fr": "la viande",
+      "en": "meat",
+      "uk": "м'ясо"
+    },
+    {
+      "fr": "le poulet",
+      "en": "chicken",
+      "uk": "курка"
+    },
+    {
+      "fr": "le poulet rôti",
+      "en": "roast chicken",
+      "uk": "запечена курка"
+    },
+    {
+      "fr": "le porc",
+      "en": "pork",
+      "uk": "свинина"
+    },
+    {
+      "fr": "le bœuf",
+      "en": "beef",
+      "uk": "яловичина"
+    },
+    {
+      "fr": "le rosbif",
+      "en": "roast beef",
+      "uk": "ростбіф"
+    },
+    {
+      "fr": "le veau",
+      "en": "veal",
+      "uk": "телятина"
+    },
+    {
+      "fr": "le poisson",
+      "en": "fish",
+      "uk": "риба"
+    },
+    {
+      "fr": "le thon",
+      "en": "tuna",
+      "uk": "тунець"
+    },
+    {
+      "fr": "la sole",
+      "en": "sole",
+      "uk": "морський язик (риба)"
+    },
+    {
+      "fr": "le saumon",
+      "en": "salmon",
+      "uk": "лосось"
+    },
+    {
+      "fr": "les spaghettis (m.)",
+      "en": "spaghetti",
+      "uk": "спагеті"
+    },
+    {
+      "fr": "les frites (f.)",
+      "en": "French fries (Québec: les patates frites)",
+      "uk": "картопля фрі (у Квебеку: les patates frites)"
+    },
+    {
+      "fr": "le riz",
+      "en": "rice",
+      "uk": "рис"
+    },
+    {
+      "fr": "la salade",
+      "en": "salad, lettuce",
+      "uk": "салат"
+    },
+    {
+      "fr": "le fromage",
+      "en": "cheese",
+      "uk": "сир"
+    }
+  ]
+}

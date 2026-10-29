@@ -1,0 +1,130 @@
+{
+  "title": {
+    "en": "Au restaurant — restaurant words (set 4: list 02, desserts)",
+    "uk": "Au restaurant — лексика ресторану (набір 4: список 02, десерти)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Yaourt » is [jauʁt], with the t said; Québec spells and says it « yogourt » [joɡuʁt]. « Gâteau » is [ɡato], and « vanille » ends in [ij]: [vanij]. « Dessert » has a hard double s: [desɛʁ], unlike « désert » (desert), [dezɛʁ]. « Fraise » ends in [z]: [fʁɛz]. In Québec, ice cream is « crème glacée »; « glace » usually means ice.",
+    "uk": "« Yaourt » — [jauʁt], t вимовляється; у Квебеку пишуть і кажуть « yogourt » [joɡuʁt]. « Gâteau » — [ɡato], а « vanille » закінчується на [ij]: [vanij]. У « dessert » подвійне s звучить твердо: [desɛʁ], на відміну від « désert » (пустеля) [dezɛʁ]. « Fraise » закінчується на [z]: [fʁɛz]. У Квебеку морозиво — « crème glacée », а « glace » зазвичай означає лід."
+  },
+  "sentences": [
+    {
+      "fr": "« Zoé, mange ta salade de tomates avant le dessert! » dit maman.",
+      "uk": "« Зої, з'їж салат із помідорів перед десертом! » — каже мама.",
+      "en": "“Zoé, eat your tomato salad before dessert!” says mom."
+    },
+    {
+      "fr": "Sur la carte, il y a une tarte aux pommes, un gâteau au chocolat et une mousse au chocolat.",
+      "uk": "У меню є яблучний пиріг, шоколадний торт і шоколадний мус.",
+      "en": "On the menu, there's an apple pie, a chocolate cake and a chocolate mousse."
+    },
+    {
+      "fr": "Lucas prend une glace à la vanille, et Zoé une glace au chocolat.",
+      "uk": "Люка бере ванільне морозиво, а Зої — шоколадне.",
+      "en": "Lucas has a vanilla ice cream, and Zoé a chocolate ice cream."
+    },
+    {
+      "fr": "« Une glace? Au Québec, on dit plutôt une crème glacée », explique grand-maman.",
+      "uk": "« Une glace? У Квебеку радше кажуть une crème glacée », — пояснює бабуся.",
+      "en": "“Une glace? In Québec, we'd rather say une crème glacée,” grandma explains."
+    },
+    {
+      "fr": "Maman préfère quelque chose de léger : une salade de fruits.",
+      "uk": "Мама хоче чогось легкого: фруктовий салат.",
+      "en": "Mom prefers something light: a fruit salad."
+    },
+    {
+      "fr": "Grand-papa prend un yaourt nature, et grand-maman un yaourt à la fraise.",
+      "uk": "Дідусь бере звичайний йогурт, а бабуся — полуничний.",
+      "en": "Grandpa has a plain yogurt, and grandma a strawberry yogurt."
+    },
+    {
+      "fr": "« Ici, on dit yogourt, pas yaourt! » rit grand-papa.",
+      "uk": "« Тут кажуть yogourt, а не yaourt! » — сміється дідусь.",
+      "en": "“Here, we say yogourt, not yaourt!” grandpa laughs."
+    },
+    {
+      "fr": "Papa n'a plus faim, mais il commande quand même une crêpe. « Le dessert, c'est sacré! »",
+      "uk": "Тато вже не голодний, але все одно замовляє млинець. « Десерт — це святе! »",
+      "en": "Dad isn't hungry anymore, but he orders a crepe anyway. “Dessert is sacred!”"
+    },
+    {
+      "fr": "Et la tarte? Personne ne prend de tarte aujourd'hui!",
+      "uk": "А пиріг? Сьогодні ніхто не бере пирога!",
+      "en": "And the pie? Nobody's having pie today!"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "une salade de tomates",
+      "en": "a tomato salad",
+      "uk": "салат із помідорів"
+    },
+    {
+      "fr": "une crêpe",
+      "en": "a crepe",
+      "uk": "млинець"
+    },
+    {
+      "fr": "un dessert",
+      "en": "a dessert",
+      "uk": "десерт"
+    },
+    {
+      "fr": "un yaourt",
+      "en": "a yogurt (Québec: un yogourt)",
+      "uk": "йогурт (у Квебеку: un yogourt)"
+    },
+    {
+      "fr": "un yaourt nature",
+      "en": "a plain yogurt",
+      "uk": "йогурт без добавок"
+    },
+    {
+      "fr": "un yaourt à la fraise",
+      "en": "a strawberry yogurt",
+      "uk": "полуничний йогурт"
+    },
+    {
+      "fr": "une glace",
+      "en": "an ice cream (Québec: une crème glacée)",
+      "uk": "морозиво (у Квебеку: une crème glacée)"
+    },
+    {
+      "fr": "une glace au chocolat",
+      "en": "a chocolate ice cream",
+      "uk": "шоколадне морозиво"
+    },
+    {
+      "fr": "une glace à la vanille",
+      "en": "a vanilla ice cream",
+      "uk": "ванільне морозиво"
+    },
+    {
+      "fr": "un gâteau",
+      "en": "a cake",
+      "uk": "торт"
+    },
+    {
+      "fr": "une tarte",
+      "en": "a pie",
+      "uk": "пиріг"
+    },
+    {
+      "fr": "une tarte aux pommes",
+      "en": "an apple pie",
+      "uk": "яблучний пиріг"
+    },
+    {
+      "fr": "une mousse au chocolat",
+      "en": "a chocolate mousse",
+      "uk": "шоколадний мус"
+    },
+    {
+      "fr": "une salade de fruits",
+      "en": "a fruit salad",
+      "uk": "фруктовий салат"
+    }
+  ]
+}

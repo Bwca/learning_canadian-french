@@ -1,0 +1,185 @@
+{
+  "title": {
+    "en": "Phrases — useful phrases (set 4: avoir, hungry, hot, lucky and trust)",
+    "uk": "Phrases — корисні фрази (набір 4: avoir — голод, спека, удача й довіра)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« J'ai » is [ʒe], with a closed é, not the [ʒɛ] of « j'aime ». « Faim » is the nasal [fɛ̃]: no [m] is said. « Vingt ans » links its t: [vɛ̃ t‿ɑ̃], though « vingt » alone is [vɛ̃]. « Sommeil » ends in [j]: [sɔmɛj]. « Envie » starts with the nasal [ɑ̃]. In Québec « j'ai » is often [ʒɛ], and « crème glacée » is what everyone calls ice cream.",
+    "uk": "« J'ai » — це [ʒe] із закритим é, а не [ʒɛ], як у « j'aime ». « Faim » — носове [fɛ̃], [m] не вимовляється. « Vingt ans » зливається через t: [vɛ̃ t‿ɑ̃], хоча окремо « vingt » — [vɛ̃]. « Sommeil » закінчується на [j]: [sɔmɛj]. « Envie » починається з носового [ɑ̃]. У Квебеку « j'ai » часто звучить як [ʒɛ], а морозиво всі називають « crème glacée »."
+  },
+  "sentences": [
+    {
+      "fr": "Aujourd'hui, c'est la fête de Léa : elle a vingt ans.",
+      "uk": "Сьогодні в Леа день народження: їй двадцять.",
+      "en": "Today is Léa's birthday: she's twenty."
+    },
+    {
+      "fr": "« J'ai vingt ans, et j'ai de la chance : il fait beau! »",
+      "uk": "« Мені двадцять, і мені пощастило: надворі гарна погода! »",
+      "en": "“I'm twenty, and I'm lucky: the weather is nice!”"
+    },
+    {
+      "fr": "Elle va au lac avec son ami Sam.",
+      "uk": "Вона їде на озеро зі своїм другом Семом.",
+      "en": "She goes to the lake with her friend Sam."
+    },
+    {
+      "fr": "Là-bas, Léa rencontre Max, un ami de Sam : « Bonne fête! J'ai la chance de te rencontrer enfin! »",
+      "uk": "Там Леа знайомиться з Максом, другом Сема: « З днем народження! Мені пощастило нарешті з тобою познайомитися! »",
+      "en": "There, Léa meets Max, a friend of Sam's: “Happy birthday! I'm lucky to finally meet you!”"
+    },
+    {
+      "fr": "À midi, il fait trente degrés. « J'ai chaud! » dit Léa.",
+      "uk": "Опівдні тридцять градусів. « Мені спекотно! » — каже Леа.",
+      "en": "At noon, it's thirty degrees. “I'm hot!” says Léa."
+    },
+    {
+      "fr": "Sam a soif, alors il boit de l'eau. « Moi aussi, j'ai soif. »",
+      "uk": "Сем хоче пити, тож п'є воду. « Я теж хочу пити. »",
+      "en": "Sam is thirsty, so he drinks some water. “I'm thirsty too.”"
+    },
+    {
+      "fr": "« Et j'ai faim! J'ai besoin de manger. »",
+      "uk": "« І я голодна! Мені треба поїсти. »",
+      "en": "“And I'm hungry! I need to eat.”"
+    },
+    {
+      "fr": "« J'ai envie de manger une crème glacée! »",
+      "uk": "« Мені хочеться морозива! »",
+      "en": "“I feel like eating an ice cream!”"
+    },
+    {
+      "fr": "Ils nagent, mais l'eau du lac est froide. « J'ai froid! » crie Sam.",
+      "uk": "Вони плавають, але вода в озері холодна. « Мені холодно! » — кричить Сем.",
+      "en": "They swim, but the lake water is cold. “I'm cold!” shouts Sam."
+    },
+    {
+      "fr": "Pour rentrer, Léa a confiance en Sam : elle lui donne les clés de son auto.",
+      "uk": "Щоб повернутися додому, Леа довіряє Семові: віддає йому ключі від своєї машини.",
+      "en": "To go home, Léa trusts Sam: she gives him her car keys."
+    },
+    {
+      "fr": "« J'ai confiance en toi. C'est toi qui conduis! »",
+      "uk": "« Я тобі довіряю. За кермом — ти! »",
+      "en": "“I trust you. You're driving!”"
+    },
+    {
+      "fr": "Le soir, Léa a sommeil. « J'ai sommeil, mais quelle belle journée! »",
+      "uk": "Увечері Леа хоче спати. « Я сонна, але який чудовий день! »",
+      "en": "In the evening, Léa is sleepy. “I'm sleepy, but what a lovely day!”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "avoir vingt ans",
+      "en": "to be twenty years old",
+      "uk": "мати двадцять років"
+    },
+    {
+      "fr": "j'ai vingt ans",
+      "en": "I'm twenty",
+      "uk": "мені двадцять років"
+    },
+    {
+      "fr": "avoir besoin de…",
+      "en": "to need…",
+      "uk": "потребувати…"
+    },
+    {
+      "fr": "j'ai besoin de…",
+      "en": "I need…",
+      "uk": "мені потрібно…"
+    },
+    {
+      "fr": "avoir la chance de…",
+      "en": "to be lucky to…",
+      "uk": "мати щастя…"
+    },
+    {
+      "fr": "j'ai la chance de te rencontrer",
+      "en": "I'm lucky to meet you",
+      "uk": "мені пощастило з тобою познайомитися"
+    },
+    {
+      "fr": "avoir de la chance",
+      "en": "to be lucky",
+      "uk": "мати везіння, щастити"
+    },
+    {
+      "fr": "j'ai de la chance",
+      "en": "I'm lucky",
+      "uk": "мені щастить"
+    },
+    {
+      "fr": "avoir chaud",
+      "en": "to be hot (feel hot)",
+      "uk": "бути спекотно (комусь)"
+    },
+    {
+      "fr": "j'ai chaud",
+      "en": "I'm hot",
+      "uk": "мені жарко"
+    },
+    {
+      "fr": "avoir froid",
+      "en": "to be cold (feel cold)",
+      "uk": "мерзнути, бути холодно (комусь)"
+    },
+    {
+      "fr": "j'ai froid",
+      "en": "I'm cold",
+      "uk": "мені холодно"
+    },
+    {
+      "fr": "avoir confiance en quelqu'un",
+      "en": "to trust someone",
+      "uk": "довіряти комусь"
+    },
+    {
+      "fr": "j'ai confiance en toi",
+      "en": "I trust you",
+      "uk": "я тобі довіряю"
+    },
+    {
+      "fr": "avoir envie de…",
+      "en": "to feel like…",
+      "uk": "хотіти… (мати бажання)"
+    },
+    {
+      "fr": "j'ai envie de manger une crème glacée",
+      "en": "I feel like eating an ice cream (France: une glace)",
+      "uk": "мені хочеться морозива (у Франції: une glace)"
+    },
+    {
+      "fr": "avoir faim",
+      "en": "to be hungry",
+      "uk": "бути голодним"
+    },
+    {
+      "fr": "j'ai faim",
+      "en": "I'm hungry",
+      "uk": "я голодний (голодна)"
+    },
+    {
+      "fr": "avoir soif",
+      "en": "to be thirsty",
+      "uk": "хотіти пити"
+    },
+    {
+      "fr": "j'ai soif",
+      "en": "I'm thirsty",
+      "uk": "я хочу пити"
+    },
+    {
+      "fr": "avoir sommeil",
+      "en": "to be sleepy",
+      "uk": "хотіти спати"
+    },
+    {
+      "fr": "j'ai sommeil",
+      "en": "I'm sleepy",
+      "uk": "я хочу спати"
+    }
+  ]
+}

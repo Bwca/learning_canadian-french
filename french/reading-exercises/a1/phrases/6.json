@@ -1,0 +1,165 @@
+{
+  "title": {
+    "en": "Phrases — useful phrases (set 6: est-ce que questions)",
+    "uk": "Phrases — корисні фрази (набір 6: питання з est-ce que)"
+  },
+  "sounds": [],
+  "focus": {
+    "en": "« Est-ce que » is said as one word, [ɛskə], and before a vowel it becomes « est-ce qu' » [ɛsk]: « est-ce qu'elles ». After a question word it stays the same: « où est-ce que » [u ɛskə], « quand est-ce que » links its d as a [t]: [kɑ̃ t‿ɛskə]. Without « est-ce que », the voice simply rises at the end. The Québec « tu viens-tu? » adds a [ty] after the verb to mark a casual question.",
+    "uk": "« Est-ce que » вимовляють як одне слово — [ɛskə], а перед голосним воно стає « est-ce qu' » [ɛsk]: « est-ce qu'elles ». Після питального слова воно не змінюється: « où est-ce que » [u ɛskə], а в « quand est-ce que » d зливається як [t]: [kɑ̃ t‿ɛskə]. Без « est-ce que » голос просто підвищується в кінці. Квебекське « tu viens-tu? » додає [ty] після дієслова, щоб позначити невимушене питання."
+  },
+  "sentences": [
+    {
+      "fr": "Nicole rencontre son nouveau voisin, Pierre. Elle a beaucoup de questions.",
+      "uk": "Ніколь знайомиться зі своїм новим сусідом П'єром. У неї багато запитань.",
+      "en": "Nicole meets her new neighbour, Pierre. She has lots of questions."
+    },
+    {
+      "fr": "« Est-ce que tu es français? » « Oui, je viens de Lyon. »",
+      "uk": "« Ти француз? » « Так, я з Ліона. »",
+      "en": "“Are you French?” “Yes, I'm from Lyon.”"
+    },
+    {
+      "fr": "« Où est-ce que tu travailles? » « À l'hôpital. »",
+      "uk": "« Де ти працюєш? » « У лікарні. »",
+      "en": "“Where do you work?” “At the hospital.”"
+    },
+    {
+      "fr": "« Et quand est-ce que tu as commencé? » « Il y a deux semaines. »",
+      "uk": "« А коли ти почав? » « Два тижні тому. »",
+      "en": "“And when did you start?” “Two weeks ago.”"
+    },
+    {
+      "fr": "« Est-ce que tu as un frère? » « Non, j'ai deux sœurs. »",
+      "uk": "« У тебе є брат? » « Ні, у мене дві сестри. »",
+      "en": "“Do you have a brother?” “No, I have two sisters.”"
+    },
+    {
+      "fr": "La petite Mia demande aussi, plus simplement : « Tu as un frère? »",
+      "uk": "Маленька Мія теж питає, простіше: « А в тебе є брат? »",
+      "en": "Little Mia asks too, more simply: “Do you have a brother?”"
+    },
+    {
+      "fr": "Pierre demande à Nicole : « Est-ce que les enfants sont allés à la piscine hier? » « Oui, et ils sont fatigués! »",
+      "uk": "П'єр питає Ніколь: « Діти ходили вчора в басейн? » « Так, і вони втомилися! »",
+      "en": "Pierre asks Nicole: “Did the children go to the swimming pool yesterday?” “Yes, and they're tired!”"
+    },
+    {
+      "fr": "« Et tes filles? Est-ce qu'elles ont fini leurs devoirs? »",
+      "uk": "« А твої доньки? Вони вже зробили домашнє завдання? »",
+      "en": "“And your daughters? Have they finished their homework?”"
+    },
+    {
+      "fr": "Mia : « Est-ce que tu aimes les pommes? On a un pommier! »",
+      "uk": "Мія: « Ти любиш яблука? У нас є яблуня! »",
+      "en": "Mia: “Do you like apples? We have an apple tree!”"
+    },
+    {
+      "fr": "Nicole à son fils : « Est-ce que tu as mangé tes légumes? »",
+      "uk": "Ніколь — синові: « Ти з'їв овочі? »",
+      "en": "Nicole to her son: “Have you eaten your vegetables?”"
+    },
+    {
+      "fr": "« Pourquoi est-ce que je dois manger des légumes? »",
+      "uk": "« А чому я мушу їсти овочі? »",
+      "en": "“Why do I have to eat vegetables?”"
+    },
+    {
+      "fr": "Pierre : « Comment est-ce que vous dites « cinéma » au Québec? » « On dit aussi « les vues »! »",
+      "uk": "П'єр: « Як у Квебеку кажуть « кіно »? » « Ще кажуть « les vues »! »",
+      "en": "Pierre: “How do you say ‘cinéma’ in Québec?” “We also say ‘les vues’!”"
+    },
+    {
+      "fr": "« Est-ce que tu viens au cinéma avec nous ce soir? » demande Nicole.",
+      "uk": "« Підеш із нами ввечері в кіно? » — питає Ніколь.",
+      "en": "“Are you coming to the movies with us tonight?” asks Nicole."
+    },
+    {
+      "fr": "Mia, plus vite : « Tu viens-tu au cinéma? »",
+      "uk": "Мія, швидше: « Ну що, підеш у кіно? »",
+      "en": "Mia, faster: “Are you coming to the movies?”"
+    },
+    {
+      "fr": "« Oui! Mais avant, est-ce que vous mangez au restaurant aujourd'hui? » « Non, à la maison. Viens souper! »",
+      "uk": "« Так! Але спершу: ви сьогодні їсте в ресторані? » « Ні, удома. Приходь на вечерю! »",
+      "en": "“Yes! But first, are you eating at the restaurant today?” “No, at home. Come for supper!”"
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "est-ce que… ?",
+      "en": "is it that…? (turns a statement into a yes/no question)",
+      "uk": "чи…? (робить із твердження загальне питання)"
+    },
+    {
+      "fr": "est-ce que tu es français ?",
+      "en": "are you French?",
+      "uk": "ти француз?"
+    },
+    {
+      "fr": "est-ce que tu viens au cinéma avec nous ce soir ?",
+      "en": "are you coming to the movies with us tonight?",
+      "uk": "ти підеш із нами сьогодні ввечері в кіно?"
+    },
+    {
+      "fr": "est-ce que vous mangez au restaurant aujourd'hui ?",
+      "en": "are you eating at the restaurant today?",
+      "uk": "ви сьогодні обідаєте в ресторані?"
+    },
+    {
+      "fr": "est-ce que les enfants sont allés à la piscine hier ?",
+      "en": "did the children go to the swimming pool yesterday?",
+      "uk": "діти ходили вчора в басейн?"
+    },
+    {
+      "fr": "est-ce qu'elles ont fini leurs devoirs ?",
+      "en": "have they finished their homework?",
+      "uk": "вони (жін.) зробили домашнє завдання?"
+    },
+    {
+      "fr": "est-ce que tu aimes les pommes ?",
+      "en": "do you like apples?",
+      "uk": "ти любиш яблука?"
+    },
+    {
+      "fr": "est-ce que tu as un frère ?",
+      "en": "do you have a brother?",
+      "uk": "у тебе є брат?"
+    },
+    {
+      "fr": "est-ce que tu as mangé tes légumes ?",
+      "en": "have you eaten your vegetables?",
+      "uk": "ти з'їв свої овочі?"
+    },
+    {
+      "fr": "tu as un frère ?",
+      "en": "do you have a brother? (rising intonation, no est-ce que)",
+      "uk": "у тебе є брат? (висхідна інтонація, без est-ce que)"
+    },
+    {
+      "fr": "tu viens-tu au cinéma ?",
+      "en": "are you coming to the movies? (Québec, informal: -tu marks the question)",
+      "uk": "ти йдеш у кіно? (у Квебеку, неформально: -tu позначає питання)"
+    },
+    {
+      "fr": "quand est-ce que… ?",
+      "en": "when…?",
+      "uk": "коли…?"
+    },
+    {
+      "fr": "comment est-ce que… ?",
+      "en": "how…?",
+      "uk": "як…?"
+    },
+    {
+      "fr": "pourquoi est-ce que… ?",
+      "en": "why…?",
+      "uk": "чому…?"
+    },
+    {
+      "fr": "où est-ce que… ?",
+      "en": "where…?",
+      "uk": "де…?"
+    }
+  ]
+}
