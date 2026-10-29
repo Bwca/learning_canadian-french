@@ -9,7 +9,7 @@ est-ce que tu as un frère ?	do you have a brother?	[sound:do-you-have-a-brother
 est-ce que tu as mangé tes légumes ?	have you eaten your vegetables?	[sound:have-you-eaten-your-vegetables.webm]	/ɛs kə ty a mɑ̃ʒe te leɡym/	ти з'їв свої овочі?
 tu as un frère ?	do you have a brother? (rising intonation, no est-ce que)	[sound:do-you-have-a-brother-rising-intonation-no-est-ce-que.webm]	/ty a œ̃ fʁɛʁ/	у тебе є брат? (висхідна інтонація, без est-ce que)
 tu viens-tu au cinéma ?	are you coming to the movies? (Québec, informal: -tu marks the question)	[sound:are-you-coming-to-the-movies-quebec-informal-tu-marks-the-qu.webm]	/ty vjɛ̃ ty o sinema/	ти йдеш у кіно? (у Квебеку, неформально: -tu позначає питання)
-quand est-ce que… ?	when…?	[sound:when.webm]	/kɑ̃t ɛs kə/	коли…?
-comment est-ce que… ?	how…?	[sound:how.webm]	/kɔmɑ̃ ɛs kə/	як…?
-pourquoi est-ce que… ?	why…?	[sound:why.webm]	/puʁkwa ɛs kə/	чому…?
-où est-ce que… ?	where…?	[sound:where.webm]	/u ɛs kə/	де…?
+quand est-ce que… ?	when…?	[sound:when-est-ce-que.webm]	/kɑ̃t ɛs kə/	коли…?
+comment est-ce que… ?	how…?	[sound:how-est-ce-que.webm]	/kɔmɑ̃ ɛs kə/	як…?
+pourquoi est-ce que… ?	why…?	[sound:why-est-ce-que.webm]	/puʁkwa ɛs kə/	чому…?
+où est-ce que… ?	where…?	[sound:where-est-ce-que.webm]	/u ɛs kə/	де…?
