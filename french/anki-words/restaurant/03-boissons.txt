@@ -1,0 +1,24 @@
+une boisson	a drink, a beverage (Québec: un breuvage)	[sound:a-drink-a-beverage-qu-bec-un-breuvage.webm]	/yn bwasɔ̃/	напій (у Квебеку: un breuvage)
+boire	to drink	[sound:to-drink.webm]	/bwaʁ/	пити
+un café	a coffee	[sound:a-coffee.webm]	/œ̃ kafe/	кава
+un café au lait	a coffee with milk	[sound:a-coffee-with-milk.webm]	/œ̃ kafe o lɛ/	кава з молоком
+un chocolat chaud	a hot chocolate	[sound:a-hot-chocolate.webm]	/œ̃ ʃɔkɔla ʃo/	гарячий шоколад
+un thé	a tea	[sound:a-tea.webm]	/œ̃ te/	чай
+un thé glacé	an iced tea	[sound:an-iced-tea.webm]	/œ̃ te ɡlase/	холодний чай
+un soda	a soft drink (Québec: une boisson gazeuse, une liqueur)	[sound:a-soft-drink-qu-bec-une-boisson-gazeuse-une-liqueur.webm]	/œ̃ sɔda/	газований напій (у Квебеку: une boisson gazeuse, une liqueur)
+un coca	a Coke	[sound:a-coke.webm]	/œ̃ kɔka/	кола
+une limonade	a lemon soda (Québec: a lemonade)	[sound:a-lemon-soda-qu-bec-a-lemonade.webm]	/yn limɔnad/	лимонний газований напій (у Квебеку: лимонад)
+un jus d'orange	an orange juice	[sound:an-orange-juice.webm]	/œ̃ ʒy dɔʁɑ̃ʒ/	апельсиновий сік
+un jus de pomme	an apple juice	[sound:an-apple-juice.webm]	/œ̃ ʒy də pɔm/	яблучний сік
+un jus de raisin	a grape juice	[sound:a-grape-juice.webm]	/œ̃ ʒy də ʁɛzɛ̃/	виноградний сік
+un jus de tomate	a tomato juice	[sound:a-tomato-juice.webm]	/œ̃ ʒy də tɔmat/	томатний сік
+un jus de pamplemousse	a grapefruit juice	[sound:a-grapefruit-juice.webm]	/œ̃ ʒy də pɑ̃pləmus/	грейпфрутовий сік
+l'eau (f.)	water	[sound:water-restaurant.webm]	/lo/	вода
+l'eau minérale	mineral water	[sound:mineral-water.webm]	/lo mineʁal/	мінеральна вода
+le lait	milk	[sound:milk.webm]	/lə lɛ/	молоко
+un verre d'eau	a glass of water	[sound:a-glass-of-water.webm]	/œ̃ vɛʁ do/	склянка води
+une tasse de thé	a cup of tea	[sound:a-cup-of-tea.webm]	/yn tas də te/	чашка чаю
+avec du sucre	with sugar	[sound:with-sugar.webm]	/avɛk dy sykʁ/	із цукром
+sans sucre	without sugar	[sound:without-sugar.webm]	/sɑ̃ sykʁ/	без цукру
+chaud	hot	[sound:hot.webm]	/ʃo/	гарячий
+froid	cold	[sound:cold-restaurant.webm]	/fʁwa/	холодний

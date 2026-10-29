@@ -1,0 +1,43 @@
+le menu	the menu	[sound:the-menu.webm]	/lə məny/	меню
+la spécialité	the specialty	[sound:the-specialty.webm]	/la spesjalite/	фірмова страва
+l'entrée (f.)	the appetizer, the starter (not the main course)	[sound:the-appetizer-the-starter-not-the-main-course.webm]	/lɑ̃tʁe/	закуска, перша страва (не основна)
+le plat principal	the main course	[sound:the-main-course.webm]	/lə pla pʁɛ̃sipal/	основна страва
+la table d'hôte	the set menu (Québec)	[sound:the-set-menu-qu-bec.webm]	/la tabl dot/	комплексне меню (у Квебеку)
+un hambourgeois	a hamburger (Québec, mostly on menus)	[sound:a-hamburger-qu-bec-mostly-on-menus.webm]	/œ̃ ɑ̃buʁʒwa/	гамбургер (у Квебеку, переважно в меню)
+une omelette western	a western omelette (ham, potatoes, onions)	[sound:a-western-omelette-ham-potatoes-onions.webm]	/yn ɔmlɛt wɛstɛʁn/	омлет «вестерн» (шинка, картопля, цибуля)
+la soupe aux pois	pea soup (Québec)	[sound:pea-soup-qu-bec.webm]	/la sup o pwa/	гороховий суп (у Квебеку)
+la soupe à l'oignon gratinée	French onion soup	[sound:french-onion-soup.webm]	/la sup a lɔɲɔ̃ ɡʁatine/	цибулевий суп, запечений із сиром
+la salade maison	the house salad	[sound:the-house-salad.webm]	/la salad mɛzɔ̃/	фірмовий салат
+la salade César	Caesar salad	[sound:caesar-salad.webm]	/la salad sezaʁ/	салат «Цезар»
+la poutine	poutine (fries, cheese curds and gravy)	[sound:poutine-fries-cheese-curds-and-gravy.webm]	/la putin/	путін (картопля фрі із сиром і підливою)
+les fèves au lard (f.)	pork and beans	[sound:pork-and-beans.webm]	/le fɛv o laʁ/	квасоля з салом
+les rôties (f.)	toast (Québec)	[sound:toast-qu-bec.webm]	/le ʁoti/	тости (у Квебеку)
+le sirop d'érable	maple syrup	[sound:maple-syrup.webm]	/lə siʁo deʁabl/	кленовий сироп
+la crème glacée	ice cream (Québec)	[sound:ice-cream-qu-bec.webm]	/la kʁɛm ɡlase/	морозиво (у Квебеку)
+les fraises (f.)	strawberries	[sound:strawberries.webm]	/le fʁɛz/	полуниця
+les bleuets (m.)	blueberries (Québec)	[sound:blueberries-qu-bec.webm]	/le bløɛ/	лохина (у Квебеку)
+les pêches (f.)	peaches	[sound:peaches.webm]	/le pɛʃ/	персики
+les poires (f.)	pears	[sound:pears.webm]	/le pwaʁ/	груші
+l'ananas (m.)	pineapple	[sound:pineapple.webm]	/lanana/	ананас
+la tarte au sucre	sugar pie (Québec)	[sound:sugar-pie-qu-bec.webm]	/la taʁt o sykʁ/	цукровий пиріг (у Квебеку)
+le gâteau au fromage	cheesecake	[sound:cheesecake.webm]	/lə ɡato o fʁɔmaʒ/	чизкейк
+la forêt-noire	Black Forest cake	[sound:black-forest-cake.webm]	/la fɔʁɛ nwaʁ/	торт «Чорний ліс»
+les breuvages (m.)	drinks (Québec, on menus)	[sound:drinks-qu-bec-on-menus.webm]	/le bʁœvaʒ/	напої (у Квебеку, у меню)
+une liqueur douce	a soft drink (Québec)	[sound:a-soft-drink-qu-bec.webm]	/yn likœʁ dus/	газований напій (у Квебеку)
+le nectar d'abricot	apricot nectar	[sound:apricot-nectar.webm]	/lə nɛktaʁ dabʁiko/	абрикосовий нектар
+une omelette jambon et fromage	a ham and cheese omelette	[sound:a-ham-and-cheese-omelette.webm]	/yn ɔmlɛt ʒɑ̃bɔ̃ e fʁɔmaʒ/	омлет із шинкою та сиром
+une omelette espagnole	a Spanish omelette (tomatoes, peppers, onions)	[sound:a-spanish-omelette-tomatoes-peppers-onions.webm]	/yn ɔmlɛt ɛspaɲɔl/	іспанський омлет (помідори, перець, цибуля)
+une omelette lyonnaise	an omelette with onions	[sound:an-omelette-with-onions.webm]	/yn ɔmlɛt ljɔnɛz/	омлет із цибулею
+une omelette niçoise	an omelette with tomatoes and artichoke hearts	[sound:an-omelette-with-tomatoes-and-artichoke-hearts.webm]	/yn ɔmlɛt niswaz/	омлет із помідорами й артишоками
+une omelette paysanne	a country omelette (bacon, potatoes, onions, herbs)	[sound:a-country-omelette-bacon-potatoes-onions-herbs.webm]	/yn ɔmlɛt peizan/	селянський омлет (бекон, картопля, цибуля, зелень)
+une omelette provençale	an omelette with tomatoes, garlic and parsley	[sound:an-omelette-with-tomatoes-garlic-and-parsley.webm]	/yn ɔmlɛt pʁɔvɑ̃sal/	провансальський омлет (помідори, часник, петрушка)
+les crêpes à la poêle (f.)	pan-fried crepes	[sound:pan-fried-crepes.webm]	/le kʁɛp a la pwal/	млинці на пательні
+la salade de poulet	chicken salad	[sound:chicken-salad.webm]	/la salad də pulɛ/	салат із куркою
+le hambourgeois deluxe	a deluxe hamburger with all the fixings (Québec)	[sound:a-deluxe-hamburger-with-all-the-fixings-qu-bec.webm]	/lə ɑ̃buʁʒwa dəlyks/	гамбургер «делюкс» з усіма додатками (у Квебеку)
+la mousse au chocolat	chocolate mousse	[sound:chocolate-mousse.webm]	/la mus o ʃɔkɔla/	шоколадний мус
+le shortcake aux fraises	strawberry shortcake	[sound:strawberry-shortcake.webm]	/lə ʃɔʁtkɛk o fʁɛz/	полуничний шорткейк
+les fraises à la crème (f.)	strawberries and cream	[sound:strawberries-and-cream.webm]	/le fʁɛz a la kʁɛm/	полуниця з вершками
+la cassata maison	the house Italian ice cream	[sound:the-house-italian-ice-cream.webm]	/la kasata mɛzɔ̃/	фірмове італійське морозиво кассата
+le jus de pamplemousse	grapefruit juice	[sound:grapefruit-juice.webm]	/lə ʒy də pɑ̃pləmus/	грейпфрутовий сік
+le nectar de poire	pear nectar	[sound:pear-nectar.webm]	/lə nɛktaʁ də pwaʁ/	грушевий нектар
+les taxes ne sont pas incluses	taxes aren't included	[sound:taxes-aren-t-included.webm]	/le taks nə sɔ̃ pa zɛ̃klyz/	податки не включено

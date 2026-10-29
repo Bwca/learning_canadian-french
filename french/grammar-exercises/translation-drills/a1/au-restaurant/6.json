@@ -1,0 +1,148 @@
+{
+ "title": {
+  "en": "At the restaurant 6: offering, accepting and giving opinions",
+  "uk": "У ресторані 6: пропонуємо, погоджуємося й оцінюємо"
+ },
+ "exercises": [
+  {
+   "en": "What do you want to drink? (informal)",
+   "uk": "Що ти хочеш пити?",
+   "fr": "Qu'est-ce que tu veux boire?",
+   "vocab": [
+    {
+     "fr": "boire",
+     "en": "to drink",
+     "uk": "пити"
+    }
+   ]
+  },
+  {
+   "en": "I'd like an apple juice, please. (informal)",
+   "uk": "Я б хотів яблучного соку, будь ласка.",
+   "fr": "J'aimerais un jus de pomme, s'il te plaît.",
+   "vocab": [
+    {
+     "fr": "j'aimerais",
+     "en": "I'd like",
+     "uk": "я хотів би"
+    }
+   ]
+  },
+  {
+   "en": "Do you want more toast? (informal, Québec)",
+   "uk": "Візьмеш ще тостів?",
+   "fr": "Tu reprends des rôties?",
+   "vocab": [
+    {
+     "fr": "reprendre",
+     "en": "to have more, to take again",
+     "uk": "брати ще"
+    },
+    {
+     "fr": "les rôties",
+     "en": "toast (Québec)",
+     "uk": "тости (у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "Yes, please. I'm still hungry.",
+   "uk": "Так, залюбки. Я ще голодний.",
+   "fr": "Oui, je veux bien. J'ai encore faim.",
+   "vocab": [
+    {
+     "fr": "je veux bien",
+     "en": "yes, please (I'd love to)",
+     "uk": "залюбки"
+    },
+    {
+     "fr": "encore",
+     "en": "still, more",
+     "uk": "ще"
+    }
+   ]
+  },
+  {
+   "en": "No, thank you, I'm not hungry anymore.",
+   "uk": "Ні, дякую, я вже не голодний.",
+   "fr": "Non, merci, je n'ai plus faim.",
+   "vocab": [
+    {
+     "fr": "ne… plus",
+     "en": "not anymore",
+     "uk": "вже не"
+    }
+   ]
+  },
+  {
+   "en": "Is the croissant good?",
+   "uk": "Круасан смачний?",
+   "fr": "Il est bon, le croissant?",
+   "vocab": [
+    {
+     "fr": "bon / bonne",
+     "en": "good, tasty",
+     "uk": "смачний / смачна"
+    }
+   ]
+  },
+  {
+   "en": "Yes, delicious!",
+   "uk": "Так, дуже смачний!",
+   "fr": "Oui, délicieux!",
+   "vocab": [
+    {
+     "fr": "délicieux / délicieuse",
+     "en": "delicious",
+     "uk": "дуже смачний / дуже смачна"
+    }
+   ]
+  },
+  {
+   "en": "How's the onion soup?",
+   "uk": "Який на смак цибулевий суп?",
+   "fr": "Elle est comment, la soupe à l'oignon?",
+   "vocab": [
+    {
+     "fr": "comment",
+     "en": "how, what … like",
+     "uk": "як, який"
+    }
+   ]
+  },
+  {
+   "en": "Not bad, but the sugar pie is excellent!",
+   "uk": "Непоганий, але цукровий пиріг чудовий!",
+   "fr": "Pas mauvaise, mais la tarte au sucre est excellente!",
+   "vocab": [
+    {
+     "fr": "pas mauvais / pas mauvaise",
+     "en": "not bad",
+     "uk": "непоганий / непогана"
+    },
+    {
+     "fr": "la tarte au sucre",
+     "en": "sugar pie (Québec)",
+     "uk": "цукровий пиріг (у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "How do you like the coffee? Not good at all! (informal)",
+   "uk": "Як тобі кава? Зовсім несмачна!",
+   "fr": "Comment tu trouves le café? Pas bon du tout!",
+   "vocab": [
+    {
+     "fr": "comment tu trouves…?",
+     "en": "how do you like…? (informal)",
+     "uk": "як тобі…?"
+    },
+    {
+     "fr": "pas du tout",
+     "en": "not at all",
+     "uk": "зовсім ні"
+    }
+   ]
+  }
+ ]
+}

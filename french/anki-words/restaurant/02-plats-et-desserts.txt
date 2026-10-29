@@ -1,0 +1,29 @@
+un plat	a dish	[sound:a-dish.webm]	/œ̃ pla/	страва
+un croissant	a croissant	[sound:a-croissant.webm]	/œ̃ kʁwasɑ̃/	круасан
+un croque-monsieur	a grilled ham-and-cheese sandwich	[sound:a-grilled-ham-and-cheese-sandwich.webm]	/œ̃ kʁɔk məsjø/	гарячий бутерброд із шинкою та сиром
+un sandwich au jambon	a ham sandwich	[sound:a-ham-sandwich.webm]	/œ̃ sɑ̃dwitʃ o ʒɑ̃bɔ̃/	сендвіч із шинкою
+un sandwich au fromage	a cheese sandwich	[sound:a-cheese-sandwich.webm]	/œ̃ sɑ̃dwitʃ o fʁɔmaʒ/	сендвіч із сиром
+un sandwich au saucisson	a salami sandwich	[sound:a-salami-sandwich.webm]	/œ̃ sɑ̃dwitʃ o sosisɔ̃/	сендвіч із салямі
+un steak-frites	steak with French fries	[sound:steak-with-french-fries.webm]	/œ̃ stɛk fʁit/	стейк із картоплею фрі
+un hamburger	a hamburger	[sound:a-hamburger.webm]	/œ̃ ambuʁɡœʁ/	гамбургер
+un hot-dog	a hot dog	[sound:a-hot-dog.webm]	/œ̃ ɔt dɔɡ/	хот-дог
+une omelette nature	a plain omelette	[sound:a-plain-omelette.webm]	/yn ɔmlɛt natyʁ/	омлет без начинки
+une omelette aux champignons	a mushroom omelette	[sound:a-mushroom-omelette.webm]	/yn ɔmlɛt o ʃɑ̃piɲɔ̃/	омлет із грибами
+une omelette aux fines herbes	an omelette with herbs	[sound:an-omelette-with-herbs.webm]	/yn ɔmlɛt o fin zɛʁb/	омлет із зеленню
+une pizza	a pizza	[sound:a-pizza.webm]	/yn pidza/	піца
+une pizza aux anchois	an anchovy pizza	[sound:an-anchovy-pizza.webm]	/yn pidza o zɑ̃ʃwa/	піца з анчоусами
+une salade verte	a green salad	[sound:a-green-salad.webm]	/yn salad vɛʁt/	зелений салат
+une salade de tomates	a tomato salad	[sound:a-tomato-salad.webm]	/yn salad də tɔmat/	салат із помідорів
+une crêpe	a crepe	[sound:a-crepe.webm]	/yn kʁɛp/	млинець
+un dessert	a dessert	[sound:a-dessert.webm]	/œ̃ desɛʁ/	десерт
+un yaourt	a yogurt (Québec: un yogourt)	[sound:a-yogurt-qu-bec-un-yogourt.webm]	/œ̃ jauʁt/	йогурт (у Квебеку: un yogourt)
+un yaourt nature	a plain yogurt	[sound:a-plain-yogurt.webm]	/œ̃ jauʁt natyʁ/	йогурт без добавок
+un yaourt à la fraise	a strawberry yogurt	[sound:a-strawberry-yogurt.webm]	/œ̃ jauʁt a la fʁɛz/	полуничний йогурт
+une glace	an ice cream (Québec: une crème glacée)	[sound:an-ice-cream-qu-bec-une-cr-me-glac-e.webm]	/yn ɡlas/	морозиво (у Квебеку: une crème glacée)
+une glace au chocolat	a chocolate ice cream	[sound:a-chocolate-ice-cream.webm]	/yn ɡlas o ʃɔkɔla/	шоколадне морозиво
+une glace à la vanille	a vanilla ice cream	[sound:a-vanilla-ice-cream.webm]	/yn ɡlas a la vanij/	ванільне морозиво
+un gâteau	a cake	[sound:a-cake.webm]	/œ̃ ɡato/	торт
+une tarte	a pie	[sound:a-pie.webm]	/yn taʁt/	пиріг
+une tarte aux pommes	an apple pie	[sound:an-apple-pie.webm]	/yn taʁt o pɔm/	яблучний пиріг
+une mousse au chocolat	a chocolate mousse	[sound:a-chocolate-mousse.webm]	/yn mus o ʃɔkɔla/	шоколадний мус
+une salade de fruits	a fruit salad	[sound:a-fruit-salad.webm]	/yn salad də fʁɥi/	фруктовий салат

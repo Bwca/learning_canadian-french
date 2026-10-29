@@ -1,0 +1,131 @@
+{
+ "title": {
+  "en": "At the restaurant 1: are you hungry? (offering and asking, informal)",
+  "uk": "У ресторані 1: ти голодний? (пропонуємо й просимо, неформально)"
+ },
+ "exercises": [
+  {
+   "en": "Are you hungry? (informal)",
+   "uk": "Ти голодний?",
+   "fr": "Tu as faim?",
+   "vocab": [
+    {
+     "fr": "avoir faim",
+     "en": "to be hungry",
+     "uk": "бути голодним"
+    }
+   ]
+  },
+  {
+   "en": "Yes, I'm very hungry.",
+   "uk": "Так, я дуже голодний.",
+   "fr": "Oui, j'ai très faim.",
+   "vocab": []
+  },
+  {
+   "en": "Do you want a sandwich or a pizza? (informal)",
+   "uk": "Хочеш сендвіч чи піцу?",
+   "fr": "Tu veux un sandwich ou une pizza?",
+   "vocab": [
+    {
+     "fr": "tu veux",
+     "en": "do you want (informal)",
+     "uk": "хочеш"
+    }
+   ]
+  },
+  {
+   "en": "Give me a pizza, please. (informal)",
+   "uk": "Дай мені піцу, будь ласка.",
+   "fr": "Donne-moi une pizza, s'il te plaît.",
+   "vocab": [
+    {
+     "fr": "donne-moi",
+     "en": "give me (informal)",
+     "uk": "дай мені"
+    },
+    {
+     "fr": "s'il te plaît",
+     "en": "please (informal)",
+     "uk": "будь ласка (до «ти»)"
+    }
+   ]
+  },
+  {
+   "en": "What do you want? (informal)",
+   "uk": "Що ти хочеш?",
+   "fr": "Qu'est-ce que tu veux?",
+   "vocab": []
+  },
+  {
+   "en": "I would like a ham sandwich.",
+   "uk": "Я хотів би сендвіч із шинкою.",
+   "fr": "Je voudrais un sandwich au jambon.",
+   "vocab": [
+    {
+     "fr": "je voudrais",
+     "en": "I would like",
+     "uk": "я хотів би"
+    },
+    {
+     "fr": "le jambon",
+     "en": "ham",
+     "uk": "шинка"
+    }
+   ]
+  },
+  {
+   "en": "Are you thirsty? (informal)",
+   "uk": "Ти хочеш пити?",
+   "fr": "Est-ce que tu as soif?",
+   "vocab": [
+    {
+     "fr": "avoir soif",
+     "en": "to be thirsty",
+     "uk": "хотіти пити"
+    }
+   ]
+  },
+  {
+   "en": "Shall we go to a café? It's my treat. (informal)",
+   "uk": "Ходімо в кафе? Я пригощаю.",
+   "fr": "On va dans un café? Je t'invite.",
+   "vocab": [
+    {
+     "fr": "on va",
+     "en": "shall we go / we're going",
+     "uk": "ходімо"
+    },
+    {
+     "fr": "je t'invite",
+     "en": "it's my treat (informal)",
+     "uk": "я пригощаю"
+    }
+   ]
+  },
+  {
+   "en": "Nathalie wants a crepe and Philippe wants a hot dog.",
+   "uk": "Наталі хоче млинець, а Філіп — хот-дог.",
+   "fr": "Nathalie veut une crêpe et Philippe veut un hot-dog.",
+   "vocab": [
+    {
+     "fr": "une crêpe",
+     "en": "a crepe",
+     "uk": "млинець"
+    }
+   ]
+  },
+  {
+   "en": "You're really hungry! (informal)",
+   "uk": "Ти справді голодний!",
+   "fr": "Tu as vraiment faim!",
+   "vocab": [
+    {
+     "fr": "vraiment",
+     "en": "really",
+     "uk": "справді"
+    }
+   ]
+  }
+ ]
+}

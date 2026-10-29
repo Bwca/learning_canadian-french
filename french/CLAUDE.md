@@ -44,11 +44,13 @@ Tab-separated, one entry per line, in one of two states:
 ```
 
 - The third column is optional and only present once audio has been generated for that entry.
-- An optional fourth column holds a standard-French (not Québécois) IPA transcription in slashes, e.g. `/la mɛzɔ̃/`. It covers only what's spoken (parenthesized notes are skipped), with `/`-separated forms written as `/bɔ̃, bɔn/`. `audio-drill.html` shows it under the French word. The generator and vocab quiz ignore it, and in Anki the note type needs an extra field for it. `anki-words/pronunciation/`, `anki-words/core-a1-b2/` and `anki-words/phrases/` have it.
+- An optional fourth column holds a standard-French (not Québécois) IPA transcription in slashes, e.g. `/la mɛzɔ̃/`. It covers only what's spoken (parenthesized notes are skipped), with `/`-separated forms written as `/bɔ̃, bɔn/`. `audio-drill.html` shows it under the French word. The generator and vocab quiz ignore it, and in Anki the note type needs an extra field for it. `anki-words/pronunciation/`, `anki-words/core-a1-b2/`, `anki-words/phrases/` and `anki-words/restaurant/` have it.
 - An optional fifth column holds the Ukrainian translation. A line with it but no audio or IPA keeps those columns empty (`bonjour\thello\t\t\tдобрий день`). `audio-drill.html` and `vocab-quiz.html` show it when switched to Ukrainian; the generator ignores it.
 - The `<slug>.webm` filename is chosen manually (derived from the English gloss, kebab-cased) *before* running the generator — the generator reads existing `[sound:...]` tags and produces audio to match them, it does not invent filenames. To add audio for a new entry: add the `[sound:...]` tag by hand first, then run `make-pronunciation-files.js` on that file.
 - Parenthesized disambiguators in French text, e.g. `Tu` vs `(informal)`, and `/`-separated alternates are stripped/normalized by both `audio-drill.html` and the generator script (`cleanFrenchWord`/`removeSlashes`) before being spoken — keep that in mind if an entry looks slightly different when read aloud than as written.
 - These files are formatted for direct import into Anki as flashcard decks.
+- `anki-words/restaurant/` holds the café and restaurant vocabulary (dialogues, ordering, paying, food, drinks, meals, the market, a Québec menu) from a textbook chapter, as its own group. Its sound slugs that would clash with an existing entry for a different word get a `-restaurant` suffix. The matching drills are in `grammar-exercises/translation-drills/a1/au-restaurant/`.
+- `temp/` is gitignored scratch space for source material (scanned textbook pages and the like). Content made from it goes into the normal folders.
 
 ## Grammar exercise formats (`grammar-exercises/`)
 

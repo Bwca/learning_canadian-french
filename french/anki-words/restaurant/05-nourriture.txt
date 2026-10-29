@@ -1,0 +1,44 @@
+les hors-d'œuvre (m.)	appetizers	[sound:appetizers.webm]	/le ɔʁ dœvʁ/	закуски
+la soupe	soup	[sound:soup.webm]	/la sup/	суп
+le jambon	ham	[sound:ham.webm]	/lə ʒɑ̃bɔ̃/	шинка
+le saucisson	salami	[sound:salami.webm]	/lə sosisɔ̃/	салямі (ковбаса)
+le céleri	celery	[sound:celery.webm]	/lə sɛlʁi/	селера
+le melon	melon	[sound:melon.webm]	/lə məlɔ̃/	диня
+la viande	meat	[sound:meat.webm]	/la vjɑ̃d/	м'ясо
+le poulet	chicken	[sound:chicken.webm]	/lə pulɛ/	курка
+le poulet rôti	roast chicken	[sound:roast-chicken.webm]	/lə pulɛ ʁoti/	запечена курка
+le porc	pork	[sound:pork.webm]	/lə pɔʁ/	свинина
+le bœuf	beef	[sound:beef.webm]	/lə bœf/	яловичина
+le rosbif	roast beef	[sound:roast-beef.webm]	/lə ʁɔzbif/	ростбіф
+le veau	veal	[sound:veal.webm]	/lə vo/	телятина
+le poisson	fish	[sound:fish.webm]	/lə pwasɔ̃/	риба
+le thon	tuna	[sound:tuna.webm]	/lə tɔ̃/	тунець
+la sole	sole	[sound:sole.webm]	/la sɔl/	морський язик (риба)
+le saumon	salmon	[sound:salmon.webm]	/lə somɔ̃/	лосось
+les spaghettis (m.)	spaghetti	[sound:spaghetti.webm]	/le spaɡeti/	спагеті
+les frites (f.)	French fries (Québec: les patates frites)	[sound:french-fries-qu-bec-les-patates-frites.webm]	/le fʁit/	картопля фрі (у Квебеку: les patates frites)
+le riz	rice	[sound:rice.webm]	/lə ʁi/	рис
+la salade	salad, lettuce	[sound:salad-lettuce.webm]	/la salad/	салат
+le fromage	cheese	[sound:cheese.webm]	/lə fʁɔmaʒ/	сир
+le pain	bread	[sound:bread.webm]	/lə pɛ̃/	хліб
+les céréales (f.)	cereal	[sound:cereal.webm]	/le seʁeal/	пластівці
+la confiture	jam	[sound:jam.webm]	/la kɔ̃fityʁ/	варення, джем
+un œuf	an egg	[sound:an-egg.webm]	/œ̃n œf/	яйце
+des œufs sur le plat	fried eggs	[sound:fried-eggs.webm]	/dez ø syʁ lə pla/	яєчня
+le beurre	butter	[sound:butter.webm]	/lə bœʁ/	вершкове масло
+la margarine	margarine	[sound:margarine.webm]	/la maʁɡaʁin/	маргарин
+le sel	salt	[sound:salt.webm]	/lə sɛl/	сіль
+le sucre	sugar	[sound:sugar.webm]	/lə sykʁ/	цукор
+le poivre	pepper	[sound:pepper.webm]	/lə pwavʁ/	перець (приправа)
+le ketchup	ketchup	[sound:ketchup.webm]	/lə kɛtʃœp/	кетчуп
+la mayonnaise	mayonnaise	[sound:mayonnaise.webm]	/la majɔnɛz/	майонез
+la moutarde	mustard	[sound:mustard.webm]	/la mutaʁd/	гірчиця
+la baguette	a baguette (long French loaf)	[sound:a-baguette-long-french-loaf.webm]	/la baɡɛt/	багет
+une tartine	a slice of bread with butter or jam	[sound:a-slice-of-bread-with-butter-or-jam.webm]	/yn taʁtin/	скибка хліба з маслом чи варенням
+les ingrédients (m.)	the ingredients	[sound:the-ingredients.webm]	/lez‿ɛ̃ɡʁedjɑ̃/	інгредієнти
+l'ail (m.)	garlic	[sound:garlic.webm]	/laj/	часник
+le persil	parsley	[sound:parsley.webm]	/lə pɛʁsi/	петрушка
+un poivron	a bell pepper (Québec: also un piment)	[sound:a-bell-pepper-qu-bec-also-un-piment.webm]	/œ̃ pwavʁɔ̃/	солодкий перець (у Квебеку також un piment)
+les lardons (m.)	bacon bits	[sound:bacon-bits.webm]	/le laʁdɔ̃/	шматочки бекону
+les fonds d'artichauts (m.)	artichoke hearts	[sound:artichoke-hearts.webm]	/le fɔ̃ daʁtiʃo/	серцевини артишоків
+des tomates pelées (f.)	peeled tomatoes	[sound:peeled-tomatoes.webm]	/de tɔmat pəle/	очищені помідори

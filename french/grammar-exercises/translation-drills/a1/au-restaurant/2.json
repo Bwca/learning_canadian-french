@@ -1,0 +1,137 @@
+{
+ "title": {
+  "en": "At the restaurant 2: at the café (ordering)",
+  "uk": "У ресторані 2: у кафе (замовляємо)"
+ },
+ "exercises": [
+  {
+   "en": "What would you like, ma'am?",
+   "uk": "Що бажаєте, пані?",
+   "fr": "Vous désirez, madame?",
+   "vocab": [
+    {
+     "fr": "vous désirez?",
+     "en": "what would you like?",
+     "uk": "що бажаєте?"
+    }
+   ]
+  },
+  {
+   "en": "An orange juice, please.",
+   "uk": "Апельсиновий сік, будь ласка.",
+   "fr": "Un jus d'orange, s'il vous plaît.",
+   "vocab": [
+    {
+     "fr": "un jus d'orange",
+     "en": "an orange juice",
+     "uk": "апельсиновий сік"
+    }
+   ]
+  },
+  {
+   "en": "And for you, sir?",
+   "uk": "А вам, пане?",
+   "fr": "Et pour vous, monsieur?",
+   "vocab": []
+  },
+  {
+   "en": "Give me a lemonade, please. (formal)",
+   "uk": "Дайте мені лимонад, будь ласка.",
+   "fr": "Donnez-moi une limonade, s'il vous plaît.",
+   "vocab": [
+    {
+     "fr": "donnez-moi",
+     "en": "give me (formal)",
+     "uk": "дайте мені"
+    },
+    {
+     "fr": "une limonade",
+     "en": "a lemon soda (Québec: a lemonade)",
+     "uk": "лимонний газований напій (у Квебеку: лимонад)"
+    }
+   ]
+  },
+  {
+   "en": "And to drink?",
+   "uk": "А з напоїв?",
+   "fr": "Et comme boisson?",
+   "vocab": [
+    {
+     "fr": "comme",
+     "en": "as, for",
+     "uk": "як, з (чогось)"
+    },
+    {
+     "fr": "une boisson",
+     "en": "a drink",
+     "uk": "напій"
+    }
+   ]
+  },
+  {
+   "en": "I would like a grilled ham-and-cheese sandwich and a coffee with milk.",
+   "uk": "Я хотів би гарячий бутерброд із шинкою та сиром і каву з молоком.",
+   "fr": "Je voudrais un croque-monsieur et un café au lait.",
+   "vocab": [
+    {
+     "fr": "un croque-monsieur",
+     "en": "a grilled ham-and-cheese sandwich",
+     "uk": "гарячий бутерброд із шинкою та сиром"
+    },
+    {
+     "fr": "un café au lait",
+     "en": "a coffee with milk",
+     "uk": "кава з молоком"
+    }
+   ]
+  },
+  {
+   "en": "The menu, please!",
+   "uk": "Меню, будь ласка!",
+   "fr": "La carte, s'il vous plaît!",
+   "vocab": [
+    {
+     "fr": "la carte",
+     "en": "the menu",
+     "uk": "меню"
+    }
+   ]
+  },
+  {
+   "en": "What do you recommend?",
+   "uk": "Що ви мені порадите?",
+   "fr": "Qu'est-ce que vous me conseillez?",
+   "vocab": [
+    {
+     "fr": "conseiller",
+     "en": "to recommend, to advise",
+     "uk": "радити"
+    }
+   ]
+  },
+  {
+   "en": "I recommend the pea soup.",
+   "uk": "Раджу вам гороховий суп.",
+   "fr": "Je vous recommande la soupe aux pois.",
+   "vocab": [
+    {
+     "fr": "la soupe aux pois",
+     "en": "pea soup (Québec)",
+     "uk": "гороховий суп (у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "Is the iced tea for you? No, it's for me.",
+   "uk": "Холодний чай — вам? Ні, це мені.",
+   "fr": "Le thé glacé, c'est pour vous? Non, c'est pour moi.",
+   "vocab": [
+    {
+     "fr": "le thé glacé",
+     "en": "iced tea",
+     "uk": "холодний чай"
+    }
+   ]
+  }
+ ]
+}

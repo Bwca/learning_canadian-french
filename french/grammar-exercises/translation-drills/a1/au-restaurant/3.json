@@ -1,0 +1,137 @@
+{
+ "title": {
+  "en": "At the restaurant 3: how much is it? (paying)",
+  "uk": "У ресторані 3: скільки це коштує? (розраховуємося)"
+ },
+ "exercises": [
+  {
+   "en": "The check, please.",
+   "uk": "Рахунок, будь ласка.",
+   "fr": "L'addition, s'il vous plaît.",
+   "vocab": [
+    {
+     "fr": "l'addition",
+     "en": "the check, the bill (Québec: also la facture)",
+     "uk": "рахунок (у Квебеку також la facture)"
+    }
+   ]
+  },
+  {
+   "en": "How much is it altogether?",
+   "uk": "Скільки разом?",
+   "fr": "Ça fait combien en tout?",
+   "vocab": [
+    {
+     "fr": "ça fait",
+     "en": "that makes, that comes to",
+     "uk": "разом виходить"
+    },
+    {
+     "fr": "en tout",
+     "en": "altogether",
+     "uk": "разом"
+    }
+   ]
+  },
+  {
+   "en": "An orange juice, three dollars, and a lemonade, two dollars. That's five dollars.",
+   "uk": "Апельсиновий сік — три долари, лимонад — два. Разом п'ять доларів.",
+   "fr": "Un jus d'orange, trois dollars, et une limonade, deux dollars. Ça fait cinq dollars.",
+   "vocab": []
+  },
+  {
+   "en": "How much is the grilled ham-and-cheese sandwich?",
+   "uk": "Скільки коштує гарячий бутерброд із шинкою та сиром?",
+   "fr": "C'est combien, le croque-monsieur?",
+   "vocab": [
+    {
+     "fr": "c'est combien?",
+     "en": "how much is it?",
+     "uk": "скільки це коштує?"
+    }
+   ]
+  },
+  {
+   "en": "It's six dollars and twenty-five cents.",
+   "uk": "Це шість доларів двадцять п'ять центів.",
+   "fr": "C'est six dollars vingt-cinq.",
+   "vocab": [
+    {
+     "fr": "six dollars vingt-cinq",
+     "en": "$6.25 (the word cents is usually dropped)",
+     "uk": "6,25 $ (слово «центи» зазвичай опускають)"
+    }
+   ]
+  },
+  {
+   "en": "Is the tip included?",
+   "uk": "Обслуговування включено?",
+   "fr": "Est-ce que le service est compris?",
+   "vocab": [
+    {
+     "fr": "le service",
+     "en": "service charge, tip",
+     "uk": "обслуговування"
+    },
+    {
+     "fr": "compris",
+     "en": "included",
+     "uk": "включений"
+    }
+   ]
+  },
+  {
+   "en": "No, the tip isn't included.",
+   "uk": "Ні, чайові не включено.",
+   "fr": "Non, le pourboire n'est pas compris.",
+   "vocab": [
+    {
+     "fr": "le pourboire",
+     "en": "the tip",
+     "uk": "чайові"
+    }
+   ]
+  },
+  {
+   "en": "Darn! Where is my wallet?",
+   "uk": "От халепа! Де мій гаманець?",
+   "fr": "Zut! Où est mon porte-monnaie?",
+   "vocab": [
+    {
+     "fr": "zut!",
+     "en": "darn!",
+     "uk": "от халепа!"
+    },
+    {
+     "fr": "le porte-monnaie",
+     "en": "the wallet, the change purse",
+     "uk": "гаманець"
+    }
+   ]
+  },
+  {
+   "en": "Céline, lend me ten dollars, please. (informal)",
+   "uk": "Селін, позич мені десять доларів, будь ласка.",
+   "fr": "Céline, prête-moi dix dollars, s'il te plaît.",
+   "vocab": [
+    {
+     "fr": "prête-moi",
+     "en": "lend me (informal)",
+     "uk": "позич мені"
+    }
+   ]
+  },
+  {
+   "en": "The taxes aren't included.",
+   "uk": "Податки не включено.",
+   "fr": "Les taxes ne sont pas incluses.",
+   "vocab": [
+    {
+     "fr": "inclus / incluse",
+     "en": "included",
+     "uk": "включений / включена"
+    }
+   ]
+  }
+ ]
+}

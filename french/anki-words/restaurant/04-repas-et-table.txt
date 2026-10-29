@@ -1,0 +1,32 @@
+un repas	a meal	[sound:a-meal.webm]	/œ̃ ʁəpa/	прийом їжі
+le petit déjeuner	breakfast (Québec: le déjeuner)	[sound:breakfast-qu-bec-le-d-jeuner.webm]	/lə pəti deʒœne/	сніданок (у Квебеку: le déjeuner)
+le déjeuner	lunch (Québec: breakfast)	[sound:lunch-qu-bec-breakfast.webm]	/lə deʒœne/	обід (у Квебеку: сніданок)
+le dîner	dinner (Québec: lunch)	[sound:dinner-qu-bec-lunch.webm]	/lə dine/	вечеря (у Квебеку: обід)
+le souper	supper, dinner (Québec)	[sound:supper-dinner-qu-bec.webm]	/lə supe/	вечеря (у Квебеку)
+prendre le petit déjeuner	to have breakfast	[sound:to-have-breakfast.webm]	/pʁɑ̃dʁ lə pəti deʒœne/	снідати
+déjeuner	to have lunch (Québec: to have breakfast)	[sound:to-have-lunch-qu-bec-to-have-breakfast.webm]	/deʒœne/	обідати (у Квебеку: снідати)
+dîner	to have dinner (Québec: to have lunch)	[sound:to-have-dinner-qu-bec-to-have-lunch.webm]	/dine/	вечеряти (у Квебеку: обідати)
+souper	to have supper (Québec)	[sound:to-have-supper-qu-bec.webm]	/supe/	вечеряти (у Квебеку)
+manger	to eat	[sound:to-eat.webm]	/mɑ̃ʒe/	їсти
+la nourriture	food	[sound:food.webm]	/la nuʁityʁ/	їжа
+la cuisine	cooking, cuisine	[sound:cooking-cuisine.webm]	/la kɥizin/	кухня, куховарство
+la cantine	the cafeteria (Québec: la cafétéria)	[sound:the-cafeteria-qu-bec-la-caf-t-ria.webm]	/la kɑ̃tin/	їдальня (у Квебеку: la cafétéria)
+mettre la table	to set the table	[sound:to-set-the-table.webm]	/mɛtʁ la tabl/	накривати на стіл
+un verre	a glass	[sound:a-glass.webm]	/œ̃ vɛʁ/	склянка, келих
+une tasse	a cup	[sound:a-cup.webm]	/yn tas/	чашка
+une assiette	a plate	[sound:a-plate.webm]	/yn asjɛt/	тарілка
+une cuillère	a spoon	[sound:a-spoon.webm]	/yn kɥijɛʁ/	ложка
+une fourchette	a fork	[sound:a-fork.webm]	/yn fuʁʃɛt/	виделка
+un couteau	a knife	[sound:a-knife.webm]	/œ̃ kuto/	ніж
+une serviette	a napkin	[sound:a-napkin.webm]	/yn sɛʁvjɛt/	серветка
+à quelle heure est-ce que tu prends le petit déjeuner ?	what time do you have breakfast? (informal)	[sound:what-time-do-you-have-breakfast-informal.webm]	/a kɛl œʁ ɛs kə ty pʁɑ̃ lə pəti deʒœne/	о котрій ти снідаєш?
+quel est ton plat préféré ?	what's your favourite dish? (informal)	[sound:what-s-your-favourite-dish-informal.webm]	/kɛl ɛ tɔ̃ pla pʁefeʁe/	яка твоя улюблена страва?
+préféré	favourite	[sound:favourite-restaurant.webm]	/pʁefeʁe/	улюблений
+j'adore…	I love…	[sound:i-love.webm]	/ʒadɔʁ/	я обожнюю…
+j'aime…	I like…	[sound:i-like.webm]	/ʒɛm/	я люблю…
+je n'aime pas tellement…	I don't like … that much	[sound:i-don-t-like-that-much.webm]	/ʒə nɛm pa tɛlmɑ̃/	я не дуже люблю…
+je déteste…	I hate…	[sound:i-hate.webm]	/ʒə detɛst/	я ненавиджу…
+aimer	to like, to love	[sound:to-like-to-love.webm]	/eme/	любити
+préférer	to prefer	[sound:to-prefer.webm]	/pʁefeʁe/	віддавати перевагу
+détester	to hate	[sound:to-hate.webm]	/detɛste/	ненавидіти
+bon appétit !	enjoy your meal!	[sound:enjoy-your-meal.webm]	/bɔ̃n apeti/	смачного!

@@ -1,0 +1,38 @@
+tu as faim ?	are you hungry? (informal)	[sound:are-you-hungry-informal.webm]	/ty a fɛ̃/	ти голодний?
+j'ai faim	I'm hungry	[sound:i-m-hungry.webm]	/ʒe fɛ̃/	я голодний
+tu as soif ?	are you thirsty? (informal)	[sound:are-you-thirsty-informal.webm]	/ty a swaf/	хочеш пити?
+j'ai soif	I'm thirsty	[sound:i-m-thirsty.webm]	/ʒe swaf/	я хочу пити
+tu veux… ?	do you want…? (informal)	[sound:do-you-want-informal.webm]	/ty vø/	хочеш…?
+qu'est-ce que tu veux ?	what do you want? (informal)	[sound:what-do-you-want-informal.webm]	/kɛs kə ty vø/	що ти хочеш?
+je voudrais…	I would like…	[sound:i-would-like.webm]	/ʒə vudʁɛ/	я хотів би…
+donne-moi…, s'il te plaît	give me…, please (informal)	[sound:give-me-please-informal.webm]	/dɔn mwa sil tə plɛ/	дай мені…, будь ласка
+donnez-moi…, s'il vous plaît	give me…, please (formal)	[sound:give-me-please-formal.webm]	/dɔne mwa sil vu plɛ/	дайте мені…, будь ласка
+voilà	here you go	[sound:here-you-go.webm]	/vwala/	ось, прошу
+on va dans un café ?	shall we go to a café?	[sound:shall-we-go-to-a-caf.webm]	/ɔ̃ va dɑ̃z œ̃ kafe/	ходімо в кафе?
+je t'invite	it's my treat (informal)	[sound:it-s-my-treat-informal.webm]	/ʒə tɛ̃vit/	я пригощаю
+le serveur / la serveuse	waiter / waitress	[sound:waiter-waitress.webm]	/lə sɛʁvœʁ, la sɛʁvøz/	офіціант / офіціантка
+commander	to order	[sound:to-order.webm]	/kɔmɑ̃de/	замовляти
+vous désirez ?	what would you like? / may I help you?	[sound:what-would-you-like-may-i-help-you.webm]	/vu deziʁe/	що бажаєте?
+et pour vous ?	and for you?	[sound:and-for-you.webm]	/e puʁ vu/	а вам?
+c'est pour moi	it's for me	[sound:it-s-for-me.webm]	/sɛ puʁ mwa/	це мені
+et comme boisson ?	and to drink?	[sound:and-to-drink.webm]	/e kɔm bwasɔ̃/	а з напоїв?
+la carte, s'il vous plaît	the menu, please	[sound:the-menu-please.webm]	/la kaʁt sil vu plɛ/	меню, будь ласка
+un moment, s'il vous plaît	one moment, please	[sound:one-moment-please.webm]	/œ̃ mɔmɑ̃ sil vu plɛ/	хвилинку, будь ласка
+qu'est-ce que vous me conseillez ?	what do you recommend?	[sound:what-do-you-recommend.webm]	/kɛs kə vu mə kɔ̃sɛje/	що ви мені порадите?
+je vous recommande…	I recommend…	[sound:i-recommend.webm]	/ʒə vu ʁəkɔmɑ̃d/	раджу вам…
+qu'est-ce que vous avez comme boissons ?	what drinks do you have?	[sound:what-drinks-do-you-have.webm]	/kɛs kə vu zave kɔm bwasɔ̃/	які у вас є напої?
+je vais prendre…	I'll have…	[sound:i-ll-have.webm]	/ʒə ve pʁɑ̃dʁ/	я візьму…
+vous désirez autre chose ?	would you like anything else?	[sound:would-you-like-anything-else.webm]	/vu deziʁe otʁ ʃoz/	бажаєте ще щось?
+c'est combien ?	how much is it?	[sound:how-much-is-it.webm]	/sɛ kɔ̃bjɛ̃/	скільки це коштує?
+ça fait combien en tout ?	how much is it altogether?	[sound:how-much-is-it-altogether.webm]	/sa fɛ kɔ̃bjɛ̃ ɑ̃ tu/	скільки разом?
+ça fait quinze dollars	that's fifteen dollars	[sound:that-s-fifteen-dollars.webm]	/sa fɛ kɛ̃z dɔlaʁ/	разом п'ятнадцять доларів
+payer	to pay	[sound:to-pay.webm]	/peje/	платити
+l'addition, s'il vous plaît	the check, please (Québec: also la facture)	[sound:the-check-please-qu-bec-also-la-facture.webm]	/ladisjɔ̃ sil vu plɛ/	рахунок, будь ласка (у Квебеку також la facture)
+le pourboire	the tip	[sound:the-tip.webm]	/lə puʁbwaʁ/	чайові
+le service est compris ?	is the tip included? (in Canada, usually not)	[sound:is-the-tip-included-in-canada-usually-not.webm]	/lə sɛʁvis ɛ kɔ̃pʁi/	обслуговування включено? (у Канаді зазвичай ні)
+compris	included	[sound:included.webm]	/kɔ̃pʁi/	включений
+oui, tout de suite	yes, right away	[sound:yes-right-away.webm]	/wi tud sɥit/	так, зараз же
+oui, bien entendu	yes, of course	[sound:yes-of-course.webm]	/wi bjɛ̃n ɑ̃tɑ̃dy/	так, звісно
+zut !	darn!	[sound:darn.webm]	/zyt/	от халепа!
+où est mon porte-monnaie ?	where is my wallet?	[sound:where-is-my-wallet.webm]	/u ɛ mɔ̃ pɔʁt mɔnɛ/	де мій гаманець?
+prête-moi cinq dollars	lend me five dollars (informal)	[sound:lend-me-five-dollars-informal.webm]	/pʁɛt mwa sɛ̃k dɔlaʁ/	позич мені п'ять доларів

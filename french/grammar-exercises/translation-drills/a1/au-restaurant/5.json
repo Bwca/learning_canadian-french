@@ -1,0 +1,147 @@
+{
+ "title": {
+  "en": "At the restaurant 5: food and the market",
+  "uk": "У ресторані 5: їжа й ринок"
+ },
+ "exercises": [
+  {
+   "en": "Do you like fish? (informal)",
+   "uk": "Ти любиш рибу?",
+   "fr": "Est-ce que tu aimes le poisson?",
+   "vocab": [
+    {
+     "fr": "le poisson",
+     "en": "fish",
+     "uk": "риба"
+    }
+   ]
+  },
+  {
+   "en": "Yes, but I prefer meat.",
+   "uk": "Так, але м'ясо я люблю більше.",
+   "fr": "Oui, mais je préfère la viande.",
+   "vocab": [
+    {
+     "fr": "préférer",
+     "en": "to prefer",
+     "uk": "віддавати перевагу"
+    },
+    {
+     "fr": "la viande",
+     "en": "meat",
+     "uk": "м'ясо"
+    }
+   ]
+  },
+  {
+   "en": "I'm going to the market to do the grocery shopping.",
+   "uk": "Я йду на ринок по продукти.",
+   "fr": "Je vais au marché faire l'épicerie.",
+   "vocab": [
+    {
+     "fr": "faire l'épicerie",
+     "en": "to do the grocery shopping (Québec)",
+     "uk": "ходити по продукти (у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "I'm going to buy tomatoes and oranges.",
+   "uk": "Я куплю помідори й апельсини.",
+   "fr": "Je vais acheter des tomates et des oranges.",
+   "vocab": [
+    {
+     "fr": "acheter",
+     "en": "to buy",
+     "uk": "купувати"
+    }
+   ]
+  },
+  {
+   "en": "How much are the apples?",
+   "uk": "Скільки коштують яблука?",
+   "fr": "Les pommes, c'est combien?",
+   "vocab": [
+    {
+     "fr": "une pomme",
+     "en": "an apple",
+     "uk": "яблуко"
+    }
+   ]
+  },
+  {
+   "en": "They cost two dollars a kilo.",
+   "uk": "Вони коштують два долари за кілограм.",
+   "fr": "Elles coûtent deux dollars le kilo.",
+   "vocab": [
+    {
+     "fr": "coûter",
+     "en": "to cost",
+     "uk": "коштувати"
+    },
+    {
+     "fr": "le kilo",
+     "en": "a kilo, per kilo",
+     "uk": "за кілограм"
+    }
+   ]
+  },
+  {
+   "en": "Give me two kilos of apples, please. (formal)",
+   "uk": "Дайте мені два кілограми яблук, будь ласка.",
+   "fr": "Donnez-moi deux kilos de pommes, s'il vous plaît.",
+   "vocab": []
+  },
+  {
+   "en": "Do you want bread with butter and jam? (informal)",
+   "uk": "Хочеш хліба з маслом і варенням?",
+   "fr": "Tu veux du pain avec du beurre et de la confiture?",
+   "vocab": [
+    {
+     "fr": "le beurre",
+     "en": "butter",
+     "uk": "вершкове масло"
+    },
+    {
+     "fr": "la confiture",
+     "en": "jam",
+     "uk": "варення, джем"
+    }
+   ]
+  },
+  {
+   "en": "I put salt and pepper, but no mustard.",
+   "uk": "Я додаю сіль і перець, але не гірчицю.",
+   "fr": "Je mets du sel et du poivre, mais pas de moutarde.",
+   "vocab": [
+    {
+     "fr": "le poivre",
+     "en": "pepper",
+     "uk": "перець (приправа)"
+    },
+    {
+     "fr": "la moutarde",
+     "en": "mustard",
+     "uk": "гірчиця"
+    }
+   ]
+  },
+  {
+   "en": "I'd like rice, not fries.",
+   "uk": "Я хотів би рис, а не картоплю фрі.",
+   "fr": "Je voudrais du riz, pas de frites.",
+   "vocab": [
+    {
+     "fr": "le riz",
+     "en": "rice",
+     "uk": "рис"
+    },
+    {
+     "fr": "les frites",
+     "en": "French fries",
+     "uk": "картопля фрі"
+    }
+   ]
+  }
+ ]
+}

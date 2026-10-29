@@ -1,0 +1,32 @@
+le marché	the market	[sound:the-market.webm]	/lə maʁʃe/	ринок
+faire les courses	to go grocery shopping (Québec: faire l'épicerie)	[sound:to-go-grocery-shopping-qu-bec-faire-l-picerie.webm]	/fɛʁ le kuʁs/	ходити по продукти (у Квебеку: faire l'épicerie)
+je vais au marché	I'm going to the market	[sound:i-m-going-to-the-market.webm]	/ʒə ve o maʁʃe/	я йду на ринок
+acheter	to buy	[sound:to-buy.webm]	/aʃte/	купувати
+les fruits (m.)	fruit	[sound:fruit.webm]	/le fʁɥi/	фрукти
+les légumes (m.)	vegetables	[sound:vegetables.webm]	/le leɡym/	овочі
+une pomme	an apple	[sound:an-apple.webm]	/yn pɔm/	яблуко
+une orange	an orange	[sound:an-orange.webm]	/yn ɔʁɑ̃ʒ/	апельсин
+une banane	a banana	[sound:a-banana.webm]	/yn banan/	банан
+une tomate	a tomato	[sound:a-tomato.webm]	/yn tɔmat/	помідор
+une pomme de terre	a potato (Québec: une patate)	[sound:a-potato-qu-bec-une-patate.webm]	/yn pɔm də tɛʁ/	картоплина (у Квебеку: une patate)
+un oignon	an onion	[sound:an-onion.webm]	/œ̃n ɔɲɔ̃/	цибулина
+combien coûtent les pommes ?	how much are the apples?	[sound:how-much-are-the-apples.webm]	/kɔ̃bjɛ̃ kut le pɔm/	скільки коштують яблука?
+elles coûtent deux dollars le kilo	they cost two dollars a kilo	[sound:they-cost-two-dollars-a-kilo.webm]	/ɛl kut dø dɔlaʁ lə kilo/	вони коштують два долари за кілограм
+deux kilos de pommes	two kilos of apples	[sound:two-kilos-of-apples.webm]	/dø kilo də pɔm/	два кілограми яблук
+qu'est-ce que tu veux manger ?	what do you want to eat? (informal)	[sound:what-do-you-want-to-eat-informal.webm]	/kɛs kə ty vø mɑ̃ʒe/	що ти хочеш їсти?
+qu'est-ce que tu veux boire ?	what do you want to drink? (informal)	[sound:what-do-you-want-to-drink-informal.webm]	/kɛs kə ty vø bwaʁ/	що ти хочеш пити?
+j'aimerais…	I'd like…	[sound:i-d-like.webm]	/ʒɛmʁɛ/	я хотів би…
+encore ?	more?	[sound:more-restaurant.webm]	/ɑ̃kɔʁ/	ще?
+tu reprends des toasts ?	do you want more toast? (informal; Québec: des rôties)	[sound:do-you-want-more-toast-informal-qu-bec-des-r-ties.webm]	/ty ʁəpʁɑ̃ de tost/	візьмеш ще тостів? (у Квебеку: des rôties)
+oui, je veux bien	yes, please (I'd love some)	[sound:yes-please-i-d-love-some.webm]	/wi ʒə vø bjɛ̃/	так, залюбки
+non, merci	no, thank you	[sound:no-thank-you.webm]	/nɔ̃ mɛʁsi/	ні, дякую
+non, ça va	no, I'm fine	[sound:no-i-m-fine.webm]	/nɔ̃ sa va/	ні, не треба
+je n'ai plus faim	I'm not hungry anymore	[sound:i-m-not-hungry-anymore.webm]	/ʒə ne ply fɛ̃/	я вже не голодний
+il est bon, le croissant ?	is the croissant good?	[sound:is-the-croissant-good.webm]	/il ɛ bɔ̃ lə kʁwasɑ̃/	круасан смачний?
+elle est comment, la confiture ?	how's the jam?	[sound:how-s-the-jam.webm]	/ɛl ɛ kɔmɑ̃ la kɔ̃fityʁ/	яке на смак варення?
+comment tu trouves le café ?	how do you like the coffee? (informal)	[sound:how-do-you-like-the-coffee-informal.webm]	/kɔmɑ̃ ty tʁuv lə kafe/	як тобі кава?
+délicieux / délicieuse	delicious	[sound:delicious.webm]	/delisjø, delisjøz/	дуже смачний / дуже смачна
+excellent / excellente	excellent	[sound:excellent.webm]	/ɛksɛlɑ̃, ɛksɛlɑ̃t/	чудовий / чудова
+pas mauvais / pas mauvaise	not bad	[sound:not-bad.webm]	/pa movɛ, pa movɛz/	непоганий / непогана
+vraiment mauvais	really bad	[sound:really-bad.webm]	/vʁɛmɑ̃ movɛ/	дуже несмачний
+pas bon du tout	not good at all	[sound:not-good-at-all.webm]	/pa bɔ̃ dy tu/	зовсім несмачний

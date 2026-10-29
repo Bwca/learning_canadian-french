@@ -1,0 +1,162 @@
+{
+ "title": {
+  "en": "At the restaurant 4: meals and the table",
+  "uk": "У ресторані 4: прийоми їжі й стіл"
+ },
+ "exercises": [
+  {
+   "en": "I have breakfast at seven thirty.",
+   "uk": "Я снідаю о пів на восьму.",
+   "fr": "Je prends le petit déjeuner à sept heures et demie.",
+   "vocab": [
+    {
+     "fr": "prendre le petit déjeuner",
+     "en": "to have breakfast",
+     "uk": "снідати"
+    },
+    {
+     "fr": "et demie",
+     "en": "thirty (half past)",
+     "uk": "і тридцять (пів на)"
+    }
+   ]
+  },
+  {
+   "en": "In Québec, le déjeuner is the morning meal.",
+   "uk": "У Квебеку le déjeuner — це сніданок.",
+   "fr": "Au Québec, le déjeuner est le repas du matin.",
+   "vocab": [
+    {
+     "fr": "le déjeuner",
+     "en": "lunch (Québec: breakfast)",
+     "uk": "обід (у Квебеку: сніданок)"
+    },
+    {
+     "fr": "le repas",
+     "en": "the meal",
+     "uk": "прийом їжі"
+    }
+   ]
+  },
+  {
+   "en": "Are you having lunch at the cafeteria today? (informal, Québec)",
+   "uk": "Ти сьогодні обідаєш у їдальні?",
+   "fr": "Est-ce que tu dînes à la cafétéria aujourd'hui?",
+   "vocab": [
+    {
+     "fr": "dîner",
+     "en": "to have dinner (Québec: to have lunch)",
+     "uk": "вечеряти (у Квебеку: обідати)"
+    },
+    {
+     "fr": "la cafétéria",
+     "en": "the cafeteria (Québec)",
+     "uk": "їдальня (у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "We have supper at six.",
+   "uk": "Ми вечеряємо о шостій.",
+   "fr": "Nous soupons à six heures.",
+   "vocab": [
+    {
+     "fr": "souper",
+     "en": "to have supper (Québec)",
+     "uk": "вечеряти (у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "Can you set the table? (informal)",
+   "uk": "Можеш накрити на стіл?",
+   "fr": "Tu peux mettre la table?",
+   "vocab": [
+    {
+     "fr": "mettre la table",
+     "en": "to set the table",
+     "uk": "накривати на стіл"
+    }
+   ]
+  },
+  {
+   "en": "OK, I'm going to set the table.",
+   "uk": "Гаразд, я накрию на стіл.",
+   "fr": "D'accord, je vais mettre la table.",
+   "vocab": []
+  },
+  {
+   "en": "There's a plate, a fork and a knife.",
+   "uk": "Тут тарілка, виделка й ніж.",
+   "fr": "Il y a une assiette, une fourchette et un couteau.",
+   "vocab": [
+    {
+     "fr": "une assiette",
+     "en": "a plate",
+     "uk": "тарілка"
+    },
+    {
+     "fr": "une fourchette",
+     "en": "a fork",
+     "uk": "виделка"
+    },
+    {
+     "fr": "un couteau",
+     "en": "a knife",
+     "uk": "ніж"
+    }
+   ]
+  },
+  {
+   "en": "Do you have a spoon and a napkin? (informal)",
+   "uk": "У тебе є ложка й серветка?",
+   "fr": "Est-ce que tu as une cuillère et une serviette?",
+   "vocab": [
+    {
+     "fr": "une cuillère",
+     "en": "a spoon",
+     "uk": "ложка"
+    },
+    {
+     "fr": "une serviette",
+     "en": "a napkin",
+     "uk": "серветка"
+    }
+   ]
+  },
+  {
+   "en": "What's your favourite dish? It's roast chicken. (informal)",
+   "uk": "Яка твоя улюблена страва? Запечена курка.",
+   "fr": "Quel est ton plat préféré? C'est le poulet rôti.",
+   "vocab": [
+    {
+     "fr": "préféré",
+     "en": "favourite",
+     "uk": "улюблений"
+    },
+    {
+     "fr": "le poulet rôti",
+     "en": "roast chicken",
+     "uk": "запечена курка"
+    }
+   ]
+  },
+  {
+   "en": "I love salmon, but I hate tuna.",
+   "uk": "Я обожнюю лосося, але ненавиджу тунця.",
+   "fr": "J'adore le saumon, mais je déteste le thon.",
+   "vocab": [
+    {
+     "fr": "le saumon",
+     "en": "salmon",
+     "uk": "лосось"
+    },
+    {
+     "fr": "le thon",
+     "en": "tuna",
+     "uk": "тунець"
+    }
+   ]
+  }
+ ]
+}

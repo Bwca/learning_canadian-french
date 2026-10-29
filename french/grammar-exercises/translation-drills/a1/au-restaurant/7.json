@@ -1,0 +1,143 @@
+{
+ "title": {
+  "en": "At the restaurant 7: lunch in Québec City (the l'Omelette menu)",
+  "uk": "У ресторані 7: обід у місті Квебек (меню «l'Omelette»)"
+ },
+ "exercises": [
+  {
+   "en": "Today we're in Québec City. Where are you having lunch? (informal)",
+   "uk": "Сьогодні ми в місті Квебек. Де ти обідаєш?",
+   "fr": "Aujourd'hui, on est à Québec. Où est-ce que tu dînes?",
+   "vocab": [
+    {
+     "fr": "à Québec",
+     "en": "in Québec City",
+     "uk": "у місті Квебек"
+    }
+   ]
+  },
+  {
+   "en": "Omelettes are the specialty of this restaurant.",
+   "uk": "Омлети — фірмова страва цього ресторану.",
+   "fr": "Les omelettes sont la spécialité de ce restaurant.",
+   "vocab": [
+    {
+     "fr": "la spécialité",
+     "en": "the specialty",
+     "uk": "фірмова страва"
+    }
+   ]
+  },
+  {
+   "en": "How much is the Spanish omelette? It's six dollars fifty.",
+   "uk": "Скільки коштує іспанський омлет? Шість доларів п'ятдесят.",
+   "fr": "C'est combien, l'omelette espagnole? C'est six dollars cinquante.",
+   "vocab": [
+    {
+     "fr": "une omelette espagnole",
+     "en": "a Spanish omelette",
+     "uk": "іспанський омлет"
+    }
+   ]
+  },
+  {
+   "en": "In a western omelette, there's ham, potatoes and onions.",
+   "uk": "В омлеті «вестерн» є шинка, картопля й цибуля.",
+   "fr": "Dans une omelette western, il y a du jambon, des pommes de terre et des oignons.",
+   "vocab": [
+    {
+     "fr": "une pomme de terre",
+     "en": "a potato",
+     "uk": "картоплина"
+    },
+    {
+     "fr": "un oignon",
+     "en": "an onion",
+     "uk": "цибулина"
+    }
+   ]
+  },
+  {
+   "en": "In Québec, we say hambourgeois on the menu.",
+   "uk": "У Квебеку в меню пишуть hambourgeois.",
+   "fr": "Au Québec, on dit hambourgeois sur le menu.",
+   "vocab": [
+    {
+     "fr": "un hambourgeois",
+     "en": "a hamburger (Québec)",
+     "uk": "гамбургер (у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "I'm not very hungry. I'm going to have a Caesar salad.",
+   "uk": "Я не дуже голодний. Візьму салат «Цезар».",
+   "fr": "Je n'ai pas très faim. Je vais prendre une salade César.",
+   "vocab": [
+    {
+     "fr": "je vais prendre",
+     "en": "I'm going to have",
+     "uk": "я візьму"
+    }
+   ]
+  },
+  {
+   "en": "I'd like a crepe with strawberries and ice cream, please. (formal)",
+   "uk": "Я хотів би млинець із полуницею й морозивом, будь ласка.",
+   "fr": "Je voudrais une crêpe aux fraises et crème glacée, s'il vous plaît.",
+   "vocab": [
+    {
+     "fr": "la crème glacée",
+     "en": "ice cream (Québec)",
+     "uk": "морозиво (у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "The main ingredient of sugar pie is sugar.",
+   "uk": "Головний інгредієнт цукрового пирога — цукор.",
+   "fr": "L'ingrédient principal de la tarte au sucre, c'est le sucre.",
+   "vocab": [
+    {
+     "fr": "l'ingrédient (m.)",
+     "en": "the ingredient",
+     "uk": "інгредієнт"
+    },
+    {
+     "fr": "principal",
+     "en": "main",
+     "uk": "головний"
+    }
+   ]
+  },
+  {
+   "en": "In Québec, a soda is a liqueur douce.",
+   "uk": "У Квебеку газований напій — це liqueur douce.",
+   "fr": "Au Québec, un soda, c'est une liqueur douce.",
+   "vocab": [
+    {
+     "fr": "une liqueur douce",
+     "en": "a soft drink (Québec)",
+     "uk": "газований напій (у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "What are you having to drink? A grapefruit juice. (informal)",
+   "uk": "Що ти будеш пити? Грейпфрутовий сік.",
+   "fr": "Qu'est-ce que tu prends comme boisson? Un jus de pamplemousse.",
+   "vocab": [
+    {
+     "fr": "prendre",
+     "en": "to have (food, drink)",
+     "uk": "брати (їжу, напій)"
+    },
+    {
+     "fr": "le pamplemousse",
+     "en": "grapefruit",
+     "uk": "грейпфрут"
+    }
+   ]
+  }
+ ]
+}
