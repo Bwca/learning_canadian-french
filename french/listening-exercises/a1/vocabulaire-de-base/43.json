@@ -1,0 +1,316 @@
+{
+  "title": {
+    "en": "A new museum opens (list a1-22)",
+    "uk": "Відкриття нового музею (список a1-22)"
+  },
+  "situation": {
+    "en": "You hear a radio ad for a new museum.",
+    "uk": "Ви чуєте рекламу нового музею по радіо."
+  },
+  "lines": [
+    {
+      "fr": "Grande ouverture du nouveau Musée des Légendes, situé au centre-ville de Magog, dans les Cantons-de-l'Est!",
+      "en": "Grand opening of the new Museum of Legends, located in downtown Magog, in the Eastern Townships!",
+      "uk": "Урочисте відкриття нового Музею легенд у центрі Маґоґа, у Східних кантонах!"
+    },
+    {
+      "fr": "Découvrez notre collection : des chevaliers, des dragons chinois et, bien sûr, Memphré, le serpent du lac Memphrémagog!",
+      "en": "Discover our collection: knights, Chinese dragons and, of course, Memphré, the serpent of Lake Memphrémagog!",
+      "uk": "Відкрийте для себе нашу колекцію: лицарів, китайських драконів і, звісно, Мемфре — змія з озера Мемфремейгог!"
+    },
+    {
+      "fr": "Selon la légende, les habitants de la région voient ce serpent dans le lac depuis deux cents ans.",
+      "en": "According to the legend, the people of the region have been seeing this serpent in the lake for two hundred years.",
+      "uk": "За легендою, місцеві жителі бачать цього змія в озері вже двісті років."
+    },
+    {
+      "fr": "Sur nos grands écrans, un film amusant présente la culture et les légendes de toute la province.",
+      "en": "On our big screens, a fun film presents the culture and legends of the whole province.",
+      "uk": "На наших великих екранах — кумедний фільм про культуру й легенди всієї провінції."
+    },
+    {
+      "fr": "Toutes les demi-heures, il y a une visite guidée en français, en anglais ou en espagnol.",
+      "en": "Every half hour, there's a guided tour in French, English or Spanish.",
+      "uk": "Щопівгодини — екскурсія з гідом французькою, англійською або іспанською."
+    },
+    {
+      "fr": "Le musée est ouvert du jeudi au dimanche, jusqu'à dix-sept heures, et le vendredi jusqu'à vingt et une heures.",
+      "en": "The museum is open Thursday to Sunday, until five p.m., and on Fridays until nine p.m.",
+      "uk": "Музей працює з четверга до неділі до сімнадцятої години, а в п'ятницю — до двадцять першої."
+    },
+    {
+      "fr": "Prix : quinze dollars pour les adultes, dix dollars pour les personnes âgées, et gratuit pour les enfants.",
+      "en": "Price: fifteen dollars for adults, ten dollars for seniors, and free for children.",
+      "uk": "Ціна: п'ятнадцять доларів для дорослих, десять — для людей похилого віку, для дітей — безкоштовно."
+    },
+    {
+      "fr": "Nous acceptons l'argent comptant et les cartes, mais pas les chèques.",
+      "en": "We accept cash and cards, but not cheques.",
+      "uk": "Ми приймаємо готівку й картки, але не чеки."
+    },
+    {
+      "fr": "Ouvert d'avril à octobre. En novembre, le musée ferme pour l'hiver.",
+      "en": "Open from April to October. In November, the museum closes for the winter.",
+      "uk": "Працює з квітня до жовтня. У листопаді музей зачиняється на зиму."
+    },
+    {
+      "fr": "Le Musée des Légendes : une découverte pour toute la famille!",
+      "en": "The Museum of Legends: a discovery for the whole family!",
+      "uk": "Музей легенд — відкриття для всієї родини!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is Memphré?",
+        "uk": "Що таке Мемфре?"
+      },
+      "options": [
+        {
+          "en": "A Chinese dragon",
+          "uk": "Китайський дракон"
+        },
+        {
+          "en": "A serpent in a lake",
+          "uk": "Змій в озері"
+        },
+        {
+          "en": "A knight from the region",
+          "uk": "Лицар із цього регіону"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "How often is there a guided tour?",
+        "uk": "Як часто бувають екскурсії з гідом?"
+      },
+      "options": [
+        {
+          "en": "Every half hour",
+          "uk": "Щопівгодини"
+        },
+        {
+          "en": "Every hour",
+          "uk": "Щогодини"
+        },
+        {
+          "en": "Twice a day",
+          "uk": "Двічі на день"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Until what time is the museum open on Fridays?",
+        "uk": "До котрої музей працює в п'ятницю?"
+      },
+      "options": [
+        {
+          "en": "5 p.m.",
+          "uk": "До 17:00"
+        },
+        {
+          "en": "7 p.m.",
+          "uk": "До 19:00"
+        },
+        {
+          "en": "9 p.m.",
+          "uk": "До 21:00"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "How much is it for seniors?",
+        "uk": "Скільки коштує вхід для людей похилого віку?"
+      },
+      "options": [
+        {
+          "en": "$15",
+          "uk": "15 $"
+        },
+        {
+          "en": "$10",
+          "uk": "10 $"
+        },
+        {
+          "en": "Free",
+          "uk": "Безкоштовно"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What can't you pay with?",
+        "uk": "Чим не можна платити?"
+      },
+      "options": [
+        {
+          "en": "Cards",
+          "uk": "Карткою"
+        },
+        {
+          "en": "Cash",
+          "uk": "Готівкою"
+        },
+        {
+          "en": "Cheques",
+          "uk": "Чеком"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le serpent",
+      "en": "the snake",
+      "uk": "змія"
+    },
+    {
+      "fr": "jusque / jusqu'à",
+      "en": "until / up to (jusqu'à)",
+      "uk": "до (jusqu'à)"
+    },
+    {
+      "fr": "le chevalier",
+      "en": "the knight",
+      "uk": "лицар"
+    },
+    {
+      "fr": "vendredi (m.)",
+      "en": "Friday",
+      "uk": "п'ятниця"
+    },
+    {
+      "fr": "la culture",
+      "en": "the culture",
+      "uk": "культура"
+    },
+    {
+      "fr": "l'adulte (m./f.)",
+      "en": "the adult",
+      "uk": "дорослий / доросла"
+    },
+    {
+      "fr": "âgé / âgée",
+      "en": "elderly / old",
+      "uk": "літній / літня, старий"
+    },
+    {
+      "fr": "la demi-heure",
+      "en": "the half-hour",
+      "uk": "півгодини"
+    },
+    {
+      "fr": "jeudi (m.)",
+      "en": "Thursday",
+      "uk": "четвер"
+    },
+    {
+      "fr": "le musée",
+      "en": "the museum",
+      "uk": "музей"
+    },
+    {
+      "fr": "situer",
+      "en": "to locate (se situer = to be located)",
+      "uk": "розташовувати (se situer = розташовуватися)"
+    },
+    {
+      "fr": "amusant / amusante",
+      "en": "funny / fun",
+      "uk": "кумедний / кумедна, веселий"
+    },
+    {
+      "fr": "octobre (m.)",
+      "en": "October",
+      "uk": "жовтень"
+    },
+    {
+      "fr": "la légende",
+      "en": "the legend / the caption",
+      "uk": "легенда / підпис (до малюнка)"
+    },
+    {
+      "fr": "l'écran (m.)",
+      "en": "the screen",
+      "uk": "екран"
+    },
+    {
+      "fr": "chinois / chinoise",
+      "en": "Chinese",
+      "uk": "китайський / китайська, китаєць"
+    },
+    {
+      "fr": "l'habitant (m.) / l'habitante (f.)",
+      "en": "the inhabitant / the resident",
+      "uk": "мешканець / мешканка"
+    },
+    {
+      "fr": "espagnol / espagnole",
+      "en": "Spanish",
+      "uk": "іспанський / іспанська, іспанець"
+    },
+    {
+      "fr": "l'ouverture (f.)",
+      "en": "the opening",
+      "uk": "відкриття (дверей, магазину)"
+    },
+    {
+      "fr": "avril (m.)",
+      "en": "April",
+      "uk": "квітень"
+    },
+    {
+      "fr": "la province",
+      "en": "the province",
+      "uk": "провінція"
+    },
+    {
+      "fr": "la collection",
+      "en": "the collection",
+      "uk": "колекція"
+    },
+    {
+      "fr": "la découverte",
+      "en": "the discovery",
+      "uk": "відкриття (наукове)"
+    },
+    {
+      "fr": "le chèque",
+      "en": "the cheque",
+      "uk": "чек"
+    },
+    {
+      "fr": "novembre (m.)",
+      "en": "November",
+      "uk": "листопад"
+    },
+    {
+      "fr": "les Cantons-de-l'Est (m.)",
+      "en": "the Eastern Townships, a region of Québec",
+      "uk": "Східні кантони, регіон Квебеку"
+    },
+    {
+      "fr": "le dragon",
+      "en": "the dragon",
+      "uk": "дракон"
+    },
+    {
+      "fr": "la visite guidée",
+      "en": "the guided tour",
+      "uk": "екскурсія з гідом"
+    },
+    {
+      "fr": "gratuit / gratuite",
+      "en": "free (no cost)",
+      "uk": "безкоштовний / безкоштовна"
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "title": {
+    "en": "Dinner and news (list a1-23)",
+    "uk": "Вечеря і новини (список a1-23)"
+  },
+  "situation": {
+    "en": "You hear two friends, Nadia and Karim, at a restaurant.",
+    "uk": "Ви чуєте двох друзів, Наді та Каріма, у ресторані."
+  },
+  "lines": [
+    {
+      "speaker": "Serveur",
+      "fr": "Bonsoir! Vous avez choisi?",
+      "en": "Good evening! Are you ready to order?",
+      "uk": "Добрий вечір! Ви вже вибрали?"
+    },
+    {
+      "speaker": "Nadia",
+      "fr": "Oui. Pour moi, les pâtes à la tomate.",
+      "en": "Yes. For me, the pasta with tomato sauce.",
+      "uk": "Так. Мені пасту з томатним соусом."
+    },
+    {
+      "speaker": "Karim",
+      "fr": "Et pour moi, le bœuf avec du riz et des légumes.",
+      "en": "And for me, the beef with rice and vegetables.",
+      "uk": "А мені яловичину з рисом і овочами."
+    },
+    {
+      "speaker": "Serveur",
+      "fr": "Et comme boisson?",
+      "en": "And to drink?",
+      "uk": "А що питимете?"
+    },
+    {
+      "speaker": "Karim",
+      "fr": "De l'eau, s'il vous plaît.",
+      "en": "Water, please.",
+      "uk": "Воду, будь ласка."
+    },
+    {
+      "speaker": "Nadia",
+      "fr": "Il est sympathique, le serveur.",
+      "en": "The waiter is nice.",
+      "uk": "Приємний офіціант."
+    },
+    {
+      "speaker": "Karim",
+      "fr": "C'est mon cousin Théo! Il est un peu timide. Il étudie au collège, en informatique : il adore les ordinateurs. Le soir, il travaille ici.",
+      "en": "That's my cousin Théo! He's a bit shy. He studies computer science at college: he loves computers. In the evenings he works here.",
+      "uk": "Це мій двоюрідний брат Тео! Він трохи сором'язливий. Навчається в коледжі на інформатиці: обожнює комп'ютери. Увечері працює тут."
+    },
+    {
+      "speaker": "Karim",
+      "fr": "Et toi, quoi de neuf?",
+      "en": "And you, what's new?",
+      "uk": "А в тебе що нового?"
+    },
+    {
+      "speaker": "Nadia",
+      "fr": "Ma sœur et son mari divorcent.",
+      "en": "My sister and her husband are getting divorced.",
+      "uk": "Моя сестра з чоловіком розлучаються."
+    },
+    {
+      "speaker": "Karim",
+      "fr": "Oh, désolé…",
+      "en": "Oh, I'm sorry…",
+      "uk": "Ой, співчуваю…"
+    },
+    {
+      "speaker": "Nadia",
+      "fr": "Elle est courageuse. Elle achète une petite ferme en banlieue, avec ses deux enfants… et un âne! Il est adorable.",
+      "en": "She's brave. She's buying a small farm in the suburbs, with her two children… and a donkey! It's adorable.",
+      "uk": "Вона смілива. Купує невелику ферму в передмісті, з двома дітьми… і віслюком! Він чарівний."
+    },
+    {
+      "speaker": "Nadia",
+      "fr": "Et toi, je te félicite : ta photo est dans le magazine du quartier!",
+      "en": "And you, congratulations: your photo is in the neighbourhood magazine!",
+      "uk": "А тебе вітаю: твоє фото в журналі нашого району!"
+    },
+    {
+      "speaker": "Karim",
+      "fr": "Oui! Ma chanteuse préférée, Laurence, une star internationale, chante vendredi à la Cité universitaire. Et moi, je joue de la guitare avec elle!",
+      "en": "Yes! My favourite singer, Laurence, an international star, is singing on Friday at the university campus. And I'm playing guitar with her!",
+      "uk": "Так! Моя улюблена співачка Лоранс, міжнародна зірка, виступає в п'ятницю в Університетському містечку. А я граю з нею на гітарі!"
+    },
+    {
+      "speaker": "Karim",
+      "fr": "J'ai une invitation pour toi!",
+      "en": "I have an invitation for you!",
+      "uk": "У мене для тебе запрошення!"
+    },
+    {
+      "speaker": "Nadia",
+      "fr": "Merci! Et samedi, je pratique le soccer — ou le foot, comme disent les Français. Tu viens?",
+      "en": "Thanks! And on Saturday I'm playing soccer — or “foot”, as the French say. Are you coming?",
+      "uk": "Дякую! А в суботу я граю у футбол — «соккер», як кажуть у Квебеку, або «фут», як у Франції. Прийдеш?"
+    },
+    {
+      "speaker": "Karim",
+      "fr": "Oui! Et vendredi, mets ton blouson de cuir : c'est un concert rock!",
+      "en": "Yes! And on Friday, wear your leather jacket: it's a rock concert!",
+      "uk": "Так! А в п'ятницю вдягни шкіряну куртку: це рок-концерт!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What does Nadia order?",
+        "uk": "Що замовляє Наді?"
+      },
+      "options": [
+        {
+          "en": "Beef with rice",
+          "uk": "Яловичину з рисом"
+        },
+        {
+          "en": "Pasta with tomato sauce",
+          "uk": "Пасту з томатним соусом"
+        },
+        {
+          "en": "Vegetable soup",
+          "uk": "Овочевий суп"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Who is the waiter?",
+        "uk": "Хто офіціант?"
+      },
+      "options": [
+        {
+          "en": "Karim's cousin",
+          "uk": "Двоюрідний брат Каріма"
+        },
+        {
+          "en": "Nadia's brother",
+          "uk": "Брат Наді"
+        },
+        {
+          "en": "A singer",
+          "uk": "Співак"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What is new with Nadia's sister?",
+        "uk": "Що нового в сестри Наді?"
+      },
+      "options": [
+        {
+          "en": "She's getting married",
+          "uk": "Вона виходить заміж"
+        },
+        {
+          "en": "She's moving downtown",
+          "uk": "Вона переїжджає в центр міста"
+        },
+        {
+          "en": "She's divorcing and buying a small farm",
+          "uk": "Вона розлучається й купує невелику ферму"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Why is Karim's photo in the magazine?",
+        "uk": "Чому фото Каріма в журналі?"
+      },
+      "options": [
+        {
+          "en": "He plays guitar with a famous singer",
+          "uk": "Він грає на гітарі з відомою співачкою"
+        },
+        {
+          "en": "He plays soccer",
+          "uk": "Він грає у футбол"
+        },
+        {
+          "en": "He works at a restaurant",
+          "uk": "Він працює в ресторані"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What does Karim tell Nadia to wear on Friday?",
+        "uk": "Що Карім радить Наді вдягнути в п'ятницю?"
+      },
+      "options": [
+        {
+          "en": "A dress",
+          "uk": "Сукню"
+        },
+        {
+          "en": "Her leather jacket",
+          "uk": "Шкіряну куртку"
+        },
+        {
+          "en": "Her soccer jersey",
+          "uk": "Футбольну форму"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "international / internationale",
+      "en": "international",
+      "uk": "міжнародний / міжнародна"
+    },
+    {
+      "fr": "timide",
+      "en": "shy",
+      "uk": "сором'язливий"
+    },
+    {
+      "fr": "l'ordinateur (m.)",
+      "en": "the computer",
+      "uk": "комп'ютер"
+    },
+    {
+      "fr": "le chanteur / la chanteuse",
+      "en": "the singer",
+      "uk": "співак / співачка"
+    },
+    {
+      "fr": "la pâte",
+      "en": "the dough / the paste (les pâtes = pasta)",
+      "uk": "тісто / паста (les pâtes = макарони)"
+    },
+    {
+      "fr": "courageux / courageuse",
+      "en": "brave",
+      "uk": "сміливий / смілива"
+    },
+    {
+      "fr": "féliciter",
+      "en": "to congratulate",
+      "uk": "вітати, поздоровляти"
+    },
+    {
+      "fr": "la cité",
+      "en": "the city / the housing estate",
+      "uk": "місто / житловий масив"
+    },
+    {
+      "fr": "le serveur / la serveuse",
+      "en": "the waiter / the waitress",
+      "uk": "офіціант / офіціантка"
+    },
+    {
+      "fr": "le légume",
+      "en": "the vegetable",
+      "uk": "овоч"
+    },
+    {
+      "fr": "pratiquer",
+      "en": "to practise / to play (a sport)",
+      "uk": "практикувати / займатися (спортом)"
+    },
+    {
+      "fr": "préféré / préférée",
+      "en": "favourite",
+      "uk": "улюблений / улюблена"
+    },
+    {
+      "fr": "le collège",
+      "en": "the junior high school (France) / the CEGEP (Québec)",
+      "uk": "коледж (молодша середня школа у Франції) / сежеп (у Квебеку)"
+    },
+    {
+      "fr": "le magazine",
+      "en": "the magazine",
+      "uk": "журнал"
+    },
+    {
+      "fr": "l'invitation (f.)",
+      "en": "the invitation",
+      "uk": "запрошення"
+    },
+    {
+      "fr": "le riz",
+      "en": "the rice",
+      "uk": "рис"
+    },
+    {
+      "fr": "divorcer",
+      "en": "to divorce / to get divorced",
+      "uk": "розлучатися"
+    },
+    {
+      "fr": "la tomate",
+      "en": "the tomato",
+      "uk": "помідор"
+    },
+    {
+      "fr": "adorable",
+      "en": "adorable / lovely",
+      "uk": "чарівний, чудовий"
+    },
+    {
+      "fr": "l'âne (m.)",
+      "en": "the donkey",
+      "uk": "віслюк"
+    },
+    {
+      "fr": "le blouson",
+      "en": "the jacket",
+      "uk": "куртка"
+    },
+    {
+      "fr": "la boisson",
+      "en": "the drink",
+      "uk": "напій"
+    },
+    {
+      "fr": "la banlieue",
+      "en": "the suburbs",
+      "uk": "передмістя"
+    },
+    {
+      "fr": "sympathique",
+      "en": "nice / friendly",
+      "uk": "симпатичний, привітний"
+    },
+    {
+      "fr": "le bœuf",
+      "en": "the beef / the ox",
+      "uk": "яловичина / віл"
+    },
+    {
+      "fr": "le foot",
+      "en": "soccer / football (Québec: le soccer)",
+      "uk": "футбол (у Квебеку: le soccer)"
+    },
+    {
+      "fr": "la Cité universitaire",
+      "en": "the Université Laval campus in Québec City",
+      "uk": "Університетське містечко — кампус Університету Лаваль у Квебеку"
+    },
+    {
+      "fr": "le soccer",
+      "en": "soccer (Québec)",
+      "uk": "футбол (у Квебеку)"
+    },
+    {
+      "fr": "le cuir",
+      "en": "leather",
+      "uk": "шкіра (матеріал)"
+    }
+  ]
+}

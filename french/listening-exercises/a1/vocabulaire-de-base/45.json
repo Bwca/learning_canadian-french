@@ -1,0 +1,357 @@
+{
+  "title": {
+    "en": "At the tourist office (list a1-23)",
+    "uk": "У туристичному офісі (список a1-23)"
+  },
+  "situation": {
+    "en": "You hear a tourist talking to an employee at the tourist office in Québec City.",
+    "uk": "Ви чуєте, як турист розмовляє з працівницею туристичного офісу в Квебеку."
+  },
+  "lines": [
+    {
+      "speaker": "Employée",
+      "fr": "Bonjour, bienvenue à l'office de tourisme! Je peux vous aider?",
+      "en": "Hello, welcome to the tourist office! Can I help you?",
+      "uk": "Добрий день, ласкаво просимо до туристичного офісу! Чим можу допомогти?"
+    },
+    {
+      "speaker": "Touriste",
+      "fr": "Bonjour! Je suis touriste, j'arrive de Madrid. Est-ce que vous parlez espagnol?",
+      "en": "Hello! I'm a tourist, I've just arrived from Madrid. Do you speak Spanish?",
+      "uk": "Добрий день! Я турист, щойно з Мадрида. Ви розмовляєте іспанською?"
+    },
+    {
+      "speaker": "Employée",
+      "fr": "Un peu! Mais votre français est fantastique.",
+      "en": "A little! But your French is fantastic.",
+      "uk": "Трохи! Але у вас чудова французька."
+    },
+    {
+      "speaker": "Touriste",
+      "fr": "Merci! Je suis à Québec pour une semaine, en décembre. Qu'est-ce que vous proposez?",
+      "en": "Thank you! I'm in Québec City for a week, in December. What do you suggest?",
+      "uk": "Дякую! Я в Квебеку на тиждень, у грудні. Що порадите?"
+    },
+    {
+      "speaker": "Employée",
+      "fr": "D'abord, Québec, c'est la capitale de la province, et le Vieux-Québec est au patrimoine mondial de l'UNESCO.",
+      "en": "First, Québec City is the capital of the province, and Old Québec is a UNESCO World Heritage site.",
+      "uk": "Насамперед, Квебек — столиця провінції, а Старий Квебек входить до Світової спадщини ЮНЕСКО."
+    },
+    {
+      "speaker": "Employée",
+      "fr": "En décembre, il y a le marché de Noël allemand. C'est très romantique, avec les sapins et les lumières.",
+      "en": "In December, there's the German Christmas market. It's very romantic, with the fir trees and the lights.",
+      "uk": "У грудні тут німецький різдвяний ярмарок. Дуже романтично: ялинки, вогники."
+    },
+    {
+      "speaker": "Touriste",
+      "fr": "Et pour faire du sport?",
+      "en": "And to do some sport?",
+      "uk": "А де можна позайматися спортом?"
+    },
+    {
+      "speaker": "Employée",
+      "fr": "La patinoire de la place D'Youville est gratuite.",
+      "en": "The skating rink at Place D'Youville is free.",
+      "uk": "Ковзанка на площі Д'Ювіль безкоштовна."
+    },
+    {
+      "speaker": "Touriste",
+      "fr": "Mon hôtel n'a pas de piscine…",
+      "en": "My hotel doesn't have a pool…",
+      "uk": "У моєму готелі немає басейну…"
+    },
+    {
+      "speaker": "Employée",
+      "fr": "Le centre sportif local a une piscine. C'est huit dollars.",
+      "en": "The local sports centre has a pool. It's eight dollars.",
+      "uk": "У місцевому спортцентрі є басейн. Вхід — вісім доларів."
+    },
+    {
+      "speaker": "Touriste",
+      "fr": "Et à bicyclette? Ou la visite d'une grotte?",
+      "en": "And by bicycle? Or visiting a cave?",
+      "uk": "А на велосипеді? Або екскурсія до печери?"
+    },
+    {
+      "speaker": "Employée",
+      "fr": "En décembre, avec la neige, la bicyclette, c'est compliqué. Et la grotte est fermée en hiver.",
+      "en": "In December, with the snow, cycling is complicated. And the cave is closed in winter.",
+      "uk": "У грудні, зі снігом, на велосипеді складно. А печера взимку зачинена."
+    },
+    {
+      "speaker": "Employée",
+      "fr": "Pour une visite guidée, voici l'adresse d'une agence, rue Saint-Jean. Les visites sont le mardi et le mercredi, à dix heures.",
+      "en": "For a guided tour, here's the address of an agency on rue Saint-Jean. Tours are on Tuesdays and Wednesdays at ten.",
+      "uk": "Для екскурсії з гідом — ось адреса агенції на вулиці Сен-Жан. Екскурсії у вівторок і середу о десятій."
+    },
+    {
+      "speaker": "Employée",
+      "fr": "Et voici un document avec la carte de la ville, en espagnol. Vous pouvez aussi télécharger notre application sur votre portable.",
+      "en": "And here's a document with the city map, in Spanish. You can also download our app on your cell phone.",
+      "uk": "А ось документ із мапою міста іспанською. Також можна завантажити наш застосунок на мобільний."
+    },
+    {
+      "speaker": "Touriste",
+      "fr": "Et pour le Carnaval, c'est quand?",
+      "en": "And the Carnival, when is it?",
+      "uk": "А карнавал коли?"
+    },
+    {
+      "speaker": "Employée",
+      "fr": "En février. C'est idéal, mais en janvier et en février, il fait très froid! Si vous avez une question, revenez à l'accueil.",
+      "en": "In February. It's ideal, but in January and February it's very cold! If you have a question, come back to the front desk.",
+      "uk": "У лютому. Це ідеальний час, але в січні й лютому дуже холодно! Якщо будуть питання, повертайтеся до рецепції."
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Where is the tourist from?",
+        "uk": "Звідки турист?"
+      },
+      "options": [
+        {
+          "en": "Barcelona",
+          "uk": "З Барселони"
+        },
+        {
+          "en": "Mexico City",
+          "uk": "З Мехіко"
+        },
+        {
+          "en": "Madrid",
+          "uk": "З Мадрида"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What does the employee find very romantic?",
+        "uk": "Що працівниця вважає дуже романтичним?"
+      },
+      "options": [
+        {
+          "en": "The German Christmas market",
+          "uk": "Німецький різдвяний ярмарок"
+        },
+        {
+          "en": "The skating rink",
+          "uk": "Ковзанку"
+        },
+        {
+          "en": "A cave tour",
+          "uk": "Екскурсію до печери"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How much does the pool cost?",
+        "uk": "Скільки коштує басейн?"
+      },
+      "options": [
+        {
+          "en": "It's free",
+          "uk": "Безкоштовно"
+        },
+        {
+          "en": "$8",
+          "uk": "8 $"
+        },
+        {
+          "en": "$18",
+          "uk": "18 $"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "When are the guided tours?",
+        "uk": "Коли бувають екскурсії з гідом?"
+      },
+      "options": [
+        {
+          "en": "Tuesdays and Wednesdays at ten",
+          "uk": "У вівторок і середу о десятій"
+        },
+        {
+          "en": "Every day at ten",
+          "uk": "Щодня о десятій"
+        },
+        {
+          "en": "Wednesdays and Thursdays at two",
+          "uk": "У середу й четвер о другій"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "When is the Carnival?",
+        "uk": "Коли карнавал?"
+      },
+      "options": [
+        {
+          "en": "In December",
+          "uk": "У грудні"
+        },
+        {
+          "en": "In January",
+          "uk": "У січні"
+        },
+        {
+          "en": "In February",
+          "uk": "У лютому"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "compliquer",
+      "en": "to complicate (compliqué = complicated)",
+      "uk": "ускладнювати (compliqué = складний)"
+    },
+    {
+      "fr": "local / locale",
+      "en": "local",
+      "uk": "місцевий / місцева"
+    },
+    {
+      "fr": "l'agence (f.)",
+      "en": "the agency",
+      "uk": "агенція"
+    },
+    {
+      "fr": "le document",
+      "en": "the document",
+      "uk": "документ"
+    },
+    {
+      "fr": "la piscine",
+      "en": "the swimming pool",
+      "uk": "басейн"
+    },
+    {
+      "fr": "l'espagnol (m.)",
+      "en": "Spanish (the language)",
+      "uk": "іспанська (мова)"
+    },
+    {
+      "fr": "la capitale",
+      "en": "the capital (city)",
+      "uk": "столиця"
+    },
+    {
+      "fr": "mardi (m.)",
+      "en": "Tuesday",
+      "uk": "вівторок"
+    },
+    {
+      "fr": "décembre (m.)",
+      "en": "December",
+      "uk": "грудень"
+    },
+    {
+      "fr": "janvier (m.)",
+      "en": "January",
+      "uk": "січень"
+    },
+    {
+      "fr": "le / la touriste",
+      "en": "the tourist",
+      "uk": "турист / туристка"
+    },
+    {
+      "fr": "idéal / idéale",
+      "en": "ideal",
+      "uk": "ідеальний / ідеальна"
+    },
+    {
+      "fr": "gratuit / gratuite",
+      "en": "free (no cost)",
+      "uk": "безкоштовний / безкоштовна"
+    },
+    {
+      "fr": "fantastique",
+      "en": "fantastic",
+      "uk": "фантастичний"
+    },
+    {
+      "fr": "la bicyclette",
+      "en": "the bicycle",
+      "uk": "велосипед"
+    },
+    {
+      "fr": "portable",
+      "en": "portable / the cell phone (le portable)",
+      "uk": "портативний / мобільний телефон (le portable)"
+    },
+    {
+      "fr": "la grotte",
+      "en": "the cave",
+      "uk": "печера"
+    },
+    {
+      "fr": "mercredi (m.)",
+      "en": "Wednesday",
+      "uk": "середа"
+    },
+    {
+      "fr": "le sapin",
+      "en": "the fir tree",
+      "uk": "ялиця"
+    },
+    {
+      "fr": "romantique",
+      "en": "romantic",
+      "uk": "романтичний"
+    },
+    {
+      "fr": "l'office (m.)",
+      "en": "the office / the agency (l'office de tourisme)",
+      "uk": "бюро / агенція (l'office de tourisme)"
+    },
+    {
+      "fr": "février (m.)",
+      "en": "February",
+      "uk": "лютий"
+    },
+    {
+      "fr": "l'accueil (m.)",
+      "en": "the welcome / the reception (desk)",
+      "uk": "прийом, зустріч / рецепція"
+    },
+    {
+      "fr": "mondial / mondiale",
+      "en": "worldwide / global",
+      "uk": "світовий / світова"
+    },
+    {
+      "fr": "le marché de Noël",
+      "en": "the Christmas market",
+      "uk": "різдвяний ярмарок"
+    },
+    {
+      "fr": "la patinoire",
+      "en": "the skating rink",
+      "uk": "ковзанка"
+    },
+    {
+      "fr": "le patrimoine",
+      "en": "heritage",
+      "uk": "спадщина"
+    },
+    {
+      "fr": "l'application (f.)",
+      "en": "the app",
+      "uk": "застосунок"
+    }
+  ]
+}

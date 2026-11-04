@@ -1,0 +1,266 @@
+{
+  "title": {
+    "en": "Summer job ad (list a1-25)",
+    "uk": "Оголошення про літню роботу (список a1-25)"
+  },
+  "situation": {
+    "en": "You hear a radio ad for summer jobs at a day camp.",
+    "uk": "Ви чуєте по радіо оголошення про літню роботу в денному таборі."
+  },
+  "lines": [
+    {
+      "fr": "Tu cherches un emploi d'été? Le camp de jour Plein Air Laurentides cherche des animateurs et des animatrices!",
+      "en": "Looking for a summer job? The Plein Air Laurentides day camp is looking for activity leaders!",
+      "uk": "Шукаєш роботу на літо? Денний табір «Плен-Ер Лорентид» шукає вожатих!"
+    },
+    {
+      "fr": "Tu es dynamique et sportif? Tu es francophone, ou tu parles bien français? Toutes les nationalités sont bienvenues.",
+      "en": "Are you energetic and sporty? Are you a French speaker, or do you speak French well? All nationalities are welcome.",
+      "uk": "Ти енергійний і спортивний? Франкомовний чи добре говориш французькою? Запрошуємо людей будь-якої національності."
+    },
+    {
+      "fr": "Activités : camping, balades en forêt, sports, ateliers sur l'environnement, et même un atelier d'informatique.",
+      "en": "Activities: camping, walks in the forest, sports, workshops on the environment, and even a computer workshop.",
+      "uk": "Заняття: кемпінг, прогулянки лісом, спорт, майстер-класи про довкілля і навіть заняття з інформатики."
+    },
+    {
+      "fr": "Les repas à la cantine du camp sont gratuits.",
+      "en": "Meals in the camp cafeteria are free.",
+      "uk": "Харчування в їдальні табору безкоштовне."
+    },
+    {
+      "fr": "Horaire : du lundi au vendredi, de huit heures et demie à seize heures.",
+      "en": "Schedule: Monday to Friday, from eight-thirty to four p.m.",
+      "uk": "Графік: з понеділка до п'ятниці, з пів на дев'яту до шістнадцятої."
+    },
+    {
+      "fr": "Le salaire : dix-huit dollars de l'heure. Le cours de premiers soins est obligatoire, et nous offrons une formation continue pendant l'été.",
+      "en": "The pay: eighteen dollars an hour. The first-aid course is mandatory, and we offer ongoing training during the summer.",
+      "uk": "Зарплата — вісімнадцять доларів на годину. Курс першої допомоги обов'язковий, а протягом літа ми пропонуємо постійне навчання."
+    },
+    {
+      "fr": "Nous cherchons aussi un informaticien ou une informaticienne pour notre site.",
+      "en": "We're also looking for an IT person for our website.",
+      "uk": "Також шукаємо айтівця або айтівицю для нашого сайту."
+    },
+    {
+      "fr": "Pour plus d'informations, visite notre page sur internet. Envoie ton CV par courriel avant le quinze avril!",
+      "en": "For more information, visit our page on the internet. Send your résumé by email before April fifteenth!",
+      "uk": "Більше інформації — на нашій сторінці в інтернеті. Надсилай резюме електронною поштою до п'ятнадцятого квітня!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What kind of people is the camp looking for?",
+        "uk": "Кого шукає табір?"
+      },
+      "options": [
+        {
+          "en": "Energetic, sporty activity leaders",
+          "uk": "Енергійних, спортивних вожатих"
+        },
+        {
+          "en": "Experienced cooks",
+          "uk": "Досвідчених кухарів"
+        },
+        {
+          "en": "Bus drivers",
+          "uk": "Водіїв автобусів"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What are the working hours?",
+        "uk": "Який графік роботи?"
+      },
+      "options": [
+        {
+          "en": "8:00 to 3:30",
+          "uk": "З 8:00 до 15:30"
+        },
+        {
+          "en": "9:30 to 4:00",
+          "uk": "З 9:30 до 16:00"
+        },
+        {
+          "en": "8:30 to 4:00",
+          "uk": "З 8:30 до 16:00"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What is mandatory?",
+        "uk": "Що обов'язково?"
+      },
+      "options": [
+        {
+          "en": "Speaking English",
+          "uk": "Говорити англійською"
+        },
+        {
+          "en": "A first-aid course",
+          "uk": "Курс першої допомоги"
+        },
+        {
+          "en": "Having a car",
+          "uk": "Мати машину"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "How much is the pay?",
+        "uk": "Яка зарплата?"
+      },
+      "options": [
+        {
+          "en": "$18 an hour",
+          "uk": "18 $ на годину"
+        },
+        {
+          "en": "$15 an hour",
+          "uk": "15 $ на годину"
+        },
+        {
+          "en": "$80 a day",
+          "uk": "80 $ на день"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How do you apply?",
+        "uk": "Як подати заявку?"
+      },
+      "options": [
+        {
+          "en": "By phone before April 5",
+          "uk": "Телефоном до 5 квітня"
+        },
+        {
+          "en": "At the camp in person",
+          "uk": "Особисто в таборі"
+        },
+        {
+          "en": "By email before April 15",
+          "uk": "Електронною поштою до 15 квітня"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "sportif / sportive",
+      "en": "sporty / athletic",
+      "uk": "спортивний / спортивна"
+    },
+    {
+      "fr": "la cantine",
+      "en": "the cafeteria (school)",
+      "uk": "їдальня (шкільна)"
+    },
+    {
+      "fr": "le demi / la demie",
+      "en": "the half (et demie = half past)",
+      "uk": "половина (et demie = і пів, пів на)"
+    },
+    {
+      "fr": "la balade",
+      "en": "the stroll / the walk",
+      "uk": "прогулянка"
+    },
+    {
+      "fr": "obligatoire",
+      "en": "mandatory / compulsory",
+      "uk": "обов'язковий"
+    },
+    {
+      "fr": "l'environnement (m.)",
+      "en": "the environment",
+      "uk": "довкілля"
+    },
+    {
+      "fr": "continu",
+      "en": "continuous",
+      "uk": "безперервний"
+    },
+    {
+      "fr": "la nationalité",
+      "en": "the nationality",
+      "uk": "громадянство, національність"
+    },
+    {
+      "fr": "le camping",
+      "en": "the camping / the campsite",
+      "uk": "кемпінг"
+    },
+    {
+      "fr": "internet (m.)",
+      "en": "the internet",
+      "uk": "інтернет"
+    },
+    {
+      "fr": "l'informatique (f.)",
+      "en": "the computer science / IT",
+      "uk": "інформатика / ІТ"
+    },
+    {
+      "fr": "l'animateur (m.) / l'animatrice (f.)",
+      "en": "the host / the presenter / the activity leader",
+      "uk": "ведучий / ведуча / аніматор"
+    },
+    {
+      "fr": "le mail / le courriel",
+      "en": "the email (Québec: le courriel)",
+      "uk": "імейл, електронний лист (у Квебеку: le courriel)"
+    },
+    {
+      "fr": "dynamique",
+      "en": "dynamic / energetic",
+      "uk": "динамічний, енергійний"
+    },
+    {
+      "fr": "l'informaticien (m.) / l'informaticienne (f.)",
+      "en": "the computer scientist / the IT person",
+      "uk": "інформатик / ІТ-фахівець, айтівець"
+    },
+    {
+      "fr": "francophone",
+      "en": "French-speaking / francophone",
+      "uk": "франкомовний, франкофон"
+    },
+    {
+      "fr": "le camp de jour",
+      "en": "the day camp",
+      "uk": "денний табір"
+    },
+    {
+      "fr": "les premiers soins (m.)",
+      "en": "first aid",
+      "uk": "перша допомога"
+    },
+    {
+      "fr": "le salaire",
+      "en": "the pay, salary",
+      "uk": "зарплата"
+    },
+    {
+      "fr": "le CV",
+      "en": "the résumé, CV",
+      "uk": "резюме"
+    },
+    {
+      "fr": "la formation continue",
+      "en": "ongoing training",
+      "uk": "постійне навчання, підвищення кваліфікації"
+    }
+  ]
+}

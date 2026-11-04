@@ -1,0 +1,321 @@
+{
+  "title": {
+    "en": "What's on this weekend (list a1-21)",
+    "uk": "Що робити на вихідних (список a1-21)"
+  },
+  "situation": {
+    "en": "You hear the weekend events guide on a Montréal radio station.",
+    "uk": "Ви чуєте огляд подій на вихідні на монреальській радіостанції."
+  },
+  "lines": [
+    {
+      "fr": "Bonjour! Voici vos activités du week-end, ou, comme on dit au Québec, de la fin de semaine!",
+      "en": "Hello! Here are your activities for the weekend, or, as we say in Québec, the “fin de semaine”!",
+      "uk": "Добрий день! Ось ваші події на вихідні — або, як кажуть у Квебеку, на «фен де смен»!"
+    },
+    {
+      "fr": "L'automne arrive. En septembre, Montréal est un vrai paradis pour la culture.",
+      "en": "Fall is coming. In September, Montréal is a real paradise for culture.",
+      "uk": "Надходить осінь. У вересні Монреаль — справжній рай для любителів культури."
+    },
+    {
+      "fr": "Samedi soir, l'orchestre de l'université donne un concert de musique moderne, sur l'avenue du Parc.",
+      "en": "Saturday evening, the university orchestra gives a concert of modern music, on Park Avenue.",
+      "uk": "У суботу ввечері університетський оркестр дає концерт сучасної музики на авеню Парк."
+    },
+    {
+      "fr": "Dimanche matin, à la basilique Notre-Dame, la messe de dix heures est en musique : c'est une tradition.",
+      "en": "Sunday morning, at Notre-Dame Basilica, the ten o'clock mass has music: it's a tradition.",
+      "uk": "У неділю вранці в базиліці Нотр-Дам меса о десятій супроводжується музикою: така традиція."
+    },
+    {
+      "fr": "Le peintre Jean Tremblay ouvre son atelier au public. Il publie aussi un livre sur ses tableaux.",
+      "en": "The painter Jean Tremblay opens his studio to the public. He's also publishing a book about his paintings.",
+      "uk": "Художник Жан Трамбле відчиняє свою майстерню для відвідувачів. Він також видає книжку про свої картини."
+    },
+    {
+      "fr": "Pour y aller, c'est facile : prenez le métro jusqu'à la station Mont-Royal, ou le bus quatre-vingt-dix-sept.",
+      "en": "To get there, it's easy: take the metro to Mont-Royal station, or bus ninety-seven.",
+      "uk": "Дістатися легко: їдьте метро до станції «Мон-Руаяль» або автобусом дев'яносто сім."
+    },
+    {
+      "fr": "Vous aimez le vélo? En juillet et en août, il fait trop chaud. Septembre, c'est le meilleur mois!",
+      "en": "Do you like cycling? In July and August, it's too hot. September is the best month!",
+      "uk": "Любите велосипед? У липні й серпні занадто спекотно. Вересень — найкращий місяць!"
+    },
+    {
+      "fr": "Mais l'organisation Vélo Québec vous informe : la piste cyclable du canal de Lachine est fermée lundi, pour des travaux.",
+      "en": "But the organization Vélo Québec informs you: the Lachine Canal bike path is closed on Monday, for repairs.",
+      "uk": "Але організація «Вело Квебек» повідомляє: велодоріжка вздовж каналу Лашин у понеділок закрита на ремонт."
+    },
+    {
+      "fr": "Vous pouvez facilement trouver tous les détails sur la page officielle de la ville.",
+      "en": "You can easily find all the details on the city's official page.",
+      "uk": "Усі подробиці легко знайти на офіційній сторінці міста."
+    },
+    {
+      "fr": "Et bravo aux bénévoles du festival! Bonne fin de semaine!",
+      "en": "And well done to the festival volunteers! Have a good weekend!",
+      "uk": "І браво волонтерам фестивалю! Гарних вихідних!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Who gives a concert on Saturday evening?",
+        "uk": "Хто дає концерт у суботу ввечері?"
+      },
+      "options": [
+        {
+          "en": "The university orchestra",
+          "uk": "Університетський оркестр"
+        },
+        {
+          "en": "The Notre-Dame choir",
+          "uk": "Хор Нотр-Дам"
+        },
+        {
+          "en": "A modern rock band",
+          "uk": "Сучасний рок-гурт"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What happens on Sunday at ten o'clock?",
+        "uk": "Що відбувається в неділю о десятій?"
+      },
+      "options": [
+        {
+          "en": "The painter opens his studio",
+          "uk": "Художник відчиняє майстерню"
+        },
+        {
+          "en": "A bike ride on the canal",
+          "uk": "Велопрогулянка вздовж каналу"
+        },
+        {
+          "en": "A mass with music at the basilica",
+          "uk": "Меса з музикою в базиліці"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "How do you get to the painter's studio?",
+        "uk": "Як дістатися до майстерні художника?"
+      },
+      "options": [
+        {
+          "en": "Metro to Mont-Royal station or bus 97",
+          "uk": "Метро до станції «Мон-Руаяль» або автобус 97"
+        },
+        {
+          "en": "Bus 67 only",
+          "uk": "Тільки автобусом 67"
+        },
+        {
+          "en": "Metro to Place-des-Arts",
+          "uk": "Метро до «Плас-дез-Ар»"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Why is September the best month for cycling?",
+        "uk": "Чому вересень — найкращий місяць для велосипеда?"
+      },
+      "options": [
+        {
+          "en": "There are more bike paths",
+          "uk": "Більше велодоріжок"
+        },
+        {
+          "en": "July and August are too hot",
+          "uk": "У липні й серпні занадто спекотно"
+        },
+        {
+          "en": "Bikes are cheaper",
+          "uk": "Велосипеди дешевші"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What is closed on Monday?",
+        "uk": "Що закрито в понеділок?"
+      },
+      "options": [
+        {
+          "en": "The metro",
+          "uk": "Метро"
+        },
+        {
+          "en": "The basilica",
+          "uk": "Базиліка"
+        },
+        {
+          "en": "The Lachine Canal bike path",
+          "uk": "Велодоріжка вздовж каналу Лашин"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le vélo",
+      "en": "the bike",
+      "uk": "велосипед"
+    },
+    {
+      "fr": "facilement",
+      "en": "easily",
+      "uk": "легко"
+    },
+    {
+      "fr": "l'activité (f.)",
+      "en": "the activity",
+      "uk": "діяльність, заняття"
+    },
+    {
+      "fr": "août (m.)",
+      "en": "August",
+      "uk": "серпень"
+    },
+    {
+      "fr": "le / la peintre",
+      "en": "the painter",
+      "uk": "художник / художниця"
+    },
+    {
+      "fr": "l'atelier (m.)",
+      "en": "the workshop / the studio",
+      "uk": "майстерня / студія"
+    },
+    {
+      "fr": "le concert",
+      "en": "the concert",
+      "uk": "концерт"
+    },
+    {
+      "fr": "lundi (m.)",
+      "en": "Monday",
+      "uk": "понеділок"
+    },
+    {
+      "fr": "le paradis",
+      "en": "the paradise",
+      "uk": "рай"
+    },
+    {
+      "fr": "le bus",
+      "en": "the bus",
+      "uk": "автобус"
+    },
+    {
+      "fr": "l'automne (m.)",
+      "en": "the autumn / the fall",
+      "uk": "осінь"
+    },
+    {
+      "fr": "l'organisation (f.)",
+      "en": "the organization",
+      "uk": "організація"
+    },
+    {
+      "fr": "septembre (m.)",
+      "en": "September",
+      "uk": "вересень"
+    },
+    {
+      "fr": "juillet (m.)",
+      "en": "July",
+      "uk": "липень"
+    },
+    {
+      "fr": "le métro",
+      "en": "the subway / the metro",
+      "uk": "метро"
+    },
+    {
+      "fr": "informer",
+      "en": "to inform",
+      "uk": "інформувати"
+    },
+    {
+      "fr": "le week-end",
+      "en": "the weekend (Québec: la fin de semaine)",
+      "uk": "вихідні (у Квебеку: la fin de semaine)"
+    },
+    {
+      "fr": "bravo",
+      "en": "well done! / bravo",
+      "uk": "браво! / молодець"
+    },
+    {
+      "fr": "l'avenue (f.)",
+      "en": "the avenue",
+      "uk": "проспект, авеню"
+    },
+    {
+      "fr": "moderne",
+      "en": "modern",
+      "uk": "сучасний"
+    },
+    {
+      "fr": "l'université (f.)",
+      "en": "the university",
+      "uk": "університет"
+    },
+    {
+      "fr": "publier",
+      "en": "to publish",
+      "uk": "публікувати"
+    },
+    {
+      "fr": "la tradition",
+      "en": "the tradition",
+      "uk": "традиція"
+    },
+    {
+      "fr": "officiel / officielle",
+      "en": "official",
+      "uk": "офіційний / офіційна"
+    },
+    {
+      "fr": "la messe",
+      "en": "the mass (church)",
+      "uk": "меса (церковна)"
+    },
+    {
+      "fr": "la station",
+      "en": "the station (metro / radio)",
+      "uk": "станція (метро / радіо)"
+    },
+    {
+      "fr": "la fin de semaine",
+      "en": "the weekend (Québec)",
+      "uk": "вихідні (у Квебеку)"
+    },
+    {
+      "fr": "la basilique",
+      "en": "the basilica",
+      "uk": "базиліка"
+    },
+    {
+      "fr": "la piste cyclable",
+      "en": "the bike path",
+      "uk": "велодоріжка"
+    },
+    {
+      "fr": "le / la bénévole",
+      "en": "the volunteer",
+      "uk": "волонтер / волонтерка"
+    }
+  ]
+}

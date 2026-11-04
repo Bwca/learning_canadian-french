@@ -1,0 +1,357 @@
+{
+  "title": {
+    "en": "Morning at the apartment (list a1-24)",
+    "uk": "Ранок у квартирі (список a1-24)"
+  },
+  "situation": {
+    "en": "You hear two roommates, Max and Awa, at breakfast.",
+    "uk": "Ви чуєте двох сусідів по квартирі, Макса й Аву, за сніданком."
+  },
+  "lines": [
+    {
+      "speaker": "Max",
+      "fr": "Bon matin, Awa! Tu veux une tartine?",
+      "en": "Good morning, Awa! Do you want a slice of bread and butter?",
+      "uk": "Доброго ранку, Аво! Хочеш тост з маслом?"
+    },
+    {
+      "speaker": "Awa",
+      "fr": "Ben oui! Merci.",
+      "en": "Well, sure! Thanks.",
+      "uk": "Ну звісно! Дякую."
+    },
+    {
+      "speaker": "Max",
+      "fr": "Oh non, il n'y a plus de pain. Et plus de farine pour les crêpes.",
+      "en": "Oh no, there's no more bread. And no more flour for crêpes.",
+      "uk": "Ой, ні, хліба більше немає. І борошна на млинці теж."
+    },
+    {
+      "speaker": "Max",
+      "fr": "Je vais au supermarché — ou à l'épicerie, comme dit ma grand-mère.",
+      "en": "I'm going to the supermarket — or the “épicerie”, as my grandmother says.",
+      "uk": "Піду в супермаркет — або в «епісері», як каже моя бабуся."
+    },
+    {
+      "speaker": "Awa",
+      "fr": "Achète aussi deux litres de lait, s'il te plaît.",
+      "en": "Also buy two litres of milk, please.",
+      "uk": "Купи ще, будь ласка, два літри молока."
+    },
+    {
+      "speaker": "Max",
+      "fr": "Et ton nouvel emploi?",
+      "en": "And your new job?",
+      "uk": "А як твоя нова робота?"
+    },
+    {
+      "speaker": "Awa",
+      "fr": "Je commence lundi! Je suis scientifique au département de géographie de l'université. J'analyse le climat du continent africain.",
+      "en": "I start Monday! I'm a scientist in the university's geography department. I analyze the climate of the African continent.",
+      "uk": "Починаю в понеділок! Я науковиця на кафедрі географії університету. Аналізую клімат Африканського континенту."
+    },
+    {
+      "speaker": "Max",
+      "fr": "Ça te passionne!",
+      "en": "You're really passionate about it!",
+      "uk": "Це тебе захоплює!"
+    },
+    {
+      "speaker": "Awa",
+      "fr": "Oui! Et toi?",
+      "en": "Yes! And you?",
+      "uk": "Так! А ти?"
+    },
+    {
+      "speaker": "Max",
+      "fr": "Moi, je suis au chômage depuis mars. Mais j'ai un projet : je veux être guide touristique indépendant.",
+      "en": "I've been unemployed since March. But I have a plan: I want to be an independent tour guide.",
+      "uk": "Я з березня безробітний. Але маю план: хочу стати незалежним екскурсоводом."
+    },
+    {
+      "speaker": "Max",
+      "fr": "Ma destination préférée, c'est l'Europe : les villes européennes, les monuments, les cathédrales…",
+      "en": "My favourite destination is Europe: European cities, monuments, cathedrals…",
+      "uk": "Мій улюблений напрямок — Європа: європейські міста, пам'ятники, собори…"
+    },
+    {
+      "speaker": "Max",
+      "fr": "À Rome, je veux voir le pape! Et après, la République tchèque.",
+      "en": "In Rome, I want to see the Pope! And after that, the Czech Republic.",
+      "uk": "У Римі хочу побачити Папу! А потім — Чехію."
+    },
+    {
+      "speaker": "Awa",
+      "fr": "Et ton frère?",
+      "en": "And your brother?",
+      "uk": "А твій брат?"
+    },
+    {
+      "speaker": "Max",
+      "fr": "Il travaille dans un centre commercial. Il vend de la technologie : des ordinateurs, des téléphones.",
+      "en": "He works in a shopping mall. He sells technology: computers, phones.",
+      "uk": "Він працює в торговому центрі. Продає техніку: комп'ютери, телефони."
+    },
+    {
+      "speaker": "Awa",
+      "fr": "Max, la facture d'électricité arrive demain. C'est cher, en hiver!",
+      "en": "Max, the electricity bill comes tomorrow. It's expensive in winter!",
+      "uk": "Максе, завтра прийде рахунок за електрику. Взимку це дорого!"
+    },
+    {
+      "speaker": "Awa",
+      "fr": "Et range tes mules! Elles sont au milieu de la cuisine!",
+      "en": "And put your slippers away! They're in the middle of the kitchen!",
+      "uk": "І прибери свої капці! Вони посеред кухні!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Why can't Max make crêpes?",
+        "uk": "Чому Макс не може спекти млинці?"
+      },
+      "options": [
+        {
+          "en": "There's no milk",
+          "uk": "Немає молока"
+        },
+        {
+          "en": "There's no flour",
+          "uk": "Немає борошна"
+        },
+        {
+          "en": "There's no electricity",
+          "uk": "Немає електрики"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What does Awa study at her new job?",
+        "uk": "Що досліджує Ава на новій роботі?"
+      },
+      "options": [
+        {
+          "en": "The climate of Africa",
+          "uk": "Клімат Африки"
+        },
+        {
+          "en": "European cathedrals",
+          "uk": "Європейські собори"
+        },
+        {
+          "en": "New technology",
+          "uk": "Нові технології"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "When does Awa start?",
+        "uk": "Коли Ава починає?"
+      },
+      "options": [
+        {
+          "en": "Tomorrow",
+          "uk": "Завтра"
+        },
+        {
+          "en": "In March",
+          "uk": "У березні"
+        },
+        {
+          "en": "On Monday",
+          "uk": "У понеділок"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What does Max want to be?",
+        "uk": "Ким хоче стати Макс?"
+      },
+      "options": [
+        {
+          "en": "A salesman in a mall",
+          "uk": "Продавцем у торговому центрі"
+        },
+        {
+          "en": "An independent tour guide",
+          "uk": "Незалежним екскурсоводом"
+        },
+        {
+          "en": "A scientist",
+          "uk": "Науковцем"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What must Max put away?",
+        "uk": "Що Макс має прибрати?"
+      },
+      "options": [
+        {
+          "en": "His slippers",
+          "uk": "Свої капці"
+        },
+        {
+          "en": "The bread",
+          "uk": "Хліб"
+        },
+        {
+          "en": "His computer",
+          "uk": "Свій комп'ютер"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'électricité (f.)",
+      "en": "the electricity",
+      "uk": "електрика"
+    },
+    {
+      "fr": "le litre",
+      "en": "the litre",
+      "uk": "літр"
+    },
+    {
+      "fr": "le département",
+      "en": "the department",
+      "uk": "департамент, відділ"
+    },
+    {
+      "fr": "le pape",
+      "en": "the pope",
+      "uk": "папа (римський)"
+    },
+    {
+      "fr": "le climat",
+      "en": "the climate",
+      "uk": "клімат"
+    },
+    {
+      "fr": "le monument",
+      "en": "the monument",
+      "uk": "пам'ятник"
+    },
+    {
+      "fr": "la cathédrale",
+      "en": "the cathedral",
+      "uk": "собор"
+    },
+    {
+      "fr": "la république",
+      "en": "the republic",
+      "uk": "республіка"
+    },
+    {
+      "fr": "européen / européenne",
+      "en": "European",
+      "uk": "європейський / європейська"
+    },
+    {
+      "fr": "ben",
+      "en": "well (informal: ben oui)",
+      "uk": "ну (розм.: ben oui)"
+    },
+    {
+      "fr": "scientifique",
+      "en": "scientific",
+      "uk": "науковий"
+    },
+    {
+      "fr": "passionner",
+      "en": "to fascinate (passionné de = passionate about)",
+      "uk": "захоплювати (passionné de = захоплений чимось)"
+    },
+    {
+      "fr": "le continent",
+      "en": "the continent",
+      "uk": "континент"
+    },
+    {
+      "fr": "commercial / commerciale",
+      "en": "commercial",
+      "uk": "комерційний / комерційна"
+    },
+    {
+      "fr": "analyser",
+      "en": "to analyze",
+      "uk": "аналізувати"
+    },
+    {
+      "fr": "la farine",
+      "en": "the flour",
+      "uk": "борошно"
+    },
+    {
+      "fr": "la destination",
+      "en": "the destination",
+      "uk": "пункт призначення"
+    },
+    {
+      "fr": "indépendant / indépendante",
+      "en": "independent",
+      "uk": "незалежний / незалежна"
+    },
+    {
+      "fr": "la tartine",
+      "en": "the slice of bread and butter / the toast",
+      "uk": "скибка хліба з маслом / грінка"
+    },
+    {
+      "fr": "la mule",
+      "en": "the mule / the slipper",
+      "uk": "мул / капець (домашнє взуття)"
+    },
+    {
+      "fr": "la technologie",
+      "en": "the technology",
+      "uk": "технологія"
+    },
+    {
+      "fr": "le chômage",
+      "en": "the unemployment",
+      "uk": "безробіття"
+    },
+    {
+      "fr": "le supermarché",
+      "en": "the supermarket (Québec: l'épicerie)",
+      "uk": "супермаркет (у Квебеку: l'épicerie)"
+    },
+    {
+      "fr": "africain / africaine",
+      "en": "African",
+      "uk": "африканський / африканська, африканець"
+    },
+    {
+      "fr": "bon matin",
+      "en": "good morning (Québec)",
+      "uk": "доброго ранку (у Квебеку)"
+    },
+    {
+      "fr": "l'épicerie (f.)",
+      "en": "the grocery store (Québec)",
+      "uk": "продуктова крамниця (у Квебеку)"
+    },
+    {
+      "fr": "la facture",
+      "en": "the bill",
+      "uk": "рахунок"
+    },
+    {
+      "fr": "le / la guide touristique",
+      "en": "the tour guide",
+      "uk": "екскурсовод, гід"
+    }
+  ]
+}

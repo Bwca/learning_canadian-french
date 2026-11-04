@@ -1,0 +1,374 @@
+{
+  "title": {
+    "en": "A camping plan (list a1-22)",
+    "uk": "План походу (список a1-22)"
+  },
+  "situation": {
+    "en": "You hear Léa phoning her friend Sam about a camping trip.",
+    "uk": "Ви чуєте, як Леа телефонує другові Сему щодо походу з наметами."
+  },
+  "lines": [
+    {
+      "speaker": "Léa",
+      "fr": "Salut Sam! J'ai une proposition : on fête ton anniversaire en camping, dans la vallée de la Jacques-Cartier?",
+      "en": "Hi Sam! I have a suggestion: shall we celebrate your birthday camping, in the Jacques-Cartier valley?",
+      "uk": "Привіт, Семе! Маю пропозицію: відсвяткуймо твій день народження в поході, в долині Жак-Картьє?"
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Bonne idée! J'ai une tente pour quatre. Mais tu es où? Il y a du bruit.",
+      "en": "Good idea! I have a tent for four. But where are you? It's noisy.",
+      "uk": "Чудова ідея! У мене є намет на чотирьох. А ти де? Так шумно."
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Je suis à l'aéroport de Québec. Je reviens de Rome, où j'étudie l'italien et la littérature.",
+      "en": "I'm at the Québec City airport. I'm coming back from Rome, where I study Italian and literature.",
+      "uk": "Я в аеропорту Квебека. Повертаюся з Рима, де вивчаю італійську й літературу."
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Il y a un vol direct Rome-Québec?",
+      "en": "Is there a direct flight from Rome to Québec City?",
+      "uk": "Є прямий рейс Рим — Квебек?"
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Non, pas direct : je passe par Montréal.",
+      "en": "No, not direct: I go through Montréal.",
+      "uk": "Ні, не прямий: я лечу через Монреаль."
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Et là-bas, on fait du sport?",
+      "en": "And out there, do we do sports?",
+      "uk": "А там будемо займатися спортом?"
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Oui, du canot, et de l'exercice tous les matins!",
+      "en": "Yes, canoeing, and exercise every morning!",
+      "uk": "Так, на каное, і зарядка щоранку!"
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Pour manger, j'achète un kilo de patates, de la salade, du beurre et du jus au commerce du village. Ils vendent des produits de la ferme.",
+      "en": "For food, I'll buy a kilo of potatoes, lettuce, butter and juice at the village shop. They sell farm products.",
+      "uk": "Їсти: я куплю кілограм картоплі, салат, масло й сік у сільській крамниці. Там продають фермерські продукти."
+    },
+    {
+      "speaker": "Sam",
+      "fr": "C'est un grand village?",
+      "en": "Is it a big village?",
+      "uk": "Велике село?"
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Non! La population, c'est trois cents personnes!",
+      "en": "No! The population is three hundred people!",
+      "uk": "Ні! Населення — триста людей!"
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Et le soir, pas de télévision?",
+      "en": "And in the evening, no television?",
+      "uk": "А ввечері телевізора немає?"
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Non! Du rock à la guitare, autour du feu!",
+      "en": "No! Rock on the guitar, around the fire!",
+      "uk": "Ні! Рок на гітарі біля вогнища!"
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Mon frère Max veut venir. Il habite un petit studio au sixième étage. Ce matin, il descend à pied : l'ascenseur est en panne!",
+      "en": "My brother Max wants to come. He lives in a small studio on the sixth floor. This morning he's walking down: the elevator is broken!",
+      "uk": "Мій брат Макс хоче поїхати з нами. Він живе в маленькій студії на шостому поверсі. Сьогодні вранці він спускається пішки: ліфт зламався!"
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Pauvre Max! Il est très généreux : il apporte toujours un gâteau.",
+      "en": "Poor Max! He's very generous: he always brings a cake.",
+      "uk": "Бідолашний Макс! Він дуже щедрий: завжди приносить торт."
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Et ma lampe de poche? Elle est dans un tiroir, quelque part…",
+      "en": "And my flashlight? It's in a drawer, somewhere…",
+      "uk": "А мій ліхтарик? Він десь у шухляді…"
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Trouve-la! Et attention : au camping, la communication est difficile. Il n'y a pas de réseau pour le cellulaire.",
+      "en": "Find it! And be careful: at the campground, communication is difficult. There's no cell signal.",
+      "uk": "Знайди його! І зважай: у кемпінгу зі зв'язком складно. Мобільний там не ловить."
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Et la météo?",
+      "en": "And the weather?",
+      "uk": "А погода?"
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Il pleut dans le sud de la province, mais pas dans la vallée.",
+      "en": "It's raining in the south of the province, but not in the valley.",
+      "uk": "На півдні провінції дощ, а в долині — ні."
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Why are they going camping?",
+        "uk": "Навіщо вони їдуть у похід?"
+      },
+      "options": [
+        {
+          "en": "To celebrate Sam's birthday",
+          "uk": "Щоб відсвяткувати день народження Сема"
+        },
+        {
+          "en": "To celebrate Léa's return",
+          "uk": "Щоб відсвяткувати повернення Леа"
+        },
+        {
+          "en": "For Max's new job",
+          "uk": "З нагоди нової роботи Макса"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Where is Léa now?",
+        "uk": "Де зараз Леа?"
+      },
+      "options": [
+        {
+          "en": "In Rome",
+          "uk": "У Римі"
+        },
+        {
+          "en": "At the Québec City airport",
+          "uk": "В аеропорту Квебека"
+        },
+        {
+          "en": "In Montréal",
+          "uk": "У Монреалі"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What does Léa study?",
+        "uk": "Що вивчає Леа?"
+      },
+      "options": [
+        {
+          "en": "Sports",
+          "uk": "Спорт"
+        },
+        {
+          "en": "Agriculture",
+          "uk": "Сільське господарство"
+        },
+        {
+          "en": "Italian and literature",
+          "uk": "Італійську й літературу"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Why is Max walking down this morning?",
+        "uk": "Чому Макс сьогодні вранці спускається пішки?"
+      },
+      "options": [
+        {
+          "en": "He wants exercise",
+          "uk": "Хоче розім'ятися"
+        },
+        {
+          "en": "The elevator is broken",
+          "uk": "Ліфт зламався"
+        },
+        {
+          "en": "He lives on the ground floor",
+          "uk": "Він живе на першому поверсі"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What is the problem at the campground?",
+        "uk": "Яка проблема в кемпінгу?"
+      },
+      "options": [
+        {
+          "en": "There's no cell signal",
+          "uk": "Немає мобільного зв'язку"
+        },
+        {
+          "en": "It's raining",
+          "uk": "Іде дощ"
+        },
+        {
+          "en": "There's no shop",
+          "uk": "Немає крамниці"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "fêter",
+      "en": "to celebrate",
+      "uk": "святкувати"
+    },
+    {
+      "fr": "le produit",
+      "en": "the product",
+      "uk": "продукт"
+    },
+    {
+      "fr": "le sud",
+      "en": "the south",
+      "uk": "південь (сторона світу)"
+    },
+    {
+      "fr": "le tiroir",
+      "en": "the drawer",
+      "uk": "шухляда"
+    },
+    {
+      "fr": "l'italien (m.)",
+      "en": "Italian (the language / the person)",
+      "uk": "італійська (мова) / італієць"
+    },
+    {
+      "fr": "l'ascenseur (m.)",
+      "en": "the elevator",
+      "uk": "ліфт"
+    },
+    {
+      "fr": "le sport",
+      "en": "the sport",
+      "uk": "спорт"
+    },
+    {
+      "fr": "la télévision",
+      "en": "the television",
+      "uk": "телебачення"
+    },
+    {
+      "fr": "l'exercice (m.)",
+      "en": "the exercise",
+      "uk": "вправа"
+    },
+    {
+      "fr": "le studio",
+      "en": "the studio",
+      "uk": "студія"
+    },
+    {
+      "fr": "le commerce",
+      "en": "the trade / the business / the shop",
+      "uk": "торгівля / бізнес / крамниця"
+    },
+    {
+      "fr": "la population",
+      "en": "the population",
+      "uk": "населення"
+    },
+    {
+      "fr": "la vallée",
+      "en": "the valley",
+      "uk": "долина"
+    },
+    {
+      "fr": "direct / directe",
+      "en": "direct",
+      "uk": "прямий / пряма"
+    },
+    {
+      "fr": "généreux / généreuse",
+      "en": "generous",
+      "uk": "щедрий / щедра"
+    },
+    {
+      "fr": "le kilo",
+      "en": "the kilo",
+      "uk": "кілограм"
+    },
+    {
+      "fr": "la salade",
+      "en": "the salad / the lettuce",
+      "uk": "салат"
+    },
+    {
+      "fr": "le jus",
+      "en": "the juice",
+      "uk": "сік"
+    },
+    {
+      "fr": "la littérature",
+      "en": "the literature",
+      "uk": "література"
+    },
+    {
+      "fr": "la communication",
+      "en": "the communication",
+      "uk": "спілкування, комунікація"
+    },
+    {
+      "fr": "le beurre",
+      "en": "the butter",
+      "uk": "масло (вершкове)"
+    },
+    {
+      "fr": "la tente",
+      "en": "the tent",
+      "uk": "намет"
+    },
+    {
+      "fr": "la proposition",
+      "en": "the proposal / the suggestion",
+      "uk": "пропозиція"
+    },
+    {
+      "fr": "l'aéroport (m.)",
+      "en": "the airport",
+      "uk": "аеропорт"
+    },
+    {
+      "fr": "le rock",
+      "en": "rock (music)",
+      "uk": "рок (музика)"
+    },
+    {
+      "fr": "le canot",
+      "en": "the canoe (Québec)",
+      "uk": "каное (у Квебеку)"
+    },
+    {
+      "fr": "en panne",
+      "en": "broken down, out of order",
+      "uk": "зламаний, не працює"
+    },
+    {
+      "fr": "le réseau",
+      "en": "the (phone) network, signal",
+      "uk": "мережа, зв'язок"
+    },
+    {
+      "fr": "la lampe de poche",
+      "en": "the flashlight",
+      "uk": "ліхтарик"
+    }
+  ]
+}

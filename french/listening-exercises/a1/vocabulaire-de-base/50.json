@@ -1,0 +1,348 @@
+{
+  "title": {
+    "en": "A Belgian friend for Christmas (list a1-25)",
+    "uk": "Друг із Бельгії на Різдво (список a1-25)"
+  },
+  "situation": {
+    "en": "You hear Lucie welcoming her Belgian friend Thomas to Montréal for the holidays.",
+    "uk": "Ви чуєте, як Люсі зустрічає свого бельгійського друга Тома в Монреалі на свята."
+  },
+  "lines": [
+    {
+      "speaker": "Lucie",
+      "fr": "Thomas! Bienvenue à Montréal! On se fait la bise?",
+      "en": "Thomas! Welcome to Montréal! Shall we kiss hello?",
+      "uk": "Томе! Ласкаво просимо до Монреаля! Поцілуємося при зустрічі?"
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Bien sûr! En Belgique, on fait une seule bise.",
+      "en": "Of course! In Belgium, we do just one kiss.",
+      "uk": "Звісно! У Бельгії цілуються в щоку лише один раз."
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "Ici, c'est deux! Grand-maman, grand-papa, voici Thomas, mon ami belge.",
+      "en": "Here it's two! Grandma, Grandpa, this is Thomas, my Belgian friend.",
+      "uk": "А тут — двічі! Бабусю, дідусю, це Том, мій друг із Бельгії."
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Enchanté! Oh, j'ai encore des euros dans mon portefeuille. Je dois changer mon argent.",
+      "en": "Nice to meet you! Oh, I still have euros in my wallet. I need to change my money.",
+      "uk": "Дуже приємно! Ой, у мене в гаманці ще євро. Треба обміняти гроші."
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "Ce soir, c'est le réveillon de Noël chez mes grands-parents. Ils habitent dans l'arrondissement de Rosemont.",
+      "en": "Tonight is the Christmas Eve dinner at my grandparents'. They live in the Rosemont borough.",
+      "uk": "Сьогодні ввечері — святвечір у моїх бабусі й дідуся. Вони живуть у районі Розмон."
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "D'abord, l'apéritif à six heures, puis la tourtière de grand-maman.",
+      "en": "First, drinks at six, then Grandma's meat pie.",
+      "uk": "Спочатку аперитив о шостій, потім бабусин м'ясний пиріг."
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Et demain?",
+      "en": "And tomorrow?",
+      "uk": "А завтра?"
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "Le vingt-six, le lendemain de Noël, ce sont les soldes! Tu veux un nouveau jean?",
+      "en": "On the twenty-sixth, the day after Christmas, it's the sales! Do you want new jeans?",
+      "uk": "Двадцять шостого, наступного дня після Різдва, — розпродажі! Хочеш нові джинси?"
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Non, je préfère les antiquités. Il y a des magasins d'antiquités sur la rue Notre-Dame?",
+      "en": "No, I prefer antiques. Are there antique shops on rue Notre-Dame?",
+      "uk": "Ні, я більше люблю антикваріат. На вулиці Нотр-Дам є антикварні крамниці?"
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "Oui! Et le vingt-sept, une activité culturelle : l'inauguration d'une nouvelle salle au musée.",
+      "en": "Yes! And on the twenty-seventh, a cultural activity: the opening of a new hall at the museum.",
+      "uk": "Так! А двадцять сьомого — культурна подія: відкриття нової зали в музеї."
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Super. Tu sais, maintenant, je travaille dans le tourisme, auprès des visiteurs étrangers, à Bruxelles.",
+      "en": "Great. You know, I work in tourism now, with foreign visitors, in Brussels.",
+      "uk": "Чудово. Знаєш, тепер я працюю в туризмі, з іноземними відвідувачами, у Брюсселі."
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "Et ta sœur?",
+      "en": "And your sister?",
+      "uk": "А твоя сестра?"
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Elle étudie l'agriculture. Elle part en Égypte pour un projet de coopération. Elle veut voir les pyramides!",
+      "en": "She studies agriculture. She's going to Egypt for a cooperation project. She wants to see the pyramids!",
+      "uk": "Вона вивчає сільське господарство. Їде до Єгипту в межах проєкту співпраці. Хоче побачити піраміди!"
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "Et ton petit frère, à l'école?",
+      "en": "And your little brother, at school?",
+      "uk": "А твій молодший брат — як у школі?"
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Bof. En maths, il a une moyenne de cinquante pour cent!",
+      "en": "Meh. In math, he has an average of fifty percent!",
+      "uk": "Так собі. З математики в нього середній бал — п'ятдесят відсотків!"
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Et le temps, ici? Il varie beaucoup?",
+      "en": "And the weather here? Does it vary a lot?",
+      "uk": "А погода тут? Дуже мінлива?"
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "Oui! Hier, plus cinq, aujourd'hui, moins vingt! Mets ta tuque orange!",
+      "en": "Yes! Yesterday, plus five, today, minus twenty! Put on your orange toque!",
+      "uk": "Так! Учора плюс п'ять, сьогодні мінус двадцять! Вдягай свою помаранчеву шапку!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "How many kisses do people give in Belgium, according to Thomas?",
+        "uk": "Скільки разів цілуються при зустрічі в Бельгії, за словами Тома?"
+      },
+      "options": [
+        {
+          "en": "One",
+          "uk": "Один"
+        },
+        {
+          "en": "Two",
+          "uk": "Два"
+        },
+        {
+          "en": "Three",
+          "uk": "Три"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Where is the Christmas Eve dinner?",
+        "uk": "Де святвечір?"
+      },
+      "options": [
+        {
+          "en": "At a restaurant in Rosemont",
+          "uk": "У ресторані в Розмоні"
+        },
+        {
+          "en": "At Lucie's grandparents' in Rosemont",
+          "uk": "У бабусі й дідуся Люсі в Розмоні"
+        },
+        {
+          "en": "At Lucie's apartment",
+          "uk": "У квартирі Люсі"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What does Thomas want to see on rue Notre-Dame?",
+        "uk": "Що Том хоче побачити на вулиці Нотр-Дам?"
+      },
+      "options": [
+        {
+          "en": "The sales",
+          "uk": "Розпродажі"
+        },
+        {
+          "en": "A museum",
+          "uk": "Музей"
+        },
+        {
+          "en": "Antique shops",
+          "uk": "Антикварні крамниці"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Why is Thomas's sister going to Egypt?",
+        "uk": "Чому сестра Тома їде до Єгипту?"
+      },
+      "options": [
+        {
+          "en": "For an agricultural cooperation project",
+          "uk": "У межах сільськогосподарського проєкту співпраці"
+        },
+        {
+          "en": "For a holiday",
+          "uk": "У відпустку"
+        },
+        {
+          "en": "To work in tourism",
+          "uk": "Працювати в туризмі"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What is the little brother's math average?",
+        "uk": "Який у молодшого брата середній бал з математики?"
+      },
+      "options": [
+        {
+          "en": "15%",
+          "uk": "15 %"
+        },
+        {
+          "en": "50%",
+          "uk": "50 %"
+        },
+        {
+          "en": "60%",
+          "uk": "60 %"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la pyramide",
+      "en": "the pyramid",
+      "uk": "піраміда"
+    },
+    {
+      "fr": "le jean",
+      "en": "the jeans",
+      "uk": "джинси"
+    },
+    {
+      "fr": "les soldes (m.)",
+      "en": "the sales (les soldes)",
+      "uk": "розпродаж (les soldes)"
+    },
+    {
+      "fr": "culturel / culturelle",
+      "en": "cultural",
+      "uk": "культурний / культурна"
+    },
+    {
+      "fr": "la moyenne",
+      "en": "the average",
+      "uk": "середнє значення"
+    },
+    {
+      "fr": "orange",
+      "en": "orange (colour)",
+      "uk": "помаранчевий (колір)"
+    },
+    {
+      "fr": "les maths (f.)",
+      "en": "math",
+      "uk": "математика"
+    },
+    {
+      "fr": "les grands-parents",
+      "en": "the grandparents",
+      "uk": "дідусь і бабуся"
+    },
+    {
+      "fr": "l'apéritif (m.)",
+      "en": "the aperitif / the pre-dinner drink",
+      "uk": "аперитив"
+    },
+    {
+      "fr": "la bise",
+      "en": "the kiss (on the cheek) / the cold wind (faire la bise)",
+      "uk": "поцілунок (у щоку) / холодний вітер (faire la bise)"
+    },
+    {
+      "fr": "la coopération",
+      "en": "the cooperation",
+      "uk": "співпраця"
+    },
+    {
+      "fr": "belge",
+      "en": "Belgian",
+      "uk": "бельгійський, бельгієць"
+    },
+    {
+      "fr": "varier",
+      "en": "to vary",
+      "uk": "змінювати(ся), урізноманітнювати"
+    },
+    {
+      "fr": "l'antiquité (f.)",
+      "en": "the antiquity / the antique",
+      "uk": "античність / антикварна річ"
+    },
+    {
+      "fr": "l'euro (m.)",
+      "en": "the euro",
+      "uk": "євро"
+    },
+    {
+      "fr": "le réveillon",
+      "en": "the Christmas / New Year's Eve dinner",
+      "uk": "святкова вечеря (на Різдво / Новий рік)"
+    },
+    {
+      "fr": "l'arrondissement (m.)",
+      "en": "the district (of a big city)",
+      "uk": "округ (великого міста)"
+    },
+    {
+      "fr": "le tourisme",
+      "en": "the tourism",
+      "uk": "туризм"
+    },
+    {
+      "fr": "l'agriculture (f.)",
+      "en": "the agriculture / the farming",
+      "uk": "сільське господарство"
+    },
+    {
+      "fr": "l'inauguration (f.)",
+      "en": "the opening ceremony / the inauguration",
+      "uk": "урочисте відкриття"
+    },
+    {
+      "fr": "auprès de",
+      "en": "close to / with (auprès de)",
+      "uk": "поруч з / у, до (auprès de)"
+    },
+    {
+      "fr": "la tourtière",
+      "en": "meat pie (Québec)",
+      "uk": "м'ясний пиріг (у Квебеку)"
+    },
+    {
+      "fr": "le lendemain",
+      "en": "the next day",
+      "uk": "наступний день"
+    },
+    {
+      "fr": "la tuque",
+      "en": "the winter hat, toque (Québec)",
+      "uk": "в'язана шапка (у Квебеку)"
+    },
+    {
+      "fr": "Bruxelles",
+      "en": "Brussels",
+      "uk": "Брюссель"
+    }
+  ]
+}

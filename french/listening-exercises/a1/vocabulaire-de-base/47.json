@@ -1,0 +1,326 @@
+{
+  "title": {
+    "en": "News from the town hall (list a1-24)",
+    "uk": "Новини від мерії (список a1-24)"
+  },
+  "situation": {
+    "en": "You hear a message from a small town's recreation department on the local radio.",
+    "uk": "Ви чуєте повідомлення відділу дозвілля невеликого містечка по місцевому радіо."
+  },
+  "lines": [
+    {
+      "fr": "Bonjour à tous! Ici la mairie des Éboulements, avec les nouvelles du Service des loisirs.",
+      "en": "Hello everyone! This is the Les Éboulements town hall, with news from the Recreation Department.",
+      "uk": "Усім привіт! Це мерія Ле-Ебульмана з новинами відділу дозвілля."
+    },
+    {
+      "fr": "Les inscriptions pour les activités d'hiver commencent lundi. Vous pouvez vous inscrire à la mairie ou sur notre site Internet.",
+      "en": "Registration for winter activities starts Monday. You can sign up at the town hall or on our website.",
+      "uk": "Запис на зимові заняття починається в понеділок. Записатися можна в мерії або на нашому сайті."
+    },
+    {
+      "fr": "Cette année, il y a plusieurs activités : le ski de fond, le patin, et du tennis intérieur pour les jeunes.",
+      "en": "This year, there are several activities: cross-country skiing, skating, and indoor tennis for young people.",
+      "uk": "Цього року кілька занять: біг на лижах, ковзани й теніс у залі для молоді."
+    },
+    {
+      "fr": "Pendant la relâche scolaire, en mars, l'association des parents organise des ateliers pour les enfants.",
+      "en": "During the March school break, the parents' association is organizing workshops for children.",
+      "uk": "Під час весняних шкільних канікул у березні батьківська асоціація організовує майстер-класи для дітей."
+    },
+    {
+      "fr": "Samedi, grande fête au vieux moulin! Des musiciens d'ici jouent de midi à seize heures.",
+      "en": "Saturday, big party at the old mill! Local musicians play from noon to four p.m.",
+      "uk": "У суботу — велике свято біля старого млина! Місцеві музиканти гратимуть з полудня до шістнадцятої."
+    },
+    {
+      "fr": "Au menu : un buffet de spécialités de Charlevoix, du pâté et, comme dessert, des crêpes à la confiture.",
+      "en": "On the menu: a buffet of Charlevoix specialities, pâté and, for dessert, crêpes with jam.",
+      "uk": "У меню — фуршет зі страв Шарлевуа, паштет, а на десерт — млинці з варенням."
+    },
+    {
+      "fr": "Les enfants peuvent aider à décorer le moulin. Apportez vos décorations originales!",
+      "en": "The children can help decorate the mill. Bring your original decorations!",
+      "uk": "Діти можуть допомогти прикрасити млин. Приносьте свої оригінальні прикраси!"
+    },
+    {
+      "fr": "À la mairie, il y a aussi une exposition de photos du village.",
+      "en": "At the town hall, there's also an exhibition of photos of the village.",
+      "uk": "У мерії також відкрита фотовиставка про село."
+    },
+    {
+      "fr": "Attention : samedi, la température descend à moins vingt-cinq. Mettez un bon pull!",
+      "en": "Be careful: on Saturday, the temperature drops to minus twenty-five. Wear a good sweater!",
+      "uk": "Увага: у суботу температура опуститься до мінус двадцяти п'яти. Вдягніть теплий светр!"
+    },
+    {
+      "fr": "Le parking de l'église est fermé : utilisez le parking de la mairie.",
+      "en": "The church parking lot is closed: use the town hall parking lot.",
+      "uk": "Парковка біля церкви закрита: користуйтеся парковкою біля мерії."
+    },
+    {
+      "fr": "Et pour votre sécurité, ne marchez pas près de la falaise. Bonne semaine!",
+      "en": "And for your safety, don't walk near the cliff. Have a good week!",
+      "uk": "І заради вашої безпеки не ходіть біля скелі. Гарного тижня!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "When does registration start?",
+        "uk": "Коли починається запис?"
+      },
+      "options": [
+        {
+          "en": "Saturday",
+          "uk": "У суботу"
+        },
+        {
+          "en": "Monday",
+          "uk": "У понеділок"
+        },
+        {
+          "en": "In March",
+          "uk": "У березні"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Where is the party on Saturday?",
+        "uk": "Де свято в суботу?"
+      },
+      "options": [
+        {
+          "en": "At the old mill",
+          "uk": "Біля старого млина"
+        },
+        {
+          "en": "At the church",
+          "uk": "Біля церкви"
+        },
+        {
+          "en": "At the town hall",
+          "uk": "У мерії"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What is for dessert?",
+        "uk": "Що на десерт?"
+      },
+      "options": [
+        {
+          "en": "Maple pie",
+          "uk": "Кленовий пиріг"
+        },
+        {
+          "en": "Pâté",
+          "uk": "Паштет"
+        },
+        {
+          "en": "Crêpes with jam",
+          "uk": "Млинці з варенням"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Why should you wear a good sweater?",
+        "uk": "Чому слід вдягнути теплий светр?"
+      },
+      "options": [
+        {
+          "en": "It will be minus twenty-five",
+          "uk": "Буде мінус двадцять п'ять"
+        },
+        {
+          "en": "The party is at night",
+          "uk": "Свято вночі"
+        },
+        {
+          "en": "The mill has no heating",
+          "uk": "У млині немає опалення"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Which parking lot is closed?",
+        "uk": "Яка парковка закрита?"
+      },
+      "options": [
+        {
+          "en": "The town hall's",
+          "uk": "Біля мерії"
+        },
+        {
+          "en": "The mill's",
+          "uk": "Біля млина"
+        },
+        {
+          "en": "The church's",
+          "uk": "Біля церкви"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la mairie",
+      "en": "the town hall",
+      "uk": "мерія, ратуша"
+    },
+    {
+      "fr": "le musicien / la musicienne",
+      "en": "the musician",
+      "uk": "музикант / музикантка"
+    },
+    {
+      "fr": "décorer",
+      "en": "to decorate",
+      "uk": "прикрашати"
+    },
+    {
+      "fr": "le buffet",
+      "en": "the buffet / the sideboard",
+      "uk": "шведський стіл / сервант"
+    },
+    {
+      "fr": "le parking",
+      "en": "the parking lot",
+      "uk": "парковка"
+    },
+    {
+      "fr": "le moulin",
+      "en": "the mill",
+      "uk": "млин"
+    },
+    {
+      "fr": "la température",
+      "en": "the temperature",
+      "uk": "температура"
+    },
+    {
+      "fr": "la falaise",
+      "en": "the cliff",
+      "uk": "скеля, урвище"
+    },
+    {
+      "fr": "l'inscription (f.)",
+      "en": "the registration / the sign-up",
+      "uk": "реєстрація, запис"
+    },
+    {
+      "fr": "l'exposition (f.)",
+      "en": "the exhibition",
+      "uk": "виставка"
+    },
+    {
+      "fr": "le dessert",
+      "en": "the dessert",
+      "uk": "десерт"
+    },
+    {
+      "fr": "le loisir",
+      "en": "the leisure / the hobby",
+      "uk": "дозвілля / хобі"
+    },
+    {
+      "fr": "le menu",
+      "en": "the menu",
+      "uk": "меню"
+    },
+    {
+      "fr": "original / originale",
+      "en": "original",
+      "uk": "оригінальний / оригінальна"
+    },
+    {
+      "fr": "le tennis",
+      "en": "the tennis",
+      "uk": "теніс"
+    },
+    {
+      "fr": "plusieurs",
+      "en": "several",
+      "uk": "кілька, декілька"
+    },
+    {
+      "fr": "le pâté",
+      "en": "the pâté / the meat pie (pâté chinois = shepherd's pie)",
+      "uk": "паштет / м'ясний пиріг (pâté chinois = квебекська запіканка з фаршем і пюре)"
+    },
+    {
+      "fr": "le ski",
+      "en": "the ski / skiing",
+      "uk": "лижі / лижний спорт"
+    },
+    {
+      "fr": "la confiture",
+      "en": "the jam",
+      "uk": "варення, джем"
+    },
+    {
+      "fr": "l'association (f.)",
+      "en": "the association",
+      "uk": "асоціація, об'єднання"
+    },
+    {
+      "fr": "le pull",
+      "en": "the sweater (Québec: le chandail)",
+      "uk": "светр (у Квебеку: le chandail)"
+    },
+    {
+      "fr": "le site",
+      "en": "the site / the website",
+      "uk": "місце / вебсайт"
+    },
+    {
+      "fr": "scolaire",
+      "en": "school (adj.) / academic (l'année scolaire)",
+      "uk": "шкільний / навчальний (l'année scolaire)"
+    },
+    {
+      "fr": "la décoration",
+      "en": "the decoration",
+      "uk": "прикраса, оздоблення"
+    },
+    {
+      "fr": "la spécialité",
+      "en": "the speciality",
+      "uk": "фірмова страва / спеціальність"
+    },
+    {
+      "fr": "la crêpe",
+      "en": "the crêpe / the pancake",
+      "uk": "млинець"
+    },
+    {
+      "fr": "la relâche",
+      "en": "the March school break (Québec)",
+      "uk": "весняні канікули (у Квебеку)"
+    },
+    {
+      "fr": "le patin",
+      "en": "skating",
+      "uk": "катання на ковзанах"
+    },
+    {
+      "fr": "le ski de fond",
+      "en": "cross-country skiing",
+      "uk": "лижні перегони, біг на лижах"
+    },
+    {
+      "fr": "s'inscrire",
+      "en": "to sign up, register",
+      "uk": "записатися, зареєструватися"
+    }
+  ]
+}

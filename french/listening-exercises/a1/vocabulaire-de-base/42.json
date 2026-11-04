@@ -1,0 +1,357 @@
+{
+  "title": {
+    "en": "Supper at the neighbour's (list a1-21)",
+    "uk": "Вечеря в сусіда (список a1-21)"
+  },
+  "situation": {
+    "en": "You hear Julie having supper at her neighbour Marco's house.",
+    "uk": "Ви чуєте, як Жулі вечеряє в домі свого сусіда Марко."
+  },
+  "lines": [
+    {
+      "speaker": "Marco",
+      "fr": "Entre, Julie! Viens dans le séjour : il y a un bon feu dans la cheminée.",
+      "en": "Come in, Julie! Come into the living room: there's a nice fire in the fireplace.",
+      "uk": "Заходь, Жулі! Проходь до вітальні: у каміні гарно горить вогонь."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Merci! J'apporte du champagne pour ton nouvel emploi.",
+      "en": "Thanks! I'm bringing champagne for your new job.",
+      "uk": "Дякую! Я принесла шампанське з нагоди твоєї нової роботи."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Oh, quelles belles plantes!",
+      "en": "Oh, what beautiful plants!",
+      "uk": "О, які гарні рослини!"
+    },
+    {
+      "speaker": "Marco",
+      "fr": "Ce sont les plantes de ma grand-mère. Dans ma famille, trois générations habitent ici.",
+      "en": "They're my grandmother's plants. In my family, three generations live here.",
+      "uk": "Це бабусині рослини. У нас тут живуть три покоління."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Ton prénom, Marco, c'est italien?",
+      "en": "Your first name, Marco, is it Italian?",
+      "uk": "Твоє ім'я, Марко, — італійське?"
+    },
+    {
+      "speaker": "Marco",
+      "fr": "Oui, ma famille est italienne, mais moi, je suis né à Montréal. J'ai l'accent québécois!",
+      "en": "Yes, my family is Italian, but I was born in Montréal. I have a Québec accent!",
+      "uk": "Так, моя родина італійська, але я народився в Монреалі. У мене квебекський акцент!"
+    },
+    {
+      "speaker": "Marco",
+      "fr": "Ce soir, des pâtes à l'huile d'olive et une planche de fromages.",
+      "en": "Tonight, pasta with olive oil and a cheese board.",
+      "uk": "Сьогодні — паста з оливковою олією і сирна тарілка."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Délicieux! Mais pas trop gras, j'espère?",
+      "en": "Delicious! But not too fatty, I hope?",
+      "uk": "Смакота! Але, сподіваюся, не надто жирно?"
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Alors, ce nouvel emploi?",
+      "en": "So, this new job?",
+      "uk": "Ну, як нова робота?"
+    },
+    {
+      "speaker": "Marco",
+      "fr": "Je travaille dans une compagnie d'assurance. Ma fonction : j'écris les textes des brochures.",
+      "en": "I work for an insurance company. My job: I write the texts for the brochures.",
+      "uk": "Я працюю в страховій компанії. Мої обов'язки — писати тексти для брошур."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Fini, le travail de prof?",
+      "en": "No more teaching, then?",
+      "uk": "Отже, вчителювати більше не будеш?"
+    },
+    {
+      "speaker": "Marco",
+      "fr": "Oui, c'est fini. Mon futur bureau est au centre-ville. Demain, je montre ma carte d'identité, et je compose un code pour entrer.",
+      "en": "Yes, it's over. My future office is downtown. Tomorrow I show my ID card, and I dial a code to get in.",
+      "uk": "Так, усе. Мій майбутній офіс — у центрі міста. Завтра я показую посвідчення й набираю код, щоб увійти."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Et le stationnement au centre-ville, ça coûte cher!",
+      "en": "And parking downtown is expensive!",
+      "uk": "А паркування в центрі коштує дорого!"
+    },
+    {
+      "speaker": "Marco",
+      "fr": "Oui, alors je prends le métro.",
+      "en": "Yes, so I take the metro.",
+      "uk": "Так, тому я їжджу метро."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Ta maison est très propre!",
+      "en": "Your house is very clean!",
+      "uk": "У тебе вдома так чисто!"
+    },
+    {
+      "speaker": "Marco",
+      "fr": "C'est ma mère : elle fait le ménage chaque samedi. Mais parle bas : ma grand-mère dort dans la chambre voisine.",
+      "en": "That's my mother: she cleans every Saturday. But speak quietly: my grandmother is sleeping in the room next door.",
+      "uk": "Це мама: вона прибирає щосуботи. Але говори тихіше: бабуся спить у сусідній кімнаті."
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Why does Julie bring champagne?",
+        "uk": "Чому Жулі принесла шампанське?"
+      },
+      "options": [
+        {
+          "en": "For Marco's birthday",
+          "uk": "На день народження Марко"
+        },
+        {
+          "en": "For his grandmother",
+          "uk": "Для його бабусі"
+        },
+        {
+          "en": "For Marco's new job",
+          "uk": "З нагоди нової роботи Марко"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Where was Marco born?",
+        "uk": "Де народився Марко?"
+      },
+      "options": [
+        {
+          "en": "In Montréal",
+          "uk": "У Монреалі"
+        },
+        {
+          "en": "In Italy",
+          "uk": "В Італії"
+        },
+        {
+          "en": "In Québec City",
+          "uk": "У Квебеку"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What is for supper?",
+        "uk": "Що на вечерю?"
+      },
+      "options": [
+        {
+          "en": "Pizza and salad",
+          "uk": "Піца й салат"
+        },
+        {
+          "en": "Pasta with olive oil and a cheese board",
+          "uk": "Паста з оливковою олією і сирна тарілка"
+        },
+        {
+          "en": "Meat and potatoes",
+          "uk": "М'ясо з картоплею"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What is Marco's new job?",
+        "uk": "Яка в Марко нова робота?"
+      },
+      "options": [
+        {
+          "en": "He's a teacher downtown",
+          "uk": "Він учитель у центрі міста"
+        },
+        {
+          "en": "He drives the metro",
+          "uk": "Він водить потяги метро"
+        },
+        {
+          "en": "He writes brochure texts for an insurance company",
+          "uk": "Пише тексти для брошур у страховій компанії"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Why must Julie speak quietly?",
+        "uk": "Чому Жулі має говорити тихіше?"
+      },
+      "options": [
+        {
+          "en": "Marco's grandmother is sleeping next door",
+          "uk": "Бабуся Марко спить у сусідній кімнаті"
+        },
+        {
+          "en": "Marco's mother is cleaning",
+          "uk": "Мама Марко прибирає"
+        },
+        {
+          "en": "The neighbours complain",
+          "uk": "Сусіди скаржаться"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "voisin / voisine",
+      "en": "neighbouring / nearby",
+      "uk": "сусідній / сусідня, близький"
+    },
+    {
+      "fr": "le texte",
+      "en": "the text",
+      "uk": "текст"
+    },
+    {
+      "fr": "gras / grasse",
+      "en": "fatty / greasy",
+      "uk": "жирний / жирна"
+    },
+    {
+      "fr": "l'assurance (f.)",
+      "en": "the insurance / the confidence",
+      "uk": "страхування / впевненість"
+    },
+    {
+      "fr": "italien / italienne",
+      "en": "Italian",
+      "uk": "італійський / італійська, італієць"
+    },
+    {
+      "fr": "le ménage",
+      "en": "the housework (faire le ménage = to clean)",
+      "uk": "хатня робота (faire le ménage = прибирати)"
+    },
+    {
+      "fr": "le champagne",
+      "en": "the champagne",
+      "uk": "шампанське"
+    },
+    {
+      "fr": "composer",
+      "en": "to compose / to dial (a number)",
+      "uk": "складати, творити / набирати (номер)"
+    },
+    {
+      "fr": "l'huile (f.)",
+      "en": "the oil",
+      "uk": "олія"
+    },
+    {
+      "fr": "le séjour",
+      "en": "the stay / the living room",
+      "uk": "перебування / вітальня"
+    },
+    {
+      "fr": "l'accent (m.)",
+      "en": "the accent",
+      "uk": "акцент"
+    },
+    {
+      "fr": "la fonction",
+      "en": "the function / the position",
+      "uk": "функція / посада"
+    },
+    {
+      "fr": "futur / future",
+      "en": "future",
+      "uk": "майбутній / майбутня"
+    },
+    {
+      "fr": "l'identité (f.)",
+      "en": "the identity",
+      "uk": "особа, ідентичність"
+    },
+    {
+      "fr": "la génération",
+      "en": "the generation",
+      "uk": "покоління"
+    },
+    {
+      "fr": "le / la prof",
+      "en": "the teacher (informal)",
+      "uk": "вчитель / вчителька (розм.)"
+    },
+    {
+      "fr": "délicieux / délicieuse",
+      "en": "delicious",
+      "uk": "смачний / смачна"
+    },
+    {
+      "fr": "la plante",
+      "en": "the plant",
+      "uk": "рослина"
+    },
+    {
+      "fr": "bas",
+      "en": "low / quietly (parler bas)",
+      "uk": "низько / тихо (parler bas)"
+    },
+    {
+      "fr": "le prénom",
+      "en": "the first name",
+      "uk": "ім'я"
+    },
+    {
+      "fr": "la cheminée",
+      "en": "the fireplace / the chimney",
+      "uk": "камін / димар"
+    },
+    {
+      "fr": "cher",
+      "en": "a lot (cost) (coûter cher = to be expensive)",
+      "uk": "дорого (coûter cher = бути дорогим)"
+    },
+    {
+      "fr": "la planche",
+      "en": "the board / the plank",
+      "uk": "дошка"
+    },
+    {
+      "fr": "le fromage",
+      "en": "the cheese",
+      "uk": "сир"
+    },
+    {
+      "fr": "le feu",
+      "en": "the fire",
+      "uk": "вогонь"
+    },
+    {
+      "fr": "les pâtes (f.)",
+      "en": "pasta",
+      "uk": "макарони, паста"
+    },
+    {
+      "fr": "la compagnie",
+      "en": "the company",
+      "uk": "компанія"
+    },
+    {
+      "fr": "la carte d'identité",
+      "en": "the ID card",
+      "uk": "посвідчення особи"
+    }
+  ]
+}
