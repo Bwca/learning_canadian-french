@@ -1,0 +1,331 @@
+{
+  "title": {
+    "en": "A radio ad for a winter centre (list a1-15)",
+    "uk": "Радіореклама зимового центру (список a1-15)"
+  },
+  "situation": {
+    "en": "You hear an ad on the radio.",
+    "uk": "Ви чуєте рекламу по радіо."
+  },
+  "lines": [
+    {
+      "fr": "Envie de nature pendant les vacances d'hiver? Venez au Centre Plein Air du Mont-Sainte-Anne!",
+      "en": "Feel like nature during the winter holidays? Come to the Mont-Sainte-Anne Outdoor Centre!",
+      "uk": "Хочеться природи на зимових канікулах? Приїжджайте до центру відпочинку на природі Мон-Сент-Анн!"
+    },
+    {
+      "fr": "À la montagne, faites du ski, de la raquette, ou une course de traîneau à chiens dans la forêt.",
+      "en": "On the mountain, go skiing, snowshoeing, or take a dog-sled race through the forest.",
+      "uk": "На горі катайтеся на лижах, ходіть на снігоступах або мчіть лісом на собачій упряжці."
+    },
+    {
+      "fr": "Pas de bons vêtements? Pas de problème : on vous prête des manteaux, des bottes et des raquettes.",
+      "en": "No good clothes? No problem: we lend you coats, boots and snowshoes.",
+      "uk": "Немає відповідного одягу? Не біда: ми позичимо вам куртки, чоботи й снігоступи."
+    },
+    {
+      "fr": "Le ski, c'est dangereux? Pas avec nous! Nos moniteurs sont formés pour les débutants.",
+      "en": "Skiing is dangerous? Not with us! Our instructors are trained for beginners.",
+      "uk": "Лижі — це небезпечно? Тільки не з нами! Наші інструктори навчені працювати з початківцями."
+    },
+    {
+      "fr": "Nos cours sont courts, une heure seulement, et toujours dans le calme.",
+      "en": "Our lessons are short, just one hour, and always calm.",
+      "uk": "Наші заняття короткі, лише година, і завжди спокійні."
+    },
+    {
+      "fr": "Pour votre santé, c'est génial : de l'air frais toute la journée!",
+      "en": "For your health, it's great: fresh air all day long!",
+      "uk": "Для здоров'я це чудово: свіже повітря цілий день!"
+    },
+    {
+      "fr": "Au premier étage du chalet, notre salon avec foyer vous attend. Le dîner est servi de onze heures à treize heures.",
+      "en": "On the first floor of the lodge, our lounge with a fireplace awaits you. Lunch is served from eleven to one.",
+      "uk": "На другому поверсі шале на вас чекає вітальня з каміном. Обід подають з одинадцятої до тринадцятої."
+    },
+    {
+      "fr": "Le billet pour la journée coûte quarante-cinq dollars. C'est gratuit pour les enfants de moins de six ans.",
+      "en": "A day ticket costs forty-five dollars. It's free for children under six.",
+      "uk": "Квиток на день коштує сорок п'ять доларів. Діти до шести років — безкоштовно."
+    },
+    {
+      "fr": "Commandez votre billet en ligne pour bien prévoir votre visite.",
+      "en": "Order your ticket online to plan your visit well.",
+      "uk": "Замовте квиток онлайн, щоб добре спланувати свій візит."
+    },
+    {
+      "fr": "De Québec, prenez la route 138, direction Sainte-Anne-de-Beaupré. Après le petit pont, c'est à gauche.",
+      "en": "From Québec City, take Route 138 towards Sainte-Anne-de-Beaupré. After the little bridge, it's on the left.",
+      "uk": "З Квебека їдьте дорогою 138 у напрямку Сент-Анн-де-Бопре. Після невеликого мосту — ліворуч."
+    },
+    {
+      "fr": "Tous les détails sont sur notre page Facebook. Rendez-vous au Mont-Sainte-Anne!",
+      "en": "All the details are on our Facebook page. See you at Mont-Sainte-Anne!",
+      "uk": "Усі подробиці — на нашій сторінці у Facebook. Зустрінемося на Мон-Сент-Анн!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What does the centre lend you?",
+        "uk": "Що вам позичить центр?"
+      },
+      "options": [
+        {
+          "en": "Skis only",
+          "uk": "Тільки лижі"
+        },
+        {
+          "en": "Coats, boots and snowshoes",
+          "uk": "Куртки, чоботи й снігоступи"
+        },
+        {
+          "en": "Sleds for children",
+          "uk": "Санки для дітей"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "How long are the lessons?",
+        "uk": "Скільки тривають заняття?"
+      },
+      "options": [
+        {
+          "en": "One hour",
+          "uk": "Одну годину"
+        },
+        {
+          "en": "Half a day",
+          "uk": "Пів дня"
+        },
+        {
+          "en": "Two hours",
+          "uk": "Дві години"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "When is lunch served?",
+        "uk": "Коли подають обід?"
+      },
+      "options": [
+        {
+          "en": "From noon to 2",
+          "uk": "З дванадцятої до другої"
+        },
+        {
+          "en": "From 11 to 3",
+          "uk": "З одинадцятої до третьої"
+        },
+        {
+          "en": "From 11 to 1",
+          "uk": "З одинадцятої до першої"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "How much is a day ticket?",
+        "uk": "Скільки коштує квиток на день?"
+      },
+      "options": [
+        {
+          "en": "$45",
+          "uk": "45 $"
+        },
+        {
+          "en": "$55",
+          "uk": "55 $"
+        },
+        {
+          "en": "$6",
+          "uk": "6 $"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Where can you find all the details?",
+        "uk": "Де можна знайти всі подробиці?"
+      },
+      "options": [
+        {
+          "en": "In the lodge",
+          "uk": "У шале"
+        },
+        {
+          "en": "On their Facebook page",
+          "uk": "На їхній сторінці у Facebook"
+        },
+        {
+          "en": "On the ticket",
+          "uk": "На квитку"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le dîner",
+      "en": "lunch (Québec) / dinner (France)",
+      "uk": "обід (у Квебеку) / вечеря (у Франції)"
+    },
+    {
+      "fr": "la nature",
+      "en": "the nature",
+      "uk": "природа"
+    },
+    {
+      "fr": "prévoir",
+      "en": "to plan / to foresee",
+      "uk": "планувати / передбачати"
+    },
+    {
+      "fr": "la page",
+      "en": "the page",
+      "uk": "сторінка"
+    },
+    {
+      "fr": "la course",
+      "en": "the race / the errand (faire les courses = to go shopping)",
+      "uk": "перегони / доручення (faire les courses = ходити по крамницях)"
+    },
+    {
+      "fr": "la direction",
+      "en": "the direction / the management",
+      "uk": "напрямок / керівництво"
+    },
+    {
+      "fr": "le vêtement",
+      "en": "the piece of clothing (les vêtements = clothes)",
+      "uk": "предмет одягу (les vêtements = одяг)"
+    },
+    {
+      "fr": "les vacances",
+      "en": "the holidays / the vacation",
+      "uk": "канікули / відпустка"
+    },
+    {
+      "fr": "court / courte",
+      "en": "short",
+      "uk": "короткий / коротка"
+    },
+    {
+      "fr": "former",
+      "en": "to form / to train",
+      "uk": "утворювати / навчати"
+    },
+    {
+      "fr": "dangereux / dangereuse",
+      "en": "dangerous",
+      "uk": "небезпечний / небезпечна"
+    },
+    {
+      "fr": "prêter",
+      "en": "to lend",
+      "uk": "позичати (комусь)"
+    },
+    {
+      "fr": "la forêt",
+      "en": "the forest",
+      "uk": "ліс"
+    },
+    {
+      "fr": "le billet",
+      "en": "the ticket / the banknote",
+      "uk": "квиток / банкнота"
+    },
+    {
+      "fr": "le pont",
+      "en": "the bridge",
+      "uk": "міст"
+    },
+    {
+      "fr": "le détail",
+      "en": "the detail",
+      "uk": "деталь"
+    },
+    {
+      "fr": "le rendez-vous",
+      "en": "the appointment / the date",
+      "uk": "зустріч, призначений візит / побачення"
+    },
+    {
+      "fr": "génial / géniale",
+      "en": "great / brilliant",
+      "uk": "чудовий / чудова, геніальний"
+    },
+    {
+      "fr": "commander",
+      "en": "to order",
+      "uk": "замовляти"
+    },
+    {
+      "fr": "la montagne",
+      "en": "the mountain",
+      "uk": "гора"
+    },
+    {
+      "fr": "l'étage (m.)",
+      "en": "the floor / the storey",
+      "uk": "поверх"
+    },
+    {
+      "fr": "le centre",
+      "en": "the centre",
+      "uk": "центр"
+    },
+    {
+      "fr": "la santé",
+      "en": "the health (santé ! = cheers!)",
+      "uk": "здоров'я (santé ! = будьмо!)"
+    },
+    {
+      "fr": "le salon",
+      "en": "the living room / the show (trade fair)",
+      "uk": "вітальня / виставка (ярмарок)"
+    },
+    {
+      "fr": "calme",
+      "en": "calm",
+      "uk": "спокійний"
+    },
+    {
+      "fr": "l'hiver (m.)",
+      "en": "the winter",
+      "uk": "зима"
+    },
+    {
+      "fr": "la raquette",
+      "en": "the snowshoe",
+      "uk": "снігоступ"
+    },
+    {
+      "fr": "le traîneau à chiens",
+      "en": "the dog sled",
+      "uk": "собача упряжка"
+    },
+    {
+      "fr": "le moniteur / la monitrice",
+      "en": "the instructor",
+      "uk": "інструктор / інструкторка"
+    },
+    {
+      "fr": "le chalet",
+      "en": "the lodge, cabin",
+      "uk": "шале, будиночок"
+    },
+    {
+      "fr": "le foyer",
+      "en": "the fireplace",
+      "uk": "камін"
+    }
+  ]
+}

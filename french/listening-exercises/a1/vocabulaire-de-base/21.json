@@ -1,0 +1,345 @@
+{
+  "title": {
+    "en": "Booking a room in Charlevoix (list a1-11)",
+    "uk": "Бронювання номера в Шарлевуа (список a1-11)"
+  },
+  "situation": {
+    "en": "You hear Paul phoning a small hotel in Baie-Saint-Paul.",
+    "uk": "Ви чуєте, як Поль телефонує до невеликого готелю в Бе-Сен-Полі."
+  },
+  "lines": [
+    {
+      "speaker": "Réceptionniste",
+      "fr": "Hôtel du Village, bonjour!",
+      "en": "Hôtel du Village, hello!",
+      "uk": "Готель «Дю Віляж», добрий день!"
+    },
+    {
+      "speaker": "Paul",
+      "fr": "Bonjour, madame. Je fais un petit voyage dans Charlevoix au début de juillet. Est-ce que vous avez une chambre?",
+      "en": "Hello, madam. I'm taking a little trip to Charlevoix at the beginning of July. Do you have a room?",
+      "uk": "Добрий день, пані. На початку липня я їду в невелику подорож до Шарлевуа. У вас є вільний номер?"
+    },
+    {
+      "speaker": "Réceptionniste",
+      "fr": "Pour quelles dates, exactement?",
+      "en": "For which dates, exactly?",
+      "uk": "На які саме дати?"
+    },
+    {
+      "speaker": "Paul",
+      "fr": "Du trois au cinq juillet. Mon oncle habite au village, et c'est son mariage le quatre.",
+      "en": "From the third to the fifth of July. My uncle lives in the village, and his wedding is on the fourth.",
+      "uk": "З третього по п'яте липня. Мій дядько живе в селі, і четвертого в нього весілля."
+    },
+    {
+      "speaker": "Réceptionniste",
+      "fr": "Félicitations! Une belle fête, alors. J'ai une chambre avec vue sur le jardin et les fleurs, à cent cinquante dollars la nuit.",
+      "en": "Congratulations! A lovely party, then. I have a room overlooking the garden and the flowers, at a hundred and fifty dollars a night.",
+      "uk": "Вітаю! Отже, буде гарне свято. Є номер із видом на сад і квіти, сто п'ятдесят доларів за ніч."
+    },
+    {
+      "speaker": "Paul",
+      "fr": "Parfait, je suis content! Est-ce que vous pouvez ajouter le déjeuner?",
+      "en": "Perfect, I'm happy! Can you add breakfast?",
+      "uk": "Чудово, я задоволений! Можете додати сніданок?"
+    },
+    {
+      "speaker": "Réceptionniste",
+      "fr": "Oui. Il est servi tôt, de six heures et demie à neuf heures. Ça fait vingt dollars de plus.",
+      "en": "Yes. It's served early, from six-thirty to nine. That's twenty dollars more.",
+      "uk": "Так. Його подають рано, з пів на сьому до дев'ятої. Це ще двадцять доларів."
+    },
+    {
+      "speaker": "Paul",
+      "fr": "D'accord. Et c'est facile de trouver l'hôtel? Je ne connais pas la région.",
+      "en": "OK. And is the hotel easy to find? I don't know the area.",
+      "uk": "Гаразд. А готель легко знайти? Я не знаю цієї місцевості."
+    },
+    {
+      "speaker": "Réceptionniste",
+      "fr": "Ce n'est pas difficile. Au feu, vous tournez à droite et vous traversez le pont. L'hôtel est à côté de l'église.",
+      "en": "It's not difficult. At the light, you turn right and cross the bridge. The hotel is next to the church.",
+      "uk": "Це нескладно. На світлофорі повертаєте праворуч і переїжджаєте міст. Готель біля церкви."
+    },
+    {
+      "speaker": "Paul",
+      "fr": "Est-ce qu'il y a un plan du village sur votre site?",
+      "en": "Is there a map of the village on your website?",
+      "uk": "На вашому сайті є план села?"
+    },
+    {
+      "speaker": "Réceptionniste",
+      "fr": "Oui. Et au village, la dame de l'office du tourisme donne aussi des cartes de la région.",
+      "en": "Yes. And in the village, the lady at the tourist office also gives out maps of the area.",
+      "uk": "Так. А в селі пані з туристичного офісу ще й роздає карти регіону."
+    },
+    {
+      "speaker": "Paul",
+      "fr": "Vous êtes très gentille. Est-ce que je peux payer par téléphone?",
+      "en": "You're very kind. Can I pay by phone?",
+      "uk": "Ви дуже люб'язні. Можна заплатити телефоном?"
+    },
+    {
+      "speaker": "Réceptionniste",
+      "fr": "Oui. Donnez-moi votre numéro de carte de crédit, s'il vous plaît.",
+      "en": "Yes. Give me your credit card number, please.",
+      "uk": "Так. Назвіть, будь ласка, номер вашої кредитної картки."
+    },
+    {
+      "speaker": "Réceptionniste",
+      "fr": "Voilà, votre réservation est terminée. Bon voyage, monsieur!",
+      "en": "There, your booking is done. Have a good trip, sir!",
+      "uk": "Ось і все, бронювання завершено. Гарної подорожі, пане!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Why is Paul going to the village?",
+        "uk": "Чому Поль їде до села?"
+      },
+      "options": [
+        {
+          "en": "For his uncle's birthday",
+          "uk": "На дядьків день народження"
+        },
+        {
+          "en": "For his uncle's wedding",
+          "uk": "На дядькове весілля"
+        },
+        {
+          "en": "To visit the tourist office",
+          "uk": "Щоб відвідати туристичний офіс"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What does the room look out on?",
+        "uk": "На що виходять вікна номера?"
+      },
+      "options": [
+        {
+          "en": "The river",
+          "uk": "На річку"
+        },
+        {
+          "en": "The church",
+          "uk": "На церкву"
+        },
+        {
+          "en": "The garden and the flowers",
+          "uk": "На сад і квіти"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "How much does breakfast cost?",
+        "uk": "Скільки коштує сніданок?"
+      },
+      "options": [
+        {
+          "en": "$20 more",
+          "uk": "На 20 $ більше"
+        },
+        {
+          "en": "$150",
+          "uk": "150 $"
+        },
+        {
+          "en": "It's included",
+          "uk": "Він входить у вартість"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How do you get to the hotel from the light?",
+        "uk": "Як дістатися до готелю від світлофора?"
+      },
+      "options": [
+        {
+          "en": "Turn left and cross the bridge",
+          "uk": "Повернути ліворуч і переїхати міст"
+        },
+        {
+          "en": "Turn right and cross the bridge",
+          "uk": "Повернути праворуч і переїхати міст"
+        },
+        {
+          "en": "Go straight to the tourist office",
+          "uk": "Їхати прямо до туристичного офісу"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Where is the hotel?",
+        "uk": "Де розташований готель?"
+      },
+      "options": [
+        {
+          "en": "Next to the bridge",
+          "uk": "Біля мосту"
+        },
+        {
+          "en": "Next to the tourist office",
+          "uk": "Біля туристичного офісу"
+        },
+        {
+          "en": "Next to the church",
+          "uk": "Біля церкви"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'hôtel (m.)",
+      "en": "the hotel",
+      "uk": "готель"
+    },
+    {
+      "fr": "traverser",
+      "en": "to cross",
+      "uk": "переходити, перетинати"
+    },
+    {
+      "fr": "difficile",
+      "en": "difficult",
+      "uk": "складний, важкий"
+    },
+    {
+      "fr": "content / contente",
+      "en": "happy / glad",
+      "uk": "задоволений / задоволена, радий"
+    },
+    {
+      "fr": "la fleur",
+      "en": "the flower",
+      "uk": "квітка"
+    },
+    {
+      "fr": "ajouter",
+      "en": "to add",
+      "uk": "додавати"
+    },
+    {
+      "fr": "le voyage",
+      "en": "the trip / the journey",
+      "uk": "подорож, поїздка"
+    },
+    {
+      "fr": "la dame",
+      "en": "the lady",
+      "uk": "пані, дама"
+    },
+    {
+      "fr": "facile",
+      "en": "easy",
+      "uk": "легкий, простий"
+    },
+    {
+      "fr": "le téléphone",
+      "en": "the phone",
+      "uk": "телефон"
+    },
+    {
+      "fr": "gentil / gentille",
+      "en": "kind / nice",
+      "uk": "добрий / добра, милий"
+    },
+    {
+      "fr": "tôt",
+      "en": "early",
+      "uk": "рано"
+    },
+    {
+      "fr": "la carte",
+      "en": "the card / the map",
+      "uk": "картка / мапа"
+    },
+    {
+      "fr": "le début",
+      "en": "the beginning",
+      "uk": "початок"
+    },
+    {
+      "fr": "l'oncle (m.)",
+      "en": "the uncle",
+      "uk": "дядько"
+    },
+    {
+      "fr": "la fête",
+      "en": "the party / the holiday",
+      "uk": "свято / вечірка"
+    },
+    {
+      "fr": "le mariage",
+      "en": "the wedding / the marriage",
+      "uk": "весілля / шлюб"
+    },
+    {
+      "fr": "le jardin",
+      "en": "the garden",
+      "uk": "сад"
+    },
+    {
+      "fr": "le numéro",
+      "en": "the number",
+      "uk": "номер"
+    },
+    {
+      "fr": "terminer",
+      "en": "to finish",
+      "uk": "закінчувати"
+    },
+    {
+      "fr": "droit / droite",
+      "en": "straight / right (side)",
+      "uk": "прямий / права (сторона)"
+    },
+    {
+      "fr": "habiter",
+      "en": "to live (in a place)",
+      "uk": "жити (десь), мешкати"
+    },
+    {
+      "fr": "le village",
+      "en": "the village",
+      "uk": "село"
+    },
+    {
+      "fr": "exactement",
+      "en": "exactly",
+      "uk": "точно, саме так"
+    },
+    {
+      "fr": "le plan",
+      "en": "the plan / the map (of a city)",
+      "uk": "план / мапа (міста)"
+    },
+    {
+      "fr": "le déjeuner",
+      "en": "breakfast (Québec)",
+      "uk": "сніданок (у Квебеку)"
+    },
+    {
+      "fr": "le pont",
+      "en": "the bridge",
+      "uk": "міст"
+    },
+    {
+      "fr": "l'office du tourisme (m.)",
+      "en": "the tourist office",
+      "uk": "туристичний офіс"
+    }
+  ]
+}

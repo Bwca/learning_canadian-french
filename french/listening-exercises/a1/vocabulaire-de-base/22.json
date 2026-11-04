@@ -1,0 +1,363 @@
+{
+  "title": {
+    "en": "Meeting the new baby (list a1-11)",
+    "uk": "Знайомство з немовлям (список a1-11)"
+  },
+  "situation": {
+    "en": "You hear Sam visiting his friend Chloé, who has a new baby.",
+    "uk": "Ви чуєте, як Сем навідує свою подругу Хлою, у якої нещодавно народилася дитина."
+  },
+  "lines": [
+    {
+      "speaker": "Sam",
+      "fr": "Salut, Chloé! Je parle tout bas : est-ce que le bébé dort?",
+      "en": "Hi, Chloé! I'm talking very quietly: is the baby asleep?",
+      "uk": "Привіт, Хлоє! Я говорю дуже тихо: малеча спить?"
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "Non, elle est réveillée. Viens la voir! Elle s'appelle Léa.",
+      "en": "No, she's awake. Come and see her! Her name is Léa.",
+      "uk": "Ні, вона не спить. Ходи подивися на неї! Її звати Леа."
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Oh, qu'elle est belle! Elle a ton nez et les oreilles de son papa!",
+      "en": "Oh, she's beautiful! She has your nose and her daddy's ears!",
+      "uk": "Ой, яка гарна! У неї твій ніс і татові вуха!"
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "Oui, et regarde son sourire! C'est le bonheur.",
+      "en": "Yes, and look at her smile! It's pure happiness.",
+      "uk": "Так, а подивися на її усмішку! Це щастя."
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Et toi, tu es en forme?",
+      "en": "And you, are you doing well?",
+      "uk": "А ти як, у формі?"
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "Je suis fatiguée. D'habitude, je dors trois heures par nuit. Je rêve de dormir!",
+      "en": "I'm tired. Usually I sleep three hours a night. I dream of sleeping!",
+      "uk": "Я втомлена. Зазвичай я сплю три години на ніч. Мрію виспатися!"
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Ha, tu es drôle. Et ton copain, il t'aide?",
+      "en": "Ha, you're funny. And your boyfriend, does he help you?",
+      "uk": "Ха, ти смішна. А твій хлопець тобі допомагає?"
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "Oui, il adore s'occuper d'elle, la nuit comme le jour.",
+      "en": "Yes, he loves taking care of her, night and day.",
+      "uk": "Так, він обожнює доглядати за нею — і вночі, і вдень."
+    },
+    {
+      "speaker": "Sam",
+      "fr": "J'ai un cadeau pour elle : un petit livre d'images avec des animaux.",
+      "en": "I have a present for her: a little picture book with animals.",
+      "uk": "У мене для неї подарунок: книжечка з картинками про тварин."
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "Merci! Elle va s'amuser avec ça. Elle s'intéresse déjà aux couleurs.",
+      "en": "Thank you! She'll have fun with that. She's already interested in colours.",
+      "uk": "Дякую! Їй буде весело з нею. Вона вже цікавиться кольорами."
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Et cette pierre, sur la table?",
+      "en": "And this stone, on the table?",
+      "uk": "А цей камінь на столі?"
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "C'est un souvenir de notre voyage en Gaspésie. Regarde, elle a la forme d'un cœur!",
+      "en": "It's a souvenir from our trip to the Gaspé. Look, it's shaped like a heart!",
+      "uk": "Це сувенір із нашої подорожі до Гаспезі. Подивися, він у формі серця!"
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Oh, j'aperçois une photo de toi et Léa sur le frigo!",
+      "en": "Oh, I can see a photo of you and Léa on the fridge!",
+      "uk": "О, я бачу на холодильнику фото тебе з Леа!"
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "Oui! Tu peux la tenir un peu? Sinon, je ne peux pas boire mon café.",
+      "en": "Yes! Can you hold her for a bit? Otherwise I can't drink my coffee.",
+      "uk": "Так! Потримаєш її трошки? Інакше я не можу випити каву."
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Moi? Tu as confiance en moi? Je ne réussis même pas à garder une plante en vie!",
+      "en": "Me? You trust me? I can't even manage to keep a plant alive!",
+      "uk": "Я? Ти мені довіряєш? Я навіть рослину не можу втримати живою!"
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Euh… je me trompe, ou il y a une drôle d'odeur?",
+      "en": "Uh… am I wrong, or is there a funny smell?",
+      "uk": "Е-е… я помиляюся, чи тут дивно пахне?"
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "Non, tu ne te trompes pas! Une couche sale. Après, enfin un peu de paix!",
+      "en": "No, you're not wrong! A dirty diaper. After that, a bit of peace at last!",
+      "uk": "Ні, ти не помиляєшся! Брудний підгузок. А потім нарешті трохи спокою!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Who is Léa?",
+        "uk": "Хто така Леа?"
+      },
+      "options": [
+        {
+          "en": "Chloé's sister",
+          "uk": "Сестра Хлої"
+        },
+        {
+          "en": "Chloé's baby girl",
+          "uk": "Донечка Хлої"
+        },
+        {
+          "en": "Sam's girlfriend",
+          "uk": "Подруга Сема"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "According to Sam, what does the baby have from her dad?",
+        "uk": "Що, за словами Сема, у дитини від тата?"
+      },
+      "options": [
+        {
+          "en": "Her nose",
+          "uk": "Ніс"
+        },
+        {
+          "en": "Her smile",
+          "uk": "Усмішка"
+        },
+        {
+          "en": "Her ears",
+          "uk": "Вуха"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What is Sam's present?",
+        "uk": "Що дарує Сем?"
+      },
+      "options": [
+        {
+          "en": "A picture book with animals",
+          "uk": "Книжечку з картинками про тварин"
+        },
+        {
+          "en": "A heart-shaped stone",
+          "uk": "Камінь у формі серця"
+        },
+        {
+          "en": "A plant",
+          "uk": "Рослину"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What is the stone on the table?",
+        "uk": "Що це за камінь на столі?"
+      },
+      "options": [
+        {
+          "en": "A present from Sam",
+          "uk": "Подарунок від Сема"
+        },
+        {
+          "en": "A souvenir from a trip to the Gaspé",
+          "uk": "Сувенір із подорожі до Гаспезі"
+        },
+        {
+          "en": "A toy for the baby",
+          "uk": "Іграшка для дитини"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Why does Chloé want Sam to hold the baby?",
+        "uk": "Чому Хлоя просить Сема потримати дитину?"
+      },
+      "options": [
+        {
+          "en": "So she can drink her coffee",
+          "uk": "Щоб випити каву"
+        },
+        {
+          "en": "So she can sleep",
+          "uk": "Щоб поспати"
+        },
+        {
+          "en": "So she can take a photo",
+          "uk": "Щоб зробити фото"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "bas / basse",
+      "en": "low",
+      "uk": "низький / низька"
+    },
+    {
+      "fr": "l'image (f.)",
+      "en": "the picture / the image",
+      "uk": "зображення, картинка"
+    },
+    {
+      "fr": "la forme",
+      "en": "the shape / the form (en forme = fit)",
+      "uk": "форма (en forme = у формі)"
+    },
+    {
+      "fr": "apercevoir",
+      "en": "to notice / to catch sight of",
+      "uk": "помічати, побачити"
+    },
+    {
+      "fr": "l'oreille (f.)",
+      "en": "the ear",
+      "uk": "вухо"
+    },
+    {
+      "fr": "amuser",
+      "en": "to amuse (s'amuser = to have fun)",
+      "uk": "розважати (s'amuser = розважатися)"
+    },
+    {
+      "fr": "le copain / la copine",
+      "en": "the friend / the boyfriend / the girlfriend",
+      "uk": "друг / подруга / хлопець / дівчина"
+    },
+    {
+      "fr": "le souvenir",
+      "en": "the memory / the souvenir",
+      "uk": "спогад / сувенір"
+    },
+    {
+      "fr": "intéresser",
+      "en": "to interest (s'intéresser à = to be interested in)",
+      "uk": "цікавити (s'intéresser à = цікавитися)"
+    },
+    {
+      "fr": "la pierre",
+      "en": "the stone",
+      "uk": "камінь"
+    },
+    {
+      "fr": "la confiance",
+      "en": "the trust",
+      "uk": "довіра"
+    },
+    {
+      "fr": "sinon",
+      "en": "otherwise / or else",
+      "uk": "інакше"
+    },
+    {
+      "fr": "réussir",
+      "en": "to succeed / to pass (an exam)",
+      "uk": "досягати успіху / складати (іспит)"
+    },
+    {
+      "fr": "le nez",
+      "en": "the nose",
+      "uk": "ніс"
+    },
+    {
+      "fr": "l'habitude (f.)",
+      "en": "the habit (d'habitude = usually)",
+      "uk": "звичка (d'habitude = зазвичай)"
+    },
+    {
+      "fr": "le sourire",
+      "en": "the smile",
+      "uk": "усмішка"
+    },
+    {
+      "fr": "rêver",
+      "en": "to dream",
+      "uk": "мріяти, бачити сни"
+    },
+    {
+      "fr": "sale",
+      "en": "dirty",
+      "uk": "брудний"
+    },
+    {
+      "fr": "la paix",
+      "en": "the peace",
+      "uk": "мир, спокій"
+    },
+    {
+      "fr": "tromper",
+      "en": "to deceive (se tromper = to be wrong)",
+      "uk": "обманювати (se tromper = помилятися)"
+    },
+    {
+      "fr": "l'odeur (f.)",
+      "en": "the smell",
+      "uk": "запах"
+    },
+    {
+      "fr": "le bonheur",
+      "en": "the happiness",
+      "uk": "щастя"
+    },
+    {
+      "fr": "drôle",
+      "en": "funny",
+      "uk": "смішний, кумедний"
+    },
+    {
+      "fr": "adorer",
+      "en": "to love / to adore",
+      "uk": "обожнювати"
+    },
+    {
+      "fr": "le bébé",
+      "en": "the baby",
+      "uk": "немовля, малюк"
+    },
+    {
+      "fr": "la couche",
+      "en": "the diaper",
+      "uk": "підгузок"
+    },
+    {
+      "fr": "la Gaspésie",
+      "en": "the Gaspé Peninsula, in eastern Québec",
+      "uk": "Гаспезі, півострів на сході Квебеку"
+    },
+    {
+      "fr": "le frigo",
+      "en": "the fridge",
+      "uk": "холодильник"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "title": {
+    "en": "Booking a table for a party (list a1-13)",
+    "uk": "Бронювання столика для свята (список a1-13)"
+  },
+  "situation": {
+    "en": "You hear Lucie phoning a restaurant to book a table.",
+    "uk": "Ви чуєте, як Люсі телефонує до ресторану, щоб забронювати столик."
+  },
+  "lines": [
+    {
+      "speaker": "Serveur",
+      "fr": "Restaurant Le Jardin vert, bonsoir!",
+      "en": "Le Jardin Vert restaurant, good evening!",
+      "uk": "Ресторан «Зелений сад», добрий вечір!"
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "Bonsoir! Je veux réserver une table pour samedi soir. C'est une soirée surprise pour ma tante.",
+      "en": "Good evening! I'd like to book a table for Saturday evening. It's a surprise party for my aunt.",
+      "uk": "Добрий вечір! Я хочу забронювати столик на суботу ввечері. Це вечірка-сюрприз для моєї тітки."
+    },
+    {
+      "speaker": "Serveur",
+      "fr": "Avec plaisir. Vous êtes combien?",
+      "en": "With pleasure. How many of you are there?",
+      "uk": "Із задоволенням. Скільки вас буде?"
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "Douze. J'invite toute la famille. Ma tante va épouser son amoureux cet été, et elle veut l'annoncer à tout le monde.",
+      "en": "Twelve. I'm inviting the whole family. My aunt is going to marry her sweetheart this summer, and she wants to announce it to everyone.",
+      "uk": "Дванадцятеро. Я запрошую всю родину. Цього літа моя тітка виходить заміж за свого коханого і хоче оголосити це всім."
+    },
+    {
+      "speaker": "Serveur",
+      "fr": "Félicitations! Je vous propose la terrasse : le soir, il fait chaud en été.",
+      "en": "Congratulations! I suggest the patio: in the evening it's warm in summer.",
+      "uk": "Вітаю! Пропоную вам терасу: улітку ввечері там тепло."
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "Bonne idée. Et selon vous, quel vin va bien avec le poisson?",
+      "en": "Good idea. And in your view, which wine goes well with fish?",
+      "uk": "Гарна ідея. А як ви вважаєте, яке вино пасує до риби?"
+    },
+    {
+      "speaker": "Serveur",
+      "fr": "À mon avis, un vin blanc sec. Nos clients l'adorent.",
+      "en": "In my opinion, a dry white wine. Our customers love it.",
+      "uk": "На мою думку, сухе біле вино. Наші клієнти його обожнюють."
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "Parfait. Est-ce qu'on peut apporter un gâteau? C'est mon cadeau, et c'est un secret!",
+      "en": "Perfect. Can we bring a cake? It's my present, and it's a secret!",
+      "uk": "Чудово. Можна принести торт? Це мій подарунок, і це секрет!"
+    },
+    {
+      "speaker": "Serveur",
+      "fr": "Bien sûr. Et pour les enfants qui ont faim, il y a un menu à dix dollars.",
+      "en": "Of course. And for hungry children, there's a ten-dollar menu.",
+      "uk": "Звісно. А для голодних дітей є меню за десять доларів."
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "Super. Le restaurant est dans quel quartier, déjà?",
+      "en": "Great. Which neighbourhood is the restaurant in, again?",
+      "uk": "Чудово. Нагадайте, у якому районі ресторан?"
+    },
+    {
+      "speaker": "Serveur",
+      "fr": "Dans Limoilou, en face de l'école Saint-Fidèle.",
+      "en": "In Limoilou, across from Saint-Fidèle School.",
+      "uk": "У Лімуалу, навпроти школи Сен-Фідель."
+    },
+    {
+      "speaker": "Lucie",
+      "fr": "Merci. Je vous donne ma réponse pour le nombre de personnes demain.",
+      "en": "Thank you. I'll give you my answer on the number of people tomorrow.",
+      "uk": "Дякую. Остаточну кількість гостей я вам скажу завтра."
+    },
+    {
+      "speaker": "Serveur",
+      "fr": "Pas de problème. Mais attention : le lendemain, dimanche, nous sommes fermés.",
+      "en": "No problem. But be careful: the next day, Sunday, we're closed.",
+      "uk": "Без проблем. Але зверніть увагу: наступного дня, у неділю, ми зачинені."
+    },
+    {
+      "speaker": "Serveur",
+      "fr": "Et goûtez notre tarte au sirop d'érable : nos clients adorent son goût!",
+      "en": "And try our maple syrup pie: our customers love its taste!",
+      "uk": "І скуштуйте наш пиріг із кленовим сиропом: клієнтам дуже подобається його смак!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is the party for?",
+        "uk": "З якої нагоди вечірка?"
+      },
+      "options": [
+        {
+          "en": "The aunt's birthday",
+          "uk": "День народження тітки"
+        },
+        {
+          "en": "The aunt will announce her wedding",
+          "uk": "Тітка оголосить про своє весілля"
+        },
+        {
+          "en": "Lucie's new job",
+          "uk": "Нова робота Люсі"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "How many people are coming?",
+        "uk": "Скільки людей прийде?"
+      },
+      "options": [
+        {
+          "en": "Twelve",
+          "uk": "Дванадцятеро"
+        },
+        {
+          "en": "Ten",
+          "uk": "Десятеро"
+        },
+        {
+          "en": "Two",
+          "uk": "Двоє"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What wine does the waiter suggest?",
+        "uk": "Яке вино радить офіціант?"
+      },
+      "options": [
+        {
+          "en": "A red wine",
+          "uk": "Червоне вино"
+        },
+        {
+          "en": "A sweet white wine",
+          "uk": "Солодке біле вино"
+        },
+        {
+          "en": "A dry white wine",
+          "uk": "Сухе біле вино"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What is the $10 menu for?",
+        "uk": "Для кого меню за 10 доларів?"
+      },
+      "options": [
+        {
+          "en": "For the aunt",
+          "uk": "Для тітки"
+        },
+        {
+          "en": "For the children",
+          "uk": "Для дітей"
+        },
+        {
+          "en": "For the patio",
+          "uk": "Для тераси"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "When is the restaurant closed?",
+        "uk": "Коли ресторан зачинений?"
+      },
+      "options": [
+        {
+          "en": "On Sunday",
+          "uk": "У неділю"
+        },
+        {
+          "en": "On Saturday",
+          "uk": "У суботу"
+        },
+        {
+          "en": "On Monday",
+          "uk": "У понеділок"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'avis (m.)",
+      "en": "the opinion (à mon avis = in my opinion)",
+      "uk": "думка (à mon avis = на мою думку)"
+    },
+    {
+      "fr": "la faim",
+      "en": "the hunger (avoir faim = to be hungry)",
+      "uk": "голод (avoir faim = бути голодним)"
+    },
+    {
+      "fr": "le goût",
+      "en": "the taste",
+      "uk": "смак"
+    },
+    {
+      "fr": "le secret",
+      "en": "the secret",
+      "uk": "таємниця, секрет"
+    },
+    {
+      "fr": "inviter",
+      "en": "to invite",
+      "uk": "запрошувати"
+    },
+    {
+      "fr": "vert / verte",
+      "en": "green",
+      "uk": "зелений / зелена"
+    },
+    {
+      "fr": "chaud / chaude",
+      "en": "hot / warm",
+      "uk": "гарячий / гаряча, теплий"
+    },
+    {
+      "fr": "le vin",
+      "en": "the wine",
+      "uk": "вино"
+    },
+    {
+      "fr": "la réponse",
+      "en": "the answer",
+      "uk": "відповідь"
+    },
+    {
+      "fr": "la tante",
+      "en": "the aunt",
+      "uk": "тітка"
+    },
+    {
+      "fr": "le client / la cliente",
+      "en": "the customer / the client",
+      "uk": "клієнт / клієнтка, покупець"
+    },
+    {
+      "fr": "l'été (m.)",
+      "en": "the summer",
+      "uk": "літо"
+    },
+    {
+      "fr": "selon",
+      "en": "according to",
+      "uk": "згідно з"
+    },
+    {
+      "fr": "proposer",
+      "en": "to suggest / to offer",
+      "uk": "пропонувати"
+    },
+    {
+      "fr": "annoncer",
+      "en": "to announce",
+      "uk": "оголошувати"
+    },
+    {
+      "fr": "sec / sèche",
+      "en": "dry",
+      "uk": "сухий / суха"
+    },
+    {
+      "fr": "bonsoir",
+      "en": "good evening",
+      "uk": "добрий вечір"
+    },
+    {
+      "fr": "la soirée",
+      "en": "the evening / the party",
+      "uk": "вечір / вечірка"
+    },
+    {
+      "fr": "le lendemain",
+      "en": "the next day",
+      "uk": "наступний день"
+    },
+    {
+      "fr": "épouser",
+      "en": "to marry (someone)",
+      "uk": "одружуватися з"
+    },
+    {
+      "fr": "le quartier",
+      "en": "the neighbourhood",
+      "uk": "район, квартал"
+    },
+    {
+      "fr": "le cadeau",
+      "en": "the gift / the present",
+      "uk": "подарунок"
+    },
+    {
+      "fr": "le sirop d'érable",
+      "en": "maple syrup",
+      "uk": "кленовий сироп"
+    },
+    {
+      "fr": "Limoilou",
+      "en": "a neighbourhood of Québec City",
+      "uk": "район міста Квебек"
+    },
+    {
+      "fr": "la terrasse",
+      "en": "the patio, outdoor seating",
+      "uk": "тераса"
+    }
+  ]
+}

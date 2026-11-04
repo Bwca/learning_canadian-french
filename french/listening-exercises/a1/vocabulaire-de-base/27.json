@@ -1,0 +1,331 @@
+{
+  "title": {
+    "en": "A message from the building manager (list a1-14)",
+    "uk": "Повідомлення від доглядача будинку (список a1-14)"
+  },
+  "situation": {
+    "en": "You live in an apartment building. You hear a voicemail from the building manager.",
+    "uk": "Ви живете в багатоквартирному будинку. Ви чуєте голосове повідомлення від доглядача."
+  },
+  "lines": [
+    {
+      "fr": "Bonjour, madame Roy, c'est Denis, le concierge. Désolé de vous déranger un dimanche.",
+      "en": "Hello, Ms. Roy, it's Denis, the building manager. Sorry to bother you on a Sunday.",
+      "uk": "Добрий день, пані Руа, це Дені, доглядач. Перепрошую, що турбую в неділю."
+    },
+    {
+      "fr": "Je laisse le même message à tous les locataires.",
+      "en": "I'm leaving the same message for all the tenants.",
+      "uk": "Я залишаю однакове повідомлення всім орендарям."
+    },
+    {
+      "fr": "Avec la pluie terrible de cette nuit, il y a un énorme trou dans le toit, au-dessus de l'entrée.",
+      "en": "With last night's terrible rain, there's a huge hole in the roof, above the entrance.",
+      "uk": "Через жахливу нічну зливу в даху над входом утворилася величезна діра."
+    },
+    {
+      "fr": "Une compagnie vient demain pour le réparer. Les travaux vont durer deux jours.",
+      "en": "A company is coming tomorrow to repair it. The work will last two days.",
+      "uk": "Завтра прийде фірма її лагодити. Роботи триватимуть два дні."
+    },
+    {
+      "fr": "Pendant ce temps, il est défendu d'utiliser la porte principale. Passez par la porte grise, à dix mètres, derrière l'immeuble.",
+      "en": "In the meantime, it's forbidden to use the main door. Go through the grey door, ten metres away, behind the building.",
+      "uk": "Тим часом користуватися головними дверима заборонено. Проходьте через сірі двері за десять метрів, позаду будинку."
+    },
+    {
+      "fr": "Pour cette porte, il faut une clé neuve. Je la mets dans votre boîte aux lettres ce soir.",
+      "en": "For that door, you need a new key. I'm putting it in your mailbox tonight.",
+      "uk": "Для цих дверей потрібен новий ключ. Я покладу його у вашу поштову скриньку сьогодні ввечері."
+    },
+    {
+      "fr": "Si vous attendez un colis, il va sûrement arriver en retard. Allez le chercher à la poste.",
+      "en": "If you're expecting a parcel, it'll surely arrive late. Go and pick it up at the post office.",
+      "uk": "Якщо ви чекаєте на посилку, вона напевно запізниться. Заберіть її на пошті."
+    },
+    {
+      "fr": "Un petit conseil : les nuits sont fraîches, alors allumez le chauffage dans votre appartement.",
+      "en": "A little advice: the nights are cool, so turn on the heating in your apartment.",
+      "uk": "Невелика порада: ночі прохолодні, тож увімкніть опалення у квартирі."
+    },
+    {
+      "fr": "Ne laissez pas d'objets ni de bouteilles dans le couloir, et gardez vos animaux à l'intérieur.",
+      "en": "Don't leave objects or bottles in the hallway, and keep your animals inside.",
+      "uk": "Не залишайте речей чи пляшок у коридорі й тримайте тварин у квартирі."
+    },
+    {
+      "fr": "En cas de problème, sonnez chez moi, à l'appartement un.",
+      "en": "If there's a problem, ring at my door, apartment one.",
+      "uk": "Якщо виникне проблема, дзвоніть до мене, квартира номер один."
+    },
+    {
+      "fr": "Je regrette pour le bruit, et je vous remercie de votre patience. Bonne fin de semaine!",
+      "en": "I'm sorry about the noise, and thank you for your patience. Have a good weekend!",
+      "uk": "Перепрошую за шум і дякую за терпіння. Гарних вихідних!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is the problem?",
+        "uk": "У чому проблема?"
+      },
+      "options": [
+        {
+          "en": "A hole in the roof after the rain",
+          "uk": "Діра в даху після дощу"
+        },
+        {
+          "en": "Water in the basement",
+          "uk": "Вода в підвалі"
+        },
+        {
+          "en": "A broken grey door",
+          "uk": "Зламані сірі двері"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How long will the work last?",
+        "uk": "Скільки триватимуть роботи?"
+      },
+      "options": [
+        {
+          "en": "Ten days",
+          "uk": "Десять днів"
+        },
+        {
+          "en": "One week",
+          "uk": "Тиждень"
+        },
+        {
+          "en": "Two days",
+          "uk": "Два дні"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Which door should the tenants use?",
+        "uk": "Якими дверима мають користуватися орендарі?"
+      },
+      "options": [
+        {
+          "en": "The main door",
+          "uk": "Головними"
+        },
+        {
+          "en": "The grey door behind the building",
+          "uk": "Сірими дверима позаду будинку"
+        },
+        {
+          "en": "The garage door",
+          "uk": "Дверима гаража"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Where will the new key be?",
+        "uk": "Де буде новий ключ?"
+      },
+      "options": [
+        {
+          "en": "At the post office",
+          "uk": "На пошті"
+        },
+        {
+          "en": "In the mailbox",
+          "uk": "У поштовій скриньці"
+        },
+        {
+          "en": "In apartment one",
+          "uk": "У квартирі номер один"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What does Denis advise?",
+        "uk": "Що радить Дені?"
+      },
+      "options": [
+        {
+          "en": "To turn on the heating",
+          "uk": "Увімкнути опалення"
+        },
+        {
+          "en": "To close the windows",
+          "uk": "Зачинити вікна"
+        },
+        {
+          "en": "To keep bottles in the hallway",
+          "uk": "Тримати пляшки в коридорі"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "durer",
+      "en": "to last",
+      "uk": "тривати"
+    },
+    {
+      "fr": "terrible",
+      "en": "terrible",
+      "uk": "жахливий"
+    },
+    {
+      "fr": "l'appartement (m.)",
+      "en": "the apartment",
+      "uk": "квартира"
+    },
+    {
+      "fr": "gris / grise",
+      "en": "grey",
+      "uk": "сірий / сіра"
+    },
+    {
+      "fr": "le mètre",
+      "en": "the metre",
+      "uk": "метр"
+    },
+    {
+      "fr": "le poste / la poste",
+      "en": "the job / the position (la poste = the post office)",
+      "uk": "посада (la poste = пошта)"
+    },
+    {
+      "fr": "le retard",
+      "en": "the delay (en retard = late)",
+      "uk": "запізнення (en retard = із запізненням)"
+    },
+    {
+      "fr": "neuf / neuve",
+      "en": "new (brand new) / nine",
+      "uk": "новий / нова (щойно куплений) / дев'ять"
+    },
+    {
+      "fr": "le conseil",
+      "en": "the advice / the council",
+      "uk": "порада / рада (орган)"
+    },
+    {
+      "fr": "allumer",
+      "en": "to turn on / to light",
+      "uk": "вмикати / запалювати"
+    },
+    {
+      "fr": "la compagnie",
+      "en": "the company",
+      "uk": "компанія"
+    },
+    {
+      "fr": "déranger",
+      "en": "to disturb / to bother",
+      "uk": "турбувати, заважати"
+    },
+    {
+      "fr": "l'objet (m.)",
+      "en": "the object",
+      "uk": "предмет, річ"
+    },
+    {
+      "fr": "défendre",
+      "en": "to defend / to forbid",
+      "uk": "захищати / забороняти"
+    },
+    {
+      "fr": "énorme",
+      "en": "huge",
+      "uk": "величезний"
+    },
+    {
+      "fr": "la pluie",
+      "en": "the rain",
+      "uk": "дощ"
+    },
+    {
+      "fr": "remercier",
+      "en": "to thank",
+      "uk": "дякувати"
+    },
+    {
+      "fr": "l'entrée (f.)",
+      "en": "the entrance / the starter (food)",
+      "uk": "вхід / закуска (страва)"
+    },
+    {
+      "fr": "la clé",
+      "en": "the key",
+      "uk": "ключ"
+    },
+    {
+      "fr": "sonner",
+      "en": "to ring",
+      "uk": "дзвонити (про дзвоник)"
+    },
+    {
+      "fr": "le dimanche",
+      "en": "Sunday",
+      "uk": "неділя"
+    },
+    {
+      "fr": "regretter",
+      "en": "to regret / to be sorry",
+      "uk": "шкодувати"
+    },
+    {
+      "fr": "l'animal (m.)",
+      "en": "the animal",
+      "uk": "тварина"
+    },
+    {
+      "fr": "la bouteille",
+      "en": "the bottle",
+      "uk": "пляшка"
+    },
+    {
+      "fr": "le message",
+      "en": "the message",
+      "uk": "повідомлення"
+    },
+    {
+      "fr": "frais / fraîche",
+      "en": "cool / fresh",
+      "uk": "прохолодний / прохолодна, свіжий"
+    },
+    {
+      "fr": "le concierge",
+      "en": "the building manager, superintendent",
+      "uk": "доглядач будинку"
+    },
+    {
+      "fr": "le locataire / la locataire",
+      "en": "the tenant",
+      "uk": "орендар / орендарка"
+    },
+    {
+      "fr": "le colis",
+      "en": "the parcel",
+      "uk": "посилка"
+    },
+    {
+      "fr": "la boîte aux lettres",
+      "en": "the mailbox",
+      "uk": "поштова скринька"
+    },
+    {
+      "fr": "la fin de semaine",
+      "en": "the weekend (Québec)",
+      "uk": "вихідні (у Квебеку)"
+    }
+  ]
+}

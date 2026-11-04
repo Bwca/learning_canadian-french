@@ -1,0 +1,357 @@
+{
+  "title": {
+    "en": "Big plans over lunch (list a1-15)",
+    "uk": "Великі плани за обідом (список a1-15)"
+  },
+  "situation": {
+    "en": "You hear two co-workers, Marie and Patrick, at lunchtime.",
+    "uk": "Ви чуєте двох колег, Марі та Патріка, в обідню перерву."
+  },
+  "lines": [
+    {
+      "speaker": "Marie",
+      "fr": "Patrick, on dîne ensemble? Il y a un nouveau casse-croûte en face.",
+      "en": "Patrick, shall we have lunch together? There's a new diner across the street.",
+      "uk": "Патріку, пообідаємо разом? Навпроти відкрилася нова закусочна."
+    },
+    {
+      "speaker": "Patrick",
+      "fr": "Justement, je veux te parler d'un projet.",
+      "en": "Actually, I want to talk to you about a plan.",
+      "uk": "Якраз хочу поговорити з тобою про один проєкт."
+    },
+    {
+      "speaker": "Marie",
+      "fr": "Ah oui? Allez, on discute!",
+      "en": "Oh yes? Go on, let's talk!",
+      "uk": "Он як? Давай, поговорімо!"
+    },
+    {
+      "speaker": "Patrick",
+      "fr": "Je veux quitter la société et créer ma propre compagnie.",
+      "en": "I want to leave the company and create my own business.",
+      "uk": "Я хочу піти з компанії й заснувати власну фірму."
+    },
+    {
+      "speaker": "Marie",
+      "fr": "Quoi? Tu as du courage! Dans quel métier?",
+      "en": "What? You've got courage! In what trade?",
+      "uk": "Що? Ну ти й сміливий! А в якій справі?"
+    },
+    {
+      "speaker": "Patrick",
+      "fr": "Je répare les toits. Mon voisin est couvreur, il veut travailler avec moi.",
+      "en": "I'm going to repair roofs. My neighbour is a roofer, he wants to work with me.",
+      "uk": "Я ремонтуватиму дахи. Мій сусід — покрівельник, він хоче працювати зі мною."
+    },
+    {
+      "speaker": "Marie",
+      "fr": "Mais c'est dangereux! Pense aux accidents!",
+      "en": "But it's dangerous! Think of accidents!",
+      "uk": "Але ж це небезпечно! Подумай про нещасні випадки!"
+    },
+    {
+      "speaker": "Patrick",
+      "fr": "Le pire, c'est l'hiver, avec la glace. Mais l'été, c'est super.",
+      "en": "The worst is winter, with the ice. But summer is great.",
+      "uk": "Найгірше — зима з ожеледдю. Зате влітку — чудово."
+    },
+    {
+      "speaker": "Marie",
+      "fr": "Et tu vas être riche?",
+      "en": "And are you going to be rich?",
+      "uk": "І ти станеш багатим?"
+    },
+    {
+      "speaker": "Patrick",
+      "fr": "Pas tout de suite! Je fais un tableau avec tous les coûts.",
+      "en": "Not right away! I'm making a chart with all the costs.",
+      "uk": "Не одразу! Я складаю таблицю з усіма витратами."
+    },
+    {
+      "speaker": "Marie",
+      "fr": "Et ton temps libre? Moi, le soir, je prends un bain, et le vendredi, je vais au cinéma.",
+      "en": "And your free time? Me, in the evening I take a bath, and on Fridays I go to the movies.",
+      "uk": "А вільний час? Я ввечері приймаю ванну, а в п'ятницю ходжу в кіно."
+    },
+    {
+      "speaker": "Patrick",
+      "fr": "Je joue au soccer sur l'herbe, au parc, avec ma bande de copains. Dimanche, je marque deux buts!",
+      "en": "I play soccer on the grass, in the park, with my gang of friends. On Sunday, I'm scoring two goals!",
+      "uk": "Я граю у футбол на траві в парку зі своєю компанією друзів. У неділю заб'ю два голи!"
+    },
+    {
+      "speaker": "Marie",
+      "fr": "Ha! Et tu commences quand?",
+      "en": "Ha! And when do you start?",
+      "uk": "Ха! І коли ти починаєш?"
+    },
+    {
+      "speaker": "Patrick",
+      "fr": "D'abord, je pars une semaine sur la côte, en Gaspésie. Je repars travailler le premier juin.",
+      "en": "First, I'm going to the coast for a week, in the Gaspé. I head back to work on June first.",
+      "uk": "Спершу я їду на тиждень на узбережжя, у Гаспезі. До роботи повертаюся першого червня."
+    },
+    {
+      "speaker": "Marie",
+      "fr": "Et ton camion? Tu vas devoir le laver tous les jours!",
+      "en": "And your truck? You'll have to wash it every day!",
+      "uk": "А твоя вантажівка? Тобі доведеться мити її щодня!"
+    },
+    {
+      "speaker": "Marie",
+      "fr": "Bon, la note, s'il vous plaît! Aujourd'hui, c'est moi qui règle, pour fêter ton projet.",
+      "en": "Right, the bill, please! Today I'm paying, to celebrate your plan.",
+      "uk": "Так, рахунок, будь ласка! Сьогодні плачу я — на честь твого проєкту."
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What does Patrick want to do?",
+        "uk": "Що хоче зробити Патрік?"
+      },
+      "options": [
+        {
+          "en": "Go back to school",
+          "uk": "Повернутися до навчання"
+        },
+        {
+          "en": "Work for the same company in another city",
+          "uk": "Працювати в тій самій компанії в іншому місті"
+        },
+        {
+          "en": "Leave the company and start his own",
+          "uk": "Піти з компанії й заснувати власну"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What will he repair?",
+        "uk": "Що він ремонтуватиме?"
+      },
+      "options": [
+        {
+          "en": "Roofs",
+          "uk": "Дахи"
+        },
+        {
+          "en": "Cars",
+          "uk": "Машини"
+        },
+        {
+          "en": "Bridges",
+          "uk": "Мости"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Who will work with him?",
+        "uk": "Хто працюватиме з ним?"
+      },
+      "options": [
+        {
+          "en": "Marie",
+          "uk": "Марі"
+        },
+        {
+          "en": "His neighbour",
+          "uk": "Його сусід"
+        },
+        {
+          "en": "His friends from soccer",
+          "uk": "Його друзі з футболу"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Where is Patrick going before he starts?",
+        "uk": "Куди їде Патрік перед початком роботи?"
+      },
+      "options": [
+        {
+          "en": "To the coast in the Gaspé",
+          "uk": "На узбережжя в Гаспезі"
+        },
+        {
+          "en": "To the mountains",
+          "uk": "У гори"
+        },
+        {
+          "en": "To Montréal",
+          "uk": "До Монреаля"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Who pays the bill?",
+        "uk": "Хто платить за рахунком?"
+      },
+      "options": [
+        {
+          "en": "Patrick",
+          "uk": "Патрік"
+        },
+        {
+          "en": "Marie",
+          "uk": "Марі"
+        },
+        {
+          "en": "They split it",
+          "uk": "Вони платять навпіл"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le bain",
+      "en": "the bath",
+      "uk": "ванна, купання"
+    },
+    {
+      "fr": "pire",
+      "en": "worse",
+      "uk": "гірший"
+    },
+    {
+      "fr": "discuter",
+      "en": "to discuss / to chat",
+      "uk": "обговорювати / балакати"
+    },
+    {
+      "fr": "l'herbe (f.)",
+      "en": "the grass",
+      "uk": "трава"
+    },
+    {
+      "fr": "l'accident (m.)",
+      "en": "the accident",
+      "uk": "аварія, нещасний випадок"
+    },
+    {
+      "fr": "la bande",
+      "en": "the band / the gang / the strip",
+      "uk": "гурт / банда / смуга"
+    },
+    {
+      "fr": "la côte",
+      "en": "the coast / the rib / the slope",
+      "uk": "узбережжя / ребро / схил"
+    },
+    {
+      "fr": "repartir",
+      "en": "to leave again",
+      "uk": "знову вирушати"
+    },
+    {
+      "fr": "marquer",
+      "en": "to mark / to score",
+      "uk": "позначати / забивати (гол)"
+    },
+    {
+      "fr": "laver",
+      "en": "to wash",
+      "uk": "мити, прати"
+    },
+    {
+      "fr": "le cinéma",
+      "en": "the cinema / the movie theatre",
+      "uk": "кінотеатр"
+    },
+    {
+      "fr": "le courage",
+      "en": "the courage",
+      "uk": "мужність, сміливість"
+    },
+    {
+      "fr": "le toit",
+      "en": "the roof",
+      "uk": "дах"
+    },
+    {
+      "fr": "justement",
+      "en": "precisely / exactly",
+      "uk": "саме / якраз"
+    },
+    {
+      "fr": "la note",
+      "en": "the note / the grade / the bill",
+      "uk": "нотатка / оцінка / рахунок"
+    },
+    {
+      "fr": "le tableau",
+      "en": "the painting / the board / the chart",
+      "uk": "картина / дошка / таблиця"
+    },
+    {
+      "fr": "régler",
+      "en": "to settle / to pay (a bill) / to adjust",
+      "uk": "вирішувати, улагоджувати / оплачувати (рахунок) / налаштовувати"
+    },
+    {
+      "fr": "créer",
+      "en": "to create",
+      "uk": "створювати"
+    },
+    {
+      "fr": "le projet",
+      "en": "the project / the plan",
+      "uk": "проєкт / план"
+    },
+    {
+      "fr": "le métier",
+      "en": "the trade / the profession",
+      "uk": "ремесло, професія"
+    },
+    {
+      "fr": "riche",
+      "en": "rich",
+      "uk": "багатий"
+    },
+    {
+      "fr": "dîner",
+      "en": "to have lunch (Québec) / to have dinner (France)",
+      "uk": "обідати (у Квебеку) / вечеряти (у Франції)"
+    },
+    {
+      "fr": "le voisin / la voisine",
+      "en": "the neighbour",
+      "uk": "сусід / сусідка"
+    },
+    {
+      "fr": "la société",
+      "en": "the society / the company",
+      "uk": "суспільство / компанія"
+    },
+    {
+      "fr": "le casse-croûte",
+      "en": "the snack bar, diner (Québec)",
+      "uk": "закусочна (у Квебеку)"
+    },
+    {
+      "fr": "le couvreur",
+      "en": "the roofer",
+      "uk": "покрівельник"
+    },
+    {
+      "fr": "le soccer",
+      "en": "soccer (Canada)",
+      "uk": "футбол (у Канаді)"
+    },
+    {
+      "fr": "le but",
+      "en": "the goal",
+      "uk": "гол"
+    }
+  ]
+}

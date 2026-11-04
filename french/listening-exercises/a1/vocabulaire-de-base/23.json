@@ -1,0 +1,326 @@
+{
+  "title": {
+    "en": "Whale watching in Tadoussac (list a1-12)",
+    "uk": "Спостереження за китами в Тадуссаку (список a1-12)"
+  },
+  "situation": {
+    "en": "You are on a boat in Tadoussac. You hear the guide's announcement before the cruise.",
+    "uk": "Ви на кораблі в Тадуссаку. Ви чуєте оголошення гіда перед початком круїзу."
+  },
+  "lines": [
+    {
+      "fr": "Mesdames et messieurs, bienvenue à bord du bateau Le Béluga! Je m'appelle Marc, et je suis votre guide.",
+      "en": "Ladies and gentlemen, welcome aboard the boat Le Béluga! My name is Marc, and I'm your guide.",
+      "uk": "Пані та панове, ласкаво просимо на борт корабля «Білуха»! Мене звати Марк, я ваш гід."
+    },
+    {
+      "fr": "Notre croisière aux baleines dure deux heures. Le prix comprend un café chaud, à l'intérieur, au bar.",
+      "en": "Our whale cruise lasts two hours. The price includes a hot coffee, inside, at the bar.",
+      "uk": "Наш круїз до китів триває дві години. У вартість входить гаряча кава всередині, у барі."
+    },
+    {
+      "fr": "Aujourd'hui, la vue est magnifique, mais le vent est fort sur le fleuve. Couvrez-vous bien : prenez une tuque, par exemple.",
+      "en": "Today the view is magnificent, but the wind is strong on the river. Cover up well: take a toque, for example.",
+      "uk": "Сьогодні чудовий краєвид, але на річці сильний вітер. Одягніться тепло: візьміть, наприклад, шапку."
+    },
+    {
+      "fr": "Pour aller sur la terrasse, utilisez l'escalier à gauche. Attention à la marche!",
+      "en": "To go up to the deck, use the stairs on the left. Mind the step!",
+      "uk": "Щоб вийти на палубу, скористайтеся сходами ліворуч. Обережно, сходинка!"
+    },
+    {
+      "fr": "La terrasse est au-dessus du bar, et elle offre la meilleure vue.",
+      "en": "The deck is above the bar, and it has the best view.",
+      "uk": "Палуба розташована над баром, і з неї найкращий краєвид."
+    },
+    {
+      "fr": "Près des baleines, le capitaine avance doucement : il est impossible d'aller à moins de cent mètres.",
+      "en": "Near the whales, the captain moves slowly: it's impossible to go closer than a hundred metres.",
+      "uk": "Біля китів капітан пливе повільно: підпливати ближче ніж на сто метрів не можна."
+    },
+    {
+      "fr": "Les baleines sont différentes selon la saison. Aujourd'hui, nous allons sûrement voir des bélugas, les petites baleines blanches.",
+      "en": "The whales are different depending on the season. Today, we'll surely see belugas, the small white whales.",
+      "uk": "Залежно від сезону кити різні. Сьогодні ми напевно побачимо білух — невеликих білих китів."
+    },
+    {
+      "fr": "Si vous êtes malade, ce n'est pas grave : demandez de l'aide à l'équipage. Pour une situation urgente, il y a un médecin à bord.",
+      "en": "If you feel sick, don't worry: ask the crew for help. For an emergency, there's a doctor on board.",
+      "uk": "Якщо вас нудить, нічого страшного: попросіть допомоги в екіпажу. На випадок невідкладної ситуації на борту є лікар."
+    },
+    {
+      "fr": "Les enfants de moins de douze ans doivent être accompagnés d'un adulte sur la terrasse.",
+      "en": "Children under twelve must be accompanied by an adult on the deck.",
+      "uk": "Діти до дванадцяти років можуть виходити на палубу лише з дорослими."
+    },
+    {
+      "fr": "Le groupe de l'école Sainte-Anne : votre professeure vous attend à l'arrière du bateau.",
+      "en": "The Sainte-Anne School group: your teacher is waiting for you at the back of the boat.",
+      "uk": "Група зі школи Сент-Анн: ваша вчителька чекає на вас на кормі."
+    },
+    {
+      "fr": "Nous remontons vers Tadoussac à midi. Le prochain départ est à quatorze heures. Bonne croisière!",
+      "en": "We head back up to Tadoussac at noon. The next departure is at two p.m. Enjoy the cruise!",
+      "uk": "О дванадцятій ми повертаємося до Тадуссака. Наступне відправлення о чотирнадцятій. Гарного круїзу!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "How long does the cruise last?",
+        "uk": "Скільки триває круїз?"
+      },
+      "options": [
+        {
+          "en": "One hour",
+          "uk": "Одну годину"
+        },
+        {
+          "en": "Two hours",
+          "uk": "Дві години"
+        },
+        {
+          "en": "Until 2 p.m.",
+          "uk": "До 14:00"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What is included in the price?",
+        "uk": "Що входить у вартість?"
+      },
+      "options": [
+        {
+          "en": "A hot coffee",
+          "uk": "Гаряча кава"
+        },
+        {
+          "en": "A meal at the bar",
+          "uk": "Обід у барі"
+        },
+        {
+          "en": "A toque",
+          "uk": "Шапка"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How do you get to the deck?",
+        "uk": "Як вийти на палубу?"
+      },
+      "options": [
+        {
+          "en": "By the stairs on the right",
+          "uk": "Сходами праворуч"
+        },
+        {
+          "en": "By the elevator",
+          "uk": "Ліфтом"
+        },
+        {
+          "en": "By the stairs on the left",
+          "uk": "Сходами ліворуч"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Which whales will they probably see?",
+        "uk": "Яких китів вони, ймовірно, побачать?"
+      },
+      "options": [
+        {
+          "en": "Belugas",
+          "uk": "Білух"
+        },
+        {
+          "en": "Blue whales",
+          "uk": "Синіх китів"
+        },
+        {
+          "en": "Big black whales",
+          "uk": "Великих чорних китів"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "When is the next departure?",
+        "uk": "Коли наступне відправлення?"
+      },
+      "options": [
+        {
+          "en": "At noon",
+          "uk": "О дванадцятій"
+        },
+        {
+          "en": "At 2 p.m.",
+          "uk": "О 14:00"
+        },
+        {
+          "en": "At 12:30",
+          "uk": "О 12:30"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "près",
+      "en": "near / close",
+      "uk": "близько, поруч"
+    },
+    {
+      "fr": "grave",
+      "en": "serious (grave)",
+      "uk": "серйозний, тяжкий"
+    },
+    {
+      "fr": "fort / forte",
+      "en": "strong / loud",
+      "uk": "сильний / сильна, гучний"
+    },
+    {
+      "fr": "le prix",
+      "en": "the price / the prize",
+      "uk": "ціна / приз"
+    },
+    {
+      "fr": "la vue",
+      "en": "the view / the sight",
+      "uk": "вид / зір"
+    },
+    {
+      "fr": "doucement",
+      "en": "gently / softly / quietly",
+      "uk": "лагідно / м'яко / тихо"
+    },
+    {
+      "fr": "malade",
+      "en": "sick / ill",
+      "uk": "хворий"
+    },
+    {
+      "fr": "remonter",
+      "en": "to go back up",
+      "uk": "знову підніматися"
+    },
+    {
+      "fr": "l'aide (f.)",
+      "en": "the help / the aid",
+      "uk": "допомога"
+    },
+    {
+      "fr": "différent / différente",
+      "en": "different",
+      "uk": "різний / інший"
+    },
+    {
+      "fr": "le groupe",
+      "en": "the group",
+      "uk": "група"
+    },
+    {
+      "fr": "l'intérieur (m.)",
+      "en": "the inside / the interior",
+      "uk": "нутро, інтер'єр"
+    },
+    {
+      "fr": "utiliser",
+      "en": "to use",
+      "uk": "використовувати"
+    },
+    {
+      "fr": "couvrir",
+      "en": "to cover",
+      "uk": "накривати, вкривати"
+    },
+    {
+      "fr": "impossible",
+      "en": "impossible",
+      "uk": "неможливий"
+    },
+    {
+      "fr": "au-dessus",
+      "en": "above / on top",
+      "uk": "вгорі, над"
+    },
+    {
+      "fr": "l'exemple (m.)",
+      "en": "the example (par exemple = for example)",
+      "uk": "приклад (par exemple = наприклад)"
+    },
+    {
+      "fr": "prochain / prochaine",
+      "en": "next",
+      "uk": "наступний / наступна"
+    },
+    {
+      "fr": "le médecin",
+      "en": "the doctor",
+      "uk": "лікар"
+    },
+    {
+      "fr": "accompagner",
+      "en": "to go with / to accompany",
+      "uk": "супроводжувати"
+    },
+    {
+      "fr": "la situation",
+      "en": "the situation",
+      "uk": "ситуація"
+    },
+    {
+      "fr": "sûrement",
+      "en": "surely / probably",
+      "uk": "напевно / мабуть"
+    },
+    {
+      "fr": "le bateau",
+      "en": "the boat",
+      "uk": "човен, корабель"
+    },
+    {
+      "fr": "la gauche",
+      "en": "the left (à gauche = on the left)",
+      "uk": "ліво (à gauche = ліворуч)"
+    },
+    {
+      "fr": "la marche",
+      "en": "the step (stairs) / the walk / the march",
+      "uk": "сходинка / прогулянка / марш"
+    },
+    {
+      "fr": "la croisière",
+      "en": "the cruise",
+      "uk": "круїз"
+    },
+    {
+      "fr": "la baleine",
+      "en": "the whale",
+      "uk": "кит"
+    },
+    {
+      "fr": "le béluga",
+      "en": "the beluga (a small white whale)",
+      "uk": "білуха (невеликий білий кит)"
+    },
+    {
+      "fr": "la tuque",
+      "en": "the winter hat, toque (Québec)",
+      "uk": "зимова шапка (у Квебеку)"
+    },
+    {
+      "fr": "le fleuve",
+      "en": "the (big) river — here, the St. Lawrence",
+      "uk": "велика річка — тут річка Святого Лаврентія"
+    }
+  ]
+}

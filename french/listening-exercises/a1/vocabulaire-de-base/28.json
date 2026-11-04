@@ -1,0 +1,346 @@
+{
+  "title": {
+    "en": "A golden anniversary on the island (list a1-14)",
+    "uk": "Золоте весілля на острові (список a1-14)"
+  },
+  "situation": {
+    "en": "You hear two cousins, Camille and Félix, at a family party on the Île d'Orléans.",
+    "uk": "Ви чуєте двох кузенів, Камій і Фелікса, на родинному святі на острові Орлеан."
+  },
+  "lines": [
+    {
+      "speaker": "Camille",
+      "fr": "Félix! Super, tu es là! Bienvenue sur l'île!",
+      "en": "Félix! Great, you're here! Welcome to the island!",
+      "uk": "Феліксе! Чудово, що ти тут! Ласкаво просимо на острів!"
+    },
+    {
+      "speaker": "Félix",
+      "fr": "Salut, cousine! Quelle belle campagne!",
+      "en": "Hi, cousin! What beautiful countryside!",
+      "uk": "Привіт, сестричко! Яка гарна місцевість!"
+    },
+    {
+      "speaker": "Camille",
+      "fr": "Grand-mère et grand-père fêtent leurs noces d'or : cinquante ans de mariage! On prépare une surprise.",
+      "en": "Grandma and Grandpa are celebrating their golden anniversary: fifty years of marriage! We're preparing a surprise.",
+      "uk": "Бабуся й дідусь святкують золоте весілля — п'ятдесят років у шлюбі! Ми готуємо сюрприз."
+    },
+    {
+      "speaker": "Félix",
+      "fr": "Ils sont encore amoureux, après cinquante ans?",
+      "en": "Are they still in love, after fifty years?",
+      "uk": "Вони досі закохані після п'ятдесяти років?"
+    },
+    {
+      "speaker": "Camille",
+      "fr": "Oh oui! Grand-père observe grand-mère comme au premier jour.",
+      "en": "Oh yes! Grandpa watches Grandma like on the first day.",
+      "uk": "Ще й як! Дідусь дивиться на бабусю, як у перший день."
+    },
+    {
+      "speaker": "Félix",
+      "fr": "C'est beau. Et moi, qu'est-ce que je fais? Donne-moi un rôle!",
+      "en": "That's lovely. And me, what do I do? Give me a role!",
+      "uk": "Як гарно. А мені що робити? Дай мені якусь роль!"
+    },
+    {
+      "speaker": "Camille",
+      "fr": "Tu coupes le pain et le fromage en morceaux. On va tout partager.",
+      "en": "You cut the bread and cheese into pieces. We'll share everything.",
+      "uk": "Наріж хліб і сир шматочками. Ми все поділимо."
+    },
+    {
+      "speaker": "Félix",
+      "fr": "Et pour le dessert, il y a un choix?",
+      "en": "And for dessert, is there a choice?",
+      "uk": "А на десерт є вибір?"
+    },
+    {
+      "speaker": "Camille",
+      "fr": "Oui : de la glace aux fraises de l'île, ou du gâteau.",
+      "en": "Yes: ice cream made with strawberries from the island, or cake.",
+      "uk": "Так: морозиво з острівною полуницею або торт."
+    },
+    {
+      "speaker": "Félix",
+      "fr": "Et l'oncle Marc, il est encore en colère contre grand-père?",
+      "en": "And Uncle Marc, is he still angry with Grandpa?",
+      "uk": "А дядько Марк досі сердиться на дідуся?"
+    },
+    {
+      "speaker": "Camille",
+      "fr": "Non, c'est fini. Ils recommencent à se parler. Et aujourd'hui, Marc dirige la chorale!",
+      "en": "No, it's over. They're starting to talk to each other again. And today, Marc is leading the choir!",
+      "uk": "Ні, усе минуло. Вони знову розмовляють. А сьогодні Марк керує хором!"
+    },
+    {
+      "speaker": "Félix",
+      "fr": "Génial. Mon cadeau, c'est un dessin de leur maison, sur une grande feuille.",
+      "en": "Great. My present is a drawing of their house, on a big sheet of paper.",
+      "uk": "Чудово. Мій подарунок — малюнок їхнього будинку на великому аркуші."
+    },
+    {
+      "speaker": "Camille",
+      "fr": "Grand-mère adore l'art! C'est une ancienne professeure de dessin. Ça va la surprendre.",
+      "en": "Grandma loves art! She's a former drawing teacher. That will surprise her.",
+      "uk": "Бабуся обожнює мистецтво! Вона колишня вчителька малювання. Це її здивує."
+    },
+    {
+      "speaker": "Félix",
+      "fr": "Alors, on va leur souhaiter un bon anniversaire tous ensemble?",
+      "en": "So, shall we all wish them a happy anniversary together?",
+      "uk": "То що, привітаємо їх із річницею всі разом?"
+    },
+    {
+      "speaker": "Camille",
+      "fr": "Oui, à trois heures. En attendant, profitons du soleil!",
+      "en": "Yes, at three. In the meantime, let's enjoy the sun!",
+      "uk": "Так, о третій. А поки що насолоджуймося сонцем!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Where are they?",
+        "uk": "Де вони?"
+      },
+      "options": [
+        {
+          "en": "In Montréal",
+          "uk": "У Монреалі"
+        },
+        {
+          "en": "On the Île d'Orléans",
+          "uk": "На острові Орлеан"
+        },
+        {
+          "en": "In Old Québec",
+          "uk": "У Старому Квебеку"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What are the grandparents celebrating?",
+        "uk": "Що святкують бабуся з дідусем?"
+      },
+      "options": [
+        {
+          "en": "Grandpa's birthday",
+          "uk": "Дідусів день народження"
+        },
+        {
+          "en": "Fifteen years of marriage",
+          "uk": "П'ятнадцять років шлюбу"
+        },
+        {
+          "en": "Fifty years of marriage",
+          "uk": "П'ятдесят років шлюбу"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What is Félix's job for the party?",
+        "uk": "Яке завдання має Фелікс на святі?"
+      },
+      "options": [
+        {
+          "en": "Cutting the bread and cheese",
+          "uk": "Нарізати хліб і сир"
+        },
+        {
+          "en": "Making the ice cream",
+          "uk": "Зробити морозиво"
+        },
+        {
+          "en": "Leading the choir",
+          "uk": "Керувати хором"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What is Félix's present?",
+        "uk": "Що дарує Фелікс?"
+      },
+      "options": [
+        {
+          "en": "Strawberry ice cream",
+          "uk": "Полуничне морозиво"
+        },
+        {
+          "en": "A drawing of their house",
+          "uk": "Малюнок їхнього будинку"
+        },
+        {
+          "en": "A book about art",
+          "uk": "Книжку про мистецтво"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Who is leading the choir?",
+        "uk": "Хто керує хором?"
+      },
+      "options": [
+        {
+          "en": "Grandpa",
+          "uk": "Дідусь"
+        },
+        {
+          "en": "Camille",
+          "uk": "Камій"
+        },
+        {
+          "en": "Uncle Marc",
+          "uk": "Дядько Марк"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "surprendre",
+      "en": "to surprise",
+      "uk": "дивувати, заставати зненацька"
+    },
+    {
+      "fr": "le pain",
+      "en": "the bread",
+      "uk": "хліб"
+    },
+    {
+      "fr": "le grand-père",
+      "en": "the grandfather",
+      "uk": "дідусь"
+    },
+    {
+      "fr": "la colère",
+      "en": "the anger (en colère = angry)",
+      "uk": "гнів (en colère = сердитий)"
+    },
+    {
+      "fr": "la feuille",
+      "en": "the leaf / the sheet (of paper)",
+      "uk": "листок / аркуш (паперу)"
+    },
+    {
+      "fr": "recommencer",
+      "en": "to start again",
+      "uk": "починати знову"
+    },
+    {
+      "fr": "la grand-mère",
+      "en": "the grandmother",
+      "uk": "бабуся"
+    },
+    {
+      "fr": "souhaiter",
+      "en": "to wish",
+      "uk": "бажати"
+    },
+    {
+      "fr": "l'île (f.)",
+      "en": "the island",
+      "uk": "острів"
+    },
+    {
+      "fr": "le rôle",
+      "en": "the role",
+      "uk": "роль"
+    },
+    {
+      "fr": "amoureux / amoureuse",
+      "en": "in love",
+      "uk": "закоханий / закохана"
+    },
+    {
+      "fr": "le choix",
+      "en": "the choice",
+      "uk": "вибір"
+    },
+    {
+      "fr": "l'art (m.)",
+      "en": "the art",
+      "uk": "мистецтво"
+    },
+    {
+      "fr": "le morceau",
+      "en": "the piece / the bit",
+      "uk": "шматок"
+    },
+    {
+      "fr": "le cousin / la cousine",
+      "en": "the cousin",
+      "uk": "двоюрідний брат / двоюрідна сестра"
+    },
+    {
+      "fr": "le professeur / la professeure",
+      "en": "the teacher / the professor",
+      "uk": "вчитель / вчителька, викладач"
+    },
+    {
+      "fr": "super",
+      "en": "great / super",
+      "uk": "чудово, супер"
+    },
+    {
+      "fr": "diriger",
+      "en": "to direct / to lead",
+      "uk": "керувати / спрямовувати"
+    },
+    {
+      "fr": "la surprise",
+      "en": "the surprise",
+      "uk": "сюрприз, несподіванка"
+    },
+    {
+      "fr": "observer",
+      "en": "to observe / to watch",
+      "uk": "спостерігати"
+    },
+    {
+      "fr": "profiter",
+      "en": "to take advantage (of) / to enjoy",
+      "uk": "скористатися / насолоджуватися"
+    },
+    {
+      "fr": "la campagne",
+      "en": "the countryside / the campaign",
+      "uk": "село, сільська місцевість / кампанія"
+    },
+    {
+      "fr": "partager",
+      "en": "to share",
+      "uk": "ділитися"
+    },
+    {
+      "fr": "la glace",
+      "en": "the ice / the ice cream / the mirror",
+      "uk": "лід / морозиво / дзеркало"
+    },
+    {
+      "fr": "l'île d'Orléans (f.)",
+      "en": "an island in the St. Lawrence near Québec City, known for its farms",
+      "uk": "острів Орлеан на річці Святого Лаврентія біля Квебека, відомий фермами"
+    },
+    {
+      "fr": "la chorale",
+      "en": "the choir",
+      "uk": "хор"
+    },
+    {
+      "fr": "les noces d'or (f.)",
+      "en": "the golden wedding anniversary (50 years)",
+      "uk": "золоте весілля (50 років)"
+    }
+  ]
+}

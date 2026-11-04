@@ -1,0 +1,350 @@
+{
+  "title": {
+    "en": "A walk in Old Québec (list a1-12)",
+    "uk": "Прогулянка Старим Квебеком (список a1-12)"
+  },
+  "situation": {
+    "en": "You hear a guide, Hélène, showing Old Québec to a tourist, Daniel.",
+    "uk": "Ви чуєте, як гідеса Елен показує Старий Квебек туристові Даніелю."
+  },
+  "lines": [
+    {
+      "speaker": "Hélène",
+      "fr": "Bienvenue dans le Vieux-Québec! Regardez cette ancienne maison : à l'époque, c'est une prison.",
+      "en": "Welcome to Old Québec! Look at this old house: back then, it's a prison.",
+      "uk": "Ласкаво просимо до Старого Квебека! Подивіться на цей старий будинок: колись тут була в'язниця."
+    },
+    {
+      "speaker": "Daniel",
+      "fr": "Pardon, une prison? Elle a l'air tellement tranquille!",
+      "en": "Sorry, a prison? It looks so peaceful!",
+      "uk": "Перепрошую, в'язниця? Він виглядає таким спокійним!"
+    },
+    {
+      "speaker": "Hélène",
+      "fr": "Aujourd'hui, c'est un musée. Remarquez les petites fenêtres. C'est triste, non?",
+      "en": "Today it's a museum. Notice the little windows. It's sad, isn't it?",
+      "uk": "Сьогодні це музей. Зверніть увагу на маленькі віконця. Сумно, правда?"
+    },
+    {
+      "speaker": "Daniel",
+      "fr": "Oh, il y a un chat dans la cour!",
+      "en": "Oh, there's a cat in the courtyard!",
+      "uk": "О, у дворі кіт!"
+    },
+    {
+      "speaker": "Hélène",
+      "fr": "C'est Pompon, le chat du musée. Il est né ici, dans une boîte, dans la cuisine du café d'à côté.",
+      "en": "That's Pompon, the museum cat. He was born here, in a box, in the kitchen of the café next door.",
+      "uk": "Це Помпон, музейний кіт. Він народився тут, у коробці, на кухні сусідньої кав'ярні."
+    },
+    {
+      "speaker": "Daniel",
+      "fr": "Il a l'air doux.",
+      "en": "He looks soft.",
+      "uk": "Здається, він м'якенький."
+    },
+    {
+      "speaker": "Hélène",
+      "fr": "Très doux. Et voici l'église Notre-Dame. Oh! Soudain, les cloches sonnent!",
+      "en": "Very soft. And here's Notre-Dame church. Oh! Suddenly the bells are ringing!",
+      "uk": "Дуже. А ось церква Нотр-Дам. О! Раптом задзвонили дзвони!"
+    },
+    {
+      "speaker": "Daniel",
+      "fr": "C'est un mariage? Les gens dansent devant l'église!",
+      "en": "Is it a wedding? People are dancing in front of the church!",
+      "uk": "Це весілля? Люди танцюють перед церквою!"
+    },
+    {
+      "speaker": "Hélène",
+      "fr": "Oui, quelle joie! C'est un honneur de se marier ici.",
+      "en": "Yes, what joy! It's an honour to get married here.",
+      "uk": "Так, яка радість! Вінчатися тут — це честь."
+    },
+    {
+      "speaker": "Daniel",
+      "fr": "Maintenant, la place est presque vide. Où est-ce qu'ils vont?",
+      "en": "Now the square is almost empty. Where are they going?",
+      "uk": "Тепер площа майже порожня. Куди вони їдуть?"
+    },
+    {
+      "speaker": "Hélène",
+      "fr": "Ils roulent en calèche vers le Château Frontenac.",
+      "en": "They're riding in a horse-drawn carriage towards the Château Frontenac.",
+      "uk": "Вони їдуть в екіпажі до Шато Фронтенак."
+    },
+    {
+      "speaker": "Daniel",
+      "fr": "Une ville à taille humaine, j'adore. Je réfléchis… Je veux m'installer ici!",
+      "en": "A human-scale city, I love it. I'm thinking… I want to settle here!",
+      "uk": "Невелике затишне місто, я в захваті. Я ось думаю… Я хочу тут оселитися!"
+    },
+    {
+      "speaker": "Hélène",
+      "fr": "Ha! Et votre avion, alors?",
+      "en": "Ha! And what about your plane?",
+      "uk": "Ха! А як же ваш літак?"
+    },
+    {
+      "speaker": "Daniel",
+      "fr": "Il part demain. Mais de toute manière, je reviens l'été prochain!",
+      "en": "It leaves tomorrow. But anyway, I'm coming back next summer!",
+      "uk": "Він вилітає завтра. Але так чи інакше я повернуся наступного літа!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What was the old house in the past?",
+        "uk": "Чим колись був старий будинок?"
+      },
+      "options": [
+        {
+          "en": "A prison",
+          "uk": "В'язницею"
+        },
+        {
+          "en": "A church",
+          "uk": "Церквою"
+        },
+        {
+          "en": "A café",
+          "uk": "Кав'ярнею"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Where is the cat?",
+        "uk": "Де кіт?"
+      },
+      "options": [
+        {
+          "en": "In the kitchen",
+          "uk": "На кухні"
+        },
+        {
+          "en": "In the courtyard",
+          "uk": "У дворі"
+        },
+        {
+          "en": "In a box",
+          "uk": "У коробці"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Where was the cat born?",
+        "uk": "Де народився кіт?"
+      },
+      "options": [
+        {
+          "en": "In the museum",
+          "uk": "У музеї"
+        },
+        {
+          "en": "In the church",
+          "uk": "У церкві"
+        },
+        {
+          "en": "In a box in the café's kitchen",
+          "uk": "У коробці на кухні кав'ярні"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What is happening at the church?",
+        "uk": "Що відбувається біля церкви?"
+      },
+      "options": [
+        {
+          "en": "A wedding",
+          "uk": "Весілля"
+        },
+        {
+          "en": "A concert",
+          "uk": "Концерт"
+        },
+        {
+          "en": "A market",
+          "uk": "Ярмарок"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "When will Daniel come back?",
+        "uk": "Коли Даніель повернеться?"
+      },
+      "options": [
+        {
+          "en": "Tomorrow",
+          "uk": "Завтра"
+        },
+        {
+          "en": "Next summer",
+          "uk": "Наступного літа"
+        },
+        {
+          "en": "Next winter",
+          "uk": "Наступної зими"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "naître",
+      "en": "to be born",
+      "uk": "народжуватися"
+    },
+    {
+      "fr": "doux / douce",
+      "en": "soft / gentle / sweet",
+      "uk": "м'який / м'яка, ніжний, солодкий"
+    },
+    {
+      "fr": "installer",
+      "en": "to install (s'installer = to settle in)",
+      "uk": "встановлювати (s'installer = облаштовуватися)"
+    },
+    {
+      "fr": "la manière",
+      "en": "the manner / the way",
+      "uk": "манера, спосіб"
+    },
+    {
+      "fr": "danser",
+      "en": "to dance",
+      "uk": "танцювати"
+    },
+    {
+      "fr": "soudain",
+      "en": "suddenly",
+      "uk": "раптом"
+    },
+    {
+      "fr": "l'honneur (m.)",
+      "en": "the honour",
+      "uk": "честь"
+    },
+    {
+      "fr": "ancien / ancienne",
+      "en": "old / former",
+      "uk": "старовинний / колишній"
+    },
+    {
+      "fr": "pardon",
+      "en": "sorry / excuse me",
+      "uk": "вибачте / перепрошую"
+    },
+    {
+      "fr": "la joie",
+      "en": "the joy",
+      "uk": "радість"
+    },
+    {
+      "fr": "rouler",
+      "en": "to roll / to drive",
+      "uk": "котити(ся) / їхати"
+    },
+    {
+      "fr": "le chat",
+      "en": "the cat",
+      "uk": "кіт"
+    },
+    {
+      "fr": "la cuisine",
+      "en": "the kitchen / the cooking",
+      "uk": "кухня / кулінарія"
+    },
+    {
+      "fr": "la boîte",
+      "en": "the box / the club (nightclub)",
+      "uk": "коробка / клуб (нічний)"
+    },
+    {
+      "fr": "remarquer",
+      "en": "to notice",
+      "uk": "помічати"
+    },
+    {
+      "fr": "la cour",
+      "en": "the yard / the courtyard / the court",
+      "uk": "двір / суд"
+    },
+    {
+      "fr": "la prison",
+      "en": "the prison",
+      "uk": "в'язниця"
+    },
+    {
+      "fr": "humain / humaine",
+      "en": "human",
+      "uk": "людський / людська"
+    },
+    {
+      "fr": "tranquille",
+      "en": "calm / quiet",
+      "uk": "спокійний, тихий"
+    },
+    {
+      "fr": "l'église (f.)",
+      "en": "the church",
+      "uk": "церква"
+    },
+    {
+      "fr": "triste",
+      "en": "sad",
+      "uk": "сумний"
+    },
+    {
+      "fr": "vide",
+      "en": "empty",
+      "uk": "порожній"
+    },
+    {
+      "fr": "l'époque (f.)",
+      "en": "the era / the time (à l'époque = back then)",
+      "uk": "епоха / час (à l'époque = тоді)"
+    },
+    {
+      "fr": "l'avion (m.)",
+      "en": "the plane",
+      "uk": "літак"
+    },
+    {
+      "fr": "réfléchir",
+      "en": "to think (about) / to reflect",
+      "uk": "обмірковувати, думати"
+    },
+    {
+      "fr": "la calèche",
+      "en": "the horse-drawn carriage",
+      "uk": "кінний екіпаж"
+    },
+    {
+      "fr": "à taille humaine",
+      "en": "human-scale, not too big",
+      "uk": "невеликий, «людського масштабу»"
+    },
+    {
+      "fr": "de toute manière",
+      "en": "anyway",
+      "uk": "так чи інакше"
+    },
+    {
+      "fr": "la cloche",
+      "en": "the bell",
+      "uk": "дзвін"
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "title": {
+    "en": "Visiting Grandpa at the hospital (list a1-13)",
+    "uk": "Відвідини дідуся в лікарні (список a1-13)"
+  },
+  "situation": {
+    "en": "You hear Emma visiting her grandfather Roger at the hospital.",
+    "uk": "Ви чуєте, як Емма відвідує свого дідуся Роже в лікарні."
+  },
+  "lines": [
+    {
+      "speaker": "Emma",
+      "fr": "Bonjour, grand-papa! C'est l'heure de la visite.",
+      "en": "Hi, Grandpa! It's visiting time.",
+      "uk": "Привіт, дідусю! Час відвідин."
+    },
+    {
+      "speaker": "Roger",
+      "fr": "Emma! Enfin un visage normal. Ici, tout est bizarre!",
+      "en": "Emma! A normal face at last. Everything is strange here!",
+      "uk": "Еммо! Нарешті нормальне обличчя. Тут усе таке дивне!"
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Comment va ton genou?",
+      "en": "How's your knee?",
+      "uk": "Як твоє коліно?"
+    },
+    {
+      "speaker": "Roger",
+      "fr": "Le médecin dit que c'est sérieux. Il veut retirer un petit morceau d'os.",
+      "en": "The doctor says it's serious. He wants to take out a little piece of bone.",
+      "uk": "Лікар каже, що це серйозно. Він хоче видалити маленький шматочок кістки."
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Oh non! Mets ton genou sur l'oreiller, pour le protéger.",
+      "en": "Oh no! Put your knee on the pillow, to protect it.",
+      "uk": "Ой, ні! Поклади коліно на подушку, щоб його вберегти."
+    },
+    {
+      "speaker": "Roger",
+      "fr": "Oui, oui. Je dois me reposer et marcher lentement.",
+      "en": "Yes, yes. I have to rest and walk slowly.",
+      "uk": "Так, так. Мені треба відпочивати й ходити повільно."
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Et tu ne fumes plus? Le médecin déteste ça!",
+      "en": "And you don't smoke anymore? The doctor hates that!",
+      "uk": "А ти більше не куриш? Лікар цього терпіти не може!"
+    },
+    {
+      "speaker": "Roger",
+      "fr": "Non! Je ne fume plus depuis un siècle!",
+      "en": "No! I haven't smoked for a century!",
+      "uk": "Ні! Я не курю вже ціле століття!"
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Et la nourriture, à l'hôpital?",
+      "en": "And the food, at the hospital?",
+      "uk": "А як їжа в лікарні?"
+    },
+    {
+      "speaker": "Roger",
+      "fr": "Avec mes fausses dents? Je mange seulement de la soupe.",
+      "en": "With my false teeth? I only eat soup.",
+      "uk": "З моїми вставними зубами? Я їм тільки суп."
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Regarde, un oiseau apparaît à ta fenêtre!",
+      "en": "Look, a bird is appearing at your window!",
+      "uk": "Дивись, у твоєму вікні з'явилася пташка!"
+    },
+    {
+      "speaker": "Roger",
+      "fr": "Il vient chaque matin. Je lui donne du pain, et aussitôt, il chante. C'est mon prince!",
+      "en": "He comes every morning. I give him bread, and right away he sings. He's my prince!",
+      "uk": "Вона прилітає щоранку. Я даю їй хліба, і вона одразу співає. Це мій принц!"
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Tu parles aux oiseaux, maintenant?",
+      "en": "You talk to birds now?",
+      "uk": "Ти тепер розмовляєш із пташками?"
+    },
+    {
+      "speaker": "Roger",
+      "fr": "Oui, dans ma langue : le français du passé!",
+      "en": "Yes, in my language: the French of the past!",
+      "uk": "Так, моєю мовою — французькою минулих часів!"
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Ha! Ma classe t'envoie une carte. Et ton départ, c'est quand?",
+      "en": "Ha! My class is sending you a card. And when do you leave?",
+      "uk": "Ха! Мій клас передає тобі листівку. А коли тебе виписують?"
+    },
+    {
+      "speaker": "Roger",
+      "fr": "Vendredi, si tout va bien. Je n'ai pas d'autre moyen : je dois être patient. Je rêve de liberté!",
+      "en": "Friday, if all goes well. I have no other way: I have to be patient. I dream of freedom!",
+      "uk": "У п'ятницю, якщо все буде добре. Іншого виходу немає: треба бути терплячим. Мрію про свободу!"
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Est-ce qu'il y a un passage pour aller au jardin de l'hôpital?",
+      "en": "Is there a way through to the hospital garden?",
+      "uk": "Тут є прохід до лікарняного саду?"
+    },
+    {
+      "speaker": "Roger",
+      "fr": "Au bout du couloir. Mais avec mon genou, c'est à un million de kilomètres!",
+      "en": "At the end of the hallway. But with my knee, it's a million kilometres away!",
+      "uk": "У кінці коридору. Але з моїм коліном це за мільйон кілометрів!"
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Oh! C'est quoi, ce cri?",
+      "en": "Oh! What's that scream?",
+      "uk": "Ой! Що це за крик?"
+    },
+    {
+      "speaker": "Roger",
+      "fr": "C'est mon voisin de chambre. Il crie chaque fois que l'infirmière arrive. C'est une erreur de mettre deux vieux dans la même chambre!",
+      "en": "It's my roommate. He shouts every time the nurse comes. It's a mistake to put two old men in the same room!",
+      "uk": "Це мій сусід по палаті. Він кричить щоразу, коли приходить медсестра. Класти двох дідів в одну палату — це помилка!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is wrong with Roger?",
+        "uk": "Що з Роже?"
+      },
+      "options": [
+        {
+          "en": "His knee",
+          "uk": "Коліно"
+        },
+        {
+          "en": "His teeth",
+          "uk": "Зуби"
+        },
+        {
+          "en": "His back",
+          "uk": "Спина"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What does Roger have to do?",
+        "uk": "Що має робити Роже?"
+      },
+      "options": [
+        {
+          "en": "Walk in the garden every day",
+          "uk": "Щодня гуляти в саду"
+        },
+        {
+          "en": "Rest and walk slowly",
+          "uk": "Відпочивати й ходити повільно"
+        },
+        {
+          "en": "Stay in bed all day",
+          "uk": "Увесь день лежати в ліжку"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Why does he only eat soup?",
+        "uk": "Чому він їсть тільки суп?"
+      },
+      "options": [
+        {
+          "en": "The doctor says so",
+          "uk": "Так каже лікар"
+        },
+        {
+          "en": "He loves soup",
+          "uk": "Він любить суп"
+        },
+        {
+          "en": "Because of his false teeth",
+          "uk": "Через вставні зуби"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What does Roger give the bird?",
+        "uk": "Що Роже дає пташці?"
+      },
+      "options": [
+        {
+          "en": "Bread",
+          "uk": "Хліб"
+        },
+        {
+          "en": "Soup",
+          "uk": "Суп"
+        },
+        {
+          "en": "Seeds",
+          "uk": "Насіння"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "When can Roger leave the hospital?",
+        "uk": "Коли Роже зможе піти з лікарні?"
+      },
+      "options": [
+        {
+          "en": "Tomorrow",
+          "uk": "Завтра"
+        },
+        {
+          "en": "On Friday, if all goes well",
+          "uk": "У п'ятницю, якщо все буде добре"
+        },
+        {
+          "en": "Next week",
+          "uk": "Наступного тижня"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "aussitôt",
+      "en": "immediately / as soon as",
+      "uk": "одразу / щойно"
+    },
+    {
+      "fr": "apparaître",
+      "en": "to appear",
+      "uk": "з'являтися"
+    },
+    {
+      "fr": "protéger",
+      "en": "to protect",
+      "uk": "захищати"
+    },
+    {
+      "fr": "le cri",
+      "en": "the scream / the cry",
+      "uk": "крик"
+    },
+    {
+      "fr": "le prince / la princesse",
+      "en": "the prince / the princess",
+      "uk": "принц / принцеса"
+    },
+    {
+      "fr": "la dent",
+      "en": "the tooth",
+      "uk": "зуб"
+    },
+    {
+      "fr": "la visite",
+      "en": "the visit",
+      "uk": "візит, відвідини"
+    },
+    {
+      "fr": "le passage",
+      "en": "the passage / the way through",
+      "uk": "прохід / уривок"
+    },
+    {
+      "fr": "la langue",
+      "en": "the tongue / the language",
+      "uk": "язик / мова"
+    },
+    {
+      "fr": "le départ",
+      "en": "the departure",
+      "uk": "від'їзд"
+    },
+    {
+      "fr": "l'oiseau (m.)",
+      "en": "the bird",
+      "uk": "птах"
+    },
+    {
+      "fr": "le moyen",
+      "en": "the means / the way (au moyen de = by means of)",
+      "uk": "засіб, спосіб (au moyen de = за допомогою)"
+    },
+    {
+      "fr": "normal / normale",
+      "en": "normal",
+      "uk": "нормальний / нормальна"
+    },
+    {
+      "fr": "l'hôpital (m.)",
+      "en": "the hospital",
+      "uk": "лікарня"
+    },
+    {
+      "fr": "la classe",
+      "en": "the class / the classroom",
+      "uk": "клас / класна кімната"
+    },
+    {
+      "fr": "détester",
+      "en": "to hate",
+      "uk": "ненавидіти"
+    },
+    {
+      "fr": "bizarre",
+      "en": "strange / weird",
+      "uk": "дивний"
+    },
+    {
+      "fr": "lentement",
+      "en": "slowly",
+      "uk": "повільно"
+    },
+    {
+      "fr": "fumer",
+      "en": "to smoke",
+      "uk": "курити"
+    },
+    {
+      "fr": "le genou",
+      "en": "the knee",
+      "uk": "коліно"
+    },
+    {
+      "fr": "reposer",
+      "en": "to put back (se reposer = to rest)",
+      "uk": "класти назад (se reposer = відпочивати)"
+    },
+    {
+      "fr": "le million",
+      "en": "the million",
+      "uk": "мільйон"
+    },
+    {
+      "fr": "le siècle",
+      "en": "the century",
+      "uk": "століття"
+    },
+    {
+      "fr": "retirer",
+      "en": "to take off / to withdraw",
+      "uk": "знімати / виводити, знімати (гроші)"
+    },
+    {
+      "fr": "le passé",
+      "en": "the past",
+      "uk": "минуле"
+    },
+    {
+      "fr": "la liberté",
+      "en": "the freedom",
+      "uk": "свобода"
+    },
+    {
+      "fr": "sérieux / sérieuse",
+      "en": "serious",
+      "uk": "серйозний / серйозна"
+    },
+    {
+      "fr": "l'erreur (f.)",
+      "en": "the mistake",
+      "uk": "помилка"
+    },
+    {
+      "fr": "l'infirmière (f.)",
+      "en": "the nurse",
+      "uk": "медсестра"
+    },
+    {
+      "fr": "le couloir",
+      "en": "the hallway",
+      "uk": "коридор"
+    },
+    {
+      "fr": "les fausses dents (f.)",
+      "en": "false teeth",
+      "uk": "вставні зуби"
+    },
+    {
+      "fr": "l'oreiller (m.)",
+      "en": "the pillow",
+      "uk": "подушка"
+    }
+  ]
+}
