@@ -1,0 +1,387 @@
+{
+  "title": {
+    "en": "Planning a surprise (list a1-08)",
+    "uk": "Готуємо сюрприз (список a1-08)"
+  },
+  "situation": {
+    "en": "You hear Sophie and her friend Max on the phone, planning a surprise party for Sophie's husband.",
+    "uk": "Ви чуєте телефонну розмову Софі та її друга Макса: вони готують вечірку-сюрприз для чоловіка Софі."
+  },
+  "lines": [
+    {
+      "speaker": "Max",
+      "fr": "Allô Sophie! Tu es prête pour ce soir?",
+      "en": "Hello Sophie! Are you ready for tonight?",
+      "uk": "Алло, Софі! Ти готова до вечора?"
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Presque! Mon mari ne sait rien. Il joue une partie de hockey jusqu'à neuf heures.",
+      "en": "Almost! My husband doesn't know a thing. He's playing a hockey game until nine.",
+      "uk": "Майже! Мій чоловік нічого не знає. Він грає матч із хокею до дев'ятої."
+    },
+    {
+      "speaker": "Max",
+      "fr": "Parfait. On se cache dans quelle pièce?",
+      "en": "Perfect. Which room do we hide in?",
+      "uk": "Чудово. У якій кімнаті ми сховаємося?"
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Dans le salon. Quand il entre, silence complet, puis tout le monde crie « Surprise! »",
+      "en": "In the living room. When he comes in, total silence, then everyone shouts “Surprise!”",
+      "uk": "У вітальні. Коли він увійде — повна тиша, а тоді всі кричать: «Сюрприз!»"
+    },
+    {
+      "speaker": "Max",
+      "fr": "Et qu'est-ce que tu lui offres?",
+      "en": "And what are you giving him?",
+      "uk": "А що ти йому даруєш?"
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Un nouveau vélo. Il en parle souvent. J'espère qu'il va être heureux!",
+      "en": "A new bike. He often talks about it. I hope he'll be happy!",
+      "uk": "Новий велосипед. Він часто про нього говорить. Сподіваюся, він буде щасливий!"
+    },
+    {
+      "speaker": "Max",
+      "fr": "Il va l'adorer, j'imagine. Moi, j'achète du vin et des verres.",
+      "en": "He'll love it, I imagine. I'm buying wine and glasses.",
+      "uk": "Думаю, він буде в захваті. А я куплю вино й келихи."
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Merci! Avec plaisir.",
+      "en": "Thanks! With pleasure.",
+      "uk": "Дякую! Із задоволенням."
+    },
+    {
+      "speaker": "Max",
+      "fr": "Et ton chien? Il va faire du bruit!",
+      "en": "And your dog? He'll make noise!",
+      "uk": "А твій пес? Він же шумітиме!"
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Il reste chez ma voisine, en face. Le reste de la famille arrive à huit heures.",
+      "en": "He's staying at my neighbour's, across the street. The rest of the family arrives at eight.",
+      "uk": "Він побуде в сусідки навпроти. Решта родини приходить о восьмій."
+    },
+    {
+      "speaker": "Max",
+      "fr": "Et Julien, le mec de ta sœur, il vient? J'ai hâte de le rencontrer.",
+      "en": "And Julien, your sister's boyfriend, is he coming? I can't wait to meet him.",
+      "uk": "А Жульєн, хлопець твоєї сестри, прийде? Мені не терпиться з ним познайомитися."
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Oui! Et je reçois une lettre de ses parents, en France. Ils ne peuvent pas venir.",
+      "en": "Yes! And I'm getting a letter from his parents, in France. They can't come.",
+      "uk": "Так! А ще мені надійшов лист від його батьків із Франції. Вони не можуть приїхати."
+    },
+    {
+      "speaker": "Max",
+      "fr": "Ses parents lui manquent beaucoup, non?",
+      "en": "He misses his parents a lot, doesn't he?",
+      "uk": "Він дуже сумує за батьками, правда?"
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Oui. Je décide de mettre la lettre au mur, avec des photos d'eux ensemble.",
+      "en": "Yes. I've decided to put the letter on the wall, with photos of them together.",
+      "uk": "Так. Я вирішила повісити лист на стіну разом із їхніми спільними фото."
+    },
+    {
+      "speaker": "Max",
+      "fr": "Bonne idée. Explique-moi l'ordre de la soirée.",
+      "en": "Good idea. Explain the order of the evening to me.",
+      "uk": "Гарна ідея. Поясни мені, як буде проходити вечір."
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "D'abord la surprise, puis le souper, et le gâteau à la fin. Oh, mon cœur bat déjà très vite! Et je dois encore me laver les cheveux!",
+      "en": "First the surprise, then supper, and the cake at the end. Oh, my heart is already beating very fast! And I still have to wash my hair!",
+      "uk": "Спершу сюрприз, потім вечеря, а наприкінці торт. Ох, моє серце вже б'ється дуже швидко! А мені ще треба помити голову!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Where is Sophie's husband right now?",
+        "uk": "Де зараз чоловік Софі?"
+      },
+      "options": [
+        {
+          "en": "At work",
+          "uk": "На роботі"
+        },
+        {
+          "en": "Playing a hockey game",
+          "uk": "Грає матч із хокею"
+        },
+        {
+          "en": "At his parents' place",
+          "uk": "У своїх батьків"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What is Sophie giving him?",
+        "uk": "Що Софі йому дарує?"
+      },
+      "options": [
+        {
+          "en": "A new bike",
+          "uk": "Новий велосипед"
+        },
+        {
+          "en": "Wine and glasses",
+          "uk": "Вино й келихи"
+        },
+        {
+          "en": "A trip to France",
+          "uk": "Подорож до Франції"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What is Max bringing?",
+        "uk": "Що принесе Макс?"
+      },
+      "options": [
+        {
+          "en": "The cake",
+          "uk": "Торт"
+        },
+        {
+          "en": "Photos",
+          "uk": "Фотографії"
+        },
+        {
+          "en": "Wine and glasses",
+          "uk": "Вино й келихи"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Where will the dog be?",
+        "uk": "Де буде пес?"
+      },
+      "options": [
+        {
+          "en": "At the neighbour's across the street",
+          "uk": "У сусідки навпроти"
+        },
+        {
+          "en": "In the bedroom",
+          "uk": "У спальні"
+        },
+        {
+          "en": "At Max's place",
+          "uk": "У Макса"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What will Sophie put on the wall?",
+        "uk": "Що Софі повісить на стіну?"
+      },
+      "options": [
+        {
+          "en": "A big banner",
+          "uk": "Великий плакат"
+        },
+        {
+          "en": "The parents' letter with photos",
+          "uk": "Лист від батьків разом із фото"
+        },
+        {
+          "en": "Hockey photos",
+          "uk": "Хокейні фото"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'ordre (m.)",
+      "en": "the order",
+      "uk": "порядок / наказ"
+    },
+    {
+      "fr": "manquer",
+      "en": "to miss / to lack",
+      "uk": "пропускати, сумувати / бракувати"
+    },
+    {
+      "fr": "acheter",
+      "en": "to buy",
+      "uk": "купувати"
+    },
+    {
+      "fr": "heureux / heureuse",
+      "en": "happy",
+      "uk": "щасливий / щаслива"
+    },
+    {
+      "fr": "espérer",
+      "en": "to hope",
+      "uk": "сподіватися"
+    },
+    {
+      "fr": "prêt / prête",
+      "en": "ready",
+      "uk": "готовий / готова"
+    },
+    {
+      "fr": "imaginer",
+      "en": "to imagine",
+      "uk": "уявляти"
+    },
+    {
+      "fr": "expliquer",
+      "en": "to explain",
+      "uk": "пояснювати"
+    },
+    {
+      "fr": "merci",
+      "en": "thank you",
+      "uk": "дякую"
+    },
+    {
+      "fr": "le silence",
+      "en": "the silence",
+      "uk": "тиша"
+    },
+    {
+      "fr": "rencontrer",
+      "en": "to meet",
+      "uk": "зустрічати"
+    },
+    {
+      "fr": "la pièce",
+      "en": "the room / the coin / the play (theatre)",
+      "uk": "кімната / монета / п'єса"
+    },
+    {
+      "fr": "souvent",
+      "en": "often",
+      "uk": "часто"
+    },
+    {
+      "fr": "décider",
+      "en": "to decide",
+      "uk": "вирішувати"
+    },
+    {
+      "fr": "le plaisir",
+      "en": "the pleasure (avec plaisir = with pleasure)",
+      "uk": "задоволення (avec plaisir = із задоволенням)"
+    },
+    {
+      "fr": "recevoir",
+      "en": "to receive",
+      "uk": "отримувати"
+    },
+    {
+      "fr": "la lettre",
+      "en": "the letter",
+      "uk": "лист / літера"
+    },
+    {
+      "fr": "le chien / la chienne",
+      "en": "the dog",
+      "uk": "собака / сука"
+    },
+    {
+      "fr": "le mur",
+      "en": "the wall",
+      "uk": "стіна"
+    },
+    {
+      "fr": "le verre",
+      "en": "the glass",
+      "uk": "склянка / скло"
+    },
+    {
+      "fr": "la partie",
+      "en": "the part / the game (match)",
+      "uk": "частина / гра, матч"
+    },
+    {
+      "fr": "ensemble",
+      "en": "together",
+      "uk": "разом"
+    },
+    {
+      "fr": "le mec",
+      "en": "the guy (slang)",
+      "uk": "хлопець, тип (сленг)"
+    },
+    {
+      "fr": "la face",
+      "en": "the face / the side (en face de = opposite)",
+      "uk": "обличчя / бік (en face de = навпроти)"
+    },
+    {
+      "fr": "nouveau / nouvelle",
+      "en": "new",
+      "uk": "новий / нова"
+    },
+    {
+      "fr": "les cheveux",
+      "en": "the hair",
+      "uk": "волосся"
+    },
+    {
+      "fr": "offrir",
+      "en": "to offer / to give (a gift)",
+      "uk": "пропонувати / дарувати"
+    },
+    {
+      "fr": "le mari",
+      "en": "the husband",
+      "uk": "чоловік (у шлюбі)"
+    },
+    {
+      "fr": "cacher",
+      "en": "to hide",
+      "uk": "ховати"
+    },
+    {
+      "fr": "le reste",
+      "en": "the rest",
+      "uk": "решта"
+    },
+    {
+      "fr": "battre",
+      "en": "to beat (se battre = to fight)",
+      "uk": "бити (se battre = битися)"
+    },
+    {
+      "fr": "le souper",
+      "en": "supper, dinner (Québec)",
+      "uk": "вечеря (у Квебеку)"
+    },
+    {
+      "fr": "le vélo",
+      "en": "the bike",
+      "uk": "велосипед"
+    },
+    {
+      "fr": "en face",
+      "en": "across the street, opposite",
+      "uk": "навпроти"
+    }
+  ]
+}

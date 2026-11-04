@@ -1,0 +1,377 @@
+{
+  "title": {
+    "en": "Big news at the bookshop café (list a1-07)",
+    "uk": "Велика новина в кафе-книгарні (список a1-07)"
+  },
+  "situation": {
+    "en": "You hear two friends, Julie and Mathieu, talking in a bookshop café.",
+    "uk": "Ви чуєте розмову двох друзів, Жулі і Матьє, у кафе при книгарні."
+  },
+  "lines": [
+    {
+      "speaker": "Julie",
+      "fr": "Eh, Mathieu! Qu'est-ce que tu lis?",
+      "en": "Hey, Mathieu! What are you reading?",
+      "uk": "Гей, Матьє! Що читаєш?"
+    },
+    {
+      "speaker": "Mathieu",
+      "fr": "Un livre sur la guerre. Il raconte l'histoire d'un garçon de douze ans.",
+      "en": "A book about the war. It tells the story of a twelve-year-old boy.",
+      "uk": "Книжку про війну. Вона розповідає історію дванадцятирічного хлопчика."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Ça a l'air triste. Moi, j'ai plutôt envie de rire!",
+      "en": "That sounds sad. Me, I'd rather feel like laughing!",
+      "uk": "Звучить сумно. А мені радше хочеться сміятися!"
+    },
+    {
+      "speaker": "Mathieu",
+      "fr": "Pourtant, il est très beau. Et toi, ta semaine?",
+      "en": "And yet it's very beautiful. And you, how's your week?",
+      "uk": "А проте вона дуже гарна. А як твій тиждень?"
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Ma semaine est folle! Je viens de gagner un voyage au soleil!",
+      "en": "My week is crazy! I've just won a trip to the sun!",
+      "uk": "Мій тиждень божевільний! Я щойно виграла подорож до теплих країв!"
+    },
+    {
+      "speaker": "Mathieu",
+      "fr": "Quelle chance! Où ça?",
+      "en": "How lucky! Where?",
+      "uk": "Оце пощастило! Куди?"
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Au Mexique, pour une semaine. Je pars demain! Je ne me souviens même pas de mes dernières vacances!",
+      "en": "To Mexico, for a week. I leave tomorrow! I don't even remember my last holiday!",
+      "uk": "До Мексики, на тиждень. Я їду завтра! Я навіть не пам'ятаю своєї останньої відпустки!"
+    },
+    {
+      "speaker": "Mathieu",
+      "fr": "Et ton chat? Qui va s'en occuper?",
+      "en": "And your cat? Who's going to take care of it?",
+      "uk": "А твій кіт? Хто ним опікуватиметься?"
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Ma voisine. C'est une personne très gentille. Et je reprends le travail le lundi suivant.",
+      "en": "My neighbour. She's a very kind person. And I go back to work the following Monday.",
+      "uk": "Сусідка. Вона дуже мила людина. А на роботу я повертаюся наступного понеділка."
+    },
+    {
+      "speaker": "Mathieu",
+      "fr": "Fais attention au soleil, avec ta peau blanche! Sinon, tu vas avoir mal partout.",
+      "en": "Be careful in the sun, with your white skin! Otherwise you'll hurt all over.",
+      "uk": "Обережно з сонцем, у тебе ж біла шкіра! Інакше в тебе все болітиме."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Oui, oui. Je peux prendre ton livre pour l'avion? Je vais le lire au lit, le soir.",
+      "en": "Yes, yes. Can I take your book for the plane? I'll read it in bed at night.",
+      "uk": "Так-так. Можна я візьму твою книжку в літак? Читатиму її ввечері в ліжку."
+    },
+    {
+      "speaker": "Mathieu",
+      "fr": "Oui, mais ne le jette pas après, et ne touche pas aux pages avec ta crème solaire!",
+      "en": "Yes, but don't throw it away afterwards, and don't touch the pages with your sunscreen!",
+      "uk": "Так, але потім не викидай її і не торкайся сторінок руками в сонцезахисному кремі!"
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Promis! Oh, le type à la table là-bas nous regarde. La librairie est pleine, il veut notre table.",
+      "en": "Promise! Oh, the guy at the table over there is looking at us. The bookshop is full, he wants our table.",
+      "uk": "Обіцяю! Ой, он той чоловік за столиком на нас дивиться. Книгарня переповнена, він хоче наш столик."
+    },
+    {
+      "speaker": "Mathieu",
+      "fr": "Alors, on part. Tu vas à la gare?",
+      "en": "So let's go. Are you going to the station?",
+      "uk": "Тоді ходімо. Ти на вокзал?"
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Oui. Je tourne à droite au feu?",
+      "en": "Yes. Do I turn right at the light?",
+      "uk": "Так. Мені повернути праворуч на світлофорі?"
+    },
+    {
+      "speaker": "Mathieu",
+      "fr": "Non, à gauche, puis tu fais le tour du parc. De cette façon, c'est plus court.",
+      "en": "No, left, then you go around the park. That way it's shorter.",
+      "uk": "Ні, ліворуч, а потім обійди парк. Так коротше."
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is Mathieu's book about?",
+        "uk": "Про що книжка Матьє?"
+      },
+      "options": [
+        {
+          "en": "A boy during a war",
+          "uk": "Про хлопчика під час війни"
+        },
+        {
+          "en": "A trip to Mexico",
+          "uk": "Про подорож до Мексики"
+        },
+        {
+          "en": "A crazy family",
+          "uk": "Про божевільну родину"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What has Julie just won?",
+        "uk": "Що щойно виграла Жулі?"
+      },
+      "options": [
+        {
+          "en": "A book",
+          "uk": "Книжку"
+        },
+        {
+          "en": "A car",
+          "uk": "Машину"
+        },
+        {
+          "en": "A trip to Mexico",
+          "uk": "Подорож до Мексики"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Who will take care of Julie's cat?",
+        "uk": "Хто опікуватиметься котом Жулі?"
+      },
+      "options": [
+        {
+          "en": "Her neighbour",
+          "uk": "Її сусідка"
+        },
+        {
+          "en": "Mathieu",
+          "uk": "Матьє"
+        },
+        {
+          "en": "Her mother",
+          "uk": "Її мама"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How does Julie get to the station?",
+        "uk": "Як Жулі дістатися до вокзалу?"
+      },
+      "options": [
+        {
+          "en": "Right at the light",
+          "uk": "Праворуч на світлофорі"
+        },
+        {
+          "en": "Left at the light, then around the park",
+          "uk": "Ліворуч на світлофорі, потім обійти парк"
+        },
+        {
+          "en": "Straight through the park",
+          "uk": "Прямо через парк"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What does Mathieu ask Julie not to do?",
+        "uk": "Про що Матьє просить Жулі?"
+      },
+      "options": [
+        {
+          "en": "To read his book on the plane",
+          "uk": "Не читати його книжку в літаку"
+        },
+        {
+          "en": "To forget her sunscreen",
+          "uk": "Не забути сонцезахисний крем"
+        },
+        {
+          "en": "To throw the book away or touch it with sunscreen",
+          "uk": "Не викидати книжку і не торкатися її руками в кремі"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "occuper",
+      "en": "to occupy (s'occuper de = to take care of)",
+      "uk": "займати (s'occuper de = піклуватися про)"
+    },
+    {
+      "fr": "tourner",
+      "en": "to turn",
+      "uk": "повертати, крутити"
+    },
+    {
+      "fr": "plein / pleine",
+      "en": "full",
+      "uk": "повний / повна"
+    },
+    {
+      "fr": "la guerre",
+      "en": "the war",
+      "uk": "війна"
+    },
+    {
+      "fr": "eh",
+      "en": "hey",
+      "uk": "гей"
+    },
+    {
+      "fr": "demain",
+      "en": "tomorrow",
+      "uk": "завтра"
+    },
+    {
+      "fr": "blanc / blanche",
+      "en": "white",
+      "uk": "білий / біла"
+    },
+    {
+      "fr": "se souvenir (de)",
+      "en": "to remember",
+      "uk": "пам'ятати, згадувати"
+    },
+    {
+      "fr": "jeter",
+      "en": "to throw (away)",
+      "uk": "кидати / викидати"
+    },
+    {
+      "fr": "le lit",
+      "en": "the bed",
+      "uk": "ліжко"
+    },
+    {
+      "fr": "le mal",
+      "en": "the harm / the pain (avoir mal = to hurt)",
+      "uk": "зло / біль (avoir mal = боліти)"
+    },
+    {
+      "fr": "le type",
+      "en": "the type / the guy (slang)",
+      "uk": "тип / хлопець (сленг)"
+    },
+    {
+      "fr": "raconter",
+      "en": "to tell (a story)",
+      "uk": "розповідати"
+    },
+    {
+      "fr": "le garçon",
+      "en": "the boy",
+      "uk": "хлопчик"
+    },
+    {
+      "fr": "la façon",
+      "en": "the way / the manner",
+      "uk": "спосіб, манера"
+    },
+    {
+      "fr": "la personne",
+      "en": "the person (personne = nobody)",
+      "uk": "людина, особа (personne = ніхто)"
+    },
+    {
+      "fr": "le tour / la tour",
+      "en": "the turn / the tour (la tour = the tower)",
+      "uk": "оберт, черга / поїздка (la tour = вежа)"
+    },
+    {
+      "fr": "la table",
+      "en": "the table",
+      "uk": "стіл"
+    },
+    {
+      "fr": "la chance",
+      "en": "the luck / the chance",
+      "uk": "удача / шанс"
+    },
+    {
+      "fr": "fou / folle",
+      "en": "crazy",
+      "uk": "божевільний / божевільна"
+    },
+    {
+      "fr": "le livre",
+      "en": "the book (la livre = pound)",
+      "uk": "книжка (la livre = фунт)"
+    },
+    {
+      "fr": "gagner",
+      "en": "to win / to earn",
+      "uk": "вигравати / заробляти"
+    },
+    {
+      "fr": "l'envie (f.)",
+      "en": "the desire (avoir envie de = to feel like)",
+      "uk": "бажання (avoir envie de = хотіти)"
+    },
+    {
+      "fr": "pourtant",
+      "en": "yet / however",
+      "uk": "проте, однак"
+    },
+    {
+      "fr": "le feu",
+      "en": "the fire / the traffic light",
+      "uk": "вогонь / світлофор"
+    },
+    {
+      "fr": "reprendre",
+      "en": "to take back / to resume",
+      "uk": "забирати назад / відновлювати"
+    },
+    {
+      "fr": "rire",
+      "en": "to laugh",
+      "uk": "сміятися"
+    },
+    {
+      "fr": "toucher",
+      "en": "to touch",
+      "uk": "торкатися"
+    },
+    {
+      "fr": "le soleil",
+      "en": "the sun",
+      "uk": "сонце"
+    },
+    {
+      "fr": "venir de gagner",
+      "en": "to have just won",
+      "uk": "щойно виграти"
+    },
+    {
+      "fr": "la crème solaire",
+      "en": "the sunscreen",
+      "uk": "сонцезахисний крем"
+    },
+    {
+      "fr": "la tuque",
+      "en": "the winter hat, toque (Québec)",
+      "uk": "зимова шапка (у Квебеку)"
+    }
+  ]
+}

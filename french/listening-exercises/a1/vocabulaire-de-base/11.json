@@ -1,0 +1,351 @@
+{
+  "title": {
+    "en": "Calling about an apartment (list a1-06)",
+    "uk": "Дзвінок щодо квартири (список a1-06)"
+  },
+  "situation": {
+    "en": "You hear Karim calling the owner of an apartment for rent in Montréal.",
+    "uk": "Ви чуєте, як Карім телефонує власникові квартири, яку здають у Монреалі."
+  },
+  "lines": [
+    {
+      "speaker": "Karim",
+      "fr": "Bonjour, monsieur. J'appelle pour l'appartement sur la rue Saint-Denis.",
+      "en": "Hello, sir. I'm calling about the apartment on Saint-Denis Street.",
+      "uk": "Добрий день, пане. Я телефоную щодо квартири на вулиці Сен-Дені."
+    },
+    {
+      "speaker": "M. Bouchard",
+      "fr": "Bonjour! Oui, c'est un quatre et demie, au troisième étage. Il faut monter à pied : il n'y a pas d'ascenseur.",
+      "en": "Hello! Yes, it's a four-and-a-half, on the third floor. You have to walk up: there's no elevator.",
+      "uk": "Добрий день! Так, це «чотири з половиною» на третьому поверсі. Підніматися треба пішки: ліфта немає."
+    },
+    {
+      "speaker": "Karim",
+      "fr": "J'ai une question : il y a combien de chambres?",
+      "en": "I have a question: how many bedrooms are there?",
+      "uk": "У мене запитання: скільки там спалень?"
+    },
+    {
+      "speaker": "M. Bouchard",
+      "fr": "Deux chambres, un salon et une cuisine. Le loyer est de mille deux cents dollars par mois.",
+      "en": "Two bedrooms, a living room and a kitchen. The rent is twelve hundred dollars a month.",
+      "uk": "Дві спальні, вітальня і кухня. Оренда — тисяча двісті доларів на місяць."
+    },
+    {
+      "speaker": "Karim",
+      "fr": "Est-ce que le chauffage est compris? Je n'ai pas beaucoup d'argent.",
+      "en": "Is the heating included? I don't have a lot of money.",
+      "uk": "А опалення входить у вартість? У мене небагато грошей."
+    },
+    {
+      "speaker": "M. Bouchard",
+      "fr": "Oui, le chauffage est compris. Ce n'est pas un problème.",
+      "en": "Yes, the heating is included. That's not a problem.",
+      "uk": "Так, опалення входить. Це не проблема."
+    },
+    {
+      "speaker": "Karim",
+      "fr": "Parfait, car je travaille au centre-ville. Est-ce que c'est loin du métro?",
+      "en": "Perfect, because I work downtown. Is it far from the metro?",
+      "uk": "Чудово, бо я працюю в центрі. Це далеко від метро?"
+    },
+    {
+      "speaker": "M. Bouchard",
+      "fr": "Non, c'est à cinq minutes à pied.",
+      "en": "No, it's a five-minute walk.",
+      "uk": "Ні, п'ять хвилин пішки."
+    },
+    {
+      "speaker": "Karim",
+      "fr": "Et pour la voiture? Ma famille vient souvent me voir.",
+      "en": "And for a car? My family often comes to see me.",
+      "uk": "А як із машиною? Моя родина часто мене провідує."
+    },
+    {
+      "speaker": "M. Bouchard",
+      "fr": "Il y a seulement du stationnement dans la rue.",
+      "en": "There's only parking on the street.",
+      "uk": "Паркуватися можна тільки на вулиці."
+    },
+    {
+      "speaker": "Karim",
+      "fr": "D'accord. Je commence un nouveau travail cette année, alors c'est presque parfait.",
+      "en": "OK. I'm starting a new job this year, so it's almost perfect.",
+      "uk": "Гаразд. Цього року я починаю нову роботу, тож це майже ідеально."
+    },
+    {
+      "speaker": "M. Bouchard",
+      "fr": "Vous voulez voir l'appartement? Je peux vous le montrer demain matin.",
+      "en": "Do you want to see the apartment? I can show it to you tomorrow morning.",
+      "uk": "Хочете подивитися квартиру? Я можу показати її завтра вранці."
+    },
+    {
+      "speaker": "Karim",
+      "fr": "Le matin, je travaille. Plus tard, vers dix-huit heures?",
+      "en": "In the morning I work. Later, around six p.m.?",
+      "uk": "Зранку я працюю. Можна пізніше, близько вісімнадцятої?"
+    },
+    {
+      "speaker": "M. Bouchard",
+      "fr": "Oui, pas de problème. Vous pouvez poser toutes vos questions demain, et je vais y répondre.",
+      "en": "Yes, no problem. You can ask all your questions tomorrow, and I'll answer them.",
+      "uk": "Так, без проблем. Завтра можете поставити всі запитання, і я на них відповім."
+    },
+    {
+      "speaker": "Karim",
+      "fr": "Enfin un bel appartement en ville! Merci, bonne journée!",
+      "en": "At last a nice apartment in the city! Thank you, have a good day!",
+      "uk": "Нарешті гарна квартира в місті! Дякую, гарного дня!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Where is the apartment?",
+        "uk": "Де розташована квартира?"
+      },
+      "options": [
+        {
+          "en": "On Saint-Denis Street, on the third floor",
+          "uk": "На вулиці Сен-Дені, на третьому поверсі"
+        },
+        {
+          "en": "On Saint-Laurent Street, on the second floor",
+          "uk": "На вулиці Сен-Лоран, на другому поверсі"
+        },
+        {
+          "en": "On the ground floor, with an elevator",
+          "uk": "На першому поверсі, з ліфтом"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How many bedrooms does it have?",
+        "uk": "Скільки в ній спалень?"
+      },
+      "options": [
+        {
+          "en": "One",
+          "uk": "Одна"
+        },
+        {
+          "en": "Three",
+          "uk": "Три"
+        },
+        {
+          "en": "Two",
+          "uk": "Дві"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "How far is the metro?",
+        "uk": "Як далеко до метро?"
+      },
+      "options": [
+        {
+          "en": "Fifteen minutes on foot",
+          "uk": "П'ятнадцять хвилин пішки"
+        },
+        {
+          "en": "Five minutes on foot",
+          "uk": "П'ять хвилин пішки"
+        },
+        {
+          "en": "Five minutes by car",
+          "uk": "П'ять хвилин машиною"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Where can Karim's family park?",
+        "uk": "Де може паркуватися родина Каріма?"
+      },
+      "options": [
+        {
+          "en": "Only on the street",
+          "uk": "Тільки на вулиці"
+        },
+        {
+          "en": "In a garage",
+          "uk": "У гаражі"
+        },
+        {
+          "en": "Behind the building",
+          "uk": "За будинком"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "When will Karim see the apartment?",
+        "uk": "Коли Карім подивиться квартиру?"
+      },
+      "options": [
+        {
+          "en": "Tomorrow morning",
+          "uk": "Завтра вранці"
+        },
+        {
+          "en": "Tonight",
+          "uk": "Сьогодні ввечері"
+        },
+        {
+          "en": "Tomorrow around 6 p.m.",
+          "uk": "Завтра близько 18:00"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la question",
+      "en": "the question",
+      "uk": "питання, запитання"
+    },
+    {
+      "fr": "la rue",
+      "en": "the street",
+      "uk": "вулиця"
+    },
+    {
+      "fr": "répondre",
+      "en": "to answer",
+      "uk": "відповідати"
+    },
+    {
+      "fr": "la voiture",
+      "en": "the car",
+      "uk": "машина, автомобіль"
+    },
+    {
+      "fr": "l'argent (m.)",
+      "en": "the money / silver",
+      "uk": "гроші / срібло"
+    },
+    {
+      "fr": "car",
+      "en": "because / for",
+      "uk": "бо, адже"
+    },
+    {
+      "fr": "enfin",
+      "en": "finally / at last",
+      "uk": "нарешті"
+    },
+    {
+      "fr": "la chambre",
+      "en": "the bedroom",
+      "uk": "спальня, кімната"
+    },
+    {
+      "fr": "loin",
+      "en": "far",
+      "uk": "далеко"
+    },
+    {
+      "fr": "le pied",
+      "en": "the foot",
+      "uk": "нога (стопа)"
+    },
+    {
+      "fr": "tard",
+      "en": "late",
+      "uk": "пізно"
+    },
+    {
+      "fr": "l'année (f.)",
+      "en": "the year",
+      "uk": "рік"
+    },
+    {
+      "fr": "travailler",
+      "en": "to work",
+      "uk": "працювати"
+    },
+    {
+      "fr": "monter",
+      "en": "to go up / to get on",
+      "uk": "підніматися / сідати (у транспорт)"
+    },
+    {
+      "fr": "seulement",
+      "en": "only",
+      "uk": "лише, тільки"
+    },
+    {
+      "fr": "le matin",
+      "en": "the morning",
+      "uk": "ранок"
+    },
+    {
+      "fr": "la famille",
+      "en": "the family",
+      "uk": "родина, сім'я"
+    },
+    {
+      "fr": "le travail",
+      "en": "the work / the job",
+      "uk": "робота, праця"
+    },
+    {
+      "fr": "la ville",
+      "en": "the city / the town",
+      "uk": "місто"
+    },
+    {
+      "fr": "presque",
+      "en": "almost",
+      "uk": "майже"
+    },
+    {
+      "fr": "poser",
+      "en": "to put down / to ask (a question)",
+      "uk": "класти / ставити (запитання)"
+    },
+    {
+      "fr": "bonjour",
+      "en": "hello / good morning",
+      "uk": "добрий день / доброго ранку"
+    },
+    {
+      "fr": "le problème",
+      "en": "the problem",
+      "uk": "проблема"
+    },
+    {
+      "fr": "montrer",
+      "en": "to show",
+      "uk": "показувати"
+    },
+    {
+      "fr": "un quatre et demie",
+      "en": "a 4½: an apartment with two bedrooms, living room, kitchen, bathroom (Québec)",
+      "uk": "«чотири з половиною» — квартира з двома спальнями, вітальнею, кухнею і ванною (у Квебеку)"
+    },
+    {
+      "fr": "le loyer",
+      "en": "the rent",
+      "uk": "орендна плата"
+    },
+    {
+      "fr": "le chauffage",
+      "en": "the heating",
+      "uk": "опалення"
+    },
+    {
+      "fr": "le centre-ville",
+      "en": "downtown",
+      "uk": "центр міста"
+    }
+  ]
+}

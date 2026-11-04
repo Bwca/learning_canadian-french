@@ -1,0 +1,361 @@
+{
+  "title": {
+    "en": "A call to 911 (list a1-09)",
+    "uk": "Дзвінок до 911 (список a1-09)"
+  },
+  "situation": {
+    "en": "You hear an elderly woman in Rimouski calling 911.",
+    "uk": "Ви чуєте, як літня жінка з Рімускі телефонує до 911."
+  },
+  "lines": [
+    {
+      "speaker": "Policier",
+      "fr": "9-1-1, bonjour. Quelle est votre urgence?",
+      "en": "911, hello. What's your emergency?",
+      "uk": "911, добрий день. Що у вас сталося?"
+    },
+    {
+      "speaker": "Mme Caron",
+      "fr": "Bonjour! Je suis à ma fenêtre, et un homme vole le vélo de mon voisin!",
+      "en": "Hello! I'm at my window, and a man is stealing my neighbour's bike!",
+      "uk": "Добрий день! Я стою біля вікна, і якийсь чоловік краде велосипед мого сусіда!"
+    },
+    {
+      "speaker": "Policier",
+      "fr": "D'accord, madame, restez calme. Où êtes-vous?",
+      "en": "OK, madam, stay calm. Where are you?",
+      "uk": "Гаразд, пані, зберігайте спокій. Де ви?"
+    },
+    {
+      "speaker": "Mme Caron",
+      "fr": "Au 25, rue des Érables, à Rimouski. C'est un joli endroit, près de la mer, mais depuis hier, tellement de vélos disparaissent ici!",
+      "en": "At 25 Maple Street, in Rimouski. It's a pretty place, near the sea, but since yesterday, so many bikes have been disappearing here!",
+      "uk": "Вулиця Кленова, 25, у Рімускі. Тут гарно, біля моря, але від учора тут зникає стільки велосипедів!"
+    },
+    {
+      "speaker": "Policier",
+      "fr": "Est-ce que l'homme a une arme?",
+      "en": "Does the man have a weapon?",
+      "uk": "У чоловіка є зброя?"
+    },
+    {
+      "speaker": "Mme Caron",
+      "fr": "Non, pas d'arme. Il frappe le cadenas avec une pierre. Quel bruit!",
+      "en": "No, no weapon. He's hitting the padlock with a stone. What a noise!",
+      "uk": "Ні, зброї немає. Він б'є по замку каменем. Такий шум!"
+    },
+    {
+      "speaker": "Policier",
+      "fr": "Est-ce que vous le reconnaissez?",
+      "en": "Do you recognize him?",
+      "uk": "Ви його впізнаєте?"
+    },
+    {
+      "speaker": "Mme Caron",
+      "fr": "Non. Il est jeune, avec une casquette, et il a mal à la jambe : il marche lentement.",
+      "en": "No. He's young, with a cap, and his leg hurts: he's walking slowly.",
+      "uk": "Ні. Він молодий, у кепці, і в нього болить нога: він іде повільно."
+    },
+    {
+      "speaker": "Policier",
+      "fr": "Une voiture de police arrive dans deux minutes. Ne criez pas, et ne sortez pas.",
+      "en": "A police car will be there in two minutes. Don't shout, and don't go out.",
+      "uk": "Поліцейська машина буде за дві хвилини. Не кричіть і не виходьте."
+    },
+    {
+      "speaker": "Mme Caron",
+      "fr": "Ma sœur dort, je ne crie pas. Je suis une vieille, mais je vois tout!",
+      "en": "My sister is asleep, I'm not shouting. I'm an old woman, but I see everything!",
+      "uk": "Моя сестра спить, я не кричу. Я стара, але все бачу!"
+    },
+    {
+      "speaker": "Mme Caron",
+      "fr": "Oh, mon voisin sort! Il cherche partout : « Mon vélo! Mon vélo! »",
+      "en": "Oh, my neighbour is coming out! He's looking everywhere: “My bike! My bike!”",
+      "uk": "О, сусід виходить! Він усюди шукає: «Мій велосипед! Мій велосипед!»"
+    },
+    {
+      "speaker": "Policier",
+      "fr": "Les agents sont là. Vous les voyez?",
+      "en": "The officers are there. Do you see them?",
+      "uk": "Поліцейські на місці. Ви їх бачите?"
+    },
+    {
+      "speaker": "Mme Caron",
+      "fr": "Oui! Ils arrêtent l'homme. Il pleure, le pauvre. Ah… je découvre la vérité : c'est le fils de mon voisin!",
+      "en": "Yes! They're stopping the man. He's crying, poor thing. Ah… now I see the truth: it's my neighbour's son!",
+      "uk": "Так! Вони затримують чоловіка. Бідолаха плаче. Ах… тепер я бачу правду: це син мого сусіда!"
+    },
+    {
+      "speaker": "Policier",
+      "fr": "Ah bon? C'est dur pour un papa.",
+      "en": "Really? That's hard for a dad.",
+      "uk": "Он як? Для тата це важко."
+    },
+    {
+      "speaker": "Mme Caron",
+      "fr": "Ils se parlent… et maintenant, ils sourient. Salut, Gilles! Ton vélo est sauvé!",
+      "en": "They're talking… and now they're smiling. Hi, Gilles! Your bike is saved!",
+      "uk": "Вони розмовляють… а тепер усміхаються. Привіт, Жиле! Твій велосипед урятовано!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What does Madame Caron see from her window?",
+        "uk": "Що пані Карон бачить зі свого вікна?"
+      },
+      "options": [
+        {
+          "en": "A car accident",
+          "uk": "Автомобільну аварію"
+        },
+        {
+          "en": "A fire",
+          "uk": "Пожежу"
+        },
+        {
+          "en": "A man stealing a bike",
+          "uk": "Чоловіка, який краде велосипед"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Where does she live?",
+        "uk": "Де вона живе?"
+      },
+      "options": [
+        {
+          "en": "In Rimouski, near the sea",
+          "uk": "У Рімускі, біля моря"
+        },
+        {
+          "en": "In Montréal, near the river",
+          "uk": "У Монреалі, біля річки"
+        },
+        {
+          "en": "In Québec City, near the school",
+          "uk": "У Квебеку, біля школи"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Does the man have a weapon?",
+        "uk": "Чи є в чоловіка зброя?"
+      },
+      "options": [
+        {
+          "en": "Yes, a knife",
+          "uk": "Так, ніж"
+        },
+        {
+          "en": "No, he hits the lock with a stone",
+          "uk": "Ні, він б'є по замку каменем"
+        },
+        {
+          "en": "She can't see",
+          "uk": "Вона не бачить"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What does the police officer tell her?",
+        "uk": "Що каже їй поліцейський?"
+      },
+      "options": [
+        {
+          "en": "Not to shout and not to go out",
+          "uk": "Не кричати й не виходити"
+        },
+        {
+          "en": "To go and help her neighbour",
+          "uk": "Піти допомогти сусідові"
+        },
+        {
+          "en": "To take a photo of the man",
+          "uk": "Сфотографувати чоловіка"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Who is the man with the bike?",
+        "uk": "Хто цей чоловік із велосипедом?"
+      },
+      "options": [
+        {
+          "en": "A stranger",
+          "uk": "Незнайомець"
+        },
+        {
+          "en": "Her sister's son",
+          "uk": "Син її сестри"
+        },
+        {
+          "en": "Her neighbour's son",
+          "uk": "Син її сусіда"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le bruit",
+      "en": "the noise",
+      "uk": "шум"
+    },
+    {
+      "fr": "la fenêtre",
+      "en": "the window",
+      "uk": "вікно"
+    },
+    {
+      "fr": "reconnaître",
+      "en": "to recognize",
+      "uk": "впізнавати / визнавати"
+    },
+    {
+      "fr": "la mer",
+      "en": "the sea",
+      "uk": "море"
+    },
+    {
+      "fr": "la police",
+      "en": "the police",
+      "uk": "поліція"
+    },
+    {
+      "fr": "crier",
+      "en": "to shout",
+      "uk": "кричати"
+    },
+    {
+      "fr": "l'endroit (m.)",
+      "en": "the place / the spot",
+      "uk": "місце"
+    },
+    {
+      "fr": "pleurer",
+      "en": "to cry",
+      "uk": "плакати"
+    },
+    {
+      "fr": "tellement",
+      "en": "so / so much",
+      "uk": "так / настільки"
+    },
+    {
+      "fr": "disparaître",
+      "en": "to disappear",
+      "uk": "зникати"
+    },
+    {
+      "fr": "joli / jolie",
+      "en": "pretty",
+      "uk": "гарний / гарна, симпатичний"
+    },
+    {
+      "fr": "la sœur",
+      "en": "the sister",
+      "uk": "сестра"
+    },
+    {
+      "fr": "sauver",
+      "en": "to save / to rescue",
+      "uk": "рятувати"
+    },
+    {
+      "fr": "salut",
+      "en": "hi / bye (informal)",
+      "uk": "привіт / бувай (неформально)"
+    },
+    {
+      "fr": "le papa",
+      "en": "dad",
+      "uk": "тато"
+    },
+    {
+      "fr": "la jambe",
+      "en": "the leg",
+      "uk": "нога"
+    },
+    {
+      "fr": "dur / dure",
+      "en": "hard",
+      "uk": "твердий / тверда, важкий"
+    },
+    {
+      "fr": "la vérité",
+      "en": "the truth",
+      "uk": "правда"
+    },
+    {
+      "fr": "l'arme (f.)",
+      "en": "the weapon",
+      "uk": "зброя"
+    },
+    {
+      "fr": "le vieux / la vieille",
+      "en": "the old man / the old woman",
+      "uk": "старий / стара (людина)"
+    },
+    {
+      "fr": "frapper",
+      "en": "to hit / to knock",
+      "uk": "бити / стукати"
+    },
+    {
+      "fr": "voler",
+      "en": "to fly / to steal",
+      "uk": "літати / красти"
+    },
+    {
+      "fr": "découvrir",
+      "en": "to discover",
+      "uk": "відкривати, виявляти"
+    },
+    {
+      "fr": "partout",
+      "en": "everywhere",
+      "uk": "скрізь"
+    },
+    {
+      "fr": "sourire",
+      "en": "to smile",
+      "uk": "усміхатися"
+    },
+    {
+      "fr": "hier",
+      "en": "yesterday",
+      "uk": "вчора"
+    },
+    {
+      "fr": "le voleur",
+      "en": "the thief",
+      "uk": "злодій"
+    },
+    {
+      "fr": "le cadenas",
+      "en": "the padlock",
+      "uk": "навісний замок"
+    },
+    {
+      "fr": "la casquette",
+      "en": "the cap",
+      "uk": "кепка"
+    },
+    {
+      "fr": "le 9-1-1",
+      "en": "911, the emergency number",
+      "uk": "911, номер екстреної служби"
+    }
+  ]
+}

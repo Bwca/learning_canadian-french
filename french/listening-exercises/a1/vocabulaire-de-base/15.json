@@ -1,0 +1,286 @@
+{
+  "title": {
+    "en": "Weather and roads on the radio (list a1-08)",
+    "uk": "Погода й дороги по радіо (список a1-08)"
+  },
+  "situation": {
+    "en": "You hear the morning weather and traffic report on a Québec radio station.",
+    "uk": "Ви чуєте ранковий прогноз погоди й новини про дороги на квебекському радіо."
+  },
+  "lines": [
+    {
+      "fr": "Bonjour, il est sept heures, et voici la météo et l'état des routes.",
+      "en": "Good morning, it's seven o'clock, and here's the weather and the state of the roads.",
+      "uk": "Добрий ранок, зараз сьома година, і ось прогноз погоди та стан доріг."
+    },
+    {
+      "fr": "Mauvaise nouvelle ce matin : le ciel est gris partout au pays, et il neige parfois.",
+      "en": "Bad news this morning: the sky is grey all over the country, and it's snowing at times.",
+      "uk": "Погана новина цього ранку: по всій країні небо сіре, подекуди сніжить."
+    },
+    {
+      "fr": "Soyez prudents, surtout sur l'autoroute 20 : la route est fermée près de Drummondville, à cause d'un accident.",
+      "en": "Be careful, especially on Highway 20: the road is closed near Drummondville because of an accident.",
+      "uk": "Будьте обережні, особливо на автомагістралі 20: дорогу біля Драммондвілла перекрито через аварію."
+    },
+    {
+      "fr": "La police vous prie de prendre la route 122. Comptez trente minutes de plus.",
+      "en": "The police ask you to take Route 122. Allow thirty minutes more.",
+      "uk": "Поліція просить вас їхати дорогою 122. Закладіть на тридцять хвилин більше."
+    },
+    {
+      "fr": "Sur le lieu de l'accident, il y a des camions de police tout autour.",
+      "en": "At the scene of the accident, there are police trucks all around.",
+      "uk": "На місці аварії навколо стоять поліцейські машини."
+    },
+    {
+      "fr": "Derrière eux, la circulation est très lente jusqu'à Saint-Hyacinthe.",
+      "en": "Behind them, traffic is very slow as far as Saint-Hyacinthe.",
+      "uk": "Позаду них рух дуже повільний аж до Сент-Іасента."
+    },
+    {
+      "fr": "À Montréal, le métro roule, mais il est possible d'avoir des retards sur la ligne orange.",
+      "en": "In Montréal, the metro is running, but there may be delays on the orange line.",
+      "uk": "У Монреалі метро працює, але на помаранчевій лінії можливі затримки."
+    },
+    {
+      "fr": "Cet après-midi, le soleil revient, puis la neige recommence ce soir.",
+      "en": "This afternoon the sun comes back, then the snow starts again this evening.",
+      "uk": "По обіді вийде сонце, а ввечері знову почнеться сніг."
+    },
+    {
+      "fr": "Vous avez envie de sortir? Au parc du Mont-Royal, on peut courir ou marcher dans le bois, mais pas trop tard : la lumière part vite en hiver.",
+      "en": "Feel like going out? In Mount Royal Park, you can run or walk in the woods, but not too late: the light goes quickly in winter.",
+      "uk": "Хочете вийти з дому? У парку Мон-Руаяль можна бігати або гуляти лісом, але не надто пізно: узимку швидко темніє."
+    },
+    {
+      "fr": "Bonne journée, et prudence là-bas sur les routes!",
+      "en": "Have a good day, and be careful out there on the roads!",
+      "uk": "Гарного дня, і обережно там на дорогах!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is the weather like this morning?",
+        "uk": "Яка погода цього ранку?"
+      },
+      "options": [
+        {
+          "en": "Grey sky and some snow",
+          "uk": "Сіре небо й подекуди сніг"
+        },
+        {
+          "en": "Sunny and cold",
+          "uk": "Сонячно й холодно"
+        },
+        {
+          "en": "Rain everywhere",
+          "uk": "Скрізь дощ"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Why is Highway 20 closed?",
+        "uk": "Чому перекрито автомагістраль 20?"
+      },
+      "options": [
+        {
+          "en": "Because of snow",
+          "uk": "Через сніг"
+        },
+        {
+          "en": "Because of an accident",
+          "uk": "Через аварію"
+        },
+        {
+          "en": "Because of roadwork",
+          "uk": "Через ремонт"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What do the police ask drivers to do?",
+        "uk": "Що поліція просить водіїв?"
+      },
+      "options": [
+        {
+          "en": "Stay at home",
+          "uk": "Залишатися вдома"
+        },
+        {
+          "en": "Take the metro",
+          "uk": "Їхати метро"
+        },
+        {
+          "en": "Take Route 122",
+          "uk": "Їхати дорогою 122"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Where may there be delays in Montréal?",
+        "uk": "Де в Монреалі можливі затримки?"
+      },
+      "options": [
+        {
+          "en": "On the green metro line",
+          "uk": "На зеленій лінії метро"
+        },
+        {
+          "en": "On the orange metro line",
+          "uk": "На помаранчевій лінії метро"
+        },
+        {
+          "en": "On the buses",
+          "uk": "В автобусах"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What will the weather be this evening?",
+        "uk": "Якою буде погода ввечері?"
+      },
+      "options": [
+        {
+          "en": "Snow again",
+          "uk": "Знову сніг"
+        },
+        {
+          "en": "Sunny",
+          "uk": "Сонячно"
+        },
+        {
+          "en": "Rain",
+          "uk": "Дощ"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la route",
+      "en": "the road",
+      "uk": "дорога"
+    },
+    {
+      "fr": "derrière",
+      "en": "behind / at the back",
+      "uk": "позаду / ззаду"
+    },
+    {
+      "fr": "mauvais / mauvaise",
+      "en": "bad / wrong",
+      "uk": "поганий / погана, неправильний"
+    },
+    {
+      "fr": "le lieu",
+      "en": "the place / the spot",
+      "uk": "місце"
+    },
+    {
+      "fr": "autour",
+      "en": "around",
+      "uk": "навколо"
+    },
+    {
+      "fr": "le ciel",
+      "en": "the sky",
+      "uk": "небо"
+    },
+    {
+      "fr": "le pays",
+      "en": "the country",
+      "uk": "країна"
+    },
+    {
+      "fr": "parfois",
+      "en": "sometimes",
+      "uk": "іноді"
+    },
+    {
+      "fr": "surtout",
+      "en": "especially / above all",
+      "uk": "особливо / передусім"
+    },
+    {
+      "fr": "fermer",
+      "en": "to close",
+      "uk": "зачиняти"
+    },
+    {
+      "fr": "compter",
+      "en": "to count",
+      "uk": "рахувати"
+    },
+    {
+      "fr": "prier",
+      "en": "to pray / to beg (je vous en prie = you're welcome)",
+      "uk": "молитися / просити (je vous en prie = прошу, будь ласка)"
+    },
+    {
+      "fr": "la cause",
+      "en": "the cause (à cause de = because of)",
+      "uk": "причина (à cause de = через)"
+    },
+    {
+      "fr": "le bois",
+      "en": "the wood / the woods",
+      "uk": "деревина / ліс"
+    },
+    {
+      "fr": "possible",
+      "en": "possible",
+      "uk": "можливий"
+    },
+    {
+      "fr": "courir",
+      "en": "to run",
+      "uk": "бігти"
+    },
+    {
+      "fr": "la lumière",
+      "en": "the light",
+      "uk": "світло"
+    },
+    {
+      "fr": "puis",
+      "en": "then",
+      "uk": "потім"
+    },
+    {
+      "fr": "là-bas",
+      "en": "over there",
+      "uk": "там, он там"
+    },
+    {
+      "fr": "la météo",
+      "en": "the weather forecast",
+      "uk": "прогноз погоди"
+    },
+    {
+      "fr": "l'autoroute (f.)",
+      "en": "the highway",
+      "uk": "автомагістраль"
+    },
+    {
+      "fr": "la circulation",
+      "en": "the traffic",
+      "uk": "дорожній рух"
+    },
+    {
+      "fr": "prudent / prudente",
+      "en": "careful",
+      "uk": "обережний / обережна"
+    }
+  ]
+}

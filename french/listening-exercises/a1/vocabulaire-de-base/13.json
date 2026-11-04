@@ -1,0 +1,336 @@
+{
+  "title": {
+    "en": "A train ticket to Québec City (list a1-07)",
+    "uk": "Квиток на потяг до Квебека (список a1-07)"
+  },
+  "situation": {
+    "en": "You hear Nadia buying a ticket at the train station in Montréal.",
+    "uk": "Ви чуєте, як Надія купує квиток на вокзалі в Монреалі."
+  },
+  "lines": [
+    {
+      "speaker": "Martin",
+      "fr": "Bonjour, madame. Je peux vous aider?",
+      "en": "Hello, madam. Can I help you?",
+      "uk": "Добрий день, пані. Чим можу допомогти?"
+    },
+    {
+      "speaker": "Nadia",
+      "fr": "Bonjour. Un billet pour Québec, s'il vous plaît, pour aujourd'hui.",
+      "en": "Hello. A ticket to Québec City, please, for today.",
+      "uk": "Добрий день. Квиток до Квебека, будь ласка, на сьогодні."
+    },
+    {
+      "speaker": "Martin",
+      "fr": "Il y a un train dans vingt minutes, et un autre à dix-sept heures.",
+      "en": "There's a train in twenty minutes, and another at five p.m.",
+      "uk": "Є потяг за двадцять хвилин і ще один о сімнадцятій."
+    },
+    {
+      "speaker": "Nadia",
+      "fr": "Celui de dix-sept heures, plutôt. Je dois d'abord quitter mon hôtel.",
+      "en": "The five o'clock one, rather. I have to check out of my hotel first.",
+      "uk": "Краще той, що о сімнадцятій. Мені спершу треба виїхати з готелю."
+    },
+    {
+      "speaker": "Martin",
+      "fr": "Vous retournez à Montréal quand?",
+      "en": "When are you coming back to Montréal?",
+      "uk": "Коли ви повертаєтеся до Монреаля?"
+    },
+    {
+      "speaker": "Nadia",
+      "fr": "À la fin de la semaine, vendredi.",
+      "en": "At the end of the week, on Friday.",
+      "uk": "Наприкінці тижня, у п'ятницю."
+    },
+    {
+      "speaker": "Martin",
+      "fr": "Alors, un aller-retour. Ça fait cent dix dollars.",
+      "en": "So, a return ticket. That's a hundred and ten dollars.",
+      "uk": "Тоді квиток туди й назад. З вас сто десять доларів."
+    },
+    {
+      "speaker": "Nadia",
+      "fr": "Combien? Cent dix? Dans ce cas, le retour est compris?",
+      "en": "How much? A hundred and ten? In that case, the return is included?",
+      "uk": "Скільки? Сто десять? У такому разі повернення входить?"
+    },
+    {
+      "speaker": "Martin",
+      "fr": "Oui. Gardez bien votre billet : on vous le demande dans le train.",
+      "en": "Yes. Keep your ticket safe: they'll ask for it on the train.",
+      "uk": "Так. Бережіть квиток: його перевірять у потязі."
+    },
+    {
+      "speaker": "Nadia",
+      "fr": "D'accord. Je peux le recevoir par courriel?",
+      "en": "OK. Can I get it by email?",
+      "uk": "Гаразд. Можна отримати його електронною поштою?"
+    },
+    {
+      "speaker": "Martin",
+      "fr": "Oui, je vous l'envoie tout de suite.",
+      "en": "Yes, I'll send it to you right away.",
+      "uk": "Так, я надішлю його вам негайно."
+    },
+    {
+      "speaker": "Nadia",
+      "fr": "Merci. Et est-ce que le train continue après Québec?",
+      "en": "Thank you. And does the train go on past Québec City?",
+      "uk": "Дякую. А потяг їде далі після Квебека?"
+    },
+    {
+      "speaker": "Martin",
+      "fr": "Non, Québec, c'est le bout de la ligne. Vous descendez à la gare du Palais.",
+      "en": "No, Québec is the end of the line. You get off at the Gare du Palais.",
+      "uk": "Ні, Квебек — кінцева. Ви виходите на вокзалі Пале."
+    },
+    {
+      "speaker": "Nadia",
+      "fr": "Excusez-moi, une dernière question : le quai, c'est où?",
+      "en": "Excuse me, one last question: where's the platform?",
+      "uk": "Перепрошую, останнє запитання: де перон?"
+    },
+    {
+      "speaker": "Martin",
+      "fr": "Quai numéro quatre, à deux pas d'ici. Si vous avez un problème, rappelez-nous!",
+      "en": "Platform four, a stone's throw from here. If you have a problem, call us back!",
+      "uk": "Перон номер чотири, за два кроки звідси. Якщо будуть проблеми, зателефонуйте нам!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Which train does Nadia take?",
+        "uk": "Яким потягом їде Надія?"
+      },
+      "options": [
+        {
+          "en": "The one in twenty minutes",
+          "uk": "Тим, що за двадцять хвилин"
+        },
+        {
+          "en": "The one at 5 p.m.",
+          "uk": "Тим, що о 17:00"
+        },
+        {
+          "en": "Tomorrow morning's",
+          "uk": "Завтрашнім ранковим"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "When is she coming back to Montréal?",
+        "uk": "Коли вона повертається до Монреаля?"
+      },
+      "options": [
+        {
+          "en": "On Friday",
+          "uk": "У п'ятницю"
+        },
+        {
+          "en": "On Sunday",
+          "uk": "У неділю"
+        },
+        {
+          "en": "Next week",
+          "uk": "Наступного тижня"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How much does the ticket cost?",
+        "uk": "Скільки коштує квиток?"
+      },
+      "options": [
+        {
+          "en": "$100",
+          "uk": "100 $"
+        },
+        {
+          "en": "$120",
+          "uk": "120 $"
+        },
+        {
+          "en": "$110",
+          "uk": "110 $"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "How will she get her ticket?",
+        "uk": "Як вона отримає квиток?"
+      },
+      "options": [
+        {
+          "en": "By mail",
+          "uk": "Поштою"
+        },
+        {
+          "en": "By email",
+          "uk": "Електронною поштою"
+        },
+        {
+          "en": "On the train",
+          "uk": "У потязі"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Where does Nadia get off?",
+        "uk": "Де виходить Надія?"
+      },
+      "options": [
+        {
+          "en": "Before Québec City",
+          "uk": "Перед Квебеком"
+        },
+        {
+          "en": "After Québec City",
+          "uk": "Після Квебека"
+        },
+        {
+          "en": "At the end of the line, the Gare du Palais",
+          "uk": "На кінцевій, на вокзалі Пале"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "garder",
+      "en": "to keep",
+      "uk": "зберігати, тримати"
+    },
+    {
+      "fr": "quitter",
+      "en": "to leave (a place / a person)",
+      "uk": "залишати, покидати (місце / людину)"
+    },
+    {
+      "fr": "celui / celle",
+      "en": "the one (celui-ci = this one)",
+      "uk": "той / та (celui-ci = цей)"
+    },
+    {
+      "fr": "continuer",
+      "en": "to continue",
+      "uk": "продовжувати"
+    },
+    {
+      "fr": "la suite",
+      "en": "the rest / the sequel (tout de suite = right away)",
+      "uk": "решта / продовження (tout de suite = негайно)"
+    },
+    {
+      "fr": "le train",
+      "en": "the train",
+      "uk": "потяг"
+    },
+    {
+      "fr": "la minute",
+      "en": "the minute",
+      "uk": "хвилина"
+    },
+    {
+      "fr": "envoyer",
+      "en": "to send",
+      "uk": "надсилати"
+    },
+    {
+      "fr": "descendre",
+      "en": "to go down / to get off",
+      "uk": "спускатися / виходити (з транспорту)"
+    },
+    {
+      "fr": "retourner",
+      "en": "to go back / to return",
+      "uk": "повертатися / повертати"
+    },
+    {
+      "fr": "la fin",
+      "en": "the end",
+      "uk": "кінець"
+    },
+    {
+      "fr": "le bout",
+      "en": "the end / the tip / the bit",
+      "uk": "кінець / кінчик / шматочок"
+    },
+    {
+      "fr": "aujourd'hui",
+      "en": "today",
+      "uk": "сьогодні"
+    },
+    {
+      "fr": "madame",
+      "en": "madam / Mrs.",
+      "uk": "пані"
+    },
+    {
+      "fr": "combien",
+      "en": "how much / how many",
+      "uk": "скільки"
+    },
+    {
+      "fr": "le cas",
+      "en": "the case",
+      "uk": "випадок"
+    },
+    {
+      "fr": "plutôt",
+      "en": "rather",
+      "uk": "скоріше, радше"
+    },
+    {
+      "fr": "la semaine",
+      "en": "the week",
+      "uk": "тиждень"
+    },
+    {
+      "fr": "rappeler",
+      "en": "to call back / to remind",
+      "uk": "передзвонювати / нагадувати"
+    },
+    {
+      "fr": "le pas",
+      "en": "the step (pas = not)",
+      "uk": "крок (pas = не)"
+    },
+    {
+      "fr": "excuser",
+      "en": "to excuse (s'excuser = to apologize)",
+      "uk": "вибачати (s'excuser = вибачатися)"
+    },
+    {
+      "fr": "le billet",
+      "en": "the ticket",
+      "uk": "квиток"
+    },
+    {
+      "fr": "un aller-retour",
+      "en": "a return (round-trip) ticket",
+      "uk": "квиток туди й назад"
+    },
+    {
+      "fr": "le quai",
+      "en": "the platform",
+      "uk": "перон, платформа"
+    },
+    {
+      "fr": "à deux pas d'ici",
+      "en": "a stone's throw from here",
+      "uk": "за два кроки звідси"
+    }
+  ]
+}

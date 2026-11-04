@@ -1,0 +1,306 @@
+{
+  "title": {
+    "en": "A car for sale (list a1-10)",
+    "uk": "Машина на продаж (список a1-10)"
+  },
+  "situation": {
+    "en": "You answered an ad for a used car. You hear the seller's voicemail.",
+    "uk": "Ви відгукнулися на оголошення про продаж уживаної машини. Ви чуєте голосове повідомлення від продавчині."
+  },
+  "lines": [
+    {
+      "speaker": "Martine",
+      "fr": "Bonjour, c'est Martine. Je vous rappelle pour l'annonce de ma voiture.",
+      "en": "Hello, it's Martine. I'm calling you back about the ad for my car.",
+      "uk": "Добрий день, це Мартіна. Передзвонюю вам щодо оголошення про мою машину."
+    },
+    {
+      "speaker": "Martine",
+      "fr": "Oui, elle est encore à vendre. C'est une petite voiture bleu clair, très simple à conduire.",
+      "en": "Yes, it's still for sale. It's a small light-blue car, very easy to drive.",
+      "uk": "Так, вона ще продається. Це маленька світло-блакитна машина, дуже проста в керуванні."
+    },
+    {
+      "speaker": "Martine",
+      "fr": "Vous préférez une autre couleur? Désolée, j'ai seulement celle-là!",
+      "en": "You'd prefer another colour? Sorry, I only have this one!",
+      "uk": "Ви хотіли б інший колір? Перепрошую, у мене тільки ця!"
+    },
+    {
+      "speaker": "Martine",
+      "fr": "Elle a dix ans, mais elle est en bon état. En effet, je la conduis seulement la fin de semaine.",
+      "en": "It's ten years old, but it's in good condition. In fact, I only drive it on weekends.",
+      "uk": "Їй десять років, але вона в доброму стані. Адже я їжджу на ній тільки у вихідні."
+    },
+    {
+      "speaker": "Martine",
+      "fr": "Le prix est de quatre mille dollars. Je n'accepte pas moins.",
+      "en": "The price is four thousand dollars. I won't accept less.",
+      "uk": "Ціна — чотири тисячі доларів. Менше не прийму."
+    },
+    {
+      "speaker": "Martine",
+      "fr": "Je suis certaine que c'est le meilleur prix dans le coin.",
+      "en": "I'm sure it's the best price around here.",
+      "uk": "Я певна, що це найкраща ціна в окрузі."
+    },
+    {
+      "speaker": "Martine",
+      "fr": "Les photos sont sur le site, mais c'est important de la voir et de l'essayer.",
+      "en": "The photos are on the website, but it's important to see it and try it.",
+      "uk": "Фотографії є на сайті, але важливо побачити машину й випробувати її."
+    },
+    {
+      "speaker": "Martine",
+      "fr": "Je suis libre samedi matin. Ensuite, je pars en voyage, et à mon retour, elle n'est peut-être plus à vendre!",
+      "en": "I'm free on Saturday morning. After that I'm going away, and when I'm back, it may not be for sale anymore!",
+      "uk": "Я вільна в суботу вранці. Потім я їду в подорож, а коли повернуся, вона, можливо, вже не продаватиметься!"
+    },
+    {
+      "speaker": "Martine",
+      "fr": "Elle est à l'ombre, sous un grand arbre, au bord de la rue des Pins.",
+      "en": "It's in the shade, under a big tree, at the side of Pine Street.",
+      "uk": "Вона стоїть у тіні, під великим деревом, на узбіччі вулиці Соснової."
+    },
+    {
+      "speaker": "Martine",
+      "fr": "Rappelez-moi au 418 555-0142. Je répète : 418 555-0142. Au revoir!",
+      "en": "Call me back at 418 555-0142. I repeat: 418 555-0142. Goodbye!",
+      "uk": "Передзвоніть мені за номером 418 555-0142. Повторюю: 418 555-0142. До побачення!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What colour is the car?",
+        "uk": "Якого кольору машина?"
+      },
+      "options": [
+        {
+          "en": "Dark blue",
+          "uk": "Темно-синього"
+        },
+        {
+          "en": "Light blue",
+          "uk": "Світло-блакитного"
+        },
+        {
+          "en": "White",
+          "uk": "Білого"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "How old is the car?",
+        "uk": "Скільки років машині?"
+      },
+      "options": [
+        {
+          "en": "Four years",
+          "uk": "Чотири роки"
+        },
+        {
+          "en": "Two years",
+          "uk": "Два роки"
+        },
+        {
+          "en": "Ten years",
+          "uk": "Десять років"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "How much does Martine want for it?",
+        "uk": "Скільки Мартіна хоче за неї?"
+      },
+      "options": [
+        {
+          "en": "$4,000",
+          "uk": "4 000 $"
+        },
+        {
+          "en": "$14,000",
+          "uk": "14 000 $"
+        },
+        {
+          "en": "$400",
+          "uk": "400 $"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "When can you see the car?",
+        "uk": "Коли можна подивитися машину?"
+      },
+      "options": [
+        {
+          "en": "On Sunday",
+          "uk": "У неділю"
+        },
+        {
+          "en": "On Saturday morning",
+          "uk": "У суботу вранці"
+        },
+        {
+          "en": "After her trip",
+          "uk": "Після її подорожі"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Where is the car?",
+        "uk": "Де стоїть машина?"
+      },
+      "options": [
+        {
+          "en": "In a garage",
+          "uk": "У гаражі"
+        },
+        {
+          "en": "Behind her house",
+          "uk": "За її будинком"
+        },
+        {
+          "en": "In the shade under a tree on Pine Street",
+          "uk": "У тіні під деревом на вулиці Сосновій"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "important / importante",
+      "en": "important",
+      "uk": "важливий / важлива"
+    },
+    {
+      "fr": "conduire",
+      "en": "to drive / to lead",
+      "uk": "керувати (авто) / вести"
+    },
+    {
+      "fr": "préférer",
+      "en": "to prefer",
+      "uk": "віддавати перевагу"
+    },
+    {
+      "fr": "désolé / désolée",
+      "en": "sorry",
+      "uk": "перепрошую, мені шкода"
+    },
+    {
+      "fr": "accepter",
+      "en": "to accept",
+      "uk": "приймати, погоджуватися"
+    },
+    {
+      "fr": "l'effet (m.)",
+      "en": "the effect",
+      "uk": "ефект, вплив"
+    },
+    {
+      "fr": "le bord",
+      "en": "the edge / the side (au bord de la mer = at the seaside)",
+      "uk": "край / берег (au bord de la mer = на березі моря)"
+    },
+    {
+      "fr": "meilleur / meilleure",
+      "en": "better / best",
+      "uk": "кращий / краща, найкращий"
+    },
+    {
+      "fr": "la photo",
+      "en": "the photo",
+      "uk": "фото"
+    },
+    {
+      "fr": "libre",
+      "en": "free (not busy)",
+      "uk": "вільний (не зайнятий)"
+    },
+    {
+      "fr": "vendre",
+      "en": "to sell",
+      "uk": "продавати"
+    },
+    {
+      "fr": "le coin",
+      "en": "the corner",
+      "uk": "кут, куток"
+    },
+    {
+      "fr": "répéter",
+      "en": "to repeat",
+      "uk": "повторювати"
+    },
+    {
+      "fr": "le retour",
+      "en": "the return",
+      "uk": "повернення"
+    },
+    {
+      "fr": "ensuite",
+      "en": "then / next",
+      "uk": "потім, далі"
+    },
+    {
+      "fr": "l'arbre (m.)",
+      "en": "the tree",
+      "uk": "дерево"
+    },
+    {
+      "fr": "simple",
+      "en": "simple",
+      "uk": "простий"
+    },
+    {
+      "fr": "certain / certaine",
+      "en": "certain / sure",
+      "uk": "певний / певна, впевнений"
+    },
+    {
+      "fr": "la couleur",
+      "en": "the colour",
+      "uk": "колір"
+    },
+    {
+      "fr": "clair / claire",
+      "en": "clear / light (colour)",
+      "uk": "ясний / ясна, світлий"
+    },
+    {
+      "fr": "l'ombre (f.)",
+      "en": "the shadow / the shade",
+      "uk": "тінь"
+    },
+    {
+      "fr": "bleu / bleue",
+      "en": "blue",
+      "uk": "синій / синя, блакитний"
+    },
+    {
+      "fr": "l'annonce (f.)",
+      "en": "the ad",
+      "uk": "оголошення"
+    },
+    {
+      "fr": "la fin de semaine",
+      "en": "the weekend (Québec)",
+      "uk": "вихідні (у Квебеку)"
+    },
+    {
+      "fr": "en bon état",
+      "en": "in good condition",
+      "uk": "у доброму стані"
+    }
+  ]
+}

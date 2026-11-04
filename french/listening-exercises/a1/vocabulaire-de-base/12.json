@@ -1,0 +1,367 @@
+{
+  "title": {
+    "en": "Grandma's photo album (list a1-06)",
+    "uk": "Бабусин фотоальбом (список a1-06)"
+  },
+  "situation": {
+    "en": "You hear Léo and his grandmother looking at an old photo album.",
+    "uk": "Ви чуєте, як Лео з бабусею гортають старий фотоальбом."
+  },
+  "lines": [
+    {
+      "speaker": "Mamie",
+      "fr": "Viens, Léo, assieds-toi à côté de moi. Tu veux boire quelque chose?",
+      "en": "Come, Léo, sit next to me. Do you want something to drink?",
+      "uk": "Ходи, Лео, сідай біля мене. Хочеш щось випити?"
+    },
+    {
+      "speaker": "Léo",
+      "fr": "Non merci, mamie. C'est quoi, ce gros livre noir?",
+      "en": "No thanks, Grandma. What's this big black book?",
+      "uk": "Ні, дякую, бабусю. Що це за велика чорна книжка?"
+    },
+    {
+      "speaker": "Mamie",
+      "fr": "C'est l'album de la famille. Il sert à garder nos vieilles photos.",
+      "en": "It's the family album. It's for keeping our old photos.",
+      "uk": "Це родинний альбом. У ньому ми зберігаємо старі фотографії."
+    },
+    {
+      "speaker": "Léo",
+      "fr": "Oh, des photos en noir et blanc! Qui est cette petite fille?",
+      "en": "Oh, black-and-white photos! Who's this little girl?",
+      "uk": "О, чорно-білі фото! А хто ця маленька дівчинка?"
+    },
+    {
+      "speaker": "Mamie",
+      "fr": "Ça, c'est ta maman, à cinq ans. Regarde son visage : c'est toi!",
+      "en": "That's your mom, at five. Look at her face: it's you!",
+      "uk": "Це твоя мама, у п'ять років. Подивися на її обличчя: це ж ти!"
+    },
+    {
+      "speaker": "Léo",
+      "fr": "Et ce garçon avec les cheveux longs?",
+      "en": "And this boy with the long hair?",
+      "uk": "А цей хлопчик із довгим волоссям?"
+    },
+    {
+      "speaker": "Mamie",
+      "fr": "C'est son frère, ton oncle Paul. Il a toujours un livre dans les bras. Il lit tout le temps!",
+      "en": "That's her brother, your uncle Paul. He always has a book in his arms. He reads all the time!",
+      "uk": "Це її брат, твій дядько Поль. У нього завжди книжка в руках. Він постійно читає!"
+    },
+    {
+      "speaker": "Léo",
+      "fr": "Et ici, c'est grand-papa?",
+      "en": "And here, is that Grandpa?",
+      "uk": "А тут дідусь?"
+    },
+    {
+      "speaker": "Mamie",
+      "fr": "Oui. Sur cette photo, on marche au bord du fleuve. On est ensemble depuis longtemps : c'est une longue histoire d'amour!",
+      "en": "Yes. In this photo, we're walking by the river. We've been together for a long time: it's a long love story!",
+      "uk": "Так. На цьому фото ми гуляємо берегом річки. Ми разом уже давно: це довга історія кохання!"
+    },
+    {
+      "speaker": "Mamie",
+      "fr": "Il m'écrit encore des lettres. Il a un cœur d'or.",
+      "en": "He still writes me letters. He has a heart of gold.",
+      "uk": "Він і досі пише мені листи. У нього золоте серце."
+    },
+    {
+      "speaker": "Léo",
+      "fr": "C'est beau! J'ai une idée : est-ce que je peux apprendre à faire un album comme ça?",
+      "en": "That's lovely! I have an idea: can I learn to make an album like that?",
+      "uk": "Як гарно! У мене є ідея: можна мені навчитися робити такий альбом?"
+    },
+    {
+      "speaker": "Mamie",
+      "fr": "Bien sûr! Ainsi, tu vas retrouver toutes les photos de la famille.",
+      "en": "Of course! That way, you'll find all the family photos again.",
+      "uk": "Звісно! Так ти знову знайдеш усі родинні фотографії."
+    },
+    {
+      "speaker": "Léo",
+      "fr": "Ça me change de mon cellulaire!",
+      "en": "It makes a change from my cell phone!",
+      "uk": "Це не те, що мій мобільний!"
+    },
+    {
+      "speaker": "Mamie",
+      "fr": "Ce n'est pas la peine de tout imprimer, seulement les belles. Tiens, cette lettre est pour toi, de la part de ton grand-père.",
+      "en": "There's no need to print everything, just the nice ones. Here, this letter is for you, from your grandfather.",
+      "uk": "Не треба друкувати все, тільки гарні. Ось, цей лист для тебе від дідуся."
+    },
+    {
+      "speaker": "Léo",
+      "fr": "Merci! Mais il est tard, mamie. Tu ne dors pas?",
+      "en": "Thanks! But it's late, Grandma. Aren't you going to sleep?",
+      "uk": "Дякую! Але вже пізно, бабусю. Ти не спатимеш?"
+    },
+    {
+      "speaker": "Mamie",
+      "fr": "Oui, je me lève à cinq heures demain. Prends tes affaires, ton papa arrive bientôt.",
+      "en": "Yes, I get up at five tomorrow. Get your things, your dad will be here soon.",
+      "uk": "Так, завтра я встаю о п'ятій. Збирай свої речі, тато скоро приїде."
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is the big black book?",
+        "uk": "Що це за велика чорна книжка?"
+      },
+      "options": [
+        {
+          "en": "A book of stories",
+          "uk": "Збірка оповідань"
+        },
+        {
+          "en": "The family photo album",
+          "uk": "Родинний фотоальбом"
+        },
+        {
+          "en": "Grandpa's diary",
+          "uk": "Дідусів щоденник"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Who is the little girl in the photo?",
+        "uk": "Хто ця маленька дівчинка на фото?"
+      },
+      "options": [
+        {
+          "en": "Léo's mother at five",
+          "uk": "Мама Лео в п'ять років"
+        },
+        {
+          "en": "Léo's sister",
+          "uk": "Сестра Лео"
+        },
+        {
+          "en": "Léo's aunt",
+          "uk": "Тітка Лео"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What does uncle Paul always have in his arms?",
+        "uk": "Що дядько Поль завжди тримає в руках?"
+      },
+      "options": [
+        {
+          "en": "A ball",
+          "uk": "М'яч"
+        },
+        {
+          "en": "A cat",
+          "uk": "Кота"
+        },
+        {
+          "en": "A book",
+          "uk": "Книжку"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What does grandpa still do?",
+        "uk": "Що дідусь робить і досі?"
+      },
+      "options": [
+        {
+          "en": "He writes Grandma letters",
+          "uk": "Пише бабусі листи"
+        },
+        {
+          "en": "He walks by the river every day",
+          "uk": "Щодня гуляє берегом річки"
+        },
+        {
+          "en": "He reads stories to Léo",
+          "uk": "Читає Лео казки"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What does Léo want to do?",
+        "uk": "Що хоче зробити Лео?"
+      },
+      "options": [
+        {
+          "en": "Print all his phone photos",
+          "uk": "Надрукувати всі фото з телефона"
+        },
+        {
+          "en": "Learn to make a photo album",
+          "uk": "Навчитися робити фотоальбом"
+        },
+        {
+          "en": "Take a photo of Grandma",
+          "uk": "Сфотографувати бабусю"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'histoire (f.)",
+      "en": "the story / history",
+      "uk": "історія, розповідь / історія (наука)"
+    },
+    {
+      "fr": "l'idée (f.)",
+      "en": "the idea",
+      "uk": "ідея, думка"
+    },
+    {
+      "fr": "s'asseoir",
+      "en": "to sit (s'asseoir)",
+      "uk": "сідати"
+    },
+    {
+      "fr": "retrouver",
+      "en": "to find again / to meet up with",
+      "uk": "знову знайти / зустрітися з"
+    },
+    {
+      "fr": "le visage",
+      "en": "the face",
+      "uk": "обличчя"
+    },
+    {
+      "fr": "marcher",
+      "en": "to walk / to work (function)",
+      "uk": "ходити / працювати (про пристрій)"
+    },
+    {
+      "fr": "la maman",
+      "en": "mom",
+      "uk": "мама"
+    },
+    {
+      "fr": "ainsi",
+      "en": "thus / so",
+      "uk": "так, таким чином"
+    },
+    {
+      "fr": "changer",
+      "en": "to change",
+      "uk": "змінювати(ся)"
+    },
+    {
+      "fr": "dormir",
+      "en": "to sleep",
+      "uk": "спати"
+    },
+    {
+      "fr": "écrire",
+      "en": "to write",
+      "uk": "писати"
+    },
+    {
+      "fr": "l'affaire (f.)",
+      "en": "the matter / the business (les affaires = belongings, business)",
+      "uk": "справа / бізнес (les affaires = речі, справи)"
+    },
+    {
+      "fr": "le cœur",
+      "en": "the heart",
+      "uk": "серце"
+    },
+    {
+      "fr": "le bras",
+      "en": "the arm",
+      "uk": "рука (від плеча)"
+    },
+    {
+      "fr": "apprendre",
+      "en": "to learn",
+      "uk": "вчити(ся), дізнаватися"
+    },
+    {
+      "fr": "noir / noire",
+      "en": "black",
+      "uk": "чорний / чорна"
+    },
+    {
+      "fr": "la part",
+      "en": "the share / the part (de la part de = from)",
+      "uk": "частка, частина (de la part de = від)"
+    },
+    {
+      "fr": "longtemps",
+      "en": "for a long time",
+      "uk": "довго"
+    },
+    {
+      "fr": "gros / grosse",
+      "en": "big / fat",
+      "uk": "великий / товстий, товста"
+    },
+    {
+      "fr": "boire",
+      "en": "to drink",
+      "uk": "пити"
+    },
+    {
+      "fr": "long / longue",
+      "en": "long",
+      "uk": "довгий / довга"
+    },
+    {
+      "fr": "le frère",
+      "en": "the brother",
+      "uk": "брат"
+    },
+    {
+      "fr": "lever",
+      "en": "to raise / to lift (se lever = to get up)",
+      "uk": "піднімати (se lever = вставати)"
+    },
+    {
+      "fr": "lire",
+      "en": "to read",
+      "uk": "читати"
+    },
+    {
+      "fr": "la peine",
+      "en": "the trouble / the sorrow (ce n'est pas la peine = no need)",
+      "uk": "клопіт / горе (ce n'est pas la peine = не варто)"
+    },
+    {
+      "fr": "servir",
+      "en": "to serve / to be used for",
+      "uk": "служити, подавати / слугувати для"
+    },
+    {
+      "fr": "mamie",
+      "en": "grandma",
+      "uk": "бабуся"
+    },
+    {
+      "fr": "l'album (m.)",
+      "en": "the album",
+      "uk": "альбом"
+    },
+    {
+      "fr": "en noir et blanc",
+      "en": "in black and white",
+      "uk": "чорно-білий"
+    },
+    {
+      "fr": "le fleuve",
+      "en": "the (big) river — here, the St. Lawrence",
+      "uk": "велика річка — тут річка Святого Лаврентія"
+    }
+  ]
+}

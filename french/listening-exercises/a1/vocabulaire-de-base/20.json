@@ -1,0 +1,382 @@
+{
+  "title": {
+    "en": "A morning at the Winter Carnival (list a1-10)",
+    "uk": "Ранок на Зимовому карнавалі (список a1-10)"
+  },
+  "situation": {
+    "en": "You hear Amélie and Thomas in their hotel room in Québec City during the Winter Carnival.",
+    "uk": "Ви чуєте Амелі й Тома в їхньому готельному номері в Квебеку під час Зимового карнавалу."
+  },
+  "lines": [
+    {
+      "speaker": "Amélie",
+      "fr": "Thomas, réveille-toi! Il est déjà neuf heures!",
+      "en": "Thomas, wake up! It's already nine o'clock!",
+      "uk": "Тома, прокидайся! Уже дев'ята!"
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Mmm… Je fais un beau rêve. Il fait froid dehors?",
+      "en": "Mmm… I'm having a lovely dream. Is it cold outside?",
+      "uk": "Ммм… Мені сниться гарний сон. Надворі холодно?"
+    },
+    {
+      "speaker": "Amélie",
+      "fr": "Oui, moins vingt, avec du vent. Le journal dit : « Attention aux mains et au visage! »",
+      "en": "Yes, minus twenty, with wind. The paper says: “Watch your hands and face!”",
+      "uk": "Так, мінус двадцять, ще й вітер. У газеті пишуть: «Бережіть руки й обличчя!»"
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Bon. Je prends mon sac à dos. Tu me coupes du pain pour le déjeuner?",
+      "en": "OK. I'll take my backpack. Will you cut me some bread for breakfast?",
+      "uk": "Гаразд. Беру рюкзак. Відріжеш мені хліба на сніданок?"
+    },
+    {
+      "speaker": "Amélie",
+      "fr": "Tiens. Aujourd'hui, c'est le défilé! Il y a de la musique, et chacun peut chanter et danser.",
+      "en": "Here. Today's the parade! There's music, and everyone can sing and dance.",
+      "uk": "Тримай. Сьогодні парад! Буде музика, і кожен може співати й танцювати."
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Et le tour de carriole, avec les chevaux?",
+      "en": "And the sleigh ride, with the horses?",
+      "uk": "А катання на санях із кіньми?"
+    },
+    {
+      "speaker": "Amélie",
+      "fr": "À onze heures. Approche-toi, je veux te dire quelque chose.",
+      "en": "At eleven. Come closer, I want to tell you something.",
+      "uk": "Об одинадцятій. Підійди ближче, я хочу тобі щось сказати."
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Quoi? Tu t'inquiètes?",
+      "en": "What? Are you worried?",
+      "uk": "Що? Ти хвилюєшся?"
+    },
+    {
+      "speaker": "Amélie",
+      "fr": "Non! Ce soir, je te présente à mes parents. Ils sont au Carnaval aussi.",
+      "en": "No! Tonight, I'm introducing you to my parents. They're at the Carnival too.",
+      "uk": "Ні! Сьогодні ввечері я познайомлю тебе з батьками. Вони теж на карнавалі."
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Enfin! Ton père, il te ressemble?",
+      "en": "At last! Does your father look like you?",
+      "uk": "Нарешті! Твій тато схожий на тебе?"
+    },
+    {
+      "speaker": "Amélie",
+      "fr": "Oui. C'est un maître de musique, très gentil. Mais ne refuse pas sa soupe aux pois!",
+      "en": "Yes. He's a music teacher, very kind. But don't refuse his pea soup!",
+      "uk": "Так. Він учитель музики, дуже добрий. Але не відмовляйся від його горохової юшки!"
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Je te promets d'être parfait.",
+      "en": "I promise you I'll be perfect.",
+      "uk": "Обіцяю тобі, що буду ідеальним."
+    },
+    {
+      "speaker": "Amélie",
+      "fr": "Ha! Le prince charmant n'existe pas… mais toi, tu es mon roi.",
+      "en": "Ha! Prince Charming doesn't exist… but you're my king.",
+      "uk": "Ха! Принців на білому коні не існує… але ти — мій король."
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "Viens, je t'embrasse. Un jour, je veux me marier avec toi, ici, au Carnaval!",
+      "en": "Come here, let me kiss you. One day, I want to marry you, here, at the Carnival!",
+      "uk": "Іди сюди, я тебе поцілую. Колись я хочу одружитися з тобою — тут, на карнавалі!"
+    },
+    {
+      "speaker": "Amélie",
+      "fr": "Allez, avance, on est en retard! Choisis ta tuque : la rouge ou la verte?",
+      "en": "Come on, get moving, we're late! Choose your toque: the red one or the green one?",
+      "uk": "Ну ж бо, рушай, ми спізнюємося! Вибирай шапку: червону чи зелену?"
+    },
+    {
+      "speaker": "Thomas",
+      "fr": "La rouge. Et après le défilé, je veux revoir le palais de glace!",
+      "en": "The red one. And after the parade, I want to see the ice palace again!",
+      "uk": "Червону. А після параду я хочу ще раз побачити крижаний палац!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is the weather like?",
+        "uk": "Яка погода?"
+      },
+      "options": [
+        {
+          "en": "Minus two and sunny",
+          "uk": "Мінус два й сонячно"
+        },
+        {
+          "en": "Minus twenty and windy",
+          "uk": "Мінус двадцять і вітряно"
+        },
+        {
+          "en": "Snowing heavily",
+          "uk": "Сильний снігопад"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What is happening today?",
+        "uk": "Що відбувається сьогодні?"
+      },
+      "options": [
+        {
+          "en": "The Carnival parade",
+          "uk": "Карнавальний парад"
+        },
+        {
+          "en": "A wedding",
+          "uk": "Весілля"
+        },
+        {
+          "en": "A hockey game",
+          "uk": "Хокейний матч"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What time is the sleigh ride?",
+        "uk": "О котрій катання на санях?"
+      },
+      "options": [
+        {
+          "en": "At nine",
+          "uk": "О дев'ятій"
+        },
+        {
+          "en": "Tonight",
+          "uk": "Увечері"
+        },
+        {
+          "en": "At eleven",
+          "uk": "Об одинадцятій"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What will happen tonight?",
+        "uk": "Що буде ввечері?"
+      },
+      "options": [
+        {
+          "en": "Thomas will meet Amélie's parents",
+          "uk": "Тома познайомиться з батьками Амелі"
+        },
+        {
+          "en": "They will visit the ice palace",
+          "uk": "Вони підуть до крижаного палацу"
+        },
+        {
+          "en": "They will get married",
+          "uk": "Вони одружаться"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Which toque does Thomas choose?",
+        "uk": "Яку шапку вибирає Тома?"
+      },
+      "options": [
+        {
+          "en": "The green one",
+          "uk": "Зелену"
+        },
+        {
+          "en": "The red one",
+          "uk": "Червону"
+        },
+        {
+          "en": "The blue one",
+          "uk": "Синю"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le dos",
+      "en": "the back",
+      "uk": "спина"
+    },
+    {
+      "fr": "approcher",
+      "en": "to bring closer (s'approcher = to come closer)",
+      "uk": "наближати (s'approcher = наближатися)"
+    },
+    {
+      "fr": "le journal",
+      "en": "the newspaper",
+      "uk": "газета"
+    },
+    {
+      "fr": "le cheval",
+      "en": "the horse",
+      "uk": "кінь"
+    },
+    {
+      "fr": "ressembler",
+      "en": "to look like / to resemble",
+      "uk": "бути схожим на"
+    },
+    {
+      "fr": "choisir",
+      "en": "to choose",
+      "uk": "вибирати"
+    },
+    {
+      "fr": "revoir",
+      "en": "to see again",
+      "uk": "знову побачити"
+    },
+    {
+      "fr": "réveiller",
+      "en": "to wake (someone) up (se réveiller = to wake up)",
+      "uk": "будити (se réveiller = прокидатися)"
+    },
+    {
+      "fr": "présenter",
+      "en": "to present / to introduce",
+      "uk": "представляти / знайомити"
+    },
+    {
+      "fr": "le sac",
+      "en": "the bag",
+      "uk": "сумка"
+    },
+    {
+      "fr": "le vent",
+      "en": "the wind",
+      "uk": "вітер"
+    },
+    {
+      "fr": "refuser",
+      "en": "to refuse",
+      "uk": "відмовлятися"
+    },
+    {
+      "fr": "couper",
+      "en": "to cut",
+      "uk": "різати"
+    },
+    {
+      "fr": "tiens",
+      "en": "here! / well! (tiens)",
+      "uk": "на! / ну ж! (tiens)"
+    },
+    {
+      "fr": "chanter",
+      "en": "to sing",
+      "uk": "співати"
+    },
+    {
+      "fr": "avancer",
+      "en": "to move forward",
+      "uk": "просуватися вперед"
+    },
+    {
+      "fr": "froid / froide",
+      "en": "cold",
+      "uk": "холодний / холодна"
+    },
+    {
+      "fr": "le rêve",
+      "en": "the dream",
+      "uk": "мрія / сон"
+    },
+    {
+      "fr": "promettre",
+      "en": "to promise",
+      "uk": "обіцяти"
+    },
+    {
+      "fr": "marier",
+      "en": "to marry (se marier = to get married)",
+      "uk": "одружувати (se marier = одружуватися)"
+    },
+    {
+      "fr": "exister",
+      "en": "to exist",
+      "uk": "існувати"
+    },
+    {
+      "fr": "la musique",
+      "en": "the music",
+      "uk": "музика"
+    },
+    {
+      "fr": "s'inquiéter",
+      "en": "to worry (s'inquiéter)",
+      "uk": "хвилюватися, турбуватися"
+    },
+    {
+      "fr": "l'attention (f.)",
+      "en": "the attention (faire attention = to be careful)",
+      "uk": "увага (faire attention = бути обережним)"
+    },
+    {
+      "fr": "chacun",
+      "en": "each one / everyone",
+      "uk": "кожен"
+    },
+    {
+      "fr": "le maître",
+      "en": "the master / the teacher",
+      "uk": "господар / вчитель"
+    },
+    {
+      "fr": "embrasser",
+      "en": "to kiss / to hug",
+      "uk": "цілувати / обіймати"
+    },
+    {
+      "fr": "le roi",
+      "en": "the king",
+      "uk": "король"
+    },
+    {
+      "fr": "le Carnaval de Québec",
+      "en": "the Québec Winter Carnival",
+      "uk": "Квебекський зимовий карнавал"
+    },
+    {
+      "fr": "la carriole",
+      "en": "the horse-drawn sleigh",
+      "uk": "сани, запряжені кіньми"
+    },
+    {
+      "fr": "la soupe aux pois",
+      "en": "pea soup (a Québec classic)",
+      "uk": "горохова юшка (класика Квебеку)"
+    },
+    {
+      "fr": "le déjeuner",
+      "en": "breakfast (Québec)",
+      "uk": "сніданок (у Квебеку)"
+    },
+    {
+      "fr": "la tuque",
+      "en": "the winter hat, toque (Québec)",
+      "uk": "зимова шапка (у Квебеку)"
+    }
+  ]
+}

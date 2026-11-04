@@ -1,0 +1,322 @@
+{
+  "title": {
+    "en": "A message from the school (list a1-09)",
+    "uk": "Повідомлення зі школи (список a1-09)"
+  },
+  "situation": {
+    "en": "You hear a voicemail that a school principal leaves for the parents of her students.",
+    "uk": "Ви чуєте голосове повідомлення, яке директорка школи залишає батькам учнів."
+  },
+  "lines": [
+    {
+      "speaker": "Mme Gagné",
+      "fr": "Bonjour, chers parents. Ici Nathalie Gagné, directrice de l'école Saint-Joseph.",
+      "en": "Hello, dear parents. This is Nathalie Gagné, principal of Saint-Joseph School.",
+      "uk": "Добрий день, шановні батьки. Говорить Натали Ґаньє, директорка школи Сен-Жозеф."
+    },
+    {
+      "speaker": "Mme Gagné",
+      "fr": "Vendredi, c'est la journée sportive pour les élèves de tout âge.",
+      "en": "Friday is sports day for students of every age.",
+      "uk": "У п'ятницю — день спорту для учнів будь-якого віку."
+    },
+    {
+      "speaker": "Mme Gagné",
+      "fr": "D'abord, les élèves doivent apporter des vêtements propres et des souliers de course.",
+      "en": "First, students must bring clean clothes and running shoes.",
+      "uk": "По-перше, учні мають принести чистий одяг і кросівки."
+    },
+    {
+      "speaker": "Mme Gagné",
+      "fr": "Le matin, on fait des jeux dans la grande salle, puis on va au parc.",
+      "en": "In the morning, we play games in the big hall, then we go to the park.",
+      "uk": "Зранку ми граємо в ігри у великій залі, а потім ідемо до парку."
+    },
+    {
+      "speaker": "Mme Gagné",
+      "fr": "Le parc est au milieu du quartier. Le chemin est facile : les professeurs emmènent les enfants à pied.",
+      "en": "The park is in the middle of the neighbourhood. The way is easy: the teachers take the children on foot.",
+      "uk": "Парк розташований посеред району. Дорога проста: учителі ведуть дітей пішки."
+    },
+    {
+      "speaker": "Mme Gagné",
+      "fr": "Chaque élève peut apporter une bouteille d'eau, mais l'école ne permet pas les bonbons.",
+      "en": "Each student can bring a bottle of water, but the school doesn't allow candy.",
+      "uk": "Кожен учень може взяти пляшку води, але цукерки школа не дозволяє."
+    },
+    {
+      "speaker": "Mme Gagné",
+      "fr": "Chaque classe a une couleur : la classe de première année est en rouge.",
+      "en": "Each class has a colour: the grade one class is in red.",
+      "uk": "Кожен клас має свій колір: перший клас — у червоному."
+    },
+    {
+      "speaker": "Mme Gagné",
+      "fr": "L'après-midi, il y a un film en français dans le gymnase.",
+      "en": "In the afternoon, there's a film in French in the gym.",
+      "uk": "По обіді в спортзалі покажуть фільм французькою."
+    },
+    {
+      "speaker": "Mme Gagné",
+      "fr": "Les parents ont le droit de venir! On prépare du café pour vous à l'entrée.",
+      "en": "Parents are allowed to come! We're making coffee for you at the entrance.",
+      "uk": "Батьки теж можуть прийти! Біля входу для вас буде кава."
+    },
+    {
+      "speaker": "Mme Gagné",
+      "fr": "Jeudi soir, couchez vos enfants tôt : la journée va être longue!",
+      "en": "On Thursday night, put your children to bed early: it's going to be a long day!",
+      "uk": "У четвер увечері покладіть дітей спати рано: день буде довгий!"
+    },
+    {
+      "speaker": "Mme Gagné",
+      "fr": "Pour une question, passez à mon bureau ou appelez le service aux parents. À bientôt!",
+      "en": "If you have a question, come by my office or call parent services. See you soon!",
+      "uk": "Якщо маєте запитання, зайдіть до мого кабінету або зателефонуйте до служби для батьків. До зустрічі!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is happening on Friday?",
+        "uk": "Що відбудеться в п'ятницю?"
+      },
+      "options": [
+        {
+          "en": "A school trip to the sea",
+          "uk": "Шкільна поїздка до моря"
+        },
+        {
+          "en": "Sports day",
+          "uk": "День спорту"
+        },
+        {
+          "en": "A film festival",
+          "uk": "Кінофестиваль"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What must the students bring?",
+        "uk": "Що мають принести учні?"
+      },
+      "options": [
+        {
+          "en": "Clean clothes and running shoes",
+          "uk": "Чистий одяг і кросівки"
+        },
+        {
+          "en": "Candy for the class",
+          "uk": "Цукерки для класу"
+        },
+        {
+          "en": "Money for the film",
+          "uk": "Гроші на фільм"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How do the children get to the park?",
+        "uk": "Як діти дістануться до парку?"
+      },
+      "options": [
+        {
+          "en": "By school bus",
+          "uk": "Шкільним автобусом"
+        },
+        {
+          "en": "In their parents' cars",
+          "uk": "Машинами батьків"
+        },
+        {
+          "en": "On foot, with the teachers",
+          "uk": "Пішки, з учителями"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What colour is the grade one class?",
+        "uk": "Якого кольору перший клас?"
+      },
+      "options": [
+        {
+          "en": "Blue",
+          "uk": "Синього"
+        },
+        {
+          "en": "Red",
+          "uk": "Червоного"
+        },
+        {
+          "en": "Green",
+          "uk": "Зеленого"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What is there for the parents?",
+        "uk": "Що буде для батьків?"
+      },
+      "options": [
+        {
+          "en": "Coffee at the entrance",
+          "uk": "Кава біля входу"
+        },
+        {
+          "en": "A film in the gym",
+          "uk": "Фільм у спортзалі"
+        },
+        {
+          "en": "Lunch in the big hall",
+          "uk": "Обід у великій залі"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "coucher",
+      "en": "to put to bed (se coucher = to go to bed)",
+      "uk": "вкладати спати (se coucher = лягати спати)"
+    },
+    {
+      "fr": "emmener",
+      "en": "to take (someone somewhere)",
+      "uk": "забирати, везти (когось кудись)"
+    },
+    {
+      "fr": "rouge",
+      "en": "red",
+      "uk": "червоний"
+    },
+    {
+      "fr": "le droit",
+      "en": "the right / the law",
+      "uk": "право / закон"
+    },
+    {
+      "fr": "propre",
+      "en": "clean / own (ma propre voiture = my own car)",
+      "uk": "чистий / власний (ma propre voiture = моя власна машина)"
+    },
+    {
+      "fr": "l'âge (m.)",
+      "en": "the age",
+      "uk": "вік"
+    },
+    {
+      "fr": "apporter",
+      "en": "to bring",
+      "uk": "приносити"
+    },
+    {
+      "fr": "le jeu",
+      "en": "the game",
+      "uk": "гра"
+    },
+    {
+      "fr": "permettre",
+      "en": "to allow",
+      "uk": "дозволяти"
+    },
+    {
+      "fr": "le chemin",
+      "en": "the path / the way",
+      "uk": "шлях, дорога"
+    },
+    {
+      "fr": "bientôt",
+      "en": "soon",
+      "uk": "незабаром"
+    },
+    {
+      "fr": "la journée",
+      "en": "the day (daytime)",
+      "uk": "день (світла частина доби)"
+    },
+    {
+      "fr": "l'école (f.)",
+      "en": "the school",
+      "uk": "школа"
+    },
+    {
+      "fr": "d'abord",
+      "en": "first (of all)",
+      "uk": "спершу, насамперед"
+    },
+    {
+      "fr": "français / française",
+      "en": "French",
+      "uk": "французький / французька, француз"
+    },
+    {
+      "fr": "le café",
+      "en": "the coffee / the café",
+      "uk": "кава / кав'ярня"
+    },
+    {
+      "fr": "cher / chère",
+      "en": "expensive / dear",
+      "uk": "дорогий / дорога"
+    },
+    {
+      "fr": "la salle",
+      "en": "the room / the hall",
+      "uk": "зала, кімната"
+    },
+    {
+      "fr": "le service",
+      "en": "the service / the favour",
+      "uk": "послуга, обслуговування / ласка"
+    },
+    {
+      "fr": "préparer",
+      "en": "to prepare",
+      "uk": "готувати"
+    },
+    {
+      "fr": "le film",
+      "en": "the film / the movie",
+      "uk": "фільм"
+    },
+    {
+      "fr": "le milieu",
+      "en": "the middle",
+      "uk": "середина"
+    },
+    {
+      "fr": "le premier / la première",
+      "en": "the first (one)",
+      "uk": "перший / перша"
+    },
+    {
+      "fr": "le bureau",
+      "en": "the office / the desk",
+      "uk": "офіс, кабінет / письмовий стіл"
+    },
+    {
+      "fr": "la directrice / le directeur",
+      "en": "the principal (of a school)",
+      "uk": "директорка / директор (школи)"
+    },
+    {
+      "fr": "les souliers de course (m.)",
+      "en": "running shoes (Québec)",
+      "uk": "кросівки (у Квебеку)"
+    },
+    {
+      "fr": "la première année",
+      "en": "grade one (Québec)",
+      "uk": "перший клас (у Квебеку)"
+    }
+  ]
+}
