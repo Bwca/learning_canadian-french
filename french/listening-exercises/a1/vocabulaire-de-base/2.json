@@ -1,0 +1,356 @@
+{
+  "title": {
+    "en": "An announcement at the grocery store (list a1-01)",
+    "uk": "Оголошення в продуктовому магазині (список a1-01)"
+  },
+  "situation": {
+    "en": "You hear an announcement over the speakers of a grocery store in Sherbrooke.",
+    "uk": "Ви чуєте оголошення через гучномовці продуктового магазину в Шербруку."
+  },
+  "lines": [
+    {
+      "fr": "Bonjour à tous les clients de l'épicerie Gagnon et Fils!",
+      "en": "Hello to all the customers of the Gagnon and Son grocery store!",
+      "uk": "Вітаємо всіх покупців продуктового магазину «Ганьйон і син»!"
+    },
+    {
+      "fr": "Ce mois-ci, nous avons quelques bonnes affaires pour vous.",
+      "en": "This month, we have a few good deals for you.",
+      "uk": "Цього місяця в нас є для вас кілька вигідних пропозицій."
+    },
+    {
+      "fr": "Chaque mardi, les pâtes sont à deux dollars le paquet.",
+      "en": "Every Tuesday, pasta is two dollars a package.",
+      "uk": "Щовівторка макарони коштують два долари за пачку."
+    },
+    {
+      "fr": "Cette semaine, six bouteilles d'eau sont à cinq dollars.",
+      "en": "This week, six bottles of water are five dollars.",
+      "uk": "Цього тижня шість пляшок води — за п'ять доларів."
+    },
+    {
+      "fr": "Le fromage de la région est à huit dollars quatre-vingt-dix.",
+      "en": "The local cheese is eight dollars ninety.",
+      "uk": "Місцевий сир коштує вісім доларів дев'яносто центів."
+    },
+    {
+      "fr": "Ces paniers de fruits sont à dix-neuf dollars, et pas à trente dollars!",
+      "en": "These fruit baskets are nineteen dollars, not thirty dollars!",
+      "uk": "Ці кошики з фруктами коштують дев'ятнадцять доларів, а не тридцять!"
+    },
+    {
+      "fr": "Le panier de légumes est à dix-sept dollars.",
+      "en": "The vegetable basket is seventeen dollars.",
+      "uk": "Кошик з овочами коштує сімнадцять доларів."
+    },
+    {
+      "fr": "Et ce n'est pas tout : chaque client qui dépense soixante dollars a un café gratuit.",
+      "en": "And that's not all: every customer who spends sixty dollars gets a free coffee.",
+      "uk": "І це ще не все: кожен покупець, який витратить шістдесят доларів, отримує безкоштовну каву."
+    },
+    {
+      "fr": "Pourquoi? Parce que l'épicerie a soixante-dix ans cette année!",
+      "en": "Why? Because the grocery store is seventy years old this year!",
+      "uk": "Чому? Бо цього року магазину виповнюється сімдесят років!"
+    },
+    {
+      "fr": "Donc, samedi le seize, de onze heures à quatorze heures, il y a une grande fête.",
+      "en": "So, on Saturday the 16th, from eleven to two, there's a big party.",
+      "uk": "Тож у суботу, шістнадцятого, з одинадцятої до чотирнадцятої години буде велике свято."
+    },
+    {
+      "fr": "Vous n'avez rien à faire samedi? Venez avec toute la famille!",
+      "en": "Nothing to do on Saturday? Come with the whole family!",
+      "uk": "Вам нічого робити в суботу? Приходьте всією родиною!"
+    },
+    {
+      "fr": "Les enfants de moins de treize ans ont un petit cadeau, et les adultes de dix-huit ans et plus peuvent goûter les bières de la région.",
+      "en": "Children under thirteen get a little gift, and adults eighteen and over can taste the local beers.",
+      "uk": "Діти до тринадцяти років отримають невеликий подарунок, а дорослі від вісімнадцяти років можуть скуштувати місцеве пиво."
+    },
+    {
+      "fr": "Les parents et leurs enfants sont tous invités.",
+      "en": "Parents and their children are all invited.",
+      "uk": "Запрошуємо всіх батьків з їхніми дітьми."
+    },
+    {
+      "fr": "Notre adresse : quatre-vingts, rue Principale. Mille mercis, et bon magasinage!",
+      "en": "Our address: eighty Main Street. A thousand thanks, and happy shopping!",
+      "uk": "Наша адреса: вулиця Головна, вісімдесят. Щиро дякуємо, і приємних покупок!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is on sale every Tuesday?",
+        "uk": "Що продають зі знижкою щовівторка?"
+      },
+      "options": [
+        {
+          "en": "Cheese",
+          "uk": "Сир"
+        },
+        {
+          "en": "Pasta",
+          "uk": "Макарони"
+        },
+        {
+          "en": "Water",
+          "uk": "Воду"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "How much does a fruit basket cost?",
+        "uk": "Скільки коштує кошик з фруктами?"
+      },
+      "options": [
+        {
+          "en": "$19",
+          "uk": "19 $"
+        },
+        {
+          "en": "$30",
+          "uk": "30 $"
+        },
+        {
+          "en": "$17",
+          "uk": "17 $"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What do customers who spend $60 get?",
+        "uk": "Що отримують покупці, які витратили 60 $?"
+      },
+      "options": [
+        {
+          "en": "A fruit basket",
+          "uk": "Кошик з фруктами"
+        },
+        {
+          "en": "A gift for their children",
+          "uk": "Подарунок для дітей"
+        },
+        {
+          "en": "A free coffee",
+          "uk": "Безкоштовну каву"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "When is the party?",
+        "uk": "Коли буде свято?"
+      },
+      "options": [
+        {
+          "en": "Saturday the 16th, 11 a.m. to 2 p.m.",
+          "uk": "У суботу, 16-го, з 11:00 до 14:00"
+        },
+        {
+          "en": "Saturday the 18th, 11 a.m. to 4 p.m.",
+          "uk": "У суботу, 18-го, з 11:00 до 16:00"
+        },
+        {
+          "en": "Sunday the 16th, all day",
+          "uk": "У неділю, 16-го, увесь день"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Why is there a party?",
+        "uk": "Чому влаштовують свято?"
+      },
+      "options": [
+        {
+          "en": "The store is new",
+          "uk": "Магазин новий"
+        },
+        {
+          "en": "The store is 70 years old",
+          "uk": "Магазину 70 років"
+        },
+        {
+          "en": "It's the owner's son's birthday",
+          "uk": "У сина власника день народження"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "ce / cet / cette / ces",
+      "en": "this / that / these / those",
+      "uk": "цей / ця / ці (той / та / ті)"
+    },
+    {
+      "fr": "leur / leurs",
+      "en": "their",
+      "uk": "їхній / їхні"
+    },
+    {
+      "fr": "rien (ne… rien)",
+      "en": "nothing",
+      "uk": "ніщо, нічого (ne… rien)"
+    },
+    {
+      "fr": "chaque",
+      "en": "each / every",
+      "uk": "кожен / кожна"
+    },
+    {
+      "fr": "quelques",
+      "en": "a few / some",
+      "uk": "кілька, декілька"
+    },
+    {
+      "fr": "tout / toute / tous / toutes",
+      "en": "all / every / whole",
+      "uk": "весь / вся / всі / цілий"
+    },
+    {
+      "fr": "donc",
+      "en": "so / therefore",
+      "uk": "отже, тож"
+    },
+    {
+      "fr": "parce que",
+      "en": "because",
+      "uk": "тому що, бо"
+    },
+    {
+      "fr": "deux",
+      "en": "two",
+      "uk": "два"
+    },
+    {
+      "fr": "cinq",
+      "en": "five",
+      "uk": "п'ять"
+    },
+    {
+      "fr": "six",
+      "en": "six",
+      "uk": "шість"
+    },
+    {
+      "fr": "huit",
+      "en": "eight",
+      "uk": "вісім"
+    },
+    {
+      "fr": "onze",
+      "en": "eleven",
+      "uk": "одинадцять"
+    },
+    {
+      "fr": "treize",
+      "en": "thirteen",
+      "uk": "тринадцять"
+    },
+    {
+      "fr": "quatorze",
+      "en": "fourteen",
+      "uk": "чотирнадцять"
+    },
+    {
+      "fr": "seize",
+      "en": "sixteen",
+      "uk": "шістнадцять"
+    },
+    {
+      "fr": "dix-sept",
+      "en": "seventeen",
+      "uk": "сімнадцять"
+    },
+    {
+      "fr": "dix-huit",
+      "en": "eighteen",
+      "uk": "вісімнадцять"
+    },
+    {
+      "fr": "dix-neuf",
+      "en": "nineteen",
+      "uk": "дев'ятнадцять"
+    },
+    {
+      "fr": "trente",
+      "en": "thirty",
+      "uk": "тридцять"
+    },
+    {
+      "fr": "soixante",
+      "en": "sixty",
+      "uk": "шістдесят"
+    },
+    {
+      "fr": "soixante-dix",
+      "en": "seventy",
+      "uk": "сімдесят"
+    },
+    {
+      "fr": "quatre-vingts",
+      "en": "eighty",
+      "uk": "вісімдесят"
+    },
+    {
+      "fr": "quatre-vingt-dix",
+      "en": "ninety",
+      "uk": "дев'яносто"
+    },
+    {
+      "fr": "mille",
+      "en": "one thousand",
+      "uk": "тисяча"
+    },
+    {
+      "fr": "le fils",
+      "en": "the son",
+      "uk": "син"
+    },
+    {
+      "fr": "le mois",
+      "en": "the month",
+      "uk": "місяць"
+    },
+    {
+      "fr": "les pâtes (f.)",
+      "en": "the pasta",
+      "uk": "макарони"
+    },
+    {
+      "fr": "de",
+      "en": "of / from",
+      "uk": "з, від; (родовий відмінок)"
+    },
+    {
+      "fr": "l'épicerie (f.)",
+      "en": "the grocery store",
+      "uk": "продуктовий магазин"
+    },
+    {
+      "fr": "une bonne affaire",
+      "en": "a good deal",
+      "uk": "вигідна покупка"
+    },
+    {
+      "fr": "gratuit / gratuite",
+      "en": "free (of charge)",
+      "uk": "безкоштовний / безкоштовна"
+    },
+    {
+      "fr": "samedi le seize",
+      "en": "Saturday the 16th (Québec word order)",
+      "uk": "у суботу, шістнадцятого (квебекський порядок слів)"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "title": {
+    "en": "The lost cat (list a1-04)",
+    "uk": "Загублений кіт (список a1-04)"
+  },
+  "situation": {
+    "en": "You hear a conversation between two neighbours in the street, Madame Roy and Monsieur Lavoie.",
+    "uk": "Ви чуєте розмову двох сусідів на вулиці, пані Руа і пана Лавуа."
+  },
+  "lines": [
+    {
+      "speaker": "Mme Roy",
+      "fr": "Bonjour monsieur! Excusez-moi, est-ce que vous connaissez ce chat?",
+      "en": "Hello, sir! Excuse me, do you know this cat?",
+      "uk": "Добрий день, пане! Перепрошую, ви знаєте цього кота?"
+    },
+    {
+      "speaker": "M. Lavoie",
+      "fr": "Oui, je pense. C'est un beau chat gris. Pourquoi?",
+      "en": "Yes, I think so. It's a beautiful grey cat. Why?",
+      "uk": "Так, здається. Це гарний сірий кіт. А що?"
+    },
+    {
+      "speaker": "Mme Roy",
+      "fr": "C'est le chat de ma fille. Il sort la nuit, et depuis mardi, il ne revient plus à la maison.",
+      "en": "It's my daughter's cat. He goes out at night, and since Tuesday, he hasn't come home.",
+      "uk": "Це кіт моєї доньки. Він виходить уночі, а з вівторка більше не приходить додому."
+    },
+    {
+      "speaker": "M. Lavoie",
+      "fr": "Oh, c'est triste. Il a quel âge?",
+      "en": "Oh, that's sad. How old is he?",
+      "uk": "Ох, як сумно. Скільки йому років?"
+    },
+    {
+      "speaker": "Mme Roy",
+      "fr": "Il a dix ans. Ma fille a seulement sept ans, c'est une enfant. Elle pleure beaucoup.",
+      "en": "He's ten. My daughter is only seven; she's a child. She cries a lot.",
+      "uk": "Йому десять. Моїй доньці лише сім, вона ще дитина. Вона багато плаче."
+    },
+    {
+      "speaker": "M. Lavoie",
+      "fr": "Attendez un moment… La nuit, j'entends un chat entre ma maison et le garage.",
+      "en": "Wait a moment… At night, I hear a cat between my house and the garage.",
+      "uk": "Зачекайте хвилинку… Уночі я чую кота між моїм будинком і гаражем."
+    },
+    {
+      "speaker": "Mme Roy",
+      "fr": "Quoi? Où ça?",
+      "en": "What? Where?",
+      "uk": "Що? Де саме?"
+    },
+    {
+      "speaker": "M. Lavoie",
+      "fr": "Là, sous la galerie. Écoutez…",
+      "en": "There, under the porch. Listen…",
+      "uk": "Он там, під ґанком. Послухайте…"
+    },
+    {
+      "speaker": "Mme Roy",
+      "fr": "Mon Dieu! C'est lui!",
+      "en": "Oh my God! It's him!",
+      "uk": "Боже мій! Це він!"
+    },
+    {
+      "speaker": "M. Lavoie",
+      "fr": "Il a l'air fatigué, mais il va bien.",
+      "en": "He looks tired, but he's fine.",
+      "uk": "Він має втомлений вигляд, але з ним усе гаразд."
+    },
+    {
+      "speaker": "Mme Roy",
+      "fr": "Il meurt de faim, le pauvre! Je le tiens, et on rentre à la maison.",
+      "en": "He's starving, poor thing! I'll hold him, and we're going home.",
+      "uk": "Бідолаха вмирає з голоду! Я тримаю його, і ми йдемо додому."
+    },
+    {
+      "speaker": "M. Lavoie",
+      "fr": "Il est déjà dans vos bras. Avant de partir, prenez un peu d'eau pour lui.",
+      "en": "He's already in your arms. Before you go, take a little water for him.",
+      "uk": "Він уже у вас на руках. Перш ніж іти, візьміть для нього трохи води."
+    },
+    {
+      "speaker": "Mme Roy",
+      "fr": "Merci beaucoup, monsieur! Vous êtes un vrai ami.",
+      "en": "Thank you very much, sir! You're a true friend.",
+      "uk": "Щиро дякую, пане! Ви справжній друг."
+    },
+    {
+      "speaker": "M. Lavoie",
+      "fr": "Cela me fait plaisir. Et dites à votre fille d'arrêter de pleurer!",
+      "en": "It's my pleasure. And tell your daughter to stop crying!",
+      "uk": "Мені приємно. І скажіть доньці, щоб перестала плакати!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is Madame Roy looking for?",
+        "uk": "Що шукає пані Руа?"
+      },
+      "options": [
+        {
+          "en": "Her dog",
+          "uk": "Свого собаку"
+        },
+        {
+          "en": "Her daughter's cat",
+          "uk": "Кота своєї доньки"
+        },
+        {
+          "en": "Her keys",
+          "uk": "Свої ключі"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "How old is the cat?",
+        "uk": "Скільки років котові?"
+      },
+      "options": [
+        {
+          "en": "Seven",
+          "uk": "Сім"
+        },
+        {
+          "en": "Two",
+          "uk": "Два"
+        },
+        {
+          "en": "Ten",
+          "uk": "Десять"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Where do they find the cat?",
+        "uk": "Де вони знаходять кота?"
+      },
+      "options": [
+        {
+          "en": "Under the porch",
+          "uk": "Під ґанком"
+        },
+        {
+          "en": "In the garage",
+          "uk": "У гаражі"
+        },
+        {
+          "en": "In Monsieur Lavoie's house",
+          "uk": "У будинку пана Лавуа"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How is the cat?",
+        "uk": "Як почувається кіт?"
+      },
+      "options": [
+        {
+          "en": "He is hurt",
+          "uk": "Він поранений"
+        },
+        {
+          "en": "He is tired and hungry, but fine",
+          "uk": "Він утомлений і голодний, але з ним усе гаразд"
+        },
+        {
+          "en": "He is sick",
+          "uk": "Він хворий"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Who cries a lot?",
+        "uk": "Хто багато плаче?"
+      },
+      "options": [
+        {
+          "en": "Madame Roy's daughter",
+          "uk": "Донька пані Руа"
+        },
+        {
+          "en": "Madame Roy",
+          "uk": "Пані Руа"
+        },
+        {
+          "en": "Monsieur Lavoie",
+          "uk": "Пан Лавуа"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "connaître",
+      "en": "to know (a person / a place)",
+      "uk": "знати (людину / місце)"
+    },
+    {
+      "fr": "l'an (m.)",
+      "en": "the year (with numbers: j'ai vingt ans)",
+      "uk": "рік (з числами: j'ai vingt ans)"
+    },
+    {
+      "fr": "pourquoi",
+      "en": "why",
+      "uk": "чому"
+    },
+    {
+      "fr": "sortir",
+      "en": "to go out",
+      "uk": "виходити"
+    },
+    {
+      "fr": "l'enfant (m./f.)",
+      "en": "the child",
+      "uk": "дитина"
+    },
+    {
+      "fr": "arrêter",
+      "en": "to stop",
+      "uk": "зупиняти, припиняти"
+    },
+    {
+      "fr": "entendre",
+      "en": "to hear",
+      "uk": "чути"
+    },
+    {
+      "fr": "la fille",
+      "en": "the girl / the daughter",
+      "uk": "дівчина / донька"
+    },
+    {
+      "fr": "déjà",
+      "en": "already",
+      "uk": "вже"
+    },
+    {
+      "fr": "sous",
+      "en": "under",
+      "uk": "під"
+    },
+    {
+      "fr": "la nuit",
+      "en": "the night",
+      "uk": "ніч"
+    },
+    {
+      "fr": "mourir",
+      "en": "to die",
+      "uk": "помирати"
+    },
+    {
+      "fr": "quoi",
+      "en": "what",
+      "uk": "що"
+    },
+    {
+      "fr": "le dieu",
+      "en": "God / the god",
+      "uk": "Бог / бог"
+    },
+    {
+      "fr": "beau / belle",
+      "en": "beautiful / handsome",
+      "uk": "гарний / гарна, красивий"
+    },
+    {
+      "fr": "tenir",
+      "en": "to hold",
+      "uk": "тримати"
+    },
+    {
+      "fr": "cela",
+      "en": "that (formal)",
+      "uk": "це, те (книжн.)"
+    },
+    {
+      "fr": "entre",
+      "en": "between",
+      "uk": "між"
+    },
+    {
+      "fr": "l'air (m.)",
+      "en": "the air / the look (avoir l'air = to seem)",
+      "uk": "повітря / вигляд (avoir l'air = здаватися)"
+    },
+    {
+      "fr": "le moment",
+      "en": "the moment",
+      "uk": "мить, момент"
+    },
+    {
+      "fr": "revenir",
+      "en": "to come back",
+      "uk": "повертатися"
+    },
+    {
+      "fr": "avant",
+      "en": "before / beforehand",
+      "uk": "до, перед / раніше"
+    },
+    {
+      "fr": "l'ami (m.) / l'amie (f.)",
+      "en": "the friend",
+      "uk": "друг / подруга"
+    },
+    {
+      "fr": "beaucoup",
+      "en": "a lot / much",
+      "uk": "багато"
+    },
+    {
+      "fr": "le monsieur",
+      "en": "the gentleman / sir",
+      "uk": "пан / пане"
+    },
+    {
+      "fr": "la galerie",
+      "en": "the porch, the balcony (Québec)",
+      "uk": "ґанок, балкон (у Квебеку)"
+    },
+    {
+      "fr": "pleurer",
+      "en": "to cry",
+      "uk": "плакати"
+    },
+    {
+      "fr": "Mon Dieu!",
+      "en": "My God! / Oh my!",
+      "uk": "Боже мій!"
+    }
+  ]
+}

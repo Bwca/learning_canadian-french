@@ -1,0 +1,306 @@
+{
+  "title": {
+    "en": "Hockey night at the arena (list a1-05)",
+    "uk": "Хокейний вечір на арені (список a1-05)"
+  },
+  "situation": {
+    "en": "You are at a hockey arena in Sherbrooke. You hear an announcement before the game.",
+    "uk": "Ви на хокейній арені в Шербруку. Перед матчем ви чуєте оголошення."
+  },
+  "lines": [
+    {
+      "fr": "Mesdames et messieurs, bonsoir et bienvenue à l'aréna!",
+      "en": "Ladies and gentlemen, good evening and welcome to the arena!",
+      "uk": "Пані та панове, добрий вечір і ласкаво просимо на арену!"
+    },
+    {
+      "fr": "Ce soir, les Castors de Sherbrooke jouent contre les Loups de Gatineau.",
+      "en": "Tonight, the Sherbrooke Beavers play against the Gatineau Wolves.",
+      "uk": "Сьогодні ввечері «Бобри» з Шербрука грають проти «Вовків» із Гатіно."
+    },
+    {
+      "fr": "Le match commence dans quinze minutes, à dix-neuf heures trente.",
+      "en": "The game starts in fifteen minutes, at seven thirty.",
+      "uk": "Матч починається за п'ятнадцять хвилин, о дев'ятнадцятій тридцять."
+    },
+    {
+      "fr": "Les portes sont ouvertes. Pour entrer, tirez la porte, ne la poussez pas.",
+      "en": "The doors are open. To come in, pull the door, don't push it.",
+      "uk": "Двері відчинені. Щоб увійти, тягніть двері на себе, а не штовхайте."
+    },
+    {
+      "fr": "Votre place est écrite sur votre billet.",
+      "en": "Your seat is written on your ticket.",
+      "uk": "Ваше місце вказано на квитку."
+    },
+    {
+      "fr": "Les gens qui sont devant la porte numéro deux : entrez vite, s'il vous plaît!",
+      "en": "People in front of door number two: come in quickly, please!",
+      "uk": "Люди, які стоять перед дверима номер два: заходьте швидше, будь ласка!"
+    },
+    {
+      "fr": "Pendant la pause, vous pouvez manger et acheter de l'eau au casse-croûte, de l'autre côté de l'aréna.",
+      "en": "During the break, you can eat and buy water at the snack bar, on the other side of the arena.",
+      "uk": "Під час перерви можна поїсти й купити води в закусочній, з іншого боку арени."
+    },
+    {
+      "fr": "N'oubliez pas de porter votre manteau : il fait froid ici!",
+      "en": "Don't forget to wear your coat: it's cold in here!",
+      "uk": "Не забудьте вдягнути пальто: тут холодно!"
+    },
+    {
+      "fr": "Les Castors jouent ici depuis cinquante ans.",
+      "en": "The Beavers have been playing here for fifty years.",
+      "uk": "«Бобри» грають тут уже п'ятдесят років."
+    },
+    {
+      "fr": "C'est le dernier match de la saison, et ils ne veulent pas perdre!",
+      "en": "It's the last game of the season, and they don't want to lose!",
+      "uk": "Це останній матч сезону, і вони не хочуть програти!"
+    },
+    {
+      "fr": "Alors, écoutez bien ma voix, et faites du bruit pour les Castors!",
+      "en": "So listen carefully to my voice, and make some noise for the Beavers!",
+      "uk": "Тож уважно слухайте мій голос і пошуміть для «Бобрів»!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Who is playing tonight?",
+        "uk": "Хто грає сьогодні ввечері?"
+      },
+      "options": [
+        {
+          "en": "Sherbrooke against Gatineau",
+          "uk": "Шербрук проти Гатіно"
+        },
+        {
+          "en": "Sherbrooke against Québec",
+          "uk": "Шербрук проти Квебека"
+        },
+        {
+          "en": "Gatineau against Montréal",
+          "uk": "Гатіно проти Монреаля"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What time does the game start?",
+        "uk": "О котрій починається матч?"
+      },
+      "options": [
+        {
+          "en": "At 7:15 p.m.",
+          "uk": "О 19:15"
+        },
+        {
+          "en": "At 7:30 p.m.",
+          "uk": "О 19:30"
+        },
+        {
+          "en": "At 9:30 p.m.",
+          "uk": "О 21:30"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "How do you open the doors?",
+        "uk": "Як відчинити двері?"
+      },
+      "options": [
+        {
+          "en": "Push them",
+          "uk": "Штовхнути їх"
+        },
+        {
+          "en": "They open by themselves",
+          "uk": "Вони відчиняються самі"
+        },
+        {
+          "en": "Pull them",
+          "uk": "Потягнути їх на себе"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Where can you buy water?",
+        "uk": "Де можна купити воду?"
+      },
+      "options": [
+        {
+          "en": "At the snack bar, on the other side of the arena",
+          "uk": "У закусочній, з іншого боку арени"
+        },
+        {
+          "en": "In front of door number two",
+          "uk": "Перед дверима номер два"
+        },
+        {
+          "en": "At your seat",
+          "uk": "На своєму місці"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Why is tonight's game special?",
+        "uk": "Чим особливий сьогоднішній матч?"
+      },
+      "options": [
+        {
+          "en": "It's the first game of the season",
+          "uk": "Це перший матч сезону"
+        },
+        {
+          "en": "It's the last game of the season",
+          "uk": "Це останній матч сезону"
+        },
+        {
+          "en": "The team is 15 years old",
+          "uk": "Команді 15 років"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "depuis",
+      "en": "since / for (time)",
+      "uk": "з (якогось часу) / протягом"
+    },
+    {
+      "fr": "les gens",
+      "en": "people",
+      "uk": "люди"
+    },
+    {
+      "fr": "la porte",
+      "en": "the door",
+      "uk": "двері"
+    },
+    {
+      "fr": "perdre",
+      "en": "to lose",
+      "uk": "губити, втрачати"
+    },
+    {
+      "fr": "jouer",
+      "en": "to play",
+      "uk": "грати"
+    },
+    {
+      "fr": "ouvrir",
+      "en": "to open",
+      "uk": "відчиняти"
+    },
+    {
+      "fr": "contre",
+      "en": "against",
+      "uk": "проти"
+    },
+    {
+      "fr": "devant",
+      "en": "in front of",
+      "uk": "перед"
+    },
+    {
+      "fr": "commencer",
+      "en": "to start / to begin",
+      "uk": "починати"
+    },
+    {
+      "fr": "le côté",
+      "en": "the side",
+      "uk": "бік, сторона"
+    },
+    {
+      "fr": "entrer",
+      "en": "to enter / to come in",
+      "uk": "входити, заходити"
+    },
+    {
+      "fr": "vite",
+      "en": "quickly / fast",
+      "uk": "швидко"
+    },
+    {
+      "fr": "dernier / dernière",
+      "en": "last",
+      "uk": "останній / остання"
+    },
+    {
+      "fr": "tirer",
+      "en": "to pull / to shoot",
+      "uk": "тягнути / стріляти"
+    },
+    {
+      "fr": "porter",
+      "en": "to carry / to wear",
+      "uk": "нести / носити (одяг)"
+    },
+    {
+      "fr": "écouter",
+      "en": "to listen (to)",
+      "uk": "слухати"
+    },
+    {
+      "fr": "oublier",
+      "en": "to forget",
+      "uk": "забувати"
+    },
+    {
+      "fr": "la place",
+      "en": "the place / the seat / the square",
+      "uk": "місце / сидіння / площа"
+    },
+    {
+      "fr": "l'eau (f.)",
+      "en": "the water",
+      "uk": "вода"
+    },
+    {
+      "fr": "pendant",
+      "en": "during",
+      "uk": "під час"
+    },
+    {
+      "fr": "manger",
+      "en": "to eat",
+      "uk": "їсти"
+    },
+    {
+      "fr": "la voix",
+      "en": "the voice",
+      "uk": "голос"
+    },
+    {
+      "fr": "l'aréna (m.)",
+      "en": "the (hockey) arena (Québec)",
+      "uk": "льодова арена (у Квебеку)"
+    },
+    {
+      "fr": "le casse-croûte",
+      "en": "the snack bar (Québec)",
+      "uk": "закусочна (у Квебеку)"
+    },
+    {
+      "fr": "le billet",
+      "en": "the ticket",
+      "uk": "квиток"
+    },
+    {
+      "fr": "faire du bruit",
+      "en": "to make noise",
+      "uk": "шуміти"
+    }
+  ]
+}

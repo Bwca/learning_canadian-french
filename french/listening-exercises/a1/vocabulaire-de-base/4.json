@@ -1,0 +1,359 @@
+{
+  "title": {
+    "en": "A voicemail for the boss (list a1-02)",
+    "uk": "Голосове повідомлення для керівниці (список a1-02)"
+  },
+  "situation": {
+    "en": "You hear a voicemail that Julie leaves for her boss, Madame Côté.",
+    "uk": "Ви чуєте голосове повідомлення, яке Жулі залишає своїй керівниці, пані Коте."
+  },
+  "lines": [
+    {
+      "speaker": "Julie",
+      "fr": "Bonjour madame Côté, c'est Julie.",
+      "en": "Hello Madame Côté, it's Julie.",
+      "uk": "Добрий день, пані Коте, це Жулі."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Je suis désolée, mais je ne suis pas au bureau aujourd'hui.",
+      "en": "I'm sorry, but I'm not at the office today.",
+      "uk": "Мені прикро, але сьогодні мене не буде в офісі."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Mon fils est malade, et il a de la fièvre.",
+      "en": "My son is sick, and he has a fever.",
+      "uk": "Мій син захворів, у нього температура."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Je reste à la maison avec lui.",
+      "en": "I'm staying home with him.",
+      "uk": "Я залишаюся вдома з ним."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Le rapport pour la réunion de demain est sur mon bureau, dans un dossier bleu.",
+      "en": "The report for tomorrow's meeting is on my desk, in a blue folder.",
+      "uk": "Звіт для завтрашньої наради лежить на моєму столі, у синій папці."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Est-ce que vous pouvez le donner à Marc?",
+      "en": "Can you give it to Marc?",
+      "uk": "Чи можете ви передати його Маркові?"
+    },
+    {
+      "speaker": "Julie",
+      "fr": "S'il a besoin de photos, il y en a dans le dossier.",
+      "en": "If he needs photos, there are some in the folder.",
+      "uk": "Якщо йому потрібні фотографії, вони є в папці."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Ma collègue Sophie peut s'occuper de mes clients. Elle connaît bien le dossier.",
+      "en": "My colleague Sophie can take care of my clients. She knows the file well.",
+      "uk": "Моя колежанка Софі може подбати про моїх клієнтів. Вона добре знає цю справу."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Elle me dit qu'elle est libre cet après-midi.",
+      "en": "She tells me she's free this afternoon.",
+      "uk": "Вона каже мені, що сьогодні по обіді вільна."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Nous avons aussi un appel avec un client et son équipe en France, à quinze heures.",
+      "en": "We also have a call with a client and his team in France, at three p.m.",
+      "uk": "Ще в нас о п'ятнадцятій годині дзвінок із клієнтом і його командою у Франції."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Pour moi, c'est plus simple de faire cet appel de la maison.",
+      "en": "For me, it's simpler to make that call from home.",
+      "uk": "Мені простіше зробити цей дзвінок з дому."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Vous pouvez me joindre sur mon cellulaire ou par courriel.",
+      "en": "You can reach me on my cell phone or by email.",
+      "uk": "Ви можете зв'язатися зі мною по мобільному або електронною поштою."
+    },
+    {
+      "speaker": "Julie",
+      "fr": "Demain, je reviens au bureau vers dix heures. Merci, et bonne journée!",
+      "en": "Tomorrow, I'll be back at the office around ten. Thank you, and have a good day!",
+      "uk": "Завтра я повернуся в офіс близько десятої. Дякую, гарного дня!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Why isn't Julie at the office?",
+        "uk": "Чому Жулі немає в офісі?"
+      },
+      "options": [
+        {
+          "en": "She is sick",
+          "uk": "Вона захворіла"
+        },
+        {
+          "en": "Her son is sick",
+          "uk": "Її син захворів"
+        },
+        {
+          "en": "She is on holiday",
+          "uk": "Вона у відпустці"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Where is the report?",
+        "uk": "Де звіт?"
+      },
+      "options": [
+        {
+          "en": "On her desk, in a blue folder",
+          "uk": "На її столі, у синій папці"
+        },
+        {
+          "en": "In Marc's office",
+          "uk": "У кабінеті Марка"
+        },
+        {
+          "en": "In an email",
+          "uk": "В електронному листі"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Who will take care of Julie's clients?",
+        "uk": "Хто подбає про клієнтів Жулі?"
+      },
+      "options": [
+        {
+          "en": "Marc",
+          "uk": "Марк"
+        },
+        {
+          "en": "Madame Côté",
+          "uk": "Пані Коте"
+        },
+        {
+          "en": "Sophie",
+          "uk": "Софі"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What time is the call with the client in France?",
+        "uk": "О котрій годині дзвінок із клієнтом у Франції?"
+      },
+      "options": [
+        {
+          "en": "At 3 p.m.",
+          "uk": "О 15:00"
+        },
+        {
+          "en": "At 10 a.m.",
+          "uk": "О 10:00"
+        },
+        {
+          "en": "At 5 p.m.",
+          "uk": "О 17:00"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "When will Julie be back at the office?",
+        "uk": "Коли Жулі повернеться в офіс?"
+      },
+      "options": [
+        {
+          "en": "This afternoon",
+          "uk": "Сьогодні по обіді"
+        },
+        {
+          "en": "Tomorrow around ten",
+          "uk": "Завтра близько десятої"
+        },
+        {
+          "en": "Tomorrow at three",
+          "uk": "Завтра о третій"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "être",
+      "en": "to be",
+      "uk": "бути"
+    },
+    {
+      "fr": "je",
+      "en": "I",
+      "uk": "я"
+    },
+    {
+      "fr": "ne",
+      "en": "not (ne… pas)",
+      "uk": "не (ne… pas)"
+    },
+    {
+      "fr": "et",
+      "en": "and",
+      "uk": "і, та"
+    },
+    {
+      "fr": "le / la / les",
+      "en": "the",
+      "uk": "означений артикль (чол. / жін. / мн.)"
+    },
+    {
+      "fr": "à",
+      "en": "to / at / in",
+      "uk": "до, в, у, на"
+    },
+    {
+      "fr": "avoir",
+      "en": "to have",
+      "uk": "мати"
+    },
+    {
+      "fr": "il",
+      "en": "he / it",
+      "uk": "він / воно"
+    },
+    {
+      "fr": "pas",
+      "en": "not",
+      "uk": "не"
+    },
+    {
+      "fr": "un / une",
+      "en": "a / an",
+      "uk": "неозначений артикль (чол. / жін.)"
+    },
+    {
+      "fr": "vous",
+      "en": "you (formal / plural)",
+      "uk": "ви (ввічливо / множина)"
+    },
+    {
+      "fr": "en (préposition)",
+      "en": "in / to (a country)",
+      "uk": "в, у, до (країни)"
+    },
+    {
+      "fr": "pour",
+      "en": "for",
+      "uk": "для"
+    },
+    {
+      "fr": "elle",
+      "en": "she / it",
+      "uk": "вона / воно"
+    },
+    {
+      "fr": "dire",
+      "en": "to say / to tell",
+      "uk": "казати, говорити"
+    },
+    {
+      "fr": "se",
+      "en": "oneself / himself / herself (reflexive)",
+      "uk": "себе, -ся (зворотне)"
+    },
+    {
+      "fr": "me",
+      "en": "me / myself",
+      "uk": "мене, мені / себе"
+    },
+    {
+      "fr": "plus",
+      "en": "more",
+      "uk": "більше"
+    },
+    {
+      "fr": "nous",
+      "en": "we / us",
+      "uk": "ми / нас"
+    },
+    {
+      "fr": "ce",
+      "en": "this / that / it (c'est)",
+      "uk": "це, те (c'est)"
+    },
+    {
+      "fr": "sur",
+      "en": "on",
+      "uk": "на"
+    },
+    {
+      "fr": "bien",
+      "en": "well",
+      "uk": "добре"
+    },
+    {
+      "fr": "lui",
+      "en": "him / her (to him / to her)",
+      "uk": "йому / їй"
+    },
+    {
+      "fr": "son / sa / ses",
+      "en": "his / her (masc.)",
+      "uk": "його / її (свій)"
+    },
+    {
+      "fr": "mon / ma / mes",
+      "en": "my",
+      "uk": "мій / моя / мої"
+    },
+    {
+      "fr": "en (pronom)",
+      "en": "some / of it (pronoun)",
+      "uk": "його, цього, з цього (займенник)"
+    },
+    {
+      "fr": "moi",
+      "en": "me (stressed)",
+      "uk": "я, мене (наголошене)"
+    },
+    {
+      "fr": "par",
+      "en": "by / through",
+      "uk": "через, за допомогою, ким"
+    },
+    {
+      "fr": "le courriel",
+      "en": "the email (Québec)",
+      "uk": "електронний лист (у Квебеку)"
+    },
+    {
+      "fr": "le cellulaire",
+      "en": "the cell phone (Québec)",
+      "uk": "мобільний телефон (у Квебеку)"
+    },
+    {
+      "fr": "s'occuper de",
+      "en": "to take care of",
+      "uk": "займатися, подбати про"
+    },
+    {
+      "fr": "la fièvre",
+      "en": "the fever",
+      "uk": "гарячка, температура"
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "title": {
+    "en": "Plans for Saturday (list a1-02)",
+    "uk": "Плани на суботу (список a1-02)"
+  },
+  "situation": {
+    "en": "You hear a phone call between two friends, Léa and Sam.",
+    "uk": "Ви чуєте телефонну розмову двох друзів, Леа і Сема."
+  },
+  "lines": [
+    {
+      "speaker": "Sam",
+      "fr": "Allô?",
+      "en": "Hello?",
+      "uk": "Алло?"
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Salut Sam, c'est Léa! Qu'est-ce que tu fais samedi?",
+      "en": "Hi Sam, it's Léa! What are you doing on Saturday?",
+      "uk": "Привіт, Семе, це Леа! Що ти робиш у суботу?"
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Rien de spécial. Pourquoi?",
+      "en": "Nothing special. Why?",
+      "uk": "Нічого особливого. А що?"
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Je vais à Québec avec ma sœur. Tu veux venir avec nous?",
+      "en": "I'm going to Québec City with my sister. Do you want to come with us?",
+      "uk": "Я їду до Квебека із сестрою. Хочеш поїхати з нами?"
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Oui! Mais comment est-ce qu'on y va? En autobus ou en auto?",
+      "en": "Yes! But how do we get there? By bus or by car?",
+      "uk": "Так! Але як ми туди доберемося? Автобусом чи машиною?"
+    },
+    {
+      "speaker": "Léa",
+      "fr": "En auto. On part à huit heures. Je peux te prendre chez toi.",
+      "en": "By car. We leave at eight. I can pick you up at your place.",
+      "uk": "Машиною. Виїжджаємо о восьмій. Я можу заїхати по тебе додому."
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Super. Et où est-ce qu'on va dîner?",
+      "en": "Great. And where are we having lunch?",
+      "uk": "Чудово. А де ми будемо обідати?"
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Dans un petit restaurant que je connais, dans le Vieux-Québec.",
+      "en": "In a little restaurant I know, in Old Québec.",
+      "uk": "У маленькому ресторані, який я знаю, у Старому Квебеку."
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Parfait. Mais je dois être de retour à six heures, parce que je travaille le soir.",
+      "en": "Perfect. But I have to be back at six, because I work in the evening.",
+      "uk": "Чудово. Але я маю повернутися о шостій, бо ввечері працюю."
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Pas de problème. Tu veux voir le Château Frontenac?",
+      "en": "No problem. Do you want to see the Château Frontenac?",
+      "uk": "Без проблем. Хочеш подивитися на Шато Фронтенак?"
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Non, je le vois chaque année! Mais je veux voir les chutes Montmorency.",
+      "en": "No, I see it every year! But I want to see Montmorency Falls.",
+      "uk": "Ні, я бачу його щороку! А от водоспад Монморансі хочу побачити."
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Bonne idée! Comme toujours, tu as de bonnes idées.",
+      "en": "Good idea! As always, you have good ideas.",
+      "uk": "Добра ідея! Як завжди, у тебе гарні ідеї."
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Est-ce que tu sais qui vient aussi?",
+      "en": "Do you know who else is coming?",
+      "uk": "А ти знаєш, хто ще їде?"
+    },
+    {
+      "speaker": "Léa",
+      "fr": "Ma sœur et son ami Julien. Tu le connais?",
+      "en": "My sister and her friend Julien. Do you know him?",
+      "uk": "Моя сестра та її друг Жульєн. Ти його знаєш?"
+    },
+    {
+      "speaker": "Sam",
+      "fr": "Oui, un peu. Bon, à samedi!",
+      "en": "Yes, a little. OK, see you Saturday!",
+      "uk": "Так, трохи. Ну, до суботи!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Where is Léa going on Saturday?",
+        "uk": "Куди Леа їде в суботу?"
+      },
+      "options": [
+        {
+          "en": "To Montréal",
+          "uk": "До Монреаля"
+        },
+        {
+          "en": "To Québec City",
+          "uk": "До Квебека"
+        },
+        {
+          "en": "To Trois-Rivières",
+          "uk": "До Труа-Рів'єра"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "How are they travelling?",
+        "uk": "Як вони поїдуть?"
+      },
+      "options": [
+        {
+          "en": "By bus",
+          "uk": "Автобусом"
+        },
+        {
+          "en": "By train",
+          "uk": "Потягом"
+        },
+        {
+          "en": "By car",
+          "uk": "Машиною"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "When does Sam have to be back?",
+        "uk": "Коли Сем має повернутися?"
+      },
+      "options": [
+        {
+          "en": "At six",
+          "uk": "О шостій"
+        },
+        {
+          "en": "At eight",
+          "uk": "О восьмій"
+        },
+        {
+          "en": "At ten",
+          "uk": "О десятій"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What does Sam want to see?",
+        "uk": "Що Сем хоче побачити?"
+      },
+      "options": [
+        {
+          "en": "The Château Frontenac",
+          "uk": "Шато Фронтенак"
+        },
+        {
+          "en": "Montmorency Falls",
+          "uk": "Водоспад Монморансі"
+        },
+        {
+          "en": "The Old Port",
+          "uk": "Старий порт"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Who else is coming?",
+        "uk": "Хто ще поїде?"
+      },
+      "options": [
+        {
+          "en": "Léa's brother",
+          "uk": "Брат Леа"
+        },
+        {
+          "en": "Sam's sister",
+          "uk": "Сестра Сема"
+        },
+        {
+          "en": "Léa's sister and her friend",
+          "uk": "Сестра Леа та її друг"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "tu",
+      "en": "you (informal)",
+      "uk": "ти"
+    },
+    {
+      "fr": "faire",
+      "en": "to do / to make",
+      "uk": "робити"
+    },
+    {
+      "fr": "qui",
+      "en": "who / which",
+      "uk": "хто, який"
+    },
+    {
+      "fr": "on",
+      "en": "we (casual) / one",
+      "uk": "ми (розм.) / хтось, люди"
+    },
+    {
+      "fr": "dans",
+      "en": "in / inside",
+      "uk": "в, у, всередині"
+    },
+    {
+      "fr": "aller",
+      "en": "to go",
+      "uk": "іти, їхати"
+    },
+    {
+      "fr": "mais",
+      "en": "but",
+      "uk": "але"
+    },
+    {
+      "fr": "pouvoir",
+      "en": "can / to be able to",
+      "uk": "могти, бути здатним"
+    },
+    {
+      "fr": "avec",
+      "en": "with",
+      "uk": "з, разом з"
+    },
+    {
+      "fr": "y",
+      "en": "there (j'y vais)",
+      "uk": "туди, там (j'y vais)"
+    },
+    {
+      "fr": "que",
+      "en": "that / what / than",
+      "uk": "що, який / ніж"
+    },
+    {
+      "fr": "vouloir",
+      "en": "to want",
+      "uk": "хотіти"
+    },
+    {
+      "fr": "voir",
+      "en": "to see",
+      "uk": "бачити"
+    },
+    {
+      "fr": "savoir",
+      "en": "to know (a fact)",
+      "uk": "знати (факт), вміти"
+    },
+    {
+      "fr": "comme",
+      "en": "like / as",
+      "uk": "як, наче / як (у ролі)"
+    },
+    {
+      "fr": "le / la / les (pronom)",
+      "en": "him / her / it / them (object)",
+      "uk": "його / її / їх (додаток)"
+    },
+    {
+      "fr": "non",
+      "en": "no",
+      "uk": "ні"
+    },
+    {
+      "fr": "te",
+      "en": "you / yourself (informal object)",
+      "uk": "тебе, тобі / себе (неформально)"
+    },
+    {
+      "fr": "devoir",
+      "en": "must / to have to / to owe",
+      "uk": "мусити, бути повинним / бути винним"
+    },
+    {
+      "fr": "venir",
+      "en": "to come",
+      "uk": "приходити"
+    },
+    {
+      "fr": "où",
+      "en": "where",
+      "uk": "де"
+    },
+    {
+      "fr": "ou",
+      "en": "or",
+      "uk": "або, чи"
+    },
+    {
+      "fr": "allô",
+      "en": "hello (on the phone)",
+      "uk": "алло"
+    },
+    {
+      "fr": "le dîner",
+      "en": "lunch (Québec; dinner in France)",
+      "uk": "обід (у Квебеку; у Франції — вечеря)"
+    },
+    {
+      "fr": "l'auto (f.)",
+      "en": "the car (Québec, also le char)",
+      "uk": "машина (у Квебеку, також le char)"
+    },
+    {
+      "fr": "les chutes (f.)",
+      "en": "the falls (waterfall)",
+      "uk": "водоспад"
+    }
+  ]
+}

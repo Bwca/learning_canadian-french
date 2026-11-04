@@ -1,0 +1,363 @@
+{
+  "title": {
+    "en": "A call from school (list a1-04)",
+    "uk": "Дзвінок зі школи (список a1-04)"
+  },
+  "situation": {
+    "en": "You hear a phone call between Emma and her father.",
+    "uk": "Ви чуєте телефонну розмову Емми з її батьком."
+  },
+  "lines": [
+    {
+      "speaker": "Papa",
+      "fr": "Allô?",
+      "en": "Hello?",
+      "uk": "Алло?"
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Papa, c'est Emma. Je t'appelle de l'école.",
+      "en": "Dad, it's Emma. I'm calling you from school.",
+      "uk": "Тату, це Емма. Я дзвоню тобі зі школи."
+    },
+    {
+      "speaker": "Papa",
+      "fr": "Oh, Emma! Qu'est-ce qu'il y a?",
+      "en": "Oh, Emma! What's wrong?",
+      "uk": "О, Еммо! Що сталося?"
+    },
+    {
+      "speaker": "Emma",
+      "fr": "J'ai mal à la tête, et je ne me sens pas bien.",
+      "en": "I have a headache, and I don't feel well.",
+      "uk": "У мене болить голова, і я погано почуваюся."
+    },
+    {
+      "speaker": "Papa",
+      "fr": "Comment ça? Tu as de la fièvre?",
+      "en": "How so? Do you have a fever?",
+      "uk": "Як це? У тебе температура?"
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Peut-être. Je n'ai ni faim ni soif.",
+      "en": "Maybe. I'm neither hungry nor thirsty.",
+      "uk": "Можливо. Мені не хочеться ні їсти, ні пити."
+    },
+    {
+      "speaker": "Papa",
+      "fr": "Je comprends. Tu as besoin de rentrer à la maison?",
+      "en": "I understand. Do you need to come home?",
+      "uk": "Розумію. Тобі треба повернутися додому?"
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Oui. Est-ce que tu peux venir me chercher?",
+      "en": "Yes. Can you come and pick me up?",
+      "uk": "Так. Ти можеш по мене приїхати?"
+    },
+    {
+      "speaker": "Papa",
+      "fr": "Bien sûr. Je pars du bureau maintenant.",
+      "en": "Of course. I'm leaving the office now.",
+      "uk": "Звісно. Я вже виїжджаю з офісу."
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Tu arrives vers quelle heure?",
+      "en": "Around what time will you get here?",
+      "uk": "Приблизно о котрій ти приїдеш?"
+    },
+    {
+      "speaker": "Papa",
+      "fr": "Vers deux heures moins le quart. Attends-moi devant l'école.",
+      "en": "Around a quarter to two. Wait for me in front of the school.",
+      "uk": "Близько за чверть друга. Чекай мене перед школою."
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Et maman?",
+      "en": "And Mom?",
+      "uk": "А мама?"
+    },
+    {
+      "speaker": "Papa",
+      "fr": "Je donne un coup de fil à ta mère après.",
+      "en": "I'll give your mother a call afterwards.",
+      "uk": "Потім я зателефоную твоїй мамі."
+    },
+    {
+      "speaker": "Papa",
+      "fr": "Ce soir, tu restes au lit, et demain, on va chez le médecin.",
+      "en": "Tonight, you stay in bed, and tomorrow, we're going to the doctor's.",
+      "uk": "Сьогодні ввечері ти лежиш у ліжку, а завтра ми підемо до лікаря."
+    },
+    {
+      "speaker": "Emma",
+      "fr": "Oh non, vraiment? Pas le médecin!",
+      "en": "Oh no, really? Not the doctor!",
+      "uk": "Ох, ні, справді? Тільки не до лікаря!"
+    },
+    {
+      "speaker": "Papa",
+      "fr": "Si, si. C'est mieux comme ça.",
+      "en": "Yes, yes. It's better that way.",
+      "uk": "Так-так. Так буде краще."
+    },
+    {
+      "speaker": "Emma",
+      "fr": "D'accord. Merci, tu es le meilleur père du monde!",
+      "en": "OK. Thanks, you're the best father in the world!",
+      "uk": "Гаразд. Дякую, ти найкращий тато у світі!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Where is Emma calling from?",
+        "uk": "Звідки дзвонить Емма?"
+      },
+      "options": [
+        {
+          "en": "From home",
+          "uk": "З дому"
+        },
+        {
+          "en": "From school",
+          "uk": "Зі школи"
+        },
+        {
+          "en": "From a friend's house",
+          "uk": "Від подруги"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What is wrong with Emma?",
+        "uk": "Що з Еммою?"
+      },
+      "options": [
+        {
+          "en": "She has a headache",
+          "uk": "У неї болить голова"
+        },
+        {
+          "en": "She hurt her hand",
+          "uk": "Вона поранила руку"
+        },
+        {
+          "en": "She is very hungry",
+          "uk": "Вона дуже голодна"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "When will her father arrive?",
+        "uk": "Коли приїде батько?"
+      },
+      "options": [
+        {
+          "en": "Around 2:15",
+          "uk": "Близько 14:15"
+        },
+        {
+          "en": "Around 12:45",
+          "uk": "Близько 12:45"
+        },
+        {
+          "en": "Around 1:45",
+          "uk": "Близько 13:45"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Who will the father call?",
+        "uk": "Кому зателефонує батько?"
+      },
+      "options": [
+        {
+          "en": "The doctor",
+          "uk": "Лікареві"
+        },
+        {
+          "en": "Emma's mother",
+          "uk": "Мамі Емми"
+        },
+        {
+          "en": "The school",
+          "uk": "До школи"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What will happen tomorrow?",
+        "uk": "Що буде завтра?"
+      },
+      "options": [
+        {
+          "en": "Emma goes back to school",
+          "uk": "Емма повернеться до школи"
+        },
+        {
+          "en": "Emma goes to the doctor",
+          "uk": "Емма піде до лікаря"
+        },
+        {
+          "en": "Her mother stays home",
+          "uk": "Мама залишиться вдома"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "appeler",
+      "en": "to call",
+      "uk": "кликати, телефонувати"
+    },
+    {
+      "fr": "le père",
+      "en": "the father",
+      "uk": "батько"
+    },
+    {
+      "fr": "peut-être",
+      "en": "maybe",
+      "uk": "можливо"
+    },
+    {
+      "fr": "partir",
+      "en": "to leave / to go away",
+      "uk": "йти, від'їжджати"
+    },
+    {
+      "fr": "le monde",
+      "en": "the world / people (tout le monde)",
+      "uk": "світ / люди (tout le monde = всі)"
+    },
+    {
+      "fr": "maintenant",
+      "en": "now",
+      "uk": "зараз"
+    },
+    {
+      "fr": "chez",
+      "en": "at (someone's place)",
+      "uk": "у (когось удома)"
+    },
+    {
+      "fr": "comprendre",
+      "en": "to understand",
+      "uk": "розуміти"
+    },
+    {
+      "fr": "la mère",
+      "en": "the mother",
+      "uk": "мати"
+    },
+    {
+      "fr": "après",
+      "en": "after",
+      "uk": "після"
+    },
+    {
+      "fr": "la tête",
+      "en": "the head",
+      "uk": "голова"
+    },
+    {
+      "fr": "sûr / sûre",
+      "en": "sure",
+      "uk": "певний, впевнений / впевнена"
+    },
+    {
+      "fr": "le coup",
+      "en": "the blow / the hit (un coup de fil = a call)",
+      "uk": "удар (un coup de fil = дзвінок)"
+    },
+    {
+      "fr": "sentir",
+      "en": "to feel / to smell",
+      "uk": "відчувати / пахнути, нюхати"
+    },
+    {
+      "fr": "vraiment",
+      "en": "really",
+      "uk": "справді"
+    },
+    {
+      "fr": "moins",
+      "en": "less",
+      "uk": "менше"
+    },
+    {
+      "fr": "vers",
+      "en": "towards",
+      "uk": "до, в бік"
+    },
+    {
+      "fr": "la maison",
+      "en": "the house",
+      "uk": "будинок, дім"
+    },
+    {
+      "fr": "chercher",
+      "en": "to look for",
+      "uk": "шукати"
+    },
+    {
+      "fr": "le soir",
+      "en": "the evening",
+      "uk": "вечір"
+    },
+    {
+      "fr": "oh",
+      "en": "oh",
+      "uk": "о"
+    },
+    {
+      "fr": "comment",
+      "en": "how",
+      "uk": "як"
+    },
+    {
+      "fr": "mieux",
+      "en": "better",
+      "uk": "краще"
+    },
+    {
+      "fr": "ni",
+      "en": "neither / nor",
+      "uk": "ні… ні"
+    },
+    {
+      "fr": "le besoin",
+      "en": "the need (avoir besoin de = to need)",
+      "uk": "потреба (avoir besoin de = потребувати)"
+    },
+    {
+      "fr": "avoir mal à la tête",
+      "en": "to have a headache",
+      "uk": "мати головний біль"
+    },
+    {
+      "fr": "un coup de fil",
+      "en": "a phone call",
+      "uk": "дзвінок (телефоном)"
+    },
+    {
+      "fr": "deux heures moins le quart",
+      "en": "a quarter to two (Québec: moins quart)",
+      "uk": "за чверть друга"
+    }
+  ]
+}

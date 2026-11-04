@@ -1,0 +1,337 @@
+{
+  "title": {
+    "en": "At the hotel reception (list a1-01)",
+    "uk": "На рецепції готелю (список a1-01)"
+  },
+  "situation": {
+    "en": "You hear a conversation at the reception desk of a hotel in Montréal.",
+    "uk": "Ви чуєте розмову на рецепції готелю в Монреалі."
+  },
+  "lines": [
+    {
+      "speaker": "Sophie",
+      "fr": "Bonjour, bienvenue à l'hôtel Saint-Laurent!",
+      "en": "Hello, welcome to the Hôtel Saint-Laurent!",
+      "uk": "Добрий день, ласкаво просимо до готелю «Сен-Лоран»!"
+    },
+    {
+      "speaker": "Marc",
+      "fr": "Bonjour! Excusez-moi, j'ai une réservation. Je m'appelle Marc Tremblay.",
+      "en": "Hello! Excuse me, I have a reservation. My name is Marc Tremblay.",
+      "uk": "Добрий день! Перепрошую, у мене бронювання. Мене звати Марк Трамбле."
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Enchantée, monsieur Tremblay. Oui, voici votre réservation : une chambre pour trois nuits.",
+      "en": "Nice to meet you, Mr. Tremblay. Yes, here's your reservation: a room for three nights.",
+      "uk": "Приємно познайомитися, пане Трамбле. Так, ось ваше бронювання: номер на три ночі."
+    },
+    {
+      "speaker": "Marc",
+      "fr": "Quel est le prix de la chambre?",
+      "en": "What's the price of the room?",
+      "uk": "Яка ціна номера?"
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "C'est cent quarante dollars par nuit, donc quatre cent vingt dollars en tout.",
+      "en": "It's a hundred and forty dollars a night, so four hundred and twenty dollars in all.",
+      "uk": "Сто сорок доларів за ніч, отже, чотириста двадцять доларів загалом."
+    },
+    {
+      "speaker": "Marc",
+      "fr": "D'accord. Et quelle est ma chambre?",
+      "en": "OK. And which room is mine?",
+      "uk": "Гаразд. А який у мене номер?"
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "La chambre trois cent douze, au troisième étage. Voilà votre clé.",
+      "en": "Room three hundred twelve, on the third floor. There's your key.",
+      "uk": "Номер триста дванадцять, на третьому поверсі. Ось ваш ключ."
+    },
+    {
+      "speaker": "Marc",
+      "fr": "Merci. Le déjeuner est à quelle heure?",
+      "en": "Thank you. What time is breakfast?",
+      "uk": "Дякую. О котрій годині сніданок?"
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "De sept heures à dix heures, au deuxième étage.",
+      "en": "From seven to ten o'clock, on the second floor.",
+      "uk": "З сьомої до десятої години, на другому поверсі."
+    },
+    {
+      "speaker": "Marc",
+      "fr": "Et le stationnement? J'ai une auto.",
+      "en": "And the parking? I have a car.",
+      "uk": "А паркування? У мене машина."
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Le stationnement coûte quinze dollars par jour.",
+      "en": "Parking costs fifteen dollars a day.",
+      "uk": "Паркування коштує п'ятнадцять доларів на день."
+    },
+    {
+      "speaker": "Marc",
+      "fr": "Parfait. Excusez-moi, où sont les toilettes?",
+      "en": "Perfect. Excuse me, where's the restroom?",
+      "uk": "Чудово. Перепрошую, де туалет?"
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Là, à droite, à côté de l'ascenseur. Et si vous avez besoin de quelque chose, faites le neuf sur le téléphone de la chambre.",
+      "en": "There, on the right, next to the elevator. And if you need anything, dial nine on the room phone.",
+      "uk": "Он там, праворуч, біля ліфта. А якщо вам щось знадобиться, наберіть дев'ятку на телефоні в номері."
+    },
+    {
+      "speaker": "Marc",
+      "fr": "Merci beaucoup!",
+      "en": "Thank you very much!",
+      "uk": "Щиро дякую!"
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "De rien! Bon séjour, monsieur.",
+      "en": "You're welcome! Enjoy your stay, sir.",
+      "uk": "Нема за що! Приємного перебування, пане."
+    },
+    {
+      "speaker": "Marc",
+      "fr": "Merci, au revoir!",
+      "en": "Thanks, goodbye!",
+      "uk": "Дякую, до побачення!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "How many nights is Marc staying?",
+        "uk": "Скільки ночей Марк проживе в готелі?"
+      },
+      "options": [
+        {
+          "en": "Two",
+          "uk": "Дві"
+        },
+        {
+          "en": "Three",
+          "uk": "Три"
+        },
+        {
+          "en": "Four",
+          "uk": "Чотири"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "How much is the room per night?",
+        "uk": "Скільки коштує номер за ніч?"
+      },
+      "options": [
+        {
+          "en": "$140",
+          "uk": "140 $"
+        },
+        {
+          "en": "$120",
+          "uk": "120 $"
+        },
+        {
+          "en": "$420",
+          "uk": "420 $"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Which room does Marc get?",
+        "uk": "Який номер отримує Марк?"
+      },
+      "options": [
+        {
+          "en": "Room 213, on the second floor",
+          "uk": "Номер 213, на другому поверсі"
+        },
+        {
+          "en": "Room 302, on the third floor",
+          "uk": "Номер 302, на третьому поверсі"
+        },
+        {
+          "en": "Room 312, on the third floor",
+          "uk": "Номер 312, на третьому поверсі"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Where is breakfast served?",
+        "uk": "Де подають сніданок?"
+      },
+      "options": [
+        {
+          "en": "On the third floor",
+          "uk": "На третьому поверсі"
+        },
+        {
+          "en": "On the second floor",
+          "uk": "На другому поверсі"
+        },
+        {
+          "en": "In the room",
+          "uk": "У номері"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "How much does parking cost?",
+        "uk": "Скільки коштує паркування?"
+      },
+      "options": [
+        {
+          "en": "$50 a day",
+          "uk": "50 $ на день"
+        },
+        {
+          "en": "$5 a day",
+          "uk": "5 $ на день"
+        },
+        {
+          "en": "$15 a day",
+          "uk": "15 $ на день"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "oui",
+      "en": "yes",
+      "uk": "так"
+    },
+    {
+      "fr": "d'accord",
+      "en": "OK / agreed",
+      "uk": "гаразд / згода"
+    },
+    {
+      "fr": "au revoir",
+      "en": "goodbye",
+      "uk": "до побачення"
+    },
+    {
+      "fr": "excusez-moi",
+      "en": "excuse me",
+      "uk": "перепрошую, вибачте"
+    },
+    {
+      "fr": "de rien",
+      "en": "you're welcome (Québec: bienvenue)",
+      "uk": "нема за що (у Квебеку: bienvenue)"
+    },
+    {
+      "fr": "enchanté / enchantée",
+      "en": "nice to meet you",
+      "uk": "приємно познайомитися"
+    },
+    {
+      "fr": "voici / voilà",
+      "en": "here is / there is",
+      "uk": "ось / от"
+    },
+    {
+      "fr": "quel / quelle / quels / quelles",
+      "en": "which / what",
+      "uk": "який / яка / які"
+    },
+    {
+      "fr": "trois",
+      "en": "three",
+      "uk": "три"
+    },
+    {
+      "fr": "quatre",
+      "en": "four",
+      "uk": "чотири"
+    },
+    {
+      "fr": "sept",
+      "en": "seven",
+      "uk": "сім"
+    },
+    {
+      "fr": "neuf",
+      "en": "nine",
+      "uk": "дев'ять"
+    },
+    {
+      "fr": "dix",
+      "en": "ten",
+      "uk": "десять"
+    },
+    {
+      "fr": "douze",
+      "en": "twelve",
+      "uk": "дванадцять"
+    },
+    {
+      "fr": "quinze",
+      "en": "fifteen",
+      "uk": "п'ятнадцять"
+    },
+    {
+      "fr": "vingt",
+      "en": "twenty",
+      "uk": "двадцять"
+    },
+    {
+      "fr": "quarante",
+      "en": "forty",
+      "uk": "сорок"
+    },
+    {
+      "fr": "cent",
+      "en": "one hundred",
+      "uk": "сто"
+    },
+    {
+      "fr": "deuxième",
+      "en": "second (2nd)",
+      "uk": "другий (2-й)"
+    },
+    {
+      "fr": "troisième",
+      "en": "third",
+      "uk": "третій"
+    },
+    {
+      "fr": "les toilettes (f.)",
+      "en": "the restroom / the bathroom (Québec: la salle de bain)",
+      "uk": "туалет / вбиральня (у Квебеку: la salle de bain)"
+    },
+    {
+      "fr": "le déjeuner",
+      "en": "breakfast (Québec; lunch in France)",
+      "uk": "сніданок (у Квебеку; у Франції — обід)"
+    },
+    {
+      "fr": "le stationnement",
+      "en": "parking (Québec; le parking in France)",
+      "uk": "паркування, стоянка (у Квебеку; у Франції — le parking)"
+    },
+    {
+      "fr": "bienvenue",
+      "en": "you're welcome (Québec) / welcome",
+      "uk": "нема за що (у Квебеку) / ласкаво просимо"
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "title": {
+    "en": "Grandma's farm (list a1-05)",
+    "uk": "Бабусина ферма (список a1-05)"
+  },
+  "situation": {
+    "en": "You hear two classmates, Chloé and Noah, talking after school.",
+    "uk": "Ви чуєте розмову двох однокласників, Хлое і Ноа, після уроків."
+  },
+  "lines": [
+    {
+      "speaker": "Chloé",
+      "fr": "Salut Noah! Tu rentres déjà?",
+      "en": "Hi Noah! Are you going home already?",
+      "uk": "Привіт, Ноа! Ти вже йдеш додому?"
+    },
+    {
+      "speaker": "Noah",
+      "fr": "Oui, je vais chez ma grand-mère. Elle vit seule sur une ferme, à la campagne.",
+      "en": "Yes, I'm going to my grandmother's. She lives alone on a farm in the country.",
+      "uk": "Так, я йду до бабусі. Вона живе сама на фермі, за містом."
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "Ah oui? Elle est vieille?",
+      "en": "Oh really? Is she old?",
+      "uk": "Справді? Вона старенька?"
+    },
+    {
+      "speaker": "Noah",
+      "fr": "Elle a quatre-vingt-dix ans, mais elle semble jeune!",
+      "en": "She's ninety, but she seems young!",
+      "uk": "Їй дев'яносто, але вона здається молодою!"
+    },
+    {
+      "speaker": "Noah",
+      "fr": "Depuis la mort de mon grand-père, elle est seule sur la ferme.",
+      "en": "Since my grandfather's death, she's been alone on the farm.",
+      "uk": "Відколи помер мій дідусь, вона на фермі сама."
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "Est-ce que quelqu'un l'aide?",
+      "en": "Does someone help her?",
+      "uk": "Їй хтось допомагає?"
+    },
+    {
+      "speaker": "Noah",
+      "fr": "Moi! Je l'aide le samedi. Mon oncle et ma tante habitent près d'elle, mais eux, ils travaillent en ville.",
+      "en": "Me! I help her on Saturdays. My uncle and aunt live near her, but they work in town.",
+      "uk": "Я! Я допомагаю їй по суботах. Мої дядько й тітка живуть поруч, але вони працюють у місті."
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "Qu'est-ce qu'elle fait sur sa ferme?",
+      "en": "What does she do on her farm?",
+      "uk": "Що вона робить на своїй фермі?"
+    },
+    {
+      "speaker": "Noah",
+      "fr": "Elle travaille la terre, et elle a des vaches.",
+      "en": "She works the land, and she has cows.",
+      "uk": "Вона обробляє землю і тримає корів."
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "Tu n'as pas peur des vaches?",
+      "en": "Aren't you afraid of the cows?",
+      "uk": "Ти не боїшся корів?"
+    },
+    {
+      "speaker": "Noah",
+      "fr": "Un peu! Et je tombe souvent dans la boue.",
+      "en": "A little! And I often fall in the mud.",
+      "uk": "Трохи! І я часто падаю в багнюку."
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "Ha! Et ça te plaît?",
+      "en": "Ha! And do you like it?",
+      "uk": "Ха! І тобі це подобається?"
+    },
+    {
+      "speaker": "Noah",
+      "fr": "Oui. Ma grand-mère m'apprend tant de choses : le nom des oiseaux, les vieux mots de la campagne…",
+      "en": "Yes. My grandmother teaches me so many things: the names of the birds, the old country words…",
+      "uk": "Так. Бабуся вчить мене стільки всього: як звуться птахи, старі сільські слова…"
+    },
+    {
+      "speaker": "Noah",
+      "fr": "Elle dit toujours : « Avec l'amour, on a assez pour vivre. » Et elle dit que la terre la rend heureuse.",
+      "en": "She always says: “With love, you have enough to live on.” And she says the land makes her happy.",
+      "uk": "Вона завжди каже: «З любов'ю маєш досить, щоб жити». І каже, що земля робить її щасливою."
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "C'est juste. Elle a raison. Et elle ne se sent pas mal, toute seule?",
+      "en": "That's right. She's right. And doesn't she feel bad, all alone?",
+      "uk": "Це правда. Вона має рацію. А їй не погано самій?"
+    },
+    {
+      "speaker": "Noah",
+      "fr": "Non. Pour elle, le fait de travailler, c'est la vie! Moi, je veux devenir fermier, comme elle.",
+      "en": "No. For her, working is what life is about! Me, I want to become a farmer, like her.",
+      "uk": "Ні. Для неї праця — це і є життя! А я хочу стати фермером, як вона."
+    },
+    {
+      "speaker": "Chloé",
+      "fr": "Vraiment? Tu veux essayer?",
+      "en": "Really? You want to try?",
+      "uk": "Справді? Хочеш спробувати?"
+    },
+    {
+      "speaker": "Noah",
+      "fr": "Oui, quand je finis l'école!",
+      "en": "Yes, when I finish school!",
+      "uk": "Так, коли закінчу школу!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Where does Noah's grandmother live?",
+        "uk": "Де живе бабуся Ноа?"
+      },
+      "options": [
+        {
+          "en": "In town, with her son",
+          "uk": "У місті, із сином"
+        },
+        {
+          "en": "On a farm in the country",
+          "uk": "На фермі за містом"
+        },
+        {
+          "en": "Near Noah's school",
+          "uk": "Біля школи Ноа"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "How old is she?",
+        "uk": "Скільки їй років?"
+      },
+      "options": [
+        {
+          "en": "Seventy",
+          "uk": "Сімдесят"
+        },
+        {
+          "en": "Eighty",
+          "uk": "Вісімдесят"
+        },
+        {
+          "en": "Ninety",
+          "uk": "Дев'яносто"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Why does she live alone?",
+        "uk": "Чому вона живе сама?"
+      },
+      "options": [
+        {
+          "en": "Her husband died",
+          "uk": "Її чоловік помер"
+        },
+        {
+          "en": "She doesn't like people",
+          "uk": "Вона не любить людей"
+        },
+        {
+          "en": "Her children live far away",
+          "uk": "Її діти живуть далеко"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What does Noah do on Saturdays?",
+        "uk": "Що Ноа робить по суботах?"
+      },
+      "options": [
+        {
+          "en": "He works in town",
+          "uk": "Працює в місті"
+        },
+        {
+          "en": "He helps his grandmother",
+          "uk": "Допомагає бабусі"
+        },
+        {
+          "en": "He goes to school",
+          "uk": "Ходить до школи"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What does Noah want to become?",
+        "uk": "Ким Ноа хоче стати?"
+      },
+      "options": [
+        {
+          "en": "A farmer",
+          "uk": "Фермером"
+        },
+        {
+          "en": "A teacher",
+          "uk": "Учителем"
+        },
+        {
+          "en": "A doctor",
+          "uk": "Лікарем"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "rendre",
+      "en": "to give back / to make (rendre heureux)",
+      "uk": "повертати, віддавати / робити (rendre heureux = робити щасливим)"
+    },
+    {
+      "fr": "finir",
+      "en": "to finish",
+      "uk": "закінчувати"
+    },
+    {
+      "fr": "devenir",
+      "en": "to become",
+      "uk": "ставати"
+    },
+    {
+      "fr": "vivre",
+      "en": "to live",
+      "uk": "жити"
+    },
+    {
+      "fr": "essayer",
+      "en": "to try",
+      "uk": "пробувати, намагатися"
+    },
+    {
+      "fr": "le nom",
+      "en": "the name",
+      "uk": "ім'я, назва"
+    },
+    {
+      "fr": "la mort",
+      "en": "the death / (le mort = dead person)",
+      "uk": "смерть / (le mort = мертвий, покійник)"
+    },
+    {
+      "fr": "ah",
+      "en": "ah",
+      "uk": "а, ах"
+    },
+    {
+      "fr": "la peur",
+      "en": "the fear (avoir peur = to be afraid)",
+      "uk": "страх (avoir peur = боятися)"
+    },
+    {
+      "fr": "jeune",
+      "en": "young",
+      "uk": "молодий"
+    },
+    {
+      "fr": "l'amour (m.)",
+      "en": "the love",
+      "uk": "кохання, любов"
+    },
+    {
+      "fr": "tomber",
+      "en": "to fall",
+      "uk": "падати"
+    },
+    {
+      "fr": "aider",
+      "en": "to help",
+      "uk": "допомагати"
+    },
+    {
+      "fr": "le mot",
+      "en": "the word",
+      "uk": "слово"
+    },
+    {
+      "fr": "assez",
+      "en": "enough",
+      "uk": "досить, достатньо"
+    },
+    {
+      "fr": "tant",
+      "en": "so much / so many",
+      "uk": "так багато, стільки"
+    },
+    {
+      "fr": "peu",
+      "en": "little / not much",
+      "uk": "мало, небагато"
+    },
+    {
+      "fr": "rentrer",
+      "en": "to come home / to go back in",
+      "uk": "повертатися додому / заходити назад"
+    },
+    {
+      "fr": "juste",
+      "en": "fair / just / right",
+      "uk": "справедливий / саме, якраз / правильний"
+    },
+    {
+      "fr": "mal",
+      "en": "badly / bad",
+      "uk": "погано / поганий"
+    },
+    {
+      "fr": "sembler",
+      "en": "to seem",
+      "uk": "здаватися"
+    },
+    {
+      "fr": "eux",
+      "en": "them (stressed)",
+      "uk": "вони, їх (наголошене)"
+    },
+    {
+      "fr": "vieux / vieille",
+      "en": "old",
+      "uk": "старий / стара"
+    },
+    {
+      "fr": "la raison",
+      "en": "the reason (avoir raison = to be right)",
+      "uk": "причина (avoir raison = мати рацію)"
+    },
+    {
+      "fr": "le fait",
+      "en": "the fact",
+      "uk": "факт"
+    },
+    {
+      "fr": "quelqu'un",
+      "en": "someone",
+      "uk": "хтось"
+    },
+    {
+      "fr": "la terre",
+      "en": "the earth / the ground",
+      "uk": "земля / ґрунт"
+    },
+    {
+      "fr": "plaire",
+      "en": "to please (ça me plaît = I like it)",
+      "uk": "подобатися (ça me plaît = мені це подобається)"
+    },
+    {
+      "fr": "la ferme",
+      "en": "the farm",
+      "uk": "ферма"
+    },
+    {
+      "fr": "la vache",
+      "en": "the cow",
+      "uk": "корова"
+    },
+    {
+      "fr": "la boue",
+      "en": "the mud",
+      "uk": "болото, багнюка"
+    },
+    {
+      "fr": "le fermier / la fermière",
+      "en": "the farmer",
+      "uk": "фермер / фермерка"
+    }
+  ]
+}

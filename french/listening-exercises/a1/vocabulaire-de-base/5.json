@@ -1,0 +1,364 @@
+{
+  "title": {
+    "en": "A guided tour at the museum (list a1-03)",
+    "uk": "Екскурсія в музеї (список a1-03)"
+  },
+  "situation": {
+    "en": "You are at a museum in Montréal. You hear the guide at the start of the tour.",
+    "uk": "Ви в музеї в Монреалі. Ви чуєте екскурсовода на початку екскурсії."
+  },
+  "lines": [
+    {
+      "speaker": "Pierre",
+      "fr": "Bonjour et bienvenue au musée! Je m'appelle Pierre, et je suis votre guide aujourd'hui.",
+      "en": "Hello and welcome to the museum! My name is Pierre, and I'm your guide today.",
+      "uk": "Добрий день і ласкаво просимо до музею! Мене звати П'єр, сьогодні я ваш екскурсовод."
+    },
+    {
+      "speaker": "Pierre",
+      "fr": "La visite dure une heure.",
+      "en": "The tour lasts an hour.",
+      "uk": "Екскурсія триває годину."
+    },
+    {
+      "speaker": "Pierre",
+      "fr": "Avant de commencer, il faut laisser vos sacs ici, au vestiaire.",
+      "en": "Before we start, you have to leave your bags here, at the coat check.",
+      "uk": "Перш ніж почати, треба залишити сумки тут, у гардеробі."
+    },
+    {
+      "speaker": "Pierre",
+      "fr": "Vous pouvez mettre vos manteaux là, à côté de la porte.",
+      "en": "You can put your coats there, next to the door.",
+      "uk": "Пальта можна покласти он там, біля дверей."
+    },
+    {
+      "speaker": "Pierre",
+      "fr": "S'il vous plaît, suivez-moi et restez avec le groupe.",
+      "en": "Please follow me and stay with the group.",
+      "uk": "Будь ласка, ідіть за мною і тримайтеся групи."
+    },
+    {
+      "speaker": "Pierre",
+      "fr": "Dans la première salle, regardez ce grand tableau : un homme et une femme sur la neige.",
+      "en": "In the first room, look at this big painting: a man and a woman in the snow.",
+      "uk": "У першій залі погляньте на цю велику картину: чоловік і жінка на снігу."
+    },
+    {
+      "speaker": "Pierre",
+      "fr": "C'est la vie à Montréal il y a cent ans.",
+      "en": "That's life in Montréal a hundred years ago.",
+      "uk": "Таким було життя в Монреалі сто років тому."
+    },
+    {
+      "speaker": "Pierre",
+      "fr": "Ne touchez jamais les tableaux avec les mains, s'il vous plaît.",
+      "en": "Never touch the paintings with your hands, please.",
+      "uk": "Будь ласка, ніколи не торкайтеся картин руками."
+    },
+    {
+      "speaker": "Pierre",
+      "fr": "Vous pouvez prendre des photos, mais sans flash.",
+      "en": "You can take photos, but without flash.",
+      "uk": "Фотографувати можна, але без спалаху."
+    },
+    {
+      "speaker": "Pierre",
+      "fr": "Si vous avez une question, demandez-moi!",
+      "en": "If you have a question, ask me!",
+      "uk": "Якщо маєте запитання, питайте мене!"
+    },
+    {
+      "speaker": "Pierre",
+      "fr": "Dans notre petite boutique, vous allez trouver des livres et d'autres choses très belles.",
+      "en": "In our little shop, you'll find books and other very beautiful things.",
+      "uk": "У нашій маленькій крамничці ви знайдете книжки та інші дуже гарні речі."
+    },
+    {
+      "speaker": "Pierre",
+      "fr": "Ce n'est pas trop cher, et c'est toujours ouvert après la visite.",
+      "en": "It isn't too expensive, and it's always open after the tour.",
+      "uk": "Там не надто дорого, і вона завжди відчинена після екскурсії."
+    },
+    {
+      "speaker": "Pierre",
+      "fr": "Bon, on passe à la deuxième salle. Ouvrez bien les yeux!",
+      "en": "OK, let's go on to the second room. Keep your eyes open!",
+      "uk": "Отже, переходимо до другої зали. Дивіться уважно!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "How long does the tour last?",
+        "uk": "Скільки триває екскурсія?"
+      },
+      "options": [
+        {
+          "en": "Half an hour",
+          "uk": "Пів години"
+        },
+        {
+          "en": "An hour",
+          "uk": "Годину"
+        },
+        {
+          "en": "Two hours",
+          "uk": "Дві години"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What must visitors leave at the coat check?",
+        "uk": "Що відвідувачі мають залишити в гардеробі?"
+      },
+      "options": [
+        {
+          "en": "Their bags",
+          "uk": "Сумки"
+        },
+        {
+          "en": "Their cameras",
+          "uk": "Фотоапарати"
+        },
+        {
+          "en": "Their tickets",
+          "uk": "Квитки"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What does the big painting show?",
+        "uk": "Що зображено на великій картині?"
+      },
+      "options": [
+        {
+          "en": "A child with a dog",
+          "uk": "Дитину із собакою"
+        },
+        {
+          "en": "Montréal today",
+          "uk": "Сучасний Монреаль"
+        },
+        {
+          "en": "A man and a woman in the snow",
+          "uk": "Чоловіка й жінку на снігу"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What are visitors allowed to do?",
+        "uk": "Що відвідувачам дозволено робити?"
+      },
+      "options": [
+        {
+          "en": "Take photos without flash",
+          "uk": "Фотографувати без спалаху"
+        },
+        {
+          "en": "Touch the paintings",
+          "uk": "Торкатися картин"
+        },
+        {
+          "en": "Take photos with flash",
+          "uk": "Фотографувати зі спалахом"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What does the guide say about the shop?",
+        "uk": "Що екскурсовод каже про крамничку?"
+      },
+      "options": [
+        {
+          "en": "It's very expensive",
+          "uk": "Там дуже дорого"
+        },
+        {
+          "en": "It's always open after the tour",
+          "uk": "Вона завжди відчинена після екскурсії"
+        },
+        {
+          "en": "It's closed today",
+          "uk": "Сьогодні вона зачинена"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "prendre",
+      "en": "to take",
+      "uk": "брати"
+    },
+    {
+      "fr": "sans",
+      "en": "without",
+      "uk": "без"
+    },
+    {
+      "fr": "là",
+      "en": "there / here",
+      "uk": "там / тут"
+    },
+    {
+      "fr": "suivre",
+      "en": "to follow",
+      "uk": "слідувати, іти за"
+    },
+    {
+      "fr": "si",
+      "en": "if / so (si grand = so big)",
+      "uk": "якщо / такий, так (si grand = такий великий)"
+    },
+    {
+      "fr": "falloir",
+      "en": "to be necessary (il faut)",
+      "uk": "бути потрібно (il faut)"
+    },
+    {
+      "fr": "ici",
+      "en": "here",
+      "uk": "тут"
+    },
+    {
+      "fr": "la chose",
+      "en": "the thing",
+      "uk": "річ"
+    },
+    {
+      "fr": "très",
+      "en": "very",
+      "uk": "дуже"
+    },
+    {
+      "fr": "passer",
+      "en": "to pass / to spend (time)",
+      "uk": "проходити / проводити (час)"
+    },
+    {
+      "fr": "petit / petite",
+      "en": "small / little",
+      "uk": "маленький / маленька"
+    },
+    {
+      "fr": "l'homme (m.)",
+      "en": "the man",
+      "uk": "чоловік, людина"
+    },
+    {
+      "fr": "jamais",
+      "en": "never",
+      "uk": "ніколи"
+    },
+    {
+      "fr": "votre / vos",
+      "en": "your (formal / plural)",
+      "uk": "ваш / ваші (ввічливо / множина)"
+    },
+    {
+      "fr": "trouver",
+      "en": "to find",
+      "uk": "знаходити"
+    },
+    {
+      "fr": "regarder",
+      "en": "to look at / to watch",
+      "uk": "дивитися"
+    },
+    {
+      "fr": "laisser",
+      "en": "to leave / to let",
+      "uk": "залишати / дозволяти"
+    },
+    {
+      "fr": "toujours",
+      "en": "always / still",
+      "uk": "завжди / досі"
+    },
+    {
+      "fr": "mettre",
+      "en": "to put / to put on",
+      "uk": "класти / вдягати"
+    },
+    {
+      "fr": "la femme",
+      "en": "the woman / the wife",
+      "uk": "жінка / дружина"
+    },
+    {
+      "fr": "demander",
+      "en": "to ask",
+      "uk": "питати, просити"
+    },
+    {
+      "fr": "grand / grande",
+      "en": "big / tall",
+      "uk": "великий / велика, високий"
+    },
+    {
+      "fr": "la vie",
+      "en": "the life",
+      "uk": "життя"
+    },
+    {
+      "fr": "rester",
+      "en": "to stay / to remain",
+      "uk": "залишатися"
+    },
+    {
+      "fr": "la main",
+      "en": "the hand",
+      "uk": "рука (кисть)"
+    },
+    {
+      "fr": "notre / nos",
+      "en": "our",
+      "uk": "наш / наші"
+    },
+    {
+      "fr": "autre",
+      "en": "other",
+      "uk": "інший"
+    },
+    {
+      "fr": "trop",
+      "en": "too / too much",
+      "uk": "занадто / забагато"
+    },
+    {
+      "fr": "l'œil (m.) / les yeux",
+      "en": "the eye / the eyes",
+      "uk": "око / очі"
+    },
+    {
+      "fr": "l'heure (f.)",
+      "en": "the hour / the time (o'clock)",
+      "uk": "година / час (котра година)"
+    },
+    {
+      "fr": "le vestiaire",
+      "en": "the coat check",
+      "uk": "гардероб"
+    },
+    {
+      "fr": "le tableau",
+      "en": "the painting",
+      "uk": "картина"
+    },
+    {
+      "fr": "la boutique",
+      "en": "the (gift) shop",
+      "uk": "крамничка, сувенірна крамниця"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "title": {
+    "en": "Waiting at the café (list a1-03)",
+    "uk": "Чекаючи в кафе (список a1-03)"
+  },
+  "situation": {
+    "en": "You hear two friends, Camille and Hugo, meet by chance at a café.",
+    "uk": "Ви чуєте, як двоє друзів, Камій і Юго, випадково зустрічаються в кафе."
+  },
+  "lines": [
+    {
+      "speaker": "Camille",
+      "fr": "Salut Hugo! Tu attends quelqu'un?",
+      "en": "Hi Hugo! Are you waiting for someone?",
+      "uk": "Привіт, Юго! Ти когось чекаєш?"
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Oui, j'attends ma sœur. Elle arrive toujours en retard!",
+      "en": "Yes, I'm waiting for my sister. She's always late!",
+      "uk": "Так, чекаю сестру. Вона завжди спізнюється!"
+    },
+    {
+      "speaker": "Camille",
+      "fr": "Moi aussi, je suis souvent en retard. Quand est-ce qu'elle arrive?",
+      "en": "I'm often late too. When is she arriving?",
+      "uk": "Я теж часто спізнююся. Коли вона прийде?"
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Je pense qu'elle arrive dans dix minutes. Et toi, tu es seule aujourd'hui?",
+      "en": "I think she'll be here in ten minutes. And you, are you alone today?",
+      "uk": "Думаю, вона буде за десять хвилин. А ти сьогодні сама?"
+    },
+    {
+      "speaker": "Camille",
+      "fr": "Oui, toute seule. Mon chum travaille encore.",
+      "en": "Yes, all alone. My boyfriend is still working.",
+      "uk": "Так, зовсім сама. Мій хлопець ще на роботі."
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Le temps est parfait aujourd'hui. Alors, on prend un café sur la terrasse?",
+      "en": "The weather is perfect today. So, shall we have a coffee on the patio?",
+      "uk": "Сьогодні чудова погода. То що, вип'ємо кави на терасі?"
+    },
+    {
+      "speaker": "Camille",
+      "fr": "Bonne idée! Tu crois que ta sœur va aimer cette terrasse?",
+      "en": "Good idea! Do you think your sister will like this patio?",
+      "uk": "Добра ідея! Думаєш, твоїй сестрі сподобається ця тераса?"
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Oui, elle aime tout! Même le café noir sans sucre.",
+      "en": "Yes, she likes everything! Even black coffee without sugar.",
+      "uk": "Так, їй усе подобається! Навіть чорна кава без цукру."
+    },
+    {
+      "speaker": "Camille",
+      "fr": "Ha! Et toi, tu parles encore espagnol?",
+      "en": "Ha! And you, do you still speak Spanish?",
+      "uk": "Ха! А ти ще розмовляєш іспанською?"
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Un peu. Ma sœur me donne des cours deux fois par semaine. Elle parle très bien.",
+      "en": "A little. My sister gives me lessons twice a week. She speaks very well.",
+      "uk": "Трохи. Сестра дає мені уроки двічі на тиждень. Вона дуже добре говорить."
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Un jour, je veux parler espagnol comme elle.",
+      "en": "One day, I want to speak Spanish like her.",
+      "uk": "Колись я хочу говорити іспанською, як вона."
+    },
+    {
+      "speaker": "Camille",
+      "fr": "C'est bon d'avoir une sœur comme ça!",
+      "en": "It's good to have a sister like that!",
+      "uk": "Добре мати таку сестру!"
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Ah, la voilà enfin! Viens, je te la présente.",
+      "en": "Ah, there she is at last! Come, I'll introduce you.",
+      "uk": "О, нарешті вона! Ходімо, я тебе з нею познайомлю."
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Who is Hugo waiting for?",
+        "uk": "Кого чекає Юго?"
+      },
+      "options": [
+        {
+          "en": "His sister",
+          "uk": "Свою сестру"
+        },
+        {
+          "en": "His girlfriend",
+          "uk": "Свою дівчину"
+        },
+        {
+          "en": "Camille",
+          "uk": "Камій"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Why is Camille alone?",
+        "uk": "Чому Камій сама?"
+      },
+      "options": [
+        {
+          "en": "Her sister is late",
+          "uk": "Її сестра спізнюється"
+        },
+        {
+          "en": "Her boyfriend is still working",
+          "uk": "Її хлопець ще на роботі"
+        },
+        {
+          "en": "She's waiting for Hugo",
+          "uk": "Вона чекає на Юго"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Where do they decide to have coffee?",
+        "uk": "Де вони вирішують випити кави?"
+      },
+      "options": [
+        {
+          "en": "Inside the café",
+          "uk": "Усередині кафе"
+        },
+        {
+          "en": "At Hugo's place",
+          "uk": "У Юго вдома"
+        },
+        {
+          "en": "On the patio",
+          "uk": "На терасі"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "How does Hugo learn Spanish?",
+        "uk": "Як Юго вивчає іспанську?"
+      },
+      "options": [
+        {
+          "en": "At school",
+          "uk": "У школі"
+        },
+        {
+          "en": "With his sister, twice a week",
+          "uk": "Із сестрою, двічі на тиждень"
+        },
+        {
+          "en": "On the internet",
+          "uk": "В інтернеті"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What does Hugo say about his sister?",
+        "uk": "Що Юго каже про свою сестру?"
+      },
+      "options": [
+        {
+          "en": "She likes everything",
+          "uk": "Їй усе подобається"
+        },
+        {
+          "en": "She is never late",
+          "uk": "Вона ніколи не спізнюється"
+        },
+        {
+          "en": "She doesn't like coffee",
+          "uk": "Вона не любить каву"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "quand",
+      "en": "when",
+      "uk": "коли"
+    },
+    {
+      "fr": "parler",
+      "en": "to speak / to talk",
+      "uk": "говорити, розмовляти"
+    },
+    {
+      "fr": "toi",
+      "en": "you (stressed, informal)",
+      "uk": "ти, тебе (наголошене, неформально)"
+    },
+    {
+      "fr": "alors",
+      "en": "so / then",
+      "uk": "отже, тоді"
+    },
+    {
+      "fr": "aussi",
+      "en": "also / too",
+      "uk": "також, теж"
+    },
+    {
+      "fr": "encore",
+      "en": "again / still",
+      "uk": "знову / ще"
+    },
+    {
+      "fr": "tout (adverbe)",
+      "en": "all / quite (adverb)",
+      "uk": "зовсім, цілком (прислівник)"
+    },
+    {
+      "fr": "croire",
+      "en": "to believe",
+      "uk": "вірити, гадати"
+    },
+    {
+      "fr": "aimer",
+      "en": "to love / to like",
+      "uk": "кохати / любити, подобатися"
+    },
+    {
+      "fr": "le jour",
+      "en": "the day",
+      "uk": "день"
+    },
+    {
+      "fr": "penser",
+      "en": "to think",
+      "uk": "думати"
+    },
+    {
+      "fr": "bon / bonne",
+      "en": "good",
+      "uk": "добрий / добра, хороший"
+    },
+    {
+      "fr": "le temps",
+      "en": "the time / the weather",
+      "uk": "час / погода"
+    },
+    {
+      "fr": "même",
+      "en": "even / same",
+      "uk": "навіть / той самий"
+    },
+    {
+      "fr": "tout (pronom)",
+      "en": "everything / all (pronoun)",
+      "uk": "все, усе (займенник)"
+    },
+    {
+      "fr": "donner",
+      "en": "to give",
+      "uk": "давати"
+    },
+    {
+      "fr": "attendre",
+      "en": "to wait (for)",
+      "uk": "чекати (на)"
+    },
+    {
+      "fr": "ton / ta / tes",
+      "en": "your (informal)",
+      "uk": "твій / твоя / твої"
+    },
+    {
+      "fr": "arriver",
+      "en": "to arrive / to happen",
+      "uk": "прибувати / траплятися"
+    },
+    {
+      "fr": "seul / seule",
+      "en": "alone / only",
+      "uk": "сам / сама, єдиний"
+    },
+    {
+      "fr": "le chum",
+      "en": "the boyfriend (Québec, casual)",
+      "uk": "хлопець, коханий (у Квебеку, розм.)"
+    },
+    {
+      "fr": "la terrasse",
+      "en": "the (café) patio",
+      "uk": "літній майданчик кафе"
+    },
+    {
+      "fr": "en retard",
+      "en": "late",
+      "uk": "із запізненням"
+    }
+  ]
+}
