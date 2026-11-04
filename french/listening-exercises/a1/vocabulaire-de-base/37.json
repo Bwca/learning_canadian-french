@@ -1,0 +1,316 @@
+{
+  "title": {
+    "en": "A sugar shack ad (list a1-19)",
+    "uk": "Реклама «цукрової хатини» (список a1-19)"
+  },
+  "situation": {
+    "en": "You hear an ad on the radio in early spring.",
+    "uk": "Ви чуєте рекламу по радіо на початку весни."
+  },
+  "lines": [
+    {
+      "fr": "Le printemps arrive, et c'est le temps des sucres! La cabane à sucre Chez Ti-Jean vous accueille dans la belle région de Lanaudière.",
+      "en": "Spring is coming, and it's maple season! The Chez Ti-Jean sugar shack welcomes you in the beautiful Lanaudière region.",
+      "uk": "Надходить весна, а з нею — сезон кленового сиропу! «Цукрова хатина» «У Ті-Жана» запрошує вас у мальовничий регіон Ланоде."
+    },
+    {
+      "fr": "Goûtez à un véritable repas traditionnel : des œufs, des fèves au lard, de la viande, et de la tire sur la neige!",
+      "en": "Taste a real traditional meal: eggs, baked beans, meat, and maple taffy on snow!",
+      "uk": "Скуштуйте справжній традиційний обід: яйця, квасолю з салом, м'ясо та кленову ірку на снігу!"
+    },
+    {
+      "fr": "Tous nos plats sont de qualité, fabriqués ici, avec notre propre sirop.",
+      "en": "All our dishes are high quality, made here, with our own syrup.",
+      "uk": "Усі наші страви якісні, приготовані тут, із нашого власного сиропу."
+    },
+    {
+      "fr": "Après le repas, place à la danse! Notre piste de danse est ouverte jusqu'à minuit.",
+      "en": "After the meal, it's time to dance! Our dance floor is open until midnight.",
+      "uk": "Після обіду — танці! Наш танцмайданчик відкритий до опівночі."
+    },
+    {
+      "fr": "Le paysage est superbe : profitez de notre terrasse au soleil.",
+      "en": "The scenery is gorgeous: enjoy our sunny patio.",
+      "uk": "Краєвиди чудові: відпочиньте на нашій сонячній терасі."
+    },
+    {
+      "fr": "Une journée formidable et joyeuse pour toute la famille!",
+      "en": "A terrific, joyful day for the whole family!",
+      "uk": "Чудовий, радісний день для всієї родини!"
+    },
+    {
+      "fr": "Nous sommes ouverts le samedi et le dimanche, de mars à avril. Réservez vite : les dates partent rapidement!",
+      "en": "We're open Saturdays and Sundays, from March to April. Book quickly: dates go fast!",
+      "uk": "Ми працюємо в суботу й неділю, з березня до квітня. Бронюйте швидше: дати розбирають швидко!"
+    },
+    {
+      "fr": "Groupes et clubs sociaux : prix spécial à partir de quarante personnes.",
+      "en": "Groups and social clubs: special price from forty people.",
+      "uk": "Групи та клуби: спеціальна ціна від сорока осіб."
+    },
+    {
+      "fr": "Adultes : trente-deux dollars. Enfants : seize dollars.",
+      "en": "Adults: thirty-two dollars. Children: sixteen dollars.",
+      "uk": "Дорослі — тридцять два долари. Діти — шістнадцять доларів."
+    },
+    {
+      "fr": "Nous sommes à quinze kilomètres de Joliette. Suivez les panneaux qui indiquent « Chez Ti-Jean ».",
+      "en": "We're fifteen kilometres from Joliette. Follow the signs that say “Chez Ti-Jean”.",
+      "uk": "Ми за п'ятнадцять кілометрів від Жольєтта. Їдьте за вказівниками «У Ті-Жана»."
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Where is the sugar shack?",
+        "uk": "Де розташована «цукрова хатина»?"
+      },
+      "options": [
+        {
+          "en": "In the Laurentians, 50 km from Montréal",
+          "uk": "У Лорентидах, за 50 км від Монреаля"
+        },
+        {
+          "en": "In Lanaudière, 15 km from Joliette",
+          "uk": "У Ланоде, за 15 км від Жольєтта"
+        },
+        {
+          "en": "In downtown Joliette",
+          "uk": "У центрі Жольєтта"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What can you eat there?",
+        "uk": "Що там можна поїсти?"
+      },
+      "options": [
+        {
+          "en": "Eggs, baked beans, meat and maple taffy",
+          "uk": "Яйця, квасолю з салом, м'ясо й кленову ірку"
+        },
+        {
+          "en": "Fish and fries",
+          "uk": "Рибу з картоплею фрі"
+        },
+        {
+          "en": "Pizza and ice cream",
+          "uk": "Піцу й морозиво"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Until when is the dance floor open?",
+        "uk": "До котрої відкритий танцмайданчик?"
+      },
+      "options": [
+        {
+          "en": "10 p.m.",
+          "uk": "До 22:00"
+        },
+        {
+          "en": "11 p.m.",
+          "uk": "До 23:00"
+        },
+        {
+          "en": "Midnight",
+          "uk": "До опівночі"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "When is it open?",
+        "uk": "Коли вона працює?"
+      },
+      "options": [
+        {
+          "en": "Saturdays and Sundays, March to April",
+          "uk": "У суботу й неділю, з березня до квітня"
+        },
+        {
+          "en": "Every day in March",
+          "uk": "Щодня в березні"
+        },
+        {
+          "en": "Saturdays only",
+          "uk": "Тільки в суботу"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How much does it cost for a child?",
+        "uk": "Скільки це коштує для дитини?"
+      },
+      "options": [
+        {
+          "en": "$32",
+          "uk": "32 $"
+        },
+        {
+          "en": "$16",
+          "uk": "16 $"
+        },
+        {
+          "en": "$6",
+          "uk": "6 $"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la piste",
+      "en": "the track / the trail / the lead (clue)",
+      "uk": "доріжка / слід / зачіпка"
+    },
+    {
+      "fr": "le plat",
+      "en": "the dish / the course (meal)",
+      "uk": "страва"
+    },
+    {
+      "fr": "indiquer",
+      "en": "to indicate / to point out",
+      "uk": "вказувати / показувати"
+    },
+    {
+      "fr": "l'œuf (m.)",
+      "en": "the egg",
+      "uk": "яйце"
+    },
+    {
+      "fr": "la viande",
+      "en": "the meat",
+      "uk": "м'ясо"
+    },
+    {
+      "fr": "rapidement",
+      "en": "quickly",
+      "uk": "швидко"
+    },
+    {
+      "fr": "le club",
+      "en": "the club",
+      "uk": "клуб"
+    },
+    {
+      "fr": "le printemps",
+      "en": "the spring",
+      "uk": "весна"
+    },
+    {
+      "fr": "formidable",
+      "en": "great / terrific",
+      "uk": "чудовий, класний"
+    },
+    {
+      "fr": "la qualité",
+      "en": "the quality",
+      "uk": "якість"
+    },
+    {
+      "fr": "fabriquer",
+      "en": "to make / to manufacture",
+      "uk": "виготовляти"
+    },
+    {
+      "fr": "le kilomètre",
+      "en": "the kilometre",
+      "uk": "кілометр"
+    },
+    {
+      "fr": "accueillir",
+      "en": "to welcome",
+      "uk": "приймати, зустрічати (гостей)"
+    },
+    {
+      "fr": "la danse",
+      "en": "the dance",
+      "uk": "танець"
+    },
+    {
+      "fr": "joyeux / joyeuse",
+      "en": "joyful / happy (joyeux anniversaire = happy birthday)",
+      "uk": "радісний / радісна (joyeux anniversaire = з днем народження)"
+    },
+    {
+      "fr": "véritable",
+      "en": "real / genuine",
+      "uk": "справжній"
+    },
+    {
+      "fr": "la terrasse",
+      "en": "the terrace / the patio",
+      "uk": "тераса"
+    },
+    {
+      "fr": "le samedi",
+      "en": "Saturday",
+      "uk": "субота"
+    },
+    {
+      "fr": "goûter",
+      "en": "to taste / to have an afternoon snack",
+      "uk": "куштувати / полуднувати"
+    },
+    {
+      "fr": "réserver",
+      "en": "to book / to reserve",
+      "uk": "бронювати"
+    },
+    {
+      "fr": "la région",
+      "en": "the region",
+      "uk": "регіон"
+    },
+    {
+      "fr": "le paysage",
+      "en": "the landscape / the scenery",
+      "uk": "краєвид, пейзаж"
+    },
+    {
+      "fr": "superbe",
+      "en": "superb / gorgeous",
+      "uk": "чудовий, розкішний"
+    },
+    {
+      "fr": "la date",
+      "en": "the date",
+      "uk": "дата"
+    },
+    {
+      "fr": "la cabane à sucre",
+      "en": "the sugar shack (Québec)",
+      "uk": "«цукрова хатина» — кленова ферма з ресторанчиком (у Квебеку)"
+    },
+    {
+      "fr": "le temps des sucres",
+      "en": "maple syrup season (Québec)",
+      "uk": "сезон кленового сиропу (у Квебеку)"
+    },
+    {
+      "fr": "les fèves au lard (f.)",
+      "en": "baked beans with pork (Québec)",
+      "uk": "квасоля з салом (у Квебеку)"
+    },
+    {
+      "fr": "la tire sur la neige",
+      "en": "maple taffy on snow (Québec)",
+      "uk": "кленова ірка на снігу (у Квебеку)"
+    },
+    {
+      "fr": "le panneau",
+      "en": "the sign",
+      "uk": "вказівник, табличка"
+    }
+  ]
+}

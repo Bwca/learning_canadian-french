@@ -1,0 +1,383 @@
+{
+  "title": {
+    "en": "At a famous writer's home (list a1-20)",
+    "uk": "У гостях у відомого письменника (список a1-20)"
+  },
+  "situation": {
+    "en": "You hear a journalist interviewing a writer at his home in Trois-Rivières.",
+    "uk": "Ви чуєте, як журналістка бере інтерв'ю в письменника в його домі в Труа-Рів'єрі."
+  },
+  "lines": [
+    {
+      "speaker": "Journaliste",
+      "fr": "Bonjour, monsieur Gagnon. Merci de recevoir une journaliste chez vous.",
+      "en": "Hello, Mr. Gagnon. Thank you for having a journalist in your home.",
+      "uk": "Добрий день, пане Ганьйоне. Дякую, що приймаєте журналістку у себе вдома."
+    },
+    {
+      "speaker": "Écrivain",
+      "fr": "Bienvenue! Vous êtes mon invitée. Vous voulez un chocolat chaud?",
+      "en": "Welcome! You're my guest. Would you like a hot chocolate?",
+      "uk": "Ласкаво прошу! Ви моя гостя. Хочете гарячого шоколаду?"
+    },
+    {
+      "speaker": "Journaliste",
+      "fr": "Oui, merci, mais sans sucre.",
+      "en": "Yes, thank you, but without sugar.",
+      "uk": "Так, дякую, але без цукру."
+    },
+    {
+      "speaker": "Journaliste",
+      "fr": "Vous êtes un écrivain célèbre. Quelle est votre origine?",
+      "en": "You're a famous writer. Where do you come from?",
+      "uk": "Ви відомий письменник. Яке ваше походження?"
+    },
+    {
+      "speaker": "Écrivain",
+      "fr": "Je suis fils d'ouvrier. Mon père travaille dans une entreprise de papier, au bord de la rivière Saint-Maurice.",
+      "en": "I'm a worker's son. My father works for a paper company, on the banks of the Saint-Maurice River.",
+      "uk": "Я син робітника. Мій батько працює на паперовому підприємстві на березі річки Сен-Моріс."
+    },
+    {
+      "speaker": "Journaliste",
+      "fr": "Et aujourd'hui, vous êtes propriétaire de cette belle maison!",
+      "en": "And today, you own this beautiful house!",
+      "uk": "А сьогодні ви власник цього гарного будинку!"
+    },
+    {
+      "speaker": "Écrivain",
+      "fr": "Oui. Le matin, je déjeune ici, avec mon plateau, devant le fleuve.",
+      "en": "Yes. In the morning I have breakfast here, with my tray, in front of the river.",
+      "uk": "Так. Зранку я снідаю тут, із тацею, з видом на річку."
+    },
+    {
+      "speaker": "Journaliste",
+      "fr": "Vous voyagez beaucoup?",
+      "en": "Do you travel a lot?",
+      "uk": "Ви багато подорожуєте?"
+    },
+    {
+      "speaker": "Écrivain",
+      "fr": "Quelquefois. J'adore faire de la voile, et l'été, je me baigne dans le fleuve.",
+      "en": "Sometimes. I love sailing, and in summer I swim in the river.",
+      "uk": "Іноді. Я обожнюю ходити під вітрилом, а влітку купаюся в річці."
+    },
+    {
+      "speaker": "Journaliste",
+      "fr": "Où est-ce que vous trouvez vos idées?",
+      "en": "Where do you find your ideas?",
+      "uk": "Де ви знаходите ідеї?"
+    },
+    {
+      "speaker": "Écrivain",
+      "fr": "En promenade, au parc ou au vieux cimetière. C'est très agréable et calme.",
+      "en": "On walks, in the park or in the old cemetery. It's very pleasant and quiet.",
+      "uk": "На прогулянках — у парку або на старому цвинтарі. Там дуже приємно й тихо."
+    },
+    {
+      "speaker": "Journaliste",
+      "fr": "Et votre prochain livre?",
+      "en": "And your next book?",
+      "uk": "А ваша наступна книжка?"
+    },
+    {
+      "speaker": "Écrivain",
+      "fr": "C'est l'histoire d'une femme qui recherche son père. Elle traverse le Québec à vélo, jusqu'au sommet du mont Albert. Mais en Gaspésie, une roue de son vélo casse!",
+      "en": "It's the story of a woman searching for her father. She crosses Québec by bike, up to the summit of Mont Albert. But in the Gaspé, one of her bike's wheels breaks!",
+      "uk": "Це історія жінки, яка шукає свого батька. Вона перетинає Квебек на велосипеді аж до вершини гори Альбер. Але в Гаспезі в її велосипеда ламається колесо!"
+    },
+    {
+      "speaker": "Journaliste",
+      "fr": "Extraordinaire! Et quand vous écrivez, vous écoutez de la musique?",
+      "en": "Extraordinary! And when you write, do you listen to music?",
+      "uk": "Неймовірно! А коли пишете, ви слухаєте музику?"
+    },
+    {
+      "speaker": "Écrivain",
+      "fr": "Oui, de vieux disques. Le livre arrive dans les boutiques en juin.",
+      "en": "Yes, old records. The book comes out in the shops in June.",
+      "uk": "Так, старі платівки. Книжка з'явиться в крамницях у червні."
+    },
+    {
+      "speaker": "Journaliste",
+      "fr": "Mmm… cette soupe sent bon!",
+      "en": "Mmm… that soup smells good!",
+      "uk": "Ммм… як смачно пахне цей суп!"
+    },
+    {
+      "speaker": "Écrivain",
+      "fr": "C'est ma soupe aux légumes. Restez pour dîner!",
+      "en": "It's my vegetable soup. Stay for lunch!",
+      "uk": "Це мій овочевий суп. Залишайтеся на обід!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What does the writer offer the journalist?",
+        "uk": "Що письменник пропонує журналістці?"
+      },
+      "options": [
+        {
+          "en": "A coffee",
+          "uk": "Каву"
+        },
+        {
+          "en": "A hot chocolate",
+          "uk": "Гарячий шоколад"
+        },
+        {
+          "en": "A tea",
+          "uk": "Чай"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What does his father do?",
+        "uk": "Ким працює його батько?"
+      },
+      "options": [
+        {
+          "en": "He works for a paper company",
+          "uk": "Працює на паперовому підприємстві"
+        },
+        {
+          "en": "He's a writer",
+          "uk": "Він письменник"
+        },
+        {
+          "en": "He owns a boat",
+          "uk": "Він власник човна"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Where does the writer find his ideas?",
+        "uk": "Де письменник знаходить ідеї?"
+      },
+      "options": [
+        {
+          "en": "On his sailboat",
+          "uk": "На своєму вітрильнику"
+        },
+        {
+          "en": "In bookshops",
+          "uk": "У книгарнях"
+        },
+        {
+          "en": "On walks in the park or the old cemetery",
+          "uk": "На прогулянках у парку чи на старому цвинтарі"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What is his next book about?",
+        "uk": "Про що його наступна книжка?"
+      },
+      "options": [
+        {
+          "en": "A worker who builds a boat",
+          "uk": "Про робітника, який будує човен"
+        },
+        {
+          "en": "A woman looking for her father",
+          "uk": "Про жінку, яка шукає батька"
+        },
+        {
+          "en": "A journalist who travels",
+          "uk": "Про журналістку, яка подорожує"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What does he listen to when he writes?",
+        "uk": "Що він слухає, коли пише?"
+      },
+      "options": [
+        {
+          "en": "Old records",
+          "uk": "Старі платівки"
+        },
+        {
+          "en": "The radio",
+          "uk": "Радіо"
+        },
+        {
+          "en": "Nothing",
+          "uk": "Нічого"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le parc",
+      "en": "the park",
+      "uk": "парк"
+    },
+    {
+      "fr": "la rivière",
+      "en": "the river",
+      "uk": "річка"
+    },
+    {
+      "fr": "agréable",
+      "en": "pleasant",
+      "uk": "приємний"
+    },
+    {
+      "fr": "le disque",
+      "en": "the record / the disc",
+      "uk": "платівка / диск"
+    },
+    {
+      "fr": "le cimetière",
+      "en": "the cemetery",
+      "uk": "цвинтар"
+    },
+    {
+      "fr": "la boutique",
+      "en": "the shop / the boutique",
+      "uk": "крамниця / бутик"
+    },
+    {
+      "fr": "l'ouvrier (m.) / l'ouvrière (f.)",
+      "en": "the worker (factory)",
+      "uk": "робітник / робітниця"
+    },
+    {
+      "fr": "l'origine (f.)",
+      "en": "the origin",
+      "uk": "походження"
+    },
+    {
+      "fr": "l'écrivain (m.) / l'écrivaine (f.)",
+      "en": "the writer",
+      "uk": "письменник / письменниця"
+    },
+    {
+      "fr": "la promenade",
+      "en": "the walk / the stroll",
+      "uk": "прогулянка"
+    },
+    {
+      "fr": "voyager",
+      "en": "to travel",
+      "uk": "подорожувати"
+    },
+    {
+      "fr": "quelquefois",
+      "en": "sometimes",
+      "uk": "іноді"
+    },
+    {
+      "fr": "le plateau",
+      "en": "the tray / the plateau / the set (TV)",
+      "uk": "таця / плато / знімальний майданчик"
+    },
+    {
+      "fr": "déjeuner",
+      "en": "to have lunch (France) / to have breakfast (Québec)",
+      "uk": "обідати (у Франції) / снідати (у Квебеку)"
+    },
+    {
+      "fr": "la soupe",
+      "en": "the soup",
+      "uk": "суп"
+    },
+    {
+      "fr": "extraordinaire",
+      "en": "extraordinary",
+      "uk": "надзвичайний"
+    },
+    {
+      "fr": "le / la propriétaire",
+      "en": "the owner / the landlord",
+      "uk": "власник / власниця / орендодавець"
+    },
+    {
+      "fr": "la voile",
+      "en": "the sail (le voile = the veil)",
+      "uk": "вітрило (le voile = вуаль)"
+    },
+    {
+      "fr": "le fleuve",
+      "en": "the river (flowing to the sea)",
+      "uk": "велика річка (що впадає в море)"
+    },
+    {
+      "fr": "l'invité (m.) / l'invitée (f.)",
+      "en": "the guest",
+      "uk": "гість / гостя"
+    },
+    {
+      "fr": "rechercher",
+      "en": "to search for / to look for",
+      "uk": "шукати"
+    },
+    {
+      "fr": "baigner",
+      "en": "to bathe (se baigner = to go swimming)",
+      "uk": "купати (se baigner = купатися)"
+    },
+    {
+      "fr": "l'entreprise (f.)",
+      "en": "the company / the business",
+      "uk": "підприємство, компанія"
+    },
+    {
+      "fr": "le chocolat",
+      "en": "the chocolate",
+      "uk": "шоколад"
+    },
+    {
+      "fr": "le / la journaliste",
+      "en": "the journalist",
+      "uk": "журналіст / журналістка"
+    },
+    {
+      "fr": "célèbre",
+      "en": "famous",
+      "uk": "відомий"
+    },
+    {
+      "fr": "le sommet",
+      "en": "the summit / the top",
+      "uk": "вершина"
+    },
+    {
+      "fr": "le sucre",
+      "en": "the sugar",
+      "uk": "цукор"
+    },
+    {
+      "fr": "la roue",
+      "en": "the wheel",
+      "uk": "колесо"
+    },
+    {
+      "fr": "la rivière Saint-Maurice",
+      "en": "a river that flows into the St. Lawrence at Trois-Rivières",
+      "uk": "річка Сен-Моріс, що впадає в річку Святого Лаврентія біля Труа-Рів'єра"
+    },
+    {
+      "fr": "le chocolat chaud",
+      "en": "hot chocolate",
+      "uk": "гарячий шоколад"
+    },
+    {
+      "fr": "dîner",
+      "en": "to have lunch (Québec)",
+      "uk": "обідати (у Квебеку)"
+    }
+  ]
+}

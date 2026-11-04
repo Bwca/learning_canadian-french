@@ -1,0 +1,340 @@
+{
+  "title": {
+    "en": "Calling a shoe store (list a1-16)",
+    "uk": "Дзвінок до взуттєвої крамниці (список a1-16)"
+  },
+  "situation": {
+    "en": "You hear a young woman phoning a shoe store in Gatineau.",
+    "uk": "Ви чуєте, як молода жінка телефонує до взуттєвої крамниці в Гатіно."
+  },
+  "lines": [
+    {
+      "speaker": "Vendeur",
+      "fr": "Allô, magasin Chaussures Laurier, bonjour!",
+      "en": "Hello, Laurier Shoes, good morning!",
+      "uk": "Алло, взуттєва крамниця «Лор'є», добрий день!"
+    },
+    {
+      "speaker": "Cliente",
+      "fr": "Bonjour. Je vous téléphone pour une paire de souliers dans votre vitrine.",
+      "en": "Hello. I'm calling about a pair of shoes in your window.",
+      "uk": "Добрий день. Я телефоную щодо пари черевиків у вашій вітрині."
+    },
+    {
+      "speaker": "Vendeur",
+      "fr": "Oui, mademoiselle. Qu'est-ce que vous désirez?",
+      "en": "Yes, miss. What would you like?",
+      "uk": "Так, панно. Що вас цікавить?"
+    },
+    {
+      "speaker": "Cliente",
+      "fr": "Les souliers jaunes, euh… à gauche, en haut de la vitrine. Combien est-ce qu'ils coûtent?",
+      "en": "The yellow shoes, um… on the left, at the top of the window. How much do they cost?",
+      "uk": "Жовті черевики, е-е… ліворуч, угорі вітрини. Скільки вони коштують?"
+    },
+    {
+      "speaker": "Vendeur",
+      "fr": "Quatre-vingt-neuf dollars. C'est une marque allemande, de très bonne qualité.",
+      "en": "Eighty-nine dollars. It's a German brand, very good quality.",
+      "uk": "Вісімдесят дев'ять доларів. Це німецька марка, дуже якісна."
+    },
+    {
+      "speaker": "Cliente",
+      "fr": "Est-ce qu'ils sont larges? J'ai le pied large.",
+      "en": "Are they wide? I have wide feet.",
+      "uk": "Вони широкі? У мене широка стопа."
+    },
+    {
+      "speaker": "Vendeur",
+      "fr": "Non, ils sont plutôt fins. Mais nous avons aussi le modèle large.",
+      "en": "No, they're rather narrow. But we also have the wide model.",
+      "uk": "Ні, вони радше вузькі. Але є й широка модель."
+    },
+    {
+      "speaker": "Cliente",
+      "fr": "Parfait! En pointure huit?",
+      "en": "Perfect! In size eight?",
+      "uk": "Чудово! А восьмий розмір є?"
+    },
+    {
+      "speaker": "Vendeur",
+      "fr": "Je regarde… Désolé, je n'en ai aucun en huit au magasin. Mais notre entrepôt en possède deux paires.",
+      "en": "Let me look… Sorry, I don't have any in eight in the store. But our warehouse has two pairs.",
+      "uk": "Зараз подивлюся… На жаль, восьмого розміру в крамниці немає жодної пари. Але на нашому складі є дві."
+    },
+    {
+      "speaker": "Cliente",
+      "fr": "Est-ce que vous pouvez m'envoyer un paquet à la maison?",
+      "en": "Can you send me a package at home?",
+      "uk": "Можете надіслати мені посилку додому?"
+    },
+    {
+      "speaker": "Vendeur",
+      "fr": "Oui. Donnez-moi votre adresse, s'il vous plaît.",
+      "en": "Yes. Give me your address, please.",
+      "uk": "Так. Назвіть, будь ласка, вашу адресу."
+    },
+    {
+      "speaker": "Cliente",
+      "fr": "Douze, rue des Pins, à Gatineau. Je suis un peu pressée : je pars à l'étranger dans une semaine.",
+      "en": "Twelve Pine Street, in Gatineau. I'm in a bit of a hurry: I'm going abroad in a week.",
+      "uk": "Вулиця Соснова, дванадцять, у Гатіно. Я трохи поспішаю: за тиждень їду за кордон."
+    },
+    {
+      "speaker": "Vendeur",
+      "fr": "Alors, on se dépêche! Vous avez votre paquet jeudi.",
+      "en": "Then we'll hurry! You'll have your package on Thursday.",
+      "uk": "Тоді ми поквапимося! Посилка буде у вас у четвер."
+    },
+    {
+      "speaker": "Vendeur",
+      "fr": "Oh, mon collègue éteint déjà les lumières du couloir. On ferme dans cinq minutes. Bonne soirée!",
+      "en": "Oh, my colleague is already turning off the hallway lights. We close in five minutes. Have a good evening!",
+      "uk": "Ой, мій колега вже вимикає світло в коридорі. Ми зачиняємося за п'ять хвилин. Гарного вечора!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Which shoes does she want?",
+        "uk": "Які черевики вона хоче?"
+      },
+      "options": [
+        {
+          "en": "Yellow shoes at the top left of the window",
+          "uk": "Жовті, угорі ліворуч у вітрині"
+        },
+        {
+          "en": "Yellow shoes at the bottom right",
+          "uk": "Жовті, унизу праворуч"
+        },
+        {
+          "en": "Red shoes at the top left",
+          "uk": "Червоні, угорі ліворуч"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How much do they cost?",
+        "uk": "Скільки вони коштують?"
+      },
+      "options": [
+        {
+          "en": "$99",
+          "uk": "99 $"
+        },
+        {
+          "en": "$69",
+          "uk": "69 $"
+        },
+        {
+          "en": "$89",
+          "uk": "89 $"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Why does she want the wide model?",
+        "uk": "Чому вона хоче широку модель?"
+      },
+      "options": [
+        {
+          "en": "It's cheaper",
+          "uk": "Вона дешевша"
+        },
+        {
+          "en": "She has wide feet",
+          "uk": "У неї широка стопа"
+        },
+        {
+          "en": "It's a German brand",
+          "uk": "Це німецька марка"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Why is she in a hurry?",
+        "uk": "Чому вона поспішає?"
+      },
+      "options": [
+        {
+          "en": "She's going abroad in a week",
+          "uk": "За тиждень вона їде за кордон"
+        },
+        {
+          "en": "The store is closing",
+          "uk": "Крамниця зачиняється"
+        },
+        {
+          "en": "She's starting a new job",
+          "uk": "Вона починає нову роботу"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "When will she get her package?",
+        "uk": "Коли вона отримає посилку?"
+      },
+      "options": [
+        {
+          "en": "In a week",
+          "uk": "За тиждень"
+        },
+        {
+          "en": "On Tuesday",
+          "uk": "У вівторок"
+        },
+        {
+          "en": "On Thursday",
+          "uk": "У четвер"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "mademoiselle",
+      "en": "miss / Ms.",
+      "uk": "панночка, пані"
+    },
+    {
+      "fr": "gauche",
+      "en": "left",
+      "uk": "лівий"
+    },
+    {
+      "fr": "se dépêcher",
+      "en": "to hurry (se dépêcher)",
+      "uk": "поспішати"
+    },
+    {
+      "fr": "le paquet",
+      "en": "the package / the pack",
+      "uk": "пакунок / пачка"
+    },
+    {
+      "fr": "éteindre",
+      "en": "to turn off / to switch off",
+      "uk": "вимикати / гасити"
+    },
+    {
+      "fr": "le couloir",
+      "en": "the hallway / the corridor",
+      "uk": "коридор"
+    },
+    {
+      "fr": "haut",
+      "en": "high / up",
+      "uk": "високо / вгору"
+    },
+    {
+      "fr": "coûter",
+      "en": "to cost",
+      "uk": "коштувати"
+    },
+    {
+      "fr": "jaune",
+      "en": "yellow",
+      "uk": "жовтий"
+    },
+    {
+      "fr": "allô",
+      "en": "hello? (on the phone)",
+      "uk": "алло? (по телефону)"
+    },
+    {
+      "fr": "la chaussure",
+      "en": "the shoe",
+      "uk": "черевик, взуття"
+    },
+    {
+      "fr": "allemand / allemande",
+      "en": "German",
+      "uk": "німецький / німецька, німець"
+    },
+    {
+      "fr": "téléphoner",
+      "en": "to phone / to call",
+      "uk": "телефонувати, дзвонити"
+    },
+    {
+      "fr": "désirer",
+      "en": "to want / to wish for (vous désirez ? = what would you like?)",
+      "uk": "бажати, хотіти (vous désirez ? = що бажаєте?)"
+    },
+    {
+      "fr": "large",
+      "en": "wide / broad",
+      "uk": "широкий"
+    },
+    {
+      "fr": "le magasin",
+      "en": "the store / the shop",
+      "uk": "крамниця, магазин"
+    },
+    {
+      "fr": "l'étranger (m.) / l'étrangère (f.)",
+      "en": "the foreigner (à l'étranger = abroad)",
+      "uk": "іноземець / іноземка (à l'étranger = за кордоном)"
+    },
+    {
+      "fr": "posséder",
+      "en": "to own / to possess",
+      "uk": "володіти"
+    },
+    {
+      "fr": "fin / fine",
+      "en": "thin / fine",
+      "uk": "тонкий / тонка"
+    },
+    {
+      "fr": "aucun / aucune",
+      "en": "none / not any",
+      "uk": "жоден / жодна"
+    },
+    {
+      "fr": "euh",
+      "en": "um / uh",
+      "uk": "е-е / гм"
+    },
+    {
+      "fr": "l'adresse (f.)",
+      "en": "the address",
+      "uk": "адреса"
+    },
+    {
+      "fr": "presser",
+      "en": "to press / to squeeze (pressé = in a hurry)",
+      "uk": "натискати / вичавлювати (pressé = поспішає)"
+    },
+    {
+      "fr": "le soulier",
+      "en": "the shoe (common in Québec)",
+      "uk": "черевик, туфля (поширене в Квебеку)"
+    },
+    {
+      "fr": "la vitrine",
+      "en": "the shop window",
+      "uk": "вітрина"
+    },
+    {
+      "fr": "la pointure",
+      "en": "the shoe size",
+      "uk": "розмір взуття"
+    },
+    {
+      "fr": "l'entrepôt (m.)",
+      "en": "the warehouse",
+      "uk": "склад"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "title": {
+    "en": "A message from the university (list a1-20)",
+    "uk": "Повідомлення з університету (список a1-20)"
+  },
+  "situation": {
+    "en": "You hear a voicemail for Ana, a student who wants to study at Université Laval.",
+    "uk": "Ви чуєте голосове повідомлення для Ани, студентки, яка хоче навчатися в Університеті Лаваль."
+  },
+  "lines": [
+    {
+      "fr": "Bonjour, ici Claire Dubé, secrétaire du programme de sciences à l'Université Laval. Ce message est pour Ana Silva.",
+      "en": "Hello, this is Claire Dubé, secretary of the science program at Université Laval. This message is for Ana Silva.",
+      "uk": "Добрий день, це Клер Дюбе, секретарка програми природничих наук в Університеті Лаваль. Повідомлення для Ани Сілви."
+    },
+    {
+      "fr": "D'abord, félicitations! Votre demande est acceptée pour les études supérieures.",
+      "en": "First, congratulations! Your application for graduate studies is accepted.",
+      "uk": "Насамперед вітаю! Вашу заявку на навчання в магістратурі прийнято."
+    },
+    {
+      "fr": "Vous devez passer un examen de français le trois juin. Notez bien la date.",
+      "en": "You have to take a French exam on June third. Write down the date.",
+      "uk": "Вам треба скласти іспит із французької третього червня. Запишіть дату."
+    },
+    {
+      "fr": "L'examen a deux parties principales : la lecture et l'écriture.",
+      "en": "The exam has two main parts: reading and writing.",
+      "uk": "Іспит складається з двох основних частин: читання та письма."
+    },
+    {
+      "fr": "Il a lieu au bâtiment B, sur le boulevard Laurier, à neuf heures.",
+      "en": "It takes place in building B, on Laurier Boulevard, at nine o'clock.",
+      "uk": "Він відбудеться в корпусі B на бульварі Лор'є о дев'ятій."
+    },
+    {
+      "fr": "Le cours d'été du mois de mai est complet, désolée.",
+      "en": "The summer course in May is full, sorry.",
+      "uk": "Літній курс у травні вже заповнений, на жаль."
+    },
+    {
+      "fr": "Mon collègue, monsieur Côté, est responsable des étudiants étrangers. Vous pouvez l'appeler directement, au poste deux cent quatorze.",
+      "en": "My colleague, Mr. Côté, is in charge of foreign students. You can call him directly, at extension two hundred fourteen.",
+      "uk": "Мій колега, пан Коте, відповідає за іноземних студентів. Ви можете зателефонувати йому напряму, внутрішній номер двісті чотирнадцять."
+    },
+    {
+      "fr": "Vous pouvez aussi participer à la journée d'accueil, le vingt-huit mai, pour les étudiants de tous les domaines.",
+      "en": "You can also take part in the welcome day, on May twenty-eighth, for students from all fields.",
+      "uk": "Ви також можете взяти участь у дні знайомства двадцять восьмого травня для студентів усіх галузей."
+    },
+    {
+      "fr": "Pour les questions sur les matières, écrivez au département. Bonne journée!",
+      "en": "For questions about the subjects, write to the department. Have a good day!",
+      "uk": "З питань щодо предметів пишіть на кафедру. Гарного дня!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Why does Claire congratulate Ana?",
+        "uk": "Чому Клер вітає Ану?"
+      },
+      "options": [
+        {
+          "en": "She passed her exam",
+          "uk": "Вона склала іспит"
+        },
+        {
+          "en": "Her application for graduate studies is accepted",
+          "uk": "Її заявку на магістратуру прийнято"
+        },
+        {
+          "en": "She got a job at the university",
+          "uk": "Вона отримала роботу в університеті"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "When is the French exam?",
+        "uk": "Коли іспит із французької?"
+      },
+      "options": [
+        {
+          "en": "May 3",
+          "uk": "3 травня"
+        },
+        {
+          "en": "May 28",
+          "uk": "28 травня"
+        },
+        {
+          "en": "June 3",
+          "uk": "3 червня"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What are the two main parts of the exam?",
+        "uk": "З яких двох основних частин складається іспит?"
+      },
+      "options": [
+        {
+          "en": "Reading and writing",
+          "uk": "Читання та письмо"
+        },
+        {
+          "en": "Listening and speaking",
+          "uk": "Аудіювання та говоріння"
+        },
+        {
+          "en": "Grammar and reading",
+          "uk": "Граматика та читання"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What about the May summer course?",
+        "uk": "Що з літнім курсом у травні?"
+      },
+      "options": [
+        {
+          "en": "It's free",
+          "uk": "Він безкоштовний"
+        },
+        {
+          "en": "It's full",
+          "uk": "Він заповнений"
+        },
+        {
+          "en": "It's in June",
+          "uk": "Він у червні"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Who is in charge of foreign students?",
+        "uk": "Хто відповідає за іноземних студентів?"
+      },
+      "options": [
+        {
+          "en": "Claire Dubé",
+          "uk": "Клер Дюбе"
+        },
+        {
+          "en": "The department head",
+          "uk": "Завідувач кафедри"
+        },
+        {
+          "en": "Mr. Côté",
+          "uk": "Пан Коте"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'étudiant (m.) / l'étudiante (f.)",
+      "en": "the student (university)",
+      "uk": "студент / студентка"
+    },
+    {
+      "fr": "noter",
+      "en": "to write down / to note",
+      "uk": "записувати / помічати"
+    },
+    {
+      "fr": "principal / principale",
+      "en": "main / principal",
+      "uk": "головний / головна"
+    },
+    {
+      "fr": "le programme",
+      "en": "the programme / the schedule",
+      "uk": "програма / розклад"
+    },
+    {
+      "fr": "la matière",
+      "en": "the subject (school) / the material",
+      "uk": "предмет (шкільний) / матеріал"
+    },
+    {
+      "fr": "le / la secrétaire",
+      "en": "the secretary",
+      "uk": "секретар / секретарка"
+    },
+    {
+      "fr": "l'examen (m.)",
+      "en": "the exam",
+      "uk": "іспит"
+    },
+    {
+      "fr": "participer",
+      "en": "to take part / to participate",
+      "uk": "брати участь"
+    },
+    {
+      "fr": "complet / complète",
+      "en": "full / complete",
+      "uk": "повний / повна"
+    },
+    {
+      "fr": "supérieur / supérieure",
+      "en": "higher / upper / superior",
+      "uk": "вищий / верхній"
+    },
+    {
+      "fr": "le / la collègue",
+      "en": "the colleague",
+      "uk": "колега"
+    },
+    {
+      "fr": "la lecture",
+      "en": "the reading",
+      "uk": "читання"
+    },
+    {
+      "fr": "mai (m.)",
+      "en": "May",
+      "uk": "травень"
+    },
+    {
+      "fr": "responsable",
+      "en": "responsible / in charge",
+      "uk": "відповідальний"
+    },
+    {
+      "fr": "le domaine",
+      "en": "the field / the domain / the estate",
+      "uk": "галузь / сфера / маєток"
+    },
+    {
+      "fr": "le boulevard",
+      "en": "the boulevard",
+      "uk": "бульвар"
+    },
+    {
+      "fr": "directement",
+      "en": "directly",
+      "uk": "прямо, безпосередньо"
+    },
+    {
+      "fr": "les félicitations",
+      "en": "congratulations",
+      "uk": "вітання, поздоровлення"
+    },
+    {
+      "fr": "juin (m.)",
+      "en": "June",
+      "uk": "червень"
+    },
+    {
+      "fr": "le bâtiment",
+      "en": "the building",
+      "uk": "будівля"
+    },
+    {
+      "fr": "la science",
+      "en": "the science",
+      "uk": "наука"
+    },
+    {
+      "fr": "les études supérieures (f.)",
+      "en": "graduate studies",
+      "uk": "аспірантура, магістратура"
+    },
+    {
+      "fr": "le poste",
+      "en": "the (phone) extension",
+      "uk": "внутрішній номер"
+    },
+    {
+      "fr": "la journée d'accueil",
+      "en": "the welcome day, orientation day",
+      "uk": "день знайомства для новачків"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "title": {
+    "en": "A birthday present (list a1-18)",
+    "uk": "Подарунок на день народження (список a1-18)"
+  },
+  "situation": {
+    "en": "You hear Alex and his friend Inès shopping for a present in a store.",
+    "uk": "Ви чуєте, як Алекс і його подруга Інес вибирають подарунок у крамниці."
+  },
+  "lines": [
+    {
+      "speaker": "Inès",
+      "fr": "Alors, Alex, c'est quand, l'anniversaire de Sophie?",
+      "en": "So, Alex, when is Sophie's birthday?",
+      "uk": "Ну, Алексе, коли в Софі день народження?"
+    },
+    {
+      "speaker": "Alex",
+      "fr": "Samedi! Je réunis ses amis au chalet. C'est une surprise.",
+      "en": "Saturday! I'm gathering her friends at the cottage. It's a surprise.",
+      "uk": "У суботу! Я збираю її друзів на дачі. Це сюрприз."
+    },
+    {
+      "speaker": "Inès",
+      "fr": "Parfait. Et le cadeau? Soit un livre, soit un parfum?",
+      "en": "Perfect. And the present? Either a book or a perfume?",
+      "uk": "Чудово. А подарунок? Або книжка, або парфуми?"
+    },
+    {
+      "speaker": "Alex",
+      "fr": "Elle adore les romans et la peinture. Elle est très curieuse et intelligente.",
+      "en": "She loves novels and painting. She's very curious and smart.",
+      "uk": "Вона обожнює романи й живопис. Вона дуже допитлива й розумна."
+    },
+    {
+      "speaker": "Inès",
+      "fr": "Regarde ce livre sur les peintres du Québec. Il est intéressant!",
+      "en": "Look at this book about Québec painters. It's interesting!",
+      "uk": "Подивися на цю книжку про квебекських художників. Цікава!"
+    },
+    {
+      "speaker": "Alex",
+      "fr": "Ou cet appareil photo?",
+      "en": "Or this camera?",
+      "uk": "Або цей фотоапарат?"
+    },
+    {
+      "speaker": "Inès",
+      "fr": "Quelle est la différence de prix?",
+      "en": "What's the difference in price?",
+      "uk": "Яка різниця в ціні?"
+    },
+    {
+      "speaker": "Alex",
+      "fr": "Le livre coûte trente dollars, et l'appareil, trois cents. Oh là là, c'est trop cher!",
+      "en": "The book costs thirty dollars, and the camera three hundred. Wow, that's too expensive!",
+      "uk": "Книжка коштує тридцять доларів, а фотоапарат — триста. Ого, це задорого!"
+    },
+    {
+      "speaker": "Inès",
+      "fr": "Prends le livre, et un petit parfum aux fruits.",
+      "en": "Take the book, and a little fruity perfume.",
+      "uk": "Бери книжку й маленькі фруктові парфуми."
+    },
+    {
+      "speaker": "Alex",
+      "fr": "Regarde sa photo : blonde, mince, charmante… une vraie artiste!",
+      "en": "Look at her photo: blonde, slim, charming… a real artist!",
+      "uk": "Подивися на її фото: білявка, струнка, чарівна… справжня художниця!"
+    },
+    {
+      "speaker": "Inès",
+      "fr": "Ha! Tu l'admires beaucoup!",
+      "en": "Ha! You really admire her!",
+      "uk": "Ха! Ти нею дуже захоплюєшся!"
+    },
+    {
+      "speaker": "Alex",
+      "fr": "Oui. On a beaucoup de choses en commun.",
+      "en": "Yes. We have a lot in common.",
+      "uk": "Так. У нас багато спільного."
+    },
+    {
+      "speaker": "Inès",
+      "fr": "Et au chalet, tu vas pendre des ballons?",
+      "en": "And at the cottage, are you going to hang balloons?",
+      "uk": "А на дачі ти повісиш повітряні кульки?"
+    },
+    {
+      "speaker": "Alex",
+      "fr": "Oui. On décore ensemble vendredi?",
+      "en": "Yes. Shall we decorate together on Friday?",
+      "uk": "Так. Прикрасимо разом у п'ятницю?"
+    },
+    {
+      "speaker": "Inès",
+      "fr": "D'accord. Mais pas de blagues nulles, comme l'année passée!",
+      "en": "OK. But no lame jokes, like last year!",
+      "uk": "Гаразд. Але без дурних жартів, як торік!"
+    },
+    {
+      "speaker": "Alex",
+      "fr": "Promis. Bon, le sort en est jeté : je prends le livre et le parfum. On va à la caisse?",
+      "en": "Promise. Right, the die is cast: I'll take the book and the perfume. Shall we go to the checkout?",
+      "uk": "Обіцяю. Що ж, жереб кинуто: беру книжку й парфуми. Ідемо до каси?"
+    },
+    {
+      "speaker": "Inès",
+      "fr": "Oui, vite. Il est midi moins le quart, et j'ai faim. Après, des ailes de poulet!",
+      "en": "Yes, quickly. It's a quarter to twelve, and I'm hungry. Afterwards, chicken wings!",
+      "uk": "Так, швидше. Уже за чверть дванадцята, а я голодна. Потім — курячі крильця!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "When is Sophie's birthday?",
+        "uk": "Коли в Софі день народження?"
+      },
+      "options": [
+        {
+          "en": "Sunday",
+          "uk": "У неділю"
+        },
+        {
+          "en": "Saturday",
+          "uk": "У суботу"
+        },
+        {
+          "en": "Friday",
+          "uk": "У п'ятницю"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Where is the party?",
+        "uk": "Де буде свято?"
+      },
+      "options": [
+        {
+          "en": "At the cottage",
+          "uk": "На дачі"
+        },
+        {
+          "en": "At a restaurant",
+          "uk": "У ресторані"
+        },
+        {
+          "en": "At Inès's place",
+          "uk": "В Інес"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Why doesn't Alex buy the camera?",
+        "uk": "Чому Алекс не купує фотоапарат?"
+      },
+      "options": [
+        {
+          "en": "Sophie already has one",
+          "uk": "У Софі він уже є"
+        },
+        {
+          "en": "It's too big",
+          "uk": "Він завеликий"
+        },
+        {
+          "en": "It's too expensive",
+          "uk": "Він задорогий"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What does Alex buy?",
+        "uk": "Що купує Алекс?"
+      },
+      "options": [
+        {
+          "en": "A book about Québec painters and a fruity perfume",
+          "uk": "Книжку про квебекських художників і фруктові парфуми"
+        },
+        {
+          "en": "A novel and balloons",
+          "uk": "Роман і кульки"
+        },
+        {
+          "en": "A camera",
+          "uk": "Фотоапарат"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What time is it?",
+        "uk": "Котра година?"
+      },
+      "options": [
+        {
+          "en": "A quarter past twelve",
+          "uk": "Чверть на першу"
+        },
+        {
+          "en": "A quarter to twelve",
+          "uk": "За чверть дванадцята"
+        },
+        {
+          "en": "Noon sharp",
+          "uk": "Рівно дванадцята"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la caisse",
+      "en": "the cash register / the checkout / the box",
+      "uk": "каса / скринька"
+    },
+    {
+      "fr": "soit",
+      "en": "either… or (soit… soit)",
+      "uk": "або… або (soit… soit)"
+    },
+    {
+      "fr": "le sort",
+      "en": "the fate",
+      "uk": "доля"
+    },
+    {
+      "fr": "le fruit",
+      "en": "the fruit",
+      "uk": "фрукт, плід"
+    },
+    {
+      "fr": "parfait / parfaite",
+      "en": "perfect",
+      "uk": "досконалий / досконала, ідеальний"
+    },
+    {
+      "fr": "commun / commune",
+      "en": "common / shared",
+      "uk": "спільний / спільна, звичайний"
+    },
+    {
+      "fr": "pendre",
+      "en": "to hang",
+      "uk": "вішати / висіти"
+    },
+    {
+      "fr": "curieux / curieuse",
+      "en": "curious",
+      "uk": "цікавий / цікава, допитливий"
+    },
+    {
+      "fr": "admirer",
+      "en": "to admire",
+      "uk": "захоплюватися"
+    },
+    {
+      "fr": "la différence",
+      "en": "the difference",
+      "uk": "різниця"
+    },
+    {
+      "fr": "le quart",
+      "en": "the quarter",
+      "uk": "чверть"
+    },
+    {
+      "fr": "réunir",
+      "en": "to gather / to bring together",
+      "uk": "збирати / об'єднувати"
+    },
+    {
+      "fr": "le roman",
+      "en": "the novel",
+      "uk": "роман"
+    },
+    {
+      "fr": "blond / blonde",
+      "en": "blond",
+      "uk": "білявий / білява"
+    },
+    {
+      "fr": "intéressant / intéressante",
+      "en": "interesting",
+      "uk": "цікавий / цікава"
+    },
+    {
+      "fr": "la peinture",
+      "en": "the paint / the painting",
+      "uk": "фарба / живопис, картина"
+    },
+    {
+      "fr": "l'appareil (m.)",
+      "en": "the device / the appliance",
+      "uk": "пристрій / прилад"
+    },
+    {
+      "fr": "l'anniversaire (m.)",
+      "en": "the birthday / the anniversary",
+      "uk": "день народження / річниця"
+    },
+    {
+      "fr": "le parfum",
+      "en": "the perfume / the flavour",
+      "uk": "парфуми / смак"
+    },
+    {
+      "fr": "charmant / charmante",
+      "en": "charming",
+      "uk": "чарівний / чарівна"
+    },
+    {
+      "fr": "la blague",
+      "en": "the joke",
+      "uk": "жарт"
+    },
+    {
+      "fr": "l'ensemble (m.)",
+      "en": "the whole / the set (ensemble = together)",
+      "uk": "сукупність / комплект (ensemble = разом)"
+    },
+    {
+      "fr": "mince",
+      "en": "thin / slim",
+      "uk": "худий, стрункий"
+    },
+    {
+      "fr": "l'aile (f.)",
+      "en": "the wing",
+      "uk": "крило"
+    },
+    {
+      "fr": "intelligent / intelligente",
+      "en": "intelligent / smart",
+      "uk": "розумний / розумна"
+    },
+    {
+      "fr": "le chalet",
+      "en": "the cottage, cabin",
+      "uk": "заміський будиночок"
+    },
+    {
+      "fr": "le ballon",
+      "en": "the balloon",
+      "uk": "повітряна кулька"
+    },
+    {
+      "fr": "les ailes de poulet (f.)",
+      "en": "chicken wings",
+      "uk": "курячі крильця"
+    },
+    {
+      "fr": "le sort en est jeté",
+      "en": "the die is cast",
+      "uk": "жереб кинуто"
+    }
+  ]
+}

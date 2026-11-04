@@ -1,0 +1,321 @@
+{
+  "title": {
+    "en": "Before the play starts (list a1-17)",
+    "uk": "Перед початком вистави (список a1-17)"
+  },
+  "situation": {
+    "en": "You are at the theatre. You hear an announcement before the play.",
+    "uk": "Ви в театрі. Ви чуєте оголошення перед виставою."
+  },
+  "lines": [
+    {
+      "fr": "Mesdames et messieurs, bonsoir, et bienvenue au Théâtre du Vieux-Port!",
+      "en": "Ladies and gentlemen, good evening, and welcome to the Old Port Theatre!",
+      "uk": "Пані та панове, добрий вечір і ласкаво просимо до театру «Старий порт»!"
+    },
+    {
+      "fr": "Ce soir, la troupe vous salue avec une pièce magnifique : « Le Château du Nord ».",
+      "en": "Tonight, the company greets you with a magnificent play: “The Castle of the North”.",
+      "uk": "Сьогодні трупа вітає вас чудовою п'єсою «Замок Півночі»."
+    },
+    {
+      "fr": "C'est l'aventure de Rose, un personnage plein de passion, pendant sa jeunesse en Gaspésie.",
+      "en": "It's the adventure of Rose, a character full of passion, during her youth in the Gaspé.",
+      "uk": "Це пригоди Роз, пристрасної героїні, у роки її юності в Гаспезі."
+    },
+    {
+      "fr": "Attention : c'est une soirée spéciale. Ce soir, Luc Martin joue le rôle du père. Il remplace Paul Roy, qui est malade.",
+      "en": "Please note: it's a special evening. Tonight, Luc Martin plays the father. He replaces Paul Roy, who is ill.",
+      "uk": "Увага: сьогодні особливий вечір. Роль батька грає Люк Мартен. Він замінює Поля Руа, який захворів."
+    },
+    {
+      "fr": "Il est interdit de prendre des photos, et évidemment, merci d'éteindre vos cellulaires : le son dérange les comédiens.",
+      "en": "Taking photos is forbidden, and of course, please turn off your cell phones: the sound disturbs the actors.",
+      "uk": "Фотографувати заборонено, і, звісно, просимо вимкнути мобільні: звук заважає акторам."
+    },
+    {
+      "fr": "Les toilettes sont au sous-sol. En cas d'urgence, les sorties sont à gauche et à droite de la salle.",
+      "en": "The restrooms are in the basement. In an emergency, the exits are on the left and right of the hall.",
+      "uk": "Туалети розташовані в підвалі. У разі небезпеки виходи — ліворуч і праворуч у залі."
+    },
+    {
+      "fr": "À l'entracte, le bar vous offre de la bière, du thé ou du café au lait. Le service est rapide!",
+      "en": "At intermission, the bar offers beer, tea or coffee with milk. The service is quick!",
+      "uk": "В антракті бар пропонує пиво, чай або каву з молоком. Обслуговують швидко!"
+    },
+    {
+      "fr": "Après le spectacle, il y a une rencontre avec les comédiens. Le nombre de places est limité : inscrivez-vous à l'accueil.",
+      "en": "After the show, there's a meet-and-greet with the actors. The number of places is limited: sign up at the front desk.",
+      "uk": "Після вистави буде зустріч з акторами. Кількість місць обмежена: запишіться на рецепції."
+    },
+    {
+      "fr": "Il neige beaucoup ce soir : des taxis vous attendent à la sortie. Excellent spectacle!",
+      "en": "It's snowing a lot tonight: taxis are waiting for you at the exit. Enjoy the show!",
+      "uk": "Сьогодні ввечері сильний снігопад: на виході на вас чекатимуть таксі. Приємного перегляду!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is the name of the play?",
+        "uk": "Як називається п'єса?"
+      },
+      "options": [
+        {
+          "en": "“The Castle of the North”",
+          "uk": "«Замок Півночі»"
+        },
+        {
+          "en": "“The Port of the North”",
+          "uk": "«Порт Півночі»"
+        },
+        {
+          "en": "“Rose's Castle”",
+          "uk": "«Замок Роз»"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Who is Luc Martin?",
+        "uk": "Хто такий Люк Мартен?"
+      },
+      "options": [
+        {
+          "en": "The director of the theatre",
+          "uk": "Директор театру"
+        },
+        {
+          "en": "The actor replacing Paul Roy as the father",
+          "uk": "Актор, який замінює Поля Руа в ролі батька"
+        },
+        {
+          "en": "A sick actor",
+          "uk": "Хворий актор"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Where are the restrooms?",
+        "uk": "Де туалети?"
+      },
+      "options": [
+        {
+          "en": "On the left of the hall",
+          "uk": "Ліворуч у залі"
+        },
+        {
+          "en": "Near the bar",
+          "uk": "Біля бару"
+        },
+        {
+          "en": "In the basement",
+          "uk": "У підвалі"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What does the bar offer at intermission?",
+        "uk": "Що пропонує бар в антракті?"
+      },
+      "options": [
+        {
+          "en": "Beer, tea or coffee with milk",
+          "uk": "Пиво, чай або каву з молоком"
+        },
+        {
+          "en": "Wine and cheese",
+          "uk": "Вино й сир"
+        },
+        {
+          "en": "Free hot chocolate",
+          "uk": "Безкоштовний гарячий шоколад"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Why are taxis waiting outside?",
+        "uk": "Чому на виході чекають таксі?"
+      },
+      "options": [
+        {
+          "en": "It's raining",
+          "uk": "Іде дощ"
+        },
+        {
+          "en": "It's snowing a lot",
+          "uk": "Іде сильний сніг"
+        },
+        {
+          "en": "The metro is closed",
+          "uk": "Метро зачинене"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la sortie",
+      "en": "the exit / the outing",
+      "uk": "вихід / прогулянка, вихід у світ"
+    },
+    {
+      "fr": "le nord",
+      "en": "the north",
+      "uk": "північ (сторона світу)"
+    },
+    {
+      "fr": "le lait",
+      "en": "the milk",
+      "uk": "молоко"
+    },
+    {
+      "fr": "la passion",
+      "en": "the passion",
+      "uk": "пристрасть"
+    },
+    {
+      "fr": "rapide",
+      "en": "fast / quick",
+      "uk": "швидкий"
+    },
+    {
+      "fr": "la neige",
+      "en": "the snow",
+      "uk": "сніг"
+    },
+    {
+      "fr": "la bière",
+      "en": "the beer",
+      "uk": "пиво"
+    },
+    {
+      "fr": "le personnage",
+      "en": "the character (in a story)",
+      "uk": "персонаж"
+    },
+    {
+      "fr": "le nombre",
+      "en": "the number (amount)",
+      "uk": "число, кількість"
+    },
+    {
+      "fr": "interdire",
+      "en": "to forbid",
+      "uk": "забороняти"
+    },
+    {
+      "fr": "le château",
+      "en": "the castle",
+      "uk": "замок"
+    },
+    {
+      "fr": "la rencontre",
+      "en": "the meeting / the encounter",
+      "uk": "зустріч"
+    },
+    {
+      "fr": "évidemment",
+      "en": "of course / obviously",
+      "uk": "звісно / очевидно"
+    },
+    {
+      "fr": "magnifique",
+      "en": "magnificent / beautiful",
+      "uk": "чудовий, прекрасний"
+    },
+    {
+      "fr": "le son",
+      "en": "the sound",
+      "uk": "звук"
+    },
+    {
+      "fr": "spécial / spéciale",
+      "en": "special",
+      "uk": "особливий / особлива"
+    },
+    {
+      "fr": "l'aventure (f.)",
+      "en": "the adventure",
+      "uk": "пригода"
+    },
+    {
+      "fr": "le thé",
+      "en": "the tea",
+      "uk": "чай"
+    },
+    {
+      "fr": "la jeunesse",
+      "en": "the youth",
+      "uk": "молодість"
+    },
+    {
+      "fr": "remplacer",
+      "en": "to replace",
+      "uk": "замінювати"
+    },
+    {
+      "fr": "saluer",
+      "en": "to greet / to say hello",
+      "uk": "вітати(ся)"
+    },
+    {
+      "fr": "le taxi",
+      "en": "the taxi",
+      "uk": "таксі"
+    },
+    {
+      "fr": "excellent / excellente",
+      "en": "excellent",
+      "uk": "чудовий / чудова, відмінний"
+    },
+    {
+      "fr": "le théâtre",
+      "en": "the theatre",
+      "uk": "театр"
+    },
+    {
+      "fr": "la toilette",
+      "en": "the toilet (les toilettes = the restroom)",
+      "uk": "туалет (les toilettes = вбиральня)"
+    },
+    {
+      "fr": "le port",
+      "en": "the port / the harbour",
+      "uk": "порт / гавань"
+    },
+    {
+      "fr": "la pièce",
+      "en": "the play",
+      "uk": "п'єса"
+    },
+    {
+      "fr": "l'entracte (m.)",
+      "en": "the intermission",
+      "uk": "антракт"
+    },
+    {
+      "fr": "le comédien / la comédienne",
+      "en": "the actor / the actress",
+      "uk": "актор / акторка"
+    },
+    {
+      "fr": "le café au lait",
+      "en": "coffee with milk",
+      "uk": "кава з молоком"
+    },
+    {
+      "fr": "le cellulaire",
+      "en": "the cell phone (Québec)",
+      "uk": "мобільний телефон (у Квебеку)"
+    }
+  ]
+}

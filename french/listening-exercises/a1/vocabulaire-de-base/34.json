@@ -1,0 +1,370 @@
+{
+  "title": {
+    "en": "A rainy Saturday (list a1-17)",
+    "uk": "Дощова субота (список a1-17)"
+  },
+  "situation": {
+    "en": "You hear a mother and her son Hugo at home on a Saturday morning.",
+    "uk": "Ви чуєте маму та її сина Юго вдома в суботу вранці."
+  },
+  "lines": [
+    {
+      "speaker": "Mère",
+      "fr": "Hugo, le déjeuner est prêt! Il y a des crêpes!",
+      "en": "Hugo, breakfast is ready! There are pancakes!",
+      "uk": "Юго, сніданок готовий! Є млинці!"
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "J'arrive! Oh non, il pleut. Je m'ennuie déjà!",
+      "en": "Coming! Oh no, it's raining. I'm bored already!",
+      "uk": "Іду! Ой, ні, дощ. Мені вже нудно!"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "D'abord, tu ranges ta chambre. Quelle horreur!",
+      "en": "First, you tidy your room. What a mess!",
+      "uk": "Спершу прибери в кімнаті. Жах!"
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Et mes devoirs?",
+      "en": "And my homework?",
+      "uk": "А домашнє завдання?"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Après. Ensuite, on va à la banque, et on t'achète un pantalon. Tu grandis : ce n'est plus ta taille!",
+      "en": "After. Then we go to the bank, and we buy you some pants. You're growing: they're not your size anymore!",
+      "uk": "Потім. Далі ми йдемо до банку й купуємо тобі штани. Ти ростеш: ці вже не твого розміру!"
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Mon pauvre pantalon! Il est encore bon!",
+      "en": "My poor pants! They're still good!",
+      "uk": "Бідні мої штани! Вони ще нормальні!"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Non, il est trop court. Attache tes souliers, on part à dix heures.",
+      "en": "No, they're too short. Tie your shoes, we leave at ten.",
+      "uk": "Ні, вони закороткі. Зав'яжи черевики, о десятій виходимо."
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Je peux dessiner un peu avant?",
+      "en": "Can I draw a bit before?",
+      "uk": "Можна я трохи помалюю до того?"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Oui, mais allume la lampe, il fait sombre.",
+      "en": "Yes, but turn on the lamp, it's dark.",
+      "uk": "Так, але ввімкни лампу, темно."
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Maman, la nouvelle voisine, c'est qui?",
+      "en": "Mom, who's the new neighbour?",
+      "uk": "Мамо, а хто наша нова сусідка?"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Je fais sa connaissance ce soir : elle et son mari, un jeune couple, viennent souper.",
+      "en": "I'm meeting her tonight: she and her husband, a young couple, are coming for supper.",
+      "uk": "Я познайомлюся з нею сьогодні ввечері: вона з чоловіком, молода пара, прийдуть на вечерю."
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Est-ce qu'ils construisent la maison au bout de la rue?",
+      "en": "Are they building the house at the end of the street?",
+      "uk": "Це вони будують будинок у кінці вулиці?"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Oui. Lui, il travaille dans une usine qui produit du sirop d'érable.",
+      "en": "Yes. He works in a factory that produces maple syrup.",
+      "uk": "Так. Він працює на фабриці, що виробляє кленовий сироп."
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Et elle?",
+      "en": "And her?",
+      "uk": "А вона?"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Elle est journaliste politique. Elle interroge des ministres à la télé!",
+      "en": "She's a political journalist. She questions ministers on TV!",
+      "uk": "Вона політична журналістка. Бере інтерв'ю в міністрів на телебаченні!"
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Merveilleux! Est-ce que je peux lui montrer mes dessins?",
+      "en": "Wonderful! Can I show her my drawings?",
+      "uk": "Чудово! Можна я покажу їй свої малюнки?"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Certainement. Oh, regarde : le vent souffle les nuages, et le soleil brille!",
+      "en": "Certainly. Oh, look: the wind is blowing the clouds away, and the sun is shining!",
+      "uk": "Звісно. О, дивись: вітер розганяє хмари, і світить сонце!"
+    },
+    {
+      "speaker": "Hugo",
+      "fr": "Super! Et ce soir, je peux m'endormir tard?",
+      "en": "Great! And tonight, can I fall asleep late?",
+      "uk": "Супер! А сьогодні можна я пізно засну?"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Pas question!",
+      "en": "No way!",
+      "uk": "Навіть не мрій!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is the weather like in the morning?",
+        "uk": "Яка погода зранку?"
+      },
+      "options": [
+        {
+          "en": "Sunny",
+          "uk": "Сонячно"
+        },
+        {
+          "en": "Raining",
+          "uk": "Іде дощ"
+        },
+        {
+          "en": "Windy and cold",
+          "uk": "Вітряно й холодно"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What must Hugo do first?",
+        "uk": "Що Юго має зробити спершу?"
+      },
+      "options": [
+        {
+          "en": "His homework",
+          "uk": "Домашнє завдання"
+        },
+        {
+          "en": "Go to the bank",
+          "uk": "Піти до банку"
+        },
+        {
+          "en": "Tidy his room",
+          "uk": "Прибрати в кімнаті"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Why do they need new pants?",
+        "uk": "Навіщо їм нові штани?"
+      },
+      "options": [
+        {
+          "en": "His pants are too short",
+          "uk": "Його штани закороткі"
+        },
+        {
+          "en": "His pants are dirty",
+          "uk": "Його штани брудні"
+        },
+        {
+          "en": "He lost his pants",
+          "uk": "Він загубив штани"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Who is coming for supper?",
+        "uk": "Хто прийде на вечерю?"
+      },
+      "options": [
+        {
+          "en": "Hugo's grandparents",
+          "uk": "Бабуся й дідусь Юго"
+        },
+        {
+          "en": "The new neighbours, a young couple",
+          "uk": "Нові сусіди, молода пара"
+        },
+        {
+          "en": "A minister",
+          "uk": "Міністр"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What does the neighbour do?",
+        "uk": "Ким працює сусідка?"
+      },
+      "options": [
+        {
+          "en": "She works in a maple syrup factory",
+          "uk": "На фабриці кленового сиропу"
+        },
+        {
+          "en": "She builds houses",
+          "uk": "Будує будинки"
+        },
+        {
+          "en": "She's a political journalist",
+          "uk": "Вона політична журналістка"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "le / la pauvre",
+      "en": "the poor (person)",
+      "uk": "бідний / бідна (людина)"
+    },
+    {
+      "fr": "ennuyer",
+      "en": "to bore / to annoy (s'ennuyer = to be bored)",
+      "uk": "набридати / дратувати (s'ennuyer = нудьгувати)"
+    },
+    {
+      "fr": "endormir",
+      "en": "to put to sleep (s'endormir = to fall asleep)",
+      "uk": "приспати (s'endormir = засинати)"
+    },
+    {
+      "fr": "construire",
+      "en": "to build",
+      "uk": "будувати"
+    },
+    {
+      "fr": "la taille",
+      "en": "the size / the height / the waist",
+      "uk": "розмір / зріст / талія"
+    },
+    {
+      "fr": "merveilleux / merveilleuse",
+      "en": "wonderful",
+      "uk": "чудовий / чудова"
+    },
+    {
+      "fr": "le devoir",
+      "en": "the duty / the homework (les devoirs)",
+      "uk": "обов'язок / домашнє завдання (les devoirs)"
+    },
+    {
+      "fr": "la lampe",
+      "en": "the lamp",
+      "uk": "лампа"
+    },
+    {
+      "fr": "produire",
+      "en": "to produce",
+      "uk": "виробляти"
+    },
+    {
+      "fr": "attacher",
+      "en": "to tie / to attach / to fasten",
+      "uk": "зав'язувати / прикріплювати / застібати"
+    },
+    {
+      "fr": "interroger",
+      "en": "to question / to interrogate",
+      "uk": "опитувати / допитувати"
+    },
+    {
+      "fr": "l'horreur (f.)",
+      "en": "the horror",
+      "uk": "жах"
+    },
+    {
+      "fr": "ranger",
+      "en": "to tidy up / to put away",
+      "uk": "прибирати / складати на місце"
+    },
+    {
+      "fr": "certainement",
+      "en": "certainly",
+      "uk": "безумовно, звісно"
+    },
+    {
+      "fr": "pleuvoir",
+      "en": "to rain (il pleut = it's raining)",
+      "uk": "іти (про дощ) (il pleut = іде дощ)"
+    },
+    {
+      "fr": "le couple",
+      "en": "the couple",
+      "uk": "пара"
+    },
+    {
+      "fr": "souffler",
+      "en": "to blow",
+      "uk": "дути"
+    },
+    {
+      "fr": "le déjeuner",
+      "en": "lunch (France) / breakfast (Québec)",
+      "uk": "обід (у Франції) / сніданок (у Квебеку)"
+    },
+    {
+      "fr": "la connaissance",
+      "en": "the knowledge / the acquaintance (faire la connaissance de = to meet)",
+      "uk": "знання / знайомий (faire la connaissance de = познайомитися з)"
+    },
+    {
+      "fr": "la banque",
+      "en": "the bank",
+      "uk": "банк"
+    },
+    {
+      "fr": "briller",
+      "en": "to shine",
+      "uk": "сяяти, блищати"
+    },
+    {
+      "fr": "dessiner",
+      "en": "to draw",
+      "uk": "малювати"
+    },
+    {
+      "fr": "le pantalon",
+      "en": "the pants / the trousers",
+      "uk": "штани"
+    },
+    {
+      "fr": "politique",
+      "en": "political",
+      "uk": "політичний"
+    },
+    {
+      "fr": "le souper",
+      "en": "supper, dinner (Québec)",
+      "uk": "вечеря (у Квебеку)"
+    },
+    {
+      "fr": "les crêpes (f.)",
+      "en": "pancakes, crêpes",
+      "uk": "млинці"
+    },
+    {
+      "fr": "le sirop d'érable",
+      "en": "maple syrup",
+      "uk": "кленовий сироп"
+    }
+  ]
+}

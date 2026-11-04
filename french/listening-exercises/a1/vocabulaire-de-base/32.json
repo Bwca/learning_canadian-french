@@ -1,0 +1,384 @@
+{
+  "title": {
+    "en": "A singer on TV (list a1-16)",
+    "uk": "Співак на телебаченні (список a1-16)"
+  },
+  "situation": {
+    "en": "You hear a TV host interviewing a singer.",
+    "uk": "Ви чуєте, як телеведуча бере інтерв'ю в співака."
+  },
+  "lines": [
+    {
+      "speaker": "Animatrice",
+      "fr": "Bonsoir! Ce soir, à la télé, nous recevons Émile Arsenault, un chanteur des Îles-de-la-Madeleine, dans l'est du Québec.",
+      "en": "Good evening! Tonight on TV we welcome Émile Arsenault, a singer from the Magdalen Islands, in eastern Québec.",
+      "uk": "Добрий вечір! Сьогодні в ефірі Еміль Арсено, співак з островів Мадлен на сході Квебеку."
+    },
+    {
+      "speaker": "Émile",
+      "fr": "Bonsoir! Merci de m'inviter.",
+      "en": "Good evening! Thank you for having me.",
+      "uk": "Добрий вечір! Дякую за запрошення."
+    },
+    {
+      "speaker": "Animatrice",
+      "fr": "Votre nouvelle chanson parle de votre enfance?",
+      "en": "Is your new song about your childhood?",
+      "uk": "Ваша нова пісня про дитинство?"
+    },
+    {
+      "speaker": "Émile",
+      "fr": "Oui. Le soir, je me promène sur la plage avec mon père, et on regarde les étoiles.",
+      "en": "Yes. In the evening I walk on the beach with my father, and we look at the stars.",
+      "uk": "Так. Увечері я гуляю пляжем із татом, і ми дивимося на зорі."
+    },
+    {
+      "speaker": "Animatrice",
+      "fr": "Votre père est pêcheur?",
+      "en": "Is your father a fisherman?",
+      "uk": "Ваш тато рибалка?"
+    },
+    {
+      "speaker": "Émile",
+      "fr": "Oui. Le matin, il vend son poisson au marché du port.",
+      "en": "Yes. In the morning, he sells his fish at the harbour market.",
+      "uk": "Так. Зранку він продає рибу на ринку в порту."
+    },
+    {
+      "speaker": "Animatrice",
+      "fr": "Et vous inventez vos histoires?",
+      "en": "And do you make up your stories?",
+      "uk": "А свої історії ви вигадуєте?"
+    },
+    {
+      "speaker": "Émile",
+      "fr": "Non, c'est la réalité! En général, j'écris sur des choses vraies. Cet album représente les Îles : c'est l'œuvre de ma vie.",
+      "en": "No, it's real! In general, I write about true things. This album represents the Islands: it's my life's work.",
+      "uk": "Ні, це реальність! Загалом я пишу про справжнє. Цей альбом — про острови: це справа мого життя."
+    },
+    {
+      "speaker": "Animatrice",
+      "fr": "Vous avez besoin de beaucoup d'espace, alors!",
+      "en": "You need a lot of space, then!",
+      "uk": "То вам потрібно багато простору!"
+    },
+    {
+      "speaker": "Émile",
+      "fr": "Oui, la mer, le vent… Mais maintenant, je suis souvent fatigué : j'ai un spectacle chaque soir.",
+      "en": "Yes, the sea, the wind… But now I'm often tired: I have a show every night.",
+      "uk": "Так, море, вітер… Але тепер я часто втомлений: у мене концерт щовечора."
+    },
+    {
+      "speaker": "Animatrice",
+      "fr": "Et après le spectacle?",
+      "en": "And after the show?",
+      "uk": "А після концерту?"
+    },
+    {
+      "speaker": "Émile",
+      "fr": "Je prends un repas au bar de l'hôtel, je mange une pomme, et je dors!",
+      "en": "I have a meal at the hotel bar, I eat an apple, and I sleep!",
+      "uk": "Я вечеряю в барі готелю, з'їдаю яблуко — і спати!"
+    },
+    {
+      "speaker": "Animatrice",
+      "fr": "On parle aussi d'un vol, à la gare de Montréal?",
+      "en": "There's also talk of a theft, at the Montréal train station?",
+      "uk": "Кажуть, ще й крадіжка сталася — на вокзалі в Монреалі?"
+    },
+    {
+      "speaker": "Émile",
+      "fr": "Oui! Un homme vole ma guitare. Heureusement, après deux jours de recherche, la police la retrouve.",
+      "en": "Yes! A man steals my guitar. Luckily, after two days of searching, the police find it.",
+      "uk": "Так! Якийсь чоловік краде мою гітару. На щастя, після двох днів пошуків поліція її знаходить."
+    },
+    {
+      "speaker": "Animatrice",
+      "fr": "Et votre main? On parle d'une opération.",
+      "en": "And your hand? There's talk of surgery.",
+      "uk": "А ваша рука? Кажуть, була операція."
+    },
+    {
+      "speaker": "Émile",
+      "fr": "Ça va mieux. Je considère même un nouvel instrument : le piano!",
+      "en": "It's better. I'm even considering a new instrument: the piano!",
+      "uk": "Уже краще. Я навіть думаю про новий інструмент — фортепіано!"
+    },
+    {
+      "speaker": "Animatrice",
+      "fr": "Et sur scène, comment est-ce que vous vous habillez?",
+      "en": "And on stage, how do you dress?",
+      "uk": "А як ви вдягаєтеся на сцену?"
+    },
+    {
+      "speaker": "Émile",
+      "fr": "Simplement : un jean et un chandail. Ma tournée nationale commence le premier mars, à Québec!",
+      "en": "Simply: jeans and a sweater. My national tour starts on March first, in Québec City!",
+      "uk": "Просто: джинси й светр. Мій тур країною починається першого березня в Квебеку!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Where is Émile from?",
+        "uk": "Звідки Еміль?"
+      },
+      "options": [
+        {
+          "en": "Montréal",
+          "uk": "З Монреаля"
+        },
+        {
+          "en": "The Magdalen Islands, in the east",
+          "uk": "З островів Мадлен на сході"
+        },
+        {
+          "en": "The North Shore",
+          "uk": "З Північного узбережжя"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What is his new song about?",
+        "uk": "Про що його нова пісня?"
+      },
+      "options": [
+        {
+          "en": "His childhood",
+          "uk": "Про його дитинство"
+        },
+        {
+          "en": "A trip abroad",
+          "uk": "Про подорож за кордон"
+        },
+        {
+          "en": "His guitar",
+          "uk": "Про його гітару"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What does his father do in the morning?",
+        "uk": "Що робить його тато вранці?"
+      },
+      "options": [
+        {
+          "en": "He plays the guitar",
+          "uk": "Грає на гітарі"
+        },
+        {
+          "en": "He walks on the beach",
+          "uk": "Гуляє пляжем"
+        },
+        {
+          "en": "He sells fish at the market",
+          "uk": "Продає рибу на ринку"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What was stolen at the station?",
+        "uk": "Що вкрали на вокзалі?"
+      },
+      "options": [
+        {
+          "en": "His guitar",
+          "uk": "Його гітару"
+        },
+        {
+          "en": "His wallet",
+          "uk": "Його гаманець"
+        },
+        {
+          "en": "His suitcase",
+          "uk": "Його валізу"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "When and where does his tour start?",
+        "uk": "Коли й де починається його тур?"
+      },
+      "options": [
+        {
+          "en": "March 1, in Montréal",
+          "uk": "1 березня в Монреалі"
+        },
+        {
+          "en": "March 1, in Québec City",
+          "uk": "1 березня в Квебеку"
+        },
+        {
+          "en": "May 1, in Québec City",
+          "uk": "1 травня в Квебеку"
+        }
+      ],
+      "answer": 1
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'enfance (f.)",
+      "en": "the childhood",
+      "uk": "дитинство"
+    },
+    {
+      "fr": "le marché",
+      "en": "the market",
+      "uk": "ринок"
+    },
+    {
+      "fr": "général / générale",
+      "en": "general (en général = usually)",
+      "uk": "загальний / загальна (en général = зазвичай)"
+    },
+    {
+      "fr": "la réalité",
+      "en": "the reality",
+      "uk": "реальність, дійсність"
+    },
+    {
+      "fr": "l'étoile (f.)",
+      "en": "the star",
+      "uk": "зірка"
+    },
+    {
+      "fr": "le poisson",
+      "en": "the fish",
+      "uk": "риба"
+    },
+    {
+      "fr": "promener",
+      "en": "to walk (a dog) (se promener = to go for a walk)",
+      "uk": "вигулювати (собаку) (se promener = гуляти)"
+    },
+    {
+      "fr": "la plage",
+      "en": "the beach",
+      "uk": "пляж"
+    },
+    {
+      "fr": "représenter",
+      "en": "to represent",
+      "uk": "представляти, зображати"
+    },
+    {
+      "fr": "l'œuvre (f.)",
+      "en": "the work (of art) / the works",
+      "uk": "твір (мистецтва) / творчість"
+    },
+    {
+      "fr": "national / nationale",
+      "en": "national",
+      "uk": "національний / національна"
+    },
+    {
+      "fr": "la télé",
+      "en": "the TV",
+      "uk": "телевізор"
+    },
+    {
+      "fr": "l'espace (m.)",
+      "en": "the space",
+      "uk": "простір"
+    },
+    {
+      "fr": "l'opération (f.)",
+      "en": "the operation / the surgery",
+      "uk": "операція"
+    },
+    {
+      "fr": "la recherche",
+      "en": "the research / the search",
+      "uk": "дослідження / пошук"
+    },
+    {
+      "fr": "la chanson",
+      "en": "the song",
+      "uk": "пісня"
+    },
+    {
+      "fr": "l'est (m.)",
+      "en": "the east",
+      "uk": "схід"
+    },
+    {
+      "fr": "le vol",
+      "en": "the flight / the theft",
+      "uk": "політ / крадіжка"
+    },
+    {
+      "fr": "considérer",
+      "en": "to consider",
+      "uk": "вважати, розглядати"
+    },
+    {
+      "fr": "le spectacle",
+      "en": "the show / the performance",
+      "uk": "вистава, шоу"
+    },
+    {
+      "fr": "le bar",
+      "en": "the bar",
+      "uk": "бар"
+    },
+    {
+      "fr": "fatiguer",
+      "en": "to tire (fatigué = tired)",
+      "uk": "втомлювати (fatigué = втомлений)"
+    },
+    {
+      "fr": "la gare",
+      "en": "the train station",
+      "uk": "вокзал"
+    },
+    {
+      "fr": "habiller",
+      "en": "to dress (s'habiller = to get dressed)",
+      "uk": "одягати (s'habiller = одягатися)"
+    },
+    {
+      "fr": "le repas",
+      "en": "the meal",
+      "uk": "їжа, прийом їжі"
+    },
+    {
+      "fr": "la pomme",
+      "en": "the apple",
+      "uk": "яблуко"
+    },
+    {
+      "fr": "inventer",
+      "en": "to invent / to make up",
+      "uk": "винаходити / вигадувати"
+    },
+    {
+      "fr": "les Îles-de-la-Madeleine (f.)",
+      "en": "the Magdalen Islands, in the Gulf of St. Lawrence",
+      "uk": "острови Мадлен у затоці Святого Лаврентія"
+    },
+    {
+      "fr": "le pêcheur",
+      "en": "the fisherman",
+      "uk": "рибалка"
+    },
+    {
+      "fr": "la tournée",
+      "en": "the tour (of a singer)",
+      "uk": "гастролі"
+    },
+    {
+      "fr": "le chandail",
+      "en": "the sweater, top (Québec)",
+      "uk": "светр, кофта (у Квебеку)"
+    }
+  ]
+}

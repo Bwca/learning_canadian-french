@@ -1,0 +1,311 @@
+{
+  "title": {
+    "en": "The noon news (list a1-18)",
+    "uk": "Полуденні новини (список a1-18)"
+  },
+  "situation": {
+    "en": "You hear a news report on a radio station in Sherbrooke.",
+    "uk": "Ви чуєте випуск новин на радіостанції в Шербруку."
+  },
+  "lines": [
+    {
+      "fr": "Il est midi. Voici les informations régionales.",
+      "en": "It's noon. Here's the regional news.",
+      "uk": "Полудень. Слухайте регіональні новини."
+    },
+    {
+      "fr": "À Sherbrooke, l'ancienne usine de textile se transforme : elle devient un immeuble d'appartements pour étudiants.",
+      "en": "In Sherbrooke, the old textile factory is being transformed: it's becoming a student apartment building.",
+      "uk": "У Шербруку стара текстильна фабрика змінюється: вона стає багатоквартирним будинком для студентів."
+    },
+    {
+      "fr": "Dans cette zone de la ville, il y a peu de logements, et les demandes sont nombreuses.",
+      "en": "In this area of the city there's little housing, and there are many applications.",
+      "uk": "У цьому районі міста житла мало, а заявок багато."
+    },
+    {
+      "fr": "Le directeur du projet, Martin Leclerc, est content : « Finalement, nous réalisons notre rêve. C'est une solution pour les jeunes. »",
+      "en": "The project director, Martin Leclerc, is happy: “At last, we're making our dream come true. It's a solution for young people.”",
+      "uk": "Директор проєкту Мартен Леклерк задоволений: «Нарешті ми втілюємо нашу мрію. Це рішення для молоді»."
+    },
+    {
+      "fr": "L'immeuble a également un restaurant et une salle d'étude.",
+      "en": "The building also has a restaurant and a study room.",
+      "uk": "У будинку також є ресторан і зала для навчання."
+    },
+    {
+      "fr": "Beaucoup d'étudiants étrangers viennent étudier à l'Université de Sherbrooke. Ils peuvent suivre des cours d'anglais et de français dans l'immeuble.",
+      "en": "Many foreign students come to study at the Université de Sherbrooke. They can take English and French classes in the building.",
+      "uk": "Багато іноземних студентів приїжджають навчатися до Шербрукського університету. У будинку вони можуть відвідувати курси англійської та французької."
+    },
+    {
+      "fr": "Des élèves du cégep voisin vont aussi y habiter.",
+      "en": "Students from the nearby cégep are also going to live there.",
+      "uk": "Там також житимуть учні сусіднього сеже."
+    },
+    {
+      "fr": "Les voisins demandent de respecter le calme du quartier. Le directeur répond qu'il organise immédiatement une rencontre avec eux.",
+      "en": "The neighbours ask that the quiet of the neighbourhood be respected. The director answers that he is organizing a meeting with them right away.",
+      "uk": "Сусіди просять не порушувати спокій у районі. Директор відповідає, що негайно організує зустріч із ними."
+    },
+    {
+      "fr": "Le loyer est de quatre cent cinquante dollars par mois.",
+      "en": "The rent is four hundred and fifty dollars a month.",
+      "uk": "Орендна плата — чотириста п'ятдесят доларів на місяць."
+    },
+    {
+      "fr": "C'est un succès incroyable : les deux cents places sont déjà réservées!",
+      "en": "It's an incredible success: the two hundred places are already booked!",
+      "uk": "Це неймовірний успіх: усі двісті місць уже заброньовано!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What is the old factory becoming?",
+        "uk": "Чим стає стара фабрика?"
+      },
+      "options": [
+        {
+          "en": "A school",
+          "uk": "Школою"
+        },
+        {
+          "en": "A restaurant",
+          "uk": "Рестораном"
+        },
+        {
+          "en": "A student apartment building",
+          "uk": "Будинком для студентів"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "In which city?",
+        "uk": "У якому місті?"
+      },
+      "options": [
+        {
+          "en": "Sherbrooke",
+          "uk": "У Шербруку"
+        },
+        {
+          "en": "Saint-Hyacinthe",
+          "uk": "У Сент-Іасенті"
+        },
+        {
+          "en": "Trois-Rivières",
+          "uk": "У Труа-Рів'єрі"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What else is in the building?",
+        "uk": "Що ще є в будинку?"
+      },
+      "options": [
+        {
+          "en": "A gym",
+          "uk": "Спортзал"
+        },
+        {
+          "en": "A restaurant and a study room",
+          "uk": "Ресторан і зала для навчання"
+        },
+        {
+          "en": "A cégep",
+          "uk": "Сеже"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What do the neighbours ask?",
+        "uk": "Про що просять сусіди?"
+      },
+      "options": [
+        {
+          "en": "That the quiet of the neighbourhood be respected",
+          "uk": "Не порушувати спокій у районі"
+        },
+        {
+          "en": "More parking",
+          "uk": "Більше паркомісць"
+        },
+        {
+          "en": "Lower rent",
+          "uk": "Нижчу орендну плату"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How many places are already booked?",
+        "uk": "Скільки місць уже заброньовано?"
+      },
+      "options": [
+        {
+          "en": "450",
+          "uk": "450"
+        },
+        {
+          "en": "250",
+          "uk": "250"
+        },
+        {
+          "en": "200",
+          "uk": "200"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "l'étude (f.)",
+      "en": "the study (les études = studies)",
+      "uk": "навчання (les études = навчання, студії)"
+    },
+    {
+      "fr": "réaliser",
+      "en": "to carry out / to realize (achieve)",
+      "uk": "здійснювати / усвідомлювати"
+    },
+    {
+      "fr": "étranger / étrangère",
+      "en": "foreign",
+      "uk": "іноземний / іноземна"
+    },
+    {
+      "fr": "la solution",
+      "en": "the solution",
+      "uk": "рішення"
+    },
+    {
+      "fr": "nombreux / nombreuse",
+      "en": "numerous / many",
+      "uk": "численний / численна"
+    },
+    {
+      "fr": "finalement",
+      "en": "finally / in the end",
+      "uk": "зрештою, нарешті"
+    },
+    {
+      "fr": "la demande",
+      "en": "the request / the application",
+      "uk": "прохання / заява"
+    },
+    {
+      "fr": "le midi",
+      "en": "noon / midday",
+      "uk": "полудень"
+    },
+    {
+      "fr": "également",
+      "en": "also / equally",
+      "uk": "також / однаково"
+    },
+    {
+      "fr": "le directeur / la directrice",
+      "en": "the director / the principal (school)",
+      "uk": "директор / директорка"
+    },
+    {
+      "fr": "transformer",
+      "en": "to transform",
+      "uk": "перетворювати"
+    },
+    {
+      "fr": "le / la jeune",
+      "en": "the young person / the youth",
+      "uk": "молода людина / молодь"
+    },
+    {
+      "fr": "étudier",
+      "en": "to study",
+      "uk": "вчитися, вивчати"
+    },
+    {
+      "fr": "l'information (f.)",
+      "en": "the information (les informations = the news)",
+      "uk": "інформація (les informations = новини)"
+    },
+    {
+      "fr": "le restaurant",
+      "en": "the restaurant",
+      "uk": "ресторан"
+    },
+    {
+      "fr": "immédiatement",
+      "en": "immediately",
+      "uk": "негайно"
+    },
+    {
+      "fr": "respecter",
+      "en": "to respect",
+      "uk": "поважати / дотримуватися"
+    },
+    {
+      "fr": "l'immeuble (m.)",
+      "en": "the building",
+      "uk": "будинок (багатоквартирний)"
+    },
+    {
+      "fr": "incroyable",
+      "en": "incredible / unbelievable",
+      "uk": "неймовірний"
+    },
+    {
+      "fr": "la zone",
+      "en": "the zone / the area",
+      "uk": "зона"
+    },
+    {
+      "fr": "organiser",
+      "en": "to organize",
+      "uk": "організовувати"
+    },
+    {
+      "fr": "l'élève (m./f.)",
+      "en": "the pupil / the student",
+      "uk": "учень / учениця"
+    },
+    {
+      "fr": "l'usine (f.)",
+      "en": "the factory",
+      "uk": "завод, фабрика"
+    },
+    {
+      "fr": "anglais / anglaise",
+      "en": "English",
+      "uk": "англійський / англійська, англієць"
+    },
+    {
+      "fr": "le succès",
+      "en": "the success",
+      "uk": "успіх"
+    },
+    {
+      "fr": "le logement",
+      "en": "the housing, a place to live",
+      "uk": "житло"
+    },
+    {
+      "fr": "le cégep",
+      "en": "a Québec college between high school and university",
+      "uk": "сеже — коледж у Квебеку між школою та університетом"
+    },
+    {
+      "fr": "le loyer",
+      "en": "the rent",
+      "uk": "орендна плата"
+    }
+  ]
+}

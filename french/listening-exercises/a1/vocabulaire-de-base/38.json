@@ -1,0 +1,373 @@
+{
+  "title": {
+    "en": "A call from Paris (list a1-19)",
+    "uk": "Дзвінок із Парижа (список a1-19)"
+  },
+  "situation": {
+    "en": "You hear Zoé, a student from Québec on an exchange in France, phoning her mother.",
+    "uk": "Ви чуєте, як Зоя, школярка з Квебеку, що навчається за обміном у Франції, телефонує мамі."
+  },
+  "lines": [
+    {
+      "speaker": "Mère",
+      "fr": "Allô, ma chouette! Comment ça va, à Paris?",
+      "en": "Hello, sweetie! How are things in Paris?",
+      "uk": "Алло, сонечко! Як там у Парижі?"
+    },
+    {
+      "speaker": "Zoé",
+      "fr": "Salut, maman! Je suis de très bonne humeur! Aujourd'hui, on visite le palais de Versailles.",
+      "en": "Hi, Mom! I'm in a great mood! Today we're visiting the Palace of Versailles.",
+      "uk": "Привіт, мамо! У мене чудовий настрій! Сьогодні ми відвідуємо Версальський палац."
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Wow! Le palais de la reine Marie-Antoinette?",
+      "en": "Wow! Queen Marie-Antoinette's palace?",
+      "uk": "Ого! Палац королеви Марії-Антуанетти?"
+    },
+    {
+      "speaker": "Zoé",
+      "fr": "Oui! Le guide donne beaucoup d'explications. C'est plein d'émotions.",
+      "en": "Yes! The guide gives lots of explanations. It's very moving.",
+      "uk": "Так! Гід багато пояснює. Стільки емоцій!"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Et ta famille d'accueil?",
+      "en": "And your host family?",
+      "uk": "А твоя приймальна сім'я?"
+    },
+    {
+      "speaker": "Zoé",
+      "fr": "Super sympa! Léa et moi, on échange nos écoles : moi, je vais à son lycée, et en septembre, elle vient à mon école.",
+      "en": "Super nice! Léa and I are swapping schools: I go to her lycée, and in September she comes to my school.",
+      "uk": "Дуже милі! Ми з Леа обмінюємося школами: я ходжу до її ліцею, а у вересні вона приїде до моєї школи."
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Et les cours?",
+      "en": "And classes?",
+      "uk": "А уроки?"
+    },
+    {
+      "speaker": "Zoé",
+      "fr": "Mes notes sont moyennes. Je suis nulle en maths, et j'ai un contrôle demain. Heureusement, Léa me donne des cours particuliers.",
+      "en": "My grades are average. I'm bad at math, and I have a test tomorrow. Luckily, Léa gives me private lessons.",
+      "uk": "Оцінки в мене середні. Я слабка з математики, а завтра контрольна. На щастя, Леа дає мені приватні уроки."
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Et la nourriture?",
+      "en": "And the food?",
+      "uk": "А їжа?"
+    },
+    {
+      "speaker": "Zoé",
+      "fr": "Hier soir, au souper : des escargots. Horrible! Mais leur gâteau au chocolat est délicieux.",
+      "en": "Last night, at supper: snails. Horrible! But their chocolate cake is delicious.",
+      "uk": "Учора на вечерю — равлики. Жах! Зате їхній шоколадний торт смачнющий."
+    },
+    {
+      "speaker": "Zoé",
+      "fr": "Et la mode, ici! Toutes les filles portent des manteaux bruns.",
+      "en": "And the fashion here! All the girls wear brown coats.",
+      "uk": "А мода тут! Усі дівчата ходять у коричневих пальтах."
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Tu as assez d'argent?",
+      "en": "Do you have enough money?",
+      "uk": "Тобі вистачає грошей?"
+    },
+    {
+      "speaker": "Zoé",
+      "fr": "Oui, grâce à grand-maman!",
+      "en": "Yes, thanks to Grandma!",
+      "uk": "Так, завдяки бабусі!"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Demain, il y a une réunion pour les parents à ton école, ici. Je vais y assister.",
+      "en": "Tomorrow, there's a meeting for parents at your school here. I'm going to attend it.",
+      "uk": "Завтра в твоїй школі тут збори для батьків. Я туди піду."
+    },
+    {
+      "speaker": "Zoé",
+      "fr": "Merci, maman. Tu sais, quand je pense à vous, j'ai une boule dans la gorge…",
+      "en": "Thank you, Mom. You know, when I think of you all, I get a lump in my throat…",
+      "uk": "Дякую, мамо. Знаєш, коли я думаю про вас, у мене клубок у горлі…"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Oh, pardon, ma chouette, je te rends triste?",
+      "en": "Oh, sorry, sweetie, am I making you sad?",
+      "uk": "Ой, вибач, сонечко, я тебе засмутила?"
+    },
+    {
+      "speaker": "Zoé",
+      "fr": "Non, non! Oh, et ce matin, sur le quai du métro, un homme danse sur une corde! Je fais un dessin pour toi.",
+      "en": "No, no! Oh, and this morning, on the metro platform, a man is dancing on a rope! I'm making a drawing for you.",
+      "uk": "Ні-ні! О, а сьогодні вранці на платформі метро якийсь чоловік танцює на канаті! Я малюю його для тебе."
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Where is Zoé today?",
+        "uk": "Де Зоя сьогодні?"
+      },
+      "options": [
+        {
+          "en": "At the lycée",
+          "uk": "У ліцеї"
+        },
+        {
+          "en": "At the Palace of Versailles",
+          "uk": "У Версальському палаці"
+        },
+        {
+          "en": "In the Paris metro",
+          "uk": "У паризькому метро"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "Who is Léa?",
+        "uk": "Хто така Леа?"
+      },
+      "options": [
+        {
+          "en": "Her exchange partner",
+          "uk": "Дівчина, з якою вона обмінюється"
+        },
+        {
+          "en": "The guide",
+          "uk": "Гід"
+        },
+        {
+          "en": "Her math teacher",
+          "uk": "Її вчителька математики"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What does Zoé have tomorrow?",
+        "uk": "Що в Зої завтра?"
+      },
+      "options": [
+        {
+          "en": "A parents' meeting",
+          "uk": "Батьківські збори"
+        },
+        {
+          "en": "A visit to a palace",
+          "uk": "Екскурсія до палацу"
+        },
+        {
+          "en": "A math test",
+          "uk": "Контрольна з математики"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What does Zoé think of the snails?",
+        "uk": "Що Зоя думає про равликів?"
+      },
+      "options": [
+        {
+          "en": "Delicious",
+          "uk": "Смачні"
+        },
+        {
+          "en": "Horrible",
+          "uk": "Жахливі"
+        },
+        {
+          "en": "She doesn't try them",
+          "uk": "Вона їх не куштує"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What does Zoé see on the metro platform?",
+        "uk": "Що Зоя бачить на платформі метро?"
+      },
+      "options": [
+        {
+          "en": "A painter making drawings",
+          "uk": "Художника, який малює"
+        },
+        {
+          "en": "A girl in a brown coat",
+          "uk": "Дівчину в коричневому пальті"
+        },
+        {
+          "en": "A man dancing on a rope",
+          "uk": "Чоловіка, який танцює на канаті"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "la reine",
+      "en": "the queen",
+      "uk": "королева"
+    },
+    {
+      "fr": "assister",
+      "en": "to attend / to assist",
+      "uk": "бути присутнім / допомагати"
+    },
+    {
+      "fr": "horrible",
+      "en": "horrible",
+      "uk": "жахливий"
+    },
+    {
+      "fr": "moyen / moyenne",
+      "en": "average / medium",
+      "uk": "середній / середня"
+    },
+    {
+      "fr": "la grâce",
+      "en": "the grace (grâce à = thanks to)",
+      "uk": "благодать, грація (grâce à = завдяки)"
+    },
+    {
+      "fr": "la boule",
+      "en": "the ball",
+      "uk": "куля, м'яч"
+    },
+    {
+      "fr": "sympa",
+      "en": "nice / friendly (informal)",
+      "uk": "симпатичний, милий (розм.)"
+    },
+    {
+      "fr": "heureusement",
+      "en": "fortunately / luckily",
+      "uk": "на щастя"
+    },
+    {
+      "fr": "l'humeur (f.)",
+      "en": "the mood",
+      "uk": "настрій"
+    },
+    {
+      "fr": "le palais",
+      "en": "the palace",
+      "uk": "палац"
+    },
+    {
+      "fr": "le quai",
+      "en": "the platform / the quay",
+      "uk": "платформа / набережна"
+    },
+    {
+      "fr": "le gâteau",
+      "en": "the cake",
+      "uk": "торт, тістечко"
+    },
+    {
+      "fr": "visiter",
+      "en": "to visit (a place)",
+      "uk": "відвідувати (місце)"
+    },
+    {
+      "fr": "la corde",
+      "en": "the rope / the string",
+      "uk": "мотузка / струна"
+    },
+    {
+      "fr": "le contrôle",
+      "en": "the control / the check / the test",
+      "uk": "контроль / перевірка / контрольна"
+    },
+    {
+      "fr": "l'émotion (f.)",
+      "en": "the emotion",
+      "uk": "емоція"
+    },
+    {
+      "fr": "le dessin",
+      "en": "the drawing",
+      "uk": "малюнок"
+    },
+    {
+      "fr": "échanger",
+      "en": "to exchange",
+      "uk": "обмінювати(ся)"
+    },
+    {
+      "fr": "la réunion",
+      "en": "the meeting",
+      "uk": "нарада, збори"
+    },
+    {
+      "fr": "la mode",
+      "en": "the fashion (le mode = the mode / method)",
+      "uk": "мода (le mode = спосіб, режим)"
+    },
+    {
+      "fr": "le pardon",
+      "en": "forgiveness / pardon",
+      "uk": "прощення / вибачення"
+    },
+    {
+      "fr": "brun / brune",
+      "en": "brown / dark-haired",
+      "uk": "коричневий / коричнева, темноволосий"
+    },
+    {
+      "fr": "le lycée",
+      "en": "the high school (France)",
+      "uk": "ліцей (старша школа у Франції)"
+    },
+    {
+      "fr": "nul / nulle",
+      "en": "useless / bad at (nul en maths)",
+      "uk": "нікчемний / нікчемна, слабкий у (nul en maths)"
+    },
+    {
+      "fr": "particulier / particulière",
+      "en": "particular / private",
+      "uk": "особливий / особлива, приватний"
+    },
+    {
+      "fr": "l'explication (f.)",
+      "en": "the explanation",
+      "uk": "пояснення"
+    },
+    {
+      "fr": "ma chouette",
+      "en": "sweetie (affectionate)",
+      "uk": "сонечко (лагідне звертання)"
+    },
+    {
+      "fr": "la famille d'accueil",
+      "en": "the host family",
+      "uk": "приймальна сім'я"
+    },
+    {
+      "fr": "les escargots (m.)",
+      "en": "snails",
+      "uk": "равлики"
+    },
+    {
+      "fr": "avoir une boule dans la gorge",
+      "en": "to have a lump in one's throat",
+      "uk": "мати клубок у горлі"
+    }
+  ]
+}
