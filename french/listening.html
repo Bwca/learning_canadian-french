@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="pageTitle">French Listening</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
+    <style>
+        :root { --font-scale: 1; }
+        html { font-size: calc(16px * var(--font-scale)); }
+        body { line-height: 1.6; }
+        .container { max-width: 800px; margin: auto; text-align: center; }
+        .listening-box { text-align: left; }
+        .situation { font-size: 1.1rem; }
+        .play-count { margin-top: 0.5rem; }
+        .question { margin-top: 1.25rem; }
+        .question-text { font-weight: 600; margin-bottom: 0.5rem; }
+        .options { display: flex; flex-direction: column; gap: 6px; }
+        .option { justify-content: flex-start; white-space: normal; height: auto; text-align: left; }
+        .option.is-selected { border-color: #004080; background-color: #e8f0fb; }
+        .option.is-right { border-color: #23a35a; background-color: #e3f7ea; }
+        .option.is-wrong { border-color: #d6262f; background-color: #fde8e9; }
+        /* Checked answers stay full-colour, not dimmed like other disabled buttons. */
+        .option[disabled] { opacity: 1; }
+        .option .mark { margin-left: auto; padding-left: 0.5rem; }
+        .toggles { display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 1rem 0; }
+        .line { margin-bottom: 0.6rem; }
+        .speaker { font-weight: 700; color: #4a4a4a; margin-right: 0.4rem; }
+        .line-fr { font-size: 1.3rem; font-weight: 600; cursor: pointer; border-radius: 4px; padding: 0 2px; }
+        .line-fr:hover { background-color: #fff3bf; }
+        .line-fr.playing { background-color: #ffe066; }
+        .line-translation { display: block; color: #555; font-size: 1.05rem; }
+        .vocab-hints { margin-top: 1rem; }
+        .vocab-hints .tag { cursor: pointer; margin-right: 6px; margin-bottom: 6px; font-size: 1rem; height: auto; padding: 0.6em 0.9em; }
+        .hidden { display: none; }
+        .font-size-toolbar { display: flex; justify-content: center; gap: 8px; align-items: center; margin-bottom: 1rem; }
+        a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, .tag:focus-visible, .line-fr:focus-visible {
+            outline: 3px solid #004080;
+            outline-offset: 2px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav class="page-nav level is-mobile mb-4">
+            <a href="index.html">← <span data-i18n="allTools">All tools</span></a>
+        </nav>
+        <h1 class="title" data-i18n="pageTitle">French Listening</h1>
+        <p class="subtitle is-6" data-i18n="intro">
+            Like the TEF listening section: read the situation and the questions first, then listen and pick your answers.
+            In the exam you hear a recording once or twice, so try to answer after two plays. Then check your answers and
+            open the transcript and translation to see what you missed.
+        </p>
+
+        <div class="font-size-toolbar" role="group" data-i18n-attr="aria-label:textSizeControls">
+            <span id="fontSizeLabel"><span data-i18n="textSize">Text size:</span> <span id="fontSizeValue">100%</span></span>
+            <button type="button" class="button is-small" id="fontDecrease" data-i18n-attr="aria-label:textSmaller">A−</button>
+            <button type="button" class="button is-small" id="fontReset" data-i18n-attr="aria-label:textReset" data-i18n="textResetButton">Reset</button>
+            <button type="button" class="button is-small" id="fontIncrease" data-i18n-attr="aria-label:textBigger">A+</button>
+        </div>
+
+        <div class="field hidden" id="library"></div>
+        <div class="field">
+            <div class="file has-name is-boxed">
+                <label class="file-label">
+                    <input class="file-input" type="file" id="fileInput" accept=".json">
+                    <span class="file-cta">
+                        <span class="file-label" data-i18n="chooseFile">Choose a listening exercise…</span>
+                    </span>
+                </label>
+            </div>
+        </div>
+        <div class="field">
+            <label class="label" for="voiceSelect" data-i18n="firstVoice">First voice</label>
+            <div class="control">
+                <div class="select">
+                    <select id="voiceSelect"></select>
+                </div>
+            </div>
+            <p id="voiceIndicator" class="help" aria-live="polite"></p>
+        </div>
+        <div class="field">
+            <label class="label" for="voiceSelect2" data-i18n="secondVoice">Second voice (dialogues)</label>
+            <div class="control">
+                <div class="select">
+                    <select id="voiceSelect2"></select>
+                </div>
+            </div>
+            <p id="voiceIndicator2" class="help" aria-live="polite"></p>
+            <p id="speechError" class="help has-text-danger" aria-live="polite"></p>
+        </div>
+        <div class="field">
+            <label class="label" for="speechRate"><span data-i18n="speechSpeed">Speech speed:</span> <span id="speechRateValue">100%</span></label>
+            <div class="control">
+                <input type="range" id="speechRate" min="0.5" max="1.5" step="0.1" value="1">
+            </div>
+        </div>
+
+        <div id="exerciseView" class="hidden">
+            <h2 class="subtitle" id="exerciseTitle"></h2>
+            <div class="box listening-box">
+                <p class="situation" id="situation"></p>
+                <div class="buttons is-centered mt-4 mb-0">
+                    <button class="button is-primary" id="playButton" data-i18n="listen">▶ Listen</button>
+                    <button class="button" id="stopButton" disabled data-i18n="stop">⏹ Stop</button>
+                </div>
+                <p class="play-count has-text-centered help" id="playCount" aria-live="polite"></p>
+                <div id="questions"></div>
+                <div class="buttons is-centered mt-5">
+                    <button class="button is-link" id="checkButton" data-i18n="check">Check answers</button>
+                    <button class="button" id="resetButton" data-i18n="tryAgain">Try again</button>
+                </div>
+                <p class="has-text-centered has-text-weight-semibold" id="score" aria-live="polite"></p>
+            </div>
+            <div class="toggles">
+                <label class="checkbox"><input type="checkbox" id="showTranscript"> <span data-i18n="showTranscript">Show transcript</span></label>
+                <label class="checkbox"><input type="checkbox" id="showTranslation"> <span data-i18n="showTranslation">Show translation</span></label>
+            </div>
+            <div class="box listening-box hidden" id="transcriptBox">
+                <div id="transcript"></div>
+                <div class="vocab-hints" id="vocab"></div>
+            </div>
+        </div>
+    </div>
+    <script src="../i18n.js"></script>
+    <script src="../library.js"></script>
+    <script>
+        defineStrings({
+            en: {
+                pageTitle: "French Listening",
+                intro: "Like the TEF listening section: read the situation and the questions first, then listen and pick your answers. In the exam you hear a recording once or twice, so try to answer after two plays. Then check your answers and open the transcript and translation to see what you missed.",
+                chooseFile: "Choose a listening exercise…",
+                pickListening: "Pick a listening exercise…",
+                firstVoice: "First voice",
+                secondVoice: "Second voice (dialogues)",
+                sameVoiceHint: "Same voice as the first, at a different pitch. Pick another French voice here, if one is listed, to tell the speakers apart more easily.",
+                listen: "▶ Listen",
+                stop: "⏹ Stop",
+                playedTimes: "Played {n}×",
+                check: "Check answers",
+                tryAgain: "Try again",
+                unanswered: "Answer every question first ({n} left).",
+                showTranscript: "Show transcript",
+                showTranslation: "Show translation",
+                hearLine: "Hear this line",
+                questionN: "Question {n}",
+            },
+            uk: {
+                pageTitle: "Аудіювання французькою",
+                intro: "Як у розділі аудіювання TEF: спершу прочитайте ситуацію й запитання, потім слухайте й вибирайте відповіді. На іспиті запис звучить один або два рази, тож намагайтеся відповісти після двох прослуховувань. Потім перевірте відповіді й відкрийте текст запису та переклад, щоб побачити, що ви пропустили.",
+                chooseFile: "Виберіть вправу з аудіювання…",
+                pickListening: "Виберіть вправу з аудіювання…",
+                firstVoice: "Перший голос",
+                secondVoice: "Другий голос (діалоги)",
+                sameVoiceHint: "Той самий голос, що й перший, але іншої висоти. Якщо в списку є інший французький голос, виберіть його тут, щоб легше розрізняти мовців.",
+                listen: "▶ Слухати",
+                stop: "⏹ Стоп",
+                playedTimes: "Прослухано {n}×",
+                check: "Перевірити відповіді",
+                tryAgain: "Спробувати ще раз",
+                unanswered: "Спершу дайте відповідь на всі запитання (залишилося {n}).",
+                showTranscript: "Показати текст запису",
+                showTranslation: "Показати переклад",
+                hearLine: "Прослухати цю репліку",
+                questionN: "Запитання {n}",
+            },
+        });
+
+        let exercise = null;
+        let lines = [];
+        let speakers = [];
+        let answers = [];
+        let checked = false;
+        let playCount = 0;
+        let frenchVoices = [];
+        let selectedVoice = null;
+        let selectedVoice2 = null;
+
+        const voiceSelect = document.getElementById("voiceSelect");
+        const voiceSelect2 = document.getElementById("voiceSelect2");
+        const voiceIndicator = document.getElementById("voiceIndicator");
+        const voiceIndicator2 = document.getElementById("voiceIndicator2");
+        const speechError = document.getElementById("speechError");
+
+        function reportSpeechFailure(voice) {
+            if (voice && !voice.localService) setText(speechError, "speechFailedNetwork", { voice: voice.name });
+            else setText(speechError, "speechFailedGeneric");
+        }
+        const VOICE_STORAGE_KEY = "listeningVoiceURI";
+        const VOICE2_STORAGE_KEY = "listeningVoice2URI";
+        const FONT_SCALE_KEY = "listeningFontScale";
+        const FONT_SCALE_MIN = 0.8;
+        const FONT_SCALE_MAX = 2;
+        const FONT_SCALE_STEP = 0.1;
+        const SPEECH_RATE_KEY = "listeningSpeechRate";
+        const SHOW_TRANSLATION_KEY = "listeningShowTranslation";
+        // Pauses between lines: a short breath within one speaker's turn, a longer one when the speaker changes.
+        const SAME_SPEAKER_PAUSE_MS = 300;
+        const NEW_SPEAKER_PAUSE_MS = 700;
+        // With only one French voice, the second speaker is told apart by pitch.
+        const SECOND_SPEAKER_PITCH = 1.3;
+        const THIRD_SPEAKER_PITCH = 0.8;
+
+        function escapeHtml(str) {
+            return String(str)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;");
+        }
+
+        // --- Text size control (avoids relying on browser pinch-zoom) ---
+        let fontScale = parseFloat(localStorage.getItem(FONT_SCALE_KEY)) || 1;
+
+        function applyFontScale() {
+            document.documentElement.style.setProperty("--font-scale", fontScale);
+            document.getElementById("fontSizeValue").textContent = `${Math.round(fontScale * 100)}%`;
+        }
+
+        function setFontScale(next) {
+            fontScale = Math.min(FONT_SCALE_MAX, Math.max(FONT_SCALE_MIN, next));
+            localStorage.setItem(FONT_SCALE_KEY, fontScale);
+            applyFontScale();
+        }
+
+        document.getElementById("fontIncrease").addEventListener("click", () => setFontScale(fontScale + FONT_SCALE_STEP));
+        document.getElementById("fontDecrease").addEventListener("click", () => setFontScale(fontScale - FONT_SCALE_STEP));
+        document.getElementById("fontReset").addEventListener("click", () => setFontScale(1));
+        applyFontScale();
+
+        // --- Voices: the first speaker gets the first voice, the second speaker the second ---
+        function populateVoices() {
+            const voices = speechSynthesis.getVoices();
+            frenchVoices = voices.filter(v => v.lang.toLowerCase().startsWith("fr"));
+
+            if (frenchVoices.length === 0) {
+                const none = `<option value="" data-i18n="noFrenchVoice">${t("noFrenchVoice")}</option>`;
+                voiceSelect.innerHTML = none;
+                voiceSelect2.innerHTML = none;
+                setText(voiceIndicator, "noFrenchVoiceHint");
+                clearText(voiceIndicator2);
+                selectedVoice = selectedVoice2 = null;
+                return;
+            }
+
+            const options = frenchVoices
+                .map(v => `<option value="${escapeHtml(v.voiceURI)}">${escapeHtml(v.name)} (${escapeHtml(v.lang)})</option>`)
+                .join("");
+            voiceSelect.innerHTML = options;
+            voiceSelect2.innerHTML = options;
+
+            // Prefer a local (on-device) fr-CA voice — network voices can
+            // silently fail to speak the first time or two.
+            const rank = v => (v.lang.toLowerCase() === "fr-ca" ? 0 : 2) + (v.localService ? 0 : 1);
+            const ranked = [...frenchVoices].sort((a, b) => rank(a) - rank(b));
+            const saved = key => frenchVoices.find(v => v.voiceURI === sessionStorage.getItem(key));
+            selectedVoice = saved(VOICE_STORAGE_KEY) || ranked[0];
+            selectedVoice2 = saved(VOICE2_STORAGE_KEY) || ranked.find(v => v !== selectedVoice) || selectedVoice;
+            voiceSelect.value = selectedVoice.voiceURI;
+            voiceSelect2.value = selectedVoice2.voiceURI;
+            describeVoices();
+        }
+
+        function describeVoices() {
+            if (!selectedVoice) return;
+            const describe = (el, voice) => setText(el, voice.localService ? "usingVoice" : "usingNetworkVoice",
+                { voice: `${voice.name} (${voice.lang})` });
+            describe(voiceIndicator, selectedVoice);
+            if (selectedVoice2 === selectedVoice) setText(voiceIndicator2, "sameVoiceHint");
+            else describe(voiceIndicator2, selectedVoice2);
+        }
+
+        voiceSelect.addEventListener("change", () => {
+            const voice = frenchVoices.find(v => v.voiceURI === voiceSelect.value);
+            if (!voice) return;
+            selectedVoice = voice;
+            sessionStorage.setItem(VOICE_STORAGE_KEY, voice.voiceURI);
+            describeVoices();
+        });
+        voiceSelect2.addEventListener("change", () => {
+            const voice = frenchVoices.find(v => v.voiceURI === voiceSelect2.value);
+            if (!voice) return;
+            selectedVoice2 = voice;
+            sessionStorage.setItem(VOICE2_STORAGE_KEY, voice.voiceURI);
+            describeVoices();
+        });
+
+        populateVoices();
+        if (speechSynthesis.onvoiceschanged !== undefined) {
+            speechSynthesis.onvoiceschanged = populateVoices;
+        }
+
+        // Speaker 1 → first voice, speaker 2 → second voice (or the first at a higher pitch when they're
+        // the same), any further speaker → first voice at a lower pitch.
+        function voiceFor(speakerIndex) {
+            if (speakerIndex === 1) {
+                return { voice: selectedVoice2, pitch: selectedVoice2 === selectedVoice ? SECOND_SPEAKER_PITCH : 1 };
+            }
+            return { voice: selectedVoice, pitch: speakerIndex >= 2 ? THIRD_SPEAKER_PITCH : 1 };
+        }
+
+        // --- Speech speed control (slower playback for new learners) ---
+        const speechRateInput = document.getElementById("speechRate");
+        const speechRateValue = document.getElementById("speechRateValue");
+        let speechRate = parseFloat(localStorage.getItem(SPEECH_RATE_KEY)) || 1;
+
+        function applySpeechRate() {
+            speechRateInput.value = speechRate;
+            speechRateValue.textContent = `${Math.round(speechRate * 100)}%`;
+        }
+
+        speechRateInput.addEventListener("input", () => {
+            speechRate = parseFloat(speechRateInput.value);
+            localStorage.setItem(SPEECH_RATE_KEY, speechRate);
+            applySpeechRate();
+        });
+        applySpeechRate();
+
+        // Chrome can silently drop an utterance if nothing keeps a reference to it
+        // alive, so keep it in this array until it's done.
+        const pendingUtterances = [];
+        const STALL_TIMEOUT_MS = 1500;
+        const MAX_SPEAK_ATTEMPTS = 3;
+
+        function speak(text, { voice = selectedVoice, pitch = 1 } = {}) {
+            return new Promise(resolve => {
+                if (!text || !text.trim()) { resolve(); return; }
+
+                let attempt = 0;
+                const attemptSpeak = () => {
+                    attempt++;
+                    const utterance = new SpeechSynthesisUtterance(text);
+                    utterance.lang = "fr-CA";
+                    utterance.rate = speechRate;
+                    utterance.pitch = pitch;
+                    if (voice) utterance.voice = voice;
+                    pendingUtterances.push(utterance);
+
+                    let settled = false;
+                    let started = false;
+                    let stallTimer = null;
+
+                    const forget = () => {
+                        const i = pendingUtterances.indexOf(utterance);
+                        if (i !== -1) pendingUtterances.splice(i, 1);
+                        clearTimeout(stallTimer);
+                    };
+
+                    // Network voices can occasionally never start (no error, no
+                    // end) — cancel and retry a couple of times, but only once
+                    // speechSynthesis agrees nothing is playing, since onstart
+                    // isn't reliably fired by every voice.
+                    const checkStall = () => {
+                        if (started || settled) return;
+                        if (speechSynthesis.speaking) {
+                            stallTimer = setTimeout(checkStall, STALL_TIMEOUT_MS);
+                            return;
+                        }
+                        settled = true;
+                        forget();
+                        speechSynthesis.cancel();
+                        if (attempt < MAX_SPEAK_ATTEMPTS) {
+                            attemptSpeak();
+                        } else {
+                            reportSpeechFailure(voice);
+                            resolve();
+                        }
+                    };
+                    stallTimer = setTimeout(checkStall, STALL_TIMEOUT_MS);
+
+                    utterance.onstart = () => { started = true; };
+                    utterance.onend = () => {
+                        if (settled) return;
+                        settled = true;
+                        forget();
+                        clearText(speechError);
+                        resolve();
+                    };
+                    utterance.onerror = event => {
+                        if (settled) return;
+                        settled = true;
+                        forget();
+                        // Stopped on purpose (Stop button, or a line clicked) — not a failure.
+                        if (event.error === "interrupted" || event.error === "canceled") {
+                            resolve();
+                        } else if (!started && attempt < MAX_SPEAK_ATTEMPTS) {
+                            attemptSpeak();
+                        } else {
+                            reportSpeechFailure(voice);
+                            resolve();
+                        }
+                    };
+
+                    speechSynthesis.speak(utterance);
+                };
+
+                attemptSpeak();
+            });
+        }
+
+        // --- Playback: the lines in order, each in its speaker's voice ---
+        // Bumped whenever playback is stopped or restarted, so an in-flight
+        // loop knows to quit instead of carrying on.
+        let playbackRun = 0;
+        const stopButton = document.getElementById("stopButton");
+        const wait = ms => new Promise(resolve => setTimeout(resolve, ms));
+
+        function setPlaying(index) {
+            document.querySelectorAll(".line-fr").forEach(el =>
+                el.classList.toggle("playing", Number(el.dataset.index) === index));
+        }
+
+        function stopPlayback() {
+            playbackRun++;
+            speechSynthesis.cancel();
+            setPlaying(-1);
+            stopButton.disabled = true;
+        }
+
+        async function play(indices) {
+            stopPlayback();
+            const run = playbackRun;
+            stopButton.disabled = false;
+            for (const [n, index] of indices.entries()) {
+                if (n > 0) {
+                    await wait(lines[index].speaker === lines[indices[n - 1]].speaker ? SAME_SPEAKER_PAUSE_MS : NEW_SPEAKER_PAUSE_MS);
+                }
+                if (run !== playbackRun) return;
+                setPlaying(index);
+                await speak(lines[index].fr, voiceFor(speakers.indexOf(lines[index].speaker)));
+            }
+            if (run === playbackRun) stopPlayback();
+        }
+
+        document.getElementById("playButton").addEventListener("click", () => {
+            playCount++;
+            setText(document.getElementById("playCount"), "playedTimes", { n: playCount });
+            play(lines.map((_, i) => i));
+        });
+        stopButton.addEventListener("click", stopPlayback);
+
+        // --- Questions ---
+        const questionsEl = document.getElementById("questions");
+        const scoreEl = document.getElementById("score");
+
+        function renderQuestions() {
+            questionsEl.innerHTML = (exercise.questions || []).map((q, qi) => `
+                <div class="question" role="group" data-i18n-attr="aria-label:questionN" data-i18n-vars='{"n":${qi + 1}}'>
+                    <p class="question-text">${qi + 1}. <span ${contentAttrs(q.question)}></span></p>
+                    <div class="options">${q.options.map((option, oi) => `
+                        <button type="button" class="button option" data-q="${qi}" data-o="${oi}" aria-pressed="false">
+                            <span>${String.fromCharCode(65 + oi)}. <span ${contentAttrs(option)}></span></span><span class="mark"></span>
+                        </button>`).join("")}
+                    </div>
+                </div>`).join("");
+            applyTranslations(questionsEl);
+        }
+
+        questionsEl.addEventListener("click", event => {
+            const option = event.target.closest(".option");
+            if (!option || checked) return;
+            const qi = Number(option.dataset.q);
+            answers[qi] = Number(option.dataset.o);
+            questionsEl.querySelectorAll(`.option[data-q="${qi}"]`).forEach(o => {
+                const selected = o === option;
+                o.classList.toggle("is-selected", selected);
+                o.setAttribute("aria-pressed", selected);
+            });
+            clearText(scoreEl);
+        });
+
+        document.getElementById("checkButton").addEventListener("click", () => {
+            const questions = exercise.questions || [];
+            const left = questions.filter((_, qi) => answers[qi] === undefined).length;
+            if (left) { setText(scoreEl, "unanswered", { n: left }); return; }
+            checked = true;
+            let correct = 0;
+            questions.forEach((q, qi) => {
+                if (answers[qi] === q.answer) correct++;
+                questionsEl.querySelectorAll(`.option[data-q="${qi}"]`).forEach(o => {
+                    const oi = Number(o.dataset.o);
+                    o.disabled = true;
+                    o.classList.toggle("is-right", oi === q.answer);
+                    o.classList.toggle("is-wrong", oi === answers[qi] && oi !== q.answer);
+                    o.querySelector(".mark").textContent = oi === q.answer ? "✓" : oi === answers[qi] ? "✗" : "";
+                });
+            });
+            setText(scoreEl, "score", { correct, total: questions.length, percent: Math.round(correct / questions.length * 100) });
+        });
+
+        document.getElementById("resetButton").addEventListener("click", resetAnswers);
+
+        function resetAnswers() {
+            answers = [];
+            checked = false;
+            clearText(scoreEl);
+            renderQuestions();
+        }
+
+        // --- Transcript and translation (hidden until asked for) ---
+        const showTranscript = document.getElementById("showTranscript");
+        const showTranslation = document.getElementById("showTranslation");
+        showTranslation.checked = localStorage.getItem(SHOW_TRANSLATION_KEY) === "true";
+
+        function applyToggles() {
+            document.getElementById("transcriptBox").classList.toggle("hidden", !showTranscript.checked);
+            document.querySelectorAll(".line-translation").forEach(el => el.classList.toggle("hidden", !showTranslation.checked));
+        }
+
+        showTranscript.addEventListener("change", applyToggles);
+        showTranslation.addEventListener("change", () => {
+            localStorage.setItem(SHOW_TRANSLATION_KEY, showTranslation.checked);
+            // The translation sits under the transcript, so asking for it opens the transcript too.
+            if (showTranslation.checked) showTranscript.checked = true;
+            applyToggles();
+        });
+
+        function renderTranscript() {
+            const transcript = document.getElementById("transcript");
+            transcript.innerHTML = lines.map((line, i) => `
+                <p class="line">
+                    ${line.speaker ? `<span class="speaker">${escapeHtml(line.speaker)}:</span>` : ""}
+                    <span class="line-fr" lang="fr" data-index="${i}" tabindex="0" role="button" data-i18n-attr="aria-label:hearLine">${escapeHtml(line.fr)}</span>
+                    <span class="line-translation" ${contentAttrs(line)}></span>
+                </p>`).join("");
+            transcript.querySelectorAll(".line-fr").forEach(el => {
+                const index = Number(el.dataset.index);
+                el.addEventListener("click", () => play([index]));
+                el.addEventListener("keydown", event => {
+                    if (event.key === "Enter" || event.key === " ") { event.preventDefault(); play([index]); }
+                });
+            });
+
+            document.getElementById("vocab").innerHTML = (exercise.vocab || [])
+                .map(v => `<button type="button" class="tag is-light" data-fr="${escapeHtml(v.fr)}">🔊 <span lang="fr">${escapeHtml(v.fr)}</span> — <span ${contentAttrs(v)}></span></button>`)
+                .join("");
+            document.querySelectorAll("#vocab .tag").forEach(tag => {
+                tag.addEventListener("click", () => { stopPlayback(); speak(tag.dataset.fr); });
+            });
+        }
+
+        function renderExercise(data) {
+            stopPlayback();
+            exercise = data;
+            lines = data.lines || [];
+            speakers = [...new Set(lines.map(line => line.speaker))];
+            playCount = 0;
+            clearText(document.getElementById("playCount"));
+
+            document.getElementById("exerciseTitle").outerHTML = `<h2 class="subtitle" id="exerciseTitle" ${contentAttrs(data.title || "")}></h2>`;
+            document.getElementById("situation").outerHTML = `<p class="situation" id="situation" ${contentAttrs(data.situation || "")}></p>`;
+
+            resetAnswers();
+            renderTranscript();
+            // A new exercise starts with the transcript closed, so it can't give the answers away.
+            showTranscript.checked = false;
+            applyToggles();
+            applyTranslations(document.getElementById("exerciseView"));
+            document.getElementById("exerciseView").classList.remove("hidden");
+        }
+
+        mountLibrarySelect(document.getElementById("library"), "listening", "pickListening", text => renderExercise(JSON.parse(text)));
+
+        document.getElementById("fileInput").addEventListener("change", async function () {
+            const file = this.files[0];
+            if (!file) return;
+            renderExercise(JSON.parse(await file.text()));
+        });
+    </script>
+</body>
+</html>
