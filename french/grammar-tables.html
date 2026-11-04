@@ -26,6 +26,22 @@
         <h1 class="title" data-i18n="pageTitle">French Grammar Tables</h1>
         <p class="subtitle is-6" data-i18n="intro">How verbs change in the present tense. Click any French form to hear it; the endings are in red.</p>
         <p class="toc" id="toc"></p>
+        <div class="field">
+            <label class="label" for="voiceSelect" data-i18n="frenchVoice">French voice</label>
+            <div class="control">
+                <div class="select">
+                    <select id="voiceSelect"></select>
+                </div>
+            </div>
+            <p id="voiceIndicator" class="help" aria-live="polite"></p>
+            <p id="speechError" class="help has-text-danger" aria-live="polite"></p>
+        </div>
+        <div class="field">
+            <label class="label" for="speechRate"><span data-i18n="speechSpeed">Speech speed:</span> <span id="speechRateValue">100%</span></label>
+            <div class="control">
+                <input type="range" id="speechRate" min="0.5" max="1.5" step="0.1" value="1">
+            </div>
+        </div>
         <div id="sections"></div>
     </div>
     <script src="../i18n.js"></script>
@@ -300,38 +316,185 @@
         document.getElementById("toc").innerHTML = SECTIONS.map(s => `<a href="#${s.id}" ${contentAttrs(s.title)}></a>`).join(" ");
 
         // --- Speech: click (or Enter on) a French form to hear it ---
-        let frenchVoice = null;
-        function pickVoice() {
-            const voices = speechSynthesis.getVoices().filter(v => v.lang.toLowerCase().startsWith("fr"));
-            const ca = voices.filter(v => v.lang.toLowerCase() === "fr-ca");
-            frenchVoice = ca.find(v => v.localService) || ca[0] || voices.find(v => v.localService) || voices[0] || null;
-        }
-        if ("speechSynthesis" in window) {
-            pickVoice();
-            speechSynthesis.addEventListener("voiceschanged", pickVoice);
+        let frenchVoices = [];
+        let selectedVoice = null;
+
+        const voiceSelect = document.getElementById("voiceSelect");
+        const voiceIndicator = document.getElementById("voiceIndicator");
+        const speechError = document.getElementById("speechError");
+        const VOICE_STORAGE_KEY = "grammarTablesVoiceURI";
+        const SPEECH_RATE_KEY = "grammarTablesSpeechRate";
+
+        // Surfaced when speech fails outright, instead of staying silently
+        // mute — network voices in particular can stop responding after a
+        // browser or Windows update changes how they're provisioned.
+        function reportSpeechFailure(lang) {
+            const voice = lang.toLowerCase().startsWith("fr") ? selectedVoice : null;
+            if (voice && !voice.localService) setText(speechError, "speechFailedNetwork", { voice: voice.name });
+            else setText(speechError, "speechFailedGeneric");
         }
 
-        // Chrome can drop an utterance that nothing references before it's spoken, so keep the current one.
-        let currentUtterance = null;
-        function speak(text) {
-            if (!("speechSynthesis" in window)) return;
+        function populateVoices() {
+            const voices = speechSynthesis.getVoices();
+            frenchVoices = voices.filter(v => v.lang.toLowerCase().startsWith("fr"));
+
+            if (frenchVoices.length === 0) {
+                voiceSelect.innerHTML = `<option value="" data-i18n="noFrenchVoice">${t("noFrenchVoice")}</option>`;
+                setText(voiceIndicator, "noFrenchVoiceHint");
+                selectedVoice = null;
+                return;
+            }
+
+            const savedURI = sessionStorage.getItem(VOICE_STORAGE_KEY);
+            voiceSelect.innerHTML = frenchVoices
+                .map(v => `<option value="${esc(v.voiceURI)}">${esc(v.name)} (${esc(v.lang)})</option>`)
+                .join("");
+
+            const savedVoice = frenchVoices.find(v => v.voiceURI === savedURI);
+            // Prefer a local (on-device) fr-CA voice — network voices can
+            // silently fail to speak the first time or two.
+            const localCaVoice = frenchVoices.find(v => v.lang.toLowerCase() === "fr-ca" && v.localService);
+            const anyCaVoice = frenchVoices.find(v => v.lang.toLowerCase() === "fr-ca");
+            const anyLocalVoice = frenchVoices.find(v => v.localService);
+            selectedVoice = savedVoice || localCaVoice || anyCaVoice || anyLocalVoice || frenchVoices[0];
+            voiceSelect.value = selectedVoice.voiceURI;
+            describeSelectedVoice();
+        }
+
+        function describeSelectedVoice() {
+            if (!selectedVoice) return;
+            setText(voiceIndicator, selectedVoice.localService ? "usingVoice" : "usingNetworkVoice",
+                { voice: `${selectedVoice.name} (${selectedVoice.lang})` });
+        }
+
+        voiceSelect.addEventListener("change", () => {
+            selectedVoice = frenchVoices.find(v => v.voiceURI === voiceSelect.value) || null;
+            if (selectedVoice) {
+                sessionStorage.setItem(VOICE_STORAGE_KEY, selectedVoice.voiceURI);
+                describeSelectedVoice();
+            }
+        });
+
+        populateVoices();
+        if (speechSynthesis.onvoiceschanged !== undefined) {
+            speechSynthesis.onvoiceschanged = populateVoices;
+        }
+
+        // --- Speech speed control (slower playback for new learners) ---
+        const speechRateInput = document.getElementById("speechRate");
+        const speechRateValue = document.getElementById("speechRateValue");
+        let speechRate = parseFloat(localStorage.getItem(SPEECH_RATE_KEY)) || 1;
+
+        function applySpeechRate() {
+            speechRateInput.value = speechRate;
+            speechRateValue.textContent = `${Math.round(speechRate * 100)}%`;
+        }
+
+        speechRateInput.addEventListener("input", () => {
+            speechRate = parseFloat(speechRateInput.value);
+            localStorage.setItem(SPEECH_RATE_KEY, speechRate);
+            applySpeechRate();
+        });
+        applySpeechRate();
+
+        // Chrome can silently drop an utterance if nothing keeps a reference to it
+        // alive, so keep it in this array until it's done.
+        const pendingUtterances = [];
+        const STALL_TIMEOUT_MS = 1500;
+        const MAX_SPEAK_ATTEMPTS = 3;
+
+        function speak(text, lang) {
+            return new Promise(resolve => {
+                if (!text || !text.trim()) { resolve(); return; }
+
+                let attempt = 0;
+                const attemptSpeak = () => {
+                    attempt++;
+                    const utterance = new SpeechSynthesisUtterance(text);
+                    utterance.lang = lang;
+                    utterance.rate = speechRate;
+                    if (lang.toLowerCase().startsWith("fr") && selectedVoice) {
+                        utterance.voice = selectedVoice;
+                    }
+                    pendingUtterances.push(utterance);
+
+                    let settled = false;
+                    let started = false;
+                    let stallTimer = null;
+
+                    const forget = () => {
+                        const i = pendingUtterances.indexOf(utterance);
+                        if (i !== -1) pendingUtterances.splice(i, 1);
+                        clearTimeout(stallTimer);
+                    };
+
+                    // Network voices can occasionally never start (no error, no
+                    // end) — cancel and retry a couple of times, but only once
+                    // speechSynthesis agrees nothing is playing, since onstart
+                    // isn't reliably fired by every voice.
+                    const checkStall = () => {
+                        if (started || settled) return;
+                        if (speechSynthesis.speaking) {
+                            stallTimer = setTimeout(checkStall, STALL_TIMEOUT_MS);
+                            return;
+                        }
+                        settled = true;
+                        forget();
+                        speechSynthesis.cancel();
+                        if (attempt < MAX_SPEAK_ATTEMPTS) {
+                            attemptSpeak();
+                        } else {
+                            reportSpeechFailure(lang);
+                            resolve();
+                        }
+                    };
+                    stallTimer = setTimeout(checkStall, STALL_TIMEOUT_MS);
+
+                    utterance.onstart = () => { started = true; };
+                    utterance.onend = () => {
+                        if (settled) return;
+                        settled = true;
+                        forget();
+                        clearText(speechError);
+                        resolve();
+                    };
+                    utterance.onerror = event => {
+                        if (settled) return;
+                        settled = true;
+                        forget();
+                        // Stopped on purpose (another form clicked) — not a failure.
+                        if (event.error === "interrupted" || event.error === "canceled") {
+                            resolve();
+                        } else if (!started && attempt < MAX_SPEAK_ATTEMPTS) {
+                            attemptSpeak();
+                        } else {
+                            reportSpeechFailure(lang);
+                            resolve();
+                        }
+                    };
+
+                    speechSynthesis.speak(utterance);
+                };
+
+                attemptSpeak();
+            });
+        }
+
+        // A new click cuts off whatever form is still being read.
+        function sayForm(text) {
             speechSynthesis.cancel();
-            currentUtterance = new SpeechSynthesisUtterance(text);
-            currentUtterance.lang = frenchVoice ? frenchVoice.lang : "fr-CA";
-            if (frenchVoice) currentUtterance.voice = frenchVoice;
-            currentUtterance.rate = 0.9;
-            speechSynthesis.speak(currentUtterance);
+            speak(text, "fr-CA");
         }
 
         sections.addEventListener("click", event => {
             const target = event.target.closest(".say");
-            if (target) speak(target.dataset.say);
+            if (target) sayForm(target.dataset.say);
         });
         sections.addEventListener("keydown", event => {
             const target = event.target.closest(".say");
             if (target && (event.key === "Enter" || event.key === " ")) {
                 event.preventDefault();
-                speak(target.dataset.say);
+                sayForm(target.dataset.say);
             }
         });
     </script>
