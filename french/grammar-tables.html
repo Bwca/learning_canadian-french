@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="pageTitle">French Grammar Tables</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css">
+    <style>
+        .container { max-width: 800px; margin: auto; padding: 0 0.75rem 3rem; }
+        .section-block { margin-top: 2.5rem; }
+        .rules li { margin-bottom: 0.4rem; }
+        .say { cursor: pointer; border-bottom: 1px dotted #888; white-space: nowrap; }
+        .say:hover, .say:focus { background: #eef6fc; outline: none; }
+        .ending { color: #c0392b; font-weight: 700; }
+        .ipa { color: #555; white-space: nowrap; }
+        .verb-table { margin-top: 1rem; }
+        .verb-table caption { text-align: left; font-weight: 700; padding-bottom: 0.3rem; }
+        .toc a { display: inline-block; margin-right: 1rem; white-space: nowrap; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav class="page-nav level is-mobile mb-4">
+            <a href="index.html">← <span data-i18n="allTools">All tools</span></a>
+        </nav>
+        <h1 class="title" data-i18n="pageTitle">French Grammar Tables</h1>
+        <p class="subtitle is-6" data-i18n="intro">How verbs change in the present tense. Click any French form to hear it; the endings are in red.</p>
+        <p class="toc" id="toc"></p>
+        <div id="sections"></div>
+    </div>
+    <script src="../i18n.js"></script>
+    <script>
+        defineStrings({
+            en: {
+                pageTitle: "French Grammar Tables",
+                intro: "How verbs change in the present tense. Click any French form to hear it; the endings are in red.",
+                person: "Person",
+                form: "Form",
+                sound: "Sounds like",
+                meaning: "Meaning",
+                verb: "Verb",
+                why: "What changes",
+                hear: "Hear it",
+            },
+            uk: {
+                pageTitle: "Таблиці французької граматики",
+                intro: "Як змінюються дієслова в теперішньому часі. Натисніть будь-яку французьку форму, щоб її почути; закінчення виділено червоним.",
+                person: "Особа",
+                form: "Форма",
+                sound: "Вимова",
+                meaning: "Значення",
+                verb: "Дієслово",
+                why: "Що змінюється",
+                hear: "Прослухати",
+            },
+        });
+
+        const PRONOUNS = ["je", "tu", "il/elle/on", "nous", "vous", "ils/elles"];
+
+        // A verb table: six forms in pronoun order. endings (optional) are the regular endings to show in red;
+        // ipa is the standard-French pronunciation with the pronoun.
+        const SECTIONS = [
+            {
+                id: "basics",
+                title: { en: "How it works", uk: "Як це працює" },
+                rules: [
+                    { en: "Every verb has six present-tense forms, one per person. Regular verbs are built the same way: take the infinitive, cut off its ending (-er, -ir, -re) to get the stem, and add the endings for that group.",
+                      uk: "Кожне дієслово має шість форм теперішнього часу, по одній на особу. Правильні дієслова будуються однаково: візьміть інфінітив, відкиньте закінчення (-er, -ir, -re) — лишиться основа — і додайте закінчення своєї групи." },
+                    { en: "« je » becomes « j' » before a vowel or a silent h: « j'aime », « j'habite ».",
+                      uk: "Перед голосним або німим h « je » стає « j' »: « j'aime », « j'habite »." },
+                    { en: "« tu » is informal (one friend, family, a child); « vous » is formal, or anyone plural.",
+                      uk: "« tu » — на «ти» (друг, родина, дитина); « vous » — на «ви»: ввічливо до однієї людини або до кількох." },
+                    { en: "« on » takes the same form as « il », but in everyday speech it means « we ». In Québec conversation you'll hear « on parle » far more than « nous parlons ».",
+                      uk: "« on » має ту саму форму, що й « il », але в розмові означає «ми». У Квебеку в розмові « on parle » звучить набагато частіше, ніж « nous parlons »." },
+                    { en: "Most verb endings are silent. In the singular and in « ils », you often hear no ending at all, so the pronoun is what tells you who's doing it.",
+                      uk: "Більшість дієслівних закінчень не вимовляються. В однині та з « ils » закінчення часто зовсім не чути, тож хто виконує дію, показує займенник." },
+                ],
+                overview: true,
+            },
+            {
+                id: "etre-avoir",
+                title: { en: "Être and avoir", uk: "Être та avoir" },
+                rules: [
+                    { en: "The two most important verbs are irregular: learn them by heart. They're also the helpers for the past tense later on.",
+                      uk: "Два найважливіші дієслова неправильні: їх треба вивчити напам'ять. Згодом вони ж стануть допоміжними для минулого часу." },
+                    { en: "« ils sont » [il sɔ̃] (they are) and « ils ont » [il z‿ɔ̃] (they have) differ only by [s] vs [z]: the liaison is the whole difference.",
+                      uk: "« ils sont » [il sɔ̃] (вони є) і « ils ont » [il z‿ɔ̃] (вони мають) відрізняються лише [s] і [z]: уся різниця — у зв'язуванні." },
+                    { en: "French uses « avoir » where English uses « be »: « j'ai vingt ans » (I'm twenty), « j'ai faim » (I'm hungry), « j'ai froid » (I'm cold).",
+                      uk: "Там, де англійська каже «be», французька часто вживає « avoir »: « j'ai vingt ans » (мені двадцять), « j'ai faim » (я голодний), « j'ai froid » (мені холодно)." },
+                    { en: "Québec, casual speech: « je suis » is often « chu » [ʃy], « tu es » is « t'es » [te], and « tu as » is « t'as » [ta]. Understand them, but write the full forms.",
+                      uk: "Квебек, розмовне мовлення: « je suis » часто звучить як « chu » [ʃy], « tu es » — « t'es » [te], « tu as » — « t'as » [ta]. Розумійте їх, але пишіть повні форми." },
+                ],
+                tables: [
+                    { verb: "être", gloss: { en: "to be", uk: "бути" },
+                      forms: ["suis", "es", "est", "sommes", "êtes", "sont"],
+                      ipa: ["ʒə sɥi", "ty ɛ", "il ɛ", "nu sɔm", "vu z‿ɛt", "il sɔ̃"],
+                      meaning: { en: ["I am", "you are", "he / she is; on: we are", "we are", "you are", "they are"],
+                                 uk: ["я є", "ти є", "він / вона є; on: ми є", "ми є", "ви є", "вони є"] } },
+                    { verb: "avoir", gloss: { en: "to have", uk: "мати" },
+                      forms: ["ai", "as", "a", "avons", "avez", "ont"],
+                      ipa: ["ʒe", "ty a", "il a", "nu z‿avɔ̃", "vu z‿ave", "il z‿ɔ̃"],
+                      meaning: { en: ["I have", "you have", "he / she has; on: we have", "we have", "you have", "they have"],
+                                 uk: ["я маю", "ти маєш", "він / вона має; on: ми маємо", "ми маємо", "ви маєте", "вони мають"] } },
+                ],
+            },
+            {
+                id: "er",
+                title: { en: "-er verbs (parler)", uk: "Дієслова на -er (parler)" },
+                rules: [
+                    { en: "The biggest group: almost every verb ending in -er is regular (aimer, habiter, travailler, manger, regarder, écouter…). Only « aller » is irregular — see below.",
+                      uk: "Найбільша група: майже всі дієслова на -er правильні (aimer, habiter, travailler, manger, regarder, écouter…). Неправильне лише « aller » — див. нижче." },
+                    { en: "Stem + -e, -es, -e, -ons, -ez, -ent: « parler » → « parl- » → « je parle ».",
+                      uk: "Основа + -e, -es, -e, -ons, -ez, -ent: « parler » → « parl- » → « je parle »." },
+                    { en: "Four forms sound exactly the same: « parle », « parles », « parle », « parlent » are all [paʁl]. The -ent of « ils parlent » is never said. Only « nous » [-ɔ̃] and « vous » [-e] sound different.",
+                      uk: "Чотири форми звучать однаково: « parle », « parles », « parle », « parlent » — це все [paʁl]. Закінчення -ent в « ils parlent » ніколи не вимовляється. Інакше звучать лише « nous » [-ɔ̃] і « vous » [-e]." },
+                    { en: "With a verb starting with a vowel, « je » elides and « nous », « vous », « ils » link with a [z]: « nous aimons » [nu z‿ɛmɔ̃], « ils aiment » [il z‿ɛm]. That [z] is how you tell « ils aiment » from « il aime ».",
+                      uk: "Якщо дієслово починається з голосного, « je » скорочується, а « nous », « vous », « ils » зв'язуються через [z]: « nous aimons » [nu z‿ɛmɔ̃], « ils aiment » [il z‿ɛm]. Саме за цим [z] « ils aiment » відрізняють від « il aime »." },
+                ],
+                tables: [
+                    { verb: "parler", gloss: { en: "to speak", uk: "розмовляти" },
+                      forms: ["parle", "parles", "parle", "parlons", "parlez", "parlent"],
+                      endings: ["e", "es", "e", "ons", "ez", "ent"],
+                      ipa: ["ʒə paʁl", "ty paʁl", "il paʁl", "nu paʁlɔ̃", "vu paʁle", "il paʁl"],
+                      meaning: { en: ["I speak", "you speak", "he / she speaks; on: we speak", "we speak", "you speak", "they speak"],
+                                 uk: ["я розмовляю", "ти розмовляєш", "він / вона розмовляє; on: ми розмовляємо", "ми розмовляємо", "ви розмовляєте", "вони розмовляють"] } },
+                    { verb: "aimer", gloss: { en: "to like, to love", uk: "любити" },
+                      forms: ["aime", "aimes", "aime", "aimons", "aimez", "aiment"],
+                      endings: ["e", "es", "e", "ons", "ez", "ent"],
+                      ipa: ["ʒɛm", "ty ɛm", "il ɛm", "nu z‿ɛmɔ̃", "vu z‿ɛme", "il z‿ɛm"],
+                      meaning: { en: ["I like", "you like", "he / she likes; on: we like", "we like", "you like", "they like"],
+                                 uk: ["я люблю", "ти любиш", "він / вона любить; on: ми любимо", "ми любимо", "ви любите", "вони люблять"] } },
+                ],
+                changes: {
+                    title: { en: "Spelling changes in some -er verbs", uk: "Зміни написання в деяких дієсловах на -er" },
+                    rule: { en: "The endings stay regular; only the stem's spelling shifts to keep the sound. Most changes happen exactly in the forms whose ending is silent (je, tu, il, ils), never with « nous » and « vous ». The -ger and -cer ones are the reverse: only « nous » changes.",
+                            uk: "Закінчення лишаються правильними; змінюється лише написання основи, щоб зберегти звучання. Більшість змін відбувається саме у формах із німим закінченням (je, tu, il, ils) і ніколи з « nous » та « vous ». Дієслова на -ger і -cer — навпаки: змінюється лише « nous »." },
+                    rows: [
+                        { verb: "manger", je: "je mange", nous: "nous mangeons",
+                          why: { en: "-ger: add e before -ons to keep g soft [ʒ] (also nager, voyager)", uk: "-ger: перед -ons додають e, щоб g лишалося м'яким [ʒ] (так само nager, voyager)" } },
+                        { verb: "commencer", je: "je commence", nous: "nous commençons",
+                          why: { en: "-cer: c becomes ç before -ons to keep it [s] (also placer, avancer)", uk: "-cer: перед -ons c стає ç, щоб звучало [s] (так само placer, avancer)" } },
+                        { verb: "acheter", je: "j'achète", nous: "nous achetons",
+                          why: { en: "e becomes è when the ending is silent (also se lever, se promener)", uk: "e стає è, коли закінчення німе (так само se lever, se promener)" } },
+                        { verb: "préférer", je: "je préfère", nous: "nous préférons",
+                          why: { en: "é becomes è when the ending is silent (also espérer, répéter)", uk: "é стає è, коли закінчення німе (так само espérer, répéter)" } },
+                        { verb: "appeler", je: "j'appelle", nous: "nous appelons",
+                          why: { en: "the consonant doubles when the ending is silent (also jeter, je m'appelle)", uk: "приголосний подвоюється, коли закінчення німе (так само jeter, je m'appelle)" } },
+                        { verb: "payer", je: "je paie", nous: "nous payons",
+                          why: { en: "y becomes i when the ending is silent (also envoyer, nettoyer); « je paye » is also correct", uk: "y стає i, коли закінчення німе (так само envoyer, nettoyer); « je paye » теж правильно" } },
+                    ],
+                },
+            },
+            {
+                id: "ir",
+                title: { en: "-ir verbs (finir, partir)", uk: "Дієслова на -ir (finir, partir)" },
+                rules: [
+                    { en: "-ir verbs come in two main patterns, and the infinitive doesn't tell you which. Most -ir verbs, and nearly all new ones made from adjectives (grand → grandir, rouge → rougir), go like « finir ».",
+                      uk: "Дієслова на -ir бувають двох основних типів, і з інфінітива не видно, якого саме. Більшість дієслів на -ir, а також майже всі, утворені від прикметників (grand → grandir, rouge → rougir), відмінюються як « finir »." },
+                    { en: "Like « finir »: stem + -is, -is, -it, -issons, -issez, -issent. The plural adds -iss-, and that [s] is heard: « ils finissent » [il finis]. Also: choisir, réussir, remplir, réfléchir, obéir, grandir.",
+                      uk: "Як « finir »: основа + -is, -is, -it, -issons, -issez, -issent. У множині з'являється -iss-, і це [s] чути: « ils finissent » [il finis]. Так само: choisir, réussir, remplir, réfléchir, obéir, grandir." },
+                    { en: "Like « partir »: no -iss-. The singular drops the last consonant of the stem and adds -s, -s, -t; the plural keeps it: « je pars », « nous partons ». Also: sortir (je sors), dormir (je dors), servir (je sers), sentir (je sens).",
+                      uk: "Як « partir »: без -iss-. В однині останній приголосний основи випадає і додаються -s, -s, -t; у множині він лишається: « je pars », « nous partons ». Так само: sortir (je sors), dormir (je dors), servir (je sers), sentir (je sens)." },
+                    { en: "In both, the singular sounds the same in all three forms: [fini], [paʁ]. The plural's extra consonant ([s] or [t]) is what you hear in « ils finissent », « ils partent ».",
+                      uk: "В обох типах три форми однини звучать однаково: [fini], [paʁ]. У множині чути додатковий приголосний ([s] чи [t]): « ils finissent », « ils partent »." },
+                    { en: "A few -ir verbs take the -er endings: ouvrir → « j'ouvre », also offrir, découvrir, souffrir. « venir » is irregular: je viens, nous venons, ils viennent.",
+                      uk: "Кілька дієслів на -ir мають закінчення -er: ouvrir → « j'ouvre », так само offrir, découvrir, souffrir. « venir » — неправильне: je viens, nous venons, ils viennent." },
+                ],
+                tables: [
+                    { verb: "finir", gloss: { en: "to finish", uk: "закінчувати" },
+                      forms: ["finis", "finis", "finit", "finissons", "finissez", "finissent"],
+                      endings: ["is", "is", "it", "issons", "issez", "issent"],
+                      ipa: ["ʒə fini", "ty fini", "il fini", "nu finisɔ̃", "vu finise", "il finis"],
+                      meaning: { en: ["I finish", "you finish", "he / she finishes; on: we finish", "we finish", "you finish", "they finish"],
+                                 uk: ["я закінчую", "ти закінчуєш", "він / вона закінчує; on: ми закінчуємо", "ми закінчуємо", "ви закінчуєте", "вони закінчують"] } },
+                    { verb: "partir", gloss: { en: "to leave", uk: "від'їжджати, йти" },
+                      forms: ["pars", "pars", "part", "partons", "partez", "partent"],
+                      endings: ["s", "s", "t", "ons", "ez", "ent"],
+                      ipa: ["ʒə paʁ", "ty paʁ", "il paʁ", "nu paʁtɔ̃", "vu paʁte", "il paʁt"],
+                      meaning: { en: ["I leave", "you leave", "he / she leaves; on: we leave", "we leave", "you leave", "they leave"],
+                                 uk: ["я від'їжджаю", "ти від'їжджаєш", "він / вона від'їжджає; on: ми від'їжджаємо", "ми від'їжджаємо", "ви від'їжджаєте", "вони від'їжджають"] } },
+                    { verb: "ouvrir", gloss: { en: "to open", uk: "відкривати" },
+                      forms: ["ouvre", "ouvres", "ouvre", "ouvrons", "ouvrez", "ouvrent"],
+                      endings: ["e", "es", "e", "ons", "ez", "ent"],
+                      ipa: ["ʒuvʁ", "ty uvʁ", "il uvʁ", "nu z‿uvʁɔ̃", "vu z‿uvʁe", "il z‿uvʁ"],
+                      meaning: { en: ["I open", "you open", "he / she opens; on: we open", "we open", "you open", "they open"],
+                                 uk: ["я відкриваю", "ти відкриваєш", "він / вона відкриває; on: ми відкриваємо", "ми відкриваємо", "ви відкриваєте", "вони відкривають"] } },
+                ],
+            },
+            {
+                id: "re",
+                title: { en: "-re verbs (vendre)", uk: "Дієслова на -re (vendre)" },
+                rules: [
+                    { en: "Stem + -s, -s, (nothing), -ons, -ez, -ent: « il vend » has no ending at all. Also: attendre, répondre, entendre, perdre, descendre.",
+                      uk: "Основа + -s, -s, (нічого), -ons, -ez, -ent: « il vend » зовсім без закінчення. Так само: attendre, répondre, entendre, perdre, descendre." },
+                    { en: "The d is silent in the singular [vɑ̃] and comes back in the plural [vɑ̃d]: « il vend » vs « ils vendent ».",
+                      uk: "В однині d не вимовляється [vɑ̃], а в множині повертається [vɑ̃d]: « il vend » і « ils vendent »." },
+                    { en: "« prendre » (and apprendre, comprendre) is irregular in the plural: nous prenons, vous prenez, ils prennent.",
+                      uk: "« prendre » (а також apprendre, comprendre) неправильне в множині: nous prenons, vous prenez, ils prennent." },
+                ],
+                tables: [
+                    { verb: "vendre", gloss: { en: "to sell", uk: "продавати" },
+                      forms: ["vends", "vends", "vend", "vendons", "vendez", "vendent"],
+                      endings: ["s", "s", "", "ons", "ez", "ent"],
+                      ipa: ["ʒə vɑ̃", "ty vɑ̃", "il vɑ̃", "nu vɑ̃dɔ̃", "vu vɑ̃de", "il vɑ̃d"],
+                      meaning: { en: ["I sell", "you sell", "he / she sells; on: we sell", "we sell", "you sell", "they sell"],
+                                 uk: ["я продаю", "ти продаєш", "він / вона продає; on: ми продаємо", "ми продаємо", "ви продаєте", "вони продають"] } },
+                ],
+            },
+            {
+                id: "aller-faire",
+                title: { en: "Aller and faire", uk: "Aller та faire" },
+                rules: [
+                    { en: "Two more everyday irregulars. « aller » ends in -er but follows no pattern.",
+                      uk: "Ще два щоденні неправильні дієслова. « aller » закінчується на -er, але не відмінюється за жодним зразком." },
+                    { en: "« aller » + an infinitive is the near future: « je vais manger » (I'm going to eat).",
+                      uk: "« aller » + інфінітив — найближчий майбутній час: « je vais manger » (я збираюся їсти)." },
+                    { en: "« nous faisons » is said [fəzɔ̃], as if spelled « fesons ».",
+                      uk: "« nous faisons » вимовляють [fəzɔ̃], ніби пишеться « fesons »." },
+                    { en: "Québec, casual speech: « je vais » is often « je vas » [ʒva], and before an infinitive it can shrink to « m'as »: « m'as manger » = « je vais manger ». Write « je vais ».",
+                      uk: "Квебек, розмовне мовлення: « je vais » часто звучить як « je vas » [ʒva], а перед інфінітивом може скорочуватися до « m'as »: « m'as manger » = « je vais manger ». Пишіть « je vais »." },
+                ],
+                tables: [
+                    { verb: "aller", gloss: { en: "to go", uk: "іти, їхати" },
+                      forms: ["vais", "vas", "va", "allons", "allez", "vont"],
+                      ipa: ["ʒə vɛ", "ty va", "il va", "nu z‿alɔ̃", "vu z‿ale", "il vɔ̃"],
+                      meaning: { en: ["I go", "you go", "he / she goes; on: we go", "we go", "you go", "they go"],
+                                 uk: ["я йду", "ти йдеш", "він / вона йде; on: ми йдемо", "ми йдемо", "ви йдете", "вони йдуть"] } },
+                    { verb: "faire", gloss: { en: "to do, to make", uk: "робити" },
+                      forms: ["fais", "fais", "fait", "faisons", "faites", "font"],
+                      ipa: ["ʒə fɛ", "ty fɛ", "il fɛ", "nu fəzɔ̃", "vu fɛt", "il fɔ̃"],
+                      meaning: { en: ["I do", "you do", "he / she does; on: we do", "we do", "you do", "they do"],
+                                 uk: ["я роблю", "ти робиш", "він / вона робить; on: ми робимо", "ми робимо", "ви робите", "вони роблять"] } },
+                ],
+            },
+        ];
+
+        // The regular endings side by side, for the overview in the first section.
+        const OVERVIEW = [
+            { head: "-er (parler)", endings: ["-e", "-es", "-e", "-ons", "-ez", "-ent"] },
+            { head: "-ir (finir)", endings: ["-is", "-is", "-it", "-issons", "-issez", "-issent"] },
+            { head: "-ir (partir)", endings: ["-s", "-s", "-t", "-ons", "-ez", "-ent"] },
+            { head: "-re (vendre)", endings: ["-s", "-s", "—", "-ons", "-ez", "-ent"] },
+        ];
+
+        const esc = i18nEscape;
+        const content = (value, tag = "span") => `<${tag} ${contentAttrs(value)}></${tag}>`;
+        const sayable = (text, html = esc(text)) => `<span class="say" lang="fr" tabindex="0" role="button" data-i18n-attr="title:hear" data-say="${esc(text)}">${html}</span>`;
+
+        // "je" + "aime" → "j'aime"; the shown pronoun keeps every option (il/elle/on), the spoken one just the first.
+        function withPronoun(pronoun, form) {
+            const elide = pronoun === "je" && /^[aeiouéèêh]/i.test(form);
+            const join = p => (elide ? "j'" : p + " ");
+            return { shown: join(pronoun), spoken: join(pronoun.split("/")[0]) + form };
+        }
+
+        function verbTable(table) {
+            const rows = table.forms.map((form, i) => {
+                const { shown, spoken } = withPronoun(PRONOUNS[i], form);
+                const ending = table.endings?.[i];
+                const formHtml = ending ? esc(form.slice(0, -ending.length)) + `<span class="ending">${esc(ending)}</span>` : esc(form);
+                return `<tr>
+                    <td>${sayable(spoken, esc(shown) + formHtml)}</td>
+                    <td class="ipa">[${esc(table.ipa[i])}]</td>
+                    <td>${content({ en: table.meaning.en[i], uk: table.meaning.uk[i] })}</td>
+                </tr>`;
+            }).join("");
+            return `<div class="table-container verb-table"><table class="table is-striped is-fullwidth">
+                <caption>${sayable(table.verb)} — ${content(table.gloss)}</caption>
+                <thead><tr><th data-i18n="form"></th><th data-i18n="sound"></th><th data-i18n="meaning"></th></tr></thead>
+                <tbody>${rows}</tbody></table></div>`;
+        }
+
+        function overviewTable() {
+            const rows = PRONOUNS.map((pronoun, i) =>
+                `<tr><th lang="fr">${esc(pronoun)}</th>${OVERVIEW.map(g => `<td class="ending" lang="fr">${esc(g.endings[i])}</td>`).join("")}</tr>`).join("");
+            return `<div class="table-container verb-table"><table class="table is-bordered is-fullwidth">
+                <thead><tr><th data-i18n="person"></th>${OVERVIEW.map(g => `<th lang="fr">${esc(g.head)}</th>`).join("")}</tr></thead>
+                <tbody>${rows}</tbody></table></div>`;
+        }
+
+        function changesTable(changes) {
+            const rows = changes.rows.map(r => `<tr>
+                <td>${sayable(r.verb)}</td><td>${sayable(r.je)}</td><td>${sayable(r.nous)}</td><td>${content(r.why)}</td>
+            </tr>`).join("");
+            return `<h3 class="title is-5 mt-5">${content(changes.title)}</h3>
+                <p>${content(changes.rule)}</p>
+                <div class="table-container verb-table"><table class="table is-striped is-fullwidth">
+                <thead><tr><th data-i18n="verb"></th><th lang="fr">je</th><th lang="fr">nous</th><th data-i18n="why"></th></tr></thead>
+                <tbody>${rows}</tbody></table></div>`;
+        }
+
+        const sections = document.getElementById("sections");
+        sections.innerHTML = SECTIONS.map(s => `<section class="section-block" id="${s.id}">
+            <h2 class="title is-4">${content(s.title)}</h2>
+            <ul class="rules">${s.rules.map(r => content(r, "li")).join("")}</ul>
+            ${s.overview ? overviewTable() : ""}
+            ${(s.tables || []).map(verbTable).join("")}
+            ${s.changes ? changesTable(s.changes) : ""}
+        </section>`).join("");
+        document.getElementById("toc").innerHTML = SECTIONS.map(s => `<a href="#${s.id}" ${contentAttrs(s.title)}></a>`).join(" ");
+
+        // --- Speech: click (or Enter on) a French form to hear it ---
+        let frenchVoice = null;
+        function pickVoice() {
+            const voices = speechSynthesis.getVoices().filter(v => v.lang.toLowerCase().startsWith("fr"));
+            const ca = voices.filter(v => v.lang.toLowerCase() === "fr-ca");
+            frenchVoice = ca.find(v => v.localService) || ca[0] || voices.find(v => v.localService) || voices[0] || null;
+        }
+        if ("speechSynthesis" in window) {
+            pickVoice();
+            speechSynthesis.addEventListener("voiceschanged", pickVoice);
+        }
+
+        // Chrome can drop an utterance that nothing references before it's spoken, so keep the current one.
+        let currentUtterance = null;
+        function speak(text) {
+            if (!("speechSynthesis" in window)) return;
+            speechSynthesis.cancel();
+            currentUtterance = new SpeechSynthesisUtterance(text);
+            currentUtterance.lang = frenchVoice ? frenchVoice.lang : "fr-CA";
+            if (frenchVoice) currentUtterance.voice = frenchVoice;
+            currentUtterance.rate = 0.9;
+            speechSynthesis.speak(currentUtterance);
+        }
+
+        sections.addEventListener("click", event => {
+            const target = event.target.closest(".say");
+            if (target) speak(target.dataset.say);
+        });
+        sections.addEventListener("keydown", event => {
+            const target = event.target.closest(".say");
+            if (target && (event.key === "Enter" || event.key === " ")) {
+                event.preventDefault();
+                speak(target.dataset.say);
+            }
+        });
+    </script>
+</body>
+</html>

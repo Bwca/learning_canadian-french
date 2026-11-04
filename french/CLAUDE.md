@@ -22,7 +22,7 @@ This launches a non-headless Chromium via Puppeteer, uses the Web Speech API (`f
 
 **Windows only.** It captures audio via `getUserMedia({ chromeMediaSource: 'system' })`, a Windows-specific Chrome loopback-capture path that doesn't work on macOS/Linux. It also depends on Windows having `fr-CA` and `en-US` text-to-speech voices installed (Settings → Time & Language → Speech → Manage voices) — see README.md's pronunciation-generator section for the full requirements list.
 
-`audio-drill.html`, `vocab-quiz.html`, `translation-drill.html`, and `reading-trainer.html` have no build step; open them directly in a browser. The first two load a `.txt` file from `anki-words/`; `translation-drill.html` loads a `.json` file from `grammar-exercises/translation-drills/<level>/<topic>/`; `reading-trainer.html` loads one from `reading-exercises/<level>/<topic>/`.
+`audio-drill.html`, `vocab-quiz.html`, `translation-drill.html`, and `reading-trainer.html` have no build step; open them directly in a browser. The first two load a `.txt` file from `anki-words/`; `translation-drill.html` loads a `.json` file from `grammar-exercises/translation-drills/<level>/<topic>/`; `reading-trainer.html` loads one from `reading-exercises/<level>/<topic>/`. `grammar-tables.html` is a static reference page (present-tense conjugation tables with rules, IPA and Québec notes); its content lives in the page's `SECTIONS` data, not in content files, so add a verb or section there.
 
 The pages load the shared picker from `../library.js`, and are published to GitHub Pages with the generated `manifest.json` (see the root `CLAUDE.md`). `pronunciation-generator/`, `tef-prep/` and the `.md` files are left out of the site.
 
