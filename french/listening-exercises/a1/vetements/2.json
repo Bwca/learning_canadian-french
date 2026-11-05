@@ -1,0 +1,296 @@
+{
+  "title": {
+    "en": "End-of-summer sale",
+    "uk": "Розпродаж наприкінці літа"
+  },
+  "situation": {
+    "en": "You hear an ad for a clothing store on the radio.",
+    "uk": "Ви чуєте по радіо рекламу магазину одягу."
+  },
+  "lines": [
+    {
+      "fr": "C'est la fin de l'été, et chez Mode Côté, sur la rue Saint-Joseph à Québec, tout est en solde!",
+      "en": "It's the end of summer, and at Mode Côté, on rue Saint-Joseph in Québec City, everything is on sale!",
+      "uk": "Кінець літа, і в «Мод Коте» на вулиці Сен-Жозеф у Квебеку все зі знижкою!"
+    },
+    {
+      "fr": "Pour hommes et femmes : les maillots de bain — ou costumes de bain, comme on dit ici — sont à vingt dollars.",
+      "en": "For men and women: swimsuits — or “costumes de bain”, as we say here — are twenty dollars.",
+      "uk": "Для чоловіків і жінок: купальники й плавки — або «костюм де бен», як кажуть тут, — по двадцять доларів."
+    },
+    {
+      "fr": "Les sandales et les tennis : moins quarante pour cent.",
+      "en": "Sandals and tennis shoes: forty percent off.",
+      "uk": "Сандалі й кеди — мінус сорок відсотків."
+    },
+    {
+      "fr": "Les tee-shirts et les shorts : deux pour vingt-cinq dollars.",
+      "en": "T-shirts and shorts: two for twenty-five dollars.",
+      "uk": "Футболки й шорти — дві речі за двадцять п'ять доларів."
+    },
+    {
+      "fr": "Les lunettes de soleil, les chapeaux et les casquettes : quinze dollars.",
+      "en": "Sunglasses, hats and caps: fifteen dollars.",
+      "uk": "Сонцезахисні окуляри, капелюхи й кепки — п'ятнадцять доларів."
+    },
+    {
+      "fr": "Pour femmes : les robes, les jupes et les chemisiers sont à moitié prix.",
+      "en": "For women: dresses, skirts and blouses are half price.",
+      "uk": "Для жінок: сукні, спідниці й блузки за пів ціни."
+    },
+    {
+      "fr": "Pour hommes : un costume à deux cents dollars, avec une cravate gratuite!",
+      "en": "For men: a suit for two hundred dollars, with a free tie!",
+      "uk": "Для чоловіків: костюм за двісті доларів і краватка в подарунок!"
+    },
+    {
+      "fr": "Et la collection d'automne est déjà là : imperméables, blousons et pulls.",
+      "en": "And the fall collection is already here: raincoats, jackets and sweaters.",
+      "uk": "А осіння колекція вже тут: плащі, куртки й светри."
+    },
+    {
+      "fr": "Nous sommes ouverts du lundi au samedi, de dix heures à vingt et une heures, et le dimanche, de midi à dix-sept heures.",
+      "en": "We're open Monday to Saturday, from ten a.m. to nine p.m., and on Sundays, from noon to five p.m.",
+      "uk": "Ми працюємо з понеділка до суботи з десятої до двадцять першої, а в неділю — з полудня до сімнадцятої."
+    },
+    {
+      "fr": "Stationnement gratuit derrière le magasin. Mode Côté : la mode à petit prix!",
+      "en": "Free parking behind the store. Mode Côté: fashion at low prices!",
+      "uk": "Безкоштовна парковка за магазином. «Мод Коте» — мода за низькими цінами!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "How much are the swimsuits?",
+        "uk": "Скільки коштують купальники?"
+      },
+      "options": [
+        {
+          "en": "$15",
+          "uk": "15 $"
+        },
+        {
+          "en": "$20",
+          "uk": "20 $"
+        },
+        {
+          "en": "$25",
+          "uk": "25 $"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What is the deal on T-shirts and shorts?",
+        "uk": "Яка пропозиція на футболки й шорти?"
+      },
+      "options": [
+        {
+          "en": "Two for $25",
+          "uk": "Дві речі за 25 $"
+        },
+        {
+          "en": "40% off",
+          "uk": "Мінус 40 %"
+        },
+        {
+          "en": "Half price",
+          "uk": "За пів ціни"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What do you get free with a suit?",
+        "uk": "Що дають безкоштовно до костюма?"
+      },
+      "options": [
+        {
+          "en": "A belt",
+          "uk": "Пасок"
+        },
+        {
+          "en": "A shirt",
+          "uk": "Сорочку"
+        },
+        {
+          "en": "A tie",
+          "uk": "Краватку"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "When does the store close on Sundays?",
+        "uk": "О котрій магазин зачиняється в неділю?"
+      },
+      "options": [
+        {
+          "en": "5 p.m.",
+          "uk": "О 17:00"
+        },
+        {
+          "en": "9 p.m.",
+          "uk": "О 21:00"
+        },
+        {
+          "en": "Noon",
+          "uk": "Опівдні"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "Where is the free parking?",
+        "uk": "Де безкоштовна парковка?"
+      },
+      "options": [
+        {
+          "en": "In front of the store",
+          "uk": "Перед магазином"
+        },
+        {
+          "en": "On rue Saint-Joseph",
+          "uk": "На вулиці Сен-Жозеф"
+        },
+        {
+          "en": "Behind the store",
+          "uk": "За магазином"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "en solde",
+      "en": "on sale",
+      "uk": "зі знижкою, на розпродажі"
+    },
+    {
+      "fr": "pour hommes et femmes",
+      "en": "for men and women",
+      "uk": "для чоловіків і жінок"
+    },
+    {
+      "fr": "un maillot de bain",
+      "en": "a swimsuit (Québec: un costume de bain)",
+      "uk": "купальник, плавки (у Квебеку: un costume de bain)"
+    },
+    {
+      "fr": "un costume de bain",
+      "en": "a swimsuit (Québec; France: un maillot de bain)",
+      "uk": "купальник, плавки (у Квебеку; у Франції: un maillot de bain)"
+    },
+    {
+      "fr": "des sandales / une sandale",
+      "en": "sandals / a sandal",
+      "uk": "сандалі / сандаля"
+    },
+    {
+      "fr": "des tennis / un tennis",
+      "en": "tennis shoes (Québec: des espadrilles)",
+      "uk": "кеди, тенісні кросівки (у Квебеку: des espadrilles)"
+    },
+    {
+      "fr": "un tee-shirt",
+      "en": "a T-shirt",
+      "uk": "футболка"
+    },
+    {
+      "fr": "un short",
+      "en": "shorts",
+      "uk": "шорти"
+    },
+    {
+      "fr": "des lunettes de soleil",
+      "en": "sunglasses",
+      "uk": "сонцезахисні окуляри"
+    },
+    {
+      "fr": "un chapeau",
+      "en": "a hat",
+      "uk": "капелюх"
+    },
+    {
+      "fr": "une casquette",
+      "en": "a cap",
+      "uk": "кепка"
+    },
+    {
+      "fr": "pour femmes",
+      "en": "for women",
+      "uk": "для жінок"
+    },
+    {
+      "fr": "une robe",
+      "en": "a dress",
+      "uk": "сукня"
+    },
+    {
+      "fr": "une jupe",
+      "en": "a skirt",
+      "uk": "спідниця"
+    },
+    {
+      "fr": "un chemisier",
+      "en": "a blouse",
+      "uk": "блузка"
+    },
+    {
+      "fr": "pour hommes",
+      "en": "for men",
+      "uk": "для чоловіків"
+    },
+    {
+      "fr": "un costume",
+      "en": "a suit",
+      "uk": "костюм"
+    },
+    {
+      "fr": "une cravate",
+      "en": "a tie",
+      "uk": "краватка"
+    },
+    {
+      "fr": "un imper / un imperméable",
+      "en": "a raincoat",
+      "uk": "плащ, дощовик"
+    },
+    {
+      "fr": "un blouson",
+      "en": "a jacket (short, casual)",
+      "uk": "куртка"
+    },
+    {
+      "fr": "un pull",
+      "en": "a sweater (Québec: un chandail)",
+      "uk": "светр (у Квебеку: un chandail)"
+    },
+    {
+      "fr": "les soldes (m.)",
+      "en": "the sales",
+      "uk": "розпродаж"
+    },
+    {
+      "fr": "à moitié prix",
+      "en": "half price",
+      "uk": "за пів ціни"
+    },
+    {
+      "fr": "gratuit / gratuite",
+      "en": "free (no cost)",
+      "uk": "безкоштовний / безкоштовна"
+    },
+    {
+      "fr": "le stationnement",
+      "en": "parking (Québec)",
+      "uk": "паркування, парковка (у Квебеку)"
+    }
+  ]
+}

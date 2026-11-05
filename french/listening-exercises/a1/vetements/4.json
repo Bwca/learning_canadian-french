@@ -1,0 +1,251 @@
+{
+  "title": {
+    "en": "A voicemail about presents",
+    "uk": "Голосове повідомлення про подарунки"
+  },
+  "situation": {
+    "en": "You hear a voicemail from Camille's aunt Claire.",
+    "uk": "Ви чуєте голосове повідомлення від тітки Камій, Клер."
+  },
+  "lines": [
+    {
+      "fr": "Salut Camille, c'est tante Claire. Je suis au centre d'achats, et je magasine pour les cadeaux de la famille.",
+      "en": "Hi Camille, it's Aunt Claire. I'm at the mall, shopping for the family's presents.",
+      "uk": "Привіт, Камій, це тітка Клер. Я в торговому центрі, вибираю подарунки для родини."
+    },
+    {
+      "fr": "Pour ton père, qui a cinquante ans dimanche, je vais acheter une cravate et une ceinture.",
+      "en": "For your father, who turns fifty on Sunday, I'm going to buy a tie and a belt.",
+      "uk": "Твоєму татові, якому в неділю п'ятдесят, я куплю краватку й пасок."
+    },
+    {
+      "fr": "Pour ta grand-mère, un foulard en laine : elle a toujours froid!",
+      "en": "For your grandmother, a wool scarf: she's always cold!",
+      "uk": "Бабусі — вовняний шарф: їй завжди холодно!"
+    },
+    {
+      "fr": "Pour ta petite cousine Élodie, qui a dix ans, un maillot de bain. Elle adore la piscine.",
+      "en": "For your little cousin Élodie, who is ten, a swimsuit. She loves the pool.",
+      "uk": "Твоїй маленькій двоюрідній сестрі Елоді, якій десять, — купальник. Вона обожнює басейн."
+    },
+    {
+      "fr": "Pour ton frère Guillaume, des baskets… euh, des espadrilles, comme on dit ici. Mais quelle est sa pointure? Quarante-quatre ou quarante-cinq?",
+      "en": "For your brother Guillaume, “baskets”… um, sneakers, as we say here. But what's his shoe size? Forty-four or forty-five?",
+      "uk": "Твоєму братові Гійому — «баскет»… тобто кросівки, як кажуть тут. Але який у нього розмір? Сорок четвертий чи сорок п'ятий?"
+    },
+    {
+      "fr": "Et pour toi, c'est une surprise! Un indice : c'est pour l'été, et c'est pour tes yeux.",
+      "en": "And for you, it's a surprise! A clue: it's for summer, and it's for your eyes.",
+      "uk": "А для тебе — сюрприз! Підказка: це на літо, і це для очей."
+    },
+    {
+      "fr": "Rappelle-moi avant dix-sept heures, s'il te plaît : le magasin ferme à dix-huit heures.",
+      "en": "Call me back before five p.m., please: the store closes at six.",
+      "uk": "Передзвони мені, будь ласка, до сімнадцятої: магазин зачиняється о вісімнадцятій."
+    },
+    {
+      "fr": "Et dimanche, je mets ma robe verte pour la fête. Joyeux anniversaire à ton père! Bisous!",
+      "en": "And on Sunday, I'm wearing my green dress for the party. Happy birthday to your father! Love!",
+      "uk": "А в неділю я вдягну на свято зелену сукню. З днем народження твого тата! Цілую!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "How old is Camille's father turning?",
+        "uk": "Скільки років виповнюється татові Камій?"
+      },
+      "options": [
+        {
+          "en": "40",
+          "uk": "40"
+        },
+        {
+          "en": "15",
+          "uk": "15"
+        },
+        {
+          "en": "50",
+          "uk": "50"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What will the grandmother get?",
+        "uk": "Що отримає бабуся?"
+      },
+      "options": [
+        {
+          "en": "A wool scarf",
+          "uk": "Вовняний шарф"
+        },
+        {
+          "en": "A belt",
+          "uk": "Пасок"
+        },
+        {
+          "en": "A green dress",
+          "uk": "Зелену сукню"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What doesn't Claire know?",
+        "uk": "Чого не знає Клер?"
+      },
+      "options": [
+        {
+          "en": "Élodie's age",
+          "uk": "Скільки років Елоді"
+        },
+        {
+          "en": "Guillaume's shoe size",
+          "uk": "Розмір взуття Гійома"
+        },
+        {
+          "en": "When the party is",
+          "uk": "Коли свято"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What is Camille's surprise probably?",
+        "uk": "Що, найімовірніше, Камій отримає в подарунок?"
+      },
+      "options": [
+        {
+          "en": "A swimsuit",
+          "uk": "Купальник"
+        },
+        {
+          "en": "Sunglasses",
+          "uk": "Сонцезахисні окуляри"
+        },
+        {
+          "en": "Sneakers",
+          "uk": "Кросівки"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "By what time should Camille call back?",
+        "uk": "До котрої Камій має передзвонити?"
+      },
+      "options": [
+        {
+          "en": "5 p.m.",
+          "uk": "До 17:00"
+        },
+        {
+          "en": "6 p.m.",
+          "uk": "До 18:00"
+        },
+        {
+          "en": "7 p.m.",
+          "uk": "До 19:00"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "un centre d'achats",
+      "en": "a shopping mall (Québec)",
+      "uk": "торговий центр (у Квебеку)"
+    },
+    {
+      "fr": "magasiner",
+      "en": "to go shopping (Québec)",
+      "uk": "ходити по магазинах (у Квебеку)"
+    },
+    {
+      "fr": "des cadeaux",
+      "en": "presents (-eau becomes -eaux)",
+      "uk": "подарунки (-eau стає -eaux)"
+    },
+    {
+      "fr": "une cravate",
+      "en": "a tie",
+      "uk": "краватка"
+    },
+    {
+      "fr": "une ceinture",
+      "en": "a belt",
+      "uk": "пасок"
+    },
+    {
+      "fr": "un foulard",
+      "en": "a scarf (Québec; France: une écharpe)",
+      "uk": "шарф (у Квебеку; у Франції: une écharpe)"
+    },
+    {
+      "fr": "un maillot de bain",
+      "en": "a swimsuit (Québec: un costume de bain)",
+      "uk": "купальник, плавки (у Квебеку: un costume de bain)"
+    },
+    {
+      "fr": "des baskets / un basket",
+      "en": "sneakers, high-tops (Québec: des espadrilles)",
+      "uk": "кросівки (у Квебеку: des espadrilles)"
+    },
+    {
+      "fr": "des espadrilles (f.)",
+      "en": "sneakers (Québec; France: des baskets)",
+      "uk": "кросівки (у Квебеку; у Франції: des baskets)"
+    },
+    {
+      "fr": "la pointure",
+      "en": "the shoe size",
+      "uk": "розмір взуття"
+    },
+    {
+      "fr": "des lunettes de soleil",
+      "en": "sunglasses",
+      "uk": "сонцезахисні окуляри"
+    },
+    {
+      "fr": "une robe",
+      "en": "a dress",
+      "uk": "сукня"
+    },
+    {
+      "fr": "joyeux anniversaire !",
+      "en": "happy birthday!",
+      "uk": "з днем народження!"
+    },
+    {
+      "fr": "la tante",
+      "en": "the aunt",
+      "uk": "тітка"
+    },
+    {
+      "fr": "la laine",
+      "en": "wool",
+      "uk": "вовна"
+    },
+    {
+      "fr": "l'indice (m.)",
+      "en": "the clue, the hint",
+      "uk": "підказка"
+    },
+    {
+      "fr": "rappeler",
+      "en": "to call back",
+      "uk": "передзвонити"
+    },
+    {
+      "fr": "les bisous (m.)",
+      "en": "kisses, love (end of a message)",
+      "uk": "цілую (наприкінці повідомлення)"
+    }
+  ]
+}

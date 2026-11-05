@@ -1,0 +1,153 @@
+{
+ "title": {
+  "en": "Clothes 3: porter and mettre",
+  "uk": "Одяг 3: porter і mettre"
+ },
+ "exercises": [
+  {
+   "en": "It's cold. I'm putting on a sweater.",
+   "uk": "Холодно. Я вдягаю светр.",
+   "fr": "Il fait froid. Je mets un pull.",
+   "vocab": [
+    {
+     "fr": "je mets",
+     "en": "I put on",
+     "uk": "я вдягаю"
+    }
+   ]
+  },
+  {
+   "en": "What are you going to wear tomorrow? (informal)",
+   "uk": "Що ти вдягнеш завтра?",
+   "fr": "Qu'est-ce que tu vas porter demain?",
+   "vocab": [
+    {
+     "fr": "porter",
+     "en": "to wear",
+     "uk": "носити, бути вдягненим у"
+    }
+   ]
+  },
+  {
+   "en": "Tomorrow I'm going to wear my jeans and a polo shirt.",
+   "uk": "Завтра я вдягну джинси й поло.",
+   "fr": "Demain, je vais porter mon jean et un polo.",
+   "vocab": [
+    {
+     "fr": "un jean",
+     "en": "jeans",
+     "uk": "джинси"
+    },
+    {
+     "fr": "un polo",
+     "en": "a polo shirt",
+     "uk": "футболка-поло"
+    }
+   ]
+  },
+  {
+   "en": "We put on our coats.",
+   "uk": "Ми вдягаємо пальта.",
+   "fr": "Nous mettons nos manteaux.",
+   "vocab": [
+    {
+     "fr": "nous mettons",
+     "en": "we put on",
+     "uk": "ми вдягаємо"
+    }
+   ]
+  },
+  {
+   "en": "Are you putting on a raincoat? (formal)",
+   "uk": "Ви вдягаєте плащ?",
+   "fr": "Est-ce que vous mettez un imperméable?",
+   "vocab": [
+    {
+     "fr": "vous mettez",
+     "en": "you put on (plural or formal)",
+     "uk": "ви вдягаєте"
+    },
+    {
+     "fr": "un imper / un imperméable",
+     "en": "a raincoat",
+     "uk": "плащ, дощовик"
+    }
+   ]
+  },
+  {
+   "en": "The children are putting on their boots.",
+   "uk": "Діти взувають чоботи.",
+   "fr": "Les enfants mettent leurs bottes.",
+   "vocab": [
+    {
+     "fr": "ils mettent",
+     "en": "they put on",
+     "uk": "вони вдягають"
+    },
+    {
+     "fr": "des bottes",
+     "en": "boots",
+     "uk": "чоботи"
+    }
+   ]
+  },
+  {
+   "en": "She always wears a hat in summer.",
+   "uk": "Улітку вона завжди носить капелюх.",
+   "fr": "Elle porte toujours un chapeau en été.",
+   "vocab": [
+    {
+     "fr": "en été",
+     "en": "in summer",
+     "uk": "улітку"
+    }
+   ]
+  },
+  {
+   "en": "Oh dear, it's cold! Put on your scarf! (informal)",
+   "uk": "Ой-ой, холодно! Вдягни шарф!",
+   "fr": "Oh là là, il fait froid! Mets ton foulard!",
+   "vocab": [
+    {
+     "fr": "oh là là",
+     "en": "oh dear",
+     "uk": "ой-ой"
+    },
+    {
+     "fr": "mets…",
+     "en": "put on… (informal command)",
+     "uk": "вдягни…"
+    },
+    {
+     "fr": "un foulard",
+     "en": "a scarf (Québec; France: une écharpe)",
+     "uk": "шарф (у Квебеку; у Франції: une écharpe)"
+    }
+   ]
+  },
+  {
+   "en": "He puts on a tie for work.",
+   "uk": "Він вдягає краватку на роботу.",
+   "fr": "Il met une cravate pour le travail.",
+   "vocab": [
+    {
+     "fr": "il met",
+     "en": "he puts on",
+     "uk": "він вдягає"
+    }
+   ]
+  },
+  {
+   "en": "You're wearing a nice shirt today. (informal)",
+   "uk": "Ти сьогодні в гарній сорочці.",
+   "fr": "Tu portes une belle chemise aujourd'hui.",
+   "vocab": [
+    {
+     "fr": "beau / belle",
+     "en": "beautiful, nice",
+     "uk": "гарний / гарна"
+    }
+   ]
+  }
+ ]
+}

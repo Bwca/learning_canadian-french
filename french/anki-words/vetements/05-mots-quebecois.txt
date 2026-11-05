@@ -1,0 +1,17 @@
+une tuque	a winter hat, a toque (Québec)	[sound:a-winter-hat-a-toque-quebec.webm]	/yn tyk/	в'язана шапка (у Квебеку)
+des mitaines (f.)	mittens (Québec; France: des moufles)	[sound:mittens-quebec-france-des-moufles.webm]	/de mitɛn/	рукавиці-однопалки (у Квебеку; у Франції: des moufles)
+des gants (m.)	gloves	[sound:gloves.webm]	/de ɡɑ̃/	рукавички
+un foulard	a scarf (Québec; France: une écharpe)	[sound:a-scarf-quebec-france-une-echarpe.webm]	/œ̃ fulaʁ/	шарф (у Квебеку; у Франції: une écharpe)
+un manteau d'hiver	a winter coat	[sound:a-winter-coat.webm]	/œ̃ mɑ̃to divɛʁ/	зимове пальто, зимова куртка
+des bottes d'hiver	winter boots	[sound:winter-boots.webm]	/de bɔt divɛʁ/	зимові чоботи
+un habit de neige	a snowsuit (Québec)	[sound:a-snowsuit-quebec.webm]	/œ̃n‿abi də nɛʒ/	зимовий комбінезон (у Квебеку)
+des combines (f.)	long underwear (Québec)	[sound:long-underwear-quebec.webm]	/de kɔ̃bin/	термобілизна (у Квебеку)
+un chandail	a sweater, a top (Québec; France: un pull)	[sound:a-sweater-a-top-quebec-france-un-pull.webm]	/œ̃ ʃɑ̃daj/	светр, кофта (у Квебеку; у Франції: un pull)
+un coton ouaté	a sweatshirt (Québec; France: un sweat)	[sound:a-sweatshirt-quebec-france-un-sweat.webm]	/œ̃ kɔtɔ̃ wate/	світшот (у Квебеку; у Франції: un sweat)
+un kangourou	a hoodie (Québec)	[sound:a-hoodie-quebec.webm]	/œ̃ kɑ̃ɡuʁu/	худі (у Квебеку)
+une camisole	a tank top (Québec)	[sound:a-tank-top-quebec.webm]	/yn kamizɔl/	майка (у Квебеку)
+des bas (m.)	socks (Québec; France: des chaussettes)	[sound:socks-quebec-france-des-chaussettes.webm]	/de ba/	шкарпетки (у Квебеку; у Франції: des chaussettes)
+des souliers (m.)	shoes (Québec; France: des chaussures)	[sound:shoes-quebec-france-des-chaussures.webm]	/de sulje/	черевики, взуття (у Квебеку; у Франції: des chaussures)
+des espadrilles (f.)	sneakers (Québec; France: des baskets)	[sound:sneakers-quebec-france-des-baskets.webm]	/dez‿ɛspadʁij/	кросівки (у Квебеку; у Франції: des baskets)
+un costume de bain	a swimsuit (Québec; France: un maillot de bain)	[sound:a-swimsuit-quebec-france-un-maillot-de-bain.webm]	/œ̃ kɔstym də bɛ̃/	купальник, плавки (у Квебеку; у Франції: un maillot de bain)
+des pantoufles (f.)	slippers	[sound:slippers.webm]	/de pɑ̃tufl/	капці

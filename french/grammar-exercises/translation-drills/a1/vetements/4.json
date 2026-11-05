@@ -1,0 +1,148 @@
+{
+ "title": {
+  "en": "Clothes 4: shoes, sportswear and accessories",
+  "uk": "Одяг 4: взуття, спортивний одяг і аксесуари"
+ },
+ "exercises": [
+  {
+   "en": "I need new shoes.",
+   "uk": "Мені потрібне нове взуття.",
+   "fr": "J'ai besoin de nouvelles chaussures.",
+   "vocab": [
+    {
+     "fr": "des chaussures",
+     "en": "shoes (Québec: des souliers)",
+     "uk": "взуття, черевики (у Квебеку: des souliers)"
+    }
+   ]
+  },
+  {
+   "en": "What's your shoe size? (informal)",
+   "uk": "Який у тебе розмір взуття?",
+   "fr": "Quelle est ta pointure?",
+   "vocab": [
+    {
+     "fr": "la pointure",
+     "en": "the shoe size",
+     "uk": "розмір взуття"
+    }
+   ]
+  },
+  {
+   "en": "In summer, I wear sandals.",
+   "uk": "Улітку я ношу сандалі.",
+   "fr": "En été, je porte des sandales.",
+   "vocab": [
+    {
+     "fr": "des sandales",
+     "en": "sandals",
+     "uk": "сандалі"
+    }
+   ]
+  },
+  {
+   "en": "These boots cost one hundred and twenty dollars.",
+   "uk": "Ці чоботи коштують сто двадцять доларів.",
+   "fr": "Ces bottes coûtent cent vingt dollars.",
+   "vocab": [
+    {
+     "fr": "ces",
+     "en": "these",
+     "uk": "ці"
+    }
+   ]
+  },
+  {
+   "en": "For sports, he wears a T-shirt, shorts and sneakers.",
+   "uk": "Для спорту він вдягає футболку, шорти й кросівки.",
+   "fr": "Pour le sport, il porte un tee-shirt, un short et des baskets.",
+   "vocab": [
+    {
+     "fr": "un tee-shirt",
+     "en": "a T-shirt",
+     "uk": "футболка"
+    },
+    {
+     "fr": "un short",
+     "en": "shorts",
+     "uk": "шорти"
+    },
+    {
+     "fr": "des baskets",
+     "en": "sneakers (Québec: des espadrilles)",
+     "uk": "кросівки (у Квебеку: des espadrilles)"
+    }
+   ]
+  },
+  {
+   "en": "My tracksuit is blue.",
+   "uk": "Мій спортивний костюм синій.",
+   "fr": "Mon survêtement est bleu.",
+   "vocab": [
+    {
+     "fr": "un survêtement",
+     "en": "a tracksuit",
+     "uk": "спортивний костюм"
+    }
+   ]
+  },
+  {
+   "en": "I'm going to the beach. Where is my swimsuit?",
+   "uk": "Я йду на пляж. Де мій купальник?",
+   "fr": "Je vais à la plage. Où est mon maillot de bain?",
+   "vocab": [
+    {
+     "fr": "un maillot de bain",
+     "en": "a swimsuit (Québec: un costume de bain)",
+     "uk": "купальник, плавки (у Квебеку: un costume de bain)"
+    }
+   ]
+  },
+  {
+   "en": "It's sunny, I'm going to put on sunglasses.",
+   "uk": "Сонячно, я вдягну сонцезахисні окуляри.",
+   "fr": "Il fait soleil, je vais mettre des lunettes de soleil.",
+   "vocab": [
+    {
+     "fr": "il fait soleil",
+     "en": "it's sunny",
+     "uk": "сонячно"
+    },
+    {
+     "fr": "des lunettes de soleil",
+     "en": "sunglasses",
+     "uk": "сонцезахисні окуляри"
+    }
+   ]
+  },
+  {
+   "en": "My grandfather doesn't wear glasses.",
+   "uk": "Мій дідусь не носить окулярів.",
+   "fr": "Mon grand-père ne porte pas de lunettes.",
+   "vocab": [
+    {
+     "fr": "des lunettes (f.)",
+     "en": "glasses",
+     "uk": "окуляри"
+    }
+   ]
+  },
+  {
+   "en": "This belt is too small.",
+   "uk": "Цей пасок замалий.",
+   "fr": "Cette ceinture est trop petite.",
+   "vocab": [
+    {
+     "fr": "une ceinture",
+     "en": "a belt",
+     "uk": "пасок"
+    },
+    {
+     "fr": "trop",
+     "en": "too",
+     "uk": "занадто"
+    }
+   ]
+  }
+ ]
+}

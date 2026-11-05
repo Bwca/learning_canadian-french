@@ -1,0 +1,310 @@
+{
+  "title": {
+    "en": "Packing for a ski trip",
+    "uk": "Збираємося в лижну поїздку"
+  },
+  "situation": {
+    "en": "You hear Julien's mother phoning him the night before a school ski trip.",
+    "uk": "Ви чуєте, як мама Жюльєна телефонує йому ввечері перед шкільною лижною поїздкою."
+  },
+  "lines": [
+    {
+      "speaker": "Mère",
+      "fr": "Allô, Julien? Ta valise est prête pour Tremblant?",
+      "en": "Hello, Julien? Is your suitcase ready for Tremblant?",
+      "uk": "Алло, Жюльєне? Валіза до Трамблана готова?"
+    },
+    {
+      "speaker": "Julien",
+      "fr": "Presque. J'ai mon manteau d'hiver, ma tuque et mes mitaines.",
+      "en": "Almost. I have my winter coat, my toque and my mittens.",
+      "uk": "Майже. У мене є зимова куртка, шапка й рукавиці."
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Et ton habit de neige? Il va faire moins vingt-cinq!",
+      "en": "And your snowsuit? It's going to be minus twenty-five!",
+      "uk": "А зимовий комбінезон? Буде мінус двадцять п'ять!"
+    },
+    {
+      "speaker": "Julien",
+      "fr": "Oui, et mes combines aussi. Et trois paires de bas de laine.",
+      "en": "Yes, and my long underwear too. And three pairs of wool socks.",
+      "uk": "Так, і термобілизну теж. І три пари вовняних шкарпеток."
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Bien. Le soir, mets un chandail chaud, et tes pantoufles à l'hôtel.",
+      "en": "Good. In the evening, put on a warm sweater, and your slippers at the hotel.",
+      "uk": "Добре. Увечері вдягай теплий светр, а в готелі — капці."
+    },
+    {
+      "speaker": "Julien",
+      "fr": "Ah non, pas les pantoufles! Je vais mettre mes espadrilles.",
+      "en": "Oh no, not the slippers! I'm going to wear my sneakers.",
+      "uk": "Ой, ні, тільки не капці! Я взую кросівки."
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Bon, d'accord. Est-ce qu'il y a une piscine à l'hôtel?",
+      "en": "Fine, OK. Is there a pool at the hotel?",
+      "uk": "Ну, гаразд. А в готелі є басейн?"
+    },
+    {
+      "speaker": "Julien",
+      "fr": "Oui, une piscine chauffée, dehors!",
+      "en": "Yes, a heated pool, outside!",
+      "uk": "Так, підігрітий басейн просто неба!"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Alors, n'oublie pas ton costume de bain!",
+      "en": "Then don't forget your swimsuit!",
+      "uk": "Тоді не забудь плавки!"
+    },
+    {
+      "speaker": "Julien",
+      "fr": "Oups! Merci, maman. Et samedi soir, il y a une boum… euh, un party.",
+      "en": "Oops! Thanks, Mom. And on Saturday night, there's a “boum”… um, a party.",
+      "uk": "Ой! Дякую, мамо. А в суботу ввечері буде «бум»… тобто вечірка."
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Qu'est-ce que tu vas porter?",
+      "en": "What are you going to wear?",
+      "uk": "Що вдягнеш?"
+    },
+    {
+      "speaker": "Julien",
+      "fr": "Mon jean noir et ma chemise bleue. C'est chic, non?",
+      "en": "My black jeans and my blue shirt. That's smart, isn't it?",
+      "uk": "Чорні джинси й синю сорочку. Стильно, правда?"
+    },
+    {
+      "speaker": "Mère",
+      "fr": "Très chic. Et tes lunettes de soleil, pour le ski!",
+      "en": "Very smart. And your sunglasses, for skiing!",
+      "uk": "Дуже стильно. І сонцезахисні окуляри для лиж!"
+    },
+    {
+      "speaker": "Julien",
+      "fr": "Elles sont dans mon sac. Bonne nuit, maman!",
+      "en": "They're in my bag. Good night, Mom!",
+      "uk": "Вони в моїй сумці. На добраніч, мамо!"
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "What temperature is expected?",
+        "uk": "Яку температуру очікують?"
+      },
+      "options": [
+        {
+          "en": "Minus 15",
+          "uk": "Мінус 15"
+        },
+        {
+          "en": "Minus 25",
+          "uk": "Мінус 25"
+        },
+        {
+          "en": "Minus 5",
+          "uk": "Мінус 5"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "How many pairs of wool socks does Julien pack?",
+        "uk": "Скільки пар вовняних шкарпеток бере Жюльєн?"
+      },
+      "options": [
+        {
+          "en": "Two",
+          "uk": "Дві"
+        },
+        {
+          "en": "Four",
+          "uk": "Чотири"
+        },
+        {
+          "en": "Three",
+          "uk": "Три"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "What will Julien wear at the hotel instead of slippers?",
+        "uk": "Що Жюльєн взуватиме в готелі замість капців?"
+      },
+      "options": [
+        {
+          "en": "Sneakers",
+          "uk": "Кросівки"
+        },
+        {
+          "en": "Winter boots",
+          "uk": "Зимові чоботи"
+        },
+        {
+          "en": "Nothing, just socks",
+          "uk": "Нічого, тільки шкарпетки"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What does Julien almost forget?",
+        "uk": "Що Жюльєн мало не забув?"
+      },
+      "options": [
+        {
+          "en": "His sunglasses",
+          "uk": "Сонцезахисні окуляри"
+        },
+        {
+          "en": "His swimsuit",
+          "uk": "Плавки"
+        },
+        {
+          "en": "His mittens",
+          "uk": "Рукавиці"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What will he wear to the party?",
+        "uk": "Що він вдягне на вечірку?"
+      },
+      "options": [
+        {
+          "en": "Black jeans and a blue shirt",
+          "uk": "Чорні джинси й синю сорочку"
+        },
+        {
+          "en": "Blue jeans and a black shirt",
+          "uk": "Сині джинси й чорну сорочку"
+        },
+        {
+          "en": "A suit and a tie",
+          "uk": "Костюм і краватку"
+        }
+      ],
+      "answer": 0
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "un manteau d'hiver",
+      "en": "a winter coat",
+      "uk": "зимове пальто, зимова куртка"
+    },
+    {
+      "fr": "une tuque",
+      "en": "a winter hat, a toque (Québec)",
+      "uk": "в'язана шапка (у Квебеку)"
+    },
+    {
+      "fr": "des mitaines (f.)",
+      "en": "mittens (Québec; France: des moufles)",
+      "uk": "рукавиці-однопалки (у Квебеку; у Франції: des moufles)"
+    },
+    {
+      "fr": "un habit de neige",
+      "en": "a snowsuit (Québec)",
+      "uk": "зимовий комбінезон (у Квебеку)"
+    },
+    {
+      "fr": "des combines (f.)",
+      "en": "long underwear (Québec)",
+      "uk": "термобілизна (у Квебеку)"
+    },
+    {
+      "fr": "des bas (m.)",
+      "en": "socks (Québec; France: des chaussettes)",
+      "uk": "шкарпетки (у Квебеку; у Франції: des chaussettes)"
+    },
+    {
+      "fr": "un chandail",
+      "en": "a sweater, a top (Québec; France: un pull)",
+      "uk": "светр, кофта (у Квебеку; у Франції: un pull)"
+    },
+    {
+      "fr": "des pantoufles (f.)",
+      "en": "slippers",
+      "uk": "капці"
+    },
+    {
+      "fr": "des espadrilles (f.)",
+      "en": "sneakers (Québec; France: des baskets)",
+      "uk": "кросівки (у Квебеку; у Франції: des baskets)"
+    },
+    {
+      "fr": "un costume de bain",
+      "en": "a swimsuit (Québec; France: un maillot de bain)",
+      "uk": "купальник, плавки (у Квебеку; у Франції: un maillot de bain)"
+    },
+    {
+      "fr": "une boum",
+      "en": "a party (Québec: un party)",
+      "uk": "вечірка (у Квебеку: un party)"
+    },
+    {
+      "fr": "un jean",
+      "en": "jeans",
+      "uk": "джинси"
+    },
+    {
+      "fr": "une chemise",
+      "en": "a shirt",
+      "uk": "сорочка"
+    },
+    {
+      "fr": "chic",
+      "en": "smart, stylish",
+      "uk": "елегантний, стильний"
+    },
+    {
+      "fr": "des lunettes de soleil",
+      "en": "sunglasses",
+      "uk": "сонцезахисні окуляри"
+    },
+    {
+      "fr": "mettre",
+      "en": "to put on (clothes)",
+      "uk": "вдягати, надягати"
+    },
+    {
+      "fr": "la valise",
+      "en": "the suitcase",
+      "uk": "валіза"
+    },
+    {
+      "fr": "Tremblant",
+      "en": "Mont-Tremblant, a ski resort in the Laurentians",
+      "uk": "Мон-Трамблан, гірськолижний курорт у Лорентидах"
+    },
+    {
+      "fr": "la laine",
+      "en": "wool",
+      "uk": "вовна"
+    },
+    {
+      "fr": "chauffé / chauffée",
+      "en": "heated",
+      "uk": "підігрітий / підігріта"
+    },
+    {
+      "fr": "un party",
+      "en": "a party (Québec)",
+      "uk": "вечірка (у Квебеку)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+où vas-tu ?	where are you going? (informal)	[sound:where-are-you-going-informal.webm]	/u va ty/	куди ти йдеш?
+je vais dans une boutique	I'm going to a shop	[sound:i-m-going-to-a-shop.webm]	/ʒə vɛ dɑ̃z‿yn butik/	я йду до крамнички
+je vais dans un magasin	I'm going to a store	[sound:i-m-going-to-a-store.webm]	/ʒə vɛ dɑ̃z‿œ̃ maɡazɛ̃/	я йду до магазину
+une boutique	a shop, a boutique	[sound:a-shop-a-boutique.webm]	/yn butik/	крамничка, бутик
+un magasin	a store	[sound:a-store.webm]	/œ̃ maɡazɛ̃/	магазин, крамниця
+un grand magasin	a department store	[sound:a-department-store.webm]	/œ̃ ɡʁɑ̃ maɡazɛ̃/	універмаг
+un centre commercial	a shopping mall (Québec: also un centre d'achats)	[sound:a-shopping-mall-quebec-also-un-centre-d-achats.webm]	/œ̃ sɑ̃tʁ kɔmɛʁsjal/	торговий центр (у Квебеку також: un centre d'achats)
+un centre d'achats	a shopping mall (Québec)	[sound:a-shopping-mall-quebec.webm]	/œ̃ sɑ̃tʁ daʃa/	торговий центр (у Квебеку)
+les vêtements (m.)	clothes	[sound:clothes.webm]	/le vɛtmɑ̃/	одяг
+un vêtement	a piece of clothing	[sound:a-piece-of-clothing.webm]	/œ̃ vɛtmɑ̃/	річ (одягу), предмет одягу
+acheter	to buy	[sound:to-buy.webm]	/aʃte/	купувати
+qu'est-ce que tu vas acheter ?	what are you going to buy? (informal)	[sound:what-are-you-going-to-buy-informal.webm]	/kɛs kə ty va aʃte/	що ти збираєшся купити?
+je vais acheter des vêtements	I'm going to buy clothes	[sound:i-m-going-to-buy-clothes.webm]	/ʒə vɛ aʃte de vɛtmɑ̃/	я збираюся купити одяг
+faire du shopping	to go shopping (Québec: magasiner)	[sound:to-go-shopping-quebec-magasiner.webm]	/fɛʁ dy ʃɔpiŋ/	ходити по магазинах (у Квебеку: magasiner)
+magasiner	to go shopping (Québec)	[sound:to-go-shopping-quebec.webm]	/maɡazine/	ходити по магазинах (у Квебеку)
+porter	to wear	[sound:to-wear.webm]	/pɔʁte/	носити, бути вдягненим у
+qu'est-ce que tu vas porter demain ?	what are you going to wear tomorrow? (informal)	[sound:what-are-you-going-to-wear-tomorrow-informal.webm]	/kɛs kə ty va pɔʁte dəmɛ̃/	що ти вдягнеш завтра?
+mettre	to put on (clothes)	[sound:to-put-on-clothes.webm]	/mɛtʁ/	вдягати, надягати
+je mets	I put on	[sound:i-put-on.webm]	/ʒə mɛ/	я вдягаю
+tu mets	you put on (informal)	[sound:you-put-on-informal.webm]	/ty mɛ/	ти вдягаєш
+il met / elle met	he puts on / she puts on	[sound:he-puts-on-she-puts-on.webm]	/il mɛ, ɛl mɛ/	він вдягає / вона вдягає
+nous mettons	we put on	[sound:we-put-on.webm]	/nu mɛtɔ̃/	ми вдягаємо
+vous mettez	you put on (plural or formal)	[sound:you-put-on-plural-or-formal.webm]	/vu mɛte/	ви вдягаєте
+ils mettent / elles mettent	they put on	[sound:they-put-on.webm]	/il mɛt, ɛl mɛt/	вони вдягають
+oh là là, il fait froid	oh dear, it's cold	[sound:oh-dear-it-s-cold.webm]	/o la la il fɛ fʁwa/	ой-ой, холодно
+je vais mettre un pull	I'm going to put on a sweater (Québec: un chandail)	[sound:i-m-going-to-put-on-a-sweater-quebec-un-chandail.webm]	/ʒə vɛ mɛtʁ œ̃ pyl/	я вдягну светр (у Квебеку: un chandail)
+essayer	to try on	[sound:to-try-on.webm]	/eseje/	приміряти
+la cabine d'essayage	the fitting room	[sound:the-fitting-room.webm]	/la kabin desɛjaʒ/	примірочна
+la taille	the size (clothes)	[sound:the-size-clothes.webm]	/la taj/	розмір (одягу)
+la pointure	the shoe size	[sound:the-shoe-size.webm]	/la pwɛ̃tyʁ/	розмір взуття
+ça te va bien	it suits you (informal)	[sound:it-suits-you-informal.webm]	/sa tə va bjɛ̃/	тобі пасує
+en solde	on sale	[sound:on-sale.webm]	/ɑ̃ sɔld/	зі знижкою, на розпродажі

@@ -1,0 +1,25 @@
+pour hommes	for men	[sound:for-men.webm]	/puʁ ɔm/	для чоловіків
+pour femmes	for women	[sound:for-women.webm]	/puʁ fam/	для жінок
+pour hommes et femmes	for men and women	[sound:for-men-and-women.webm]	/puʁ ɔm e fam/	для чоловіків і жінок
+un chapeau	a hat	[sound:a-hat.webm]	/œ̃ ʃapo/	капелюх
+des chapeaux	hats (-eau becomes -eaux)	[sound:hats-eau-becomes-eaux.webm]	/de ʃapo/	капелюхи (-eau стає -eaux)
+une casquette	a cap	[sound:a-cap.webm]	/yn kaskɛt/	кепка
+un blouson	a jacket (short, casual)	[sound:a-jacket-short-casual.webm]	/œ̃ bluzɔ̃/	куртка
+un manteau	a coat	[sound:a-coat.webm]	/œ̃ mɑ̃to/	пальто
+des manteaux	coats (-eau becomes -eaux)	[sound:coats-eau-becomes-eaux.webm]	/de mɑ̃to/	пальта (-eau стає -eaux)
+une veste	a jacket, a blazer	[sound:a-jacket-a-blazer.webm]	/yn vɛst/	піджак, жакет
+un pull	a sweater (Québec: un chandail)	[sound:a-sweater-quebec-un-chandail.webm]	/œ̃ pyl/	светр (у Квебеку: un chandail)
+un imper / un imperméable	a raincoat	[sound:a-raincoat.webm]	/œ̃n‿ɛ̃pɛʁ, œ̃n‿ɛ̃pɛʁmeabl/	плащ, дощовик
+un pantalon	pants, trousers	[sound:pants-trousers.webm]	/œ̃ pɑ̃talɔ̃/	штани
+un jean	jeans	[sound:jeans.webm]	/œ̃ dʒin/	джинси
+une chemise	a shirt	[sound:a-shirt.webm]	/yn ʃəmiz/	сорочка
+un polo	a polo shirt	[sound:a-polo-shirt.webm]	/œ̃ polo/	футболка-поло
+des chaussettes / une chaussette	socks / a sock (Québec: des bas)	[sound:socks-a-sock-quebec-des-bas.webm]	/de ʃosɛt, yn ʃosɛt/	шкарпетки / шкарпетка (у Квебеку: des bas)
+une cravate	a tie	[sound:a-tie.webm]	/yn kʁavat/	краватка
+un chemisier	a blouse	[sound:a-blouse.webm]	/œ̃ ʃəmizje/	блузка
+une jupe	a skirt	[sound:a-skirt.webm]	/yn ʒyp/	спідниця
+une robe	a dress	[sound:a-dress.webm]	/yn ʁɔb/	сукня
+des collants / un collant	tights, pantyhose	[sound:tights-pantyhose.webm]	/de kɔlɑ̃, œ̃ kɔlɑ̃/	колготки
+un costume	a suit	[sound:a-suit.webm]	/œ̃ kɔstym/	костюм
+chic	smart, stylish	[sound:smart-stylish.webm]	/ʃik/	елегантний, стильний
+élégant / élégante	elegant, fancy	[sound:elegant-fancy.webm]	/eleɡɑ̃, eleɡɑ̃t/	елегантний / елегантна

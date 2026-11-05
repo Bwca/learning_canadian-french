@@ -1,0 +1,16 @@
+des chaussures / une chaussure	shoes / a shoe (Québec: des souliers)	[sound:shoes-a-shoe-quebec-des-souliers.webm]	/de ʃosyʁ, yn ʃosyʁ/	взуття, черевики / черевик (у Квебеку: des souliers)
+des tennis / un tennis	tennis shoes (Québec: des espadrilles)	[sound:tennis-shoes-quebec-des-espadrilles.webm]	/de tenis, œ̃ tenis/	кеди, тенісні кросівки (у Квебеку: des espadrilles)
+des sandales / une sandale	sandals / a sandal	[sound:sandals-a-sandal.webm]	/de sɑ̃dal, yn sɑ̃dal/	сандалі / сандаля
+des bottes / une botte	boots / a boot	[sound:boots-a-boot.webm]	/de bɔt, yn bɔt/	чоботи / чобіт
+des baskets / un basket	sneakers, high-tops (Québec: des espadrilles)	[sound:sneakers-high-tops-quebec-des-espadrilles.webm]	/de baskɛt, œ̃ baskɛt/	кросівки (у Квебеку: des espadrilles)
+les vêtements de sport	sportswear	[sound:sportswear.webm]	/le vɛtmɑ̃ də spɔʁ/	спортивний одяг
+un tee-shirt	a T-shirt	[sound:a-t-shirt.webm]	/œ̃ tiʃœʁt/	футболка
+un short	shorts	[sound:shorts.webm]	/œ̃ ʃɔʁt/	шорти
+un sweat	a sweatshirt (Québec: un coton ouaté)	[sound:a-sweatshirt-quebec-un-coton-ouate.webm]	/œ̃ swɛt/	світшот (у Квебеку: un coton ouaté)
+un survêtement / un jogging	a tracksuit	[sound:a-tracksuit.webm]	/œ̃ syʁvɛtmɑ̃, œ̃ dʒɔɡiŋ/	спортивний костюм
+un maillot de bain	a swimsuit (Québec: un costume de bain)	[sound:a-swimsuit-quebec-un-costume-de-bain.webm]	/œ̃ majo də bɛ̃/	купальник, плавки (у Квебеку: un costume de bain)
+les accessoires (m.)	accessories	[sound:accessories.webm]	/lez‿aksɛswaʁ/	аксесуари
+une ceinture	a belt	[sound:a-belt.webm]	/yn sɛ̃tyʁ/	пасок
+des lunettes (f.)	glasses	[sound:glasses.webm]	/de lynɛt/	окуляри
+des lunettes de soleil	sunglasses	[sound:sunglasses.webm]	/de lynɛt də sɔlɛj/	сонцезахисні окуляри
+je vais mettre des lunettes de soleil	I'm going to put on sunglasses	[sound:i-m-going-to-put-on-sunglasses.webm]	/ʒə vɛ mɛtʁ de lynɛt də sɔlɛj/	я вдягну сонцезахисні окуляри

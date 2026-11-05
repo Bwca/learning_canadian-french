@@ -1,0 +1,148 @@
+{
+ "title": {
+  "en": "Clothes 5: what to wear when…",
+  "uk": "Одяг 5: що вдягнути, коли…"
+ },
+ "exercises": [
+  {
+   "en": "What are you wearing today? (informal)",
+   "uk": "Що на тобі сьогодні?",
+   "fr": "Qu'est-ce que tu portes aujourd'hui?",
+   "vocab": [
+    {
+     "fr": "qu'est-ce que tu portes ?",
+     "en": "what are you wearing? (informal)",
+     "uk": "що на тобі вдягнено?"
+    }
+   ]
+  },
+  {
+   "en": "When I play tennis, I wear a T-shirt and shorts.",
+   "uk": "Коли я граю в теніс, я вдягаю футболку й шорти.",
+   "fr": "Quand je joue au tennis, je porte un tee-shirt et un short.",
+   "vocab": [
+    {
+     "fr": "quand",
+     "en": "when",
+     "uk": "коли"
+    },
+    {
+     "fr": "jouer au tennis",
+     "en": "to play tennis",
+     "uk": "грати в теніс"
+    }
+   ]
+  },
+  {
+   "en": "If it rains, I'm going to put on my raincoat.",
+   "uk": "Якщо піде дощ, я вдягну плащ.",
+   "fr": "S'il pleut, je vais mettre mon imper.",
+   "vocab": [
+    {
+     "fr": "s'il pleut",
+     "en": "if it rains",
+     "uk": "якщо йде дощ"
+    },
+    {
+     "fr": "un imper",
+     "en": "a raincoat",
+     "uk": "плащ"
+    }
+   ]
+  },
+  {
+   "en": "If it's hot tomorrow, we're going to the beach.",
+   "uk": "Якщо завтра буде спекотно, ми йдемо на пляж.",
+   "fr": "S'il fait chaud demain, nous allons à la plage.",
+   "vocab": [
+    {
+     "fr": "s'il fait chaud",
+     "en": "if it's hot",
+     "uk": "якщо спекотно"
+    }
+   ]
+  },
+  {
+   "en": "For a party, she wears a dress and tights.",
+   "uk": "На вечірку вона вдягає сукню й колготки.",
+   "fr": "Pour une boum, elle porte une robe et des collants.",
+   "vocab": [
+    {
+     "fr": "une boum",
+     "en": "a party (Québec: un party)",
+     "uk": "вечірка (у Квебеку: un party)"
+    }
+   ]
+  },
+  {
+   "en": "When I go to a fancy restaurant, I wear a suit.",
+   "uk": "Коли я йду до вишуканого ресторану, я вдягаю костюм.",
+   "fr": "Quand je vais dans un restaurant élégant, je porte un costume.",
+   "vocab": [
+    {
+     "fr": "un restaurant élégant",
+     "en": "a fancy restaurant",
+     "uk": "вишуканий ресторан"
+    }
+   ]
+  },
+  {
+   "en": "Are you going to the gym this evening? (informal)",
+   "uk": "Ти йдеш у спортзал сьогодні ввечері?",
+   "fr": "Est-ce que tu vas au gymnase ce soir?",
+   "vocab": [
+    {
+     "fr": "le gymnase",
+     "en": "the gym (Québec: le gym)",
+     "uk": "спортзал (у Квебеку: le gym)"
+    }
+   ]
+  },
+  {
+   "en": "I go jogging in a tracksuit.",
+   "uk": "Я бігаю в спортивному костюмі.",
+   "fr": "Je fais du jogging en survêtement.",
+   "vocab": [
+    {
+     "fr": "faire du jogging",
+     "en": "to go jogging",
+     "uk": "бігати"
+    },
+    {
+     "fr": "en survêtement",
+     "en": "in a tracksuit",
+     "uk": "у спортивному костюмі"
+    }
+   ]
+  },
+  {
+   "en": "For a walk in the snow, put on your boots! (informal)",
+   "uk": "Для прогулянки снігом взуй чоботи!",
+   "fr": "Pour une promenade dans la neige, mets tes bottes!",
+   "vocab": [
+    {
+     "fr": "une promenade",
+     "en": "a walk",
+     "uk": "прогулянка"
+    },
+    {
+     "fr": "la neige",
+     "en": "the snow",
+     "uk": "сніг"
+    }
+   ]
+  },
+  {
+   "en": "On Saturday, my parents are going to the country.",
+   "uk": "У суботу мої батьки їдуть за місто.",
+   "fr": "Samedi, mes parents vont à la campagne.",
+   "vocab": [
+    {
+     "fr": "aller à la campagne",
+     "en": "to go to the country",
+     "uk": "їхати за місто, на село"
+    }
+   ]
+  }
+ ]
+}

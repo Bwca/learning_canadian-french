@@ -1,0 +1,178 @@
+{
+ "title": {
+  "en": "Clothes 2: for men and women",
+  "uk": "Одяг 2: для чоловіків і жінок"
+ },
+ "exercises": [
+  {
+   "en": "In this store, there are clothes for men and women.",
+   "uk": "У цьому магазині є одяг для чоловіків і жінок.",
+   "fr": "Dans ce magasin, il y a des vêtements pour hommes et femmes.",
+   "vocab": [
+    {
+     "fr": "pour hommes et femmes",
+     "en": "for men and women",
+     "uk": "для чоловіків і жінок"
+    }
+   ]
+  },
+  {
+   "en": "I'm looking for a hat.",
+   "uk": "Я шукаю капелюх.",
+   "fr": "Je cherche un chapeau.",
+   "vocab": [
+    {
+     "fr": "chercher",
+     "en": "to look for",
+     "uk": "шукати"
+    },
+    {
+     "fr": "un chapeau",
+     "en": "a hat",
+     "uk": "капелюх"
+    }
+   ]
+  },
+  {
+   "en": "The hats are on the left.",
+   "uk": "Капелюхи ліворуч.",
+   "fr": "Les chapeaux sont à gauche.",
+   "vocab": [
+    {
+     "fr": "des chapeaux",
+     "en": "hats (-eau becomes -eaux)",
+     "uk": "капелюхи (-eau стає -eaux)"
+    },
+    {
+     "fr": "à gauche",
+     "en": "on the left",
+     "uk": "ліворуч"
+    }
+   ]
+  },
+  {
+   "en": "My brother is wearing a cap and a jacket.",
+   "uk": "Мій брат у кепці й куртці.",
+   "fr": "Mon frère porte une casquette et un blouson.",
+   "vocab": [
+    {
+     "fr": "une casquette",
+     "en": "a cap",
+     "uk": "кепка"
+    },
+    {
+     "fr": "un blouson",
+     "en": "a jacket (short, casual)",
+     "uk": "куртка"
+    }
+   ]
+  },
+  {
+   "en": "The coats cost two hundred dollars.",
+   "uk": "Пальта коштують двісті доларів.",
+   "fr": "Les manteaux coûtent deux cents dollars.",
+   "vocab": [
+    {
+     "fr": "des manteaux",
+     "en": "coats (-eau becomes -eaux)",
+     "uk": "пальта (-eau стає -eaux)"
+    },
+    {
+     "fr": "deux cents",
+     "en": "two hundred",
+     "uk": "двісті"
+    }
+   ]
+  },
+  {
+   "en": "She's buying a skirt and a blouse.",
+   "uk": "Вона купує спідницю й блузку.",
+   "fr": "Elle achète une jupe et un chemisier.",
+   "vocab": [
+    {
+     "fr": "une jupe",
+     "en": "a skirt",
+     "uk": "спідниця"
+    },
+    {
+     "fr": "un chemisier",
+     "en": "a blouse",
+     "uk": "блузка"
+    }
+   ]
+  },
+  {
+   "en": "Do you like my new dress? (informal)",
+   "uk": "Тобі подобається моя нова сукня?",
+   "fr": "Est-ce que tu aimes ma nouvelle robe?",
+   "vocab": [
+    {
+     "fr": "une robe",
+     "en": "a dress",
+     "uk": "сукня"
+    }
+   ]
+  },
+  {
+   "en": "My father never wears a tie.",
+   "uk": "Мій тато ніколи не носить краватки.",
+   "fr": "Mon père ne porte jamais de cravate.",
+   "vocab": [
+    {
+     "fr": "ne… jamais de",
+     "en": "never (any)",
+     "uk": "ніколи не"
+    },
+    {
+     "fr": "une cravate",
+     "en": "a tie",
+     "uk": "краватка"
+    }
+   ]
+  },
+  {
+   "en": "I need socks and tights.",
+   "uk": "Мені потрібні шкарпетки й колготки.",
+   "fr": "J'ai besoin de chaussettes et de collants.",
+   "vocab": [
+    {
+     "fr": "avoir besoin de",
+     "en": "to need",
+     "uk": "потребувати"
+    },
+    {
+     "fr": "des chaussettes",
+     "en": "socks (Québec: des bas)",
+     "uk": "шкарпетки (у Квебеку: des bas)"
+    },
+    {
+     "fr": "des collants",
+     "en": "tights, pantyhose",
+     "uk": "колготки"
+    }
+   ]
+  },
+  {
+   "en": "For the wedding, he's wearing a suit and a white shirt.",
+   "uk": "На весілля він вдягає костюм і білу сорочку.",
+   "fr": "Pour le mariage, il porte un costume et une chemise blanche.",
+   "vocab": [
+    {
+     "fr": "le mariage",
+     "en": "the wedding",
+     "uk": "весілля"
+    },
+    {
+     "fr": "un costume",
+     "en": "a suit",
+     "uk": "костюм"
+    },
+    {
+     "fr": "une chemise",
+     "en": "a shirt",
+     "uk": "сорочка"
+    }
+   ]
+  }
+ ]
+}

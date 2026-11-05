@@ -1,0 +1,148 @@
+{
+ "title": {
+  "en": "Clothes 1: where are you going? (shopping)",
+  "uk": "Одяг 1: куди ти йдеш? (по магазинах)"
+ },
+ "exercises": [
+  {
+   "en": "Where are you going? (informal)",
+   "uk": "Куди ти йдеш?",
+   "fr": "Où vas-tu?",
+   "vocab": [
+    {
+     "fr": "où vas-tu ?",
+     "en": "where are you going? (informal)",
+     "uk": "куди ти йдеш?"
+    }
+   ]
+  },
+  {
+   "en": "I'm going to a shop downtown.",
+   "uk": "Я йду до крамнички в центрі.",
+   "fr": "Je vais dans une boutique en ville.",
+   "vocab": [
+    {
+     "fr": "une boutique",
+     "en": "a shop, a boutique",
+     "uk": "крамничка, бутик"
+    },
+    {
+     "fr": "en ville",
+     "en": "downtown, in town",
+     "uk": "у місті, в центрі"
+    }
+   ]
+  },
+  {
+   "en": "We're going to a department store.",
+   "uk": "Ми йдемо до універмагу.",
+   "fr": "Nous allons dans un grand magasin.",
+   "vocab": [
+    {
+     "fr": "un grand magasin",
+     "en": "a department store",
+     "uk": "універмаг"
+    }
+   ]
+  },
+  {
+   "en": "What are you going to buy? (informal)",
+   "uk": "Що ти збираєшся купити?",
+   "fr": "Qu'est-ce que tu vas acheter?",
+   "vocab": [
+    {
+     "fr": "acheter",
+     "en": "to buy",
+     "uk": "купувати"
+    }
+   ]
+  },
+  {
+   "en": "I'm going to buy clothes.",
+   "uk": "Я збираюся купити одяг.",
+   "fr": "Je vais acheter des vêtements.",
+   "vocab": [
+    {
+     "fr": "les vêtements (m.)",
+     "en": "clothes",
+     "uk": "одяг"
+    }
+   ]
+  },
+  {
+   "en": "My sister loves to go shopping. (Québec)",
+   "uk": "Моя сестра обожнює ходити по магазинах.",
+   "fr": "Ma sœur adore magasiner.",
+   "vocab": [
+    {
+     "fr": "magasiner",
+     "en": "to go shopping (Québec)",
+     "uk": "ходити по магазинах (у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "Is the mall open on Sundays? (Québec)",
+   "uk": "Торговий центр працює в неділю?",
+   "fr": "Est-ce que le centre d'achats est ouvert le dimanche?",
+   "vocab": [
+    {
+     "fr": "un centre d'achats",
+     "en": "a shopping mall (Québec)",
+     "uk": "торговий центр (у Квебеку)"
+    },
+    {
+     "fr": "ouvert",
+     "en": "open",
+     "uk": "відчинений"
+    }
+   ]
+  },
+  {
+   "en": "Can I try on this jacket?",
+   "uk": "Можна приміряти цей піджак?",
+   "fr": "Est-ce que je peux essayer cette veste?",
+   "vocab": [
+    {
+     "fr": "essayer",
+     "en": "to try on",
+     "uk": "приміряти"
+    },
+    {
+     "fr": "une veste",
+     "en": "a jacket, a blazer",
+     "uk": "піджак, жакет"
+    }
+   ]
+  },
+  {
+   "en": "Where is the fitting room?",
+   "uk": "Де примірочна?",
+   "fr": "Où est la cabine d'essayage?",
+   "vocab": [
+    {
+     "fr": "la cabine d'essayage",
+     "en": "the fitting room",
+     "uk": "примірочна"
+    }
+   ]
+  },
+  {
+   "en": "The sweaters are on sale today.",
+   "uk": "Светри сьогодні зі знижкою.",
+   "fr": "Les pulls sont en solde aujourd'hui.",
+   "vocab": [
+    {
+     "fr": "un pull",
+     "en": "a sweater (Québec: un chandail)",
+     "uk": "светр (у Квебеку: un chandail)"
+    },
+    {
+     "fr": "en solde",
+     "en": "on sale",
+     "uk": "зі знижкою"
+    }
+   ]
+  }
+ ]
+}

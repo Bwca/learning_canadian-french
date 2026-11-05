@@ -1,0 +1,278 @@
+{
+  "title": {
+    "en": "Shopping at the mall",
+    "uk": "Покупки в торговому центрі"
+  },
+  "situation": {
+    "en": "You hear two friends, Sophie and Malik, shopping at a mall near Montréal.",
+    "uk": "Ви чуєте двох друзів, Софі та Маліка, які ходять по магазинах у торговому центрі біля Монреаля."
+  },
+  "lines": [
+    {
+      "speaker": "Sophie",
+      "fr": "Bon, on magasine! Moi, je vais acheter un manteau d'hiver. Mon vieux manteau est trop petit.",
+      "en": "Right, let's shop! I'm going to buy a winter coat. My old coat is too small.",
+      "uk": "Ну що, по магазинах! Я куплю зимову куртку. Стара мені замала."
+    },
+    {
+      "speaker": "Malik",
+      "fr": "Et moi, des bottes d'hiver.",
+      "en": "And me, winter boots.",
+      "uk": "А я — зимові чоботи."
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Regarde ce manteau rouge! Il est en solde : cent quatre-vingts dollars au lieu de deux cent cinquante.",
+      "en": "Look at this red coat! It's on sale: one hundred eighty dollars instead of two hundred fifty.",
+      "uk": "Глянь на цю червону куртку! Вона зі знижкою: сто вісімдесят доларів замість двохсот п'ятдесяти."
+    },
+    {
+      "speaker": "Malik",
+      "fr": "Quelle taille?",
+      "en": "What size?",
+      "uk": "Який розмір?"
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Moyen. Je vais l'essayer. Où est la cabine d'essayage?",
+      "en": "Medium. I'm going to try it on. Where's the fitting room?",
+      "uk": "Середній. Приміряю. Де примірочна?"
+    },
+    {
+      "speaker": "Malik",
+      "fr": "Au fond, à droite.",
+      "en": "At the back, on the right.",
+      "uk": "У кінці, праворуч."
+    },
+    {
+      "speaker": "Malik",
+      "fr": "Oh, il te va bien!",
+      "en": "Oh, it suits you!",
+      "uk": "О, тобі пасує!"
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Merci! Et il est très chaud. Je le prends!",
+      "en": "Thanks! And it's very warm. I'll take it!",
+      "uk": "Дякую! І вона дуже тепла. Беру!"
+    },
+    {
+      "speaker": "Malik",
+      "fr": "Moi, je cherche des bottes. Ma pointure, c'est quarante-trois.",
+      "en": "I'm looking for boots. My shoe size is forty-three.",
+      "uk": "А я шукаю чоботи. У мене сорок третій розмір."
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Les bottes d'hiver sont au grand magasin, à côté.",
+      "en": "The winter boots are at the department store, next door.",
+      "uk": "Зимові чоботи — в універмазі поруч."
+    },
+    {
+      "speaker": "Sophie",
+      "fr": "Et ta tuque? Tu mets toujours ta vieille tuque orange!",
+      "en": "And your toque? You always wear your old orange toque!",
+      "uk": "А твоя шапка? Ти завжди носиш свою стару помаранчеву шапку!"
+    },
+    {
+      "speaker": "Malik",
+      "fr": "Oui, c'est un cadeau de ma grand-mère. Je garde ma tuque, mais je vais acheter des mitaines.",
+      "en": "Yes, it's a present from my grandmother. I'm keeping my toque, but I'm going to buy mittens.",
+      "uk": "Так, це бабусин подарунок. Шапку я залишаю, але куплю рукавиці."
+    }
+  ],
+  "questions": [
+    {
+      "question": {
+        "en": "Why does Sophie need a new coat?",
+        "uk": "Навіщо Софі нова куртка?"
+      },
+      "options": [
+        {
+          "en": "Her old coat is too small",
+          "uk": "Стара їй замала"
+        },
+        {
+          "en": "Her old coat is torn",
+          "uk": "Стара порвана"
+        },
+        {
+          "en": "She lost her coat",
+          "uk": "Вона загубила куртку"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "How much does the red coat cost now?",
+        "uk": "Скільки зараз коштує червона куртка?"
+      },
+      "options": [
+        {
+          "en": "$250",
+          "uk": "250 $"
+        },
+        {
+          "en": "$108",
+          "uk": "108 $"
+        },
+        {
+          "en": "$180",
+          "uk": "180 $"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question": {
+        "en": "Where is the fitting room?",
+        "uk": "Де примірочна?"
+      },
+      "options": [
+        {
+          "en": "At the entrance, on the left",
+          "uk": "Біля входу, ліворуч"
+        },
+        {
+          "en": "At the back, on the right",
+          "uk": "У кінці, праворуч"
+        },
+        {
+          "en": "Next door",
+          "uk": "Поруч, в іншому магазині"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question": {
+        "en": "What is Malik's shoe size?",
+        "uk": "Який у Маліка розмір взуття?"
+      },
+      "options": [
+        {
+          "en": "43",
+          "uk": "43"
+        },
+        {
+          "en": "33",
+          "uk": "33"
+        },
+        {
+          "en": "42",
+          "uk": "42"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "question": {
+        "en": "What is Malik going to buy instead of a new toque?",
+        "uk": "Що Малік купить замість нової шапки?"
+      },
+      "options": [
+        {
+          "en": "A scarf",
+          "uk": "Шарф"
+        },
+        {
+          "en": "A cap",
+          "uk": "Кепку"
+        },
+        {
+          "en": "Mittens",
+          "uk": "Рукавиці"
+        }
+      ],
+      "answer": 2
+    }
+  ],
+  "vocab": [
+    {
+      "fr": "magasiner",
+      "en": "to go shopping (Québec)",
+      "uk": "ходити по магазинах (у Квебеку)"
+    },
+    {
+      "fr": "un manteau d'hiver",
+      "en": "a winter coat",
+      "uk": "зимове пальто, зимова куртка"
+    },
+    {
+      "fr": "des bottes d'hiver",
+      "en": "winter boots",
+      "uk": "зимові чоботи"
+    },
+    {
+      "fr": "une tuque",
+      "en": "a winter hat, a toque (Québec)",
+      "uk": "в'язана шапка (у Квебеку)"
+    },
+    {
+      "fr": "des mitaines (f.)",
+      "en": "mittens (Québec; France: des moufles)",
+      "uk": "рукавиці-однопалки (у Квебеку; у Франції: des moufles)"
+    },
+    {
+      "fr": "en solde",
+      "en": "on sale",
+      "uk": "зі знижкою, на розпродажі"
+    },
+    {
+      "fr": "la taille",
+      "en": "the size (clothes)",
+      "uk": "розмір (одягу)"
+    },
+    {
+      "fr": "essayer",
+      "en": "to try on",
+      "uk": "приміряти"
+    },
+    {
+      "fr": "la cabine d'essayage",
+      "en": "the fitting room",
+      "uk": "примірочна"
+    },
+    {
+      "fr": "ça te va bien",
+      "en": "it suits you (informal)",
+      "uk": "тобі пасує"
+    },
+    {
+      "fr": "la pointure",
+      "en": "the shoe size",
+      "uk": "розмір взуття"
+    },
+    {
+      "fr": "un grand magasin",
+      "en": "a department store",
+      "uk": "універмаг"
+    },
+    {
+      "fr": "un cadeau",
+      "en": "a present, a gift",
+      "uk": "подарунок"
+    },
+    {
+      "fr": "Carrefour Laval",
+      "en": "a large shopping mall in Laval, north of Montréal",
+      "uk": "великий торговий центр у Лавалі, на північ від Монреаля"
+    },
+    {
+      "fr": "au lieu de",
+      "en": "instead of",
+      "uk": "замість"
+    },
+    {
+      "fr": "moyen",
+      "en": "medium (size)",
+      "uk": "середній (розмір)"
+    },
+    {
+      "fr": "au fond",
+      "en": "at the back",
+      "uk": "у глибині, в кінці"
+    }
+  ]
+}
