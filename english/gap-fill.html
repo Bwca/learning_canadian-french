@@ -89,6 +89,7 @@
     </div>
     <script src="../i18n.js"></script>
     <script src="../library.js"></script>
+    <script src="../ai-feedback.js"></script>
     <script>
         defineStrings({
             en: {
@@ -367,6 +368,7 @@
                     </p>
                     ${exercise.uk ? `<p><span class="translation" lang="uk" tabindex="0" data-i18n-attr="aria-label:showTranslation" data-i18n-vars='{"n":${index + 1}}'>${escapeHtml(exercise.uk)}</span></p>` : ""}
                     <div class="correct-answer hidden" aria-live="polite"></div>
+                    <div class="ai-feedback"></div>
                     <label class="checkbox hidden override-label">
                         <input type="checkbox" class="override-correct"> <span data-i18n="markCorrect"></span>
                     </label>
@@ -417,6 +419,17 @@
                 }
                 correctAnswerDisplay.classList.remove("hidden");
                 applyTranslations(correctAnswerDisplay);
+
+                const fills = inputs.map(input => input.value.trim());
+                showAiExplain(box.querySelector(".ai-feedback"), allRight || fills.every(fill => !fill) ? null : {
+                    studied: "en",
+                    exercise: `Fill the gaps (___) in: "${exercise.text}". A word in brackets after a gap is the verb to put in the right form.`,
+                    expected: [filledSentence(exercise, answers.map(a => a[0]))],
+                    given: filledSentence(exercise, fills),
+                    note: [answers.length > 1 || answers.some(a => a.length > 1)
+                        ? `accepted answers per gap: ${answers.map((a, gap) => `gap ${gap + 1}: ${a.join(" / ")}`).join("; ")}` : "",
+                        exercise.why ? (typeof exercise.why === "object" ? exercise.why.en : exercise.why) : ""].filter(Boolean).join(". "),
+                });
 
                 overrideLabel.classList.toggle("hidden", allRight);
                 checkbox.checked = false;

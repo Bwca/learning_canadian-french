@@ -94,6 +94,7 @@
     </div>
     <script src="../i18n.js"></script>
     <script src="../library.js"></script>
+    <script src="../ai-feedback.js"></script>
     <script>
         defineStrings({
             en: {
@@ -364,6 +365,7 @@
                         </div>
                     </div>
                     <p class="correct-answer hidden" aria-live="polite"></p>
+                    <div class="ai-feedback"></div>
                     <label class="checkbox hidden override-label">
                         <input type="checkbox" class="override-correct"> <span data-i18n="markCorrect"></span>
                     </label>
@@ -387,7 +389,7 @@
         }
 
         document.getElementById("checkButton").addEventListener("click", function () {
-            document.querySelectorAll(".exercise-box").forEach(box => {
+            document.querySelectorAll(".exercise-box").forEach((box, index) => {
                 const input = box.querySelector(".answer");
                 const correctAnswerDisplay = box.querySelector(".correct-answer");
                 const overrideLabel = box.querySelector(".override-label");
@@ -414,9 +416,16 @@
                         .addEventListener("click", () => speak(input.dataset.correct, "fr-CA"));
                 }
 
+                showAiExplain(box.querySelector(".ai-feedback"), userAnswer === correctAnswer ? null : {
+                    studied: "fr",
+                    exercise: `Translate into French: "${exercises[index].en}"`,
+                    expected: input.dataset.correct,
+                    given: input.value.trim(),
+                });
+
                 overrideLabel.classList.remove("hidden");
                 checkbox.checked = false;
-                checkbox.addEventListener("change", updateScore);
+                checkbox.onchange = updateScore;
             });
             updateScore();
             document.getElementById("readAllButton").disabled = false;

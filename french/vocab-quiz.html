@@ -38,6 +38,7 @@
     </div>
     <script src="../i18n.js"></script>
     <script src="../library.js"></script>
+    <script src="../ai-feedback.js"></script>
     <script>
         defineStrings({
             en: {
@@ -81,10 +82,12 @@
                         <p><strong ${contentAttrs(entry.translation)}></strong></p>
                         <input class="input answer" type="text" lang="fr" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false" data-correct="${i18nEscape(entry.french)}">
                         <p class="correct-answer hidden"><span data-i18n="correctIs"></span> <span lang="fr">${i18nEscape(entry.french)}</span></p>
+                        <div class="ai-feedback"></div>
                         <label class="checkbox hidden">
                             <input type="checkbox" class="override-correct"> <span data-i18n="markCorrect"></span>
                         </label>
                     </div>`;
+                div.querySelector(".answer").aiTask = { studied: "fr", exercise: `Give the French for "${entry.translation.en}"`, expected: entry.french };
                 wordList.appendChild(div);
             });
             applyTranslations(wordList);
@@ -111,9 +114,12 @@
                     correctAnswerDisplay.classList.remove("hidden");
                 }
                 
+                showAiExplain(input.parentElement.querySelector(".ai-feedback"),
+                    input.classList.contains("correct") ? null : { ...input.aiTask, given: input.value.trim() });
+
                 checkbox.parentElement.classList.remove("hidden");
                 checkbox.checked = false;
-                checkbox.addEventListener("change", updateScore);
+                checkbox.onchange = updateScore;
             });
             updateScore();
         });
