@@ -66,38 +66,38 @@ function aiApiLanguages(...codes) {
     return [...new Set(codes.filter(code => AI_API_LANGUAGES.has(code)))];
 }
 
-// The session options to use, trying the learner's own language first (only if Chrome supports
-// it) and falling back to English, then to no language hints (same shape as a working extension
-// create() call) for Chrome versions that don't want the language fields.
+// Session options: try the learner's language first (only if Chrome supports it), else English.
+// Chrome requires expectedOutputs languages on both availability() and create(); omitting them
+// logs "No output language was specified in a LanguageModel API request".
 async function aiFeedbackSetup(studied) {
     const key = `${studied}:${uiLanguage}`;
     if (key in aiFeedback.setups) return aiFeedback.setups[key];
     const outputLanguage = AI_API_LANGUAGES.has(uiLanguage) ? uiLanguage : "en";
     const inputs = aiApiLanguages("en", studied, uiLanguage);
+    const textIn = languages => ({ type: "text", languages });
+    const textOut = language => ({ type: "text", languages: [language] });
     const candidates = [
         ...(outputLanguage !== "en" ? [{
             outputLanguage,
             options: {
-                expectedInputs: [{ type: "text", languages: inputs.length ? inputs : ["en"] }],
-                expectedOutputs: [{ type: "text", languages: [outputLanguage] }],
+                expectedInputs: [textIn(inputs.length ? inputs : ["en"])],
+                expectedOutputs: [textOut(outputLanguage)],
             },
         }] : []),
         {
             outputLanguage: "en",
             options: {
-                expectedInputs: [{ type: "text", languages: inputs.length ? inputs : ["en"] }],
-                expectedOutputs: [{ type: "text", languages: ["en"] }],
+                expectedInputs: [textIn(inputs.length ? inputs : ["en"])],
+                expectedOutputs: [textOut("en")],
             },
         },
         {
             outputLanguage: "en",
             options: {
-                expectedInputs: [{ type: "text", languages: ["en"] }],
-                expectedOutputs: [{ type: "text", languages: ["en"] }],
+                expectedInputs: [textIn(["en"])],
+                expectedOutputs: [textOut("en")],
             },
         },
-        // No language hints — matches the LinkedIn sample that already works on this machine.
-        { outputLanguage: "en", options: {} },
     ];
     let setup = null;
     for (const candidate of candidates) {
