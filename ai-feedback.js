@@ -17,6 +17,10 @@
 // }
 
 const AI_LANGUAGE_NAMES = { en: "English", uk: "Ukrainian", fr: "French" };
+// Languages Chrome's Prompt API currently accepts in expectedInputs / expectedOutputs.
+// Ukrainian is not among them — probing it makes Chrome log console noise (and can look
+// like an "execution config" warning) even when English would work fine.
+const AI_API_LANGUAGES = new Set(["en", "ja", "es", "de", "fr"]);
 
 defineStrings({
     en: {
@@ -25,6 +29,7 @@ defineStrings({
         aiThinking: "🤖 Looking at your answer…",
         aiDownloading: "🤖 Downloading Chrome's AI model (first time only)… {percent}%",
         aiFailed: "⚠️ The AI couldn't analyse this answer: {error}",
+        aiConfigMissing: "⚠️ Chrome has the AI model, but its feature config isn't ready yet. Open chrome://components, update \"Optimization Guide On Device Model\", relaunch Chrome, and try again (sometimes it needs a few hours).",
         aiEnglishOnly: "Chrome's built-in AI can't write Ukrainian yet, so this explanation is in English.",
         aiDisclaimer: "AI explanation — it can be wrong; the reference answer is what counts.",
     },
@@ -34,6 +39,7 @@ defineStrings({
         aiThinking: "🤖 Аналізую вашу відповідь…",
         aiDownloading: "🤖 Завантажую модель ШІ Chrome (лише першого разу)… {percent}%",
         aiFailed: "⚠️ ШІ не зміг проаналізувати відповідь: {error}",
+        aiConfigMissing: "⚠️ Chrome має модель ШІ, але конфіг функції ще не готовий. Відкрийте chrome://components, оновіть «Optimization Guide On Device Model», перезапустіть Chrome і спробуйте знову (іноді потрібно кілька годин).",
         aiEnglishOnly: "Вбудований ШІ Chrome поки не пише українською, тож пояснення англійською.",
         aiDisclaimer: "Пояснення від ШІ — воно може помилятися; орієнтуйтеся на правильну відповідь.",
     },
@@ -56,16 +62,41 @@ function aiFeedbackSupported() {
     return "LanguageModel" in self;
 }
 
-// The session options to use, trying the learner's own language first and falling back to English
-// (and then to no language hints at all, for Chrome versions that don't know about them).
+function aiApiLanguages(...codes) {
+    return [...new Set(codes.filter(code => AI_API_LANGUAGES.has(code)))];
+}
+
+// The session options to use, trying the learner's own language first (only if Chrome supports
+// it) and falling back to English, then to no language hints (same shape as a working extension
+// create() call) for Chrome versions that don't want the language fields.
 async function aiFeedbackSetup(studied) {
     const key = `${studied}:${uiLanguage}`;
     if (key in aiFeedback.setups) return aiFeedback.setups[key];
-    const inputs = [...new Set(["en", studied, uiLanguage])];
+    const outputLanguage = AI_API_LANGUAGES.has(uiLanguage) ? uiLanguage : "en";
+    const inputs = aiApiLanguages("en", studied, uiLanguage);
     const candidates = [
-        { outputLanguage: uiLanguage, options: { expectedInputs: [{ type: "text", languages: inputs }], expectedOutputs: [{ type: "text", languages: [uiLanguage] }] } },
-        { outputLanguage: "en", options: { expectedInputs: [{ type: "text", languages: inputs }], expectedOutputs: [{ type: "text", languages: ["en"] }] } },
-        { outputLanguage: "en", options: { expectedInputs: [{ type: "text", languages: ["en"] }], expectedOutputs: [{ type: "text", languages: ["en"] }] } },
+        ...(outputLanguage !== "en" ? [{
+            outputLanguage,
+            options: {
+                expectedInputs: [{ type: "text", languages: inputs.length ? inputs : ["en"] }],
+                expectedOutputs: [{ type: "text", languages: [outputLanguage] }],
+            },
+        }] : []),
+        {
+            outputLanguage: "en",
+            options: {
+                expectedInputs: [{ type: "text", languages: inputs.length ? inputs : ["en"] }],
+                expectedOutputs: [{ type: "text", languages: ["en"] }],
+            },
+        },
+        {
+            outputLanguage: "en",
+            options: {
+                expectedInputs: [{ type: "text", languages: ["en"] }],
+                expectedOutputs: [{ type: "text", languages: ["en"] }],
+            },
+        },
+        // No language hints — matches the LinkedIn sample that already works on this machine.
         { outputLanguage: "en", options: {} },
     ];
     let setup = null;
@@ -78,6 +109,14 @@ async function aiFeedbackSetup(studied) {
     }
     aiFeedback.setups[key] = setup;
     return setup;
+}
+
+function aiFeedbackLooksLikeMissingConfig(error) {
+    const message = String(error?.message || error || "").toLowerCase();
+    return message.includes("execution config")
+        || message.includes("not available on this device")
+        || message.includes("unable to create")
+        || message.includes("model was available");
 }
 
 function aiSystemPrompt(studied, outputLanguage) {
@@ -154,7 +193,8 @@ async function explainWithAi(task, output) {
             + `<p class="help has-text-grey" data-i18n="aiDisclaimer"></p>`;
         applyTranslations(output);
     } catch (error) {
-        setText(status, "aiFailed", { error: error?.message || String(error) });
+        if (aiFeedbackLooksLikeMissingConfig(error)) setText(status, "aiConfigMissing");
+        else setText(status, "aiFailed", { error: error?.message || String(error) });
         status.classList.add("has-text-danger");
     }
 }
