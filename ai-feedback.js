@@ -129,11 +129,12 @@ The student did an exercise, and their answer did not match the reference answer
 ${variety}
 
 Rules:
-- Write in ${AI_LANGUAGE_NAMES[outputLanguage]}, in short, simple sentences. Quote ${studiedName} words exactly as written.
+- Write in ${AI_LANGUAGE_NAMES[outputLanguage]}, in clear, explanatory sentences. Quote ${studiedName} words exactly as written.
 - If the student's answer is also correct (a valid alternative, only a different word order or synonym that keeps the meaning), start with "✅" and say in one sentence why it is acceptable. Mention any small slip separately.
-- Otherwise, list each mistake on its own line as: • <the student's words> → <the correct words>: <the reason>.
-- Name the reason precisely: spelling, missing or wrong accent, gender, agreement, verb form, article, preposition, word order, or wrong word (say what the student's word means).
-- At most 4 lines. No greeting, no praise, no repeating the whole sentence, no extra advice.`;
+- Otherwise, list each mistake on its own line as: • <the student's words> → <the correct words>: <explanation>.
+- Don't just name the category (article/gender/agreement/etc). Explain WHY the correct form is needed: give the grammar rule or usage (e.g. in French, "aimer" + a general/plural category of things often takes the definite article to mean "to like/love [things in general]", while "des" is partitive/indefinite in other contexts; or state the agreement/gender rule). Be specific and educational, not just "used X instead of Y".
+- For articles, say what each one does (definite/indefinite/partitive) and why it fits here.
+- Keep explanations concise but informative. At most 4 lines. No greeting, no empty praise, no repeating the whole sentence, no generic study tips.`;
 }
 
 async function aiFeedbackSession(studied, setup, onProgress) {
