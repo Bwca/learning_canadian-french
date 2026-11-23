@@ -24,7 +24,7 @@
             <a href="index.html">← <span data-i18n="allTools">All tools</span></a>
         </nav>
         <h1 class="title" data-i18n="pageTitle">French Grammar Tables</h1>
-        <p class="subtitle is-6" data-i18n="intro">How verbs change in the present tense. Click any French form to hear it; the endings are in red.</p>
+        <p class="subtitle is-6" data-i18n="intro">How verbs change in the present tense and the passé composé. Click any French form to hear it; the endings are in red.</p>
         <p class="toc" id="toc"></p>
         <div class="field">
             <label class="label" for="voiceSelect" data-i18n="frenchVoice">French voice</label>
@@ -49,7 +49,7 @@
         defineStrings({
             en: {
                 pageTitle: "French Grammar Tables",
-                intro: "How verbs change in the present tense. Click any French form to hear it; the endings are in red.",
+                intro: "How verbs change in the present tense and the passé composé. Click any French form to hear it; the endings are in red.",
                 person: "Person",
                 form: "Form",
                 sound: "Sounds like",
@@ -57,10 +57,11 @@
                 verb: "Verb",
                 why: "What changes",
                 hear: "Hear it",
+                participle: "Past participle",
             },
             uk: {
                 pageTitle: "Таблиці французької граматики",
-                intro: "Як змінюються дієслова в теперішньому часі. Натисніть будь-яку французьку форму, щоб її почути; закінчення виділено червоним.",
+                intro: "Як змінюються дієслова в теперішньому часі та в passé composé. Натисніть будь-яку французьку форму, щоб її почути; закінчення виділено червоним.",
                 person: "Особа",
                 form: "Форма",
                 sound: "Вимова",
@@ -68,6 +69,7 @@
                 verb: "Дієслово",
                 why: "Що змінюється",
                 hear: "Прослухати",
+                participle: "Дієприкметник",
             },
         });
 
@@ -248,6 +250,179 @@
                                  uk: ["я роблю", "ти робиш", "він / вона робить; on: ми робимо", "ми робимо", "ви робите", "вони роблять"] } },
                 ],
             },
+            {
+                id: "passe-compose",
+                title: { en: "Passé composé: how it's built", uk: "Passé composé: як він будується" },
+                rules: [
+                    { en: "The passé composé is the everyday past tense: what happened, once, and is finished. « J'ai mangé » covers « I ate », « I have eaten » and « I did eat ».",
+                      uk: "Passé composé — звичайний минулий час для того, що сталося й завершилося. « J'ai mangé » — це і «я поїв», і «я з'їв»." },
+                    { en: "It has two parts: the present tense of a helper verb (avoir, or être for a small group of verbs) + the past participle of the main verb. Only the helper changes with the person.",
+                      uk: "Він складається з двох частин: теперішній час допоміжного дієслова (avoir, а для невеликої групи дієслів — être) + дієприкметник минулого часу основного дієслова. За особами змінюється лише допоміжне дієслово." },
+                    { en: "Regular participles: -er → -é (parler → parlé), -ir → -i (finir → fini, partir → parti), -re → -u (vendre → vendu). All -er verbs are regular here, even aller (allé).",
+                      uk: "Правильні дієприкметники: -er → -é (parler → parlé), -ir → -i (finir → fini, partir → parti), -re → -u (vendre → vendu). Усі дієслова на -er тут правильні, навіть aller (allé)." },
+                    { en: "Negation wraps the helper, not the participle: « je n'ai pas mangé », « elle n'est jamais venue », « je n'ai rien dit ». Exception: « personne » goes after the participle — « je n'ai vu personne ».",
+                      uk: "Заперечення обгортає допоміжне дієслово, а не дієприкметник: « je n'ai pas mangé », « elle n'est jamais venue », « je n'ai rien dit ». Виняток: « personne » стоїть після дієприкметника — « je n'ai vu personne »." },
+                    { en: "Short adverbs go between the helper and the participle too: « j'ai bien mangé », « nous avons beaucoup ri », « tu as déjà vu? », « elle n'a pas encore lu ».",
+                      uk: "Короткі прислівники теж стають між допоміжним дієсловом і дієприкметником: « j'ai bien mangé », « nous avons beaucoup ri », « tu as déjà vu? », « elle n'a pas encore lu »." },
+                    { en: "Questions: put « est-ce que » in front: « Est-ce que tu as fini? », « Qu'est-ce que tu as fait? ». Time words: hier, hier soir, la semaine passée, l'année passée (Québec; also « dernière »), il y a deux jours (two days ago).",
+                      uk: "Запитання: додайте спереду « est-ce que »: « Est-ce que tu as fini? », « Qu'est-ce que tu as fait? ». Слова часу: hier, hier soir, la semaine passée, l'année passée (у Квебеку; також « dernière »), il y a deux jours (два дні тому)." },
+                    { en: "With avoir the participle doesn't change for the subject: « elle a parlé », « ils ont parlé ».",
+                      uk: "З avoir дієприкметник не змінюється відповідно до підмета: « elle a parlé », « ils ont parlé »." },
+                ],
+                tables: [
+                    { verb: "parler", gloss: { en: "to speak — with avoir", uk: "говорити — з avoir" },
+                      forms: ["ai parlé", "as parlé", "a parlé", "avons parlé", "avez parlé", "ont parlé"],
+                      endings: ["é", "é", "é", "é", "é", "é"],
+                      ipa: ["ʒe paʁle", "ty a paʁle", "il a paʁle", "nu z‿avɔ̃ paʁle", "vu z‿ave paʁle", "il z‿ɔ̃ paʁle"],
+                      meaning: { en: ["I spoke", "you spoke", "he / she spoke; on: we spoke", "we spoke", "you spoke", "they spoke"],
+                                 uk: ["я говорив(-ла)", "ти говорив(-ла)", "він / вона говорив(-ла); on: ми говорили", "ми говорили", "ви говорили", "вони говорили"] } },
+                ],
+                participles: [
+                    { aux: "ai", title: { en: "Regular participles", uk: "Правильні дієприкметники" },
+                      rows: [
+                          ["parler", "parlé", "paʁle", { en: "spoken", uk: "говорив" }],
+                          ["finir", "fini", "fini", { en: "finished", uk: "закінчив" }],
+                          ["choisir", "choisi", "ʃwazi", { en: "chosen", uk: "вибрав" }],
+                          ["dormir", "dormi", "dɔʁmi", { en: "slept", uk: "спав" }],
+                          ["vendre", "vendu", "vɑ̃dy", { en: "sold", uk: "продав" }],
+                          ["attendre", "attendu", "atɑ̃dy", { en: "waited", uk: "чекав" }],
+                          ["répondre", "répondu", "ʁepɔ̃dy", { en: "answered", uk: "відповів" }],
+                      ] },
+                ],
+            },
+            {
+                id: "passe-compose-etre",
+                title: { en: "Passé composé with être", uk: "Passé composé з être" },
+                rules: [
+                    { en: "About twenty verbs take être instead of avoir. Most are about moving from one place to another or changing state: aller / venir, arriver / partir, entrer / sortir, monter / descendre, naître / mourir, plus tomber, rester, devenir, revenir, rentrer, retourner, passer. Mnemonic: « DR & MRS VANDERTRAMP », one letter per verb.",
+                      uk: "Приблизно двадцять дієслів мають être замість avoir. Здебільшого вони означають переміщення або зміну стану: aller / venir, arriver / partir, entrer / sortir, monter / descendre, naître / mourir, а також tomber, rester, devenir, revenir, rentrer, retourner, passer. Підказка: « DR & MRS VANDERTRAMP » — по літері на дієслово." },
+                    { en: "With être the participle agrees with the subject, like an adjective: + e for feminine, + s for plural. « il est allé », « elle est allée », « ils sont allés », « elles sont allées ».",
+                      uk: "З être дієприкметник узгоджується з підметом, як прикметник: + e для жіночого роду, + s для множини. « il est allé », « elle est allée », « ils sont allés », « elles sont allées »." },
+                    { en: "The agreement is usually silent — allé, allée, allés, allées are all [ale] — but you must write it. It's heard only when the participle ends in a consonant: « il est mort » [mɔʁ], « elle est morte » [mɔʁt].",
+                      uk: "Узгодження зазвичай не чути — allé, allée, allés, allées звучать однаково [ale], — але писати його обов'язково. Чути його лише тоді, коли дієприкметник закінчується на приголосний: « il est mort » [mɔʁ], « elle est morte » [mɔʁt]." },
+                    { en: "Watch the gender of je, tu, nous, vous: a woman writes « je suis allée »; « nous sommes allés » for a mixed group, « allées » for women only; polite « vous » to one man is « vous êtes allé ». « on » meaning « we » usually agrees too: « on est allés ».",
+                      uk: "Стежте за родом je, tu, nous, vous: жінка пише « je suis allée »; « nous sommes allés » — змішана група, « allées » — лише жінки; ввічливе « vous » до одного чоловіка — « vous êtes allé ». « on » у значенні «ми» зазвичай теж узгоджується: « on est allés »." },
+                    { en: "Liaison links the helper to a participle starting with a vowel: « elle est‿allée » [t], « ils sont‿arrivés » [t], « nous sommes‿entrés » [z].",
+                      uk: "Зв'язування поєднує допоміжне дієслово з дієприкметником, що починається з голосного: « elle est‿allée » [t], « ils sont‿arrivés » [t], « nous sommes‿entrés » [z]." },
+                    { en: "All reflexive verbs take être too: « je me suis levé(e) », « ils se sont amusés ». The pronoun stays in front of the helper, and negation wraps both: « je ne me suis pas réveillée ».",
+                      uk: "Усі зворотні дієслова теж мають être: « je me suis levé(e) », « ils se sont amusés ». Займенник стоїть перед допоміжним дієсловом, а заперечення обгортає обидва: « je ne me suis pas réveillée »." },
+                    { en: "Monter, descendre, sortir, rentrer, retourner and passer take avoir when they have a direct object: « je suis sorti » (I went out) but « j'ai sorti les poubelles » (I took the garbage out); « elle est montée » but « elle a monté les valises ».",
+                      uk: "Monter, descendre, sortir, rentrer, retourner і passer мають avoir, коли в них є прямий додаток: « je suis sorti » (я вийшов), але « j'ai sorti les poubelles » (я виніс сміття); « elle est montée », але « elle a monté les valises »." },
+                ],
+                tables: [
+                    { verb: "aller", gloss: { en: "to go — with être; (e) and (s) are the agreement", uk: "іти — з être; (e) і (s) — узгодження" },
+                      forms: ["suis allé(e)", "es allé(e)", "est allé(e)", "sommes allé(e)s", "êtes allé(e)(s)", "sont allé(e)s"],
+                      endings: ["é(e)", "é(e)", "é(e)", "é(e)s", "é(e)(s)", "é(e)s"],
+                      ipa: ["ʒə sɥi ale", "ty ɛ ale", "il ɛ t‿ale", "nu sɔm z‿ale", "vu z‿ɛt z‿ale", "il sɔ̃ t‿ale"],
+                      meaning: { en: ["I went", "you went", "he / she went; on: we went", "we went", "you went", "they went"],
+                                 uk: ["я пішов / пішла", "ти пішов / пішла", "він пішов / вона пішла; on: ми пішли", "ми пішли", "ви пішли", "вони пішли"] } },
+                    { verb: "se lever", gloss: { en: "to get up — reflexive, with être", uk: "вставати — зворотне, з être" },
+                      forms: ["me suis levé(e)", "t'es levé(e)", "s'est levé(e)", "nous sommes levé(e)s", "vous êtes levé(e)(s)", "se sont levé(e)s"],
+                      endings: ["é(e)", "é(e)", "é(e)", "é(e)s", "é(e)(s)", "é(e)s"],
+                      ipa: ["ʒə mə sɥi ləve", "ty tɛ ləve", "il sɛ ləve", "nu nu sɔm ləve", "vu vu z‿ɛt ləve", "il sə sɔ̃ ləve"],
+                      meaning: { en: ["I got up", "you got up", "he / she got up; on: we got up", "we got up", "you got up", "they got up"],
+                                 uk: ["я встав / встала", "ти встав / встала", "він встав / вона встала; on: ми встали", "ми встали", "ви встали", "вони встали"] } },
+                ],
+                participles: [
+                    { aux: "suis", title: { en: "The être verbs, in pairs", uk: "Дієслова з être, парами" },
+                      rows: [
+                          ["aller", "allé", "ale", { en: "went", uk: "пішов, поїхав" }],
+                          ["venir", "venu", "vəny", { en: "came", uk: "прийшов, приїхав" }],
+                          ["arriver", "arrivé", "aʁive", { en: "arrived", uk: "прибув" }],
+                          ["partir", "parti", "paʁti", { en: "left", uk: "пішов, поїхав (звідкись)" }],
+                          ["entrer", "entré", "ɑ̃tʁe", { en: "went in", uk: "увійшов" }],
+                          ["sortir", "sorti", "sɔʁti", { en: "went out", uk: "вийшов" }],
+                          ["monter", "monté", "mɔ̃te", { en: "went up", uk: "піднявся" }],
+                          ["descendre", "descendu", "desɑ̃dy", { en: "went down", uk: "спустився" }],
+                          ["naître", "né", "ne", { en: "was born", uk: "народився" }],
+                          ["mourir", "mort", "mɔʁ", { en: "died", uk: "помер" }],
+                          ["tomber", "tombé", "tɔ̃be", { en: "fell", uk: "упав" }],
+                          ["rester", "resté", "ʁɛste", { en: "stayed", uk: "залишився" }],
+                          ["devenir", "devenu", "dəvny", { en: "became", uk: "став" }],
+                          ["revenir", "revenu", "ʁəvny", { en: "came back", uk: "повернувся" }],
+                          ["rentrer", "rentré", "ʁɑ̃tʁe", { en: "went / came home", uk: "повернувся додому" }],
+                          ["retourner", "retourné", "ʁətuʁne", { en: "went back", uk: "повернувся (туди)" }],
+                          ["passer", "passé", "pase", { en: "went by, stopped by", uk: "проїхав, зайшов" }],
+                      ] },
+                ],
+            },
+            {
+                id: "participes-irreguliers",
+                title: { en: "Irregular past participles", uk: "Неправильні дієприкметники" },
+                rules: [
+                    { en: "Many common verbs, especially in -ir, -oir and -re, have an irregular participle. Most still take avoir, so the helper is regular: « j'ai pris », « elle a pris », « nous avons pris ».",
+                      uk: "Багато поширених дієслів, особливо на -ir, -oir і -re, мають неправильний дієприкметник. Більшість із них усе одно мають avoir, тож допоміжне дієслово правильне: « j'ai pris », « elle a pris », « nous avons pris »." },
+                    { en: "Learn them in groups by ending: -u (eu, bu, lu, vu…), -is (pris, mis), -it (dit, écrit, fait), -ert (ouvert, offert), and the odd ones (été, né, mort).",
+                      uk: "Учіть їх групами за закінченням: -u (eu, bu, lu, vu…), -is (pris, mis), -it (dit, écrit, fait), -ert (ouvert, offert) і окремі (été, né, mort)." },
+                    { en: "The final consonant is silent: pris [pʁi], mis [mi], dit [di], écrit [ekʁi], fait [fɛ], ouvert [uvɛʁ]. « eu » is just [y].",
+                      uk: "Кінцевий приголосний німий: pris [pʁi], mis [mi], dit [di], écrit [ekʁi], fait [fɛ], ouvert [uvɛʁ]. « eu » звучить просто [y]." },
+                    { en: "Verbs built on the same root share the pattern: prendre → pris, so apprendre → appris, comprendre → compris; venir → venu, so devenir → devenu; mettre → mis, so promettre → promis.",
+                      uk: "Дієслова з тим самим коренем мають той самий зразок: prendre → pris, тож apprendre → appris, comprendre → compris; venir → venu, тож devenir → devenu; mettre → mis, тож promettre → promis." },
+                    { en: "« plu » belongs to both pleuvoir (il a plu = it rained) and plaire (ça m'a plu = I liked it). « dû » (devoir) keeps its ^ only in the masculine singular: due, dus, dues.",
+                      uk: "« plu » — і від pleuvoir (il a plu = ішов дощ), і від plaire (ça m'a plu = мені сподобалося). « dû » (devoir) має ^ лише в чоловічому роді однини: due, dus, dues." },
+                    { en: "With pouvoir, vouloir, devoir and savoir the passé composé often means a single event: « j'ai pu » = I managed to, « il n'a pas voulu » = he refused, « j'ai su » = I found out.",
+                      uk: "З pouvoir, vouloir, devoir і savoir passé composé часто означає одноразову подію: « j'ai pu » = мені вдалося, « il n'a pas voulu » = він відмовився, « j'ai su » = я дізнався." },
+                ],
+                tables: [
+                    { verb: "faire", gloss: { en: "to do, to make — with avoir", uk: "робити — з avoir" },
+                      forms: ["ai fait", "as fait", "a fait", "avons fait", "avez fait", "ont fait"],
+                      ipa: ["ʒe fɛ", "ty a fɛ", "il a fɛ", "nu z‿avɔ̃ fɛ", "vu z‿ave fɛ", "il z‿ɔ̃ fɛ"],
+                      meaning: { en: ["I did", "you did", "he / she did; on: we did", "we did", "you did", "they did"],
+                                 uk: ["я зробив(-ла)", "ти зробив(-ла)", "він / вона зробив(-ла); on: ми зробили", "ми зробили", "ви зробили", "вони зробили"] } },
+                ],
+                participles: [
+                    { aux: "ai", title: { en: "Ending in -u", uk: "На -u" },
+                      rows: [
+                          ["avoir", "eu", "y", { en: "had", uk: "мав" }],
+                          ["boire", "bu", "by", { en: "drunk", uk: "випив" }],
+                          ["lire", "lu", "ly", { en: "read", uk: "прочитав" }],
+                          ["voir", "vu", "vy", { en: "seen", uk: "бачив" }],
+                          ["croire", "cru", "kʁy", { en: "believed", uk: "повірив" }],
+                          ["pouvoir", "pu", "py", { en: "been able, managed", uk: "зміг" }],
+                          ["vouloir", "voulu", "vuly", { en: "wanted", uk: "захотів" }],
+                          ["devoir", "dû", "dy", { en: "had to", uk: "мусив" }],
+                          ["savoir", "su", "sy", { en: "known, found out", uk: "дізнався" }],
+                          ["recevoir", "reçu", "ʁəsy", { en: "received", uk: "отримав" }],
+                          ["connaître", "connu", "kɔny", { en: "known, met", uk: "знав, познайомився" }],
+                          ["vivre", "vécu", "veky", { en: "lived", uk: "прожив" }],
+                          ["courir", "couru", "kuʁy", { en: "run", uk: "бігав" }],
+                          ["tenir", "tenu", "təny", { en: "held, kept", uk: "тримав" }],
+                          ["obtenir", "obtenu", "ɔptəny", { en: "obtained", uk: "отримав" }],
+                          ["pleuvoir", "plu", "ply", { en: "rained", uk: "ішов дощ" }],
+                          ["plaire", "plu", "ply", { en: "pleased", uk: "сподобався" }],
+                          ["falloir", "fallu", "faly", { en: "been necessary", uk: "довелося" }],
+                      ] },
+                    { aux: "ai", title: { en: "Ending in -is and -i", uk: "На -is та -i" },
+                      rows: [
+                          ["prendre", "pris", "pʁi", { en: "taken", uk: "взяв" }],
+                          ["apprendre", "appris", "apʁi", { en: "learned", uk: "вивчив" }],
+                          ["comprendre", "compris", "kɔ̃pʁi", { en: "understood", uk: "зрозумів" }],
+                          ["mettre", "mis", "mi", { en: "put", uk: "поклав" }],
+                          ["promettre", "promis", "pʁɔmi", { en: "promised", uk: "пообіцяв" }],
+                          ["suivre", "suivi", "sɥivi", { en: "followed", uk: "дотримався, пройшов (курс)" }],
+                          ["rire", "ri", "ʁi", { en: "laughed", uk: "сміявся" }],
+                          ["sourire", "souri", "suʁi", { en: "smiled", uk: "усміхнувся" }],
+                      ] },
+                    { aux: "ai", title: { en: "Ending in -it", uk: "На -it" },
+                      rows: [
+                          ["dire", "dit", "di", { en: "said", uk: "сказав" }],
+                          ["écrire", "écrit", "ekʁi", { en: "written", uk: "написав" }],
+                          ["faire", "fait", "fɛ", { en: "done, made", uk: "зробив" }],
+                          ["conduire", "conduit", "kɔ̃dɥi", { en: "driven", uk: "їхав за кермом" }],
+                          ["traduire", "traduit", "tʁadɥi", { en: "translated", uk: "переклав" }],
+                          ["construire", "construit", "kɔ̃stʁɥi", { en: "built", uk: "збудував" }],
+                          ["peindre", "peint", "pɛ̃", { en: "painted", uk: "пофарбував" }],
+                      ] },
+                    { aux: "ai", title: { en: "Ending in -ert, and être", uk: "На -ert, і être" },
+                      rows: [
+                          ["ouvrir", "ouvert", "uvɛʁ", { en: "opened", uk: "відчинив" }],
+                          ["offrir", "offert", "ɔfɛʁ", { en: "given (as a gift)", uk: "подарував" }],
+                          ["découvrir", "découvert", "dekuvɛʁ", { en: "discovered", uk: "відкрив, знайшов" }],
+                          ["souffrir", "souffert", "sufɛʁ", { en: "suffered", uk: "страждав" }],
+                          ["être", "été", "ete", { en: "been", uk: "був" }],
+                      ] },
+                ],
+            },
         ];
 
         // The regular endings side by side, for the overview in the first section.
@@ -266,7 +441,7 @@
         function withPronoun(pronoun, form) {
             const elide = pronoun === "je" && /^[aeiouéèêh]/i.test(form);
             const join = p => (elide ? "j'" : p + " ");
-            return { shown: join(pronoun), spoken: join(pronoun.split("/")[0]) + form };
+            return { shown: join(pronoun), spoken: join(pronoun.split("/")[0]) + form.replace(/\([^)]*\)/g, "") };
         }
 
         function verbTable(table) {
@@ -305,6 +480,23 @@
                 <tbody>${rows}</tbody></table></div>`;
         }
 
+        // Infinitive → past participle lists; the participle is said with its helper (« j'ai pris », « je suis allé »).
+        function participleTable(list) {
+            const rows = list.rows.map(([verb, participle, ipa, meaning]) => {
+                const withAux = (list.aux === "ai" ? "j'ai " : "je suis ") + participle;
+                return `<tr>
+                    <td>${sayable(verb)}</td>
+                    <td>${sayable(withAux, `<span class="ending">${esc(participle)}</span>`)}</td>
+                    <td class="ipa">[${esc(ipa)}]</td>
+                    <td>${content(meaning)}</td>
+                </tr>`;
+            }).join("");
+            return `<div class="table-container verb-table"><table class="table is-striped is-fullwidth">
+                <caption>${content(list.title)}</caption>
+                <thead><tr><th data-i18n="verb"></th><th data-i18n="participle"></th><th data-i18n="sound"></th><th data-i18n="meaning"></th></tr></thead>
+                <tbody>${rows}</tbody></table></div>`;
+        }
+
         const sections = document.getElementById("sections");
         sections.innerHTML = SECTIONS.map(s => `<section class="section-block" id="${s.id}">
             <h2 class="title is-4">${content(s.title)}</h2>
@@ -312,6 +504,7 @@
             ${s.overview ? overviewTable() : ""}
             ${(s.tables || []).map(verbTable).join("")}
             ${s.changes ? changesTable(s.changes) : ""}
+            ${(s.participles || []).map(participleTable).join("")}
         </section>`).join("");
         document.getElementById("toc").innerHTML = SECTIONS.map(s => `<a href="#${s.id}" ${contentAttrs(s.title)}></a>`).join(" ");
 
