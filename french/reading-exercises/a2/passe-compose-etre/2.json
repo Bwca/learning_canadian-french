@@ -1,0 +1,102 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 2: Marc's trip to Québec City)",
+  "uk": "Passé composé з être (набір 2: Марк їде до міста Квебек)"
+ },
+ "sounds": [
+  "est parti",
+  "est arrivé",
+  "est monté",
+  "est descendu",
+  "est entré",
+  "est revenu"
+ ],
+ "focus": {
+  "en": "The forms in red are the passé composé with être: être + past participle, and the participle agrees with the subject like an adjective — allé, allée, allés, allées. Allé, allée and allés all sound the same: [ale]. Listen for the liaison: « elle est‿allée » [ɛlɛtale], « ils sont‿arrivés » [ilsɔ̃taʁive], « nous sommes‿allés » [z]. Marc is a man, so the participles have no -e. « Il est‿arrivé » and « il est‿entré » link with a [t].",
+  "uk": "Червоним позначено passé composé з être: être + дієприкметник, який узгоджується з підметом, як прикметник — allé, allée, allés, allées. Allé, allée й allés звучать однаково: [ale]. Слухайте зв'язування: « elle est‿allée » [ɛlɛtale], « ils sont‿arrivés » [ilsɔ̃taʁive], « nous sommes‿allés » [z]. Марк — чоловік, тож дієприкметники без -e. « Il est‿arrivé » і « il est‿entré » зв'язуються через [t]."
+ },
+ "sentences": [
+  {
+   "fr": "La fin de semaine passée, Marc [est parti] pour Québec.",
+   "uk": "Минулих вихідних Марк поїхав до міста Квебек.",
+   "en": "Last weekend, Marc left for Québec City."
+  },
+  {
+   "fr": "Il [est parti] de Montréal en train, à huit heures du matin.",
+   "uk": "Він виїхав з Монреаля потягом о восьмій ранку.",
+   "en": "He left Montréal by train at eight in the morning."
+  },
+  {
+   "fr": "Il [est arrivé] à la gare du Palais avant midi.",
+   "uk": "Він приїхав на вокзал Пале до полудня.",
+   "en": "He arrived at the Palais station before noon."
+  },
+  {
+   "fr": "D'abord, il [est monté] au Château Frontenac par l'escalier Casse-Cou.",
+   "uk": "Спершу він піднявся до Шато-Фронтенак сходами Кас-Ку.",
+   "en": "First, he went up to the Château Frontenac by the Breakneck Stairs."
+  },
+  {
+   "fr": "Ensuite, il [est descendu] dans le Petit-Champlain.",
+   "uk": "Потім він спустився в квартал Пті-Шамплен.",
+   "en": "Then he went down into Petit-Champlain."
+  },
+  {
+   "fr": "Il [est entré] dans une petite boutique et il a acheté une tuque.",
+   "uk": "Він зайшов у маленьку крамничку й купив шапку.",
+   "en": "He went into a little shop and bought a toque."
+  },
+  {
+   "fr": "Le soir, il [est allé] voir le fleuve.",
+   "uk": "Увечері він пішов подивитися на річку.",
+   "en": "In the evening, he went to see the river."
+  },
+  {
+   "fr": "Il [est resté] deux nuits à l'hôtel.",
+   "uk": "Він провів дві ночі в готелі.",
+   "en": "He stayed two nights at the hotel."
+  },
+  {
+   "fr": "Dimanche, il [est revenu] à Montréal, fatigué mais content.",
+   "uk": "У неділю він повернувся до Монреаля втомлений, але задоволений.",
+   "en": "On Sunday, he came back to Montréal, tired but happy."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la fin de semaine",
+   "en": "weekend (Québec; France: le week-end)",
+   "uk": "вихідні (у Квебеку; у Франції: le week-end)"
+  },
+  {
+   "fr": "Québec",
+   "en": "Québec City (no article; « le Québec » is the province)",
+   "uk": "місто Квебек (без артикля; « le Québec » — провінція)"
+  },
+  {
+   "fr": "la gare",
+   "en": "train station",
+   "uk": "вокзал"
+  },
+  {
+   "fr": "d'abord",
+   "en": "first",
+   "uk": "спершу"
+  },
+  {
+   "fr": "ensuite",
+   "en": "then, next",
+   "uk": "потім"
+  },
+  {
+   "fr": "la tuque",
+   "en": "toque, winter hat (Québec)",
+   "uk": "в'язана зимова шапка (у Квебеку)"
+  },
+  {
+   "fr": "le fleuve",
+   "en": "(large) river — here the St. Lawrence",
+   "uk": "(велика) річка — тут Святого Лаврентія"
+  }
+ ]
+}

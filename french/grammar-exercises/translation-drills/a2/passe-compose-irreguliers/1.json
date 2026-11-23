@@ -1,0 +1,130 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 1: avoir → eu, être → été, faire → fait)",
+  "uk": "Passé composé неправильних дієслів (набір 1: avoir → eu, être → été, faire → fait)"
+ },
+ "exercises": [
+  {
+   "en": "I had a cold last week.",
+   "uk": "Минулого тижня в мене була застуда.",
+   "fr": "J'ai eu un rhume la semaine passée.",
+   "vocab": [
+    {
+     "fr": "eu",
+     "en": "had (past participle of avoir)",
+     "uk": "мав (дієприкметник від avoir)"
+    },
+    {
+     "fr": "le rhume",
+     "en": "cold (illness)",
+     "uk": "застуда"
+    },
+    {
+     "fr": "la semaine passée",
+     "en": "last week (Québec; also la semaine dernière)",
+     "uk": "минулого тижня (у Квебеку; також la semaine dernière)"
+    }
+   ]
+  },
+  {
+   "en": "She had a baby in March.",
+   "uk": "У березні в неї народилася дитина.",
+   "fr": "Elle a eu un bébé en mars.",
+   "vocab": []
+  },
+  {
+   "en": "We had a lot of snow this winter.",
+   "uk": "Цієї зими в нас було багато снігу.",
+   "fr": "Nous avons eu beaucoup de neige cet hiver.",
+   "vocab": []
+  },
+  {
+   "en": "He was sick for three days.",
+   "uk": "Він хворів три дні.",
+   "fr": "Il a été malade pendant trois jours.",
+   "vocab": [
+    {
+     "fr": "été",
+     "en": "been (past participle of être)",
+     "uk": "був (дієприкметник від être)"
+    },
+    {
+     "fr": "pendant",
+     "en": "for (a length of time)",
+     "uk": "протягом"
+    }
+   ]
+  },
+  {
+   "en": "The concert was a success.",
+   "uk": "Концерт мав успіх.",
+   "fr": "Le concert a été un succès.",
+   "vocab": []
+  },
+  {
+   "en": "I did my homework.",
+   "uk": "Я зробив домашнє завдання.",
+   "fr": "J'ai fait mes devoirs.",
+   "vocab": [
+    {
+     "fr": "fait",
+     "en": "done, made (past participle of faire)",
+     "uk": "зробив (дієприкметник від faire)"
+    },
+    {
+     "fr": "les devoirs (m.)",
+     "en": "homework",
+     "uk": "домашнє завдання"
+    }
+   ]
+  },
+  {
+   "en": "What did you (informal) do on the weekend?",
+   "uk": "Що ти робив на вихідних?",
+   "fr": "Qu'est-ce que tu as fait en fin de semaine?",
+   "vocab": [
+    {
+     "fr": "en fin de semaine",
+     "en": "on the weekend (Québec; France: le week-end)",
+     "uk": "на вихідних (у Квебеку; у Франції: le week-end)"
+    }
+   ]
+  },
+  {
+   "en": "They (masc.) made a cake for my birthday.",
+   "uk": "Вони (чол.) спекли торт на мій день народження.",
+   "fr": "Ils ont fait un gâteau pour mon anniversaire.",
+   "vocab": [
+    {
+     "fr": "le gâteau",
+     "en": "cake",
+     "uk": "торт"
+    }
+   ]
+  },
+  {
+   "en": "We went for a walk.",
+   "uk": "Ми погуляли.",
+   "fr": "Nous avons fait une promenade.",
+   "vocab": [
+    {
+     "fr": "faire une promenade",
+     "en": "to go for a walk",
+     "uk": "гуляти, прогулюватися"
+    }
+   ]
+  },
+  {
+   "en": "It was cold yesterday.",
+   "uk": "Учора було холодно.",
+   "fr": "Il a fait froid hier.",
+   "vocab": [
+    {
+     "fr": "il fait froid",
+     "en": "it's cold (weather)",
+     "uk": "холодно (про погоду)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 8: être or avoir?)",
+  "uk": "Passé composé з être (набір 8: être чи avoir?)"
+ },
+ "exercises": [
+  {
+   "en": "I (masc.) went to the market and bought apples.",
+   "uk": "Я пішов на ринок і купив яблука.",
+   "fr": "Je suis allé au marché et j'ai acheté des pommes.",
+   "vocab": [
+    {
+     "fr": "le marché",
+     "en": "market",
+     "uk": "ринок"
+    }
+   ]
+  },
+  {
+   "en": "She arrived at the restaurant and ate a soup.",
+   "uk": "Вона прийшла в ресторан і з'їла суп.",
+   "fr": "Elle est arrivée au restaurant et elle a mangé une soupe.",
+   "vocab": []
+  },
+  {
+   "en": "They (masc.) went out and played hockey.",
+   "uk": "Вони (чол.) вийшли надвір і пограли в хокей.",
+   "fr": "Ils sont sortis et ils ont joué au hockey.",
+   "vocab": [
+    {
+     "fr": "jouer au hockey",
+     "en": "to play hockey",
+     "uk": "грати в хокей"
+    }
+   ]
+  },
+  {
+   "en": "We (fem.) stayed at home and watched a movie.",
+   "uk": "Ми (жін.) залишилися вдома й подивилися фільм.",
+   "fr": "Nous sommes restées à la maison et nous avons regardé un film.",
+   "vocab": []
+  },
+  {
+   "en": "He fell and lost his phone.",
+   "uk": "Він упав і загубив телефон.",
+   "fr": "Il est tombé et il a perdu son cellulaire.",
+   "vocab": [
+    {
+     "fr": "le cellulaire",
+     "en": "cell phone (Québec; France: le portable)",
+     "uk": "мобільний телефон (у Квебеку; у Франції: le portable)"
+    },
+    {
+     "fr": "perdre → perdu",
+     "en": "to lose → lost",
+     "uk": "губити → загубив"
+    }
+   ]
+  },
+  {
+   "en": "I (fem.) came home and called my mother.",
+   "uk": "Я повернулася додому й зателефонувала мамі.",
+   "fr": "Je suis rentrée à la maison et j'ai appelé ma mère.",
+   "vocab": [
+    {
+     "fr": "appeler",
+     "en": "to call (on the phone)",
+     "uk": "телефонувати"
+    }
+   ]
+  },
+  {
+   "en": "You (informal, masc.) left and forgot your keys.",
+   "uk": "Ти пішов і забув ключі.",
+   "fr": "Tu es parti et tu as oublié tes clés.",
+   "vocab": [
+    {
+     "fr": "les clés (f.)",
+     "en": "keys",
+     "uk": "ключі"
+    }
+   ]
+  },
+  {
+   "en": "The children went up to their room and slept.",
+   "uk": "Діти піднялися до своєї кімнати й поспали.",
+   "fr": "Les enfants sont montés dans leur chambre et ils ont dormi.",
+   "vocab": [
+    {
+     "fr": "dormir → dormi",
+     "en": "to sleep → slept",
+     "uk": "спати → спав"
+    }
+   ]
+  },
+  {
+   "en": "My father was born in Lviv and worked in Kyiv.",
+   "uk": "Мій тато народився у Львові й працював у Києві.",
+   "fr": "Mon père est né à Lviv et il a travaillé à Kyiv.",
+   "vocab": []
+  },
+  {
+   "en": "She came in and closed the door.",
+   "uk": "Вона зайшла й зачинила двері.",
+   "fr": "Elle est entrée et elle a fermé la porte.",
+   "vocab": [
+    {
+     "fr": "fermer",
+     "en": "to close",
+     "uk": "зачиняти"
+    }
+   ]
+  }
+ ]
+}

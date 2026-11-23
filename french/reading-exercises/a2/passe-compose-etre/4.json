@@ -1,0 +1,102 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 4: the Tremblay family)",
+  "uk": "Passé composé з être (набір 4: родина Трамбле)"
+ },
+ "sounds": [
+  "est né",
+  "est née",
+  "sont nés",
+  "est devenu",
+  "est morte",
+  "est mort"
+ ],
+ "focus": {
+  "en": "The forms in red are the passé composé with être: être + past participle, and the participle agrees with the subject like an adjective — allé, allée, allés, allées. Allé, allée and allés all sound the same: [ale]. Listen for the liaison: « elle est‿allée » [ɛlɛtale], « ils sont‿arrivés » [ilsɔ̃taʁive], « nous sommes‿allés » [z]. Naître → né, mourir → mort, devenir → devenu are irregular. Here the -e is heard: « mort » [mɔʁ] but « morte » [mɔʁt].",
+  "uk": "Червоним позначено passé composé з être: être + дієприкметник, який узгоджується з підметом, як прикметник — allé, allée, allés, allées. Allé, allée й allés звучать однаково: [ale]. Слухайте зв'язування: « elle est‿allée » [ɛlɛtale], « ils sont‿arrivés » [ilsɔ̃taʁive], « nous sommes‿allés » [z]. Naître → né, mourir → mort, devenir → devenu — неправильні. Тут -e чути: « mort » [mɔʁ], але « morte » [mɔʁt]."
+ },
+ "sentences": [
+  {
+   "fr": "Mon grand-père, Joseph Tremblay, [est né] à Chicoutimi en 1935.",
+   "uk": "Мій дідусь Жозеф Трамбле народився в Шикутімі 1935 року.",
+   "en": "My grandfather, Joseph Tremblay, was born in Chicoutimi in 1935."
+  },
+  {
+   "fr": "Ma grand-mère, Rita, [est née] à Trois-Rivières.",
+   "uk": "Моя бабуся Ріта народилася в Труа-Рів'єр.",
+   "en": "My grandmother, Rita, was born in Trois-Rivières."
+  },
+  {
+   "fr": "Ils [sont venus] à Montréal après leur mariage.",
+   "uk": "Вони переїхали до Монреаля після весілля.",
+   "en": "They came to Montréal after their wedding."
+  },
+  {
+   "fr": "Leurs trois enfants [sont nés] à Montréal.",
+   "uk": "Їхні троє дітей народилися в Монреалі.",
+   "en": "Their three children were born in Montréal."
+  },
+  {
+   "fr": "Mon père [est devenu] médecin, et ma tante [est devenue] professeure.",
+   "uk": "Мій тато став лікарем, а тітка — учителькою.",
+   "en": "My father became a doctor, and my aunt became a teacher."
+  },
+  {
+   "fr": "Mon oncle [est parti] vivre en Alberta, mais il [est revenu] dix ans plus tard.",
+   "uk": "Мій дядько поїхав жити до Альберти, але повернувся через десять років.",
+   "en": "My uncle went to live in Alberta, but he came back ten years later."
+  },
+  {
+   "fr": "Ma grand-mère [est morte] en 2015.",
+   "uk": "Моя бабуся померла 2015 року.",
+   "en": "My grandmother died in 2015."
+  },
+  {
+   "fr": "Mon grand-père [est mort] deux ans après elle.",
+   "uk": "Мій дідусь помер через два роки після неї.",
+   "en": "My grandfather died two years after her."
+  },
+  {
+   "fr": "Moi, je [suis né] en 1990, dans la même maison que mon père.",
+   "uk": "А я народився 1990 року в тому самому будинку, що й мій тато.",
+   "en": "As for me, I was born in 1990, in the same house as my father."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "naître → né",
+   "en": "to be born → born",
+   "uk": "народжуватися → народився"
+  },
+  {
+   "fr": "mourir → mort",
+   "en": "to die → died",
+   "uk": "помирати → помер"
+  },
+  {
+   "fr": "devenir → devenu",
+   "en": "to become → become",
+   "uk": "ставати → став"
+  },
+  {
+   "fr": "le mariage",
+   "en": "wedding; marriage",
+   "uk": "весілля; шлюб"
+  },
+  {
+   "fr": "le médecin",
+   "en": "doctor",
+   "uk": "лікар"
+  },
+  {
+   "fr": "plus tard",
+   "en": "later",
+   "uk": "пізніше, через"
+  },
+  {
+   "fr": "la même maison",
+   "en": "the same house",
+   "uk": "той самий будинок"
+  }
+ ]
+}

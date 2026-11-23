@@ -1,0 +1,137 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 3: monter, descendre, tomber, retourner)",
+  "uk": "Passé composé з être (набір 3: monter, descendre, tomber, retourner)"
+ },
+ "exercises": [
+  {
+   "en": "I (masc.) went up to the third floor.",
+   "uk": "Я піднявся на третій поверх.",
+   "fr": "Je suis monté au troisième étage.",
+   "vocab": [
+    {
+     "fr": "monter",
+     "en": "to go up",
+     "uk": "підніматися"
+    },
+    {
+     "fr": "l'étage (m.)",
+     "en": "floor, storey",
+     "uk": "поверх"
+    }
+   ]
+  },
+  {
+   "en": "She got on the bus.",
+   "uk": "Вона сіла в автобус.",
+   "fr": "Elle est montée dans l'autobus.",
+   "vocab": [
+    {
+     "fr": "monter dans",
+     "en": "to get on/in (a vehicle)",
+     "uk": "сідати в (транспорт)"
+    },
+    {
+     "fr": "l'autobus (m.)",
+     "en": "bus (Québec; France: le bus)",
+     "uk": "автобус (у Квебеку; у Франції: le bus)"
+    }
+   ]
+  },
+  {
+   "en": "He went down to the basement.",
+   "uk": "Він спустився в підвал.",
+   "fr": "Il est descendu au sous-sol.",
+   "vocab": [
+    {
+     "fr": "descendre",
+     "en": "to go down; to get off",
+     "uk": "спускатися; виходити (з транспорту)"
+    },
+    {
+     "fr": "le sous-sol",
+     "en": "basement",
+     "uk": "підвал"
+    }
+   ]
+  },
+  {
+   "en": "You (informal, fem.) got off at the next stop.",
+   "uk": "Ти вийшла на наступній зупинці.",
+   "fr": "Tu es descendue au prochain arrêt.",
+   "vocab": [
+    {
+     "fr": "l'arrêt (m.)",
+     "en": "stop (bus, metro)",
+     "uk": "зупинка"
+    }
+   ]
+  },
+  {
+   "en": "The little boy fell.",
+   "uk": "Хлопчик упав.",
+   "fr": "Le petit garçon est tombé.",
+   "vocab": [
+    {
+     "fr": "tomber",
+     "en": "to fall",
+     "uk": "падати"
+    }
+   ]
+  },
+  {
+   "en": "My sister fell on the ice.",
+   "uk": "Моя сестра впала на льоду.",
+   "fr": "Ma sœur est tombée sur la glace.",
+   "vocab": [
+    {
+     "fr": "la glace",
+     "en": "ice",
+     "uk": "лід"
+    }
+   ]
+  },
+  {
+   "en": "The snow fell all night.",
+   "uk": "Сніг падав цілу ніч.",
+   "fr": "La neige est tombée toute la nuit.",
+   "vocab": [
+    {
+     "fr": "toute la nuit",
+     "en": "all night",
+     "uk": "цілу ніч"
+    }
+   ]
+  },
+  {
+   "en": "He went back to Ukraine in May.",
+   "uk": "У травні він повернувся в Україну.",
+   "fr": "Il est retourné en Ukraine en mai.",
+   "vocab": [
+    {
+     "fr": "retourner",
+     "en": "to go back (there)",
+     "uk": "повертатися (туди)"
+    }
+   ]
+  },
+  {
+   "en": "I (fem.) went back to the store.",
+   "uk": "Я повернулася до магазину.",
+   "fr": "Je suis retournée au magasin.",
+   "vocab": []
+  },
+  {
+   "en": "The cat climbed up the tree and fell.",
+   "uk": "Кіт виліз на дерево й упав.",
+   "fr": "Le chat est monté dans l'arbre et il est tombé.",
+   "vocab": [
+    {
+     "fr": "monter dans un arbre",
+     "en": "to climb a tree",
+     "uk": "вилазити на дерево"
+    }
+   ]
+  }
+ ]
+}

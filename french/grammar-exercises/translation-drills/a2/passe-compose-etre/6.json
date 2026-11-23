@@ -1,0 +1,110 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 6: negation — ne… pas, ne… jamais)",
+  "uk": "Passé composé з être (набір 6: заперечення — ne… pas, ne… jamais)"
+ },
+ "exercises": [
+  {
+   "en": "I (masc.) didn't go to work.",
+   "uk": "Я не ходив на роботу.",
+   "fr": "Je ne suis pas allé au travail.",
+   "vocab": []
+  },
+  {
+   "en": "She didn't come to class.",
+   "uk": "Вона не прийшла на заняття.",
+   "fr": "Elle n'est pas venue au cours.",
+   "vocab": [
+    {
+     "fr": "le cours",
+     "en": "class, lesson",
+     "uk": "заняття, урок"
+    }
+   ]
+  },
+  {
+   "en": "They (masc.) didn't stay long.",
+   "uk": "Вони (чол.) пробули недовго.",
+   "fr": "Ils ne sont pas restés longtemps.",
+   "vocab": [
+    {
+     "fr": "longtemps",
+     "en": "long, a long time",
+     "uk": "довго"
+    }
+   ]
+  },
+  {
+   "en": "We (fem.) didn't go out last night.",
+   "uk": "Ми (жін.) не виходили вчора ввечері.",
+   "fr": "Nous ne sommes pas sorties hier soir.",
+   "vocab": [
+    {
+     "fr": "hier soir",
+     "en": "last night",
+     "uk": "учора ввечері"
+    }
+   ]
+  },
+  {
+   "en": "The train hasn't arrived yet.",
+   "uk": "Потяг ще не прибув.",
+   "fr": "Le train n'est pas encore arrivé.",
+   "vocab": [
+    {
+     "fr": "pas encore",
+     "en": "not yet",
+     "uk": "ще не"
+    }
+   ]
+  },
+  {
+   "en": "He never went back to Paris.",
+   "uk": "Він ніколи не повертався до Парижа.",
+   "fr": "Il n'est jamais retourné à Paris.",
+   "vocab": [
+    {
+     "fr": "ne… jamais",
+     "en": "never",
+     "uk": "ніколи не"
+    }
+   ]
+  },
+  {
+   "en": "I (fem.) have never been to Gaspésie.",
+   "uk": "Я ніколи не була в Гаспезі.",
+   "fr": "Je ne suis jamais allée en Gaspésie.",
+   "vocab": [
+    {
+     "fr": "la Gaspésie",
+     "en": "the Gaspé Peninsula",
+     "uk": "півострів Гаспе"
+    }
+   ]
+  },
+  {
+   "en": "You (informal, masc.) didn't fall!",
+   "uk": "Ти не впав!",
+   "fr": "Tu n'es pas tombé!",
+   "vocab": []
+  },
+  {
+   "en": "My sisters didn't come home.",
+   "uk": "Мої сестри не повернулися додому.",
+   "fr": "Mes sœurs ne sont pas rentrées.",
+   "vocab": []
+  },
+  {
+   "en": "Nobody came.",
+   "uk": "Ніхто не прийшов.",
+   "fr": "Personne n'est venu.",
+   "vocab": [
+    {
+     "fr": "personne ne…",
+     "en": "nobody",
+     "uk": "ніхто не…"
+    }
+   ]
+  }
+ ]
+}

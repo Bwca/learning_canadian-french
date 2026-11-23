@@ -1,0 +1,116 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 7: questions and time words)",
+  "uk": "Passé composé з être (набір 7: запитання та слова часу)"
+ },
+ "exercises": [
+  {
+   "en": "Did you (informal, masc.) go to the dentist?",
+   "uk": "Ти ходив до стоматолога?",
+   "fr": "Est-ce que tu es allé chez le dentiste?",
+   "vocab": [
+    {
+     "fr": "chez le dentiste",
+     "en": "to the dentist's",
+     "uk": "до стоматолога"
+    }
+   ]
+  },
+  {
+   "en": "When did she arrive?",
+   "uk": "Коли вона приїхала?",
+   "fr": "Quand est-ce qu'elle est arrivée?",
+   "vocab": []
+  },
+  {
+   "en": "Have they (masc.) left already?",
+   "uk": "Вони (чол.) вже поїхали?",
+   "fr": "Est-ce qu'ils sont déjà partis?",
+   "vocab": [
+    {
+     "fr": "déjà",
+     "en": "already",
+     "uk": "вже"
+    }
+   ]
+  },
+  {
+   "en": "What time did you (informal, fem.) come home?",
+   "uk": "О котрій ти повернулася додому?",
+   "fr": "À quelle heure est-ce que tu es rentrée?",
+   "vocab": [
+    {
+     "fr": "à quelle heure",
+     "en": "at what time",
+     "uk": "о котрій"
+    }
+   ]
+  },
+  {
+   "en": "She came back two days ago.",
+   "uk": "Вона повернулася два дні тому.",
+   "fr": "Elle est revenue il y a deux jours.",
+   "vocab": [
+    {
+     "fr": "il y a deux jours",
+     "en": "two days ago",
+     "uk": "два дні тому"
+    }
+   ]
+  },
+  {
+   "en": "I (masc.) arrived in Canada three years ago.",
+   "uk": "Я приїхав до Канади три роки тому.",
+   "fr": "Je suis arrivé au Canada il y a trois ans.",
+   "vocab": []
+  },
+  {
+   "en": "Last week, we (masc.) went to Ottawa.",
+   "uk": "Минулого тижня ми (чол.) їздили до Оттави.",
+   "fr": "La semaine passée, nous sommes allés à Ottawa.",
+   "vocab": [
+    {
+     "fr": "la semaine passée",
+     "en": "last week (Québec; also la semaine dernière)",
+     "uk": "минулого тижня (у Квебеку; також la semaine dernière)"
+    }
+   ]
+  },
+  {
+   "en": "Did your (informal) parents come to the show?",
+   "uk": "Твої батьки прийшли на виставу?",
+   "fr": "Est-ce que tes parents sont venus au spectacle?",
+   "vocab": [
+    {
+     "fr": "le spectacle",
+     "en": "show",
+     "uk": "вистава, шоу"
+    }
+   ]
+  },
+  {
+   "en": "Where did you (plural, masc.) go this weekend?",
+   "uk": "Куди ви (чол.) їздили цими вихідними?",
+   "fr": "Où est-ce que vous êtes allés cette fin de semaine?",
+   "vocab": [
+    {
+     "fr": "la fin de semaine",
+     "en": "the weekend (Québec; France: le week-end)",
+     "uk": "вихідні (у Квебеку; у Франції: le week-end)"
+    }
+   ]
+  },
+  {
+   "en": "Yesterday morning, she went out early.",
+   "uk": "Учора вранці вона вийшла рано.",
+   "fr": "Hier matin, elle est sortie tôt.",
+   "vocab": [
+    {
+     "fr": "hier matin",
+     "en": "yesterday morning",
+     "uk": "учора вранці"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 3: an evening with friends)",
+  "uk": "Passé composé з être (набір 3: вечір із подругами)"
+ },
+ "sounds": [
+  "sont arrivées",
+  "sommes allées",
+  "sommes entrées",
+  "sommes restées",
+  "sont parties",
+  "n'est pas venue"
+ ],
+ "focus": {
+  "en": "The forms in red are the passé composé with être: être + past participle, and the participle agrees with the subject like an adjective — allé, allée, allés, allées. Allé, allée and allés all sound the same: [ale]. Listen for the liaison: « elle est‿allée » [ɛlɛtale], « ils sont‿arrivés » [ilsɔ̃taʁive], « nous sommes‿allés » [z]. Here the friends are all women, so the participles take -es: arrivées, allées. With negation, ne… pas wraps the auxiliary: « Léa n'[est] pas [venue] ».",
+  "uk": "Червоним позначено passé composé з être: être + дієприкметник, який узгоджується з підметом, як прикметник — allé, allée, allés, allées. Allé, allée й allés звучать однаково: [ale]. Слухайте зв'язування: « elle est‿allée » [ɛlɛtale], « ils sont‿arrivés » [ilsɔ̃taʁive], « nous sommes‿allés » [z]. Тут подруги — усі жінки, тож дієприкметники отримують -es: arrivées, allées. При запереченні ne… pas обгортає допоміжне дієслово: « Léa n'[est] pas [venue] »."
+ },
+ "sentences": [
+  {
+   "fr": "Vendredi soir, mes amies Chloé et Sarah [sont arrivées] chez moi à sept heures.",
+   "uk": "У п'ятницю ввечері мої подруги Хлое й Сара прийшли до мене о сьомій.",
+   "en": "On Friday evening, my friends Chloé and Sarah arrived at my place at seven."
+  },
+  {
+   "fr": "Léa n'[est] pas [venue]: elle était malade.",
+   "uk": "Леа не прийшла: вона хворіла.",
+   "en": "Léa didn't come: she was sick."
+  },
+  {
+   "fr": "Nous [sommes allées] au restaurant au coin de la rue.",
+   "uk": "Ми пішли до ресторану на розі.",
+   "en": "We went to the restaurant on the corner."
+  },
+  {
+   "fr": "Nous [sommes entrées] et le serveur nous a donné une belle table.",
+   "uk": "Ми зайшли, і офіціант дав нам гарний столик.",
+   "en": "We went in and the waiter gave us a nice table."
+  },
+  {
+   "fr": "Après le souper, nous [sommes sorties] dans le Vieux-Port.",
+   "uk": "Після вечері ми вийшли до Старого порту.",
+   "en": "After supper, we went out to the Old Port."
+  },
+  {
+   "fr": "Nous [sommes restées] dehors jusqu'à minuit.",
+   "uk": "Ми залишалися надворі до опівночі.",
+   "en": "We stayed outside until midnight."
+  },
+  {
+   "fr": "Chloé et Sarah [sont parties] en taxi.",
+   "uk": "Хлое й Сара поїхали на таксі.",
+   "en": "Chloé and Sarah left by taxi."
+  },
+  {
+   "fr": "Moi, je [suis rentrée] à pied, parce que j'habite tout près.",
+   "uk": "А я повернулася пішки, бо живу зовсім поруч.",
+   "en": "As for me, I walked home, because I live very close."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "chez moi",
+   "en": "at my place",
+   "uk": "у мене, до мене"
+  },
+  {
+   "fr": "elle était malade",
+   "en": "she was sick",
+   "uk": "вона хворіла"
+  },
+  {
+   "fr": "au coin de la rue",
+   "en": "on the corner",
+   "uk": "на розі вулиці"
+  },
+  {
+   "fr": "le souper",
+   "en": "supper, dinner (Québec; France: le dîner)",
+   "uk": "вечеря (у Квебеку; у Франції: le dîner)"
+  },
+  {
+   "fr": "le Vieux-Port",
+   "en": "the Old Port (Montréal)",
+   "uk": "Старий порт (Монреаль)"
+  },
+  {
+   "fr": "dehors",
+   "en": "outside",
+   "uk": "надворі"
+  },
+  {
+   "fr": "tout près",
+   "en": "very close",
+   "uk": "зовсім поруч"
+  }
+ ]
+}

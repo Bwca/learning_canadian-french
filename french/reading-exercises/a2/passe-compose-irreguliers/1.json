@@ -1,0 +1,112 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 1: my first week in Canada)",
+  "uk": "Passé composé неправильних дієслів (набір 1: мій перший тиждень у Канаді)"
+ },
+ "sounds": [
+  "ai eu",
+  "a été",
+  "ai fait",
+  "ai pris",
+  "ai appris",
+  "ai compris"
+ ],
+ "focus": {
+  "en": "The forms in red are avoir + an irregular past participle. Learn them by their endings: -u (eu, bu, lu, vu, pu, voulu, dû, su, reçu, connu, vécu), -is (pris, mis, appris, compris), -it (dit, écrit, fait, conduit), -ert (ouvert, offert). With avoir there's no agreement with the subject: « elle a pris ». The final consonant of pris, mis, dit, fait is silent: [pʁi], [mi], [di], [fɛ]. « Eu » (from avoir) is pronounced [y], just like the letter u.",
+  "uk": "Червоним позначено avoir + неправильний дієприкметник. Учіть їх за закінченнями: -u (eu, bu, lu, vu, pu, voulu, dû, su, reçu, connu, vécu), -is (pris, mis, appris, compris), -it (dit, écrit, fait, conduit), -ert (ouvert, offert). З avoir узгодження з підметом немає: « elle a pris ». Кінцевий приголосний у pris, mis, dit, fait німий: [pʁi], [mi], [di], [fɛ]. « Eu » (від avoir) вимовляється [y], як буква u."
+ },
+ "sentences": [
+  {
+   "fr": "Ma première semaine au Canada [a été] difficile.",
+   "uk": "Мій перший тиждень у Канаді був важким.",
+   "en": "My first week in Canada was difficult."
+  },
+  {
+   "fr": "Le premier jour, j'[ai eu] froid: il [a fait] moins quinze!",
+   "uk": "Першого дня мені було холодно: було мінус п'ятнадцять!",
+   "en": "The first day, I was cold: it was minus fifteen!"
+  },
+  {
+   "fr": "J'[ai pris] l'autobus pour aller au bureau d'immigration.",
+   "uk": "Я поїхав автобусом до імміграційного офісу.",
+   "en": "I took the bus to go to the immigration office."
+  },
+  {
+   "fr": "La dame m'a parlé très vite, et je n'[ai] pas [compris].",
+   "uk": "Пані говорила зі мною дуже швидко, і я не зрозумів.",
+   "en": "The lady spoke to me very fast, and I didn't understand."
+  },
+  {
+   "fr": "Alors, j'[ai fait] un effort et j'ai demandé: « Plus lentement, s'il vous plaît. »",
+   "uk": "Тож я зібрався з духом і попросив: « Повільніше, будь ласка. »",
+   "en": "So I made an effort and asked: \"More slowly, please.\""
+  },
+  {
+   "fr": "Cette fois, j'[ai compris] presque tout.",
+   "uk": "Цього разу я зрозумів майже все.",
+   "en": "This time, I understood almost everything."
+  },
+  {
+   "fr": "Le mercredi, j'[ai eu] mon premier cours de français.",
+   "uk": "У середу в мене був перший урок французької.",
+   "en": "On Wednesday, I had my first French class."
+  },
+  {
+   "fr": "J'[ai appris] des mots québécois: « dépanneur », « tuque », « magasiner ».",
+   "uk": "Я вивчив квебекські слова: « dépanneur », « tuque », « magasiner ».",
+   "en": "I learned some Québec words: dépanneur, tuque, magasiner."
+  },
+  {
+   "fr": "À la fin de la semaine, j'[ai été] fier de moi.",
+   "uk": "Наприкінці тижня я пишався собою.",
+   "en": "At the end of the week, I was proud of myself."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "difficile",
+   "en": "difficult",
+   "uk": "важкий"
+  },
+  {
+   "fr": "avoir froid → j'ai eu froid",
+   "en": "to be cold → I was cold",
+   "uk": "мерзнути → мені було холодно"
+  },
+  {
+   "fr": "le bureau d'immigration",
+   "en": "immigration office",
+   "uk": "імміграційний офіс"
+  },
+  {
+   "fr": "vite",
+   "en": "fast",
+   "uk": "швидко"
+  },
+  {
+   "fr": "plus lentement",
+   "en": "more slowly",
+   "uk": "повільніше"
+  },
+  {
+   "fr": "presque tout",
+   "en": "almost everything",
+   "uk": "майже все"
+  },
+  {
+   "fr": "le dépanneur",
+   "en": "corner store (Québec)",
+   "uk": "крамниця біля дому (у Квебеку)"
+  },
+  {
+   "fr": "magasiner",
+   "en": "to go shopping (Québec)",
+   "uk": "ходити по магазинах (у Квебеку)"
+  },
+  {
+   "fr": "fier, fière",
+   "en": "proud",
+   "uk": "гордий, горда"
+  }
+ ]
+}

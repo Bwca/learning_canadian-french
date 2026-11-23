@@ -1,0 +1,114 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 5: pouvoir → pu, vouloir → voulu, devoir → dû, savoir → su)",
+  "uk": "Passé composé неправильних дієслів (набір 5: pouvoir → pu, vouloir → voulu, devoir → dû, savoir → su)"
+ },
+ "exercises": [
+  {
+   "en": "I couldn't come.",
+   "uk": "Я не зміг прийти.",
+   "fr": "Je n'ai pas pu venir.",
+   "vocab": [
+    {
+     "fr": "pu",
+     "en": "been able (past participle of pouvoir)",
+     "uk": "зміг (дієприкметник від pouvoir)"
+    }
+   ]
+  },
+  {
+   "en": "She wanted to see the river.",
+   "uk": "Вона захотіла побачити річку.",
+   "fr": "Elle a voulu voir le fleuve.",
+   "vocab": [
+    {
+     "fr": "voulu",
+     "en": "wanted (past participle of vouloir)",
+     "uk": "захотів (дієприкметник від vouloir)"
+    },
+    {
+     "fr": "le fleuve",
+     "en": "(large) river, e.g. the St. Lawrence",
+     "uk": "(велика) річка, напр. Святого Лаврентія"
+    }
+   ]
+  },
+  {
+   "en": "We had to leave early.",
+   "uk": "Нам довелося піти рано.",
+   "fr": "Nous avons dû partir tôt.",
+   "vocab": [
+    {
+     "fr": "dû",
+     "en": "had to (past participle of devoir; note the ^)",
+     "uk": "мусив (дієприкметник від devoir; зверніть увагу на ^)"
+    }
+   ]
+  },
+  {
+   "en": "He had to work on Saturday.",
+   "uk": "Він мусив працювати в суботу.",
+   "fr": "Il a dû travailler samedi.",
+   "vocab": []
+  },
+  {
+   "en": "They (masc.) couldn't find the hotel.",
+   "uk": "Вони (чол.) не змогли знайти готель.",
+   "fr": "Ils n'ont pas pu trouver l'hôtel.",
+   "vocab": []
+  },
+  {
+   "en": "I found out the truth.",
+   "uk": "Я дізнався правду.",
+   "fr": "J'ai su la vérité.",
+   "vocab": [
+    {
+     "fr": "su",
+     "en": "found out (past participle of savoir)",
+     "uk": "дізнався (дієприкметник від savoir)"
+    },
+    {
+     "fr": "la vérité",
+     "en": "truth",
+     "uk": "правда"
+    }
+   ]
+  },
+  {
+   "en": "Did you (informal) manage to sleep?",
+   "uk": "Тобі вдалося поспати?",
+   "fr": "Est-ce que tu as pu dormir?",
+   "vocab": []
+  },
+  {
+   "en": "He didn't want to eat.",
+   "uk": "Він не захотів їсти.",
+   "fr": "Il n'a pas voulu manger.",
+   "vocab": []
+  },
+  {
+   "en": "You (plural) had to wait a long time.",
+   "uk": "Вам довелося довго чекати.",
+   "fr": "Vous avez dû attendre longtemps.",
+   "vocab": [
+    {
+     "fr": "longtemps",
+     "en": "a long time",
+     "uk": "довго"
+    }
+   ]
+  },
+  {
+   "en": "We found out the news yesterday.",
+   "uk": "Ми дізналися новину вчора.",
+   "fr": "Nous avons su la nouvelle hier.",
+   "vocab": [
+    {
+     "fr": "la nouvelle",
+     "en": "piece of news",
+     "uk": "новина"
+    }
+   ]
+  }
+ ]
+}

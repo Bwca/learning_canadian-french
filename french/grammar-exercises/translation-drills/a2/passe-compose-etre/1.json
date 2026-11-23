@@ -1,0 +1,137 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 1: aller, venir, arriver, partir)",
+  "uk": "Passé composé з être (набір 1: aller, venir, arriver, partir)"
+ },
+ "exercises": [
+  {
+   "en": "I (masc.) went to the movies yesterday.",
+   "uk": "Учора я ходив у кіно.",
+   "fr": "Je suis allé au cinéma hier.",
+   "vocab": [
+    {
+     "fr": "le cinéma",
+     "en": "the movies, movie theatre",
+     "uk": "кіно, кінотеатр"
+    }
+   ]
+  },
+  {
+   "en": "She went to Montréal by train.",
+   "uk": "Вона поїхала до Монреаля потягом.",
+   "fr": "Elle est allée à Montréal en train.",
+   "vocab": [
+    {
+     "fr": "en train",
+     "en": "by train",
+     "uk": "потягом"
+    }
+   ]
+  },
+  {
+   "en": "He came to my place on Saturday.",
+   "uk": "Він прийшов до мене в суботу.",
+   "fr": "Il est venu chez moi samedi.",
+   "vocab": [
+    {
+     "fr": "venu",
+     "en": "come (past participle of venir)",
+     "uk": "прийшов (дієприкметник від venir)"
+    },
+    {
+     "fr": "chez moi",
+     "en": "to my place",
+     "uk": "до мене (додому)"
+    }
+   ]
+  },
+  {
+   "en": "You (informal, fem.) came with your sister.",
+   "uk": "Ти прийшла зі своєю сестрою.",
+   "fr": "Tu es venue avec ta sœur.",
+   "vocab": [
+    {
+     "fr": "la sœur",
+     "en": "sister",
+     "uk": "сестра"
+    }
+   ]
+  },
+  {
+   "en": "The train arrived at eight o'clock.",
+   "uk": "Потяг прибув о восьмій.",
+   "fr": "Le train est arrivé à huit heures.",
+   "vocab": []
+  },
+  {
+   "en": "My mother arrived late.",
+   "uk": "Моя мама запізнилася.",
+   "fr": "Ma mère est arrivée en retard.",
+   "vocab": [
+    {
+     "fr": "en retard",
+     "en": "late (after the set time)",
+     "uk": "із запізненням"
+    }
+   ]
+  },
+  {
+   "en": "I (fem.) left at noon.",
+   "uk": "Я пішла опівдні.",
+   "fr": "Je suis partie à midi.",
+   "vocab": [
+    {
+     "fr": "partir",
+     "en": "to leave",
+     "uk": "іти, їхати геть"
+    },
+    {
+     "fr": "midi",
+     "en": "noon",
+     "uk": "полудень"
+    }
+   ]
+  },
+  {
+   "en": "The plane left this morning.",
+   "uk": "Літак вилетів сьогодні вранці.",
+   "fr": "L'avion est parti ce matin.",
+   "vocab": [
+    {
+     "fr": "l'avion (m.)",
+     "en": "plane",
+     "uk": "літак"
+    }
+   ]
+  },
+  {
+   "en": "Julie left for Québec City on Monday.",
+   "uk": "Жулі поїхала до Квебека в понеділок.",
+   "fr": "Julie est partie pour Québec lundi.",
+   "vocab": [
+    {
+     "fr": "partir pour",
+     "en": "to leave for",
+     "uk": "від'їжджати до"
+    },
+    {
+     "fr": "Québec",
+     "en": "Québec City (the province is « le Québec »)",
+     "uk": "місто Квебек (провінція — « le Québec »)"
+    }
+   ]
+  },
+  {
+   "en": "The bus arrived and he left.",
+   "uk": "Автобус приїхав, і він поїхав.",
+   "fr": "L'autobus est arrivé et il est parti.",
+   "vocab": [
+    {
+     "fr": "l'autobus (m.)",
+     "en": "bus (Québec; France: le bus)",
+     "uk": "автобус (у Квебеку; у Франції: le bus)"
+    }
+   ]
+  }
+ ]
+}

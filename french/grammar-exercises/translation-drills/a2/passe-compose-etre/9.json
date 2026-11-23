@@ -1,0 +1,127 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 9: reflexive verbs — se lever, se coucher…)",
+  "uk": "Passé composé з être (набір 9: зворотні дієслова — se lever, se coucher…)"
+ },
+ "exercises": [
+  {
+   "en": "I (fem.) got up at seven o'clock.",
+   "uk": "Я встала о сьомій.",
+   "fr": "Je me suis levée à sept heures.",
+   "vocab": [
+    {
+     "fr": "se lever",
+     "en": "to get up",
+     "uk": "вставати"
+    }
+   ]
+  },
+  {
+   "en": "He went to bed late.",
+   "uk": "Він пізно ліг спати.",
+   "fr": "Il s'est couché tard.",
+   "vocab": [
+    {
+     "fr": "se coucher",
+     "en": "to go to bed",
+     "uk": "лягати спати"
+    }
+   ]
+  },
+  {
+   "en": "She woke up early.",
+   "uk": "Вона прокинулася рано.",
+   "fr": "Elle s'est réveillée tôt.",
+   "vocab": [
+    {
+     "fr": "se réveiller",
+     "en": "to wake up",
+     "uk": "прокидатися"
+    }
+   ]
+  },
+  {
+   "en": "We (masc.) got dressed quickly.",
+   "uk": "Ми (чол.) швидко вдяглися.",
+   "fr": "Nous nous sommes habillés vite.",
+   "vocab": [
+    {
+     "fr": "s'habiller",
+     "en": "to get dressed",
+     "uk": "вдягатися"
+    },
+    {
+     "fr": "vite",
+     "en": "quickly",
+     "uk": "швидко"
+    }
+   ]
+  },
+  {
+   "en": "They (fem.) went for a walk in the park.",
+   "uk": "Вони (жін.) погуляли в парку.",
+   "fr": "Elles se sont promenées dans le parc.",
+   "vocab": [
+    {
+     "fr": "se promener",
+     "en": "to go for a walk",
+     "uk": "гуляти"
+    }
+   ]
+  },
+  {
+   "en": "Did you (informal, masc.) have fun at the party?",
+   "uk": "Ти розважився на вечірці?",
+   "fr": "Est-ce que tu t'es amusé à la fête?",
+   "vocab": [
+    {
+     "fr": "s'amuser",
+     "en": "to have fun",
+     "uk": "розважатися"
+    }
+   ]
+  },
+  {
+   "en": "My parents got married in 1995.",
+   "uk": "Мої батьки одружилися 1995 року.",
+   "fr": "Mes parents se sont mariés en 1995.",
+   "vocab": [
+    {
+     "fr": "se marier",
+     "en": "to get married",
+     "uk": "одружуватися"
+    }
+   ]
+  },
+  {
+   "en": "I (masc.) didn't get up early.",
+   "uk": "Я встав не рано.",
+   "fr": "Je ne me suis pas levé tôt.",
+   "vocab": []
+  },
+  {
+   "en": "She got ready for work.",
+   "uk": "Вона зібралася на роботу.",
+   "fr": "Elle s'est préparée pour le travail.",
+   "vocab": [
+    {
+     "fr": "se préparer",
+     "en": "to get ready",
+     "uk": "збиратися, готуватися"
+    }
+   ]
+  },
+  {
+   "en": "The children fell asleep at nine o'clock.",
+   "uk": "Діти заснули о дев'ятій.",
+   "fr": "Les enfants se sont endormis à neuf heures.",
+   "vocab": [
+    {
+     "fr": "s'endormir",
+     "en": "to fall asleep",
+     "uk": "засинати"
+    }
+   ]
+  }
+ ]
+}

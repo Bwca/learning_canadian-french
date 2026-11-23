@@ -1,0 +1,103 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 9: negation and questions)",
+  "uk": "Passé composé неправильних дієслів (набір 9: заперечення й запитання)"
+ },
+ "exercises": [
+  {
+   "en": "I haven't seen this movie.",
+   "uk": "Я не бачив цього фільму.",
+   "fr": "Je n'ai pas vu ce film.",
+   "vocab": []
+  },
+  {
+   "en": "She hasn't read the book yet.",
+   "uk": "Вона ще не прочитала книжку.",
+   "fr": "Elle n'a pas encore lu le livre.",
+   "vocab": [
+    {
+     "fr": "pas encore",
+     "en": "not yet",
+     "uk": "ще не"
+    }
+   ]
+  },
+  {
+   "en": "They (masc.) have never drunk wine.",
+   "uk": "Вони (чол.) ніколи не пили вина.",
+   "fr": "Ils n'ont jamais bu de vin.",
+   "vocab": [
+    {
+     "fr": "ne… jamais",
+     "en": "never",
+     "uk": "ніколи не"
+    }
+   ]
+  },
+  {
+   "en": "Did you (informal) do your homework?",
+   "uk": "Ти зробив домашнє завдання?",
+   "fr": "Est-ce que tu as fait tes devoirs?",
+   "vocab": []
+  },
+  {
+   "en": "What did you (informal) take?",
+   "uk": "Що ти взяв?",
+   "fr": "Qu'est-ce que tu as pris?",
+   "vocab": []
+  },
+  {
+   "en": "Where did she put the keys?",
+   "uk": "Куди вона поклала ключі?",
+   "fr": "Où est-ce qu'elle a mis les clés?",
+   "vocab": []
+  },
+  {
+   "en": "We didn't have time.",
+   "uk": "У нас не було часу.",
+   "fr": "Nous n'avons pas eu le temps.",
+   "vocab": [
+    {
+     "fr": "avoir le temps",
+     "en": "to have time",
+     "uk": "мати час"
+    }
+   ]
+  },
+  {
+   "en": "Why didn't you (formal) say anything?",
+   "uk": "Чому ви нічого не сказали?",
+   "fr": "Pourquoi est-ce que vous n'avez rien dit?",
+   "vocab": [
+    {
+     "fr": "ne… rien",
+     "en": "nothing, not anything",
+     "uk": "нічого не"
+    }
+   ]
+  },
+  {
+   "en": "I couldn't sleep.",
+   "uk": "Я не міг заснути.",
+   "fr": "Je n'ai pas pu dormir.",
+   "vocab": []
+  },
+  {
+   "en": "Have you (informal) ever seen a whale?",
+   "uk": "Ти колись бачив кита?",
+   "fr": "Est-ce que tu as déjà vu une baleine?",
+   "vocab": [
+    {
+     "fr": "déjà",
+     "en": "ever (in questions); already",
+     "uk": "колись (у запитаннях); вже"
+    },
+    {
+     "fr": "la baleine",
+     "en": "whale",
+     "uk": "кит"
+    }
+   ]
+  }
+ ]
+}

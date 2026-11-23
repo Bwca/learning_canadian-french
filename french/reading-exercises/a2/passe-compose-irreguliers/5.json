@@ -1,0 +1,112 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 5: becoming a citizen)",
+  "uk": "Passé composé неправильних дієслів (набір 5: громадянство)"
+ },
+ "sounds": [
+  "avons vécu",
+  "a connu",
+  "ai suivi",
+  "ai obtenu",
+  "a voulu",
+  "a su"
+ ],
+ "focus": {
+  "en": "The forms in red are avoir + an irregular past participle. Learn them by their endings: -u (eu, bu, lu, vu, pu, voulu, dû, su, reçu, connu, vécu), -is (pris, mis, appris, compris), -it (dit, écrit, fait, conduit), -ert (ouvert, offert). With avoir there's no agreement with the subject: « elle a pris ». The final consonant of pris, mis, dit, fait is silent: [pʁi], [mi], [di], [fɛ]. Vivre → vécu, connaître → connu, suivre → suivi, obtenir → obtenu, savoir → su: these don't look like their infinitives, so learn them as pairs.",
+  "uk": "Червоним позначено avoir + неправильний дієприкметник. Учіть їх за закінченнями: -u (eu, bu, lu, vu, pu, voulu, dû, su, reçu, connu, vécu), -is (pris, mis, appris, compris), -it (dit, écrit, fait, conduit), -ert (ouvert, offert). З avoir узгодження з підметом немає: « elle a pris ». Кінцевий приголосний у pris, mis, dit, fait німий: [pʁi], [mi], [di], [fɛ]. Vivre → vécu, connaître → connu, suivre → suivi, obtenir → obtenu, savoir → su: вони не схожі на свої інфінітиви, тож учіть їх парами."
+ },
+ "sentences": [
+  {
+   "fr": "Mon mari et moi, nous [avons vécu] à Kharkiv pendant quinze ans.",
+   "uk": "Ми з чоловіком прожили в Харкові п'ятнадцять років.",
+   "en": "My husband and I lived in Kharkiv for fifteen years."
+  },
+  {
+   "fr": "En 2022, nous sommes venus au Canada avec nos deux enfants.",
+   "uk": "2022 року ми приїхали до Канади з двома дітьми.",
+   "en": "In 2022, we came to Canada with our two children."
+  },
+  {
+   "fr": "Au début, nous [avons connu] des moments difficiles.",
+   "uk": "Спершу ми пережили важкі часи.",
+   "en": "At first, we went through some hard times."
+  },
+  {
+   "fr": "J'[ai suivi] des cours de français le soir pendant deux ans.",
+   "uk": "Я два роки ходила на вечірні курси французької.",
+   "en": "I took French classes in the evening for two years."
+  },
+  {
+   "fr": "Mon mari [a voulu] apprendre l'anglais aussi.",
+   "uk": "Мій чоловік захотів вивчити й англійську.",
+   "en": "My husband wanted to learn English too."
+  },
+  {
+   "fr": "L'année passée, nous [avons fait] la demande de citoyenneté.",
+   "uk": "Торік ми подали заяву на громадянство.",
+   "en": "Last year, we applied for citizenship."
+  },
+  {
+   "fr": "Un matin, mon mari [a reçu] un courriel et il [a su] la nouvelle avant moi.",
+   "uk": "Одного ранку чоловік отримав листа й дізнався новину раніше за мене.",
+   "en": "One morning, my husband got an email and found out the news before me."
+  },
+  {
+   "fr": "En mars, j'[ai obtenu] ma citoyenneté canadienne.",
+   "uk": "У березні я отримала канадське громадянство.",
+   "en": "In March, I got my Canadian citizenship."
+  },
+  {
+   "fr": "À la cérémonie, j'[ai dit] le serment en français!",
+   "uk": "На церемонії я склала присягу французькою!",
+   "en": "At the ceremony, I said the oath in French!"
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "au début",
+   "en": "at first",
+   "uk": "спершу"
+  },
+  {
+   "fr": "connaître des moments difficiles",
+   "en": "to go through hard times",
+   "uk": "переживати важкі часи"
+  },
+  {
+   "fr": "suivre un cours",
+   "en": "to take a course",
+   "uk": "проходити курс"
+  },
+  {
+   "fr": "faire la demande de",
+   "en": "to apply for",
+   "uk": "подавати заяву на"
+  },
+  {
+   "fr": "la citoyenneté",
+   "en": "citizenship",
+   "uk": "громадянство"
+  },
+  {
+   "fr": "le courriel",
+   "en": "email (Québec)",
+   "uk": "електронний лист (у Квебеку)"
+  },
+  {
+   "fr": "savoir → j'ai su",
+   "en": "to know → I found out",
+   "uk": "знати → я дізнався"
+  },
+  {
+   "fr": "la cérémonie",
+   "en": "ceremony",
+   "uk": "церемонія"
+  },
+  {
+   "fr": "le serment",
+   "en": "oath",
+   "uk": "присяга"
+  }
+ ]
+}

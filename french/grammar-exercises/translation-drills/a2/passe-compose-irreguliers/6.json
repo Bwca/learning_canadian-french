@@ -1,0 +1,103 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 6: ouvrir → ouvert, offrir → offert, courir → couru)",
+  "uk": "Passé composé неправильних дієслів (набір 6: ouvrir → ouvert, offrir → offert, courir → couru)"
+ },
+ "exercises": [
+  {
+   "en": "I opened the window.",
+   "uk": "Я відчинив вікно.",
+   "fr": "J'ai ouvert la fenêtre.",
+   "vocab": [
+    {
+     "fr": "ouvert",
+     "en": "opened (past participle of ouvrir)",
+     "uk": "відчинив (дієприкметник від ouvrir)"
+    }
+   ]
+  },
+  {
+   "en": "The store opened at nine o'clock.",
+   "uk": "Магазин відкрився о дев'ятій.",
+   "fr": "Le magasin a ouvert à neuf heures.",
+   "vocab": []
+  },
+  {
+   "en": "She gave me a scarf.",
+   "uk": "Вона подарувала мені шарф.",
+   "fr": "Elle m'a offert un foulard.",
+   "vocab": [
+    {
+     "fr": "offert",
+     "en": "given as a gift (past participle of offrir)",
+     "uk": "подарував (дієприкметник від offrir)"
+    },
+    {
+     "fr": "le foulard",
+     "en": "scarf (Québec; France: l'écharpe)",
+     "uk": "шарф (у Квебеку; у Франції: l'écharpe)"
+    }
+   ]
+  },
+  {
+   "en": "We gave flowers to our teacher (fem.).",
+   "uk": "Ми подарували квіти нашій учительці.",
+   "fr": "Nous avons offert des fleurs à notre professeure.",
+   "vocab": [
+    {
+     "fr": "la professeure",
+     "en": "teacher (fem.; Québec spelling)",
+     "uk": "учителька (написання, прийняте у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "They (masc.) discovered a little restaurant.",
+   "uk": "Вони (чол.) знайшли маленький ресторанчик.",
+   "fr": "Ils ont découvert un petit restaurant.",
+   "vocab": [
+    {
+     "fr": "découvert",
+     "en": "discovered (past participle of découvrir)",
+     "uk": "відкрив, знайшов (дієприкметник від découvrir)"
+    }
+   ]
+  },
+  {
+   "en": "I discovered Québec music.",
+   "uk": "Я відкрила для себе квебекську музику.",
+   "fr": "J'ai découvert la musique québécoise.",
+   "vocab": []
+  },
+  {
+   "en": "He ran in the park.",
+   "uk": "Він бігав у парку.",
+   "fr": "Il a couru dans le parc.",
+   "vocab": [
+    {
+     "fr": "couru",
+     "en": "run (past participle of courir)",
+     "uk": "бігав (дієприкметник від courir)"
+    }
+   ]
+  },
+  {
+   "en": "She ran the Montréal marathon.",
+   "uk": "Вона пробігла Монреальський марафон.",
+   "fr": "Elle a couru le marathon de Montréal.",
+   "vocab": []
+  },
+  {
+   "en": "Who opened the door?",
+   "uk": "Хто відчинив двері?",
+   "fr": "Qui a ouvert la porte?",
+   "vocab": []
+  },
+  {
+   "en": "You (informal) didn't open my gift!",
+   "uk": "Ти не відкрив мій подарунок!",
+   "fr": "Tu n'as pas ouvert mon cadeau!",
+   "vocab": []
+  }
+ ]
+}

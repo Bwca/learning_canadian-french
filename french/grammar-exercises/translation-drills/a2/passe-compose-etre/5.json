@@ -1,0 +1,116 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 5: nous, vous, ils, elles — plural agreement)",
+  "uk": "Passé composé з être (набір 5: nous, vous, ils, elles — узгодження в множині)"
+ },
+ "exercises": [
+  {
+   "en": "We (masc.) went to the beach.",
+   "uk": "Ми (чол.) поїхали на пляж.",
+   "fr": "Nous sommes allés à la plage.",
+   "vocab": [
+    {
+     "fr": "la plage",
+     "en": "beach",
+     "uk": "пляж"
+    }
+   ]
+  },
+  {
+   "en": "We (fem.) arrived at the airport at six o'clock.",
+   "uk": "Ми (жін.) прибули в аеропорт о шостій.",
+   "fr": "Nous sommes arrivées à l'aéroport à six heures.",
+   "vocab": [
+    {
+     "fr": "l'aéroport (m.)",
+     "en": "airport",
+     "uk": "аеропорт"
+    }
+   ]
+  },
+  {
+   "en": "They (masc.) left without saying goodbye.",
+   "uk": "Вони (чол.) пішли, не попрощавшись.",
+   "fr": "Ils sont partis sans dire au revoir.",
+   "vocab": [
+    {
+     "fr": "sans dire au revoir",
+     "en": "without saying goodbye",
+     "uk": "не попрощавшись"
+    }
+   ]
+  },
+  {
+   "en": "They (fem.) came to the party.",
+   "uk": "Вони (жін.) прийшли на вечірку.",
+   "fr": "Elles sont venues à la fête.",
+   "vocab": [
+    {
+     "fr": "la fête",
+     "en": "party",
+     "uk": "вечірка, свято"
+    }
+   ]
+  },
+  {
+   "en": "My parents came home at ten o'clock.",
+   "uk": "Мої батьки повернулися додому о десятій.",
+   "fr": "Mes parents sont rentrés à dix heures.",
+   "vocab": []
+  },
+  {
+   "en": "You (plural, fem.) stayed at the hotel.",
+   "uk": "Ви (жін.) залишилися в готелі.",
+   "fr": "Vous êtes restées à l'hôtel.",
+   "vocab": []
+  },
+  {
+   "en": "You (formal) arrived early, sir.",
+   "uk": "Ви прийшли рано, пане.",
+   "fr": "Vous êtes arrivé tôt, monsieur.",
+   "vocab": [
+    {
+     "fr": "tôt",
+     "en": "early",
+     "uk": "рано"
+    }
+   ]
+  },
+  {
+   "en": "Paul and Marie went out together.",
+   "uk": "Поль і Марі пішли гуляти разом.",
+   "fr": "Paul et Marie sont sortis ensemble.",
+   "vocab": [
+    {
+     "fr": "ensemble",
+     "en": "together",
+     "uk": "разом"
+    }
+   ]
+  },
+  {
+   "en": "The girls went down to the lake.",
+   "uk": "Дівчата спустилися до озера.",
+   "fr": "Les filles sont descendues au lac.",
+   "vocab": [
+    {
+     "fr": "le lac",
+     "en": "lake",
+     "uk": "озеро"
+    }
+   ]
+  },
+  {
+   "en": "Our friends (fem.) were born in Québec.",
+   "uk": "Наші подруги народилися в Квебеку.",
+   "fr": "Nos amies sont nées au Québec.",
+   "vocab": [
+    {
+     "fr": "au Québec",
+     "en": "in Québec (the province)",
+     "uk": "у Квебеку (провінція)"
+    }
+   ]
+  }
+ ]
+}

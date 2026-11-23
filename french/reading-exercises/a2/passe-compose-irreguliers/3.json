@@ -1,0 +1,112 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 3: a weekend in Tadoussac)",
+  "uk": "Passé composé неправильних дієслів (набір 3: вихідні в Тадуссаку)"
+ },
+ "sounds": [
+  "a plu",
+  "avons vu",
+  "avons bu",
+  "avons pris",
+  "avons dû",
+  "avons pu"
+ ],
+ "focus": {
+  "en": "The forms in red are avoir + an irregular past participle. Learn them by their endings: -u (eu, bu, lu, vu, pu, voulu, dû, su, reçu, connu, vécu), -is (pris, mis, appris, compris), -it (dit, écrit, fait, conduit), -ert (ouvert, offert). With avoir there's no agreement with the subject: « elle a pris ». The final consonant of pris, mis, dit, fait is silent: [pʁi], [mi], [di], [fɛ]. « Plu » is the participle of both pleuvoir (il a plu = it rained) and plaire (ça m'a plu = I liked it) — the context tells them apart. « Dû » keeps its ^ only in the masculine singular.",
+  "uk": "Червоним позначено avoir + неправильний дієприкметник. Учіть їх за закінченнями: -u (eu, bu, lu, vu, pu, voulu, dû, su, reçu, connu, vécu), -is (pris, mis, appris, compris), -it (dit, écrit, fait, conduit), -ert (ouvert, offert). З avoir узгодження з підметом немає: « elle a pris ». Кінцевий приголосний у pris, mis, dit, fait німий: [pʁi], [mi], [di], [fɛ]. « Plu » — дієприкметник і від pleuvoir (il a plu = ішов дощ), і від plaire (ça m'a plu = мені сподобалося) — розрізняє контекст. « Dû » має ^ лише в чоловічому роді однини."
+ },
+ "sentences": [
+  {
+   "fr": "En juillet, nous [avons pris] la route vers Tadoussac.",
+   "uk": "У липні ми вирушили до Тадуссака.",
+   "en": "In July, we took the road to Tadoussac."
+  },
+  {
+   "fr": "Le premier jour, il [a plu] toute la journée.",
+   "uk": "Першого дня цілий день ішов дощ.",
+   "en": "The first day, it rained all day."
+  },
+  {
+   "fr": "Nous [avons dû] rester à l'auberge.",
+   "uk": "Нам довелося сидіти в заїжджому дворі.",
+   "en": "We had to stay at the inn."
+  },
+  {
+   "fr": "Nous [avons bu] du chocolat chaud et nous avons joué aux cartes.",
+   "uk": "Ми пили гарячий шоколад і грали в карти.",
+   "en": "We drank hot chocolate and played cards."
+  },
+  {
+   "fr": "Le lendemain, le soleil est revenu.",
+   "uk": "Наступного дня знову виглянуло сонце.",
+   "en": "The next day, the sun came back."
+  },
+  {
+   "fr": "Nous [avons pris] un bateau sur le fjord du Saguenay.",
+   "uk": "Ми попливли човном фіордом Сагне.",
+   "en": "We took a boat on the Saguenay fjord."
+  },
+  {
+   "fr": "Nous [avons vu] trois baleines et un phoque!",
+   "uk": "Ми бачили трьох китів і тюленя!",
+   "en": "We saw three whales and a seal!"
+  },
+  {
+   "fr": "Ma fille n'[a] pas [pu] dire un mot: elle était trop émue.",
+   "uk": "Моя донька не могла вимовити ні слова: вона була надто зворушена.",
+   "en": "My daughter couldn't say a word: she was too moved."
+  },
+  {
+   "fr": "Ce voyage nous [a] beaucoup [plu].",
+   "uk": "Ця подорож нам дуже сподобалася.",
+   "en": "We liked this trip a lot."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "prendre la route",
+   "en": "to hit the road",
+   "uk": "вирушати в дорогу"
+  },
+  {
+   "fr": "l'auberge (f.)",
+   "en": "inn",
+   "uk": "заїжджий двір, невеликий готель"
+  },
+  {
+   "fr": "jouer aux cartes",
+   "en": "to play cards",
+   "uk": "грати в карти"
+  },
+  {
+   "fr": "le lendemain",
+   "en": "the next day",
+   "uk": "наступного дня"
+  },
+  {
+   "fr": "le bateau",
+   "en": "boat",
+   "uk": "човен, корабель"
+  },
+  {
+   "fr": "la baleine",
+   "en": "whale",
+   "uk": "кит"
+  },
+  {
+   "fr": "le phoque",
+   "en": "seal",
+   "uk": "тюлень"
+  },
+  {
+   "fr": "ému, émue",
+   "en": "moved, emotional",
+   "uk": "зворушений, зворушена"
+  },
+  {
+   "fr": "ça m'a plu",
+   "en": "I liked it (plaire)",
+   "uk": "мені сподобалося (plaire)"
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 3: voir → vu, lire → lu, boire → bu, croire → cru)",
+  "uk": "Passé composé неправильних дієслів (набір 3: voir → vu, lire → lu, boire → bu, croire → cru)"
+ },
+ "exercises": [
+  {
+   "en": "I saw a moose!",
+   "uk": "Я бачив лося!",
+   "fr": "J'ai vu un orignal!",
+   "vocab": [
+    {
+     "fr": "vu",
+     "en": "seen (past participle of voir)",
+     "uk": "бачив (дієприкметник від voir)"
+    },
+    {
+     "fr": "l'orignal (m.)",
+     "en": "moose",
+     "uk": "лось"
+    }
+   ]
+  },
+  {
+   "en": "Did you (informal) see the movie?",
+   "uk": "Ти дивився цей фільм?",
+   "fr": "Est-ce que tu as vu le film?",
+   "vocab": []
+  },
+  {
+   "en": "We saw the fireworks.",
+   "uk": "Ми бачили феєрверк.",
+   "fr": "Nous avons vu les feux d'artifice.",
+   "vocab": [
+    {
+     "fr": "les feux d'artifice (m.)",
+     "en": "fireworks",
+     "uk": "феєрверк"
+    }
+   ]
+  },
+  {
+   "en": "She read the newspaper.",
+   "uk": "Вона прочитала газету.",
+   "fr": "Elle a lu le journal.",
+   "vocab": [
+    {
+     "fr": "lu",
+     "en": "read (past participle of lire)",
+     "uk": "прочитав (дієприкметник від lire)"
+    },
+    {
+     "fr": "le journal",
+     "en": "newspaper",
+     "uk": "газета"
+    }
+   ]
+  },
+  {
+   "en": "I read this book last year.",
+   "uk": "Я прочитав цю книжку торік.",
+   "fr": "J'ai lu ce livre l'année passée.",
+   "vocab": [
+    {
+     "fr": "l'année passée",
+     "en": "last year (Québec; also l'année dernière)",
+     "uk": "торік (у Квебеку; також l'année dernière)"
+    }
+   ]
+  },
+  {
+   "en": "He drank a glass of water.",
+   "uk": "Він випив склянку води.",
+   "fr": "Il a bu un verre d'eau.",
+   "vocab": [
+    {
+     "fr": "bu",
+     "en": "drunk (past participle of boire)",
+     "uk": "випив (дієприкметник від boire)"
+    },
+    {
+     "fr": "le verre",
+     "en": "glass",
+     "uk": "склянка"
+    }
+   ]
+  },
+  {
+   "en": "They (masc.) drank too much coffee.",
+   "uk": "Вони (чол.) випили забагато кави.",
+   "fr": "Ils ont bu trop de café.",
+   "vocab": [
+    {
+     "fr": "trop de",
+     "en": "too much",
+     "uk": "забагато"
+    }
+   ]
+  },
+  {
+   "en": "Nobody believed the story.",
+   "uk": "Ніхто не повірив цій історії.",
+   "fr": "Personne n'a cru l'histoire.",
+   "vocab": [
+    {
+     "fr": "cru",
+     "en": "believed (past participle of croire)",
+     "uk": "повірив (дієприкметник від croire)"
+    },
+    {
+     "fr": "personne ne…",
+     "en": "nobody",
+     "uk": "ніхто не…"
+    }
+   ]
+  },
+  {
+   "en": "Did you (informal) read my email?",
+   "uk": "Ти прочитав мого листа?",
+   "fr": "Est-ce que tu as lu mon courriel?",
+   "vocab": [
+    {
+     "fr": "le courriel",
+     "en": "email (Québec)",
+     "uk": "електронний лист (у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "We didn't see the sign.",
+   "uk": "Ми не побачили знака.",
+   "fr": "Nous n'avons pas vu le panneau.",
+   "vocab": [
+    {
+     "fr": "le panneau",
+     "en": "sign (road, notice)",
+     "uk": "знак, табличка"
+    }
+   ]
+  }
+ ]
+}

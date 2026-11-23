@@ -1,0 +1,136 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 7: recevoir, connaître, vivre, suivre, tenir, obtenir)",
+  "uk": "Passé composé неправильних дієслів (набір 7: recevoir, connaître, vivre, suivre, tenir, obtenir)"
+ },
+ "exercises": [
+  {
+   "en": "I received a package.",
+   "uk": "Я отримав посилку.",
+   "fr": "J'ai reçu un colis.",
+   "vocab": [
+    {
+     "fr": "reçu",
+     "en": "received (past participle of recevoir)",
+     "uk": "отримав (дієприкметник від recevoir)"
+    },
+    {
+     "fr": "le colis",
+     "en": "package, parcel",
+     "uk": "посилка"
+    }
+   ]
+  },
+  {
+   "en": "Did you (informal) get my message?",
+   "uk": "Ти отримав моє повідомлення?",
+   "fr": "Est-ce que tu as reçu mon message?",
+   "vocab": []
+  },
+  {
+   "en": "She met her husband in Montréal.",
+   "uk": "Вона познайомилася з чоловіком у Монреалі.",
+   "fr": "Elle a connu son mari à Montréal.",
+   "vocab": [
+    {
+     "fr": "connu",
+     "en": "known; met (past participle of connaître)",
+     "uk": "знав; познайомився (дієприкметник від connaître)"
+    }
+   ]
+  },
+  {
+   "en": "They (masc.) lived in Vancouver for five years.",
+   "uk": "Вони (чол.) прожили у Ванкувері п'ять років.",
+   "fr": "Ils ont vécu à Vancouver pendant cinq ans.",
+   "vocab": [
+    {
+     "fr": "vécu",
+     "en": "lived (past participle of vivre)",
+     "uk": "прожив (дієприкметник від vivre)"
+    }
+   ]
+  },
+  {
+   "en": "We lived in Lviv for two years.",
+   "uk": "Ми прожили у Львові два роки.",
+   "fr": "Nous avons vécu à Lviv pendant deux ans.",
+   "vocab": []
+  },
+  {
+   "en": "She followed the instructions.",
+   "uk": "Вона виконала інструкції.",
+   "fr": "Elle a suivi les instructions.",
+   "vocab": [
+    {
+     "fr": "suivi",
+     "en": "followed (past participle of suivre)",
+     "uk": "дотримався (дієприкметник від suivre)"
+    }
+   ]
+  },
+  {
+   "en": "I took a French course.",
+   "uk": "Я пройшов курс французької.",
+   "fr": "J'ai suivi un cours de français.",
+   "vocab": [
+    {
+     "fr": "suivre un cours",
+     "en": "to take a course",
+     "uk": "проходити курс"
+    }
+   ]
+  },
+  {
+   "en": "He kept his promise.",
+   "uk": "Він дотримав слова.",
+   "fr": "Il a tenu sa promesse.",
+   "vocab": [
+    {
+     "fr": "tenu",
+     "en": "held, kept (past participle of tenir)",
+     "uk": "тримав, дотримав (дієприкметник від tenir)"
+    },
+    {
+     "fr": "la promesse",
+     "en": "promise",
+     "uk": "обіцянка"
+    }
+   ]
+  },
+  {
+   "en": "She got her driver's licence.",
+   "uk": "Вона отримала посвідчення водія.",
+   "fr": "Elle a obtenu son permis de conduire.",
+   "vocab": [
+    {
+     "fr": "obtenu",
+     "en": "obtained (past participle of obtenir)",
+     "uk": "отримав (дієприкметник від obtenir)"
+    },
+    {
+     "fr": "le permis de conduire",
+     "en": "driver's licence",
+     "uk": "посвідчення водія"
+    }
+   ]
+  },
+  {
+   "en": "I got my citizenship last year.",
+   "uk": "Торік я отримала громадянство.",
+   "fr": "J'ai obtenu ma citoyenneté l'année passée.",
+   "vocab": [
+    {
+     "fr": "la citoyenneté",
+     "en": "citizenship",
+     "uk": "громадянство"
+    },
+    {
+     "fr": "l'année passée",
+     "en": "last year (Québec; also l'année dernière)",
+     "uk": "торік (у Квебеку; також l'année dernière)"
+    }
+   ]
+  }
+ ]
+}

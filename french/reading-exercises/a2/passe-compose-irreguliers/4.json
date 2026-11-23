@@ -1,0 +1,107 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 4: Sofia's birthday)",
+  "uk": "Passé composé неправильних дієслів (набір 4: день народження Софії)"
+ },
+ "sounds": [
+  "a reçu",
+  "a ouvert",
+  "ont offert",
+  "a mis",
+  "avons ri",
+  "a fait"
+ ],
+ "focus": {
+  "en": "The forms in red are avoir + an irregular past participle. Learn them by their endings: -u (eu, bu, lu, vu, pu, voulu, dû, su, reçu, connu, vécu), -is (pris, mis, appris, compris), -it (dit, écrit, fait, conduit), -ert (ouvert, offert). With avoir there's no agreement with the subject: « elle a pris ». The final consonant of pris, mis, dit, fait is silent: [pʁi], [mi], [di], [fɛ]. Ouvrir and offrir have participles in -ert: ouvert [uvɛʁ], offert [ɔfɛʁ], with the t silent. « Reçu » keeps the cedilla so the c sounds [s].",
+  "uk": "Червоним позначено avoir + неправильний дієприкметник. Учіть їх за закінченнями: -u (eu, bu, lu, vu, pu, voulu, dû, su, reçu, connu, vécu), -is (pris, mis, appris, compris), -it (dit, écrit, fait, conduit), -ert (ouvert, offert). З avoir узгодження з підметом немає: « elle a pris ». Кінцевий приголосний у pris, mis, dit, fait німий: [pʁi], [mi], [di], [fɛ]. Ouvrir і offrir мають дієприкметники на -ert: ouvert [uvɛʁ], offert [ɔfɛʁ], t німе. « Reçu » зберігає седиль, щоб c звучало [s]."
+ },
+ "sentences": [
+  {
+   "fr": "Samedi, ma sœur Sofia [a fait] une fête pour ses trente ans.",
+   "uk": "У суботу моя сестра Софія влаштувала вечірку на своє тридцятиріччя.",
+   "en": "On Saturday, my sister Sofia had a party for her thirtieth birthday."
+  },
+  {
+   "fr": "Elle [a mis] une belle robe rouge.",
+   "uk": "Вона вдягла гарну червону сукню.",
+   "en": "She put on a beautiful red dress."
+  },
+  {
+   "fr": "Elle [a reçu] beaucoup de cadeaux.",
+   "uk": "Вона отримала багато подарунків.",
+   "en": "She received a lot of gifts."
+  },
+  {
+   "fr": "Ses collègues lui [ont offert] un foulard en laine.",
+   "uk": "Колеги подарували їй вовняний шарф.",
+   "en": "Her colleagues gave her a wool scarf."
+  },
+  {
+   "fr": "Moi, je lui [ai offert] un livre de recettes québécoises.",
+   "uk": "А я подарувала їй книжку квебекських рецептів.",
+   "en": "As for me, I gave her a book of Québec recipes."
+  },
+  {
+   "fr": "Elle [a ouvert] le dernier cadeau: un billet pour un spectacle au Centre Bell!",
+   "uk": "Вона відкрила останній подарунок: квиток на шоу в Бел-центрі!",
+   "en": "She opened the last gift: a ticket for a show at the Bell Centre!"
+  },
+  {
+   "fr": "Elle n'[a] pas [cru] ses yeux.",
+   "uk": "Вона не повірила своїм очам.",
+   "en": "She couldn't believe her eyes."
+  },
+  {
+   "fr": "Nous [avons] beaucoup [ri] et nous avons bien mangé.",
+   "uk": "Ми багато сміялися й добре поїли.",
+   "en": "We laughed a lot and ate well."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la fête",
+   "en": "party",
+   "uk": "свято, вечірка"
+  },
+  {
+   "fr": "ses trente ans",
+   "en": "her thirtieth birthday",
+   "uk": "її тридцятиріччя"
+  },
+  {
+   "fr": "la robe",
+   "en": "dress",
+   "uk": "сукня"
+  },
+  {
+   "fr": "le cadeau",
+   "en": "gift",
+   "uk": "подарунок"
+  },
+  {
+   "fr": "le foulard en laine",
+   "en": "wool scarf (Québec; France: l'écharpe)",
+   "uk": "вовняний шарф (у Квебеку; у Франції: l'écharpe)"
+  },
+  {
+   "fr": "la recette",
+   "en": "recipe",
+   "uk": "рецепт"
+  },
+  {
+   "fr": "le billet",
+   "en": "ticket",
+   "uk": "квиток"
+  },
+  {
+   "fr": "le spectacle",
+   "en": "show",
+   "uk": "шоу, вистава"
+  },
+  {
+   "fr": "ne pas croire ses yeux",
+   "en": "not to believe one's eyes",
+   "uk": "не вірити своїм очам"
+  }
+ ]
+}

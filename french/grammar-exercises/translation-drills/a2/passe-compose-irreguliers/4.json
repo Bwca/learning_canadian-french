@@ -1,0 +1,116 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 4: dire → dit, écrire → écrit, conduire → conduit)",
+  "uk": "Passé composé неправильних дієслів (набір 4: dire → dit, écrire → écrit, conduire → conduit)"
+ },
+ "exercises": [
+  {
+   "en": "What did he say?",
+   "uk": "Що він сказав?",
+   "fr": "Qu'est-ce qu'il a dit?",
+   "vocab": [
+    {
+     "fr": "dit",
+     "en": "said (past participle of dire)",
+     "uk": "сказав (дієприкметник від dire)"
+    }
+   ]
+  },
+  {
+   "en": "She said yes.",
+   "uk": "Вона сказала «так».",
+   "fr": "Elle a dit oui.",
+   "vocab": []
+  },
+  {
+   "en": "I wrote a letter to my grandmother.",
+   "uk": "Я написав листа бабусі.",
+   "fr": "J'ai écrit une lettre à ma grand-mère.",
+   "vocab": [
+    {
+     "fr": "écrit",
+     "en": "written (past participle of écrire)",
+     "uk": "написав (дієприкметник від écrire)"
+    }
+   ]
+  },
+  {
+   "en": "They (masc.) wrote a song.",
+   "uk": "Вони (чол.) написали пісню.",
+   "fr": "Ils ont écrit une chanson.",
+   "vocab": [
+    {
+     "fr": "la chanson",
+     "en": "song",
+     "uk": "пісня"
+    }
+   ]
+  },
+  {
+   "en": "He drove all night.",
+   "uk": "Він був за кермом цілу ніч.",
+   "fr": "Il a conduit toute la nuit.",
+   "vocab": [
+    {
+     "fr": "conduit",
+     "en": "driven (past participle of conduire)",
+     "uk": "їхав за кермом (дієприкметник від conduire)"
+    }
+   ]
+  },
+  {
+   "en": "Did you (informal) drive all the way to Toronto?",
+   "uk": "Ти сам їхав за кермом аж до Торонто?",
+   "fr": "Est-ce que tu as conduit jusqu'à Toronto?",
+   "vocab": [
+    {
+     "fr": "jusqu'à",
+     "en": "all the way to, as far as",
+     "uk": "аж до"
+    }
+   ]
+  },
+  {
+   "en": "I translated the text into Ukrainian.",
+   "uk": "Я переклав текст українською.",
+   "fr": "J'ai traduit le texte en ukrainien.",
+   "vocab": [
+    {
+     "fr": "traduit",
+     "en": "translated (past participle of traduire)",
+     "uk": "переклав (дієприкметник від traduire)"
+    }
+   ]
+  },
+  {
+   "en": "You (formal) didn't say your name.",
+   "uk": "Ви не сказали свого імені.",
+   "fr": "Vous n'avez pas dit votre nom.",
+   "vocab": []
+  },
+  {
+   "en": "She wrote me an email.",
+   "uk": "Вона написала мені листа.",
+   "fr": "Elle m'a écrit un courriel.",
+   "vocab": [
+    {
+     "fr": "le courriel",
+     "en": "email (Québec)",
+     "uk": "електронний лист (у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "We said goodbye.",
+   "uk": "Ми попрощалися.",
+   "fr": "Nous avons dit au revoir.",
+   "vocab": [
+    {
+     "fr": "dire au revoir",
+     "en": "to say goodbye",
+     "uk": "прощатися"
+    }
+   ]
+  }
+ ]
+}

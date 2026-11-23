@@ -1,0 +1,127 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 8: weather, falloir, rire, peindre, construire)",
+  "uk": "Passé composé неправильних дієслів (набір 8: погода, falloir, rire, peindre, construire)"
+ },
+ "exercises": [
+  {
+   "en": "It rained all day.",
+   "uk": "Цілий день ішов дощ.",
+   "fr": "Il a plu toute la journée.",
+   "vocab": [
+    {
+     "fr": "plu",
+     "en": "rained (past participle of pleuvoir)",
+     "uk": "ішов дощ (дієприкметник від pleuvoir)"
+    }
+   ]
+  },
+  {
+   "en": "It snowed last night.",
+   "uk": "Учора ввечері йшов сніг.",
+   "fr": "Il a neigé hier soir.",
+   "vocab": [
+    {
+     "fr": "neiger → neigé",
+     "en": "to snow → snowed (regular)",
+     "uk": "іти (про сніг) → ішов (правильне)"
+    }
+   ]
+  },
+  {
+   "en": "We had to wait an hour.",
+   "uk": "Довелося чекати годину.",
+   "fr": "Il a fallu attendre une heure.",
+   "vocab": [
+    {
+     "fr": "il a fallu",
+     "en": "it was necessary, (we) had to (falloir)",
+     "uk": "довелося (falloir)"
+    }
+   ]
+  },
+  {
+   "en": "The children liked the show. (use plaire)",
+   "uk": "Дітям сподобалася вистава. (з plaire)",
+   "fr": "Le spectacle a plu aux enfants.",
+   "vocab": [
+    {
+     "fr": "plaire à → plu",
+     "en": "to please → pleased (same form as pleuvoir!)",
+     "uk": "подобатися → сподобався (та сама форма, що й від pleuvoir!)"
+    }
+   ]
+  },
+  {
+   "en": "We laughed a lot.",
+   "uk": "Ми багато сміялися.",
+   "fr": "Nous avons beaucoup ri.",
+   "vocab": [
+    {
+     "fr": "ri",
+     "en": "laughed (past participle of rire)",
+     "uk": "сміявся (дієприкметник від rire)"
+    }
+   ]
+  },
+  {
+   "en": "She smiled.",
+   "uk": "Вона усміхнулася.",
+   "fr": "Elle a souri.",
+   "vocab": [
+    {
+     "fr": "souri",
+     "en": "smiled (past participle of sourire)",
+     "uk": "усміхнувся (дієприкметник від sourire)"
+    }
+   ]
+  },
+  {
+   "en": "It rained, so we (masc.) stayed at home.",
+   "uk": "Ішов дощ, тож ми (чол.) залишилися вдома.",
+   "fr": "Il a plu, alors nous sommes restés à la maison.",
+   "vocab": [
+    {
+     "fr": "alors",
+     "en": "so",
+     "uk": "тож"
+    }
+   ]
+  },
+  {
+   "en": "I painted my room.",
+   "uk": "Я пофарбував свою кімнату.",
+   "fr": "J'ai peint ma chambre.",
+   "vocab": [
+    {
+     "fr": "peint",
+     "en": "painted (past participle of peindre)",
+     "uk": "пофарбував (дієприкметник від peindre)"
+    }
+   ]
+  },
+  {
+   "en": "They (masc.) built a cottage.",
+   "uk": "Вони (чол.) збудували дачу.",
+   "fr": "Ils ont construit un chalet.",
+   "vocab": [
+    {
+     "fr": "construit",
+     "en": "built (past participle of construire)",
+     "uk": "збудував (дієприкметник від construire)"
+    },
+    {
+     "fr": "le chalet",
+     "en": "cottage, cabin (Québec)",
+     "uk": "дача, будиночок за містом (у Квебеку)"
+    }
+   ]
+  },
+  {
+   "en": "We received good news.",
+   "uk": "Ми отримали добру новину.",
+   "fr": "Nous avons reçu une bonne nouvelle.",
+   "vocab": []
+  }
+ ]
+}

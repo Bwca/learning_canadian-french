@@ -1,0 +1,117 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 2: at the library)",
+  "uk": "Passé composé неправильних дієслів (набір 2: у бібліотеці)"
+ },
+ "sounds": [
+  "ai lu",
+  "a vu",
+  "ai écrit",
+  "a dit",
+  "ai mis",
+  "a voulu"
+ ],
+ "focus": {
+  "en": "The forms in red are avoir + an irregular past participle. Learn them by their endings: -u (eu, bu, lu, vu, pu, voulu, dû, su, reçu, connu, vécu), -is (pris, mis, appris, compris), -it (dit, écrit, fait, conduit), -ert (ouvert, offert). With avoir there's no agreement with the subject: « elle a pris ». The final consonant of pris, mis, dit, fait is silent: [pʁi], [mi], [di], [fɛ]. In « écrit » and « dit » the final t is silent: [ekʁi], [di].",
+  "uk": "Червоним позначено avoir + неправильний дієприкметник. Учіть їх за закінченнями: -u (eu, bu, lu, vu, pu, voulu, dû, su, reçu, connu, vécu), -is (pris, mis, appris, compris), -it (dit, écrit, fait, conduit), -ert (ouvert, offert). З avoir узгодження з підметом немає: « elle a pris ». Кінцевий приголосний у pris, mis, dit, fait німий: [pʁi], [mi], [di], [fɛ]. В « écrit » і « dit » t німе; саме слово звучить [ekʁi], [di]."
+ },
+ "sentences": [
+  {
+   "fr": "Samedi, Olena est allée à la bibliothèque de son quartier.",
+   "uk": "У суботу Олена пішла до бібліотеки свого району.",
+   "en": "On Saturday, Olena went to her neighbourhood library."
+  },
+  {
+   "fr": "Elle [a vu] une affiche: « Club de lecture en français ».",
+   "uk": "Вона побачила оголошення: « Читацький клуб французькою ».",
+   "en": "She saw a poster: \"French reading club\"."
+  },
+  {
+   "fr": "Elle [a voulu] essayer.",
+   "uk": "Вона захотіла спробувати.",
+   "en": "She wanted to give it a try."
+  },
+  {
+   "fr": "La bibliothécaire lui [a dit]: « Bienvenue! Nous lisons un roman de Michel Tremblay. »",
+   "uk": "Бібліотекарка сказала їй: « Ласкаво просимо! Ми читаємо роман Мішеля Трамбле. »",
+   "en": "The librarian told her: \"Welcome! We're reading a novel by Michel Tremblay.\""
+  },
+  {
+   "fr": "Olena [a lu] le premier chapitre à la maison.",
+   "uk": "Олена прочитала перший розділ удома.",
+   "en": "Olena read the first chapter at home."
+  },
+  {
+   "fr": "Elle [a écrit] les mots nouveaux dans un cahier.",
+   "uk": "Вона записала нові слова в зошит.",
+   "en": "She wrote the new words in a notebook."
+  },
+  {
+   "fr": "Elle [a mis] le cahier dans son sac pour la réunion.",
+   "uk": "Вона поклала зошит у сумку на зустріч.",
+   "en": "She put the notebook in her bag for the meeting."
+  },
+  {
+   "fr": "Pendant la réunion, elle [a dit] quelques phrases, et tout le monde [a souri].",
+   "uk": "Під час зустрічі вона сказала кілька речень, і всі усміхнулися.",
+   "en": "During the meeting, she said a few sentences, and everyone smiled."
+  },
+  {
+   "fr": "« J'[ai lu] seulement un chapitre, mais j'[ai] tout [compris]! »",
+   "uk": "« Я прочитала лише один розділ, але все зрозуміла! »",
+   "en": "\"I only read one chapter, but I understood everything!\""
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "la bibliothèque",
+   "en": "library",
+   "uk": "бібліотека"
+  },
+  {
+   "fr": "l'affiche (f.)",
+   "en": "poster, notice",
+   "uk": "оголошення, афіша"
+  },
+  {
+   "fr": "le club de lecture",
+   "en": "reading club",
+   "uk": "читацький клуб"
+  },
+  {
+   "fr": "essayer",
+   "en": "to try",
+   "uk": "пробувати"
+  },
+  {
+   "fr": "la bibliothécaire",
+   "en": "librarian (fem.)",
+   "uk": "бібліотекарка"
+  },
+  {
+   "fr": "le roman",
+   "en": "novel",
+   "uk": "роман"
+  },
+  {
+   "fr": "le chapitre",
+   "en": "chapter",
+   "uk": "розділ"
+  },
+  {
+   "fr": "le cahier",
+   "en": "notebook",
+   "uk": "зошит"
+  },
+  {
+   "fr": "la réunion",
+   "en": "meeting",
+   "uk": "зустріч"
+  },
+  {
+   "fr": "tout le monde",
+   "en": "everyone",
+   "uk": "усі"
+  }
+ ]
+}

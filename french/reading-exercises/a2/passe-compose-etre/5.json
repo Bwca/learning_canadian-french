@@ -1,0 +1,102 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 5: a busy day — reflexive verbs)",
+  "uk": "Passé composé з être (набір 5: насичений день — зворотні дієслова)"
+ },
+ "sounds": [
+  "me suis réveillée",
+  "me suis levée",
+  "me suis habillée",
+  "s'est dépêché",
+  "nous sommes promenés",
+  "me suis couchée"
+ ],
+ "focus": {
+  "en": "Reflexive verbs always take être in the passé composé: je me suis levée, il s'est dépêché, nous nous sommes promenés. The reflexive pronoun stays before the auxiliary, and the participle agrees with the subject. The narrator is a woman, so « je me suis levée ».",
+  "uk": "Зворотні дієслова в passé composé завжди мають être: je me suis levée, il s'est dépêché, nous nous sommes promenés. Зворотний займенник стоїть перед допоміжним дієсловом, а дієприкметник узгоджується з підметом. Оповідачка — жінка, тож « je me suis levée »."
+ },
+ "sentences": [
+  {
+   "fr": "Hier, je [me suis réveillée] à six heures.",
+   "uk": "Учора я прокинулася о шостій.",
+   "en": "Yesterday, I woke up at six o'clock."
+  },
+  {
+   "fr": "Je [me suis levée] tout de suite et je [me suis douchée].",
+   "uk": "Я одразу встала й прийняла душ.",
+   "en": "I got up right away and took a shower."
+  },
+  {
+   "fr": "Je [me suis habillée] chaudement, parce qu'il faisait moins vingt.",
+   "uk": "Я тепло вдяглася, бо було мінус двадцять.",
+   "en": "I dressed warmly, because it was minus twenty."
+  },
+  {
+   "fr": "Mon mari [s'est réveillé] en retard et il [s'est dépêché].",
+   "uk": "Мій чоловік прокинувся пізно й поспішав.",
+   "en": "My husband woke up late and he hurried."
+  },
+  {
+   "fr": "Les enfants [se sont préparés] pour l'école sans problème.",
+   "uk": "Діти без проблем зібралися до школи.",
+   "en": "The children got ready for school with no problem."
+  },
+  {
+   "fr": "Le soir, nous [nous sommes promenés] dans le quartier.",
+   "uk": "Увечері ми погуляли кварталом.",
+   "en": "In the evening, we went for a walk in the neighbourhood."
+  },
+  {
+   "fr": "Les enfants [se sont amusés] dans la neige.",
+   "uk": "Діти бавилися в снігу.",
+   "en": "The children had fun in the snow."
+  },
+  {
+   "fr": "Je [me suis couchée] à dix heures et je [me suis endormie] tout de suite.",
+   "uk": "Я лягла о десятій і одразу заснула.",
+   "en": "I went to bed at ten and fell asleep right away."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "tout de suite",
+   "en": "right away",
+   "uk": "одразу"
+  },
+  {
+   "fr": "se doucher",
+   "en": "to take a shower",
+   "uk": "приймати душ"
+  },
+  {
+   "fr": "chaudement",
+   "en": "warmly",
+   "uk": "тепло"
+  },
+  {
+   "fr": "il faisait moins vingt",
+   "en": "it was minus twenty",
+   "uk": "було мінус двадцять"
+  },
+  {
+   "fr": "en retard",
+   "en": "late",
+   "uk": "пізно, із запізненням"
+  },
+  {
+   "fr": "se dépêcher",
+   "en": "to hurry",
+   "uk": "поспішати"
+  },
+  {
+   "fr": "le quartier",
+   "en": "neighbourhood",
+   "uk": "квартал, район"
+  },
+  {
+   "fr": "s'endormir",
+   "en": "to fall asleep",
+   "uk": "засинати"
+  }
+ ]
+}

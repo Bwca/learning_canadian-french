@@ -1,0 +1,102 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 1: my Saturday in Montréal)",
+  "uk": "Passé composé з être (набір 1: моя субота в Монреалі)"
+ },
+ "sounds": [
+  "suis sortie",
+  "suis allée",
+  "suis arrivée",
+  "suis restée",
+  "suis rentrée",
+  "est venue"
+ ],
+ "focus": {
+  "en": "The forms in red are the passé composé with être: être + past participle, and the participle agrees with the subject like an adjective — allé, allée, allés, allées. Allé, allée and allés all sound the same: [ale]. Listen for the liaison: « elle est‿allée » [ɛlɛtale], « ils sont‿arrivés » [ilsɔ̃taʁive], « nous sommes‿allés » [z]. The narrator is a woman, so every participle after « je suis » takes -e — you can't hear it, but you write it.",
+  "uk": "Червоним позначено passé composé з être: être + дієприкметник, який узгоджується з підметом, як прикметник — allé, allée, allés, allées. Allé, allée й allés звучать однаково: [ale]. Слухайте зв'язування: « elle est‿allée » [ɛlɛtale], « ils sont‿arrivés » [ilsɔ̃taʁive], « nous sommes‿allés » [z]. Оповідачка — жінка, тож кожен дієприкметник після « je suis » отримує -e — його не чути, але його пишуть."
+ },
+ "sentences": [
+  {
+   "fr": "Samedi passé, je [suis sortie] tôt de mon appartement.",
+   "uk": "Минулої суботи я рано вийшла з квартири.",
+   "en": "Last Saturday, I left my apartment early."
+  },
+  {
+   "fr": "Je [suis allée] au marché Jean-Talon en autobus.",
+   "uk": "Я поїхала на ринок Жан-Талон автобусом.",
+   "en": "I went to the Jean-Talon market by bus."
+  },
+  {
+   "fr": "Je [suis arrivée] à neuf heures, et il y avait déjà beaucoup de monde.",
+   "uk": "Я приїхала о дев'ятій, і там уже було багато людей.",
+   "en": "I arrived at nine o'clock, and there were already a lot of people."
+  },
+  {
+   "fr": "Mon amie Julie [est venue] avec moi.",
+   "uk": "Моя подруга Жулі прийшла зі мною.",
+   "en": "My friend Julie came with me."
+  },
+  {
+   "fr": "Nous [sommes restées] deux heures au marché.",
+   "uk": "Ми пробули на ринку дві години.",
+   "en": "We stayed at the market for two hours."
+  },
+  {
+   "fr": "Après, nous [sommes montées] sur le mont Royal.",
+   "uk": "Потім ми піднялися на гору Мон-Руаяль.",
+   "en": "Afterwards, we went up Mount Royal."
+  },
+  {
+   "fr": "Julie [est partie] vers quatre heures.",
+   "uk": "Жулі пішла близько четвертої.",
+   "en": "Julie left around four o'clock."
+  },
+  {
+   "fr": "Moi, je [suis rentrée] à pied et je [suis tombée] dans l'escalier!",
+   "uk": "А я повернулася додому пішки й упала на сходах!",
+   "en": "As for me, I walked home and I fell on the stairs!"
+  },
+  {
+   "fr": "Heureusement, je ne [suis] pas [allée] à l'hôpital.",
+   "uk": "На щастя, до лікарні я не потрапила.",
+   "en": "Luckily, I didn't go to the hospital."
+  }
+ ],
+ "vocab": [
+  {
+   "fr": "le marché",
+   "en": "market",
+   "uk": "ринок"
+  },
+  {
+   "fr": "il y avait",
+   "en": "there was / there were",
+   "uk": "було, були"
+  },
+  {
+   "fr": "beaucoup de monde",
+   "en": "a lot of people",
+   "uk": "багато людей"
+  },
+  {
+   "fr": "le mont Royal",
+   "en": "Mount Royal (the hill in the middle of Montréal)",
+   "uk": "Мон-Руаяль (гора посеред Монреаля)"
+  },
+  {
+   "fr": "rentrer à pied",
+   "en": "to walk home",
+   "uk": "повертатися додому пішки"
+  },
+  {
+   "fr": "l'escalier (m.)",
+   "en": "stairs",
+   "uk": "сходи"
+  },
+  {
+   "fr": "heureusement",
+   "en": "luckily",
+   "uk": "на щастя"
+  }
+ ]
+}

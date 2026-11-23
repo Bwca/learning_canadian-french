@@ -1,0 +1,121 @@
+{
+ "title": {
+  "en": "Passé composé of irregular verbs (set 2: prendre → pris, mettre → mis)",
+  "uk": "Passé composé неправильних дієслів (набір 2: prendre → pris, mettre → mis)"
+ },
+ "exercises": [
+  {
+   "en": "I took the bus this morning.",
+   "uk": "Сьогодні вранці я поїхав автобусом.",
+   "fr": "J'ai pris l'autobus ce matin.",
+   "vocab": [
+    {
+     "fr": "pris",
+     "en": "taken (past participle of prendre)",
+     "uk": "взяв (дієприкметник від prendre)"
+    },
+    {
+     "fr": "l'autobus (m.)",
+     "en": "bus (Québec; France: le bus)",
+     "uk": "автобус (у Квебеку; у Франції: le bus)"
+    }
+   ]
+  },
+  {
+   "en": "She had a coffee.",
+   "uk": "Вона випила кави.",
+   "fr": "Elle a pris un café.",
+   "vocab": [
+    {
+     "fr": "prendre un café",
+     "en": "to have a coffee",
+     "uk": "випити кави"
+    }
+   ]
+  },
+  {
+   "en": "We learned French in Montréal.",
+   "uk": "Ми вивчили французьку в Монреалі.",
+   "fr": "Nous avons appris le français à Montréal.",
+   "vocab": [
+    {
+     "fr": "appris",
+     "en": "learned (past participle of apprendre)",
+     "uk": "вивчив (дієприкметник від apprendre)"
+    }
+   ]
+  },
+  {
+   "en": "Did you (informal) understand the question?",
+   "uk": "Ти зрозумів питання?",
+   "fr": "Est-ce que tu as compris la question?",
+   "vocab": [
+    {
+     "fr": "compris",
+     "en": "understood (past participle of comprendre)",
+     "uk": "зрозумів (дієприкметник від comprendre)"
+    }
+   ]
+  },
+  {
+   "en": "I didn't understand.",
+   "uk": "Я не зрозуміла.",
+   "fr": "Je n'ai pas compris.",
+   "vocab": []
+  },
+  {
+   "en": "He put his keys on the table.",
+   "uk": "Він поклав ключі на стіл.",
+   "fr": "Il a mis ses clés sur la table.",
+   "vocab": [
+    {
+     "fr": "mis",
+     "en": "put (past participle of mettre)",
+     "uk": "поклав (дієприкметник від mettre)"
+    }
+   ]
+  },
+  {
+   "en": "She put on her coat.",
+   "uk": "Вона вдягла пальто.",
+   "fr": "Elle a mis son manteau.",
+   "vocab": [
+    {
+     "fr": "mettre (un vêtement)",
+     "en": "to put on (clothes)",
+     "uk": "вдягати (одяг)"
+    }
+   ]
+  },
+  {
+   "en": "They (masc.) took the metro.",
+   "uk": "Вони (чол.) поїхали на метро.",
+   "fr": "Ils ont pris le métro.",
+   "vocab": []
+  },
+  {
+   "en": "It took two hours.",
+   "uk": "Це забрало дві години.",
+   "fr": "Ça a pris deux heures.",
+   "vocab": [
+    {
+     "fr": "ça a pris…",
+     "en": "it took… (time)",
+     "uk": "це забрало… (час)"
+    }
+   ]
+  },
+  {
+   "en": "I put the milk in the fridge.",
+   "uk": "Я поставив молоко в холодильник.",
+   "fr": "J'ai mis le lait dans le frigo.",
+   "vocab": [
+    {
+     "fr": "le frigo",
+     "en": "fridge",
+     "uk": "холодильник"
+    }
+   ]
+  }
+ ]
+}

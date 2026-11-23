@@ -1,0 +1,137 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 2: entrer, sortir, rester, rentrer)",
+  "uk": "Passé composé з être (набір 2: entrer, sortir, rester, rentrer)"
+ },
+ "exercises": [
+  {
+   "en": "She went into the store.",
+   "uk": "Вона зайшла в магазин.",
+   "fr": "Elle est entrée dans le magasin.",
+   "vocab": [
+    {
+     "fr": "entrer dans",
+     "en": "to go into",
+     "uk": "заходити в"
+    }
+   ]
+  },
+  {
+   "en": "I (masc.) went out on Friday night.",
+   "uk": "У п'ятницю ввечері я ходив розважатися.",
+   "fr": "Je suis sorti vendredi soir.",
+   "vocab": [
+    {
+     "fr": "sortir",
+     "en": "to go out",
+     "uk": "виходити; ходити розважатися"
+    }
+   ]
+  },
+  {
+   "en": "The cat went out of the house.",
+   "uk": "Кіт вийшов із дому.",
+   "fr": "Le chat est sorti de la maison.",
+   "vocab": [
+    {
+     "fr": "sortir de",
+     "en": "to go out of",
+     "uk": "виходити з"
+    }
+   ]
+  },
+  {
+   "en": "You (informal, masc.) stayed at home all day.",
+   "uk": "Ти цілий день сидів удома.",
+   "fr": "Tu es resté à la maison toute la journée.",
+   "vocab": [
+    {
+     "fr": "rester",
+     "en": "to stay (not « to rest »)",
+     "uk": "залишатися (не « відпочивати »)"
+    },
+    {
+     "fr": "toute la journée",
+     "en": "all day",
+     "uk": "цілий день"
+    }
+   ]
+  },
+  {
+   "en": "My grandmother stayed a week in Gaspé.",
+   "uk": "Моя бабуся пробула тиждень у Гаспе.",
+   "fr": "Ma grand-mère est restée une semaine à Gaspé.",
+   "vocab": []
+  },
+  {
+   "en": "He came home late.",
+   "uk": "Він пізно повернувся додому.",
+   "fr": "Il est rentré tard.",
+   "vocab": [
+    {
+     "fr": "rentrer",
+     "en": "to come/go home",
+     "uk": "повертатися додому"
+    },
+    {
+     "fr": "tard",
+     "en": "late",
+     "uk": "пізно"
+    }
+   ]
+  },
+  {
+   "en": "I (fem.) came home at midnight.",
+   "uk": "Я повернулася додому опівночі.",
+   "fr": "Je suis rentrée à minuit.",
+   "vocab": [
+    {
+     "fr": "minuit",
+     "en": "midnight",
+     "uk": "північ"
+    }
+   ]
+  },
+  {
+   "en": "The teacher (fem.) came into the classroom.",
+   "uk": "Учителька зайшла до класу.",
+   "fr": "La professeure est entrée dans la classe.",
+   "vocab": [
+    {
+     "fr": "la professeure",
+     "en": "teacher (fem.; Québec spelling)",
+     "uk": "учителька (написання, прийняте у Квебеку)"
+    },
+    {
+     "fr": "la classe",
+     "en": "classroom",
+     "uk": "клас (кімната)"
+    }
+   ]
+  },
+  {
+   "en": "Marc stayed in bed.",
+   "uk": "Марк залишився в ліжку.",
+   "fr": "Marc est resté au lit.",
+   "vocab": [
+    {
+     "fr": "au lit",
+     "en": "in bed",
+     "uk": "у ліжку"
+    }
+   ]
+  },
+  {
+   "en": "She went out without her coat.",
+   "uk": "Вона вийшла без пальта.",
+   "fr": "Elle est sortie sans son manteau.",
+   "vocab": [
+    {
+     "fr": "sans",
+     "en": "without",
+     "uk": "без"
+    }
+   ]
+  }
+ ]
+}

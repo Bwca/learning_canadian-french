@@ -1,0 +1,120 @@
+{
+ "title": {
+  "en": "Passé composé with être (set 4: naître, mourir, devenir, revenir)",
+  "uk": "Passé composé з être (набір 4: naître, mourir, devenir, revenir)"
+ },
+ "exercises": [
+  {
+   "en": "I (fem.) was born in Kyiv.",
+   "uk": "Я народилася в Києві.",
+   "fr": "Je suis née à Kyiv.",
+   "vocab": [
+    {
+     "fr": "né / née",
+     "en": "born (past participle of naître)",
+     "uk": "народжений / народжена (дієприкметник від naître)"
+    }
+   ]
+  },
+  {
+   "en": "My brother was born in 2010.",
+   "uk": "Мій брат народився 2010 року.",
+   "fr": "Mon frère est né en 2010.",
+   "vocab": []
+  },
+  {
+   "en": "Where were you (informal, masc.) born?",
+   "uk": "Де ти народився?",
+   "fr": "Où est-ce que tu es né?",
+   "vocab": []
+  },
+  {
+   "en": "His grandfather died last year.",
+   "uk": "Його дідусь помер торік.",
+   "fr": "Son grand-père est mort l'année passée.",
+   "vocab": [
+    {
+     "fr": "mort / morte",
+     "en": "died, dead (past participle of mourir)",
+     "uk": "помер / померла (дієприкметник від mourir)"
+    },
+    {
+     "fr": "l'année passée",
+     "en": "last year (Québec; also l'année dernière)",
+     "uk": "торік (у Квебеку; також l'année dernière)"
+    }
+   ]
+  },
+  {
+   "en": "The singer (fem.) died in 1999.",
+   "uk": "Співачка померла 1999 року.",
+   "fr": "La chanteuse est morte en 1999.",
+   "vocab": [
+    {
+     "fr": "la chanteuse",
+     "en": "singer (fem.)",
+     "uk": "співачка"
+    }
+   ]
+  },
+  {
+   "en": "He became a doctor.",
+   "uk": "Він став лікарем.",
+   "fr": "Il est devenu médecin.",
+   "vocab": [
+    {
+     "fr": "devenu",
+     "en": "become (past participle of devenir)",
+     "uk": "став (дієприкметник від devenir)"
+    },
+    {
+     "fr": "médecin",
+     "en": "doctor (no article after devenir)",
+     "uk": "лікар (після devenir без артикля)"
+    }
+   ]
+  },
+  {
+   "en": "She became famous.",
+   "uk": "Вона стала відомою.",
+   "fr": "Elle est devenue célèbre.",
+   "vocab": [
+    {
+     "fr": "célèbre",
+     "en": "famous",
+     "uk": "відомий"
+    }
+   ]
+  },
+  {
+   "en": "I (masc.) came back from Toronto yesterday.",
+   "uk": "Учора я повернувся з Торонто.",
+   "fr": "Je suis revenu de Toronto hier.",
+   "vocab": [
+    {
+     "fr": "revenu",
+     "en": "come back (past participle of revenir)",
+     "uk": "повернувся (дієприкметник від revenir)"
+    }
+   ]
+  },
+  {
+   "en": "My aunt came back with a gift.",
+   "uk": "Моя тітка повернулася з подарунком.",
+   "fr": "Ma tante est revenue avec un cadeau.",
+   "vocab": [
+    {
+     "fr": "le cadeau",
+     "en": "gift",
+     "uk": "подарунок"
+    }
+   ]
+  },
+  {
+   "en": "You (informal, fem.) became a mom!",
+   "uk": "Ти стала мамою!",
+   "fr": "Tu es devenue maman!",
+   "vocab": []
+  }
+ ]
+}
